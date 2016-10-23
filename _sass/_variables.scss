@@ -4,7 +4,11 @@
 //
 
 // Colors
-$blue: #4183C4;
+$mi-blau: #4952e1;
+$mi-pink: #dd1166;
+$mi-gruen: #00AD2F;
+$mi-lila: #9313ce;
+$mi-black: #231f20;
 
 // Grays
 $black: #000;
@@ -14,10 +18,8 @@ $gray: #666;
 $lightGray: #eee;
 $white: #fff;
 
-// Font stacks
-$helvetica: Helvetica, Arial, sans-serif;
-$helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
-$georgia: Georgia, serif;
+// Font stacks font-family: 'PT Sans', sans-serif;
+$font: 'PT Sans', sans-serif;
 
 // Mobile breakpoints
 @mixin mobile {

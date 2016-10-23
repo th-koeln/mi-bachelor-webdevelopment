@@ -84,3 +84,14 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+collections:
+  modulbeschreibungenbachelor:
+    output: true
+    
+defaults:
+  - scope:
+      path: ""
+      type: modulbeschreibungenbachelor
+    values:
+      layout: modulbeschreibung
