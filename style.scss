@@ -33,27 +33,48 @@ html, button, input, select, textarea,
     font-family: $font;
 }
 
-dl{
-	dt,dd{
-		display: inline-block;
-		color: $gray;
-	}
-	
-	dt::after{
-		content: ": ";
-	}
-	
-	dd{
-		padding-left: $bfs /4;
-	}
-	
-	dd + dt::before{
-		content: "//";
-		margin-left: $bfs;
-		padding-right: $bfs;		
+hr{
+	-moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    border-color: #aaa -moz-use-text-color -moz-use-text-color;
+    border-image: none;
+    border-style: dotted none none;
+    border-width: 1px 0 0;
+    box-sizing: content-box;
+    height: 0;
+}
+    
+    
+    
+    
+/**************/
+/* index     */
+/**************/
+
+.overview{
+	dl{
+		dt,dd{
+			display: inline-block;
+			color: $gray;
+		}
+		
+		dt::after{
+			content: ": ";
+		}
+		
+		dd{
+			padding-left: $bfs /4;
+		}
+		
+		dd + dt::before{
+			content: "//";
+			margin-left: $bfs;
+			padding-right: $bfs;		
+		}
 	}
 }
-
 
 
 
@@ -63,9 +84,13 @@ dl{
 /**************/
 
 .main-header{
-	
+
 	padding-top: $bfs-gross;
-	padding-bottom: $bfs-gross;
+	padding-bottom: $bfs-gross /2;
+
+	border-bottom: dotted 2px $mi-pink;
+	margin-bottom: $bfs;
+	padding-bottom: $bfs;
 	
 	&::after{
     	content: " "; /* 1 */
@@ -98,6 +123,18 @@ dl{
 
 
 /**************/
+/* Footer     */
+/**************/
+
+footer{
+	.main-footer{
+		border-top: dotted 2px $mi-pink;
+		margin-top: $bfs *2;
+		padding-top: $bfs;
+	}
+}
+
+/**************/
 /* Content    */
 /**************/
 
@@ -110,26 +147,90 @@ dl{
     max-width: 1200px;
 }
 
-
-
-section{
-	border-top: dotted 2px $mi-pink;
-	margin-top: $bfs;
+.index + .index{
+	display: block;
+	border-top: dotted 1px $mi-pink;
 	padding-top: $bfs;
+	margin-top: $bfs;
+}
+
+section, article{
+
 	
 	a{
 		text-decoration: none;
 		color: $mi-lila;
 	}
 	
-	h2{
+	h1, h2{
 		font-size: $bfs-gross;
 		margin-bottom: $bfs;
 		font-weight: bold;
 	}
 	
-	article h3{
-		font-size: $bfs-gross;
+	h3{
+		font-size: $bfs-mittel;
+	}
+	
+	.entry{
+		padding-top: $bfs;
+		
+		h2{
+			font-size: $bfs-mittel;
+			margin-bottom: $bfs /2;
+		}
+		
+		p{
+			margin-bottom: $bfs /2;
+		}
+		
+		* + h2{
+			margin-top: $bfs *2;
+		}
+		
+		h3{
+			font-size: $bfs-mittel;
+			font-weight: normal;
+		}
+		
+		ul{
+			margin-bottom: $bfs /2;
+			
+			li{
+				display: block;
+				padding-left: $bfs *2;
+				
+				&::before{
+					content: "-";
+					display: inline-block;
+					margin-left: $bfs * -2;
+					margin-right: $bfs /2;
+				}
+			}
+		}
+	}
+}
+
+.modulbeschreibung{
+	dl{
+		dd{
+			display: inline;
+			margin: 0;
+			
+		}
+		
+		dd:after{
+			display: block;
+			content: '';
+		}
+		
+		dt{
+			display: inline-block;
+			min-width: 20px;
+			padding-right: $bfs /2;
+			font-weight: bold;
+			color: $mi-lila;
+		}
 	}
 }
 
