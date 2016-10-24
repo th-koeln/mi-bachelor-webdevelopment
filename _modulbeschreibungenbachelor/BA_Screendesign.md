@@ -1,16 +1,17 @@
 ---
 title: Screendesign
 modulverantwortlich: Prof. Christian Noss
-modulniveau:
+modulniveau: null
 kuezel: SD
-untertitel:
+untertitel: null
 studiensemester: 2
-kategorie:
+kategorie: null
 sprache: deutsch
-zuordnung-zum-curriculum: Medieninformatik Bachelor 
+zuordnung-zum-curriculum: Medieninformatik Bachelor
 kreditpunkte: 5
 voraussetzungen-nach-pruefungsordnung: keine
 empfohlene-voraussetzungen: Einführung in die Medieninformatik
+published: true
 ---
 
 ## Lehrform/SWS: 
@@ -72,6 +73,3 @@ Beamergestützte Vorträge, Rechnergestützte  Workshops
 - Lidwell, William; Holden, Kristina; Butler, Jill: Design: Die 100 Prinzipien für erfolgreiche Gestaltung
 - Lewandowsky, Pina; Zeischegg, Francis: Visuelles Gestalten mit dem Computer
 - Koschembar, Frank: Grafik für Nicht-Grafiker
-
-
-
