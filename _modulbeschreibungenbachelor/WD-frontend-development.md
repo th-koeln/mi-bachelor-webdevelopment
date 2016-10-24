@@ -1,13 +1,13 @@
 ---
-title: 
-modulverantwortlich: 
+title: Frontend Development
+modulverantwortlich: Prof. Christian Noss
 modulniveau:
-kuezel: 
+kuezel: WD-FD
 untertitel:
-studiensemester: 
+studiensemester: 4
 kategorie:
 sprache: 
-zuordnung-zum-curriculum:  
+zuordnung-zum-curriculum: Medieninformatik Bachelor
 kreditpunkte: 
 voraussetzungen-nach-pruefungsordnung: 
 empfohlene-voraussetzungen: 
