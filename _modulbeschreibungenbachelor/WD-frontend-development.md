@@ -1,16 +1,16 @@
 ---
-title: Frontend Development
+title: Web-Frontend Development 
 modulverantwortlich: Prof. Christian Noss
 modulniveau:
-kuezel: WD-FD
+kuezel: WFD
 untertitel:
 studiensemester: 4
 kategorie:
-sprache: 
+sprache: deutsch
 zuordnung-zum-curriculum: Medieninformatik Bachelor
-kreditpunkte: 
-voraussetzungen-nach-pruefungsordnung: 
-empfohlene-voraussetzungen: 
+kreditpunkte: 5
+voraussetzungen-nach-pruefungsordnung: keine
+empfohlene-voraussetzungen: Einführung in die Medieninformatik, Web Architekturen, Algorithmen und Programmierung, Paradigmen der Programmierung, MCI, Screendesign
 ---
 
 ## Lehrform/SWS: 
