@@ -9,7 +9,24 @@ layout: default
 	        <h2>Modulbeschreibungen Bachelor</h2>
         </header>
         
-		{% for modulbeschreibung in site.modulbeschreibungenbachelor %}
+		{% for modulbeschreibung in site.modulbeschreibungen-bachelor %}
+			<a href="{{site.baseurl}}{{modulbeschreibung.url}}" class="index">
+			<article>
+				<h3>{{modulbeschreibung.title}}</h3>
+				<dl>
+					<dt>letzte Änderung</dt><dd>{{modulbeschreibung.date | date: '%B %d, %Y' }}</dd>
+				</dl>
+			</article>
+			</a>
+		{% endfor %}
+    </section>
+    
+	<section class="pure-u-5-5 overview">        
+        <header>
+	        <h2>Modulbeschreibungen Master</h2>
+        </header>
+        
+		{% for modulbeschreibung in site.modulbeschreibungen-master %}
 			<a href="{{site.baseurl}}{{modulbeschreibung.url}}" class="index">
 			<article>
 				<h3>{{modulbeschreibung.title}}</h3>

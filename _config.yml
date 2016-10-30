@@ -86,12 +86,22 @@ exclude:
   - CNAME
 
 collections:
-  modulbeschreibungenbachelor:
+  modulbeschreibungen-bachelor:
+    output: true
+  modulbeschreibungen-master:
     output: true
     
+    
 defaults:
-  - scope:
+  - 
+    scope:
       path: ""
-      type: modulbeschreibungenbachelor
+      type: modulbeschreibungen-bachelor
+    values:
+      layout: modulbeschreibung
+  - 
+    scope:
+      path: ""
+      type: modulbeschreibungen-master
     values:
       layout: modulbeschreibung

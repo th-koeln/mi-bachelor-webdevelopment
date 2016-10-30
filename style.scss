@@ -76,6 +76,11 @@ hr{
 	}
 }
 
+.overview + .overview{
+	margin-top: $bfs * 2;
+	padding-top: $bfs;
+	border-top: dotted 2px $mi-pink;
+}
 
 
 
