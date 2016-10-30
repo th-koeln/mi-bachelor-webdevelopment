@@ -14,7 +14,7 @@ layout: default
 			<article>
 				<h3>{{modulbeschreibung.title}}</h3>
 				<dl>
-					<dt>letzte Änderung</dt><dd>{{modulbeschreibung.path | file_date | date_to_string }}</dd>
+					<dt>letzte Änderung</dt><dd>{{modulbeschreibung.last_modified_at | date: '%Y:%B:%A:%d:%S:%R' }}</dd>
 				</dl>
 			</article>
 			</a>
