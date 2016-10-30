@@ -13,9 +13,9 @@ layout: default
 			<a href="{{site.baseurl}}{{modulbeschreibung.url}}" class="index">
 			<article>
 				<h3>{{modulbeschreibung.title}}</h3>
-				<dl>
+				<!--dl>
 					<dt>letzte Änderung</dt><dd>{{modulbeschreibung.last_modified_at | date: '%Y:%B:%A:%d:%S:%R' }}</dd>
-				</dl>
+				</dl-->
 			</article>
 			</a>
 		{% endfor %}
@@ -30,9 +30,9 @@ layout: default
 			<a href="{{site.baseurl}}{{modulbeschreibung.url}}" class="index">
 			<article>
 				<h3>{{modulbeschreibung.title}}</h3>
-				<dl>
+				<!--dl>
 					<dt>letzte Änderung</dt><dd>{{modulbeschreibung.path | file_date | date_to_string }}</dd>
-				</dl>
+				</dl-->
 			</article>
 			</a>
 		{% endfor %}
