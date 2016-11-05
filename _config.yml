@@ -90,6 +90,8 @@ collections:
     output: true
   modulbeschreibungen-master:
     output: true
+  selbstbericht:
+    layout: selbstbericht
     
     
 defaults:
@@ -105,3 +107,9 @@ defaults:
       type: modulbeschreibungen-master
     values:
       layout: modulbeschreibung
+  - 
+    scope:
+      path: "selbstbericht"
+      type: selbstbericht
+    values:
+      layout: selbstbericht

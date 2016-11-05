@@ -10,20 +10,10 @@ $mi-gruen: #00AD2F;
 $mi-lila: #9313ce;
 $mi-black: #231f20;
 
-// Grays
-$black: #000;
-$darkerGray: #222;
-$darkGray: #333;
-$gray: #666;
-$lightGray: #eee;
-$white: #fff;
+$family-primary: "PT Sans";
+$primary:  $mi-pink;
+$info:     $mi-lila;
+$success:  $mi-gruen;
 
-// Font stacks font-family: 'PT Sans', sans-serif;
-$font: 'PT Sans', sans-serif;
-
-// Mobile breakpoints
-@mixin mobile {
-  @media screen and (max-width: 640px) {
-    @content;
-  }
-}
+$bfs: 1.2rem;
+$size-normal: $bfs;

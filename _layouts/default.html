@@ -9,33 +9,76 @@
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 	
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
 	<link href="https://fonts.googleapis.com/css?family=PT+Sans" rel="stylesheet">
-	<link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/pure-min.css">
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
   </head>
 
   <body>
-  	
-  	<div id="header" class="pure-g content">
-	    <header class="main-header pure-u-5-5">
-	      <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
-	      <div class="site-info">
-	        <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-	        <p class="site-description">{{ site.description }}</p>
+	  
+	<section class="hero is-primary">
+	  <!-- Hero header: will stick at the top -->
+	  <div class="hero-head">
+	    <header class="nav">
+	      <div class="container">
+	        <div class="nav-left">
+	          <a href="{{ site.baseurl }}/" class="nav-item"><img src="{{ site.avatar }}" /></a>
+	        </div>
+	        <span class="nav-toggle">
+	          <span></span>
+	          <span></span>
+	          <span></span>
+	        </span>
+	        <div class="nav-right nav-menu">
+	          <a href="{{ site.baseurl }}/" class="nav-item">Bachelor</a>
+	          <a href="{{ site.baseurl }}/master/" class="nav-item">Master</a>
+	          <a href="{{ site.baseurl }}/selbstbericht/" class="nav-item">Selbstbericht</a>
+	        </div>
 	      </div>
-		  
 	    </header>
-  	</div>
+	  </div>
+	
+	  <!-- Hero content: will be in the middle -->
+	  <div class="hero-body">
+	    <div class="container">
+	      <h1 class="title">
+	        {{ site.name }}
+	      </h1>
+	      <h2 class="subtitle">
+	        {{ site.description }}
+	      </h2>
+	    </div>
+	  </div>
+	
+	  <!-- Hero footer: will stick at the bottom -->
+	  <!--div class="hero-foot">
+	    <nav class="tabs is-boxed is-fullwidth">
+	      <div class="container">
+	        <ul>
+	          <li class="is-active"><a>Overview</a></li>
+	          <li><a>Modifiers</a></li>
+	          <li><a>Grid</a></li>
+	          <li><a>Elements</a></li>
+	          <li><a>Components</a></li>
+	          <li><a>Layout</a></li>
+	        </ul>
+	      </div>
+	    </nav>
+	  </div-->
+	</section>
   	
 
     {{ content }}
     
-	<footer class="pure-g content">
-		<div class="pure-u-5-5 main-footer">
-			<ul>
-			  <li><a href="https://raw.githubusercontent.com/th-koeln/mi-2017/master/_blueprints/modulbeschreibung.md">Blueprint für Modulbeschreibung</a></li>
+	<footer class="footer">
+		<div class="container">
+			<ul class="menu-list">
+				<li><a href="https://raw.githubusercontent.com/th-koeln/mi-2017/master/_blueprints/modulbeschreibung.md">Blueprint für Modulbeschreibung</a></li>
+				<li><a href="{{ site.baseurl }}/">Bachelor</a></li>
+				<li><a href="{{ site.baseurl }}/master/">Master</a></li>
+				<li><a href="{{ site.baseurl }}/selbstbericht/">Selbstbericht</a></li>
 			</ul>
 		</div>
 	</footer>

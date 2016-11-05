@@ -4,36 +4,18 @@
 //
 // IMPORTS
 //
-
-@import "reset";
 @import "variables";
+@import "bulma";
+//@import "reset";
+
 // Syntax highlighting @import is at the bottom of this file
 
 /**************/
 /* BASE RULES */
 /**************/
 
-$bfs: 1rem;
-$bfs-gross: $bfs * 2;
-$bfs-mittel: $bfs * 1.5;
 
-html {
-  font-size: 100%;
-}
-
-body {
-  background: $white;
-  font: 18px/1.4 $font;
-  color: $darkGray;
-}
-
-html, button, input, select, textarea,
-.pure-g [class *= "pure-u"] {
-    /* Set your content font stack here: */
-    font-family: $font;
-}
-
-hr{
+/*hr{
 	-moz-border-bottom-colors: none;
     -moz-border-left-colors: none;
     -moz-border-right-colors: none;
@@ -44,7 +26,7 @@ hr{
     border-width: 1px 0 0;
     box-sizing: content-box;
     height: 0;
-}
+}*/
     
     
     
@@ -53,91 +35,19 @@ hr{
 /* index     */
 /**************/
 
-.overview{
-	dl{
-		dt,dd{
-			display: inline-block;
-			color: $gray;
-		}
-		
-		dt::after{
-			content: ": ";
-		}
-		
-		dd{
-			padding-left: $bfs /4;
-		}
-		
-		dd + dt::before{
-			content: "//";
-			margin-left: $bfs;
-			padding-right: $bfs;		
-		}
-	}
-}
-
-.overview + .overview{
-	margin-top: $bfs * 2;
-	padding-top: $bfs;
-	border-top: dotted 2px $mi-pink;
-}
-
-
-
-/**************/
-/* Header     */
-/**************/
-
-.main-header{
-
-	padding-top: $bfs-gross;
-	padding-bottom: $bfs-gross /2;
-
-	border-bottom: dotted 2px $mi-pink;
-	margin-bottom: $bfs;
-	padding-bottom: $bfs;
-	
-	&::after{
-    	content: " "; /* 1 */
-		display: block;
-		clear: both;
-		height: 0;
-	}
-	
-	.site-avatar{
-		img{ height: 120px; }
-		float: left;
-		margin-right: $bfs *2;
-		display: block;
-	}	
-	
-	.site-info{
-		float: left;
-	}
-	
-	.site-name, .site-name a{
-		font-size: $bfs * 2.5;
-		font-weight: 700;
-		color: $mi-pink;
-		text-decoration: none;
-		line-height: 100%;
-	}
-	
-	.site-description{
-		font-size: $bfs * 1.8;
-	}
-}
-
 
 /**************/
 /* Footer     */
 /**************/
 
-footer{
-	.main-footer{
-		border-top: dotted 2px $mi-pink;
-		margin-top: $bfs *2;
-		padding-top: $bfs;
+.footer{
+	border-top: solid 1px $mi-pink;
+	
+	.menu-list{
+		a{
+			padding-left: 0;
+			font-size: $bfs * 0.6;
+		}
 	}
 }
 
@@ -145,100 +55,65 @@ footer{
 /* Content    */
 /**************/
 
-
-.content {
-    margin-left: auto;
-    margin-right: auto;
-    padding-left: 1em;
-    padding-right: 1em;
-    max-width: 1200px;
-}
-
-.index + .index{
-	display: block;
-	border-top: dotted 1px $mi-pink;
+.section{
 	padding-top: $bfs;
-	margin-top: $bfs;
 }
 
-section, article{
+.section:nth-of-type(2){
+	padding-top: $bfs *2;
+}
 
-	
-	a{
-		text-decoration: none;
-		color: $mi-lila;
+.content{
+	ul{
+		margin-left: 1em;
 	}
 	
-	h1, h2{
-		font-size: $bfs-gross;
-		margin-bottom: $bfs;
+	dt {
+		display: block;
+		float: left;
+		min-width: 10px;
+		padding: $bfs /4 0;
 		font-weight: bold;
+		color: $info;
 	}
 	
-	h3{
-		font-size: $bfs-mittel;
+	dd{
+		border-bottom: solid 1px $grey-light;
+		padding: $bfs /4 0;
+		
 	}
 	
-	.entry{
-		padding-top: $bfs;
-		
-		h2{
-			font-size: $bfs-mittel;
-			margin-bottom: $bfs /2;
-		}
-		
-		p{
-			margin-bottom: $bfs /2;
-		}
-		
-		* + h2{
-			margin-top: $bfs *2;
-		}
-		
-		h3{
-			font-size: $bfs-mittel;
-			font-weight: normal;
-		}
-		
-		ul{
-			margin-bottom: $bfs /2;
-			
-			li{
-				display: block;
-				padding-left: $bfs *2;
-				
-				&::before{
-					content: "-";
-					display: inline-block;
-					margin-left: $bfs * -2;
-					margin-right: $bfs /2;
-				}
-			}
-		}
+	dt::after{
+		content: ":";
+		display: inline-block;
+		padding-right: $bfs /4;
 	}
 }
 
-.modulbeschreibung{
-	dl{
-		dd{
-			display: inline;
-			margin: 0;
-			
-		}
-		
-		dd:after{
-			display: block;
-			content: '';
-		}
-		
-		dt{
-			display: inline-block;
-			min-width: 20px;
-			padding-right: $bfs /2;
-			font-weight: bold;
-			color: $mi-lila;
-		}
-	}
+#selbstbericht{
+	
+	counter-reset: h1counter;
+    
+    h1{
+	    counter-increment: h1counter;
+	    &:before{ content: counter(h1counter) ".\0000a0"; }
+    }
+    
+    h2{
+		counter-increment: h2counter;
+		counter-reset: h3counter;
+		&:before{ content: counter(h1counter) "." counter(h2counter) ".\0000a0"; }
+    }
+    
+    h3{
+		counter-increment: h3counter;
+		&:before{ content: counter(h1counter) "." counter(h2counter) "." counter(h3counter) ".\0000a0"; }
+    }
+
+}
+
+.toc{
+	border-left: solid 1px $mi-pink;
 }
 
 
