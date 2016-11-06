@@ -39,7 +39,7 @@ Konfidenzintervalle, Fehlertypen, Effektstärken und Power, Multivariate Verfahr
 Übungsaufgaben und schriftliche Modulprüfung
 
 ## Medienformen:
-o	Beamer-gestützte Vorlesungen (Vorlesungschrift mittels tablet) und Übungsaufgaben
+-	Beamer-gestützte Vorlesungen (Vorlesungschrift mittels tablet) und Übungsaufgaben
 
 ## Literatur:
 - Statistik für Human- und Sozialwissenschaftler”; J. Bortz und C. Schuster, Springer, 2010
