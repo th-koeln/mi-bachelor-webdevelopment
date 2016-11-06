@@ -45,5 +45,3 @@ Konfidenzintervalle, Fehlertypen, Effektstärken und Power, Multivariate Verfahr
 - Statistik für Human- und Sozialwissenschaftler”; J. Bortz und C. Schuster, Springer, 2010
 - “Deskriptive Statistik”; R. Kosfeld, H. Eckey, M. Türck; Springer,  2016
 - “Inferenzstatistik verstehen”; M. Janczyk, R. Pfister, Springer, 2013
-
-- 
