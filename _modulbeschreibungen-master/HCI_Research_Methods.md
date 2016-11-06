@@ -43,6 +43,6 @@ schriftliche Modulprüfung
 
 ## Literatur:
 - Bortz, J.; Döring, N.: „Forschungsmethoden und Evaluation für Human- und Sozialwissenschaftler“, Springer Heidelberg, Berlin, 2006
-- Lazar, J. Feng,  J., Hochheiser, H.: “Research Methods in Human-Computer Interaction”, Wiley, 2009
-- May, G.,, Mruck, K.,: “Handbuch Qualitative Forschung in der Psychologie, Springer, 2010
+- Lazar, J. Feng, J., Hochheiser, H.: “Research Methods in Human-Computer Interaction”, Wiley, 2009
+- May, G., Mruck, K.: “Handbuch Qualitative Forschung in der Psychologie, Springer, 2010
 
