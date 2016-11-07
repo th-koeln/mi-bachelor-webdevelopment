@@ -96,6 +96,7 @@
     
     h1{
 	    counter-increment: h1counter;
+	    counter-reset: h2counter; 
 	    &:before{ content: counter(h1counter) ".\0000a0"; }
     }
     
