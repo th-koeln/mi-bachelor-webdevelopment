@@ -8,7 +8,8 @@ layout: default
 	        <h1>Modulbeschreibungen Bachelor</h1>
 
 			<ul>
-			{% for modulbeschreibung in site.modulbeschreibungen-bachelor %}
+			{% assign sorted_pages = (site.modulbeschreibungen-bachelor | sort: 'title') %}
+			{% for modulbeschreibung in sorted_pages %}
 				<li><a href="{{site.baseurl}}{{modulbeschreibung.url}}">{{modulbeschreibung.title}}</li></a>
 			{% endfor %}
 			</ul>

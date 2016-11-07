@@ -10,11 +10,11 @@ sprache: deutsch
 zuordnung-zum-curriculum: Medieninformatik Bachelor - ist Teil des Wahlschwerpunkts Web Development
 kreditpunkte: 5
 voraussetzungen-nach-pruefungsordnung: keine
-empfohlene-voraussetzungen: Module: Einführung in die Medieninformatik, Web Architekturen, Algorithmen und Programmierung, Paradigmen der Programmierung, MCI, Screendesign
+empfohlene-voraussetzungen: Einführung in die Medieninformatik, Web Architekturen, Algorithmen und Programmierung, Paradigmen der Programmierung, MCI, Screendesign
 published: true
 ---
 
-##Kurzbeschreibung
+## Kurzbeschreibung
 Einführungen in Konzepte, Techniken und Arbeitsweisen der Web-Frontend Entwicklung.
 
 ## Lehrform/SWS: 
