@@ -7,7 +7,14 @@ layout: default
 	<div class="container">
 		
 		<div class="content">
-			<h1>{{ page.title }}</h1>
+			
+			<div class="columns">
+				<div class="column is-8"><h1>{{ page.title }}</h1></div>
+				<div class="column is-4 has-text-right">
+					<a target="_blank" href="https://github.com/th-koeln/mi-2017/edit/master/{{ page.path }}"><span class="icon"><i class="fa fa-edit"></i></span> Bearbeiten</a>
+				</div>
+			</div>
+			
 	
 			<dl class="overview">
 				<dt>Modulverantwortlich</dt><dd>{{page.modulverantwortlich}}</dd>
