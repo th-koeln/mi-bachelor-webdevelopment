@@ -90,6 +90,8 @@ collections:
     output: true
   modulbeschreibungen-master:
     output: true
+  modulbeschreibungen-bpo3:
+    output: true
   selbstbericht:
     layout: selbstbericht
     
@@ -99,6 +101,12 @@ defaults:
     scope:
       path: ""
       type: modulbeschreibungen-bachelor
+    values:
+      layout: modulbeschreibung
+  - 
+    scope:
+      path: ""
+      type: modulbeschreibungen-bpo3
     values:
       layout: modulbeschreibung
   - 
