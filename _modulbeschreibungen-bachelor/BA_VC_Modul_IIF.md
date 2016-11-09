@@ -37,7 +37,7 @@ Das Modul Industrie- und Imagefilm zielt nicht unbedingt auf das konkrete Berufs
 
 ## Inhalt:
 Der Industrie- und Imagefilm spielt als Werkzeug der Informationsvermittlung und der Werbung in der Wirtschaft eine große Rolle. Sein Einsatzgebiet sind Messen, Kongresse, Kundengespräche und Internetauftritte.
-In dem WPF werden die Grundlagen des Genres in Vorträgen gelegt und ein Film im Auftrag eines fachhochschulinternen oder auch externen Auftraggebers produziert. Dabei werden Produktionstechnische, Produktionswirtschaftliche, rechtliche und inhaltliche Aspekte reflektiert. In der Umsetzung sind die besonderen Gestaltungsanforderungen des Industrie- und Imagefilms als auch der Einsatz von Computergrafik und 3D-Animation zur Visualisierung gefragt.
+In dem WPF werden die Grundlagen des Genres in Vorträgen gelegt und ein Film im Auftrag eines hochschulinternen oder auch externen Auftraggebers produziert. Dabei werden produktionstechnische, produktionswirtschaftliche, rechtliche und inhaltliche Aspekte reflektiert. In der Umsetzung sind die besonderen Gestaltungsanforderungen des Industrie- und Imagefilms als auch der Einsatz von Computergrafik und 3D-Animation zur Visualisierung gefragt.
 
 ## Studien-/Prüfungsleistungen:
 Projektarbeit und schriftliche Ausarbeitung
