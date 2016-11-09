@@ -33,7 +33,7 @@ Sie haben die Fertigkeit, spezifische Fragestellungen der Umsetzung visueller, c
 
 Unter Entwicklungs- und Methodenkompetenz auf dem Gebiet der Visual Effects ist die Fähigkeit zu verstehen, eigene und für den jeweiligen Anwendungsfall auch eventuell neue Lösungsansätze zu entwickeln, bei denen die unterschiedlichen Methoden der Visual Effects-Ausführung und Bearbeitung zum Einsatz kommen. Nachdem die Planung, Durchführung und die Bearbeitung von Projekten auf dem Gebiet der Film- und TV-Produktion mit visuellen Effekten in der Regel im kleinen Team erfolgt sind gerade die Softskills der Teamkompetenz und der Organisationskompetenz von großer Wichtigkeit in diesem Modul.
 
-Berufsbilder, die von diesem Modul angesprochen werden, sind zum einen in der Visuel-Effects-spezifischen Softwareentwicklung, als auch im Anwendungskontext zu finden: So zum Beispiel in der Planung, Organisation, Durchführung und Verantwortung von VFX-Projekten.
+Berufsbilder, die von diesem Modul angesprochen werden, sind zum einen in der Visual-Effects-spezifischen Softwareentwicklung, als auch im Anwendungskontext zu finden: So zum Beispiel in der Planung, Organisation, Durchführung und Verantwortung von VFX-Projekten.
 
 ## Inhalt:
 In Vorträgen werden die einzelnen Arbeitsschritte einer Visual Effects Produktion vorgestellt, die dann in einem Projekt ihre praktische Umsetzung findet. Von der Idee über das Exposé und das Storyboard, der Kalkulation und dem Produktionsplan über die eigentliche Produktion mit der Videokamera vor Bluescreen bis hin zum finalen Compositing mit verschiedenen Bildbearbeitungsprogrammen wird der gesamte Prozess thematisiert.
