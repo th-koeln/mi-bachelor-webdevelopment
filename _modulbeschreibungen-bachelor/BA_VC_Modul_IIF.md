@@ -49,4 +49,6 @@ Projektarbeit und schriftliche Ausarbeitung
 - Projektarbeit in Teams, um die erlernten Methoden und Techniken einzuüben und zu vertiefen;
 
 ## Literatur:
+- Wolfgang Lanzenberger, Michael Müller, Unternehmensfilme drehen: Business Movies im digitalen Zeitalter, ISBN: 978-386764367
+
 
