@@ -14,7 +14,7 @@ empfohlene-voraussetzungen: Einführung in die Medieninformatik, Web Architektur
 published: true
 ---
 
-##Kurzbeschreibung
+## Kurzbeschreibung
 Auf Basis eines konkreten Briefings wird ein web-basierte Anwendung im Team konzipiert und realisiert. Die Grundlagen und Sichtweisen aus den anderen Modulen dies Schwerpunktes werden dabei angewendet und verknüpft.
 
 ## Lehrform/SWS: 
