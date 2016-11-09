@@ -46,5 +46,4 @@ Projektarbeit und schriftliche Ausarbeitung
 - Beispiele aus verschiedenen Medien in elektronischer Form
 - Projektentwicklungstools
 - Projektarbeit in Teams, um die erlernten Methoden und Techniken einzuüben und zu vertiefen
-- 
 ## Literatur:
