@@ -38,7 +38,7 @@ Pragmatisches Ziel ist es, in den unterschiedlichsten Berufsfeldern digitaler au
 
 
 ## Inhalt:
-Im Mittelpunkt dieses Moduls eine digitale audiovisuelle Medienproduktionen.
+Im Mittelpunkt dieses Moduls steht die digitale audiovisuelle Medienproduktion.
 
 Die Projektarbeit gliedert sich dabei in die selbstständige Entwicklung, Ausarbeitung und Präsentation eines Filmthemas, in die praktische Umsetzung in einem Filmprojekt und in die Nachbearbeitung und Montage in einer dramaturgischen Erzählform.
 
