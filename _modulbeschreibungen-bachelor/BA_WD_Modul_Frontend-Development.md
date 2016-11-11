@@ -52,7 +52,7 @@ Die Studierenden kennen das Zusammenspiel von server- und clientseitigen Kompone
 Schriftliche Prüfung (40%) und Projektarbeit (60%) 
 
 ## Medienformen:
-Beamergestützte Vorträge, Rechnergestützte  Workshops
+Beamergestützte Vorträge, Rechnergestützte Workshops
 
 ## Literatur:
 - Randy Connolly, Ricardo Hoar: Fundamentals of Web Development
