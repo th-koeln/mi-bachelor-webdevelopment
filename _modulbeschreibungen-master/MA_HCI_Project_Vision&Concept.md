@@ -35,7 +35,7 @@ andersgearteten Wert darstellen kann
 Wissens ermitteln und in einem Fachdiskurs darstellen und diskutieren
 - können auf Basis aktuellen Wissens und aktueller Dienste und Technologien ein Konzept für ein Produkt entwickeln, das in einem 
 nachfolgenden Schritt von einem Team von Entwicklern als Prototyp realisiert werden kann.
-- können die Vision in einen Design Mockup umsetzen
+- können die Vision in Conceptual Models und andere Externalisierungen umsetzen
 
 ## Inhalt:
 Das Projekt gliedert sich in zwei Teile:
