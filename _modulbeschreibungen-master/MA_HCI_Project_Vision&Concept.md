@@ -2,7 +2,7 @@
 title: Projektarbeit - Vision und Konzept im Schwerpunkt Human-Computer Interaction
 modulverantwortlich: Gerhard Hartmann
 modulniveau: n/a
-kuezel: WDP-VK
+kuezel: HCI-VK
 untertitel: null
 studiensemester: siehe Studienverlaufsplan
 kategorie: n/a
