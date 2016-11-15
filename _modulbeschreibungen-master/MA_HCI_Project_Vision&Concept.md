@@ -40,7 +40,7 @@ nachfolgenden Schritt von einem Team von Entwicklern als Prototyp realisiert wer
 ## Inhalt:
 Das Projekt gliedert sich in zwei Teile:
 - In der eigentlichen Projektarbeit werden Zielsetzungen formuliert, wird die "Vision" entwickelt und diskutiert, 
-Alleinstellungsmerkmale herausgearbeitet, Alternativen für Nutzungs- und Systemkonzeption evaluiert und ein Konzeptdokument 
+Alleinstellungsmerkmale herausgearbeitet, Alternativen für Nutzungs- und Systemkonzeption diskutiert und ein Konzeptdokument 
 inklusive eines Projektplans erstellt.
 - In dem Teil „Advanced Seminar“ wird die Recherche durchgeführt: es werden Analysetechniken für die Bewertung von kommerziellen 
 Lösungen angewandt. Hierbei kann es sich sowohl um Konkurrenzprodukte handeln als auch um Dienste oder Frameworks, auf die das Produkt 
