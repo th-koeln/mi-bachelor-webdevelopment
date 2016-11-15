@@ -1,42 +1,49 @@
 ---
 title: Photorealistische Computergrafik
-modulverantwortlich: Martin Eisemann
+modulverantwortlich: Prof. Dr.-Ing. Martin Eisemann
 modulniveau: null
-kuezel: null
+kuezel: PCG
 untertitel: null
-studiensemester: null
+studiensemester: 2 (Studienbeginn WS), 1 (Studienbeginn SS)
 kategorie: null
-sprache: null
-zuordnung-zum-curriculum: null
-kreditpunkte: 6
+sprache: wahlweise deutsch oder englisch
+zuordnung-zum-curriculum: Medieninformatik Master
+kreditpunkte: 5
 voraussetzungen-nach-pruefungsordnung: null
-empfohlene-voraussetzungen: null
+empfohlene-voraussetzungen: Computergrafik und Animation
 published: true
 ---
 
 ## Kurzbeschreibung
-Die Studierenden erlernen aktuelle Techniken zur Erzeugung von photorealistischer Computergrafik, wie Sie in Filmen mittels vorhanden Tools wie Blender/Maya/3DS Max verwendet wird. Dabei lernen sie nicht nur die praktische Anwendung sondern vor allem auch die darunterliegenden Algorithmen kennen, um diese zu verstehen, erweitern und sinnvoll anwenden zu können.
+Die Studierenden erlernen aktuelle Techniken zur Erzeugung von photorealistischer Computergrafik, wie Sie in Filmen mittels vorhanden Tools wie Blender/Maya/3DS Max verwendet wird. Dabei lernen sie nicht nur die praktische Anwendung sondern vor allem die darunterliegenden Algorithmen kennen, um diese zu verstehen, erweitern und sinnvoll anwenden zu können.
 
 ## Lehrform/SWS: 
-4 SWS, S/P/V
+4 SWS, Vorlesung (2 SWS), Praktikum / Projekt (2 SWS)
 
 ## Arbeitsaufwand: 
-
+Gesamtaufwand 150h, davon
+- 50h Vorlesung (inkl. Vor-/Nachbearbeitung),
+- 70h Praktikum / Projekt
+- 30h Selbstlernphase
 
 ## Angestrebte Lernergebnisse:
-Die Studierenden verstehen den Bildentstehungsprozess und die physikalischen Wechselwirkungen von Licht und Licht-Materie. Sie kennen Rendering-Equation,  stochastische Methoden (Monte Carlo Raytracing) und Methoden der natürlich basierten Beleuchtung, um diese sinnvoll in einem 3D Modellierungstool anwenden zu können und selbst weiterentwickeln zu können. Sie können dieses Wissen gezielt einsetzen sowohl um in einem praktischen 3D Modellierungstool gezielt eigene Renderings zu entwickeln als auch einen eigenen Renderer zu entwickeln.
+Die Studierenden verstehen den Bildentstehungsprozess und die physikalischen Wechselwirkungen von Licht und Licht-Materie. Sie kennen Rendering-Equation,  stochastische Methoden (Monte Carlo Raytracing) und Methoden der natürlichen Beleuchtung, um diese sinnvoll in einem 3D Modellierungstool anwenden zu können und selbst weiterentwickeln zu können. Sie können dieses Wissen einsetzen, sowohl um in einem praktischen 3D Modellierungstool gezielt eigene Renderings zu entwickeln als auch vor allem einen eigenen Renderer selbst zu entwickeln.
+Innerhalb des Praktikums/Projektes sollen die Studierenden befähigt werden in heterogenen Teams zu arbeiten und die Kommunikation zwischen Designern und Entwickler einzuüben.
 
 ## Inhalt:
-Algorithmen der digitalen Bildverarbeitung, Objekt- und Szenenmodellierung, Material- und Reflektionsomdelle, Licht-Materie-Wechselwirkung, Monte-Carlo Techniken im Bereich der Bildsynthese
+Algorithmen der digitalen Bildverarbeitung, Objekt- und Szenenmodellierung, Material- und Reflexionsomdelle, Licht-Materie-Wechselwirkung, Monte-Carlo Techniken im Bereich der Bildsynthese,  unter anderem: globale Beleuchtung und Lichttransportphänomene, Path Tracing, Photon Mapping, Radiometrie, BRDFs, Radiosity, Monte Carlo Verfahren und Importance Sampling.
 
 ## Studien-/Prüfungsleistungen:
-1 Fachvortrag sowie eine abschließende Projektarbeit samt Dokumentation und Präsentation.
+Klausur oder mündliche Prüfung, sowie Projektpräsentationsprüfung.
+Die erfolgreiche Teilnahme an den Praktikas ist Voraussetzung für die Klausur (90 Minuten) oder mündliche Prüfung
 
 ## Medienformen:
-Vorlesung, Seminar, Projekt und Dokumentation
+- Beamergestützte Vorlesung; 
+- Praktika / Projekt in Kleingruppen, um die erlernten Methoden und Techniken einzuüben und zu vertiefen (Rechnerlabor)
 
 ## Literatur:
-- Peter Shirley: Realistic Ray Tracing, 2. Auflage, AK Peters 2003.
+- Matt Pharr, Greg Humphreys: Physically Based Rendering, 3rd Edition, Morgan Kaufmann 2016.
+- Peter Shirley: Realistic Ray Tracing, 3. Auflage, AK Peters 2003.
+- Peter Shirley: Fundamentals of Computer Graphics, 4. Auflage, AK Peters 2016.
 - Henrik Wann Jensen: Realistic Image Synthesis Using PhotonMapping, AK Peters 2001.
-- Matt Pharr, Greg Humphreys: Physically Based Rendering, Morgan Kaufmann 2004.
 - Philp Dutre, Phillippe Bekaert, Kavita Bala: Advanced Global Illumination, B&T 2003
