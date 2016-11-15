@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+<section class="section">
+	<div class="container">
+	    <h1 class="title is-1">Ideen & Notizen</h1>
+	</div>
+</section>
+
+<!-- {% increment tocindex %} -->
+<section class="section ideen">
+	<div class="container toc unordered">
+		<ul class="menu-list">
+		{% for doc in site.ideen %}
+			<li><a href="#{{doc.id}}">{{doc.title}}</a></li>
+		{% endfor %}
+		</ul>
+	</div>
+</section>
+
+
+<div id="ideen">
+	{% for doc in site.ideen %}
+	<section class="section ideen" id="{{doc.id}}">
+		<div class="container">
+			<div class="content">
+				<h1>{{doc.title}}</h1>
+				{{doc.content}}
+			</div>
+	
+		</div>
+	</section>
+	{% endfor %}
+</div>

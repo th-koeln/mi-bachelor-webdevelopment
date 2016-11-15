@@ -94,6 +94,8 @@ collections:
     output: true
   selbstbericht:
     layout: selbstbericht
+  ideen:
+    layout: ideen
     
     
 defaults:
@@ -121,3 +123,9 @@ defaults:
       type: selbstbericht
     values:
       layout: selbstbericht
+  - 
+    scope:
+      path: "ideen"
+      type: ideen
+    values:
+      layout: ideen
