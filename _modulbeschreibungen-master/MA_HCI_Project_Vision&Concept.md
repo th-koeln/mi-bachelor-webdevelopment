@@ -54,4 +54,4 @@ Projektarbeit
 n/a
 
 ## Literatur:
-
+- "Conceptual Models: Core to Good Design" (Synthesis Lectures on Human-Centered Informatics), Henderson, Johnson, Morgan & Claypool Publishers, 2011
