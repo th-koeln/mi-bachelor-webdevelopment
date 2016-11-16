@@ -31,7 +31,18 @@ Die Studierenden verstehen den Bildentstehungsprozess und die physikalischen Wec
 Innerhalb des Praktikums/Projektes sollen die Studierenden befähigt werden in heterogenen Teams zu arbeiten und die Kommunikation zwischen Designern und Entwickler einzuüben.
 
 ## Inhalt:
-Algorithmen der digitalen Bildverarbeitung, Objekt- und Szenenmodellierung, Material- und Reflexionsomdelle, Licht-Materie-Wechselwirkung, Monte-Carlo Techniken im Bereich der Bildsynthese,  unter anderem: globale Beleuchtung und Lichttransportphänomene, Path Tracing, Photon Mapping, Radiometrie, BRDFs, Radiosity, Monte Carlo Verfahren und Importance Sampling.
+- Objekt- und Szenenmodellierung
+- Material- und Reflexionsomdelle
+- Licht-Materie-Wechselwirkung
+- globale Beleuchtung und Lichttransportphänomene
+- Path Tracing
+- Photon Mapping
+- Radiometrie
+- BRDFs
+- Radiosity
+- Monte Carlo Verfahren
+- Importance Sampling
+- Algorithmen der digitalen Bildverarbeitung zur Filterung von Monte Carlo Simulationen
 
 ## Studien-/Prüfungsleistungen:
 Klausur oder mündliche Prüfung, sowie Projektpräsentationsprüfung.
