@@ -15,7 +15,7 @@ published: true
 ---
 
 ## Kurzbeschreibung
-Die Studierenden erlernen aktuelle Techniken zur Erzeugung von photorealistischer Computergrafik, wie Sie in Filmen mittels vorhanden Tools wie Blender/Maya/3DS Max verwendet wird. Dabei lernen sie nicht nur die praktische Anwendung sondern vor allem die darunterliegenden Algorithmen kennen, um diese zu verstehen, erweitern und sinnvoll anwenden zu können.
+Die Studierenden erlernen aktuelle Techniken zur Erzeugung von photorealistischer Computergrafik, wie Sie in Filmen mittels vorhanden Tools wie Blender/Maya/3DS Max verwendet wird. Dabei liegt der Schwerpunkt nicht auf der praktischen Anwendung sondern vor allem auf den darunterliegenden Algorithmen. Ziel ist es diese zu verstehen, zu erweitern und sinnvoll anwenden zu können.
 
 ## Lehrform/SWS: 
 4 SWS, Vorlesung (2 SWS), Praktikum / Projekt (2 SWS)
