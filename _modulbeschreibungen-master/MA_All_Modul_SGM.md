@@ -1,9 +1,9 @@
 ﻿---
-title: 
+title: Spezielle Gebiete der Mathematik
 modulverantwortlich: Wolfgang Konen, Boris Naujoks
 modulniveau: null
 kuezel: SGM
-untertitel: Spezielle Gebiete der Mathematik
+untertitel: 
 studiensemester: 
 kategorie: null
 sprache: deutsch
