@@ -110,6 +110,17 @@
 		counter-increment: h3counter;
 		&:before{ content: counter(h1counter) "." counter(h2counter) "." counter(h3counter) ".\0000a0"; }
     }
+    
+    h4{
+		counter-increment: h4counter;
+		&:before{ content: counter(h1counter) "." counter(h2counter) "." counter(h3counter) "." counter(h4counter) ".\0000a0"; }
+    }
+    
+    
+    h4, h5, h6{
+	    font-weight: 600;
+    }
+    
 
 }
 
