@@ -12,7 +12,9 @@ Mit dem Bachelor-Studiengang Medieninformatik bietet die Fakultät für Informat
 
 Als Kernfächer der Medieninformatik werden die Module "Einführung in die Medieninformatik", "Mensch-Computer-Interaktion", "Screendesign", "Grundlagen des Web", "Audiovisuelles Medienprojekt" und "Medienrecht, Medien & Gesellschaft" angeboten. Im vierten Semester kann eine von drei Fachvertiefungen gewählt werden. Hier stehen die Module "Visual Computing", "Social Computing" und "Web Development" zur Wahl.
 
-Die Praxisorientierung wird durch eine starke Projektorientierung in allen Praktika des Hauptstudiums erreicht. Die Praktika zu den Modulen Multimedia-Anwendungen und Mensch-Computer Interaktion sind in einem Praktikumsmodul zusammen gefasst, so dass die Studierenden in einem Projekt zwei Perspektiven zu berücksichtigen haben und die Vorgehensmodelle des Software- und Usability-Engineerings in einem Gesamtprozess integrieren sowie unterschiedlichste Methoden und Arbeitstechniken miteinander kombinieren und abstimmen müssen.
+Die Praxisorientierung wird durch Projekte innerhalb der Module und expliziten Projektmodulen erreicht. Der Umfang der Projektanteile wird über die Semester sukzessive erhöht, so dass im Studienverlauf komplexere Projekte mit verschiedenen fachlichen Perspektiven bearbeitet werden können.
+
+Die Studierenden haben die Möglichkeit das Studium, ihren Neigungen entsprechend, zu vertiefen. Dazu gibt es, neben den bereits erwähnten Vertierungs
 
 Im Pflichtteil des Hauptstudiums gibt es zudem ein Praxisseminar, in dem die Studierenden ein praxisnahes Projekt in Unternehmen oder der Hochschule durchführen und in dem begleitenden Praxisseminar eine intensive fachlich/inhaltliche Betreuung durch einen Hochschullehrer erfahren.
 
