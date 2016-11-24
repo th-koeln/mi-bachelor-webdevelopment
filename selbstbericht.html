@@ -8,21 +8,51 @@ layout: default
 	</div>
 </section>
 
-<!-- {% increment tocindex %} -->
 <section class="section selbstbericht">
-	<div class="container toc">
-		<ul class="menu-list">
-		{% for doc in site.selbstbericht %}
-			<li><a href="#{{doc.id}}">{% increment tocindex %}. {{doc.title}}</a></li>
-		{% endfor %}
-		</ul>
+	<div class="container">
+		<h2 class="title is-4">Dokumente für die Reakkreditierung</h2>
+		
+		<div class="toc">
+			<ul class="menu-list">
+			{% for doc in site.selbstbericht %}
+				<li><a href="#{{doc.id}}">{% increment tocindex %}. {{doc.title}}</a></li>
+			{% endfor %}
+			</ul>
+		</div>
 	</div>
 </section>
 
+<section class="section selbstbericht is-old">
+	
+	<div class="container">
+		<h2 class="title is-4">Dokumente aus 2009</h2>
+		<div class="toc">
+			<ul class="menu-list">
+			{% for doc in site.selbstbericht2009 %}
+				<li><a href="#{{doc.id}}">{{doc.title}}</a></li>
+			{% endfor %}
+			</ul>
+		</div>
+	</div>
+</section>
 
 <div id="selbstbericht">
 	{% for doc in site.selbstbericht %}
 	<section class="section selbstbericht" id="{{doc.id}}">
+		<div class="container">
+			<div class="content">
+				<h1>{{doc.title}}</h1>
+				{{doc.content}}
+			</div>
+	
+		</div>
+	</section>
+	{% endfor %}
+</div>
+
+<div id="selbstbericht-old">
+	{% for doc in site.selbstbericht2009 %}
+	<section class="section selbstbericht is-old" id="{{doc.id}}">
 		<div class="container">
 			<div class="content">
 				<h1>{{doc.title}}</h1>

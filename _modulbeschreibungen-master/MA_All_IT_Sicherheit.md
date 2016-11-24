@@ -1,4 +1,4 @@
----
+ï»¿---
 title: IT-Sicherheit 
 modulverantwortlich: Stefan Karsch
 modulniveau: n/a
@@ -24,53 +24,53 @@ Das Modul ...
 180
 
 ## Angestrebte Lernergebnisse:
-Die Studentinnen und Studenten erlernen Fähigkeiten zur Analyse und Formulierung von Schutzzielen in Einsatzszenarien von IT, im Einzelnen
+Die Studentinnen und Studenten erlernen FÃ¤higkeiten zur Analyse und Formulierung von Schutzzielen in Einsatzszenarien von IT, im Einzelnen
 
-- Kenntnis der aktuell in der Praxis eingesetzten kryptographischen Verfahren und ihrer Eigenschaften für die praktische Anwendung sowie Fähigkeit zur
+- Kenntnis der aktuell in der Praxis eingesetzten kryptographischen Verfahren und ihrer Eigenschaften fÃ¼r die praktische Anwendung sowie FÃ¤higkeit zur
 - Auswahl geeigneter Sicherheitsmechanismen, um vorgegebene Sicherheitsziele zu erreichen
-- Fähigkeit zur Analyse von Systemen auf Sicherheitsschwächen und kritisches Hinterfragen von Aussagen zur Sicherheit
-- Kenntnis der Ursachen von Sicherheitsschwächen in TCP/IP-basierten Netzen und Diensten
-- Fähigkeit zu Einsatz und Analyse der Sicherheitsmechanismen in TCP/IP-basierten Netzen
+- FÃ¤higkeit zur Analyse von Systemen auf SicherheitsschwÃ¤chen und kritisches Hinterfragen von Aussagen zur Sicherheit
+- Kenntnis der Ursachen von SicherheitsschwÃ¤chen in TCP/IP-basierten Netzen und Diensten
+- FÃ¤higkeit zu Einsatz und Analyse der Sicherheitsmechanismen in TCP/IP-basierten Netzen
 
-Einüben der Fähigkeit zur Analyse der Sicherheitseigenschaften konkreter Werkzeuge mit Hilfe der im Vorlesungsteil der Veranstaltung vorgestellten Begriffe
+EinÃ¼ben der FÃ¤higkeit zur Analyse der Sicherheitseigenschaften konkreter Werkzeuge mit Hilfe der im Vorlesungsteil der Veranstaltung vorgestellten Begriffe
 
-- Einschätzen der Grenzen von Sicherheitswerkzeugen anhand konkreter Beispiele
-- Vertieftes Verständnis technischer Zusammenhänge in der IT-Sicherheit
-- Einschätzen des Schutzbedarfs anhand konkreter Angriffsmöglichkeiten
-- Schulung der analytischen Fähigkeiten mittels konkreter Einsatzszenarien die Basiskonzepte und Grundlagen der Betriebssysteme und der Rechnerarchitektur kennen und verstehen sowie
-- ein einheitliches konsistentes Begriffsgebäude zu teilweise aus der persönlichen Praxis bekannten Sachverhalten der IT aufbauen
-um (fachpraktische Begründung)
+- EinschÃ¤tzen der Grenzen von Sicherheitswerkzeugen anhand konkreter Beispiele
+- Vertieftes VerstÃ¤ndnis technischer ZusammenhÃ¤nge in der IT-Sicherheit
+- EinschÃ¤tzen des Schutzbedarfs anhand konkreter AngriffsmË†glichkeiten
+- Schulung der analytischen FÃ¤higkeiten mittels konkreter Einsatzszenarien die Basiskonzepte und Grundlagen der Betriebssysteme und der Rechnerarchitektur kennen und verstehen sowie
+- ein einheitliches konsistentes BegriffsgebÃ¤ude zu teilweise aus der persË†nlichen Praxis bekannten Sachverhalten der IT aufbauen
+um (fachpraktische BegrÃ¼ndung)
 
 ## Inhalt:
 Teil I:
 
-- Einführung in die Grundbegriffe der IT-Sicherheit (Was ist Sicherheit?, Schutzziele, Mechanismen, Beispielszenarien)
+- EinfÃ¼hrung in die Grundbegriffe der IT-Sicherheit (Was ist Sicherheit?, Schutzziele, Mechanismen, Beispielszenarien)
 - Einsatz aktueller kryptographischer Verfahren als Mechanismus zur Erreichung von Schutzzielen (symmetrische, asymmetrische Kryptographie, digitale Signaturen, Zertifikate, Angriffe)
 - Aktuelle kryptographische Standards (AES, RSA ,...)
-- Prinzipien und Mechanismen zur Authentisierung (Biometrie, Passwörter, Chipkartensysteme, Single-Sign-On)
-- Sicherheit TCP/IP basierter Netze und Dienste (Schwächen, Angriffe, Beispiele)
+- Prinzipien und Mechanismen zur Authentisierung (Biometrie, PasswË†rter, Chipkartensysteme, Single-Sign-On)
+- Sicherheit TCP/IP basierter Netze und Dienste (SchwÃ¤chen, Angriffe, Beispiele)
 - Firewall-Systeme (Application-Level-Gateways, Paketfilter, Remote-Access)
 
 Teil II: Spezielle Werkzeuge der IT-Sicherheit in der Praxis:
 
 - Sicherheitswerkzeuge,
-- Werkzeuge zur Prüfung der Sicherheit,
+- Werkzeuge zur PrÃ¼fung der Sicherheit,
 - Angriffswerkzeuge und -methoden
 
 Aufgabe der Studierenden:
 - Beschreibung,
-- Test und Vorführung der Funktion,
-- Analyse und Erläuterung der Fähigkeiten und Grenzen im Kontext von Teil I der Veranstaltung,
+- Test und VorfÃ¼hrung der Funktion,
+- Analyse und ErlÃ¤uterung der FÃ¤higkeiten und Grenzen im Kontext von Teil I der Veranstaltung,
 - Darstellung typischer Einsatzszenarien, 
-- Vergleich mit anderen Werkzeugen mit ähnlichen Fähigkeiten oder Eigenschaften 
+- Vergleich mit anderen Werkzeugen mit Ã¤hnlichen FÃ¤higkeiten oder Eigenschaften 
 
 
-## Studien-/PrÃ¼fungsleistungen:
-Teil I und Teil II: Klausur sowie selbstständige Erarbeitung, Vortrag und Ausarbeitung zu einem speziellen Thema aus Teil II
+## Studien-/PrâˆšÂºfungsleistungen:
+Teil I und Teil II: Klausur sowie selbststÃ¤ndige Erarbeitung, Vortrag und Ausarbeitung zu einem speziellen Thema aus Teil II
 
 ## Medienformen:
 Vorlesung (PowerPoint und Beamer)
-Seminar: Vortrag, schriftliche Ausarbeitung, Test und Vorführung von Werkzeugen
+Seminar: Vortrag, schriftliche Ausarbeitung, Test und VorfÃ¼hrung von Werkzeugen
 
 ## Literatur:
 - Skript Kommunikationstechnik
