@@ -1,5 +1,5 @@
 ---
-title: 
+title: Statistik
 modulverantwortlich: Gerhard Hartmann
 modulniveau: null
 kuezel: Stat
