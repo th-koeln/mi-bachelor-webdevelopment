@@ -17,7 +17,16 @@ layout: default
 			
 	
 			<dl class="overview">
+				
+				{% assign check = page.modulverantwortlich | strip_newlines %}
+				{% if check != ""  %}
 				<dt>Modulverantwortlich</dt><dd>{{page.modulverantwortlich}}</dd>
+				{% endif %}
+				
+				{% assign check = page.verantwortlich | strip_newlines %}
+				{% if check != ""  %}
+				<dt>Verantwortlich</dt><dd>{{page.verantwortlich}}</dd>
+				{% endif %}
 				
 				{% assign check = page.modulniveau | strip_newlines %}
 				{% if check != ""  %}
