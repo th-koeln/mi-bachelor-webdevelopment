@@ -71,7 +71,7 @@
 	}
 	
 	h1{ font-size: $bfs * 1.6; font-weight: 500;}
-	h2{ font-size: $bfs * 1.4; font-weight: 500;}
+	h2{ font-size: $bfs * 1.2; font-weight: 500;}
 	h3{ font-size: $bfs * 1.2; font-weight: 500;}
 	h4{ font-size: $bfs; font-weight: 600;}
 	h5{ font-size: $bfs; font-weight: 600;}
@@ -138,6 +138,10 @@
 
 .is-old *{
 	color: $mi-gruen !important;
+}
+
+.is-passive *{
+	color: $mi-lila !important;
 }
 
 
