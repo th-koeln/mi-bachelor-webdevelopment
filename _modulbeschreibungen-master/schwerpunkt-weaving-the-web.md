@@ -12,5 +12,8 @@ Als chakterisierende Merkmale für die Entwicklung von Produkten und Diensten im
 
 - die konsequente Anwendung agiler Vorgehensmodelle sowie die Nutzung des Wissens und des kreativen Potentials von Nutzern durch Community Managenent. 
 
-Der Titel des Studienschwerpunktes, "Weaving the Web" wurde gewählt, da neben dem klassischen Software Engineering vor allem auch die Integration eigener Produkte und Dienste in das Web thematisiert wird.  
+Der Titel des Studienschwerpunktes, "Weaving the Web" wurde gewählt, da neben dem klassischen Software Engineering vor allem auch die Integration eigener Produkte und Dienste in das Web thematisiert wird.
 
+Folgende Module sind im Schwerpunkt verpflichtend: Frontend-/Backendtechnologien, Web Architectures
+
+Darüber hinaus werden folgende Module für den Schwerpunkt angeboten: Quality Mgmt, Logik und sem Modellierung, Computer Ethik, Visualistik
