@@ -34,7 +34,7 @@ Die Studentinnen und Studenten
 ## Inhalt:
 Das Projekt gliedert sich in zwei Teile:
 - In der eigentlichen Projektarbeit wird die Vision entwickelt und diskutiert, Alleinstellungsmerkmale herausgearbeitet, Alternativen für Nutzungskonzept und Architektur evaluiert und ein Konzept inklusive eines Projektplans erstellt.
-In dem Teil „Advanced Seminar“ wird die Recherche durchgeführt: es werden Analysetechniken für die Bewertung von kommerziellen Lösungen angewandt. Hierbei kann es sich sowohl um Konkurrenzprodukte handeln als auch um Dienste oder Frameworks, auf die das Produkt aufbauen könnte.  Als Schwerpunkt dieses Teils werden wissenschaftliche Felder identifiziert, die Input und für das Produkt liefern können, es werden relevante Ergebnisse ermittelt und in einem wissenschaftlichen Seminar diskutiert.
+- In dem Teil „Advanced Seminar“ wird die Recherche durchgeführt: es werden Analysetechniken für die Bewertung von kommerziellen Lösungen angewandt. Hierbei kann es sich sowohl um Konkurrenzprodukte handeln als auch um Dienste oder Frameworks, auf die das Produkt aufbauen könnte.  Als Schwerpunkt dieses Teils werden wissenschaftliche Felder identifiziert, die Input und für das Produkt liefern können, es werden relevante Ergebnisse ermittelt und in einem wissenschaftlichen Seminar diskutiert.
 
 ## Studien-/Prüfungsleistungen:
 Projektarbeit
