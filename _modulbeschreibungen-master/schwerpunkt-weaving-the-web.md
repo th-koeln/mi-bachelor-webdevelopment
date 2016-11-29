@@ -2,13 +2,15 @@
 title: Schwerpunkt - Weaving the Web
 verantwortlich: Kristian Fischer, Christian Noss
 ---
+Im Studienschwerpunkt "Weaving the Web" wird die Entwicklung von Produkten und Diensten im Web in den Mittelpunkt gestellt. Dabei wird der gesamte Lebenszyklus von der Erarbeitung einer Vision, der eigentlichen Software Entwicklung bis hin zu der Verwertung als Produkt und/oder Publikation adressiert. 
 
-Im Studienschwerpunkt "Weaving the Web" wird die Entwicklung von Produkten und Diensten im Web in den Mittelpunkt gestellt. Dabei wird der gesamte Lebenszyklus von der Entwicklung einer Vision, der eigentlichen Entwicklung bis hin zu der Verwertung als Produkt und/oder Publikation adressiert. 
+Als chakterisierende Merkmale für die Entwicklung von Produkten und Diensten im Web sehen wir:
 
-Chakterisierend für die Entwicklung von Produkten und Diensten für das Web ist 
-- die Einbettung in ein Netz von Prozessen und Informationsflüssen, das Dienste, Informationen, Personen und Geräte in dem Web zusammenfasst,
-- der Fokus auf Offenheit, sowohl bei den verwendeten Frameworks und Plattformen als auch Haltung in der Kommunikation im Team und in der Community und
-- die konsequente Anwendung agiler Vorgehensmodelle und die Nutzung des Wissens und des kreativen Potentials von Nutzern durch Community Managenent. 
+- die Einbettung in ein Netz von Prozessen und Informationsflüssen, die Dienste, Informationen, Personen und Geräte im Web zusammenfassen,
+
+- der Fokus auf Offenheit, sowohl bei den verwendeten Technologien, Frameworks und Plattformen als auch die Haltung in der Kommunikation im Team und gegenüber der Community und
+
+- die konsequente Anwendung agiler Vorgehensmodelle sowie die Nutzung des Wissens und des kreativen Potentials von Nutzern durch Community Managenent. 
 
 Der Titel des Studienschwerpunktes, "Weaving the Web" wurde gewählt, da neben dem klassischen Software Engineering vor allem auch die Integration eigener Produkte und Dienste in das Web thematisiert wird.  
 
