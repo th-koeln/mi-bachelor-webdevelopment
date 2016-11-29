@@ -25,7 +25,7 @@ Projektarbeit
 360
 
 ## Angestrebte Lernergebnisse:
-Die Studentinnen und Studenten
+Die Studentinnen und Studenten können
 - basierend auf einem dokumentierten Konzept ein Conceptual Model entwickeln,
 - basierend auf einer umfassenden Nutzungskontext-Analyse adequate Interaktions-Paradigmen, -stile und -modi identifizieren sowie Metaphern 
 aus der Anwendungs-Domäne identifizieren
