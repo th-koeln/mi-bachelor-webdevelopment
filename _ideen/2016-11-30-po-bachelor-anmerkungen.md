@@ -49,3 +49,7 @@ Alternativ könnten wir unsere Schwerpunktmodule auch genauso nennen und die PO 
 > (3) Für die Zulassung zu den Modulprüfungen kann das Bestehen weiterer Modulprüfungen zur Voraussetzung gemacht werden. Zudem können Teilnahmenachweise als Zulassungsvoraussetzungen für Lehrveranstaltungen und Modulprüfungen verlangt werden; Näheres hierzu regelt § 24 in Verbindung mit dem Studienverlaufsplan (Anlage 1).
 >
 > Zum Praxisprojekt gemäß Studienverlaufsplan wird auf Antrag zugelassen, wer alle Modulprü- fungen des Studiums mit Ausnahme des Praxisprojekts selbst sowie der Bachelorarbeit und des Kolloquiums erfolgreich abgelegt und dadurch 150 Leistungspunkte (ohne Praxissemester) bzw. 180 Leistungspunkte (mit Praxissemester) erreicht hat. Über die Zulassung zum Praxispro- jekt entscheidet der Prüfungsausschussvorsitzende.
+
+Da würde ich vorschlagen, die alte Version wieder herzustellen. Das müssten wir mit den anderen Studiengängen noch besprechen, aber ich denke das kommt denen auch entgegen. Hier die alte Version:
+
+> § 17 (3) Zum Praxisprojekt nach § 24 Abs. 2 wird auf Antrag zugelassen, wer das Studium vollständig mit Ausnahme von zwei Modulprüfungen, des Praxisprojekts selbst sowie der Bachelorarbeit und des Kolloquiums bestanden hat. Über die Zulassung zum Praxisprojekt entscheidet der Prüfungsausschuss.
