@@ -29,8 +29,11 @@ Sie sind in der Lage, die Methoden projektgerecht und methodenkompetent anzuwend
 kritisch zu diskutieren.
 
 ## Inhalt:
-- Quantitative Methoden
-- Qualitative Methoden
+- Forschungsdesign und -planung
+- quantitative und qualitative Methoden
+- empirische und analytische Ansätze
+- in-vivo vs in-vitro Rahmenbedinungen bei empirischen Methoden
+- Datenweiterverarbeitung und Ergebnisinterpretation und -präsentation
 
  
 ## Studien-/Prüfungsleistungen:

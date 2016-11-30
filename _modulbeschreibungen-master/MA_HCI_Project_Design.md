@@ -24,7 +24,7 @@ Projektarbeit
 360
 
 ## Angestrebte Lernergebnisse:
-Die Studentinnen und Studenten
+Die Studentinnen und Studenten können
 - basierend auf einem dokumentierten Konzept ein Conceptual Model entwickeln,
 - basierend auf einer umfassenden Nutzungskontext-Analyse adequate Interaktions-Paradigmen, -stile und -modi identifizieren sowie Metaphern 
 aus der Anwendungs-Domäne identifizieren
@@ -53,7 +53,5 @@ n/a
 
 ## Literatur:
 - "Conceptual Models: Core to Good Design," Henderson, Johnson,  Morgan & Claypool Publishers, 2011
-- Metaphor engineering : a participatory approach, G.W.M. Rauterberg, M. Hof, 1995, 
-In: Designing user interfaces for hypermedia / Ed. W. Schuler, J. Hannemann, N.A. Streitz. - Berlin : Springer,
-1995. - ISBN 3-540-58489-7. - p. 58-67
+- Metaphor engineering : a participatory approach, G.W.M. Rauterberg, M. Hof, 1995, In: Designing user interfaces for hypermedia / Ed. W. Schuler, J. Hannemann, N.A. Streitz. - Berlin : Springer, 1995. - ISBN 3-540-58489-7. - p. 58-67
 - Thoughtful Interaction Design, Löwgren & Stolterman, MIT Press, 2004
