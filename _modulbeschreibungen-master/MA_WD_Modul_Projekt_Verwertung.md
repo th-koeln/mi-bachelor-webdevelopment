@@ -15,7 +15,7 @@ published: true
 ---
 
 ## Kurzbeschreibung
-Auf Basis eines bereits ausgearbeiteten Prototypen werden in diesem Modul die Schritte Deployment, Qualitätssicherung, Kontinuierliche Integration und Produktmanagement und –marketing geplant, durchgeführt und kritisch reflektiert.
+Auf Basis eines bereits ausgearbeiteten Prototypen werden in diesem Modul die Schritte Deployment, Qualitätssicherung, Kontinuierliche Integration sowie Produktmanagement und -marketing geplant, durchgeführt und kritisch reflektiert.
 
 ## Lehrform/SWS: 
 Projektarbeit
@@ -28,16 +28,14 @@ Die Studentinnen und Studenten können die Kernfunktionen eines Produktes identi
 
 Die Teilnehmer kennen Deployment Strategien, Konzepte und Techniken der Kontinuierlichen Integration und können diese in einem spezifischen Projektkontext anwenden.
 
-Die Studierenden sind in der Lage eine Produkt Management Strategie für ein Online Produkt zu entwickeln und zu installieren.
-
-Konferenzbeitrag
+Die Studierenden sind in der Lage eine Produkt Management Strategie für ein Online Produkt zu entwickeln und zu implementieren. Alternativ können die Studierenden die gewonnen Erkenntnisse aus dem Produkt in der Community z.B. in Form eines Konferenzbeitrags sichtbar machen und einen wissenschaftlichen Diskurs dazu führen.
 
 ## Inhalt:
 In der eigentlichen Projektarbeit wird ein fertiger, lauffertiger Prototyp evaluiert und in Form eines minimal viable product zugänglich gemacht. Im Rahmen des Moduls wird eine Produktmanagement Strategie entwickelt und das Produkt wird unter Qualitätsmanagement Gesichtspunkten beleuchtet. 
 
 Variante: In der eigentlichen Projektarbeit wird ein fertiger, lauffertiger Prototyp evaluiert und in Form eines minimal viable product zugänglich gemacht. Im Rahmen des Projekts werden Konzepte und Techniken der Kontinuierlichen Integration auf das MVP angewendet.
 
-Zur Unterstützung werden Workshops/Seminare in den Bereichen Produkt Management, Web Deployment und Continuous Integration  angeboten.
+Zur Unterstützung werden Workshops/Seminare in den Bereichen Produkt Management, Web Deployment und Continuous Integration angeboten.
 
 ## Studien-/Prüfungsleistungen:
 Projektarbeit

@@ -15,8 +15,7 @@ published: true
 ---
 
 ## Kurzbeschreibung
-In einem Projekt wird basierend auf einem existierenden Konzept ein Konzeptuelles Modell (Conceptual Model) entwickelt, welches dann in Designlösungen 
-überführt wird.
+In einem Projekt wird basierend auf einem existierenden Konzept ein Konzeptuelles Modell (Conceptual Model) entwickelt, welches dann in Designlösungen überführt wird.
 
 ## Lehrform/SWS: 
 Projektarbeit

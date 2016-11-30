@@ -8,7 +8,7 @@ studiensemester: siehe Studienverlaufsplan
 kategorie: n/a
 sprache: deutsch
 zuordnung-zum-curriculum: siehe Studienverlaufsplan
-kreditpunkte: 12
+kreditpunkte: 6
 voraussetzungen-nach-pruefungsordnung: keine
 empfohlene-voraussetzungen: keine
 published: true
@@ -18,21 +18,21 @@ published: true
 
 
 ## Lehrform/SWS: 
-Vorlesung (1), Semina / Workshop (4)
+Seminar / Workshop (4)
 
 ## Arbeitsaufwand: 
-360 Stunden
+180 Stunden
 
 ## Angestrebte Lernergebnisse:
-Die Studentinnen und Studenten können die Kernfunktionen eines Produktes identifizieren und sind in der Lage einen Prototypen als minimal viable product in den Markt oder die Community zu bringen.
+Die Studierenden sind in der Lage, auf Basis eines dokumentierten Konzepts ein Entwicklungsprojekt zu strukturieren, um selbiges im Team zu entwickeln.
 
-Die Teilnehmer kennen Deployment Strategien, Konzepte und Techniken der Kontinuierlichen Integration und können diese in einem spezifischen Projektkontext anwenden.
+Die Studierenden kennen verschiedene Frameworks, sowie Implementierungskonzepte und -methoden und können, bezogen auf die Projektanforderungen, die geeigneten auswählen, um möglichst effizient und nachhaltig entwickeln zu können.
 
-Die Studierenden sind in der Lage eine Produkt Management Strategie für ein Online Produkt zu entwickeln und zu installieren.
-
-Konferenzbeitrag
+Die Studierenden kennen geeignete Vorgehensmodelle, sowie Qualitätssicherungswerkzeuge, können diese im Projektkontext sinnvoll einsetzen um möglichst nachhaltig entwickeln und dokumentieren zu können.
 
 ## Inhalt:
+- Client-Server Kommunikation und Schnittstellen: REST, Nachrichtenbasierte Kommunikation, Web-Sockets
+- APIs
 - CSS: Komplexe Layouts & Responsivität
 - CSS Frameworks 
 - CSS Pre- und Postprozessoren
@@ -41,6 +41,8 @@ Konferenzbeitrag
 - Advanced CSS: Namingkonventions und Methodologien (BEM, OOCSS, SMACSS)
 - Advanced Javascript: Canvas, JSON
 - Dokumentation & Living Styleguides
+- Testing
+- Kommunikations- und Kollaborationswerkzeuge
 
 ## Studien-/Prüfungsleistungen:
 Projektarbeit

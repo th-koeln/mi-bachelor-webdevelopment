@@ -15,7 +15,7 @@ published: true
 ---
 
 ## Kurzbeschreibung
-In einem Projekt wird eine Idee für ein Produkt oder einen Dienst entwickelt, eine Recherche des Marktes und  Standes des wissenschaftlichen Wissens durchgeführt, und ein Konzept soweit definiert und begründet, dass in einem nachfolgenden Schritt ein Entwickler Team in der Lage ist, einen ersten Prototyp zu realisieren.
+In einem Projekt wird eine Idee für ein Produkt oder einen Dienst entwickelt, eine Recherche des Marktes und Standes des wissenschaftlichen Wissens durchgeführt, und ein Konzept soweit definiert und dokumentiert, dass in einem nachfolgenden Schritt ein Entwicklerteam in der Lage ist, einen ersten Prototyp zu realisieren.
 
 ## Lehrform/SWS: 
 Projektarbeit

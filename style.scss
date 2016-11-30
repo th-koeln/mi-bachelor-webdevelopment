@@ -55,6 +55,11 @@
 /* Content    */
 /**************/
 
+*{
+	word-wrap: normal;
+	hyphens: auto;
+}
+	
 .section{
 	padding-top: $bfs;
 }
@@ -65,14 +70,9 @@
 
 .content{
 	
-	*{
-		word-wrap: normal;
-		 hyphens: auto;
-	}
-	
-	h1{ font-size: $bfs * 1.6; font-weight: 500;}
+	h1{ font-size: $bfs * 1.4; font-weight: 500;}
 	h2{ font-size: $bfs * 1.2; font-weight: 500;}
-	h3{ font-size: $bfs * 1.2; font-weight: 500;}
+	h3{ font-size: $bfs * 1.1; font-weight: 500;}
 	h4{ font-size: $bfs; font-weight: 600;}
 	h5{ font-size: $bfs; font-weight: 600;}
 	h6{ font-size: $bfs; font-weight: 600; }
@@ -144,6 +144,20 @@
 	color: $mi-lila !important;
 }
 
+@media (max-width: 640px) { 
+	html, body{
+		font-size: 80%;
+		
+		.content{
+			h1{ font-size: $bfs * 1.2; font-weight: 500;}
+			h2{ font-size: $bfs * 1.1; font-weight: 500;}
+			h3{ font-size: $bfs * 1.1; font-weight: 500;}
+			h4{ font-size: $bfs; font-weight: 600;}
+			h5{ font-size: $bfs; font-weight: 600;}
+			h6{ font-size: $bfs; font-weight: 600; }
+		}
+	}
+}
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start

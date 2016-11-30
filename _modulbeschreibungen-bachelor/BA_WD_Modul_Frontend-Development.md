@@ -27,11 +27,11 @@ Selbstlernphase: 100 Stunden
 ## Angestrebte Lernergebnisse:
 Die Studierenden kennen wesentliche Konzepte und Technologien des Web-Frontend Developments und können diese anwenden, um eigenständig im Team Web-Frontends zu konzipieren, realisieren und optimieren.
 
-Die Studierenden sind in der Lage ein gegebenes Gestaltungskonzept zu verstehen und zu erweitern, um dies als Web-Frontend umzusetzen.
+Die Studierenden sind in der Lage ein gegebenes Gestaltungs- und Interaktionskonzept zu verstehen, zu reflektieren, zu bewerten und ggf. anzupassen, um dies als Web-Frontend umzusetzen.
 
-Die Studierenden kennen Web-Frontend Frameworks und sind in der Lage diese kritisch zu beurteilen und auf Basis der Anforderungen eines konkreten Projekts das optimale Framework Set zu konfektionieren und die Auswahl zu begründen.
+Die Studierenden kennen Web-Frontend Frameworks und sind in der Lage diese kritisch zu beurteilen und auf Basis der Anforderungen eines konkreten Projekts den optimalen Framework Stack zu konfektionieren und die Auswahl zu begründen.
 
-Die Studierenden kennen das Zusammenspiel von server- und clientseitigen Komponenten im Bereich des Webs und können Web-Frontends konzipieren und realisieren, die mit serverseitigen Komponenten und Diensten möglichst optimal zusammen arbeiten. Sie können außerdem, bezogen auf eine konkrete Aufgabenstellung, abwägen, welche Funktionalitäten clientseitig und welche serverseitig gelöst werden sollten.
+Die Studierenden kennen das Zusammenspiel von server- und clientseitigen Komponenten im Bereich des Webs und können Web-Frontends konzipieren und realisieren, die mit serverseitigen Komponenten und Diensten möglichst optimal zusammen arbeiten. Sie können außerdem, bezogen auf eine konkrete Aufgabenstellung, abwägen, welche Funktionalitäten client- und welche serverseitig gelöst werden sollten.
 
 ## Inhalt:
 - Web Basics: HTML, CSS, Javascript

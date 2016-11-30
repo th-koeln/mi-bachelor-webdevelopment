@@ -25,7 +25,7 @@ Projektarbeit
 
 ## Angestrebte Lernergebnisse:
 Die Studentinnen und Studenten
-- basierend auf einem dokumentierten Konzept einen  minimal viable Prototype“ entwickeln
+- basierend auf einem dokumentierten Konzept einen „minimal viable Prototype“ entwickeln
 - kennen Projektmanagement Techniken und Prozesse und können Sie auf ihr Projekt anwenden
 - kennen Qualitätskriterien für Code, können Code auf dieser Basis analysieren und können die Kriterien in Ihrer Entwicklung erfüllen
 
