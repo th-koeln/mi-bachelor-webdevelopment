@@ -35,7 +35,7 @@ Menschen und technischen Systemen systemisch zu verstehen, zu beschreiben und so
 -	Analyse und Dokumentation menschlichen, situierten Handelns
 -	Entwicklung präskriptiver Handlungsmodelle
 -	Analyse und kritische Einordnung präskriptiver Handlungsmodelle
--	Designtheorie und –methodologie
+-	Konzeptuelles Design
 - Interaktionskonzeption und -gestaltung
 -	Sketching und Prototyping Techniken
 -	Case Studies
