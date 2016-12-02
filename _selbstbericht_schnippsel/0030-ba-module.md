@@ -12,7 +12,7 @@ title: Module des Medieninformatik Bachelor
 ## Semester 2
 - Algorithmen und Programmierung // 7CP
 - Mathematik // 8CP
-- Mensch-Computer Interaktion // 5CP
+- Mensch-Computer Interaktion // 10CP
 - Theoretische Informatik // 5CP
 
 ## Semester 3
