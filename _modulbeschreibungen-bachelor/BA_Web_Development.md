@@ -1,5 +1,5 @@
 ---
-title: Web-Frontend Development 
+title: Web Development 
 modulverantwortlich: Prof. Christian Noss, Prof. Dr. Kristian Fischer
 modulniveau: null
 kuezel: WD
