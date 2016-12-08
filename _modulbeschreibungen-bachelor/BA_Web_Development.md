@@ -26,15 +26,19 @@ Einführungen in Konzepte, Techniken und Arbeitsweisen der Web Entwicklung.
 - Web Development Projekt
 
 ## Arbeitsaufwand: 
+
 ### Web Frontend Entwicklung
 Vorlesung, Seminar: 50 Stunden
 Selbstlernphase: 100 Stunden
+
 ### Serverseitige Frameworks und Dienste
 Vorlesung, Seminar: 50 Stunden
 Selbstlernphase: 100 Stunden
+
 ### Internet of Things
 Vorlesung, Seminar: 50 Stunden
 Selbstlernphase: 100 Stunden
+
 ### Web Development Projekt
 Projekt: 150 Stunden
 
