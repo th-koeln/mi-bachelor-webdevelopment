@@ -132,6 +132,13 @@
 
 }
 
+.modulbeschreibung{
+	h2{
+		border-top: dotted 1px $grey-light;
+		padding-top: $bfs;
+	}
+}
+
 .toc{
 	border-left: solid 1px $mi-pink;
 }
