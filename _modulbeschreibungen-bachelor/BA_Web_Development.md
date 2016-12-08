@@ -67,13 +67,12 @@ Die StudentenInnen sind in der Lage eine komplexe Anwendung im Web über mehrere
 - Javascript: Dynamische Anwendungen
 - Media Types
 - CSS Frameworks 
-- CSS Pre- und Postprozessoren
+- CSS Preprozessoren
 - Javascript Frameworks
 - Performance
 - Advanced CSS: Transisitions 
 - Advanced HTML: Microdata, Internationalisierung, SEO, Barrierefreiheit
 - Advanced Javascript: Canvas, JSON
-- Modularisierung
 
 Es wird ein Überblick gegeben über Tools wie
 - NodeJS
