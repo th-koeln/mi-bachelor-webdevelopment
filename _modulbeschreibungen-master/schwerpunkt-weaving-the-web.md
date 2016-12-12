@@ -2,6 +2,9 @@
 title: Schwerpunkt - Weaving the Web
 verantwortlich: Kristian Fischer, Christian Noss
 ---
+
+## Zielsetzung:
+
 Im Studienschwerpunkt "Weaving the Web" wird die Entwicklung von Produkten und Diensten im Web in den Mittelpunkt gestellt. Dabei wird der gesamte Lebenszyklus von der Erarbeitung einer Vision, der eigentlichen Software Entwicklung bis hin zu der Verwertung als Produkt und/oder Publikation adressiert. 
 
 Als chakterisierende Merkmale für die Entwicklung von Produkten und Diensten im Web sehen wir:
@@ -17,3 +20,28 @@ Der Titel des Studienschwerpunktes, "Weaving the Web" wurde gewählt, da neben d
 Folgende Module sind im Schwerpunkt verpflichtend: Frontend-/Backendtechnologien, Web Architectures
 
 Darüber hinaus werden folgende Module für den Schwerpunkt angeboten: Quality Mgmt, Logik und sem Modellierung, Computer Ethik, Visualistik
+
+
+## Lehrveranstaltungen im Projekt:
+
+### Vision & Konzept:
+Advanced Seminar
+
+### Entwicklung:
+- Frontend & Backend Development?
+- Beautiful Code?
+
+### Verwertung:
+- Deployment, Kontinuierliche Weiterentwicklung
+- Produkt- und Communitymanagement
+
+## Module im Schwerpunkt:
+- Privatsphäre, Vertrauen & Sicherheit im Netz
+- Web-basierte Architekturen
+- Beautiful Code?
+- Logik und semantische Modellierung?
+
+
+
+
+
