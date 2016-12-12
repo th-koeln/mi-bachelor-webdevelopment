@@ -4,12 +4,12 @@ Ziel der Studienrichtung Visual Computing ist es, den Studierenden ein solides F
 
 Die hohe Interdisziplinarität ist ein Innovationsfaktor und bietet Schlüsseltechnologien zur Lösung aktueller Problemstellungen in der Informatik, wie z.B. Virtual Engineering, Visual Analytics, Virtual- und Augmented Reality, Medizintechnik, Robotik, Animation und Bildsynthese. Anwendungen des Visual Computing finden sich in den verschiedensten Bereichen, z.B. in der Unterhaltungsindustrie (Visuelle Effekte, Computerspiele, Filmindustrie, 360° und 3D Videos), der Medizin (medizinische Bildverarbeitung, digitale Operationsplanung), der Automobilindustrie (Fahrerassistenzsysteme), der industriellen Fertigung (visuelle Qualitätskontrolle), der Internettechnologien und Mobilgeräte (Remote Rendering, Multimediale Datenbanken, Augmented Reality Anwendungen) und der digitalen Fotografie.
 
-Um der Interdisziplinarität sowie den unterschiedlichen Ausrichtungen dieses Studienschwerpunktes gerecht zu werden müssen Veranstaltungen im Umfang von 15 CP aus dem folgenden Wahlkatalog belegt werden:
+Um der Interdisziplinarität sowie den unterschiedlichen Ausrichtungen dieses Studienschwerpunktes gerecht zu werden müssen folgende Module im Umfang von 15 CP belegt werden:
 - Storytelling, Narrative Strukturen
 - Bildbasierte Computergrafik
-- Photorealistische Computergrafik
 - Visualistik
-- Computerethik
+
+Desweiteren können drei Module im Umfang von 15 CP belegt werden aus allen Modulen der Informatik Studiengänge gewählt werden, um den Studierenden die Möglichkeit zur individuellen Ausgestaltung ihres Studienganges zu geben.
 
 Zudem müssen folgende drei Projekte belegt werden, die verschiedene Schwerpunkte in diesem heterogenen und schnell veränderlichen Bereich abdecken:
 - Projekt Vision & Konzept im Schwerpunkt Visual Computing
