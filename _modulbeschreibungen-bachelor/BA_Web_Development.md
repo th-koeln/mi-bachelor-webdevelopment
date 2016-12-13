@@ -100,13 +100,14 @@ Ausgewählte Tools sollen tiefgreifend erarbeitet werden und in einem Projektkon
 Zu Begin des Moduls findet eine Einführung durch den Dozenten statt. Danach werden in seminaristischem Unterricht verschiedene aktuelle und relevante Technologie des Internet of Things vermittelt, demonstriert und erprobt (bspw. Raspberry Pi, Arduino, MQTT, Node-Red, Johnny Five). Diese werden in Teams zur Entwicklung eines eigenen IoT-Prototypen eingesetzt. 
 
 Weitere Inhalte sind:
+
 - Physical Computing
 - Prototyping und Retrofitting
 - Hardware (bspw. RaspberryPi und Arduino)
 - Sensoren und Aktoren
 - Frameworks (bspw. NodeRed und Johnny Five)
 - Architekturen und Protokolle (bspw. event-basierte Architekturen und MQTT)
-- Mobile Web und Smartphone Sensors (bspw. GPS, Beacons)
+- Mobile Web und Smartphone Sensoren (bspw. GPS, Beacons)
 
 ## Studien-/Prüfungsleistungen:
 Schriftliche Prüfung (40%) und Projektarbeit (60%) 
