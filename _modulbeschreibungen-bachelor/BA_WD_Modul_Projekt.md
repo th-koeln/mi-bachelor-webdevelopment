@@ -31,7 +31,7 @@ Die Studierenden sind in der Lage ein Projektbriefing zu durchdringen und daraus
 
 Den Teilnehmern steht eine Auswahl an Techniken und Frameworks zur Verfügung, aus dem sie die passenden Ansätze begründet auswählen und anwenden können.
 
-Die StudentenInnen sind in der Lage eine komplexe Anwendung im Web über mehrere Endgeräte hinweg zu planen, zu realisieren und zu dokumentieren. 
+Die StudentenInnen sind in der Lage eine komplexe Anwendung im Web über mehrere Endgeräte hinweg zu planen, zu realisieren und zu dokumentieren...
 
 
 ## Inhalt:
