@@ -2,7 +2,7 @@
 title: Audiovisuelles Medienprojekt 
 modulverantwortlich: Prof. Hans Kornacher
 modulniveau: BA
-kuezel: AVM
+kuerzel: AVM
 untertitel: null
 studiensemester: 3
 kategorie: null
@@ -12,6 +12,7 @@ kreditpunkte: 5
 voraussetzungen-nach-pruefungsordnung: Keine über die Zulassungsbedingungen hinausgehenden Voraussetzungen
 empfohlene-voraussetzungen: keine
 published: true
+type: pm
 ---
 
 ## Kurzbeschreibung

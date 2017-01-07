@@ -2,7 +2,7 @@
 title: Visuelle Effekte und Animation  
 modulverantwortlich: Prof. Hans Kornacher
 modulniveau: BA
-kuezel: VFX
+kuerzel: VFX
 untertitel: null
 studiensemester: 4
 kategorie: null
@@ -12,6 +12,8 @@ kreditpunkte: 5
 voraussetzungen-nach-pruefungsordnung: Keine über die Zulassungsbedingungen hinausgehenden Voraussetzungen
 empfohlene-voraussetzungen: AVM
 published: true
+type: tm
+parent: VC
 ---
 
 ##Kurzbeschreibung

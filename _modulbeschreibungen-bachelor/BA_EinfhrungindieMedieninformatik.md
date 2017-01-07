@@ -1,8 +1,8 @@
 ---
 title: Einführung in die Medieninformatik
-modulverantwortlich: Herr Prof. Dr. Martin Eisemann, Herr Prof. Dr. Kristian Fischer, Herr Prof. Dr. Gerhard Hartmann, Herr Prof. Christian Kohls, Herr Prof. Hans Kornacher, Herr Prof. Christian Noss
+modulverantwortlich: Prof. Dr. Martin Eisemann, Prof. Dr. Kristian Fischer, Prof. Dr. Gerhard Hartmann, Prof. Christian Kohls, Prof. Hans Kornacher, Prof. Christian Noss
 modulniveau:
-kuezel: EMI
+kuerzel: EMI
 untertitel:
 studiensemester: 1
 kategorie:
@@ -12,6 +12,7 @@ kreditpunkte: 5
 voraussetzungen-nach-pruefungsordnung: Keine
 empfohlene-voraussetzungen: 
 published: true
+type: pm
 ---
 
 ## Lehrform/SWS:

@@ -1,8 +1,8 @@
 ---
 title: Mathematik 2
-modulverantwortlich: Herr Prof. Dr. Wolfgang Konen
+modulverantwortlich: Prof. Dr. Wolfgang Konen
 modulniveau:
-kuezel: MA2
+kuerzel: MA2
 untertitel:
 studiensemester: 2
 kategorie:
@@ -12,6 +12,7 @@ kreditpunkte: 8
 voraussetzungen-nach-pruefungsordnung: Vorlesung Mathematik 1
 empfohlene-voraussetzungen: 
 published: true
+type: pm
 ---
 
 ## Lehrform/SWS:

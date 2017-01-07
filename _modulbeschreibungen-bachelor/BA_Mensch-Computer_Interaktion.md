@@ -1,8 +1,8 @@
 ---
 title: Mensch-Computer Interaktion
-modulverantwortlich: Gerhard Hartmann
+modulverantwortlich: Prof. Dr. Gerhard Hartmann
 modulniveau: null
-kuezel: MCI
+kuerzel: MCI
 untertitel: null
 studiensemester: 2
 kategorie: null
@@ -12,6 +12,7 @@ kreditpunkte: 10
 voraussetzungen-nach-pruefungsordnung: keine
 empfohlene-voraussetzungen: 
 published: true
+type: pm
 ---
 
 ## Lehrform/SWS: Vorlesung und Übung

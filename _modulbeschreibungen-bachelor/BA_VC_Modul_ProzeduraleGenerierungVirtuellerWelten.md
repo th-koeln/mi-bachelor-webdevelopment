@@ -2,7 +2,7 @@
 title: Prozedurale Generierung virtueller Welten
 modulverantwortlich: Dipl.-Inform. (FH) Dennis Buderus
 modulniveau: BA
-kuezel: PGVW
+kuerzel: PGVW
 untertitel: null
 studiensemester: 4
 kategorie: null
@@ -12,6 +12,8 @@ kreditpunkte: 5
 voraussetzungen-nach-pruefungsordnung: Keine über die Zulassungsbedingungen hinausgehenden Voraussetzungen
 empfohlene-voraussetzungen: Algorithmen und Programmierung 1 und 2, Computergrafik und Animation
 published: true
+type: tm
+parent: VC
 ---
 
 ## Kurzbeschreibung

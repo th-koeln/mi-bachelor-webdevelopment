@@ -1,8 +1,8 @@
 ---
 title: Einführung in Betriebssysteme und Rechnerarchitektur
-modulverantwortlich: Herr Prof. Dr. Stefan Karsch
+modulverantwortlich: Prof. Dr. Stefan Karsch
 modulniveau:
-kuezel: EBR
+kuerzel: EBR
 untertitel:
 studiensemester: 1
 kategorie:
@@ -12,6 +12,7 @@ kreditpunkte: 5
 voraussetzungen-nach-pruefungsordnung: Erfolgreiche Modulprüfungen in den Modulen des Grundstudiums
 empfohlene-voraussetzungen: 
 published: true
+type: pm
 ---
 
 ## Lehrform/SWS:

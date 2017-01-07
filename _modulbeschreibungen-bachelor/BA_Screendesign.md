@@ -2,9 +2,9 @@
 title: Screendesign
 modulverantwortlich: Prof. Christian Noss
 modulniveau: null
-kuezel: SD
+kuerzel: SD
 untertitel: null
-studiensemester: 2
+studiensemester: 3
 kategorie: null
 sprache: deutsch
 zuordnung-zum-curriculum: Medieninformatik Bachelor
@@ -12,6 +12,7 @@ kreditpunkte: 5
 voraussetzungen-nach-pruefungsordnung: keine
 empfohlene-voraussetzungen: Einführung in die Medieninformatik
 published: true
+type: pm
 ---
 
 ## Lehrform/SWS: 

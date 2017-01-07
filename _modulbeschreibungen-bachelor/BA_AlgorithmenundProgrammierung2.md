@@ -1,8 +1,8 @@
 ---
 title: Algorithmen und Programmierung 2
-modulverantwortlich: Herr Prof. Christian Kohls
+modulverantwortlich: Prof. Christian Kohls
 modulniveau:
-kuezel: AP2
+kuerzel: AP2
 untertitel:
 studiensemester: 2
 kategorie:
@@ -12,6 +12,7 @@ kreditpunkte: 7
 voraussetzungen-nach-pruefungsordnung: Keine über die Zulassungsvorrausetzungen hinausgehenden Vorraussetzungen
 empfohlene-voraussetzungen: 
 published: true
+type: pm
 ---
 
 ## Lehrform/SWS:

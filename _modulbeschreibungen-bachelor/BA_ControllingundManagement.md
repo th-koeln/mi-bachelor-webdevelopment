@@ -1,10 +1,10 @@
 ---
 title: Controlling und Management
-modulverantwortlich: Herr Prof. Dr. Arno Bitzer
+modulverantwortlich: Prof. Dr. Arno Bitzer
 modulniveau:
-kuezel: COM
+kuerzel: COM
 untertitel:
-studiensemester: 
+studiensemester: 5
 kategorie:
 sprache: deutsch
 zuordnung-zum-curriculum: Medieninformatik Bachelor
@@ -12,6 +12,7 @@ kreditpunkte: 5
 voraussetzungen-nach-pruefungsordnung: keine
 empfohlene-voraussetzungen: 
 published: true
+type: pm
 ---
 
 ## Lehrform/SWS:

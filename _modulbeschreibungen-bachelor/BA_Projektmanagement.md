@@ -2,7 +2,7 @@
 title: Projektmanagement
 modulverantwortlich: Prof. Dr. Holger Günther, Prof. Dr. Mario Winter
 modulniveau: Bachelor
-kuezel: PM
+kuerzel: PM
 untertitel: null
 studiensemester: 5
 kategorie: null
@@ -12,6 +12,7 @@ kreditpunkte: 5
 voraussetzungen-nach-pruefungsordnung: Zulassungsbedingung - Abgeschlossenes Grundstudium; Sonst keine besonderen Voraussetzungen;
 empfohlene-voraussetzungen: Es werden keine über die allgemeinen Zulassungsvoraussetzungen hinausgehende fachlichen Voraussetzungen gefordert, jedoch sollten Engagement, Motivation, Toleranz, Bereitschaft zur Teamarbeit mitgebracht werden.
 published: true
+type: pm
 ---
 
 ## Kurzbeschreibung:

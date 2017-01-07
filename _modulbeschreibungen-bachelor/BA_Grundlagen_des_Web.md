@@ -1,8 +1,8 @@
 ---
 title: Grundlagen des Web
-modulverantwortlich: CN / KF
+modulverantwortlich: Prof. Christian Noss, Prof. Dr. Kristian Fischer
 modulniveau: null
-kuezel: GW
+kuerzel: GW
 untertitel: null
 studiensemester: 3
 kategorie: n/a
@@ -12,6 +12,7 @@ kreditpunkte: 5
 voraussetzungen-nach-pruefungsordnung: keine
 empfohlene-voraussetzungen: Einführung in die Medieninformatik, Algorithmen und Programmierung
 published: true
+type: pm
 ---
 
 ## Kurzbeschreibung

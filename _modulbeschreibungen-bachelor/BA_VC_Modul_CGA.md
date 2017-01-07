@@ -2,7 +2,7 @@
 title: Computergrafik und Animation
 modulverantwortlich: Prof. Dr. Martin Eisemann
 modulniveau: BA
-kuezel: CGA
+kuerzel: CGA
 untertitel: null
 studiensemester: 4
 kategorie: null
@@ -12,6 +12,8 @@ kreditpunkte: 5
 voraussetzungen-nach-pruefungsordnung: Keine über die Zulassungsbedingungen hinausgehenden Voraussetzungen
 empfohlene-voraussetzungen: Algorithmen und Programmierung 1 und 2
 published: true
+type: tm
+parent: VC
 ---
 
 ## Kurzbeschreibung

@@ -2,17 +2,103 @@
 layout: default
 ---
 
+{% assign alle_fachsemester = "1,2,3,4,5,6" | split: "," %}
+{% assign cps = 0 %}
+
+{% assign pflichtmodule = (site.modulbeschreibungen-bachelor | where:"type","pm") %}
+{% assign teilmodule = (site.modulbeschreibungen-bachelor | where:"type","tm") %}
+{% assign wahlpflichtmodule = (site.modulbeschreibungen-bachelor | where:"type","wpm") %}
+{% assign schwerpunktmodule = (site.modulbeschreibungen-bachelor | where:"type","spm") %} 
+
+{% assign sorted_teilmodule = (teilmodule | sort: 'title') %}
+
 <section class="section">
 	<div class="container">
 		<div class="content">
 	        <h1>Modulbeschreibungen Bachelor</h1>
-
-			<ul>
-			{% assign sorted_pages = (site.modulbeschreibungen-bachelor | sort: 'title') %}
-			{% for modulbeschreibung in sorted_pages %}
-				<li><a href="{{site.baseurl}}{{modulbeschreibung.url}}">{{modulbeschreibung.title}}</li></a>
-			{% endfor %}
-			</ul>
+			<table class="table">
+				<thead>
+					<tr>
+						<th>Modulname</th>
+						<th>Kürzel</th>
+						<th>Fachsemester</th>
+						<th>CP</th>
+						<th>Modulverantwortlicher</th>
+					</tr>
+				</thead>
+				{% for fachsemester in alle_fachsemester%}
+				
+					<tr class="no-border">
+						<th colspan="5">{{fachsemester}}. Fachsemester </th>
+					</tr>
+					{% assign sorted_pages = (pflichtmodule | where:"studiensemester",fachsemester | sort: 'title') %}
+					{% for modulbeschreibung in sorted_pages %}
+					{% assign cps = cps | plus: modulbeschreibung.kreditpunkte %}
+					<tr>
+						<td>
+							<a href="{{site.baseurl}}{{modulbeschreibung.url}}">{{modulbeschreibung.title}}</a>
+							{% for teilmodulbeschreibung in sorted_teilmodule %}
+								{% if teilmodulbeschreibung.parent == modulbeschreibung.kuerzel %}
+								- <a class="is-small is-less-important" href="{{site.baseurl}}{{teilmodulbeschreibung.url}}">{{teilmodulbeschreibung.title}}</a><br> 
+								{% endif %}
+							{% endfor %}
+						</td>
+						<td>{{modulbeschreibung.kuerzel}}</td>
+						<td>{{fachsemester}}</td>
+						<td>{{modulbeschreibung.kreditpunkte}}</td>
+						{% assign profs = modulbeschreibung.modulverantwortlich | split: "," %}
+						<td>
+							{% for prof in profs %}
+							{{prof}}<br>
+							{% endfor %}
+						</td>
+					</tr>
+					{% endfor %}
+					
+					{% if fachsemester == "4" %}
+					{% assign cps = cps | plus: 20 %}
+					<tr class="no-border">
+						<td>Schwerpunktmodul</td>
+						<td>SPM</td>
+						<td>4</td>
+						<td colspan="2">20</td>
+					</tr>
+					
+					{% assign sorted_pages = (schwerpunktmodule | where:"studiensemester",fachsemester | sort: 'title') %}
+						{% for schwerpunktmodulbeschreibung in sorted_pages %}
+						
+						<tr class="no-border">
+							<td>
+								<a href="{{site.baseurl}}{{schwerpunktmodulbeschreibung.url}}">{{schwerpunktmodulbeschreibung.title}}</a><br>
+								{% for teilmodulbeschreibung in sorted_teilmodule %}
+									{% if teilmodulbeschreibung.parent == schwerpunktmodulbeschreibung.kuerzel %}
+									- <a class="is-small is-less-important" href="{{site.baseurl}}{{teilmodulbeschreibung.url}}">{{teilmodulbeschreibung.title}}</a><br> 
+									{% endif %}
+								{% endfor %}
+							
+							</td>
+							<td>{{schwerpunktmodulbeschreibung.kuerzel}}</td>
+							<td></td>
+							<td></td>
+							{% assign profs = schwerpunktmodulbeschreibung.modulverantwortlich | split: "," %}
+							<td>
+								{% for prof in profs %}
+								{{prof}}<br>
+								{% endfor %}
+							</td>
+						</tr>
+						{% endfor %}
+  					{% endif %}
+					
+					<tr>
+						<td colspan="2">Summe CP<br><br></td>
+						<td colspan="3">{{cps}}</td>
+					</tr>
+					{% assign cps = 0 %}
+	  			{% endfor %}
+  			
+  			</table>
+  			
 		</div>
 	</div>
 </section>

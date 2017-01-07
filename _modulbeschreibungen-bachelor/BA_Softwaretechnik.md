@@ -2,7 +2,7 @@
 title: Softwaretechnik
 modulverantwortlich: Prof. Dr. Mario Winter
 modulniveau: Bachelor
-kuezel: ST1
+kuerzel: ST1
 untertitel: null
 studiensemester: 4
 kategorie: Winter
@@ -12,6 +12,7 @@ kreditpunkte: 5
 voraussetzungen-nach-pruefungsordnung: Keine über die Zulassungsbedingungen hinausgehenden Voraussetzungen
 empfohlene-voraussetzungen: Grundkenntnisse Algorithmen, Datenbanken und objektorientierte Programmierung
 published: true
+type: pm
 ---
 
 ## Kurzbeschreibung:

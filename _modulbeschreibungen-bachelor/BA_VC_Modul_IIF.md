@@ -2,7 +2,7 @@
 title: Industrie- und Imagefilm  
 modulverantwortlich: Prof. Hans Kornacher
 modulniveau: BA
-kuezel: IIF
+kuerzel: IIF
 untertitel: null
 studiensemester: 4
 kategorie: null
@@ -12,6 +12,8 @@ kreditpunkte: 5
 voraussetzungen-nach-pruefungsordnung: Keine über die Zulassungsbedingungen hinausgehenden Voraussetzungen
 empfohlene-voraussetzungen: AVM
 published: true
+type: tm
+parent: VC
 ---
 
 ## Kurzbeschreibung

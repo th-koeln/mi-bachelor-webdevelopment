@@ -2,7 +2,7 @@
 title: Audiovisuelle Medientechnik
 modulverantwortlich: Prof. Hans Kornacher
 modulniveau: BA
-kuezel: AMT
+kuerzel: AMT
 untertitel: null
 studiensemester: 4
 kategorie: null
@@ -12,6 +12,8 @@ kreditpunkte: 5
 voraussetzungen-nach-pruefungsordnung: Keine über die Zulassungsbedingungen hinausgehenden Voraussetzungen
 empfohlene-voraussetzungen: naturwissenschaftliches Grundwissen
 published: true
+type: tm
+parent: VC
 ---
 
 ##Kurzbeschreibung

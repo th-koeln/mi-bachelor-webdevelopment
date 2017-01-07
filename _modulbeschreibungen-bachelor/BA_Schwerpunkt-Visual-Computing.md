@@ -1,8 +1,8 @@
 ---
 title: Visual Computing
-modulverantwortlich: Prof. Hans Kornacher und Prof. Dr.-Ing. Martin Eisemann
+modulverantwortlich: Prof. Hans Kornacher, Prof. Dr.-Ing. Martin Eisemann
 modulniveau: null
-kuezel: VC
+kuerzel: VC
 untertitel: null
 studiensemester: 4
 kategorie: null
@@ -12,6 +12,7 @@ kreditpunkte: 20
 voraussetzungen-nach-pruefungsordnung: keine
 empfohlene-voraussetzungen: Einführung in die Medieninformatik, Algorithmen und Programmierung, Paradigmen der Programmierung, MCI, Screendesign, Audiovisuelles Medienprojekt
 published: true
+type: spm
 ---
 
 ## Kurzbeschreibung

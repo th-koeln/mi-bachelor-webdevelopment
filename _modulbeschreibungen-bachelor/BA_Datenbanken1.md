@@ -1,8 +1,8 @@
 ---
 title: Datenbanken 1
-modulverantwortlich: Frau Prof. Dr. Birgit Bertelsmeier, Frau Prof. Dr. Heide Faeskorn-Woyke
+modulverantwortlich: Prof. Dr. Birgit Bertelsmeier, Prof. Dr. Heide Faeskorn-Woyke
 modulniveau:
-kuezel: DB1
+kuerzel: DB1
 untertitel:
 studiensemester: 3
 kategorie:
@@ -12,6 +12,7 @@ kreditpunkte: 5
 voraussetzungen-nach-pruefungsordnung: Klausurteilnahme nur bei bestandenem DBS1‐Praktikum
 empfohlene-voraussetzungen: 
 published: true
+type: pm
 ---
 
 ## Lehrform/SWS:

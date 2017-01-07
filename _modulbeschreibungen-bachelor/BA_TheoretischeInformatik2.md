@@ -1,10 +1,10 @@
 ---
-title: Theoretische Informatik 1
-modulverantwortlich: Herr Prof. Dr. Martin Eisemann
+title: Theoretische Informatik 2
+modulverantwortlich: Prof. Dr. Martin Eisemann
 modulniveau:
-kuezel: TI1
+kuerzel: TI2
 untertitel:
-studiensemester: 1
+studiensemester: 2
 kategorie:
 sprache: deutsch
 zuordnung-zum-curriculum: Medieninformatik Bachelor
@@ -12,6 +12,7 @@ kreditpunkte: 5
 voraussetzungen-nach-pruefungsordnung: Einfache Kenntnisse der naiven Mengenlehre, wie sie in der Schule vermittelt und bei der mathematischen Begriffsbildung verwendet werden.
 empfohlene-voraussetzungen: Einfache Kenntnisse der naiven Mengenlehre, wie sie in der Schule vermittelt und bei der mathematischen Begriffsbildung verwendet werden.
 published: true
+type: pm
 ---
 
 ## Lehrform/SWS:
@@ -31,7 +32,7 @@ published: true
 - Zum Abschluss muss jede/r Studierende zum erfolgreichen Abschluss des Faches in der Lage sein, entsprechende Problemstellungen selbstständig zu lösen.
 
 ## Inhalt:
-Dieses Grundlagenfach zur Informatik erstreckt sich über zwei Semester(Theoretische Informatik 1 und Theoretische Informatik 2).  
+Dieses Grundlagenfach zur Informatik erstreckt sich über zwei Semester (Theoretische Informatik 1 und Theoretische Informatik 2).  
 
 
 
@@ -42,7 +43,7 @@ Dieses Grundlagenfach zur Informatik erstreckt sich über zwei Semester(Theoreti
 
 - Reguläre (Typ-3) Sprachen: Endliche Automaten, Reguläre Ausdrücke; Typ3-Grammatiken, Syntaxdiagramme; Chomsky-Hierarchie
 
-- Modellierung sequentieller und paralleler (Ausgabe-) Prozesse: Endliche Maschinen, Berechnungen; Automatennetze, Petri-Netze, Zelluläre Automaten
+- Modellierung sequentieller und paralleler (Ausgabe-) Prozesse: Endliche Maschinen, Berechnungen; Automatennetze, Petri-Netze
 
 - Kontextfreie (Typ-2) Sprachen: Kontextfreie Grammatiken, Chomsky- und Greibach-Normalform; Kellerautomaten; Anwendungen (Ableitungs- und Syntaxbäume, Syntax von Programmiersprachen, Backus-Naur-Form)
 
@@ -52,7 +53,7 @@ Dieses Grundlagenfach zur Informatik erstreckt sich über zwei Semester(Theoreti
 Theoretische Informatik 1 + 2 als eine Modulprüfung von 120 Min.
 
 ## Medienformen:
-Vorlesung mit Übung
+Vorlesung und praktische Übungen
 
 ## Literatur:
 - Hoffmann, D. (2011): Theoretische Informatik, 2. Auflage

@@ -2,7 +2,7 @@
 title: Crossplatform Game Development mit Unity3D
 modulverantwortlich: 
 modulniveau: BA
-kuezel: CGD
+kuerzel: CGD
 untertitel: null
 studiensemester: 4
 kategorie: null
@@ -12,6 +12,8 @@ kreditpunkte: 5
 voraussetzungen-nach-pruefungsordnung: Keine über die Zulassungsbedingungen hinausgehenden Voraussetzungen
 empfohlene-voraussetzungen: 
 published: true
+type: tm
+parent: VC
 ---
 
 ## Kurzbeschreibung

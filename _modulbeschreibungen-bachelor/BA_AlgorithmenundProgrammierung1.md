@@ -1,8 +1,8 @@
 ---
 title: Algorithmen und Programmierung 1
-modulverantwortlich: Herr Prof. Dr. Frank Victor
+modulverantwortlich: Prof. Dr. Frank Victor
 modulniveau:
-kuezel: AP1
+kuerzel: AP1
 untertitel:
 studiensemester: 1
 kategorie:
@@ -12,6 +12,7 @@ kreditpunkte: 8
 voraussetzungen-nach-pruefungsordnung: keine
 empfohlene-voraussetzungen: 
 published: true
+type: pm
 ---
 
 ## Lehrform/SWS:

@@ -1,15 +1,15 @@
 ---
 title: Mathematik 1
-modulverantwortlich: Herr Prof. Dr. Wolfgang Konen
+modulverantwortlich: Prof. Dr. Wolfgang Konen
 modulniveau:
-kuezel: MA1
+kuerzel: MA1
 untertitel:
 studiensemester: 1
 kategorie:
 sprache: deutsch
 zuordnung-zum-curriculum: Medieninformatik Bachelor
 kreditpunkte: 7
-
+type: pm
 ---
 
 ## Lehrform/SWS:

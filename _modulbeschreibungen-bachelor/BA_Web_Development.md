@@ -2,7 +2,7 @@
 title: Web Development 
 modulverantwortlich: Prof. Christian Noss, Prof. Dr. Kristian Fischer, Prof. Dr. Matthias Böhmer
 modulniveau: null
-kuezel: WD
+kuerzel: WD
 untertitel: null
 studiensemester: 4
 kategorie: null
@@ -12,6 +12,7 @@ kreditpunkte: 20
 voraussetzungen-nach-pruefungsordnung: keine
 empfohlene-voraussetzungen: Einführung in die Medieninformatik, Web Architekturen, Algorithmen und Programmierung, Paradigmen der Programmierung, MCI, Screendesign, Betriebssysteme und verteilte Systeme
 published: true
+type: spm
 ---
 
 ## Kurzbeschreibung

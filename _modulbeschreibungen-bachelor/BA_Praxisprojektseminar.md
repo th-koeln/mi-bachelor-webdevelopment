@@ -1,17 +1,18 @@
 ---
 title: Praxisprojektseminar
-modulverantwortlich: Herr Prof. Dr. Kristian Fischer
+modulverantwortlich: Prof. Christian Noss
 modulniveau:
-kuezel: PPS
+kuerzel: PPS
 untertitel:
-studiensemester: 5
+studiensemester: 6
 kategorie:
 sprache: deutsch
 zuordnung-zum-curriculum: Medieninformatik Bachelor
-kreditpunkte: 15
+kreditpunkte: 5
 voraussetzungen-nach-pruefungsordnung: alle Modulprüfungen außer Bachelorarbeit und Kolloquium bestanden
 empfohlene-voraussetzungen: 
 published: true
+type: pm
 ---
 
 ## Lehrform/SWS:
@@ -21,8 +22,6 @@ published: true
 
 ## Angestrebte Lernergebnisse:
 Die Studierenden  
-
-
 
 
 - können Methoden und Techniken, die sie im Studium erlernt haben, in realitätsnahen Projekten weitgehend selbstständig anwenden,
@@ -37,9 +36,6 @@ Die Studierenden
 
 ## Inhalt:
 Das Modul besteht aus einem Projektteil und einem Seminarteil.  Im Projektteil werden  
-
-
-
 
 - Modulinhalte des ersten bis fünften Semesters anhand von realen Anforderungen in einem praxisrelevanten Kontext angewendet und
 

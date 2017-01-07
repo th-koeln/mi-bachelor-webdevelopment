@@ -1,8 +1,8 @@
 ---
 title: Kommunikationstechnik und Netze
-modulverantwortlich: Herr Prof. Dr. Hans L. Stahl
+modulverantwortlich: Prof. Dr. Hans L. Stahl
 modulniveau:
-kuezel: KTN
+kuerzel: KTN
 untertitel:
 studiensemester: 3
 kategorie:
@@ -12,6 +12,7 @@ kreditpunkte: 5
 voraussetzungen-nach-pruefungsordnung: Kenntnisse aus dem Grundstudium.
 empfohlene-voraussetzungen: 
 published: true
+type: pm
 ---
 
 ## Lehrform/SWS:

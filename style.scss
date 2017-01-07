@@ -101,6 +101,18 @@
 		display: inline-block;
 		padding-right: $bfs /4;
 	}
+	
+	table{
+		a, a:not(.button){ border: none; }
+		th{ font-weight: 600; }
+		.no-border{
+			th, td{
+				border: none;
+			}
+		}
+	}
+	
+
 }
 
 #selbstbericht{
@@ -149,6 +161,13 @@
 
 .is-passive *{
 	color: $mi-lila !important;
+}
+
+.is-small{
+	font-size: 80%;
+}
+
+.is-less-important{
 }
 
 @media (max-width: 640px) { 
