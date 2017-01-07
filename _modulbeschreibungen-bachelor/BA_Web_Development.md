@@ -1,6 +1,6 @@
 ---
 title: Web Development 
-modulverantwortlich: Prof. Christian Noss, Prof. Dr. Kristian Fischer
+modulverantwortlich: Prof. Christian Noss, Prof. Dr. Kristian Fischer, Prof. Dr. Matthias Böhmer
 modulniveau: null
 kuezel: WD
 untertitel: null
@@ -10,7 +10,7 @@ sprache: deutsch
 zuordnung-zum-curriculum: Medieninformatik Bachelor
 kreditpunkte: 20
 voraussetzungen-nach-pruefungsordnung: keine
-empfohlene-voraussetzungen: Einführung in die Medieninformatik, Web Architekturen, Algorithmen und Programmierung, Paradigmen der Programmierung, MCI, Screendesign
+empfohlene-voraussetzungen: Einführung in die Medieninformatik, Web Architekturen, Algorithmen und Programmierung, Paradigmen der Programmierung, MCI, Screendesign, Betriebssysteme und verteilte Systeme
 published: true
 ---
 
@@ -48,7 +48,7 @@ Die Studierenden kennen das Zusammenspiel von server- und clientseitigen Kompone
 
 ### Serverseitige Frameworks und Dienste:
 
-Die Studentinnnen und Studetenten kennen 
+Die Studentinnen und Studenten kennen 
 - wesentliche Frameworks, Dienste und Werkzeuge für die serverseitige Entwicklung von Web Anwendungen
 - können ausgewählte Frameworks, Dienste und Tools in einem Projektkontext anwenden. 
 
@@ -61,6 +61,16 @@ Den Teilnehmern steht eine Auswahl an Techniken und Frameworks zur Verfügung, a
 Die StudentenInnen sind in der Lage eine komplexe Anwendung im Web über mehrere Endgeräte hinweg zu planen, zu realisieren und zu dokumentieren. 
 
 ### Internet of Things:
+	
+In diesem Modul lernen die Teilnehmer das Gebiet Internet of Things kennen. Dabei liegt ein besonderer Fokus auf der Bedeutung des Web für Applikationen jenseits eines Browsers. Immer mehr Alltagsgegenstände werden mit Technologien angereichert, die eine Dienste-Bereitstellung oder Dienst-Nutzung über das Web ermöglichen (beispielsweise das Steuern von Gegenständen oder das Erfassen von Sensordaten). In diesem Modul werden relevante Konzepte und aktuelle Technologien für das Internet der Dinge diskutiert und in prototypischen Anwendungen erprobt.
+
+Studierende können nach diesem Modul selbstständig Anwendungen für das Internet of Things konzipieren und realisieren, indem Sie
+- hardware-nahe Aspekte im Design der Applikation berücksichtigen,
+- eine System-Architektur entwerfen,
+- kriterien-basiert geeignete Technologien zur Realisierung auswählen,
+- eine prototypische Anwendung implementieren,
+- inkrementell-iterativ vorgehen und Projektentscheidungen auf der Grundlage vorliegender Zwischenstände treffen.
+
 
 ## Inhalt:
 
@@ -86,6 +96,18 @@ Die StudentenInnen sind in der Lage eine komplexe Anwendung im Web über mehrere
 Ausgewählte Tools sollen tiefgreifend erarbeitet werden und in einem Projektkontext angewendet werden. Dies erfolgt in der Regel in dem begleitenden Projekt
 
 ### Internet of Things:
+
+Zu Begin des Moduls findet eine Einführung durch den Dozenten statt. Danach werden in seminaristischem Unterricht verschiedene aktuelle und relevante Technologie des Internet of Things vermittelt, demonstriert und erprobt (bspw. Raspberry Pi, Arduino, MQTT, Node-Red, Johnny Five). Diese werden in Teams zur Entwicklung eines eigenen IoT-Prototypen eingesetzt. 
+
+Weitere Inhalte sind:
+
+- Physical Computing
+- Prototyping und Retrofitting
+- Hardware (bspw. RaspberryPi und Arduino)
+- Sensoren und Aktoren
+- Frameworks (bspw. NodeRed und Johnny Five)
+- Architekturen und Protokolle (bspw. event-basierte Architekturen und MQTT)
+- Mobile Web und Smartphone Sensoren (bspw. GPS, Beacons)
 
 ## Studien-/Prüfungsleistungen:
 Schriftliche Prüfung (40%) und Projektarbeit (60%) 
