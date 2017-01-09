@@ -16,13 +16,14 @@ type: pm
 ---
 
 ## Lehrform/SWS:
-
+Seminar
 
 ## Arbeitsaufwand:
+Seminar: 32 Stunden
+Selbststudium: 118 Stunden
 
 ## Angestrebte Lernergebnisse:
 Die Studierenden  
-
 
 - können Methoden und Techniken, die sie im Studium erlernt haben, in realitätsnahen Projekten weitgehend selbstständig anwenden,
 
@@ -35,29 +36,14 @@ Die Studierenden
 - können eigene Projektergebnisse vor einem Fachpublikum in Vortrag und Diskussion darstellen und verteidigen.
 
 ## Inhalt:
-Das Modul besteht aus einem Projektteil und einem Seminarteil.  Im Projektteil werden  
-
-- Modulinhalte des ersten bis fünften Semesters anhand von realen Anforderungen in einem praxisrelevanten Kontext angewendet und
-
-- der Studierende durch die Betreuung des Dozenten an eine selbstständige Projektdurchführung und Kommunikation herangeführt.
-
-- Der kann entweder in einem Unternehmen oder in der Hochschule - dann eingebettet in Forschungsprojekte - erfolgen.
-
-
-
-Der Seminarteil besteht aus  
-
-
-
+Das Praxisprojektseminar besteht aus:
 
 - Veranstaltungen in denen Techniken wissenschaftlichen Arbeitens vermittelt werden,
-
-- Vorträgen und Diskussionen der Studierenden in englischer Sprache, in denen der Schwerpunkt auf einer Sensibilisierung für englischsprachige Fachkommunikation liegt,
 
 - Fachvorträgen von Studierenden über Ihre Projektergebnisse.
 
 ## Studien-/Prüfungsleistungen:
-
+Seminarvortrag zur Praxisprojektarbeit
 
 ## Medienformen:
 

@@ -16,16 +16,22 @@ type: pm
 ---
 
 ## Lehrform/SWS: 
-
+Je nach Modul
 
 ## Arbeitsaufwand: 
+150 Stunden
 
 ## Angestrebte Lernergebnisse:
+Fachliche Vertiefung oder Verbreiterung, nach persönlichem Interesse. Es kann eines der Module aus dem Katalog aller Module der Informatik Bachelorstudiengänge gewählt werden. Auch Pflichtmodule andere Informatik Studiengänge am Campus können als Wahlpflichtmodule in der Medieninformatik belegt werden.
 
 ## Inhalt:
+Je nach Modul
 
 ## Studien-/Prüfungsleistungen:
+Je nach Modul
 
 ## Medienformen:
+Je nach Modul
 
 ## Literatur:
+Je nach Modul

@@ -38,5 +38,5 @@ objektorientierte u. prozedurale Programmierung in C und Java, Algorithmen mit e
 
 
 ## Literatur:
-Tutorium unter < a href ="http://www.hb02.de/ap1/ "> http://www.hb02.de/ap1
+Tutorium unter <a href ="http://www.hb02.de/ap1/"> http://www.hb02.de/ap1</a>
 
