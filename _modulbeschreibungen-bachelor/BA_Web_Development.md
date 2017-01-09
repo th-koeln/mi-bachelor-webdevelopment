@@ -98,7 +98,7 @@ Ausgewählte Tools sollen tiefgreifend erarbeitet werden und in einem Projektkon
 
 ### Internet of Things:
 
-Zu Begin des Moduls findet eine Einführung durch den Dozenten statt. Danach werden in seminaristischem Unterricht verschiedene aktuelle und relevante Technologie des Internet of Things vermittelt, demonstriert und erprobt (bspw. Raspberry Pi, Arduino, MQTT, Node-Red, Johnny Five). Diese werden in Teams zur Entwicklung eines eigenen IoT-Prototypen eingesetzt. 
+Zu Begin des Moduls findet eine Einführung durch den Dozenten statt. Danach werden in seminaristischem Unterricht verschiedene aktuelle und relevante Technologie des Internet of Things vermittelt, demonstriert und erprobt (bspw. Raspberry Pi, Arduino, MQTT, Node-Red, Johnny Five, AndroidThings). Diese werden in Teams zur Entwicklung eines eigenen IoT-Prototypen eingesetzt. 
 
 Weitere Inhalte sind:
 
