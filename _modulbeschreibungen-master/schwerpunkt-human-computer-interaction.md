@@ -3,9 +3,8 @@ title: Human-Computer Interaction
 verantwortlich: Gerhard Hartmann
 type: sp
 kuerzel: hci
-kurzbeschreibung: Kurzbeschreibung fehlt
+kurzbeschreibung: Kurzbeschreibung vorhanden
 ---
-
 
 Allgemeines: 
 Medieninformatik und Mensch-Computer Interaktion stehen in vielerlei Hinsicht in einem engen Zusammenhang. So beinhaltet etwa der Fachbereich „Mensch-Computer Interaktion“ der GI e.V. die Fachgruppe „Medieninformatik“ (siehe auch: http://fb-mci.gi.de/mensch-computer-interaktion-mci/fachgruppen/medieninformatik.html).
