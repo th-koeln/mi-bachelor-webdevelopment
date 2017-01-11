@@ -2,9 +2,10 @@
 title: Projektarbeit - Verwertung im Schwerpunkt Web Development
 modulverantwortlich: ??
 modulniveau: n/a
-kuezel: WDP-V
+kuerzel: WTWP-V
 untertitel: null
-studiensemester: siehe Studienverlaufsplan
+studiensemester-ws: 3
+studiensemester-ss: 1
 kategorie: null
 sprache: deutsch
 zuordnung-zum-curriculum: siehe Studienverlaufsplan
@@ -12,6 +13,8 @@ kreditpunkte: 12
 voraussetzungen-nach-pruefungsordnung: keine
 empfohlene-voraussetzungen: keine
 published: true
+type: spp
+parent: wtw
 ---
 
 ## Kurzbeschreibung

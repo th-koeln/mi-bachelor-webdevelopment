@@ -170,6 +170,10 @@
 .is-less-important{
 }
 
+.is-hidden{
+	display: none;
+}
+
 @media (max-width: 640px) { 
 	html, body{
 		font-size: 80%;

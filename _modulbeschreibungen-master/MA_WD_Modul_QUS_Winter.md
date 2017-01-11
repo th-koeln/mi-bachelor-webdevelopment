@@ -12,6 +12,8 @@ kreditpunkte: 6
 voraussetzungen-nach-pruefungsordnung: keine
 empfohlene-voraussetzungen: Grundkenntnisse der Softwaretechnik
 published: true
+type: spm
+parent: wtw
 ---
 
 ## Kurzbeschreibung

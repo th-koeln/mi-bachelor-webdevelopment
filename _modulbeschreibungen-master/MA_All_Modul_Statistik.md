@@ -1,10 +1,11 @@
 ---
-title: 
-modulverantwortlich: Gerhard Hartmann
+title: Deskriptive Statistik und Inferenzstatistik
+modulverantwortlich: Prof. Gerhard Hartmann
 modulniveau: null
-kuezel: Stat
+kuerzel: Stat
 untertitel: Deskriptive Statistik und Inferenzstatistik
-studiensemester: 
+studiensemester-ws: 2
+studiensemester-ss: 1 
 kategorie: null
 sprache: deutsch
 zuordnung-zum-curriculum: Medieninformatik Master
@@ -12,6 +13,7 @@ kreditpunkte: 6
 voraussetzungen-nach-pruefungsordnung:
 empfohlene-voraussetzungen: 
 published: true
+type: pm
 ---
 
 ## Lehrform/SWS: Vorlesung , Übung

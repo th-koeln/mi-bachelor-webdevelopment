@@ -12,6 +12,8 @@ kreditpunkte: 6
 voraussetzungen-nach-pruefungsordnung:
 empfohlene-voraussetzungen: Basismodul Mensch-Computer Interaktion, so wie durch die GI e.V. publiziert
 published: true
+type: spm
+parent: hci
 ---
 
 ## Lehrform/SWS: Vorlesung/ 2 SWS, Übung/ 1 SWS, Projekt/ 3 SWS

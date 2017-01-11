@@ -2,9 +2,10 @@
 title: Projektarbeit - Assessment/Evaluation im Schwerpunkt Mensch-Computer Interaktion
 modulverantwortlich: Gerhard Hartmann
 modulniveau: n/a
-kuezel: WDP-E
+kuerzel: WDP-E
 untertitel: null
-studiensemester: siehe Studienverlaufsplan
+studiensemester-ws: 3
+studiensemester-ss: 1
 kategorie: null
 sprache: deutsch
 zuordnung-zum-curriculum: siehe Studienverlaufsplan
@@ -12,6 +13,8 @@ kreditpunkte: 12
 voraussetzungen-nach-pruefungsordnung: keine
 empfohlene-voraussetzungen: keine
 published: true
+type: spp
+parent: hci
 ---
 
 ## Kurzbeschreibung

@@ -2,9 +2,10 @@
 title: Masterarbeit 
 modulverantwortlich: Alle Dozenten
 modulniveau: n/a
-kuezel: MA
+kuerzel: MA
 untertitel: MAsterarbeit inkl. Kolloquium
-studiensemester: siehe Studienverlaufsplan
+studiensemester-ws: 4
+studiensemester-ss: 4
 kategorie: n/a
 sprache: deutsch
 zuordnung-zum-curriculum: siehe Studienverlaufsplan
@@ -12,6 +13,7 @@ kreditpunkte: 30
 voraussetzungen-nach-pruefungsordnung: keine
 empfohlene-voraussetzungen: keine
 published: true
+type: pm
 ---
 
 ## Kurzbeschreibung
@@ -21,7 +23,7 @@ In der Veranstaltung werden zwei Felder eingef√ºhrt:
 Basierend auf diesem Grundlagenwissen werden dann L√∂sungen aus fortschrittliche Anwendungsfelder im Web analysiert.
 
 ## Lehrform/SWS: 
-Eigenst‰ndige betreute wissenschaftlich-fachpraktische Arbeit
+Eigenständige betreute wissenschaftlich-fachpraktische Arbeit
 
 ## Arbeitsaufwand: 
 900

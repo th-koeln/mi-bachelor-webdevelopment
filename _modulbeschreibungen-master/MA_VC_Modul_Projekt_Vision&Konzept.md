@@ -2,9 +2,10 @@
 title: Projektarbeit - Vision & Konzept im Schwerpunkt Visual Computing
 modulverantwortlich: Prof. Dr.-Ing. Martin Eisemann
 modulniveau: n/a
-kuezel: VCP-TF
+kuerzel: VCP-TF
 untertitel: null
-studiensemester: siehe Studienverlaufsplan
+studiensemester-ws: 1
+studiensemester-ss: 2
 kategorie: n/a
 sprache: wahlweise deutsch oder englisch
 zuordnung-zum-curriculum: siehe Studienverlaufsplan
@@ -12,6 +13,8 @@ kreditpunkte: 12
 voraussetzungen-nach-pruefungsordnung: keine
 empfohlene-voraussetzungen: keine
 published: true
+type: spp
+parent: vc
 ---
 
 ## Kurzbeschreibung

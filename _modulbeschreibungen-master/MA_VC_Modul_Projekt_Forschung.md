@@ -2,9 +2,10 @@
 title: Projektarbeit - Forschung im Schwerpunkt Visual Computing
 modulverantwortlich: Prof. Dr.-Ing. Martin Eisemann
 modulniveau: n/a
-kuezel: VCP-F
+kuerzel: VCP-F
 untertitel: null
-studiensemester: siehe Studienverlaufsplan
+studiensemester-ws: 3
+studiensemester-ss: 1
 kategorie: null
 sprache: wahlweise deutsch oder englisch
 zuordnung-zum-curriculum: siehe Studienverlaufsplan
@@ -12,6 +13,8 @@ kreditpunkte: 12
 voraussetzungen-nach-pruefungsordnung: keine
 empfohlene-voraussetzungen: keine
 published: true
+type: spp
+parent: vc
 ---
 
 ## Kurzbeschreibung

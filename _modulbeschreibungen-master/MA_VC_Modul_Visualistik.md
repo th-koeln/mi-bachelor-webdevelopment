@@ -12,6 +12,8 @@ kreditpunkte: 5
 voraussetzungen-nach-pruefungsordnung: null
 empfohlene-voraussetzungen: Web-basierte Anwendungen 1 (aus dem Bachelor) bzw. Kenntnisse in HTML und Javascript
 published: true
+type: spm
+parent: vc
 ---
 
 ## Kurzbeschreibung

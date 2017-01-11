@@ -1,6 +1,6 @@
 ---
-title: Web Development – Client- und serverseitige Entwicklung
-modulverantwortlich: Prof. Christian Noss ??
+title: Web Development
+modulverantwortlich: Prof. Christian Noss
 modulniveau: n/a
 kuezel: WD-CSE
 untertitel: null
@@ -12,6 +12,8 @@ kreditpunkte: 6
 voraussetzungen-nach-pruefungsordnung: keine
 empfohlene-voraussetzungen: keine
 published: true
+type: spm
+parent: wtw
 ---
 
 ## Kurzbeschreibung

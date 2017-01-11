@@ -12,6 +12,8 @@ kreditpunkte: 6
 voraussetzungen-nach-pruefungsordnung:
 empfohlene-voraussetzungen: 
 published: true
+type: spm
+parent: hci
 ---
 
 ## Lehrform/SWS: Vorlesung/ 2 SWS, Übung/ 1 SWS, Projekt/ 3 SWS
@@ -19,8 +21,6 @@ published: true
 
 ## Arbeitsaufwand: 180 h, davon 45h Vorlesung, 30h Übung, 105 Projekt
 6 ECTS
-
-
 
 ## Angestrebte Lernergebnisse:
 Die Teilnehmer sind in der Lage, verschiedene methodische Rahmen für die Gestaltung interaktiver Systeme zu benennen, kritisch einzuordnen und für ihre konkreten Projekte eine rational begründete Wahl eines (oder einer Kombination aus verschiedenen) methodischen Rahmen zu treffen und zu kommunizieren. Sie sind in der Lage, die Methoden projektgerecht und kompetent anzuwenden und Design-Entscheidungen und –„trade-offs“ zu begründen sowie Designresultate unter Einbeziehung der Designmethoden kritisch zu diskutieren.

@@ -2,9 +2,10 @@
 title: Projektarbeit - Vision und Konzept im Schwerpunkt Web Development
 modulverantwortlich: ?? (Kristian Fischer)
 modulniveau: n/a
-kuezel: WDP-VK
+kuerzel: WTWP-VK
 untertitel: null
-studiensemester: siehe Studienverlaufsplan
+studiensemester-ws: 1
+studiensemester-ss: 2
 kategorie: n/a
 sprache: deutsch
 zuordnung-zum-curriculum: siehe Studienverlaufsplan
@@ -12,6 +13,8 @@ kreditpunkte: 12
 voraussetzungen-nach-pruefungsordnung: keine
 empfohlene-voraussetzungen: keine
 published: true
+type: spp
+parent: wtw
 ---
 
 ## Kurzbeschreibung

@@ -12,6 +12,8 @@ kreditpunkte: 6
 voraussetzungen-nach-pruefungsordnung: Keine über die Zulassungsbedingungen hinausgehenden Voraussetzungen
 empfohlene-voraussetzungen: AVM
 published: true
+type: spm
+parent: vc
 ---
 
 ## Kurzbeschreibung

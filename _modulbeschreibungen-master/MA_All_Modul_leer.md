@@ -2,7 +2,7 @@
 title: Netzwerk-und Graphentheorie
 modulverantwortlich: CK oder KF
 modulniveau: n/a
-kuerzel: NGT
+kuezel: NGT
 untertitel: null
 studiensemester-ws: 1
 studiensemester-ss: 2
@@ -13,7 +13,6 @@ kreditpunkte: 6
 voraussetzungen-nach-pruefungsordnung: keine
 empfohlene-voraussetzungen: keine
 published: true
-type: pm
 ---
 
 ##Kurzbeschreibung

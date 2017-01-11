@@ -2,6 +2,152 @@
 layout: default
 ---
 
+{% assign alle_fachsemester = "1,2,3,4" | split: "," %}
+{% assign alle_startsemester = "ws,ss" | split: "," %}
+{% assign cps = 0 %}
+
+{% assign schwerpunkte = (site.modulbeschreibungen-master | where:"type","sp" | sort: "title") %}
+{% assign pflichtmodule = (site.modulbeschreibungen-master | where:"type","pm") %}
+{% assign teilmodule = (site.modulbeschreibungen-master | where:"type","tm") %}
+{% assign wahlpflichtmodule = (site.modulbeschreibungen-master | where:"type","wpm") %}
+{% assign schwerpunktmodule = (site.modulbeschreibungen-master | where:"type","spm") %} 
+{% assign schwerpunktmodulwraps = (site.modulbeschreibungen-master | where:"type","spmw") %} 
+{% assign schwerpunktprojekte = (site.modulbeschreibungen-master | where:"type","spp") %}
+
+{% assign schwerpunkte = (schwerpunkte | sort: 'title') %}
+{% assign wahlpflichtmodule = (wahlpflichtmodule | sort: 'title') %}
+{% assign schwerpunktmodule = (schwerpunktmodule | sort: 'title') %}
+{% assign pflichtmodule = (pflichtmodule | sort: 'title') %}
+
+{% for schwerpunktprojekt in schwerpunktprojekte %}
+{% assign pflichtmodule = pflichtmodule | push: schwerpunktprojekt %}
+{% endfor %}
+				
+{% for schwerpunktmodulwrap in schwerpunktmodulwraps %}
+{% assign pflichtmodule = pflichtmodule | push: schwerpunktmodulwrap %}
+{% endfor %}
+
+<section class="section">
+	<div class="container">
+	    <h1 class="title is-1">Modulbeschreibungen Master</h1>
+	</div>
+</section>
+
+<!-- {% increment tocindex %} -->
+<section class="section ideen">
+	<div class="container toc unordered">
+		<ul class="menu-list">
+		{% for schwerpunkt in schwerpunkte %}
+			<li><a href="#{{schwerpunkt.id}}">Schwerpunkt {{schwerpunkt.title}}</a></li>
+		{% endfor %}
+		</ul>
+	</div>
+</section>
+
+<section class="section">
+	<div class="container">    
+		{% for schwerpunkt in schwerpunkte %}
+		
+		<div class="content" id="{{schwerpunkt.id}}">
+	        <h2 class="subtitle is-3">Schwerpunkt {{schwerpunkt.title}}</h2>
+	        
+	        {{schwerpunkt.kurzbeschreibung}}
+	        
+		</div> 
+		<div class="tabs is-tab-navigation">
+			<ul>
+	        {% for startsemester in alle_startsemester %}
+	        
+				{% assign semester_id = "studiensemester-ws" %}
+				{% assign semester_name = "Wintersemester" %}        					
+				{% if startsemester == "ss" %}
+					{% assign semester_id = "studiensemester-ss" %}
+					{% assign semester_name = "Sommersemester" %}
+				{% endif %}
+				
+				<li class="tab-item" data-tab="{{startsemester}}-{{schwerpunkt.kuerzel}}"><a >{{semester_name}}</a></li>
+				
+			{% endfor %}
+			</ul>
+		</div>
+		
+		<div class="content is-tab-wrap">	        
+	        {% for startsemester in alle_startsemester %}
+	        
+				{% assign semester_id = "studiensemester-ws" %}
+				{% assign semester_name = "Wintersemester" %}        					
+				{% if startsemester == "ss" %}
+					{% assign semester_id = "studiensemester-ss" %}
+					{% assign semester_name = "Sommersemester" %}
+				{% endif %}
+
+			<table class="table is-tab-content is-{{startsemester}}" id="{{startsemester}}-{{schwerpunkt.kuerzel}}">
+				<thead>
+					<tr>
+						<th>Modulname</th>
+						<th>Kürzel</th>
+						<th>CP</th>
+						<th>Modulverantwortlicher</th>
+					</tr>
+				</thead>
+				{% for fachsemester in alle_fachsemester%}
+
+					<tr class="no-border">
+						<th colspan="4">{{fachsemester}}. Fachsemester </th>
+					</tr>
+					{% assign sorted_pages = (pflichtmodule | where: semester_id,fachsemester) %}
+					{% for modulbeschreibung in sorted_pages %}
+					
+					
+					{% assign show = false %}
+					{% if modulbeschreibung.type == "pm" %}{% assign show = true %}{% endif %}
+					{% if modulbeschreibung.type == "spmw" %}{% assign show = true %}{% endif %}
+					{% if modulbeschreibung.type == "spp" %}
+						{% if modulbeschreibung.parent == schwerpunkt.kuerzel %}
+						{% assign show = true %}
+						{% endif %}
+					{% endif %}
+					{% if show %}
+					{% assign cps = cps | plus: modulbeschreibung.kreditpunkte %}
+					<tr>
+						<td>
+							{% if modulbeschreibung.type == "spmw" %}
+							{{modulbeschreibung.title}}: <br>
+							{% for schwerpunktmodul in schwerpunktmodule %}
+								{% if schwerpunktmodul.parent == schwerpunkt.kuerzel %}
+								- <a class="is-small is-less-important" href="{{site.baseurl}}{{schwerpunktmodul.url}}">{{schwerpunktmodul.title}}</a><br> 
+								{% endif %}
+							{% endfor %}
+							{% else %}
+							<a href="{{site.baseurl}}{{modulbeschreibung.url}}">{{modulbeschreibung.title}}</a>
+							{% endif %}
+						</td>
+						<td>{{modulbeschreibung.kuerzel}}</td>
+						<td>{{modulbeschreibung.kreditpunkte}}</td>
+						{% assign profs = modulbeschreibung.modulverantwortlich | split: "," %}
+						<td>
+							{% for prof in profs %}
+							{{prof}}<br>
+							{% endfor %}
+						</td>
+					</tr>
+					{% endif %}
+					{% endfor %}
+					
+					<tr>
+						<td colspan="2">Summe CP<br><br></td>
+						<td colspan="3">{{cps}}</td>
+					</tr>
+					{% assign cps = 0 %}
+	  			{% endfor %}
+  			
+  			</table>
+  			{% endfor %}
+		</div>
+		{% endfor %}
+	</div>
+</section>
+
 <section class="section">
 	<div class="container">
 		<div class="content">
@@ -16,4 +162,6 @@ layout: default
 		</div>
 	</div>
 </section>
+
+
 

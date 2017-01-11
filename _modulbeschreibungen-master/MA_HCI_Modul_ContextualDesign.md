@@ -12,6 +12,8 @@ kreditpunkte: 6
 voraussetzungen-nach-pruefungsordnung: null
 empfohlene-voraussetzungen: null
 published: true
+type: spm
+parent: hci
 ---
 
 ## Kurzbeschreibung

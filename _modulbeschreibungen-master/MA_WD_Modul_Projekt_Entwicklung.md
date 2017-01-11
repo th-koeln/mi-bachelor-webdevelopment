@@ -2,9 +2,10 @@
 title: Projektarbeit - Entwicklung im Schwerpunkt Web Development
 modulverantwortlich: ??
 modulniveau: n/a
-kuezel: WDP-E
+kuerzel: WTWP-E
 untertitel: null
-studiensemester: siehe Studienverlaufsplan
+studiensemester-ws: 2
+studiensemester-ss: 3
 kategorie: null
 sprache: deutsch
 zuordnung-zum-curriculum: siehe Studienverlaufsplan
@@ -12,6 +13,8 @@ kreditpunkte: 12
 voraussetzungen-nach-pruefungsordnung: keine
 empfohlene-voraussetzungen: keine
 published: true
+type: spp
+parent: wtw
 ---
 
 ## Kurzbeschreibung

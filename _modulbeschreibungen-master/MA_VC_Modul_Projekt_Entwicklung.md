@@ -2,9 +2,10 @@
 title: Projektarbeit - Entwicklung im Schwerpunkt Visual Computing
 modulverantwortlich: Prof. Dr.-Ing. Martin Eisemann
 modulniveau: n/a
-kuezel: VCP-E
+kuerzel: VCP-E
 untertitel: null
-studiensemester: siehe Studienverlaufsplan
+studiensemester-ws: 2
+studiensemester-ss: 3
 kategorie: null
 sprache: wahlweise deutsch oder englisch
 zuordnung-zum-curriculum: siehe Studienverlaufsplan
@@ -12,6 +13,8 @@ kreditpunkte: 12
 voraussetzungen-nach-pruefungsordnung: keine
 empfohlene-voraussetzungen: keine
 published: true
+type: spp
+parent: vc
 ---
 
 ## Kurzbeschreibung

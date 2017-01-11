@@ -12,6 +12,8 @@ kreditpunkte: 5
 voraussetzungen-nach-pruefungsordnung: null
 empfohlene-voraussetzungen: Computergrafik und Animation
 published: true
+type: spm
+parent: vc
 ---
 
 ## Kurzbeschreibung
