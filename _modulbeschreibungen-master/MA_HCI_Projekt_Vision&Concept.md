@@ -29,14 +29,11 @@ Advanced Seminar
 
 ## Angestrebte Lernergebnisse:
 Die Studentinnen und Studenten
-- können sih eine Anwendungsdomaine erschliessen, analysieren und ihre Erkenntnisse dokumentieren
-- können einen Lebensbereich potentieller Nutzer/Konden identifizieren, für den eine Produktentwicklung einen wirtschaftlichen/gesellschaftlichen oder 
-andersgearteten Wert darstellen kann
+- können sich eine Anwendungsdomaine erschliessen, analysieren und ihre Erkenntnisse dokumentieren
+- können einen Lebensbereich potentieller Nutzer/Konden identifizieren, für den eine Produktentwicklung einen wirtschaftlichen/gesellschaftlichen oder  andersgearteten Wert darstellen kann
 - können zu einem kritischen Fachdiskurs über Potenziale und Risiken der Ideen beitragen
-- können wissenschaftliche Gebiete, die für das Produkt wesentlich sein können identifizieren, den Stand des 
-Wissens ermitteln und in einem Fachdiskurs darstellen und diskutieren
-- können auf Basis aktuellen Wissens und aktueller Dienste und Technologien ein Konzept für ein Produkt entwickeln, das in einem 
-nachfolgenden Schritt von einem Team von Entwicklern als Prototyp realisiert werden kann.
+- können wissenschaftliche Gebiete, die für das Produkt wesentlich sein können identifizieren, den Stand des  Wissens ermitteln und in einem Fachdiskurs darstellen und diskutieren
+- können auf Basis aktuellen Wissens und aktueller Dienste und Technologien ein Konzept für ein Produkt entwickeln, das in einem  nachfolgenden Schritt von einem Team von Entwicklern als Prototyp realisiert werden kann.
 - können die Vision in Conceptual Models und andere Externalisierungen umsetzen
 
 ## Inhalt:
