@@ -22,6 +22,7 @@ In einem Projekt wird eine Idee für ein Produkt oder einen Dienst entwickelt, e
 
 ## Lehrform/SWS: 
 Projektarbeit
+Advanced Seminar
 
 ## Arbeitsaufwand: 
 360
@@ -40,13 +41,9 @@ nachfolgenden Schritt von einem Team von Entwicklern als Prototyp realisiert wer
 
 ## Inhalt:
 Das Projekt gliedert sich in zwei Teile:
-- In der eigentlichen Projektarbeit werden Zielsetzungen formuliert, wird die "Vision" entwickelt und diskutiert, 
-Alleinstellungsmerkmale herausgearbeitet, Alternativen für Nutzungs- und Systemkonzeption diskutiert und ein Konzeptdokument 
-inklusive eines Projektplans erstellt.
-- In dem Teil „Advanced Seminar“ wird die Recherche durchgeführt: es werden Analysetechniken für die Bewertung von kommerziellen 
-Lösungen angewandt. Hierbei kann es sich sowohl um Konkurrenzprodukte handeln als auch um Dienste oder Frameworks, auf die das Produkt 
-aufbauen könnte.  Als Schwerpunkt dieses Teils werden wissenschaftliche Felder identifiziert, die Input und für das Produkt liefern 
-können, es werden relevante Ergebnisse ermittelt und in einem wissenschaftlichen Seminar diskutiert.
+- In dem Teil „Advanced Seminar“ werden Fragestellungen der Konzeption von interaktiven, verteilten Systems entlang der Abwägungslinien von IT-Sicherheit und Gebrauchstauglichkeit behandelt.
+- In der eigentlichen Projektarbeit werden Zielsetzungen formuliert, wird die "Vision" entwickelt und diskutiert, Alleinstellungsmerkmale herausgearbeitet, Alternativen für Nutzungs- und Systemkonzeption diskutiert und ein Konzeptdokument inklusive eines Projektplans erstellt.
+
 
 ## Studien-/Prüfungsleistungen:
 Projektarbeit
