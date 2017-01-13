@@ -35,7 +35,7 @@ Ziel der Masterarbeit (Master Thesis) und des Kolloquiums ist die Befähigung, i
 
 ## Studien-/Prüfungsleistungen:
 - Masterarbeit: Dokumentation der geleisteten Arbeit mit Zielsetzung und Aufgabenstellung, Stand von Wissenschaft und Technik, verwendeten Problemlösungsmethoden, erzielten Resultaten, offenen Fragen, Reflektion, verwendeten Quellen etc..
-- Kolloquium: Darstellung der Arbeit und der wichtigsten Ergebnisse im Rahmen eines Vortrages mit anschließender Diskussion
+- Kolloquium: Darstellung und Verteidigung der Arbeit und der wichtigsten Ergebnisse im Rahmen eines Vortrages mit anschließender Diskussion
 - Bearbeitungszeiten s. Prüfungsordnung
 
 ## Medienformen:
