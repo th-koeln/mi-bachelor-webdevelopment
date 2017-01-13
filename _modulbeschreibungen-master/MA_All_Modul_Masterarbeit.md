@@ -17,10 +17,7 @@ type: pm
 ---
 
 ## Kurzbeschreibung
-In der Veranstaltung werden zwei Felder eingef√ºhrt:
-- Grundkonzepte der Software Architektur werden bezogen auf Web basierte Anwendungen behandelt
-- Fragen der Internet Governance werden eingef√ºhrt.
-Basierend auf diesem Grundlagenwissen werden dann L√∂sungen aus fortschrittliche Anwendungsfelder im Web analysiert.
+Die Masterarbeit (Master Thesis) und das Kolloquium bilden den Abschluss des Studiums. Die Masterarbeit ist in der Regel eine eigenständige Untersuchung mit einer Aufgabenstellung aus der Medieninformatik und einer ausführlichen Beschreibung und Erläuterung ihrer Lösung. In fachlich geeigneten Fällen kann sie auch eine schriftliche Hausarbeit mit fachliterarischem Inhalt sein.
 
 ## Lehrform/SWS: 
 Eigenständige betreute wissenschaftlich-fachpraktische Arbeit
@@ -29,17 +26,20 @@ Eigenständige betreute wissenschaftlich-fachpraktische Arbeit
 900
 
 ## Angestrebte Lernergebnisse:
-Die Masterarbeit soll zeigen, dass der Pr¸fling bef‰higt ist, innerhalb einer vorgegebenen Frist eine wissenschaftlich orientierte Aufgabe aus seinem Fachgebiet sowohl in ihren fachlichen Einzelheiten als auch in den fach¸bergreifenden Zusammenh‰ngen nach wissenschaftlichen, fachpraktischen und gestalterischen Methoden selbst‰ndig zu bearbeiten. Die Masterarbeit ist in der Regel eine eigenst‰ndige Untersuchung mit einer Aufgabenstellung aus der Medieninformatik und einer ausf¸hrlichen Beschreibung und Erl‰uterung ihrer Lˆsung. In fachlich geeigneten F‰llen kann sie auch eine schriftliche Hausarbeit mit fachliterarischem Inhalt sein.
+Ziel der Masterarbeit (Master Thesis) und des Kolloquiums ist die Befähigung, innerhalb einer vorgegebenen Frist eine wissenschaftlich orientierte Aufgabe aus der Medieninformatik sowohl in ihren fachlichen Einzelheiten als auch in den fachübergreifenden Zusammenhängen nach wissenschaftlichen, fachpraktischen und gestalterischen Methoden selbständig zu bearbeiten, zu dokumentieren und zu verteidigen. 
 
 ## Inhalt:
-Je nach Thema
+- Die Masterarbeit ist in der Regel eine eigenständige Untersuchung mit einer Aufgabenstellung aus der Medieninformatik und einer ausführlichen Beschreibung und Erläuterung ihrer Lösung. 
+- In fachlich geeigneten Fällen kann sie auch eine schriftliche Hausarbeit mit fachliterarischem Inhalt sein. 
+- Konkrete Inhalte je nach Thema.
 
-
-## Studien-/Pr√ºfungsleistungen:
-Schriftliche Ausarbeitung und m√ºndliche Pr√ºfung
+## Studien-/Prüfungsleistungen:
+- Masterarbeit: Dokumentation der geleisteten Arbeit mit Zielsetzung und Aufgabenstellung, Stand von Wissenschaft und Technik, verwendeten Problemlösungsmethoden, erzielten Resultaten, offenen Fragen, Reflektion, verwendeten Quellen etc..
+- Kolloquium: Darstellung der Arbeit und der wichtigsten Ergebnisse im Rahmen eines Vortrages mit anschließender Diskussion
+- Bearbeitungszeiten s. Prüfungsordnung
 
 ## Medienformen:
-je nach tThema
+Je nach Thema
 
 ## Literatur:
-- Je nach Thema
+Je nach Thema
