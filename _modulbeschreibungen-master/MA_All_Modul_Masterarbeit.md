@@ -3,7 +3,7 @@ title: Masterarbeit
 modulverantwortlich: Alle Dozenten
 modulniveau: n/a
 kuerzel: MA
-untertitel: MAsterarbeit inkl. Kolloquium
+untertitel: Masterarbeit inkl. Kolloquium
 studiensemester-ws: 4
 studiensemester-ss: 4
 kategorie: n/a
