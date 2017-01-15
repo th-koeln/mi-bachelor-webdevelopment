@@ -40,5 +40,6 @@ mündliche Prüfung, Projektpräsentation, schriftliche Ausarbeitung
 
 ## Literatur:
 Michael Herczeg: Einführung in die Medieninformatik, Oldenbourg Verlag, 2006, ISBN: 3-486-581-031
+
 Chris Rupp et al: Requirements-Engineering und -Management: Aus der Praxis von klassisch bis agil, Carl Hanser Verlag; 6-te Auflage, 2014, ISBN-10: 3446438939 
 
