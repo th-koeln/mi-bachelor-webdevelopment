@@ -42,6 +42,7 @@ Folgende Module sind in der Studienrichtung verpflichtend:
 
 ## Empfohlene Wahlpflicht-Module in der Studienrichtung:
 - Design Methodologies
+- Research Methods
 - Storytelling
 - Sketching User Experience
 
