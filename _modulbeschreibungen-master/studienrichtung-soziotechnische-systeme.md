@@ -17,24 +17,26 @@ In der Studienrichtung "Social Computing" ...
 ## Studienrichtungsspezifische Pflichtmodule
 Folgende Module sind in der Studienrichtung verpflichtend: 
 <!-- MW: 3 Module mit je 6 cp -->
-* PM 1
-* PM 2
-* PM 3
+* Computerethik
+* Soziotechnische Entwurfsmuster
+* Research Methods
 
 ## Lehrveranstaltungen im Projekt:
 
 ### Vision & Konzept:
 - Advanced Seminar
+- Planung einer empirischen Studie
 
 ### Entwicklung:
-- Pr-LV 1
-- Pr-LV 2
+- Entwicklungsprojekt soziotechnische Systeme
+- Durchführung einer empirischen Studie
 
 ### Verwertung:
-- Pr-LV 3
-- Pr-LV 4
+- Veröffentlichung des Entwicklungsprojekts
+- Veröffentlichung der empirischen Studie
 
 ## Empfohlene Wahlpflicht-Module in der Studienrichtung:
-- WPF1
-- WPF2
-- WPF3
+- Design Methodologies
+- Storytelling
+- Sketching User Experience
+- 
