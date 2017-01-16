@@ -44,4 +44,5 @@ Folgende Module sind in der Studienrichtung verpflichtend:
 - Design Methodologies
 - Storytelling
 - Sketching User Experience
-- 
+
+
