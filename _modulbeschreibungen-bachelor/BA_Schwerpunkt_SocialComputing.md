@@ -40,7 +40,7 @@ Vorlesung, Praktikum / Projekt, Übung mit kursabhängigen Schwerpunkten
 ## Arbeitsaufwand: 
 Gesamtaufwand 600 h, davon
 - 150h Einführung in Soziotechnische Systeme
-- 150h Empirische Forschungsmethoden
+- 150h Empirische Forschungsmethoden in der Informatik
 - 300h aus dem Wahlkatalog
 
 ## Angestrebte Lernergebnisse:
@@ -50,7 +50,8 @@ TODO
 siehe Modulbeschreibungen:
 - Einführung in Soziotechnische Systeme
 - Empirische Forschungsmethoden
-- e-Science
+- WPF aus Katalog, z.B. Serious Games oder Soziale Innovation
+- Projekt Social Computing
 
 
 ## Studien-/Prüfungsleistungen:
