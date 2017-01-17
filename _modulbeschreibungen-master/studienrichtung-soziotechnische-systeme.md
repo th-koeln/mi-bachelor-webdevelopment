@@ -24,7 +24,8 @@ Folgende Module sind in der Studienrichtung verpflichtend:
 <!-- MW: 3 Module mit je 6 cp -->
 * Computerethik
 * Soziotechnische Entwurfsmuster
-* Research Methods
+* (Soziale) Netzwerktheorien
+
 
 ## Lehrveranstaltungen im Projekt:
 
@@ -43,6 +44,7 @@ Folgende Module sind in der Studienrichtung verpflichtend:
 ## Empfohlene Wahlpflicht-Module in der Studienrichtung:
 - CSCL
 - e-Science
+- Research Methods
 - Design Methodologies
 - Storytelling
 - Sketching User Experience
