@@ -24,15 +24,9 @@ Projektarbeit: 300 Stunden
 ## Angestrebte Lernergebnisse:
 Die Studierenden  
 
-- können Methoden und Techniken, die sie im Studium erlernt haben, in realitätsnahen Projekten weitgehend selbstständig anwenden,
+- können Methoden und Techniken, die sie im Studium erlernt haben, in realitätsnahen Projekten weitgehend selbstständig anwenden und
 
-- kennen Techniken wissenschaftlichen Arbeitens,
-
-- haben erste Erfahrungen mit aktiver englischsprachiger Fachkommunikation gesammelt,
-
-- haben erste Erfahrungen mit der Selbststeuerung und proaktiven Kommunikation in einem Projekt mittlerer Größe und der Einordnung von Projektarbeit in betriebliche, gesellschaftliche und rechtliche Rahmenbedingungen gesammelt und
-
-- können eigene Projektergebnisse vor einem Fachpublikum in Vortrag und Diskussion darstellen und verteidigen.
+- haben erste Erfahrungen mit der Selbststeuerung und proaktiven Kommunikation in einem Projekt mittlerer Größe und der Einordnung von Projektarbeit in betriebliche, gesellschaftliche und rechtliche Rahmenbedingungen gesammelt
 
 ## Inhalt:
 
