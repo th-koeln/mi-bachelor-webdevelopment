@@ -9,8 +9,8 @@ kategorie:
 sprache: deutsch
 zuordnung-zum-curriculum: Medieninformatik Bachelor
 kreditpunkte: 10
-voraussetzungen-nach-pruefungsordnung:
-empfohlene-voraussetzungen: Algorithmen und Programmierung, Theoretische Informatik, Kommunikationstechnik, Netzbasierte Anwendungen, Datenbanken, Multimedia Anwendungen, Mensch Computer Interaktion, Betriebssysteme, Grundlagen der visuellen Kommunikation
+voraussetzungen-nach-pruefungsordnung: Schwerpunktmodul
+empfohlene-voraussetzungen: Algorithmen und Programmierung, Theoretische Informatik, Audiovisuelles Medienprojekt, Kommunikationstechnik und Netze, Mensch Computer Interaktion, Grundlagen des Web, Betriebssysteme und verteilte Systeme, Screendesign
 published: true
 type: pm
 ---
