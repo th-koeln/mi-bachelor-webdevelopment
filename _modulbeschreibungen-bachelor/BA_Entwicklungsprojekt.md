@@ -26,9 +26,11 @@ Die Studierenden sollen vertiefende Kenntnisse in die Methoden und Techniken aus
 Die Studierenden sollen auch lernen, die Vorgehensweise und die Ergebnisses ihres Projektes in einem kritischen Diskurs vor einem Fachpublikum zu vertreten.
 
 ## Inhalt:
-Die Projekte werden in Teams durchgeführt. Zunächst werden von den Teams in Absprache mit den Lehrenden Projektziele und die Module gewählt, in denen Methoden- und Technikkompetenz vertieft werden soll. 
+Die Projekte werden in Teams durchgeführt. Zunächst werden von den Teams wei Module aus den ersten vier Fachsemestern gewählt, die fachlichen Perspektiven für die ertiefung bestimmen. In Absprache mit den Lehrenden werden dann Projektziele festgelegt.
 
-Aus dem Methoden- und Technikkatalog (siehe Vorlesungen zu den Lehrbereichen) wird in Absprache mit dem Lehrenden eine Auswahl der einzusetzenden Entwicklungstechniken und -methoden sowie der einzuhaltenden Entwicklungsmodelle getroffen. Qualitätssicherungsmaßnahmen und Prozessmanagement werden definiert. Die Lehrenden bieten dann während der Projektdurchführung beratung bzgl. des adäquaten Einsatzes der gewählten Methoden und Techniken. Zwischenstände des Projektes werden zu definierten Meilensteinen von den Projektteams präsentiert. Die Präsentation der Projektergebnisse findet in einem Plenum mit kritischer Diskussion der Methoden und Ergebnisse statt
+Aus dem Methoden- und Technikkatalog (siehe Vorlesungen zu den Lehrbereichen) wird in Absprache mit dem Lehrenden eine Auswahl der einzusetzenden Entwicklungstechniken und -methoden sowie der einzuhaltenden Entwicklungsmodelle getroffen. Qualitätssicherungsmaßnahmen und Prozessmanagement werden definiert. 
+
+Die Lehrenden bieten dann während der Projektdurchführung Beratung bzgl. des adäquaten Einsatzes der gewählten Methoden und Techniken. Zwischenstände des Projektes werden zu definierten Meilensteinen von den Projektteams präsentiert. Die Präsentation der Projektergebnisse findet in einem Plenum mit kritischer Diskussion der Methoden und Ergebnisse statt
 
 ## Studien-/Prüfungsleistungen:
 Die Projektergebnis - Dokumentation und Prototyp - geht mit 80% in die Projektnote ein, die Kommunikation der Zwischenergebnisse und des Endergebnisses mit 20%.
