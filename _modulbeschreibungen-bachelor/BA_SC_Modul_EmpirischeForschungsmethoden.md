@@ -7,7 +7,7 @@ untertitel: null
 studiensemester: 
 kategorie: null
 sprache: deutsch
-zuordnung-zum-curriculum: Medieninformatik Master
+zuordnung-zum-curriculum: Medieninformatik Bachelor
 kreditpunkte: 5
 voraussetzungen-nach-pruefungsordnung:
 empfohlene-voraussetzungen: 
