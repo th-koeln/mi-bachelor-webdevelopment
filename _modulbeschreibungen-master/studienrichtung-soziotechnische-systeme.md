@@ -41,8 +41,9 @@ Folgende Module sind in der Studienrichtung verpflichtend:
 - Veröffentlichung der empirischen Studie
 
 ## Empfohlene Wahlpflicht-Module in der Studienrichtung:
+- CSCL
+- e-Science
 - Design Methodologies
-- Research Methods
 - Storytelling
 - Sketching User Experience
 
