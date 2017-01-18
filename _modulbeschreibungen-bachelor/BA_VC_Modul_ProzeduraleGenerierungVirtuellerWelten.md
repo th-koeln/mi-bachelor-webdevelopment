@@ -24,13 +24,13 @@ parent: VC
 
 ## Arbeitsaufwand: 
 Gesamtaufwand 150 h, davon
-40 h  Vorlesung (inkl. Vor- und Nachbereitung),
-40 h  Live-Coding und Übungen
-40 h  Selbstlernphase
-30 h  „Guided-Project“ (begleitetes Abschlussprojekt in Form eines Code-Camp/Hackathon)    
+- 40 h  Vorlesung (inkl. Vor- und Nachbereitung),
+- 40 h  Live-Coding und Übungen
+- 40 h  Selbstlernphase
+- 30 h  Begleitetes Abschlussprojekt
 
 ## Angestrebte Lernergebnisse:
-Die Studierenden haben die Möglichkeit ihr Vorwissen über 3D-Computergrafik, 3D-Geometrie und Programmierung zu vertiefen und praktisch anzuwenden. Durch den Einsatz von Unity als Crossplatform-Game-Development-Tool können die Studierenden Erfahrung mit einer aktuellen Game-Engine und der dazugehörigen Entwicklungsumgebung sammeln und werden befähigt diese um Funktionalitäten zu erweitern. Das Modul ist daher geeignet das Vorwissen aus dem Modul „Computergrafik und Animation“ zu vertiefen. 
+Die Studierenden haben die Möglichkeit ihr Vorwissen über 3D-Computergrafik, 3D-Geometrie und Programmierung zu vertiefen und praktisch anzuwenden. Durch den Einsatz von Unity als Crossplatform-Game-Development-Tool können die Studierenden Erfahrung mit einer aktuellen Game-Engine und der dazugehörigen Entwicklungsumgebung sammeln und werden befähigt diese um Funktionalitäten zu erweitern. Das Modul ist daher geeignet das Wissen aus dem Modul „Computergrafik und Animation“ zu vertiefen. 
 Konzepte aus der 3D-Computergrafik und der prozeduralen Generierung werden in diesem sehr praktisch ausgelegten Kurs implementiert und die relevanten Grundlagen vermittelt, die es den Studierenden ermöglichen eigenständig Projekte mit prozeduralen Techniken umzusetzen.
 Nach Abschluss des Moduls besitzen die Studierenden grundlegende Kenntnisse über verschiedene Techniken der prozeduralen Generierung zur Erstellung von 3D Content für Visualisierungen, Simulationen und Spiele.
 Die Inhalte des Moduls befähigen die Studierenden die grundlegenden Algorithmen und Datenstrukturen der Echtzeit-Computergrafik mit der Game-Engine Unity zu beherrschen.
@@ -56,31 +56,13 @@ In diesem Wahlpflichtfach werden relevante Grundlagen der prozeduralen Generieru
 -	Voxel-Terrain-Generierung im MineCraft-Stil
 
 ## Studien-/Prüfungsleistungen:
-Die erfolgreiche Teilnahme am Praktikum (Code Camp) (eigenständiges Projekt, auch in Kleingruppen möglich) und Fachgespräch
-
-In diesem Wahlpflichtfach werden relevante Grundlagen der prozeduralen Generierung in Unity vermittelt:
--	Einführung in die Game-Engine Unity
--	Grundlagen 3D-Geometrie
--	Erweiterung des Unity-Editors
--	Die Mesh-Datenstruktur der Game-Engine Unity (Vertices, Triangles, UVs, Normals, SubMeshes)
--	Erstellung eines Debug-Werkzeugs für Meshes
--	Erzeugung von Primitiven (Triangle, Quad, Cube, Sphere, Torus)
--	Einführung in UV-Mapping und Texturierungstechniken/Materialien
--	Texturgenerierung mit Noise-Algorithmen
--	Parametrisierung von 3D-Modellen
--	Kurven und Flächen in der Computergrafik
--	Bezier-Kurven
--	Bilinear-Sufrace
--	mXn-Grid
--	Einsatz von Height-Maps
--	L-Systeme und „Turtle“-Grafik-Renderer
--	Triangulations-Algorithmen für Polygone
--	Voxel-Terrain-Generierung im MineCraft-Stil
+Die erfolgreiche Teilnahme am Abschlussprojekt (eigenständiges Projekt, auch in Kleingruppen möglich) und Fachgespräch
 
 ## Medienformen:
 -	Beamer-gestützte Vorlesungen (Folien in elektronischer Form);
 -	Aufgaben/Übungen/Handouts (auch in elektronischer Form) 
 -	Praktischer Teil aus Live-Coding in der Vorlesung, erweitert durch Übungen.
+- Software: Einsatz einer Game Engine
 
 
 ## Literatur:
