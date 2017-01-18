@@ -30,7 +30,7 @@ Die Studierenden
 
 ## Inhalt:
 
-Modulinhalte des ersten bis fünften Semesters anhand von realen Anforderungen in einem praxisrelevanten Kontext angewendet und der Studierende durch die Betreuung des Dozenten an eine selbstständige Projektdurchführung und Kommunikation herangeführt. Der kann entweder in einem Unternehmen oder in der Hochschule - dann eingebettet in Forschungsprojekte - erfolgen.
+Modulinhalte des ersten bis fünften Semesters anhand von realen Anforderungen in einem praxisrelevanten Kontext angewendet und der Studierende durch die Betreuung des Dozenten an eine selbstständige Projektdurchführung und Kommunikation herangeführt. Das Praxisprojekt kann entweder in einem Unternehmen oder in der Hochschule - dann eingebettet in Forschungsprojekte - erfolgen.
 
 
 ## Studien-/Prüfungsleistungen:
