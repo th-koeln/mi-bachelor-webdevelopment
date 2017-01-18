@@ -29,7 +29,7 @@ Die Studierenden kennen Grundkonzepte der Informatik (z.B. Anforderungen) sowie 
 Sie kennen grundlegende Konzepte, Prozesse/Verfahren und Modelle der Medieninformatik und haben erste Projekterfahrungen gesammelt. Sie können Systemkonzeptionen, zugehörige Modellierungen, Abwägungen, Artefakte für ein Fachpublikum angemessen dokumentieren und mittels verschiedener medialer Formen kommunizieren.
 
 ## Inhalt:
-Workshops zu grundlegenden projektrelevanten Themenfeldern (wie: Datenmodellierung, Pseudo-Code, Kommunikation in verteilen medialen Systeme, visual Thinking, Storytelling, Anforderungen) und deren Anwendung, illustiert anhand von Fallstudien.
+Workshops zu grundlegenden projektrelevanten Themenfeldern (wie: Datenmodellierung, Pseudo-Code, Kommunikation in verteilen medialen Systeme, Visual Thinking, Storytelling, Anforderungen) und deren Anwendung, illustriert anhand von Fallstudien.
 
 Teambasiertes Projekt, welches ausgehend von Kontextszenarien eine (oder mehrere) Problemstellung(en) umreist, zu dem Lösungen konzipiert und prototypisch umgesetzt, dokumentiert und einem Fachpublikum präsentiert werden müssen.
 
@@ -37,7 +37,11 @@ Teambasiertes Projekt, welches ausgehend von Kontextszenarien eine (oder mehrere
 mündliche Prüfung, Projektpräsentation, schriftliche Ausarbeitung
 
 ## Medienformen:
-
+- Beamer-gestützte Vorlesungen (Folien in elektronischer Form);
+- Vorträge
+- Verschiedene Präsentationsmaterialien (Whiteboard, Poster, ...)
+- Einsatz von Bild- und Videobearbeitungssoftware
+- Umgang mit Kameras im Projektteil
 
 ## Literatur:
 Michael Herczeg: Einführung in die Medieninformatik, Oldenbourg Verlag, 2006, ISBN: 3-486-581-031
