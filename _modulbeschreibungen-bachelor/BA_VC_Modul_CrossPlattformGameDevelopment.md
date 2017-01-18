@@ -26,9 +26,9 @@ Je nach Fortschritt und verfügbarer Zeit werden gegebenenfalls auch Themen der 
 
 ## Arbeitsaufwand: 
 Gesamtaufwand 150 h, davon
-50h Vorlesung (inkl. Vor- und Nachbearbeitung)
-60h Eigenständige Projektarbeit
-40h Selbstlernphase
+- 50h Vorlesung (inkl. Vor- und Nachbearbeitung)
+- 60h Eigenständige Projektarbeit
+- 40h Selbstlernphase
 
 ## Angestrebte Lernergebnisse:
 Im Rahmen des Kurses wird den Teilnehmern zunächst ein Überblick über die verschiedenen Komponenten der Engine, den Aufbau von Gameobjects, Details der Physikengine und Eingabemethoden vermittelt. Im Anschluss wird insbesondere die Implementierung von Features und Spielmechaniken auf Programmierebene vertieft. Nach erfolgreichem Abschluss haben die Teilnehmer ein Verständnis dafür, welche Möglichkeiten Spieleengines im Allgemeinen und Unity im Besonderen bieten und wie diese zur Realisierung von Spielprojekten genutzt werden können und beherrschen die meistgenutzten Bibliotheken und Komponenten von Unity auf einem fortgeschrittenen Level. Zusätzlich sammeln Kursteilnehmer im Rahmen ihres eigenständig entwickelten Projektes Erfahrungen in der Entwicklung von Kleinprojekten bis mindestens zum Grad einer spielbaren Alphaversion oder eines Prototypen.
