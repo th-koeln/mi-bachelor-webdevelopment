@@ -19,6 +19,7 @@ type: pm
 Vorlesung mit eingebetteten Übungselementen
 
 ## Arbeitsaufwand:
+150 Stunden
 
 ## Angestrebte Lernergebnisse:
 Die Studierenden können die inhaltlichen Ausrichtungen und die Zielsetzungen der Lehr- und Anwendungsdisziplin Medieninformatik benennen und gegenüber verwandten oder ähnlichen Disziplinen abgrenzen. 
