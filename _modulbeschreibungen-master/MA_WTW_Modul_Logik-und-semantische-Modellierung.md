@@ -2,7 +2,7 @@
 title: Logik und semantische Modellierung
 modulverantwortlich: Kristian Fischer
 modulniveau: n/a
-kuezel: LSM
+kuezel: WTW-LSM
 untertitel: null
 studiensemester: siehe Studienverlaufsplan
 kategorie: null

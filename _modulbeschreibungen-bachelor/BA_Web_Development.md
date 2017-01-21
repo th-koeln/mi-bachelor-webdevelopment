@@ -84,8 +84,7 @@ Studierende können nach diesem Modul selbstständig Anwendungen für das Intern
 - CSS Preprozessoren
 - Javascript Frameworks
 - Performance
-- Advanced CSS: Transisitions 
-- Advanced HTML: Microdata, Internationalisierung, SEO, Barrierefreiheit
+- Microdata, Internationalisierung, SEO, Barrierefreiheit
 
 ### Serverseitige Frameworks und Dienste:
 

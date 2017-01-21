@@ -1,6 +1,6 @@
 ---
 title: Projektarbeit - Verwertung im Schwerpunkt Web Development
-modulverantwortlich: ??
+modulverantwortlich:
 modulniveau: n/a
 kuerzel: WTWP-V
 untertitel: null

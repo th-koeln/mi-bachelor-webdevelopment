@@ -19,12 +19,12 @@ Als chakterisierende Merkmale für die Entwicklung von Produkten und Diensten im
 
 - die konsequente Anwendung agiler Vorgehensmodelle sowie die Nutzung des Wissens und des kreativen Potentials von Nutzern durch Community Managenent. 
 
-Der Titel der Studienrichtung , "Weaving the Web" wurde gewählt, da neben dem klassischen Software Engineering vor allem auch die Integration eigener Produkte und Dienste in das Web thematisiert wird.
+Der Titel der Studienrichtung, "Weaving the Web" wurde gewählt, da neben dem klassischen Software Engineering vor allem auch die Integration eigener Produkte und Dienste in das Web thematisiert wird.
 
-Folgende Module sind in der Studienrichtung verpflichtend: Frontend-/Backendtechnologien, Web Architectures, Qualitätssicherung und -management(MW?) 
+Folgende Module sind in der Studienrichtung verpflichtend: Web Development, Web Architectures, Qualitätssicherung und -management(MW?) 
 <!-- MW: Es sollten doch 3 Module a 6 cp sein -->
 
-Darüber hinaus werden folgende Module für die Studienrichtung angeboten: Quality Mgmt, Logik und sem Modellierung, Computer Ethik, Visualistik
+Darüber hinaus werden folgende Module für die Studienrichtung angeboten: Quality Management, Logik und semantische Modellierung, Computer Ethik, Visualistik
 
 
 ## Lehrveranstaltungen im Projekt:

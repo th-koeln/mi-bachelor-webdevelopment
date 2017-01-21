@@ -2,7 +2,7 @@
 title: Web-basierte Architekturen 
 modulverantwortlich: Kristian Fischer
 modulniveau: n/a
-kuezel: WBA
+kuezel: WTW-WBA
 untertitel: null
 studiensemester: siehe Studienverlaufsplan
 kategorie: n/a
