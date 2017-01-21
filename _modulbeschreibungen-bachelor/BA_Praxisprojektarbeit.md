@@ -22,9 +22,9 @@ Angeleitetes, eigenverantwortliches Arbeiten
 Projektarbeit: 300 Stunden
 
 ## Angestrebte Lernergebnisse:
-Die Studierenden  
+Die Studierenden: 
 
-- können Methoden und Techniken, die sie im Studium erlernt haben, in realitätsnahen Projekten weitgehend selbstständig anwenden und
+- können Methoden und Techniken, die sie im Studium erlernt haben, in realitätsnahen Projekten weitgehend selbstständig anwenden
 
 - haben erste Erfahrungen mit der Selbststeuerung und proaktiven Kommunikation in einem Projekt mittlerer Größe und der Einordnung von Projektarbeit in betriebliche, gesellschaftliche und rechtliche Rahmenbedingungen gesammelt
 
@@ -40,7 +40,5 @@ Schriftliche Ausarbeitung, Projektdokumentation
 
 
 ## Literatur:
-- Rechenberg: Technisches Schreiben (nicht nur) für Informatiker, 2. Aufl, Hanser Verlag 2003
 
-- M. Karmasin, R. Ribing: Die Gestaltung wissenschaftlicher Arbeiten, 2. Auflage WUV 2007
 
