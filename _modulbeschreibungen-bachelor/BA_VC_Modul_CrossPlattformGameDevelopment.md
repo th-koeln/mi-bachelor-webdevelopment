@@ -1,6 +1,6 @@
 ---
 title: Crossplatform Game Development mit Unity3D
-modulverantwortlich: -
+modulverantwortlich: n.a.
 modulniveau: BA
 kuerzel: CGD
 untertitel: null
