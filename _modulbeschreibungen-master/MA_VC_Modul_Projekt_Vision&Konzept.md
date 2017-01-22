@@ -1,6 +1,6 @@
 ---
 title: Projektarbeit - Vision & Konzept im Schwerpunkt Visual Computing
-modulverantwortlich: Prof. Dr.-Ing. Martin Eisemann
+modulverantwortlich: me
 modulniveau: n/a
 kuerzel: VCP-TF
 untertitel: null

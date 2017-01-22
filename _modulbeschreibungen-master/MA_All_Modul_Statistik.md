@@ -1,6 +1,6 @@
 ---
 title: Deskriptive Statistik und Inferenzstatistik
-modulverantwortlich: Prof. Gerhard Hartmann
+modulverantwortlich: gh
 modulniveau: null
 kuerzel: Stat
 untertitel: Deskriptive Statistik und Inferenzstatistik

@@ -1,6 +1,6 @@
 ---
 title: Storytelling und Narrative Strukturen 
-modulverantwortlich: Prof. Hans Kornacher
+modulverantwortlich: hk
 modulniveau: MA
 kuezel: SNS
 untertitel: null

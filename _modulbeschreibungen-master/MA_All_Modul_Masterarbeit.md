@@ -1,6 +1,6 @@
 ---
 title: Masterarbeit 
-modulverantwortlich: Alle Dozenten
+modulverantwortlich: all
 modulniveau: n/a
 kuerzel: MA
 untertitel: Masterarbeit inkl. Kolloquium

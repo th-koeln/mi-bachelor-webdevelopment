@@ -1,6 +1,6 @@
 ---
 title: Visual Computing
-modulverantwortlich: Prof. Hans Kornacher, Prof. Dr.-Ing. Martin Eisemann
+modulverantwortlich: hk, me
 modulniveau: null
 kuerzel: VC
 untertitel: null

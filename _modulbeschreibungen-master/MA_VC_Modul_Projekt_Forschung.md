@@ -1,6 +1,6 @@
 ---
 title: Projektarbeit - Forschung im Schwerpunkt Visual Computing
-modulverantwortlich: Prof. Dr.-Ing. Martin Eisemann
+modulverantwortlich: me
 modulniveau: n/a
 kuerzel: VCP-F
 untertitel: null

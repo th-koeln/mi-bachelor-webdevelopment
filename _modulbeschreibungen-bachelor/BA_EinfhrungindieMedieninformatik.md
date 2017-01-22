@@ -1,6 +1,6 @@
 ---
 title: Einführung in die Medieninformatik
-modulverantwortlich: Prof. Dr. Martin Eisemann, Prof. Dr. Kristian Fischer, Prof. Dr. Gerhard Hartmann, Prof. Christian Kohls, Prof. Hans Kornacher, Prof. Christian Noss
+modulverantwortlich: mi
 modulniveau:
 kuerzel: EMI
 untertitel:

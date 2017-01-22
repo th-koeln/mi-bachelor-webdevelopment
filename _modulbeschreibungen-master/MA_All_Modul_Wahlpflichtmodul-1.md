@@ -1,6 +1,6 @@
 ---
 title: Wahlpflichtmodul
-modulverantwortlich: alle
+modulverantwortlich: all
 modulniveau: n/a
 kuerzel: WPM
 untertitel: null

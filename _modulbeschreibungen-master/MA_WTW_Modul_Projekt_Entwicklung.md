@@ -1,6 +1,6 @@
 ---
 title: Projektarbeit - Entwicklung im Schwerpunkt Web Development
-modulverantwortlich: ??
+modulverantwortlich: cn, kf, mb
 modulniveau: n/a
 kuerzel: WTWP-E
 untertitel: null

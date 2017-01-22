@@ -1,6 +1,6 @@
 ---
 title: Datenbanken 1
-modulverantwortlich: Prof. Dr. Birgit Bertelsmeier, Prof. Dr. Heide Faeskorn-Woyke
+modulverantwortlich: bb, hfw
 modulniveau:
 kuerzel: DB1
 untertitel:

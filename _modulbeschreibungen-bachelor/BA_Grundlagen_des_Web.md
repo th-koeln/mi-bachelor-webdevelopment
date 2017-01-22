@@ -1,6 +1,6 @@
 ---
 title: Grundlagen des Web
-modulverantwortlich: Prof. Christian Noss, Prof. Dr. Kristian Fischer
+modulverantwortlich: cn, kf
 modulniveau: null
 kuerzel: GW
 untertitel: null

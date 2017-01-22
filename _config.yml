@@ -107,7 +107,6 @@ collections:
   ideen:
     layout: ideen
     
-    
 defaults:
   - 
     scope:
@@ -149,4 +148,4 @@ defaults:
       path: "selbstbericht_schnipsel"
       type: selbstbericht2009
     values:
-      layout: selbstbericht
+      layout: selbstbericht   

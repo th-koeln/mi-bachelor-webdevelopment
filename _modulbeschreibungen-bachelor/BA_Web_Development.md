@@ -1,6 +1,6 @@
 ---
 title: Web Development 
-modulverantwortlich: Prof. Christian Noss, Prof. Dr. Kristian Fischer, Prof. Dr. Matthias Böhmer
+modulverantwortlich: cn, kf, mb
 modulniveau: null
 kuerzel: WD
 untertitel: null

@@ -1,6 +1,6 @@
 ---
 title: Algorithmen und Programmierung 1
-modulverantwortlich: Prof. Dr. Frank Victor
+modulverantwortlich: fv
 modulniveau:
 kuerzel: AP1
 untertitel:

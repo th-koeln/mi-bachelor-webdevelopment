@@ -1,6 +1,6 @@
 ---
 title: Praxisprojektseminar
-modulverantwortlich: Prof. Christian Noss
+modulverantwortlich: cn
 modulniveau:
 kuerzel: PPS
 untertitel:

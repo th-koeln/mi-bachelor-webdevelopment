@@ -1,6 +1,6 @@
 ---
 title: Prozedurale Generierung virtueller Welten
-modulverantwortlich: Dipl.-Inform. (FH) Dennis Buderus
+modulverantwortlich: db
 modulniveau: BA
 kuerzel: PGVW
 untertitel: null

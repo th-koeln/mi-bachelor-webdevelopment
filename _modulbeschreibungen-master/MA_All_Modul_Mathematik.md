@@ -1,6 +1,6 @@
 ---
 title: Spezielle Gebiete der Mathematik
-modulverantwortlich: Prof. Dr. Wolfgang Konen, Prof. Dr. Boris Naujoks
+modulverantwortlich: wk, bn
 modulniveau: n/a
 kuerzel: SGM-D
 untertitel: null

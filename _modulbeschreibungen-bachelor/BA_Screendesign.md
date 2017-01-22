@@ -1,6 +1,6 @@
 ---
 title: Screendesign
-modulverantwortlich: Prof. Christian Noss
+modulverantwortlich: cn
 modulniveau: null
 kuerzel: SD
 untertitel: null

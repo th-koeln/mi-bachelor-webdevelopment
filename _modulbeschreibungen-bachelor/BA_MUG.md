@@ -1,6 +1,6 @@
 ---
 title: Informatik, Recht und Gesellschaft
-modulverantwortlich: Prof. Dr. Mario Winter
+modulverantwortlich: mw
 modulniveau: null
 kuerzel: IRG
 untertitel: null

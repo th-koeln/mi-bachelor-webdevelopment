@@ -1,6 +1,6 @@
 ---
 title: Systeme für kooperatives Arbeiten und Lernen
-modulverantwortlich: Christian Kohls
+modulverantwortlich: ck
 modulniveau: null
 kuezel: CSCL
 untertitel: null
@@ -13,7 +13,7 @@ voraussetzungen-nach-pruefungsordnung:
 empfohlene-voraussetzungen: 
 published: true
 type: spm
-parent: hci
+parent: sc
 ---
 
 ## Lehrform/SWS: Vorlesung/ 2 SWS, Übung/ 1 SWS, Projekt/ 3 SWS

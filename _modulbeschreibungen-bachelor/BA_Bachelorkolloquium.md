@@ -1,6 +1,6 @@
 ---
 title: Bachelor Kolloquium
-modulverantwortlich: alle Informatik Professoren
+modulverantwortlich: all
 modulniveau:
 kuerzel: BK
 untertitel:

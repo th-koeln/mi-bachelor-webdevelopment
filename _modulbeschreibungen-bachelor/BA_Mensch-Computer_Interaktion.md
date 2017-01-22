@@ -1,6 +1,6 @@
 ---
 title: Mensch-Computer Interaktion
-modulverantwortlich: Prof. Dr. Gerhard Hartmann
+modulverantwortlich: gh
 modulniveau: null
 kuerzel: MCI
 untertitel: null

@@ -1,6 +1,6 @@
 ---
 title: Praxisprojekt
-modulverantwortlich: alle Informatik Professoren
+modulverantwortlich: all
 modulniveau:
 kuerzel: PP
 untertitel:

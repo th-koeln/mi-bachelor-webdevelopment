@@ -1,6 +1,6 @@
 ---
 title: Einführung in Soziotechnische Systeme
-modulverantwortlich: Christian Kohls
+modulverantwortlich: ck
 modulniveau: null
 kuezel: SZ
 untertitel: null
@@ -12,8 +12,8 @@ kreditpunkte: 5
 voraussetzungen-nach-pruefungsordnung:
 empfohlene-voraussetzungen: 
 published: true
-type: spm
-parent: 
+type: tm
+parent: SC
 ---
 
 ## Lehrform/SWS:  Vorlesung / 2 SWS, Seminar 2 SWS 

@@ -1,6 +1,6 @@
 ---
 title: Industrie- und Imagefilm  
-modulverantwortlich: Prof. Hans Kornacher
+modulverantwortlich: hk
 modulniveau: BA
 kuerzel: IIF
 untertitel: null

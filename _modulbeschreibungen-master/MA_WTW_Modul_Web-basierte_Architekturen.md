@@ -1,6 +1,6 @@
 ---
 title: Web-basierte Architekturen 
-modulverantwortlich: Kristian Fischer
+modulverantwortlich: kf
 modulniveau: n/a
 kuezel: WTW-WBA
 untertitel: null

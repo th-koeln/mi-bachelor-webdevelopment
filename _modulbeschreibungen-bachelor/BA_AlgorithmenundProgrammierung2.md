@@ -1,6 +1,6 @@
 ---
 title: Algorithmen und Programmierung 2
-modulverantwortlich: Prof. Christian Kohls
+modulverantwortlich: ck
 modulniveau:
 kuerzel: AP2
 untertitel:

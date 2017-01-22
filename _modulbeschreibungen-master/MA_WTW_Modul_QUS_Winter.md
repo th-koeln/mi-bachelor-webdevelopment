@@ -1,6 +1,6 @@
 ---
 title: Qualitätssicherung für Web-Anwendungen 
-modulverantwortlich: Mario Winter
+modulverantwortlich: mw
 modulniveau: Master
 kuerzel: WTW-QUS
 untertitel: null

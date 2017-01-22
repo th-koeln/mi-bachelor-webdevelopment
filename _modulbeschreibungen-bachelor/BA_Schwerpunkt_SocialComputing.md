@@ -1,8 +1,8 @@
 ---
 title: Schwerpunkt Social Computing
-modulverantwortlich: Christian Kohls
+modulverantwortlich: ck
 modulniveau: null
-kuerzel: VC
+kuerzel: SC
 untertitel: null
 studiensemester: 4
 kategorie: null

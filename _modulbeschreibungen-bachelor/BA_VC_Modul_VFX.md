@@ -1,6 +1,6 @@
 ---
 title: Visuelle Effekte und Animation  
-modulverantwortlich: Prof. Hans Kornacher
+modulverantwortlich: hk
 modulniveau: BA
 kuerzel: VFX
 untertitel: null

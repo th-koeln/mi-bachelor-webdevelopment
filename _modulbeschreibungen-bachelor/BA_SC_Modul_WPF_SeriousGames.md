@@ -1,6 +1,6 @@
 ---
 title: Serious Games
-modulverantwortlich: Christian Kohls
+modulverantwortlich: ck
 modulniveau: null
 kuezel: CE
 untertitel: null
@@ -12,8 +12,8 @@ kreditpunkte: 5
 voraussetzungen-nach-pruefungsordnung:
 empfohlene-voraussetzungen: 
 published: true
-type: spm
-parent: 
+type: tm
+parent: SC
 ---
 
 ## Lehrform/SWS: 1 SWS Vorlesung, 3 SWS Projekt

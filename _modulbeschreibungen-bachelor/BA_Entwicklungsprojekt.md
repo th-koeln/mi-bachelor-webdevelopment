@@ -1,6 +1,6 @@
 ---
 title: Entwicklungsprojekt
-modulverantwortlich: Prof. Dr. Martin Eisemann, Prof. Dr. Kristian Fischer, Prof. Dr. Gerhard Hartmann, Prof. Dr. Christian Kohls, Prof. Hans Kornacher, Prof. Christian Noss
+modulverantwortlich: mi
 modulniveau:
 kuerzel: EPM
 untertitel:

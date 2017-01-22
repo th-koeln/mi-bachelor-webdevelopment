@@ -1,6 +1,6 @@
 ---
 title: Mathematik 2
-modulverantwortlich: Prof. Dr. Wolfgang Konen
+modulverantwortlich: wk
 modulniveau:
 kuerzel: MA2
 untertitel:

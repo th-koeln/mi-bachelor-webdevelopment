@@ -1,9 +1,8 @@
 ---
-title: Soziotechnische Systeme
-<!-- MW: Social Computing?? -->
-verantwortlich: Christian Kohls
+title: Social Computing
+verantwortlich: ck
 type: sp
-kuerzel: sts
+kuerzel: sc
 kurzbeschreibung: Kurzbeschreibung fehlt
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Sketching User Experience
-modulverantwortlich: Gerhard Hartmann
+modulverantwortlich: gh
 modulniveau: null
 kuezel: 
 untertitel: null

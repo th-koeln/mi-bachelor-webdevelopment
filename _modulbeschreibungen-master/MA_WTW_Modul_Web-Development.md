@@ -1,6 +1,6 @@
 ---
 title: Web Development
-modulverantwortlich: Prof. Christian Noss
+modulverantwortlich: cn
 modulniveau:
 kuezel: WTW-WD
 untertitel:

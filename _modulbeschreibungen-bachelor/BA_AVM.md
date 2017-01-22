@@ -1,6 +1,6 @@
 ---
 title: Audiovisuelles Medienprojekt 
-modulverantwortlich: Prof. Hans Kornacher
+modulverantwortlich: hk
 modulniveau: BA
 kuerzel: AVM
 untertitel: null

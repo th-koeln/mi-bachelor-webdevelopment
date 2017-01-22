@@ -1,6 +1,6 @@
 ---
 title: Projektarbeit - Entwicklung im Schwerpunkt Mensch-Computer Interaktion
-modulverantwortlich: Gerhard Hartmann
+modulverantwortlich: gh
 modulniveau: n/a
 kuerzel: WDP-E
 untertitel: null

@@ -1,0 +1,70 @@
+<!-- Daten übernehmen -->
+{% assign dozent = include.dozent %}
+
+<!-- Leeres Array für Module deklarieren -->
+{% assign module_ss = "" | split:"|"  %}
+{% assign module_ws = "" | split:"|"  %}
+
+<!-- Modulbeschreibungen Bachelor auslesen und durch iterieren-->
+{% assign module = (site.modulbeschreibungen-bachelor) %}
+{% for modul in module %}
+
+<!-- Wenn dies ein Modul des aktuellen Dozenten ist, dann selbiges speichern -->
+{% if(modul.modulverantwortlich contains dozent[0]) %}
+
+<!-- Liegt das Modul im Sommersemester oder Wintersemester? -->
+{% assign value = modul.studiensemester | modulo:2 %}
+
+{% if value == 0 %}
+
+{% capture item %}
+<a href="{{site.baseurl}}{{modul.url}}">Bachelor: {{modul.title}}</a>
+{% endcapture %}
+{% assign module_ss = module_ss | push: item %}
+
+{% else %}
+
+{% capture item %}
+<a href="{{site.baseurl}}{{modul.url}}">Bachelor: {{modul.title}}</a>
+{% endcapture %}
+{% assign module_ws = module_ss | push: item %}
+
+{% endif %}
+
+{% endif %}
+{% endfor %}
+
+
+<!-- Modulbeschreibungen Master auslesen und durch iterieren-->
+{% assign module_master = (site.modulbeschreibungen-master) %}
+{% for modul in module_master %}
+
+<!-- Wenn dies ein Modul des aktuellen Dozenten ist, dann selbiges speichern -->
+{% if(modul.modulverantwortlich contains dozent[0]) %}
+
+<!-- Liegt das Modul im Sommersemester oder Wintersemester? -->
+{% assign value = modul.studiensemester-ws | modulo:2 %}
+
+{% if value == 0 %}
+
+{% capture item %}
+<a href="{{site.baseurl}}{{modul.url}}">Master: {{modul.title}}</a>
+{% endcapture %}
+{% assign module_ss = module_ss | push: item %}
+
+{% else %}
+
+{% capture item %}
+<a href="{{site.baseurl}}{{modul.url}}">Master: {{modul.title}}</a>
+{% endcapture %}
+{% assign module_ws = module_ss | push: item %}
+
+{% endif %}
+
+{% endif %}
+{% endfor %}
+
+
+<!-- Ausgabe vorbereiten -->
+{% assign module_ss = module_ss | join: '<br>' %}
+{% assign module_ws = module_ws | join: '<br>' %}

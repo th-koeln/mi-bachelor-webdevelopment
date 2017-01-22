@@ -1,6 +1,6 @@
 ---
 title: Projektarbeit - Vision und Konzept im Schwerpunkt Web Development
-modulverantwortlich: ?? (Kristian Fischer)
+modulverantwortlich: cn, kf, mb
 modulniveau: n/a
 kuerzel: WTWP-VK
 untertitel: null

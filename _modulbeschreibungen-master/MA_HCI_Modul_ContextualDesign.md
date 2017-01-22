@@ -1,6 +1,6 @@
 ---
 title: Contextual Design
-modulverantwortlich: GH?
+modulverantwortlich: gh
 modulniveau: null
 kuezel: null
 untertitel: null

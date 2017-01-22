@@ -1,6 +1,6 @@
 ---
 title: Interaction Design
-modulverantwortlich: Gerhard Hartmann
+modulverantwortlich: gh
 modulniveau: null
 kuezel: 
 untertitel: ID

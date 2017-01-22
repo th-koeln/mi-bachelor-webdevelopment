@@ -2,6 +2,8 @@
 layout: default
 ---
 
+{% include /functions/resolve-names.html modulverantwortlich=page.modulverantwortlich %}
+
 <section class="section modulfacts">
 	
 	<div class="container">
@@ -20,7 +22,7 @@ layout: default
 				
 				{% assign check = page.modulverantwortlich | strip_newlines %}
 				{% if check != ""  %}
-				<dt>Modulverantwortlich</dt><dd>{{page.modulverantwortlich}}</dd>
+				<dt>Modulverantwortlich</dt><dd>{{modulverantwortliche}}</dd>
 				{% endif %}
 				
 				{% assign check = page.verantwortlich | strip_newlines %}

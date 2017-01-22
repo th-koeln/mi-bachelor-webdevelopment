@@ -1,6 +1,6 @@
 ---
 title: Projektarbeit - Vision und Konzept im Schwerpunkt Human-Computer Interaction
-modulverantwortlich: Gerhard Hartmann
+modulverantwortlich: gh
 modulniveau: n/a
 kuerzel: HCI-VK
 untertitel: null

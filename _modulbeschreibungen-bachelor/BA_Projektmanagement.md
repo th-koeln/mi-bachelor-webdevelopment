@@ -1,6 +1,6 @@
 ---
 title: Projektmanagement
-modulverantwortlich: Prof. Dr. Holger Günther, Prof. Dr. Mario Winter
+modulverantwortlich: hg, mw
 modulniveau: Bachelor
 kuerzel: PM
 untertitel: null

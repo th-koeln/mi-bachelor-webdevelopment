@@ -1,6 +1,6 @@
 ---
 title: Schwerpunktmodul 3
-modulverantwortlich: alle
+modulverantwortlich: all
 modulniveau: n/a
 kuerzel: SPM3
 untertitel: null

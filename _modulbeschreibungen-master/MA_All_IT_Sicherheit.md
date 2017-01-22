@@ -1,6 +1,6 @@
 ﻿---
 title: IT-Sicherheit 
-modulverantwortlich: Stefan Karsch
+modulverantwortlich: sk
 modulniveau: n/a
 kuerzel: ITS
 untertitel: null

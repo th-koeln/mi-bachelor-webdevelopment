@@ -1,6 +1,6 @@
 ---
 title: Human-Computer Interaction
-verantwortlich: Gerhard Hartmann
+verantwortlich: gh
 type: sp
 kuerzel: hci
 kurzbeschreibung: Kurzbeschreibung vorhanden

@@ -1,6 +1,6 @@
 ---
 title: Wahlpflichtmodul
-modulverantwortlich: alle Informatik Professoren
+modulverantwortlich: all
 modulniveau: null
 kuerzel: WPF
 untertitel: null

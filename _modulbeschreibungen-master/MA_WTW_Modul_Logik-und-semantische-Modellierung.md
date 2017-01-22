@@ -1,6 +1,6 @@
 ---
 title: Logik und semantische Modellierung
-modulverantwortlich: Kristian Fischer
+modulverantwortlich: kf
 modulniveau: n/a
 kuezel: WTW-LSM
 untertitel: null

@@ -1,6 +1,6 @@
 ---
 title: Photorealistische Computergrafik
-modulverantwortlich: Prof. Dr.-Ing. Martin Eisemann
+modulverantwortlich: me
 modulniveau: null
 kuezel: PCG
 untertitel: null

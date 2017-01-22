@@ -1,6 +1,6 @@
 ---
 title: Visualistik
-modulverantwortlich: Prof. Dr.-Ing. Martin Eisemann
+modulverantwortlich: me
 modulniveau: null
 kuezel: VI
 untertitel: null

@@ -1,6 +1,6 @@
 ---
 title: Bachelorarbeit
-modulverantwortlich: alle Informatik Professoren
+modulverantwortlich: all
 modulniveau:
 kuerzel: BA
 untertitel:

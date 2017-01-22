@@ -1,6 +1,6 @@
 ---
 title: WPF e-Science
-modulverantwortlich: Christian Kohls
+modulverantwortlich: ck
 modulniveau: null
 kuezel: CE
 untertitel: null
@@ -13,7 +13,7 @@ voraussetzungen-nach-pruefungsordnung:
 empfohlene-voraussetzungen: 
 published: true
 type: spm
-parent: 
+parent: sc
 ---
 
 ## Lehrform/SWS: Vorlesung/ 3 SWS, Projekt/ 3 SWS

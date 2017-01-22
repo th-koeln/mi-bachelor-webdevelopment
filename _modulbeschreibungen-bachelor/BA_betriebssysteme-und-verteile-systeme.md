@@ -1,6 +1,6 @@
 ---
 title: Betriebssysteme und verteilte Systeme
-modulverantwortlich: Prof. Dr. Matthias Böhmer, Prof. Dr. Lutz Köhler
+modulverantwortlich: mb, lk
 modulniveau: null
 kuerzel: BS1
 untertitel: null

@@ -1,6 +1,6 @@
 ---
 title: Design Methodologies
-modulverantwortlich: Gerhard Hartmann & Christian Kohls
+modulverantwortlich: gh, ck
 modulniveau: null
 kuezel: DM
 untertitel: null

@@ -84,7 +84,7 @@ layout: default
 			<table class="table is-tab-content is-{{startsemester}}" id="{{startsemester}}-{{schwerpunkt.kuerzel}}">
 				<thead>
 					<tr>
-						<th>Modulname</th>
+						<th width="50%">Modulname</th>
 						<th>Kürzel</th>
 						<th>CP</th>
 						<th>Modulverantwortlicher</th>
@@ -124,11 +124,9 @@ layout: default
 						</td>
 						<td>{{modulbeschreibung.kuerzel}}</td>
 						<td>{{modulbeschreibung.kreditpunkte}}</td>
-						{% assign profs = modulbeschreibung.modulverantwortlich | split: "," %}
 						<td>
-							{% for prof in profs %}
-							{{prof}}<br>
-							{% endfor %}
+							{% include /functions/resolve-names.html modulverantwortlich=modulbeschreibung.modulverantwortlich %}
+							{{modulverantwortliche}}
 						</td>
 					</tr>
 					{% endif %}

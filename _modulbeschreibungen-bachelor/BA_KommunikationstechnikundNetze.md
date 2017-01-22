@@ -1,6 +1,6 @@
 ---
 title: Kommunikationstechnik und Netze
-modulverantwortlich: Prof. Dr. Hans L. Stahl
+modulverantwortlich: hls
 modulniveau:
 kuerzel: KTN
 untertitel:

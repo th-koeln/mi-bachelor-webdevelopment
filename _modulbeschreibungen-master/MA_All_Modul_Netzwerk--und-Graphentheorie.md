@@ -1,6 +1,6 @@
 ---
 title: Netzwerk-und Graphentheorie
-modulverantwortlich: CK oder KF
+modulverantwortlich: ck, kf
 modulniveau: n/a
 kuerzel: NGT
 untertitel: null

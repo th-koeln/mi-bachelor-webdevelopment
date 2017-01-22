@@ -1,6 +1,6 @@
 ---
 title: Bildbasierte Computergrafik
-modulverantwortlich: Prof. Dr.-Ing. Martin Eisemann
+modulverantwortlich: me
 modulniveau: null
 kuezel: BCG
 untertitel: null

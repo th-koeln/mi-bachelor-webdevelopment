@@ -1,6 +1,6 @@
 ---
 title: Einführung in Betriebssysteme und Rechnerarchitektur
-modulverantwortlich: Prof. Dr. Stefan Karsch
+modulverantwortlich: sk
 modulniveau:
 kuerzel: EBR
 untertitel:

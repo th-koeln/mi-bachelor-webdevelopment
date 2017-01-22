@@ -1,6 +1,6 @@
 ---
 title: Theoretische Informatik 1
-modulverantwortlich: Prof. Dr. Martin Eisemann
+modulverantwortlich: me
 modulniveau:
 kuerzel: TI1
 untertitel:

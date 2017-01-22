@@ -1,0 +1,6 @@
+{% assign verantwortliche = include.modulverantwortlich | split: ","  %}
+{% assign modulverantwortliche = "" | split:"|"  %}
+ 
+{% for verantwortlich in verantwortliche %}
+{% assign modulverantwortliche = modulverantwortliche | push: site.data.people[verantwortlich].name %}
+{% endfor %}

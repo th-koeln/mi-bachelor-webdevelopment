@@ -1,6 +1,6 @@
 ---
 title: Theoretische Informatik 2
-modulverantwortlich: Prof. Dr. Martin Eisemann
+modulverantwortlich: me
 modulniveau:
 kuerzel: TI2
 untertitel:

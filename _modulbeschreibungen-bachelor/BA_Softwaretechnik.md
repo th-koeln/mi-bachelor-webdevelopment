@@ -1,6 +1,6 @@
 ---
 title: Softwaretechnik
-modulverantwortlich: Prof. Dr. Mario Winter
+modulverantwortlich: mw
 modulniveau: Bachelor
 kuerzel: ST1
 untertitel: null

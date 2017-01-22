@@ -1,6 +1,6 @@
 ---
 title: Audiovisuelle Medientechnik
-modulverantwortlich: Prof. Hans Kornacher
+modulverantwortlich: hk
 modulniveau: BA
 kuerzel: AMT
 untertitel: null

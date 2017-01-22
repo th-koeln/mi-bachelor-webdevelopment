@@ -1,6 +1,6 @@
 ---
 title: Computerethik
-modulverantwortlich: Christian Kohls
+modulverantwortlich: ck
 modulniveau: null
 kuezel: CE
 untertitel: null
@@ -13,7 +13,7 @@ voraussetzungen-nach-pruefungsordnung:
 empfohlene-voraussetzungen: 
 published: true
 type: spm
-parent: 
+parent: sc
 ---
 
 ## Lehrform/SWS: Vorlesung/ 2 SWS, Seminar/ 2 SWS

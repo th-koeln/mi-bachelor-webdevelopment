@@ -1,6 +1,6 @@
 ---
 title: Research Methods
-modulverantwortlich: Gerhard Hartmann
+modulverantwortlich: gh
 modulniveau: null
 kuezel: 
 untertitel: null

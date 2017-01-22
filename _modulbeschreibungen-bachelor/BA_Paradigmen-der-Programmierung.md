@@ -1,6 +1,6 @@
 ---
 title: Paradigmen der Programmierung
-modulverantwortlich: Prof. Christian Kohls
+modulverantwortlich: ck
 modulniveau:
 kuerzel: PP
 untertitel:

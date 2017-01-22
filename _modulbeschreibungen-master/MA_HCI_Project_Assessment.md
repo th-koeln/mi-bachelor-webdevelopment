@@ -1,6 +1,6 @@
 ---
 title: Projektarbeit - Assessment/Evaluation im Schwerpunkt Mensch-Computer Interaktion
-modulverantwortlich: Gerhard Hartmann
+modulverantwortlich: gh
 modulniveau: n/a
 kuerzel: WDP-E
 untertitel: null

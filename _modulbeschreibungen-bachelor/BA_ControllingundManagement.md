@@ -1,6 +1,6 @@
 ---
 title: Controlling und Management
-modulverantwortlich: Prof. Dr. Arno Bitzer
+modulverantwortlich: ab
 modulniveau:
 kuerzel: COM
 untertitel:

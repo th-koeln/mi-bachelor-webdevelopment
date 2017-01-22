@@ -1,6 +1,6 @@
 ---
 title: Computergrafik und Animation
-modulverantwortlich: Prof. Dr. Martin Eisemann
+modulverantwortlich: me
 modulniveau: BA
 kuerzel: CGA
 untertitel: null

@@ -1,6 +1,6 @@
 ---
 title: Mathematik 1
-modulverantwortlich: Prof. Dr. Wolfgang Konen
+modulverantwortlich: wk
 modulniveau:
 kuerzel: MA1
 untertitel:

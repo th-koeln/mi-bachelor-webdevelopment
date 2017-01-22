@@ -1,6 +1,6 @@
 ---
 title: Visual Computing
-verantwortlich: Martin Eisemann, Hans Kornacher
+verantwortlich: hk, me
 type: sp
 kuerzel: vc
 kurzbeschreibung: Die Studienrichtung "Visual Computing" steht an der Schnittstelle von Computergrafik, Computer Vision, Mensch-Maschine-Kommunikation, Bild- und Videoverarbeitung, sowie Visualisierung. Ziel der Studienrichtung Visual Computing ist es, den Studierenden ein solides Fundament bildbasierter und bildgebender Verfahren zu vermitteln, indem die Entwicklung praktischer Algorithmen und Programme anhand ihrer theoretischen Grundlagen erlernt wird. Zusätzlich sollen die Studierenden in die Lage versetzt werden, die entwickelten Applikationen zu bewerten, zu präsentieren und auf ihre ethischen Konsequenzen hin zu prüfen. 

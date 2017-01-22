@@ -3,8 +3,6 @@
   <head>
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
-    {% include meta.html %}
-
     <!--[if lt IE 9]>
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
@@ -13,6 +11,7 @@
 	<link href="https://fonts.googleapis.com/css?family=PT+Sans" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+    <link rel="shortcut icon" type="image/x-icon" href="{{site.baseurl}}/favicon.ico">
 
   </head>
 
@@ -37,6 +36,7 @@
 	          <a href="{{ site.baseurl }}/bpo3/" class="nav-item">BPO3</a>
 	          <a href="{{ site.baseurl }}/selbstbericht/" class="nav-item">Selbstbericht</a>
 	          <a href="{{ site.baseurl }}/ideen/" class="nav-item">Ideen & Notizen</a>
+	          <a href="{{ site.baseurl }}/dozenten/" class="nav-item">Dozenten</a>
 	        </div>
 	      </div>
 	    </header>
@@ -83,6 +83,7 @@
 				<li><a href="{{ site.baseurl }}/selbstbericht/">Selbstbericht</a></li>
 				<li><a href="{{ site.baseurl }}/bpo3/" class="nav-item">BPO3</a></li>
 				<li><a href="{{ site.baseurl }}/ideen/" class="nav-item">Ideen & Notizen</a></li>
+				<li><a href="{{ site.baseurl }}/dozenten/" class="nav-item">Dozenten</a></li>
 			</ul>
 		</div>
 	</footer>

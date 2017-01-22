@@ -1,6 +1,6 @@
 ---
 title: Schwerpunktmodul 1
-modulverantwortlich: alle
+modulverantwortlich: all
 modulniveau: n/a
 kuerzel: SPM
 untertitel: null

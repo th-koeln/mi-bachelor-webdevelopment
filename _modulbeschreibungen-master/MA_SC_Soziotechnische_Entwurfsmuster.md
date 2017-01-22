@@ -1,6 +1,6 @@
 ---
 title: Soziotechnische Entwurfsmuster
-modulverantwortlich: Christian Kohls
+modulverantwortlich: ck
 modulniveau: null
 kuezel: SZ
 untertitel: null
@@ -13,7 +13,7 @@ voraussetzungen-nach-pruefungsordnung:
 empfohlene-voraussetzungen: 
 published: true
 type: spm
-parent: hci
+parent: sc
 ---
 
 ## Lehrform/SWS:  Vorlesung / 2 SWS, Projekt 2 SWS 
