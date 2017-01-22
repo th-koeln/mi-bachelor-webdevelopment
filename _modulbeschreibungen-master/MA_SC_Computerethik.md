@@ -4,7 +4,8 @@ modulverantwortlich: ck
 modulniveau: null
 kuezel: CE
 untertitel: null
-studiensemester: 
+studiensemester-ws: 1
+studiensemester-ss: 2
 kategorie: null
 sprache: deutsch
 zuordnung-zum-curriculum: Medieninformatik Master

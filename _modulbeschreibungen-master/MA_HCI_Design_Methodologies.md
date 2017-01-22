@@ -4,7 +4,8 @@ modulverantwortlich: gh, ck
 modulniveau: null
 kuezel: DM
 untertitel: null
-studiensemester: 
+studiensemester-ws: 1
+studiensemester-ss: 2
 kategorie: null
 sprache: deutsch
 zuordnung-zum-curriculum: Medieninformatik Master

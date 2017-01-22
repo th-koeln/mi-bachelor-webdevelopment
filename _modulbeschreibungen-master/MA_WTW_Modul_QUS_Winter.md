@@ -4,7 +4,8 @@ modulverantwortlich: mw
 modulniveau: Master
 kuerzel: WTW-QUS
 untertitel: null
-studiensemester: null
+studiensemester-ws: 1
+studiensemester-ss: 2
 kategorie: Projektbegleitend
 sprache: deutsch, Seminar-Basisliteratur i.d.R. in englischer Sprache
 zuordnung-zum-curriculum: null

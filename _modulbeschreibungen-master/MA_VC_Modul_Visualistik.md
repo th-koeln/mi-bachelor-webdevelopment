@@ -4,7 +4,8 @@ modulverantwortlich: me
 modulniveau: null
 kuezel: VI
 untertitel: null
-studiensemester: 2 (Studienbeginn WS), 1 (Studienbeginn SS)
+studiensemester-ws: 2
+studiensemester-ss: 1
 kategorie: null
 sprache: wahlweise deutsch oder englisch
 zuordnung-zum-curriculum: Medieninformatik Master

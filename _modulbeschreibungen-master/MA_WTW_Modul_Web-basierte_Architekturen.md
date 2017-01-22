@@ -4,7 +4,8 @@ modulverantwortlich: kf
 modulniveau: n/a
 kuezel: WTW-WBA
 untertitel: null
-studiensemester: siehe Studienverlaufsplan
+studiensemester-ws: 1
+studiensemester-ss: 2
 kategorie: n/a
 sprache: deutsch
 zuordnung-zum-curriculum: siehe Studienverlaufsplan

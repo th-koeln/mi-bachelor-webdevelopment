@@ -4,7 +4,8 @@ modulverantwortlich: gh
 modulniveau: null
 kuezel: null
 untertitel: null
-studiensemester: null
+studiensemester-ws: 1
+studiensemester-ss: 2
 kategorie: null
 sprache: null
 zuordnung-zum-curriculum: null

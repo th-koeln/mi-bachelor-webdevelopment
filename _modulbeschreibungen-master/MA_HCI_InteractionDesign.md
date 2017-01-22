@@ -4,7 +4,8 @@ modulverantwortlich: gh
 modulniveau: null
 kuezel: 
 untertitel: ID
-studiensemester: 
+studiensemester-ws: 1
+studiensemester-ss: 2
 kategorie: null
 sprache: deutsch
 zuordnung-zum-curriculum: Medieninformatik Master, Software-Engineering Master

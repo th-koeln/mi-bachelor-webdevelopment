@@ -4,7 +4,8 @@ modulverantwortlich: sk
 modulniveau: n/a
 kuerzel: ITS
 untertitel: null
-studiensemester: siehe Studienverlaufsplan
+studiensemester-ws: 1
+studiensemester-ss: 2
 kategorie: n/a
 sprache: deutsch
 zuordnung-zum-curriculum: siehe Studienverlaufsplan
