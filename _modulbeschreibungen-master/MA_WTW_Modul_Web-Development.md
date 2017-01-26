@@ -4,8 +4,8 @@ modulverantwortlich: cn
 modulniveau:
 kuezel: WTW-WD
 untertitel:
-studiensemester-ws: 1
-studiensemester-ss: 2
+studiensemester-ws: 2
+studiensemester-ss: 1,3
 kategorie:
 sprache: deutsch
 zuordnung-zum-curriculum: siehe Studienverlaufsplan

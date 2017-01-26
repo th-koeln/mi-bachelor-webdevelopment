@@ -16,7 +16,7 @@ published: true
 type: spmw
 ---
 
-##Kurzbeschreibung
+## Kurzbeschreibung
 
 ## Lehrform/SWS: 
 

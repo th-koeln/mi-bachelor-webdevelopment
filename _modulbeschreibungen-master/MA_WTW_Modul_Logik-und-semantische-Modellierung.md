@@ -4,8 +4,8 @@ modulverantwortlich: kf
 modulniveau: n/a
 kuezel: WTW-LSM
 untertitel: null
-studiensemester-ws: 1
-studiensemester-ss: 2
+studiensemester-ws: 2
+studiensemester-ss: 3
 kategorie: null
 sprache: deutsch
 zuordnung-zum-curriculum: null

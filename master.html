@@ -115,7 +115,25 @@ layout: default
 							{{modulbeschreibung.title}}: <br>
 							{% for schwerpunktmodul in schwerpunktmodule %}
 								{% if schwerpunktmodul.parent == schwerpunkt.kuerzel %}
-								- <a class="is-small is-less-important" href="{{site.baseurl}}{{schwerpunktmodul.url}}">{{schwerpunktmodul.title}}</a><br> 
+									<!-- startet das Modul im richtigen Semester? -->
+									{% assign show_submodule = false %}
+									{% assign sem = fachsemester | plus: 0 %}
+									{% if startsemester == "ws" %}									
+										{% if schwerpunktmodul.studiensemester-ws contains sem %}
+										{% assign show_submodule = true %}
+										{% endif %}
+									{% endif %}
+									
+									{% if startsemester == "ss" %}
+										{% if schwerpunktmodul.studiensemester-ss contains sem %}
+										{% assign show_submodule = true %}
+										{% endif %}
+									{% endif %}
+									
+									{% if show_submodule == true %}
+									- <a class="is-small is-less-important" href="{{site.baseurl}}{{schwerpunktmodul.url}}">{{schwerpunktmodul.title}}</a><br> 
+									{% endif %}
+								
 								{% endif %}
 							{% endfor %}
 							{% else %}

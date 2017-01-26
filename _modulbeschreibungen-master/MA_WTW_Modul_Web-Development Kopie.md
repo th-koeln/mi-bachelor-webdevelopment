@@ -1,18 +1,21 @@
-﻿---
+---
 title: IT-Sicherheit 
 modulverantwortlich: sk
-modulniveau: n/a
-kuerzel: ITS
-untertitel: null
-studiensemester-ws: 1
-studiensemester-ss: 2
-kategorie: n/a
+modulniveau:
+kuezel: WTW-ITS
+untertitel:
+studiensemester-ws: 2
+studiensemester-ss: 3
+kategorie:
 sprache: deutsch
 zuordnung-zum-curriculum: siehe Studienverlaufsplan
 kreditpunkte: 6
 voraussetzungen-nach-pruefungsordnung: keine
 empfohlene-voraussetzungen: keine
 published: true
+type: spm
+parent: wtw
+
 ---
 
 ## Kurzbeschreibung
@@ -64,7 +67,6 @@ Aufgabe der Studierenden:
 - Analyse und Erläuterung der Fähigkeiten und Grenzen im Kontext von Teil I der Veranstaltung,
 - Darstellung typischer Einsatzszenarien, 
 - Vergleich mit anderen Werkzeugen mit ähnlichen Fähigkeiten oder Eigenschaften 
-
 
 ## Studien-/Pr√ºfungsleistungen:
 Teil I und Teil II: Klausur sowie selbstständige Erarbeitung, Vortrag und Ausarbeitung zu einem speziellen Thema aus Teil II
