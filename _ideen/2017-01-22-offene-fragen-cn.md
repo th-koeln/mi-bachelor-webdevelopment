@@ -1,5 +1,5 @@
 ---
-title: 20.01.2017 - Offene Fragen CN
+title: 20.01.2017 - Offene Fragen CN, PO Gespräch mit Stefan Eckstein
 ---
 
 Autor
@@ -13,3 +13,7 @@ Datum
 - wie gehen wir mit den Kapazitäten um?
 - wie gehen wir mit den Schwerpunkten um?
 - Sind wir mit der Kommission einverstanden?
+
+## Fragen
+- Wie werden Modulnoten bei den Projektnoten ermittelt?
+- Wie gehen wir mit Konsekutivität um?
