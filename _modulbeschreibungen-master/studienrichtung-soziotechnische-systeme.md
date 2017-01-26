@@ -1,7 +1,7 @@
 ---
 title: Social Computing
 verantwortlich: ck
-type: sp11
+type: sp
 kuerzel: sc
 kurzbeschreibung: Kurzbeschreibung fehlt
 ---

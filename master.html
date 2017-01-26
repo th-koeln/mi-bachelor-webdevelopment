@@ -118,16 +118,25 @@ layout: default
 									<!-- startet das Modul im richtigen Semester? -->
 									{% assign show_submodule = false %}
 									{% assign sem = fachsemester | plus: 0 %}
-									{% if startsemester == "ws" %}									
-										{% if schwerpunktmodul.studiensemester-ws contains sem %}
-										{% assign show_submodule = true %}
-										{% endif %}
+									{% if startsemester == "ws" %}
+
+										{% assign startsemester_module = schwerpunktmodul.studiensemester-ws | split: "," %}
+										{% for startsemester_modul in startsemester_module %}
+											{% assign b = startsemester_modul | plus: 0 %}	
+											{% if sem == b %}
+											{% assign show_submodule = true %}
+											{% endif %}
+										{% endfor %}
 									{% endif %}
 									
 									{% if startsemester == "ss" %}
-										{% if schwerpunktmodul.studiensemester-ss contains sem %}
-										{% assign show_submodule = true %}
-										{% endif %}
+										{% assign startsemester_module = schwerpunktmodul.studiensemester-ss | split: "," %}
+										{% for startsemester_modul in startsemester_module %}
+											{% assign b = startsemester_modul | plus: 0 %}	
+											{% if sem == b %}
+											{% assign show_submodule = true %}
+											{% endif %}
+										{% endfor %}
 									{% endif %}
 									
 									{% if show_submodule == true %}

@@ -1,7 +1,7 @@
 ---
 title: Human-Computer Interaction
 verantwortlich: gh
-type: sp11
+type: sp
 kuerzel: hci
 kurzbeschreibung: Kurzbeschreibung vorhanden
 ---
