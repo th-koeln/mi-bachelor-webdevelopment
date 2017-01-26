@@ -1,5 +1,5 @@
 ---
-title: Web Development
+title: Web Technologien
 modulverantwortlich: cn
 modulniveau:
 kuezel: WTW-WD

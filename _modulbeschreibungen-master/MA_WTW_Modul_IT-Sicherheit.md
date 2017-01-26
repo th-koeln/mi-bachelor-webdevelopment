@@ -1,5 +1,5 @@
 ---
-title: IT-Sicherheit 
+title: Privatsphäre, Vertrauen & Sicherheit im Netz 
 modulverantwortlich: sk
 modulniveau:
 kuezel: WTW-ITS

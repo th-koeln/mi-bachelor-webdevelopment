@@ -1,5 +1,5 @@
 ---
-title: Web-basierte Architekturen 
+title: Web Architekturen 
 modulverantwortlich: kf
 modulniveau: n/a
 kuezel: WTW-WBA

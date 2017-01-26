@@ -110,7 +110,7 @@ Weitere Inhalte sind:
 - Mobile Web und Smartphone Sensoren (bspw. GPS, Beacons)
 
 ## Studien-/Prüfungsleistungen:
-Schriftliche Prüfung (40%) und Projektarbeit (60%) 
+Projektarbeit mit Projektpräsentationsprüfung und Fachgespräch.
 
 ## Medienformen:
 Beamergestützte Vorträge, Rechnergestützte Workshops
