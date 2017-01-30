@@ -18,7 +18,7 @@ Der Schwerpunkt "Multi-Perspective Systems Development" bereitet die Studierende
   - ein breites Spektrum der Projektkontexte von kleinen Inhouse-Projekten bis hin zu großen, organisationsübergreifenden internationalen Projekten.
 
 
-## Studienrichtungsspezifische Pflichtmodule
+## Schwerpunktspezifische Pflichtmodule
 Folgende Module sind in der Studienrichtung verpflichtend: 
 <!-- MW: 3 Module mit je 6 cp -->
 * Privatsphäre, Vertrauen & Sicherheit im Netz
@@ -38,7 +38,7 @@ Advanced Seminar
 ### Verwertung:
 - Lehrveranstaltungen je nach Studienrichtung des gewählten Projekts.
 
-## Empfohlene Wahlpflicht-Module in der Studienrichtung:
+## Empfohlene Wahlpflicht-Module in dem Schwerpunkt:
 - Logik und semantische Modellierung
 - Anforderungsmanagement
 - Medienrecht und Medienwirtschaft
