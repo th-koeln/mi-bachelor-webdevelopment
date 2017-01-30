@@ -3,12 +3,12 @@ title: Multiperspective Product Development
 verantwortlich: mw
 type: sp
 kuerzel: mpd
-kurzbeschreibung: Die Studienrichtung "Multi-Perspective Systems Development" bereitet die Studierenden auf die für viele Projekte der Medieninformatik typische Heterogenität vor, welche von der methodologischen über die technologische bis hin zur sozio-technischen und ökonomischen Komponente reicht. In jeder dieser Komponenten treffen Stakeholder mit jeweils eigenen Perspektiven aufeinander, die durch ihre Fachsprache, Methoden und Techniken sowie entsprechende Fähigkeiten, Verantwortlichkeiten und Kompetenzen definiert werden. Die Schnittstellen zwischen den Perspektiven sind in der Regel nicht offensichtlich, weil das Wissen in jeder auf unterschiedliche Weise dargestellt wird.  Die Studieninhalte sind daher integrativ und breit angelegt und berücksichtigen dabei die jeweiligen sozialen, technologischen und ökonomischen Rahmenbedingungen. Studienziel ist die Qualifikation zur Arbeit in sowie Organisation und Führung von  solchen Projekten auf breiter wissenschaftlicher Grundlage.  
+kurzbeschreibung: Der Schwerpunkt "Multi-Perspective Systems Development" bereitet die Studierenden auf die für viele Projekte der Medieninformatik typische Heterogenität vor, welche von der methodologischen über die technologische bis hin zur sozio-technischen Komponente reicht. In jeder dieser Komponenten treffen Stakeholder mit jeweils eigenen Perspektiven aufeinander, die durch ihre Fachsprache, Methoden und Techniken sowie entsprechende Fähigkeiten, Verantwortlichkeiten und Kompetenzen definiert werden. Die Schnittstellen zwischen den Perspektiven sind in der Regel nicht offensichtlich, weil das Wissen in jeder auf unterschiedliche Weise dargestellt wird.  Die Studieninhalte sind daher integrativ und breit angelegt und berücksichtigen dabei solche breit gestreuten Rahmenbedingungen. Studienziel ist die Qualifikation zur Arbeit in sowie Organisation und Führung von solchen Projekten auf breiter wissenschaftlicher Grundlage.  
 ---
 
 ## Zielsetzung:
 
-Die Studienrichtung "Multi-Perspective Systems Development" bereitet die Studierenden auf die für viele Projekte der Medieninformatik typische Heterogenität vor, welche von der methodologischen über die technologische bis hin zur sozio-technischen und ökonomischen Komponente reicht. Chakterisierende Merkmale solcher Projekte sind:
+Der Schwerpunkt "Multi-Perspective Systems Development" bereitet die Studierenden auf die für viele Projekte der Medieninformatik typische Heterogenität vor, welche von der methodologischen über die technologische bis hin zur sozio-technischen Komponente reicht. Chakterisierende Merkmale solcher Projekte sind:
 
 - Berücksichtigung von und Kommunikation mit Stakeholdern mit jeweils eigenen Perspektiven, die durch ihre Fachsprache, Methoden und Techniken sowie entsprechende Fähigkeiten, Verantwortlichkeiten und Kompetenzen definiert werden.
 - Heterogene soziale, technologische und ökonomische Rahmenbedingungen wie z.B. 
@@ -21,7 +21,7 @@ Die Studienrichtung "Multi-Perspective Systems Development" bereitet die Studier
 ## Studienrichtungsspezifische Pflichtmodule
 Folgende Module sind in der Studienrichtung verpflichtend: 
 <!-- MW: 3 Module mit je 6 cp -->
-* Logik und semantische Modellierung
+* Privatsphäre, Vertrauen & Sicherheit im Netz
 * Interaction Design
 * Qualitätssicherung und -management
 
@@ -39,7 +39,7 @@ Advanced Seminar
 - Lehrveranstaltungen je nach Studienrichtung des gewählten Projekts.
 
 ## Empfohlene Wahlpflicht-Module in der Studienrichtung:
-- Privatsphäre, Vertrauen & Sicherheit im Netz
+- Logik und semantische Modellierung
 - Anforderungsmanagement
 - Medienrecht und Medienwirtschaft
 - Web-basierte Architekturen
