@@ -1,5 +1,5 @@
 ---
-title: Sketching User Experience
+title: Sketching and Designing for User Experience
 modulverantwortlich: gh
 modulniveau: null
 kuerzel: SUE
