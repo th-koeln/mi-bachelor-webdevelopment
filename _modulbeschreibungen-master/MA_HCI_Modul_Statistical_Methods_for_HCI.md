@@ -13,7 +13,8 @@ kreditpunkte: 6
 voraussetzungen-nach-pruefungsordnung:
 empfohlene-voraussetzungen: 
 published: true
-type: pm
+type: wpm
+parent: hci
 ---
 
 ## Lehrform/SWS: Vorlesung , Übung
