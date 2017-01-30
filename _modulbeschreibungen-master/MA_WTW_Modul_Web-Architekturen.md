@@ -2,7 +2,7 @@
 title: Web Architekturen 
 modulverantwortlich: kf
 modulniveau: n/a
-kuezel: WTW-WBA
+kuerzel: WTW-WBA
 untertitel: null
 studiensemester-ws: 1, 3
 studiensemester-ss: 2
@@ -14,7 +14,8 @@ voraussetzungen-nach-pruefungsordnung: keine
 empfohlene-voraussetzungen: keine
 published: true
 type: spm
-parent: wtw
+parent: SPM1
+schwerpunkt: wtw
 ---
 
 ## Kurzbeschreibung

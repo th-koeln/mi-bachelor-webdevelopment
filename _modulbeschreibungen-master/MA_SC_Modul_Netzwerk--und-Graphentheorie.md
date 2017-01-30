@@ -13,7 +13,9 @@ kreditpunkte: 6
 voraussetzungen-nach-pruefungsordnung: keine
 empfohlene-voraussetzungen: keine
 published: true
-type: pm
+type: spm
+parent: SPM2
+schwerpunkt: sc
 ---
 
 ##Kurzbeschreibung

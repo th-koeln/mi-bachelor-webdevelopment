@@ -2,7 +2,7 @@
 title: Sketching User Experience
 modulverantwortlich: gh
 modulniveau: null
-kuezel: 
+kuerzel: SUE
 untertitel: null
 studiensemester-ws: 1
 studiensemester-ss: 2
@@ -13,7 +13,8 @@ kreditpunkte: 6
 voraussetzungen-nach-pruefungsordnung:
 empfohlene-voraussetzungen: 
 type: spm
-parent: hci
+parent: SPM1
+schwerpunkt: hci
 ---
 
 ## Lehrform/SWS: Vorlesung/ 2 SWS, Übung/ 1 SWS, Projekt/ 3 SWS

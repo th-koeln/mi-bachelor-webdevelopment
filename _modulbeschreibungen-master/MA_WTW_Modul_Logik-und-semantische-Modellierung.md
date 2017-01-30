@@ -2,7 +2,7 @@
 title: Logik und semantische Modellierung
 modulverantwortlich: kf
 modulniveau: n/a
-kuezel: WTW-LSM
+kuerzel: WTW-LSM
 untertitel: null
 studiensemester-ws: 2
 studiensemester-ss: 3
@@ -14,7 +14,8 @@ voraussetzungen-nach-pruefungsordnung: keine
 empfohlene-voraussetzungen: keine
 published: true
 type: spm
-parent: wtw
+parent: SPM2
+schwerpunkt: mpd
 ---
 
 ## Kurzbeschreibung

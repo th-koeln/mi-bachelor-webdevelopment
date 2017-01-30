@@ -2,7 +2,7 @@
 title: Schwerpunktmodul 1
 modulverantwortlich: all
 modulniveau: n/a
-kuerzel: SPM
+kuerzel: SPM1
 untertitel: null
 studiensemester-ws: 1
 studiensemester-ss: 2

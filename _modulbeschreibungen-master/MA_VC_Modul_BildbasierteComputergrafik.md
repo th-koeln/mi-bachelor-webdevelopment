@@ -2,9 +2,9 @@
 title: Bildbasierte Computergrafik
 modulverantwortlich: me
 modulniveau: null
-kuezel: BCG
+kuerzel: BCG
 untertitel: null
-studiensemester-ws: 3
+studiensemester-ws: 1, 3
 studiensemester-ss: 2
 kategorie: null
 sprache: wahlweise deutsch oder englisch
@@ -14,7 +14,8 @@ voraussetzungen-nach-pruefungsordnung: null
 empfohlene-voraussetzungen: Computergrafik und Animation
 published: true
 type: spm
-parent: vc
+parent: SPM3
+schwerpunkt: vc
 ---
 
 ## Kurzbeschreibung

@@ -2,7 +2,7 @@
 title: Research Methods
 modulverantwortlich: gh
 modulniveau: null
-kuezel: 
+kuerzel: 
 untertitel: null
 studiensemester-ws: 1
 studiensemester-ss: 2
@@ -13,8 +13,7 @@ kreditpunkte: 6
 voraussetzungen-nach-pruefungsordnung:
 empfohlene-voraussetzungen: 
 published: true
-type: spm
-parent: hci
+type: pm
 ---
 
 ## Lehrform/SWS: Vorlesung/ 2 SWS, Übung/ 1 SWS, Projekt/ 3 SWS

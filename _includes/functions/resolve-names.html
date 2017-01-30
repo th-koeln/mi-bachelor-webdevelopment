@@ -1,6 +1,9 @@
 {% assign verantwortliche = include.modulverantwortlich | split: ","  %}
-{% assign modulverantwortliche = "" | split:"|"  %}
+{% assign ms = "" | split:"|"  %}
  
 {% for verantwortlich in verantwortliche %}
-{% assign modulverantwortliche = modulverantwortliche | push: site.data.people[verantwortlich].name %}
+{% assign verantwortlich_clean = verantwortlich | lstrip %}
+{% assign ms = ms | push: site.data.people[verantwortlich_clean].name %}
 {% endfor %}
+
+{% assign modulverantwortliche = ms | join: ", " %}

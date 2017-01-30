@@ -2,7 +2,7 @@
 title: Interaction Design
 modulverantwortlich: gh
 modulniveau: null
-kuezel: 
+kuerzel: ID
 untertitel: ID
 studiensemester-ws: 1
 studiensemester-ss: 2
@@ -14,7 +14,8 @@ voraussetzungen-nach-pruefungsordnung:
 empfohlene-voraussetzungen: Basismodul Mensch-Computer Interaktion, so wie durch die GI e.V. publiziert
 published: true
 type: spm
-parent: hci
+parent: SPM3
+schwerpunkt: hci, mpd
 ---
 
 ## Lehrform/SWS: Vorlesung/ 2 SWS, Übung/ 1 SWS, Projekt/ 3 SWS

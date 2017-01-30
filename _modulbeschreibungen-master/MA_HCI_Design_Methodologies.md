@@ -2,7 +2,7 @@
 title: Design Methodologies
 modulverantwortlich: gh, ck
 modulniveau: null
-kuezel: DM
+kuerzel: DM
 untertitel: null
 studiensemester-ws: 1
 studiensemester-ss: 2
@@ -14,7 +14,8 @@ voraussetzungen-nach-pruefungsordnung:
 empfohlene-voraussetzungen: 
 published: true
 type: spm
-parent: hci
+parent: SPM2
+schwerpunkt: hci
 ---
 
 ## Lehrform/SWS: Vorlesung/ 2 SWS, Übung/ 1 SWS, Projekt/ 3 SWS

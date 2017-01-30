@@ -2,7 +2,7 @@
 title: Visualistik
 modulverantwortlich: me
 modulniveau: null
-kuezel: VI
+kuerzel: VI
 untertitel: null
 studiensemester-ws: 2
 studiensemester-ss: 1
@@ -14,7 +14,8 @@ voraussetzungen-nach-pruefungsordnung: null
 empfohlene-voraussetzungen: Web-basierte Anwendungen 1 (aus dem Bachelor) bzw. Kenntnisse in HTML und Javascript
 published: true
 type: spm
-parent: vc
+parent: SPM2
+schwerpunkt: vc
 ---
 
 ## Kurzbeschreibung

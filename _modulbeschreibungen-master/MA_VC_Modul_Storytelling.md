@@ -2,7 +2,7 @@
 title: Storytelling und Narrative Strukturen 
 modulverantwortlich: hk
 modulniveau: MA
-kuezel: SNS
+kuerzel: SNS
 untertitel: null
 studiensemester-ws: 1
 studiensemester-ss: 2
@@ -14,7 +14,9 @@ voraussetzungen-nach-pruefungsordnung: Keine über die Zulassungsbedingungen hin
 empfohlene-voraussetzungen: AVM
 published: true
 type: spm
-parent: vc
+parent: SPM1
+schwerpunkt: vc
+
 ---
 
 ## Kurzbeschreibung

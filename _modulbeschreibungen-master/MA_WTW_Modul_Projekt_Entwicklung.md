@@ -14,7 +14,8 @@ voraussetzungen-nach-pruefungsordnung: keine
 empfohlene-voraussetzungen: keine
 published: true
 type: spp
-parent: wtw
+parent: 
+schwerpunkt: wtw
 ---
 
 ## Kurzbeschreibung

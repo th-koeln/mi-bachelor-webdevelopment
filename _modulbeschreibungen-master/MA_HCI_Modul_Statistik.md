@@ -13,7 +13,8 @@ kreditpunkte: 6
 voraussetzungen-nach-pruefungsordnung:
 empfohlene-voraussetzungen: 
 published: true
-type: pm
+type: wpm
+parent: hci
 ---
 
 ## Lehrform/SWS: Vorlesung , Übung
@@ -21,8 +22,6 @@ type: pm
 
 ## Arbeitsaufwand: 180 h, davon 45h Vorlesung, 105h Selbststudium, 30h Übung
 6 ECTS
-
-
 
 ## Angestrebte Lernergebnisse:
 

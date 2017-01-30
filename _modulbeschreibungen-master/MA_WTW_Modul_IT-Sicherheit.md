@@ -2,7 +2,7 @@
 title: Privatsphäre, Vertrauen & Sicherheit im Netz 
 modulverantwortlich: sk
 modulniveau:
-kuezel: WTW-ITS
+kuerzel: WTW-ITS
 untertitel:
 studiensemester-ws: 2
 studiensemester-ss: 3
@@ -14,8 +14,8 @@ voraussetzungen-nach-pruefungsordnung: keine
 empfohlene-voraussetzungen: keine
 published: true
 type: spm
-parent: wtw
-
+parent: SPM3
+schwerpunkt: wtw, sc
 ---
 
 ## Kurzbeschreibung

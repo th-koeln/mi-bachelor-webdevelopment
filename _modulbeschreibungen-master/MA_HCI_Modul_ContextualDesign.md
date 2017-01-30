@@ -2,7 +2,7 @@
 title: Contextual Design
 modulverantwortlich: gh
 modulniveau: null
-kuezel: null
+kuerzel: CD
 untertitel: null
 studiensemester-ws: 1
 studiensemester-ss: 2
@@ -13,7 +13,7 @@ kreditpunkte: 6
 voraussetzungen-nach-pruefungsordnung: null
 empfohlene-voraussetzungen: null
 published: true
-type: spm
+type: wpm
 parent: hci
 ---
 

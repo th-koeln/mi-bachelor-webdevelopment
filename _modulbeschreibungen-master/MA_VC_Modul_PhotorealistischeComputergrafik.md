@@ -2,10 +2,10 @@
 title: Photorealistische Computergrafik
 modulverantwortlich: me
 modulniveau: null
-kuezel: PCG
+kuerzel: PCG
 untertitel: null
-studiensemester-ws: 2
-studiensemester-ss: 1
+studiensemester-ws: 1, 3
+studiensemester-ss: 2
 kategorie: null
 sprache: wahlweise deutsch oder englisch
 zuordnung-zum-curriculum: Medieninformatik Master
@@ -13,8 +13,9 @@ kreditpunkte: 5
 voraussetzungen-nach-pruefungsordnung: null
 empfohlene-voraussetzungen: Computergrafik und Animation
 published: true
-type: spm
-parent: vc
+type: wpm
+parent: WPM
+schwerpunkt: vc
 ---
 
 ## Kurzbeschreibung

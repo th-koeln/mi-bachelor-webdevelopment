@@ -2,7 +2,7 @@
 title: WPF e-Science
 modulverantwortlich: ck
 modulniveau: null
-kuezel: CE
+kuerzel: CE
 untertitel: null
 studiensemester-ws: 1
 studiensemester-ss: 2
@@ -13,8 +13,8 @@ kreditpunkte: 6
 voraussetzungen-nach-pruefungsordnung:
 empfohlene-voraussetzungen: 
 published: true
-type: spm
-parent: sc
+type: wpm
+parent: WPM
 ---
 
 ## Lehrform/SWS: Vorlesung/ 3 SWS, Projekt/ 3 SWS

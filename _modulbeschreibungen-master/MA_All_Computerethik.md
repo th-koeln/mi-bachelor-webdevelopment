@@ -2,10 +2,10 @@
 title: Computerethik
 modulverantwortlich: ck
 modulniveau: null
-kuezel: CE
+kuerzel: CE
 untertitel: null
-studiensemester-ws: 1
-studiensemester-ss: 2
+studiensemester-ws: 2
+studiensemester-ss: 1
 kategorie: null
 sprache: deutsch
 zuordnung-zum-curriculum: Medieninformatik Master
@@ -13,8 +13,7 @@ kreditpunkte: 6
 voraussetzungen-nach-pruefungsordnung:
 empfohlene-voraussetzungen: 
 published: true
-type: spm
-parent: sc
+type: pm
 ---
 
 ## Lehrform/SWS: Vorlesung/ 2 SWS, Seminar/ 2 SWS

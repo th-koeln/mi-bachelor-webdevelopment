@@ -2,7 +2,7 @@
 title: Systeme für kooperatives Arbeiten und Lernen
 modulverantwortlich: ck
 modulniveau: null
-kuezel: CSCL
+kuerzel: CSCL
 untertitel: null
 studiensemester-ws: 1
 studiensemester-ss: 2
@@ -13,8 +13,8 @@ kreditpunkte: 6
 voraussetzungen-nach-pruefungsordnung:
 empfohlene-voraussetzungen: 
 published: true
-type: spm
-parent: sc
+type: wpm
+parent: WPM
 ---
 
 ## Lehrform/SWS: Vorlesung/ 2 SWS, Übung/ 1 SWS, Projekt/ 3 SWS

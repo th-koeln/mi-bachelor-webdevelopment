@@ -14,7 +14,8 @@ voraussetzungen-nach-pruefungsordnung: keine
 empfohlene-voraussetzungen: Grundkenntnisse der Softwaretechnik
 published: true
 type: spm
-parent: wtw
+parent: SPM1
+schwerpunkt: mpd
 ---
 
 ## Kurzbeschreibung
@@ -56,7 +57,6 @@ Klausur 60 Minuten
 Beamer-gestützte Vorlesungen (Folien in elektronischer Form im Netz)
 
 Fallbeispielgestützte Übungen in Gruppen, um die erlernten Modelle und Methoden einzuüben und zu vertiefen (Seminarraum, Rechnerlabor).
-
 
 ## Literatur:
 - A. Spillner, T. Roßner, M. Winter, T. Linz: Praxiswissen Softwaretest – Testmanagement. 4., vollst. überarbeitete und akt. Auflage, dpunkt.verlag, Heidelberg, 2014

@@ -1,0 +1,26 @@
+{% assign module = include.module %}
+{% assign zielsemester = include.zielsemester %}
+{% assign suffix = include.suffix %}
+
+{% for modulbeschreibung in module | sort: "title" %}
+
+	
+	{% assign show_item = true %}
+	{% assign sem = modulbeschreibung.studiensemester-ws | append: "-" %}
+
+	{% if sem contains zielsemester %}
+		{% assign show_item = false %}
+	{% endif %}
+
+
+	{% for kuerzel in is_shown %}
+		{% if kuerzel == modulbeschreibung.kuerzel %}
+			{% assign show_item = false %}
+		{% endif %}
+	{% endfor %}
+	
+	{% if show_item == true %}
+		{% include /functions/resolve-names.html modulverantwortlich=modulbeschreibung.modulverantwortlich %}
+		<li><a href="{{site.baseurl}}{{modulbeschreibung.url}}">{{modulbeschreibung.title}}, {{modulverantwortliche}}</a> {{suffix}}</li>
+	{% endif %}
+{% endfor %}

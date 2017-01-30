@@ -19,6 +19,8 @@
 
 {% capture item %}
 <a href="{{site.baseurl}}{{modul.url}}">Bachelor: {{modul.title}}</a>
+{%if modul.type == "spm" %} * {% endif %}
+{%if modul.type == "pm" %} * {% endif %}
 {% endcapture %}
 {% assign module_ss = module_ss | push: item %}
 
@@ -26,6 +28,8 @@
 
 {% capture item %}
 <a href="{{site.baseurl}}{{modul.url}}">Bachelor: {{modul.title}}</a>
+{%if modul.type == "spm" %} * {% endif %}
+{%if modul.type == "pm" %} * {% endif %}
 {% endcapture %}
 {% assign module_ws = module_ws | push: item %}
 
@@ -49,6 +53,9 @@
 
 {% capture item %}
 <a href="{{site.baseurl}}{{modul.url}}">Master: {{modul.title}}</a>
+{%if modul.type == "spm" %} * {% endif %}
+{%if modul.type == "spp" %} * {% endif %}
+{%if modul.type == "pm" %} * {% endif %}
 {% endcapture %}
 {% assign module_ss = module_ss | push: item %}
 
@@ -56,6 +63,9 @@
 
 {% capture item %}
 <a href="{{site.baseurl}}{{modul.url}}">Master: {{modul.title}}</a>
+{%if modul.type == "spm" %} * {% endif %}
+{%if modul.type == "spp" %} * {% endif %}
+{%if modul.type == "pm" %} * {% endif %}
 {% endcapture %}
 {% assign module_ws = module_ws | push: item %}
 

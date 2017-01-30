@@ -2,7 +2,7 @@
 title: Soziotechnische Entwurfsmuster
 modulverantwortlich: ck
 modulniveau: null
-kuezel: SZ
+kuerzel: SZ
 untertitel: null
 studiensemester-ws: 1
 studiensemester-ss: 2
@@ -14,7 +14,8 @@ voraussetzungen-nach-pruefungsordnung:
 empfohlene-voraussetzungen: 
 published: true
 type: spm
-parent: sc
+parent: SPM1
+schwerpunkt: sc
 ---
 
 ## Lehrform/SWS:  Vorlesung / 2 SWS, Projekt 2 SWS 
