@@ -1,9 +1,9 @@
 ---
-title: Deskriptive Statistik und Inferenzstatistik
+title: Angewandte Statistik für die Mensch-Computer Interaktion
 modulverantwortlich: gh
 modulniveau: null
 kuerzel: Stat
-untertitel: Deskriptive Statistik und Inferenzstatistik
+untertitel:
 studiensemester-ws: 2
 studiensemester-ss: 1 
 kategorie: null
