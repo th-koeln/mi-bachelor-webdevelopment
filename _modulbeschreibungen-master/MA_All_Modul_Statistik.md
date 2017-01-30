@@ -35,7 +35,7 @@ Die Studierenden kennen grundlegende Konzepte und Verfahren der Inferenzstatisti
 Merkmale und Skalen, univariante Häufigkeitsverteilungen, Lagemaße, Streuung und Schiefe, Konzentration, Bivariate Häufigkeitsverteilungen und Kontingenz, Korrelations- und Regressionsanalyse, Verhältnis – und Indexzahlen.
 
 Diskrete und Stetige Zufallsvariablen, Population und Parameterschätzung, Hypothesentests und Signifikanz, t-Tests, 
-Konfidenzintervalle, Fehlertypen, Effektstärken und Power, Multivariate Verfahren (ein- und mehrfaktorielle Varianzanalysen).
+Konfidenzintervalle, Fehlertypen, Effektstärken und Power, Multivariate Verfahren (ein- und mehrfaktorielle Varianzanalysen und entsprechendes Forschungsdesign).
 
 ## Studien-/Prüfungsleistungen:
 Übungsaufgaben und schriftliche Modulprüfung
@@ -45,5 +45,6 @@ Konfidenzintervalle, Fehlertypen, Effektstärken und Power, Multivariate Verfahr
 
 ## Literatur:
 - Statistik für Human- und Sozialwissenschaftler”; J. Bortz und C. Schuster, Springer, 2010
+- "Modern Staistical Methods for HCI", Judy Robertson, Maurits Kaptein (Eds), Springer, 2016
 - “Deskriptive Statistik”; R. Kosfeld, H. Eckey, M. Türck; Springer,  2016
 - “Inferenzstatistik verstehen”; M. Janczyk, R. Pfister, Springer, 2013
