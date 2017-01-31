@@ -4,7 +4,7 @@ modulverantwortlich: me
 modulniveau: null
 kuerzel: PCG
 untertitel: null
-studiensemester-ws: 1, 3
+studiensemester-ws: 3
 studiensemester-ss: 2
 kategorie: null
 sprache: wahlweise deutsch oder englisch
