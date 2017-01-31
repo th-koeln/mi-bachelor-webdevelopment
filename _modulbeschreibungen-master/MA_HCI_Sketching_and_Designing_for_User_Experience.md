@@ -12,8 +12,8 @@ zuordnung-zum-curriculum: Medieninformatik Master
 kreditpunkte: 6
 voraussetzungen-nach-pruefungsordnung:
 empfohlene-voraussetzungen: 
-type: spm
-parent: SPM1
+type: wpm
+parent: 
 schwerpunkt: hci
 ---
 
