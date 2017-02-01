@@ -13,8 +13,8 @@ kreditpunkte: 6
 voraussetzungen-nach-pruefungsordnung: keine
 empfohlene-voraussetzungen: keine
 published: true
-type: spm
-parent: SPM2
+type: wpm
+parent: 
 schwerpunkt: mpd
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Grundlagen des Web
-modulverantwortlich: cn, kf
+modulverantwortlich: kf
 modulniveau: null
 kuerzel: GW
 untertitel: null

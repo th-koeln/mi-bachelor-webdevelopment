@@ -1,6 +1,6 @@
 ---
 title: Web Development 
-modulverantwortlich: cn, kf, mb
+modulverantwortlich: kf
 modulniveau: null
 kuerzel: WD
 untertitel: null
