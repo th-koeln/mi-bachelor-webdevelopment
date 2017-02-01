@@ -3,7 +3,7 @@ title: Multiperspective Product Development
 verantwortlich: mw
 type: sp
 kuerzel: mpd
-kurzbeschreibung: Der Schwerpunkt "Multi-Perspective Product Development" bereitet die Studierenden auf die für viele Projekte der Medieninformatik typische Heterogenität vor, welche von der methodologischen über die technologische bis hin zur sozio-technischen Komponente reicht. In jeder dieser Komponenten treffen Stakeholder mit jeweils eigenen Perspektiven aufeinander, die durch ihre Fachsprache, Methoden und Techniken sowie entsprechende Fähigkeiten, Verantwortlichkeiten und Kompetenzen definiert werden. Die Schnittstellen zwischen den Perspektiven sind in der Regel nicht offensichtlich, weil das Wissen in jeder auf unterschiedliche Weise dargestellt wird.  Die Studieninhalte sind daher integrativ und breit angelegt und berücksichtigen dabei solche breit gestreuten Rahmenbedingungen. Studienziel ist die Qualifikation zur Arbeit in sowie Organisation und Führung von solchen Projekten auf breiter wissenschaftlicher Grundlage.  
+kurzbeschreibung: Im Schwerpunkt "Multi-Perspective Product Development" entwickeln und vertiefen die Studierenden ihre Kompetenz, die typische Heterogenität vieler Medieninformatik-Projekte von der Methodik über die technologische bis hin zur sozio-technischen Komponente zu verstehen und zu bewältigen. In solchen Projekten haben die unterschiedlichen Stakeholder oft eigene Perspektiven, die durch ihre Fachsprachen, Methoden und Techniken sowie Verantwortlichkeiten definiert werden. Die Schnittstellen zwischen diesen Perspektiven sind in aller Regel nicht offensichtlich, da das Wissen oft implizit ist oder in vielfältiger Weise dargestellt wird. Die Studieninhalte sind daher entsprechend dieser heterogenen Bedingungen umfassend und breit angelegt. Das Studienziel ist die Qualifikation, in Projekten der Medieninformatik auf breiter wissenschaftlicher Basis federführend mitzuwirken und sie organisieren und leiten zu können.  
 ---
 
 ## Zielsetzung:
@@ -21,8 +21,8 @@ Der Schwerpunkt "Multi-Perspective Product Development" bereitet die Studierende
 ## Schwerpunktspezifische Pflichtmodule
 Folgende Module sind in dem Schwerpunkt verpflichtend: 
 <!-- MW: 3 Module mit je 6 cp -->
-* Privatsphäre, Vertrauen & Sicherheit im Netz
 * Interaction Design
+* Privatsphäre, Vertrauen & Sicherheit im Netz
 * Qualitätssicherung und -management
 
 ## Lehrveranstaltungen im Projekt:
