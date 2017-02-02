@@ -16,8 +16,8 @@ type: tm
 parent: VC
 ---
 
-##Kurzbeschreibung
-
+## Kurzbeschreibung:
+Inhalt des Moduls sind die technischen Grundlagen der audiovisuellen Produktion. 
 
 ## Lehrform/SWS: 
 4 SWS: Vorlesung 2 SWS; Projekt 2 SWS
