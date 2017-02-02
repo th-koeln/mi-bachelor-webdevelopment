@@ -23,10 +23,10 @@ parent: VC
 4 SWS: Vorlesung 2 SWS; Projekt 2 SWS
 
 ## Arbeitsaufwand: 
-Gesamtaufwand 150 h, davon 
-- 36 h Vorlesung, 
-- 36 h Projektarbeit,  
-- 78 h Selbststudium, 
+Gesamtaufwand 150 h, davon
+- 50h Vorlesung (inkl. Vor- und Nachbearbeitung)
+- 50h Praktikum / Projekt
+- 50h Selbstlernphase 
 
 ## Angestrebte Lernergebnisse:
 Die Studierenden kennen die grundlegenden Produktionsschritte und Abläufe einer Industrie- und Imagefilm-Produktion im professionellen Umfeld. Dabei wissen Sie um die Belange von technischen, wirtschaftlichen und rechtlichen Aspekten und deren Bedeutung für die Produktion.
