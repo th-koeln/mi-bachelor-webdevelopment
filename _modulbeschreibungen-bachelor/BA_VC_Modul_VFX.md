@@ -16,17 +16,17 @@ type: tm
 parent: VC
 ---
 
-##Kurzbeschreibung
-
+## Kurzbeschreibung
+Das Thema dieses Moduls sind die einzelnen Arbeitsschritte einer Visual Effects Film- oder Fernsehproduktion
 
 ## Lehrform/SWS: 
 4 SWS: Vorlesung 2 SWS; Projekt 2 SWS
-
+Gesamtaufwand
 ## Arbeitsaufwand: 
-Gesamtaufwand 150 h, davon 
-- 36 h Vorlesung, 
-- 36 h Projektarbeit,  
-- 78 h Selbststudium, 
+ Gesamtaufwand 150 h, davon
+- 50h Vorlesung (inkl. Vor- und Nachbearbeitung)
+- 50h Praktikum / Projekt
+- 50h Selbstlernphase
 
 ## Angestrebte Lernergebnisse:
 Die Studierenden kennen die grundlegenden Produktionsschritte und Abläufe einer Film- und TV-Produktion mit visuellen Effekten sowie die in diesem Zusammenhang eingesetzten Softwaretools.
