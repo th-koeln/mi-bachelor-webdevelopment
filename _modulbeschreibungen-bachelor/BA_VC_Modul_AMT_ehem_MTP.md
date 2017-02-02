@@ -24,9 +24,9 @@ Inhalt des Moduls sind die technischen Grundlagen der audiovisuellen Produktion.
 
 ## Arbeitsaufwand: 
 Gesamtaufwand 150 h, davon
-- 36 h Vorlesung, 
-- 36 h Projektarbeit,  
-- 78 h Selbststudium, 
+- 50h Vorlesung (inkl. Vor- und Nachbearbeitung)
+- 50h Praktikum / Projekt
+- 50h Selbstlernphase 
 
 
 ## Angestrebte Lernergebnisse:
