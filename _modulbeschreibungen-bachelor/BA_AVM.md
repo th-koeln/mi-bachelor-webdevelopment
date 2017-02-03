@@ -51,7 +51,6 @@ Begleitend zu der Produktion werden folgende fachspezifischen Inhalte thematisie
 - Tonaufnahme
 - Dokumentarfilm und Interview
 - Dramaturgie
-- Drehbuch, Auflösung, Storyboard
 - Schnitt und Montage
 
 ## Studien-/Prüfungsleistungen:
