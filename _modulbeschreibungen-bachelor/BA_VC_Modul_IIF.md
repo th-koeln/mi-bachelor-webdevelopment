@@ -1,8 +1,8 @@
 ---
-title: Industrie- und Imagefilm  
+title: Audiovisuelles Medienprojekt 2  
 modulverantwortlich: hk
 modulniveau: BA
-kuerzel: IIF
+kuerzel: AV2
 untertitel: null
 studiensemester: 4
 kategorie: null
@@ -29,17 +29,24 @@ Gesamtaufwand 150 h, davon
 - 50h Selbstlernphase 
 
 ## Angestrebte Lernergebnisse:
-Die Studierenden kennen die grundlegenden Produktionsschritte und Abläufe einer Industrie- und Imagefilm-Produktion im professionellen Umfeld. Dabei wissen Sie um die Belange von technischen, wirtschaftlichen und rechtlichen Aspekten und deren Bedeutung für die Produktion.
+Die praktische Umsetzung des Vorlesungsstoffes, die Kommunikation und Zusammenarbeit im Team über Themenbereiche dieses Faches und die Präsentation von eigenen Projekten und Untersuchungsergebnissen sind die Lernziele des Moduls „Audiovisuelles Medienprojekt 2“. Neben dieser formulierten Fachkompetenz, Methodenkompetenz und Kommunikationskompetenz stehen gerade die sogenannten Softskills Teamfähigkeit und Kommunikationsfähigkeit im Focus der Ausbildung in diesem Modul. 
 
-Sie haben die Fertigkeit, spezifische Fragestellungen der audiovisuellen Umsetzung von Industrie- und Imagefilmen im Kontext individueller Anforderungen der möglichen Auftraggeber zu analysieren und darauf aufbauend spezifische Lösungen zu entwickeln.
+Die Studierenden kennen über die grundlegenden Erzählformen audiovisueller Medien hinaus spezielle Formate wie Spielfilm, Imagefilm und Studioproduktion und haben dabei folgende Fertigkeiten: Sie können eigene audiovisuelle Erzählformen auf der Basis dieser Erzählmuster entwickeln und sind befähigt zur Analyse, zur Diskussion und zur kritischen Betrachtung audiovisueller Medieninhalte.
 
-Unter Entwicklungs- und Methodenkompetenz auf dem Gebiet des Industrie- und Imagefilmes ist auch die Fähigkeit zu verstehen, eigene und für den jeweiligen Anwendungsfall individuelle Lösungsansätze zu entwickeln, bei denen unter anderem auch die unterschiedlichen Mustervorlagen des Genres zum Einsatz kommen. Nachdem die Planung, Durchführung und die Bearbeitung von Projekten auf dem Gebiet des Industrie- und Imagefilmes in der Regel im kleinen Team erfolgt, sind gerade die Softskills der Teamkompetenz und der Organisationskompetenz von großer Wichtigkeit in diesem Modul.
-
-Das Modul Industrie- und Imagefilm zielt nicht unbedingt auf das konkrete Berufsfeld des/der Produzenten/in von Industrie- und Imagefilmen, sondern unterstützt vielmehr auf Grund der hier umfassend vermittelten Präsentationskompetenz und Kommunikationskompetenz so gut wie alle Berufsfelder in der Medieninformatik.
+Pragmatisches Ziel ist es, in den unterschiedlichsten Berufsfeldern digitaler audiovisueller Medien die Entwicklung und den Einsatz audiovisuellen Content zu beraten, zu planen, durchzuführen oder zu verantworten.
 
 ## Inhalt:
-Der Industrie- und Imagefilm spielt als Werkzeug der Informationsvermittlung und der Werbung in der Wirtschaft eine große Rolle. Sein Einsatzgebiet sind Messen, Kongresse, Kundengespräche und Internetauftritte.
-In dem WPF werden die Grundlagen des Genres in Vorträgen gelegt und ein Film im Auftrag eines hochschulinternen oder auch externen Auftraggebers produziert. Dabei werden produktionstechnische, produktionswirtschaftliche, rechtliche und inhaltliche Aspekte reflektiert. In der Umsetzung sind die besonderen Gestaltungsanforderungen des Industrie- und Imagefilms als auch der Einsatz von Computergrafik und 3D-Animation zur Visualisierung gefragt.
+Im Mittelpunkt dieses Moduls steht die digitale audiovisuelle Medienproduktion in den Formaten Spielfilm, Imagefilm und Studioproduktion.
+
+Die Projektarbeit gliedert sich dabei in die selbstständige Entwicklung, Ausarbeitung und Präsentation eines Filmthemas, in die praktische Umsetzung in einem Filmprojekt und in die Nachbearbeitung und Montage in einer dramaturgischen Erzählform einer der oben genannten Formate.
+
+Begleitend zu der Produktion werden folgende fachspezifischen Inhalte thematisiert und in Übungsaufgaben vertieft:
+
+- Vertiefung der Video- und Audioaufnahmetechnik
+- Verschiedene Dramaturgiemodelle
+- Drehbuch, Auflösung, Storyboard
+- Schnitt und Montage
+- Liveproduktion im Studio
 
 ## Studien-/Prüfungsleistungen:
 Projektarbeit und schriftliche Ausarbeitung
@@ -51,6 +58,13 @@ Projektarbeit und schriftliche Ausarbeitung
 - Projektarbeit in Teams, um die erlernten Methoden und Techniken einzuüben und zu vertiefen;
 
 ## Literatur:
+- James Monaco, Film verstehen, Rowolth Taschenbuch Verlag Hamburg, 1980, ISBN 3-499-162717
+- Syd Field, Drehbuchschreiben für Film und Fernsehen, München 2003, ISBN 354836473X
+- Steven D. Katz, Die Richtige Einstellung, Zweitausendeins, Frankfurt a.M.1998,ISBN 3-86150-229-1
+- David Lewis Yewdall, Practical Art of Motion Picture Sound, Focal Press, USA 2003, ISBN 0-240-80525-9
+- Hans Kornacher & Manfred Stross, Dokumentarisches Videofilmen, Augustus Verlag, Augsburg, 1992, ISBN 3-8043-5474-2
+- Hans Beller Hg., Handbuch der Filmmontage, München: TR-Verlagsunion, 1993, ISBN 3-8058-2357-6
+- Karel Reisz, Gavin Millar, Geschichte und Technik der Filmmontage, München: Filmlandpresse, 1988, ISBN 3-88690-071-1
+- Chris Vogler, Die Reise des Drehbuchschreibens, Verlag Zweitausendeins
 - Wolfgang Lanzenberger, Michael Müller, Unternehmensfilme drehen: Business Movies im digitalen Zeitalter, ISBN: 978-386764367
-
 
