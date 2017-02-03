@@ -44,13 +44,13 @@ Im Mittelpunkt dieses Moduls steht die digitale audiovisuelle Medienproduktion.
 Die Projektarbeit gliedert sich dabei in die selbstständige Entwicklung, Ausarbeitung und Präsentation eines Filmthemas, in die praktische Umsetzung in einem Filmprojekt und in die Nachbearbeitung und Montage in einer dramaturgischen Erzählform.
 
 Begleitend zu der Produktion werden folgende fachspezifischen Inhalte thematisiert und in Übungsaufgaben vertieft:
+
 - Video- und Audioaufnahmetechnik
 - Filmsprache
 - Lichtsetzung
 - Tonaufnahme
 - Dokumentarfilm und Interview
 - Dramaturgie
-- Drehbuch, Auflösung, Storyboard
 - Schnitt und Montage
 
 ## Studien-/Prüfungsleistungen:

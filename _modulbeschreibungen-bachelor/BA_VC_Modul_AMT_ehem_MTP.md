@@ -16,17 +16,17 @@ type: tm
 parent: VC
 ---
 
-##Kurzbeschreibung
-
+## Kurzbeschreibung:
+Inhalt des Moduls sind die technischen Grundlagen der audiovisuellen Produktion. 
 
 ## Lehrform/SWS: 
 4 SWS: Vorlesung 2 SWS; Projekt 2 SWS
 
 ## Arbeitsaufwand: 
 Gesamtaufwand 150 h, davon
-- 36 h Vorlesung, 
-- 36 h Projektarbeit,  
-- 78 h Selbststudium, 
+- 50h Vorlesung (inkl. Vor- und Nachbearbeitung)
+- 50h Praktikum / Projekt
+- 50h Selbstlernphase 
 
 
 ## Angestrebte Lernergebnisse:
