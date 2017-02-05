@@ -48,6 +48,6 @@ Das Institut für Informatik betreibt Labore für:
 
 [^Anhang-Diversity-Konzepte]: Anhang Diversity Konzepte
 [^anhang-profil2]: Anhang Profil2
-[^anhang-forschungsstrategie-th]: https://www.fh- koeln.de/mam/downloads/deutsch/forschung/forschungsstrategie_2015_070921.pdf
+[^anhang-forschungsstrategie-th]: <a href="https://www.fh- koeln.de/mam/downloads/deutsch/forschung/forschungsstrategie_2015_070921.pdf">https://www.fh- koeln.de/mam/downloads/deutsch/forschung/forschungsstrategie_2015_070921.pdf</a>
 
-[^abbildung-verteilung-der-studierenden]: Verteilung der Studierenden
+[^abbildung-verteilung-der-studierenden]: Abbildung Verteilung der Studierenden
