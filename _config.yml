@@ -104,6 +104,8 @@ collections:
     layout: selbstbericht
   selbstbericht_schnippsel:
     layout: selbstbericht
+  selbstbericht-leitfragen-asiin:
+    layout: selbstbericht
   ideen:
     layout: ideen
     

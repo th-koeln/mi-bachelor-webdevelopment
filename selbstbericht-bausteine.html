@@ -1,0 +1,65 @@
+---
+layout: default
+---
+
+<section class="section">
+	<div class="container">
+	    <h1 class="title is-1">Selbstbericht Bausteine</h1>
+	</div>
+</section>
+
+<section class="section selbstbericht is-passive">
+	
+	<div class="container">
+		<h2 class="title is-4">Snippsel und Textbausteine</h2>
+		<div class="toc">
+			<ul class="menu-list">
+			{% for doc in site.selbstbericht_schnippsel %}
+				<li><a href="#{{doc.id}}">{{doc.title}}</a></li>
+			{% endfor %}
+			</ul>
+		</div>
+	</div>
+</section>
+
+<section class="section selbstbericht is-old">
+	
+	<div class="container">
+		<h2 class="title is-4">Dokumente aus 2009</h2>
+		<div class="toc">
+			<ul class="menu-list">
+			{% for doc in site.selbstbericht2009 %}
+				<li><a href="#{{doc.id}}">{{doc.title}}</a></li>
+			{% endfor %}
+			</ul>
+		</div>
+	</div>
+</section>
+
+<div id="selbstbericht-passive">
+	{% for doc in site.selbstbericht_schnippsel %}
+	<section class="section selbstbericht is-passive" id="{{doc.id}}">
+		<div class="container">
+			<div class="content">
+				<h1>{{doc.title}}</h1>
+				{{doc.content}}
+			</div>
+	
+		</div>
+	</section>
+	{% endfor %}
+</div>
+
+<div id="selbstbericht-old">
+	{% for doc in site.selbstbericht2009 %}
+	<section class="section selbstbericht is-old" id="{{doc.id}}">
+		<div class="container">
+			<div class="content">
+				<h1>{{doc.title}} (aus dem alten Bericht)</h1>
+				{{doc.content}}
+			</div>
+	
+		</div>
+	</section>
+	{% endfor %}
+</div>
