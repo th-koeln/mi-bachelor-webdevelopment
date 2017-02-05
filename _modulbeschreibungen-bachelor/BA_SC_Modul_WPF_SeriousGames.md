@@ -1,5 +1,5 @@
 ---
-title: Serious Games
+title: Gamification
 modulverantwortlich: ck
 modulniveau: null
 kuezel: CE
@@ -23,22 +23,32 @@ parent: SC
 
 
 ## Angestrebte Lernergebnisse:
-TODO
-
+Die Studierenden sollen in der Lage sein, die Möglichkeiten und Grenzen des Gamification-Ansatzes sowohl für die analoge als auch die digitale Welt einordnen zu können. Die verschiedenen Stufen der Gamification sollen verstanden und die Maßnahmen in Gestaltungsprozessen eingesetzt werden. Die Studierenden sollen die psychologischen Grundlagen verstehen und die gesellschaftlichen Implikationen bewerten können. Die Analyse von Regeln und Prozessen und daraus abgeleitete Gamification-Maßnahmen sowie die Entwicklung von Serious Games sollen praktisch umgesetzt werden, z.B. für Lernanwendungen, Online-Communities oder soziale Dienste.
 
 ## Inhalt:
-TODO
- 
+- Grundelemente der Gamification
+- Stufen der Gamification
+- Ludifikation
+- Historische Grundlagen
+- Psychologische Grundlagen
+- Gesellschaftliche Einordnung
+- Einsatzgebiete
+- Planung und Realisierung von Gamification
+- Gestaltungregeln
+- Serious Games
+
+
 ## Studien-/Prüfungsleistungen:
-TODO
+Projektausarbeitung
 
 ## Medienformen:
-TODO
-
+- Folien
+- Beispielmedien
+- Arbeit im Innovationsraum mit digitalen Whiteboards, Spiel-Arcarde, Tablets und Gestaltungsmaterialien
 
 
 ## Literatur:
-TODO
+Koster, R. (2013). Theory of Fun for Game Design. Sebastopol: O'Reilly. 
 
 
 
