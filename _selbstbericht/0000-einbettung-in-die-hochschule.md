@@ -12,7 +12,7 @@ Die TH Köln gehört der UAS7 an, dem Verbund von sieben leistungsfähigen Fachh
 
 Die TH Köln pflegt eine Lehr- und Lernkultur, welche die zunehmende Vielfalt der Studierenden in den Blick nimmt und dazu beiträgt, die Potenziale aller Hochschulangehörigen in den Lernprozess zu integrieren und dabei zu erschließen. Unter dem Begriff „Gute Lehre“ hat die TH Köln einen Perspektivwechsel vom Lehrenden zum Lernenden vollzogen. Das ganze Studium hindurch werden Studierende über Mentoring-, Tutoring- und Blended Learning-Programme begleitet. Flexiblere Studiengangsmodelle und hochschuldidaktische Coaching-Angebote gehören ebenso zum Portfolio wie die Förderung leistungsstarker und sozial engagierter Studierender – vor allem durch die Beteiligung am Deutschlandstipendium.
 
-Ihre Programme zur hochschuldidaktischen Differenzierung, ihre Diversity-Konzepte und ihr Programm ProfiL2 für projektorientiertes Lehren und Lernen zählen zu den herausragenden Lehr- und Lernkonzepten in Deutschland. Mithilfe eines systematischen Qualitätsmanagements entwickelt die TH Köln die Kompetenzen in den Bereichen Studium und Lehre, Struktur- und Curriculumentwicklung sowie Hochschuldidaktik permanent weiter.
+Ihre Programme zur hochschuldidaktischen Differenzierung, ihre Diversity-Konzepte[^Anhang-Diversity-Konzepte] und ihr Programm ProfiL2[^anhang-profil2] für projektorientiertes Lehren und Lernen zählen zu den herausragenden Lehr- und Lernkonzepten in Deutschland. Mithilfe eines systematischen Qualitätsmanagements entwickelt die TH Köln die Kompetenzen in den Bereichen Studium und Lehre, Struktur- und Curriculumentwicklung sowie Hochschuldidaktik permanent weiter.
 
 Die hohe Studierendenzufriedenheit und die breite Anerkennung der Qualität eines an der TH Köln erworbenen Abschlusses sind das Fundament, auf dem das Weiterbildungsportfolio der Hochschule aufbaut. Mit unterschiedlichen Programmen vom Tagesseminar bis hin zum Weiterbildungsstudium ermöglicht sie Wissenserwerb als lebensbegleitendes Lernen. Die TH Köln versteht sich als forschungsorientierte Hochschule für angewandte Wissenschaften. Die Hochschule achtet bei der Auswahl des wissenschaftlichen Personals besonders auf die berufliche Reputation und das ausgeprägte Forschungsinteresse ihrer Lehrenden; sie fördert gezielt Forschungsaktivitäten mit inter- bzw. transdisziplinärem Charakter. Mit diesem innovativen Ansatz möchte sie wichtige und zukunftsweisende Impulse zur gesellschaftlichen Entwicklung setzen. Die TH Köln arbeitet in der Forschung deshalb intensiv mit der Wirtschaft, Non-Profit-Organisationen, öffentlichen Einrichtungen und Verbänden, sowie mit anderen nationalen und internationalen Hochschulen und Wissenschaftseinrichtungen zusammen.
 
@@ -26,16 +26,14 @@ Die TH Köln ist eine forschungsaktive und forschungsstarke Hochschule. Sie koop
 
 Klimawandel, knappe Ressourcen, Sicherheit und demografischer Wandel sind einige der großen Herausforderungen der nächsten Jahrzehnte. Die erfahrenen Wissenschaftlerinnen und Wissenschaftler der TH Köln forschen im Rahmen ihrer anwendungsorientierten und interdisziplinären Projekte an Lösungen für diese „Great Challenges“ und leisten einen aktiven Beitrag zur Weiterentwicklung von Wissenschaft, Wirtschaft und Gesellschaft.
 
-Die Forschungsstrategie beschreibt Planungen der TH Köln für die zukünftige Entwicklung ihrer Forschungs- und Transferaktivitäten bis zum Jahre 2015 und ist unter dem URL: https://www.fh- koeln.de/mam/downloads/deutsch/forschung/forschungsstrategie_2015_070921.pdf zu finden.
-
-Die vielfältigen Forschungsaktivitäten spiegeln sich im Forschungsprofil der TH Köln, bestehend aus 10 thematischen Cluster wider. Die Cluster dienen als thematische Klammer für die Forschungsaktivitäten in den unterschiedlichen Forschungsstrukturen der Hochschule, wie Forschungsinstitute, Kompetenzplattformen, Forschungsschwerpunkten und Forschungsstellen.
+Die Forschungsstrategie beschreibt Planungen der TH Köln für die zukünftige Entwicklung ihrer Forschungs- und Transferaktivitäten bis zum Jahre 2015[^anhang-forschungsstrategie-th]. Die vielfältigen Forschungsaktivitäten spiegeln sich im Forschungsprofil der TH Köln, bestehend aus 10 thematischen Cluster wider. Die Cluster dienen als thematische Klammer für die Forschungsaktivitäten in den unterschiedlichen Forschungsstrukturen der Hochschule, wie Forschungsinstitute, Kompetenzplattformen, Forschungsschwerpunkten und Forschungsstellen.
 
 ### Zahl und Verteilung der Studierenden
 
-An der TH Köln studieren ca. 23.500 Studierende an 11 Fakultäten. Die nachstehende Abbildung 1 zeigt die Verteilung der Studierenden.
+An der TH Köln studieren ca. 23.500 Studierende an 11 Fakultäten. Die nachstehende Abbildung[^abbildung-verteilung-der-studierenden] zeigt die Verteilung der Studierenden.
 
 
-## Einbettung des Studienganges in die Fakultät
+## Einbettung der Studiengänge in die Fakultät
 
 Die Fakultät für Informatik und Ingenieurwissenschaften ist am Standort Gummersbach angesiedelt (Campus Gummersbach) und ist mit derzeit 4500 Studierenden die größte Fakultät der TH Köln. An der Fakultät sind 8 Institute angesiedelt; zum Studienangebot der Fakultät gehören 8 Bachelor- und 6 Masterstudiengänge. Die Medieninformatik Studiengänge werden von der Fakultät für Informatik und Ingenieurwissenschaften ausgerichtet und ist im Institut für Informatik organisatorisch verankert. 
 
@@ -47,3 +45,9 @@ Das Institut für Informatik betreibt Labore für:
 - Kommunikationstechnik & Datensicherheit (KTDS)
 - Technische Datenverarbeitung & Informationstechnik (TDI)
 - Wirtschaftsinformatik (WI)
+
+[^Anhang-Diversity-Konzepte]: Anhang Diversity Konzepte
+[^anhang-profil2]: Anhang Profil2
+[^anhang-forschungsstrategie-th]: https://www.fh- koeln.de/mam/downloads/deutsch/forschung/forschungsstrategie_2015_070921.pdf
+
+[^abbildung-verteilung-der-studierenden]: Verteilung der Studierenden
