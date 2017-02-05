@@ -10,7 +10,7 @@ sprache: deutsch
 zuordnung-zum-curriculum: Medieninformatik Bachelor
 kreditpunkte: 5
 voraussetzungen-nach-pruefungsordnung: Keine über die Zulassungsvorrausetzungen hinausgehenden Vorraussetzungen
-empfohlene-voraussetzungen: Einführung in die Medieninformatik, Algorithmen und Programmierung
+empfohlene-voraussetzungen: Einführung in die Medieninformatik, Algorithmen und Programmierung I, Algorithmen und Programmierung II
 published: true
 type: pm
 ---
@@ -36,7 +36,6 @@ Einordnung der Anwendbarkeit unterschiedlicher Programmierkonzepte
 - Logikprogrammierung
 - Nebenläufigkeit
 - Aspektorientierte Programmierung
-- visuelle Programmierung
 
 ## Studien-/Prüfungsleistungen:
 Klausur sowie erfolgreiche Teilnahme am Praktikum als Prüfungsvorleistung
@@ -45,8 +44,8 @@ Klausur sowie erfolgreiche Teilnahme am Praktikum als Prüfungsvorleistung
 Foliensammlung, Skript, Beispiellösungen
 
 ## Literatur:
-- Skript (www.gm.fh-koeln.de/ehses/paradigmen/)
 - Abelson, Sussman, Struktur und Interpretation von Computer Programmen,Springer-Verlag 2001
 - W.F. Clocksin, C.S. Mellish, Programming in Prolog, Springer-Verlag 2003
+- Gamma, E., Helm, R., Johnson, R., & Vlissides, J. (2015). Design patterns: Entwurfsmuster als Elemente wiederverwendbarer objektorientierter Software. Frechen: Mitp.
 - Odersky, Spoon, Venners, Programming in Scala, Artima Press 2011
 - Goetz, Bloch, Bowbeer, Lea, Java-Concurrency in Practise, Addison Wesley 2006

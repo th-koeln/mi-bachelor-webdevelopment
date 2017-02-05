@@ -1,5 +1,5 @@
 ---
-title: Einführung in Soziotechnische Systeme
+title: Soziotechnische Systeme
 modulverantwortlich: ck
 modulniveau: null
 kuezel: SZ
