@@ -48,7 +48,9 @@ Projektausarbeitung
 
 
 ## Literatur:
-Koster, R. (2013). Theory of Fun for Game Design. Sebastopol: O'Reilly. 
-
+- DeKoven, B., & MIT Press. (2013). The well-played game: A player's philosophy. Cambridge: The MIT Press. 
+- Fullerton, T., Swain, C., & Hoffman, S. (2008). Game design workshop: A playcentric approach to creating innovative games. Amsterdam: Elsevier Morgan Kaufmann. 
+- Koster, R. (2013). Theory of Fun for Game Design. Sebastopol: O'Reilly. 
+- Salen, K., & Zimmerman, E. (2007). Rules of play: Game design fundamentals. Cambridge, Mass. [u.a.: The MIT Press. 
 
 
