@@ -6,17 +6,14 @@ title: Ist-Zustand
 
 Die folgenden Ausführungen beruhen auf der Datenerhebung zum 01.12.2015 für den Zeitraum 2011 bis 2015 und fokussieren die derzeit eingeschriebenen Studierenden, erfolgreiche Abschlüsse und Studienfachabbrecher im Medieninformatik-Bachelor.
 
-(Tabelle 1: Daten des Bachelorstudiengangs Medieninformatik)
+![](../anhaenge/tabellen/MI-BA-anzahl-studierende.svg){:class="img-responsive"}
+*Tabelle 1: Daten des Bachelorstudiengangs Medieninformatik*
 
-Die in Tabelle 1 dargestellten Zahlen zeigen einen stetig wachsenden Zulauf für den Bachelorstudiengang Medieninformatik, der ursprünglich für 63 Studierende ausgelegt wurde. Erfreulicherweise ist, trotz der im Rahmen der Fakultätsentwicklung und des Hochschulentwicklungsplans 2020 steigenden Anfängerzahlen, eine gleichbleibende Abbrecherquote um die 30% zu erkennen. Die Zahlen zeigen auch eine niedrige Absolventenquote (in Regelstudienzeit), die jedoch im Mittel aller Studiengänge der Fakultät 10 liegt. Hier besteht Handlungsbedarf. Nach den vorliegenden Prüfungsstatistiken (siehe Anhang Prüfungsstatistiken) ist mit einem proportionalen Anstieg der Absolventen zu rechnen.
+Die in Tabelle 1 dargestellten Zahlen zeigen einen stetig wachsenden Zulauf für den Bachelorstudiengang Medieninformatik, der ursprünglich für 63 Studierende ausgelegt wurde. Erfreulicherweise ist, trotz der im Rahmen der Fakultätsentwicklung und des Hochschulentwicklungsplans 2020 steigenden Anfängerzahlen, eine gleichbleibende Abbrecherquote um die 30% zu erkennen. Die Zahlen zeigen auch eine niedrige Quote an Absolventen in Regelstudienzeit, die jedoch im Mittel aller Studiengänge der Fakultät 10 liegt. Hier besteht Handlungsbedarf. Nach den vorliegenden Prüfungsstatistiken (vgl. Prüfungsstatistiken [^Anhang-Pruefungsstatistiken]) ist mit einem proportionalen Anstieg der Absolventen zu rechnen.
 
-Die im Rahmen der letzten Reakkreditierung eingebrachten Änderungen können hinsichtlich der Quote der Studienabbrecher bereits als recht erfolgreich bewertet werden. Vor allem die Auflösung der strikten, durch Zulassungsvoraussetzungen in der Prüfungsordnung verankerte Trennung von Grund- und Hauptstudium hat die Dauer des Fachstudiums definitiv verkürzt (siehe Anhang Prüfungsstatistiken). Auch die Einführung des Moduls „Einführung in die Medieninformatik“ (EMI) erweist sich als sinnvoll und notwendig, um den Studierenden früh die Perspektiven und fachlichen Aspekte der Medieninformatik näher zu bringen.
+Die im Rahmen der letzten Reakkreditierung eingebrachten Änderungen können hinsichtlich der Quote der Studienabbrecher bereits als recht erfolgreich bewertet werden. Vor allem die Auflösung der strikten, durch Zulassungsvoraussetzungen in der Prüfungsordnung verankerte Trennung von Grund- und Hauptstudium hat die Dauer des Fachstudiums definitiv verkürzt (vgl. Prüfungsstatistiken [^Anhang-Pruefungsstatistiken]). Auch die Einführung des Moduls „Einführung in die Medieninformatik“ (EMI) erweist sich als sinnvoll und notwendig, um den Studierenden früh die Perspektiven und fachlichen Aspekte der Medieninformatik näher zu bringen.
 
-Ich bin Text.[^1]
-
-[^1]: Und ich bin die Fußnote dazu.
-
-Aus der INCHER-Studie von 2014 (siehe Anhang INCHER-Studie) geht für alle Studiengänge in NRW hervor: wer während des Studiums ein Firmenpraktikum absolviert, schließt das Studium etwas seltener in der Regelstudienzeit ab (54 Prozent vs. 60 Prozent). Ähnlich ist die Tendenz ist zwischen denjenigen, die ihr Studium hauptsächlich durch Erwerbsarbeit finanzierten und den übrigen Absolventinnen und Absolventen zu erkennen: Wenn das Studium durch eigene Erwerbsarbeit finanziert wurde, wird es ebenfalls seltener in der Regelstudienzeit abgeschlossen (50 Prozent vs. 57 Prozent).
+Aus der INCHER-Studie von 2014[^Anhang-INCHER-Studie] geht für alle Studiengänge in NRW hervor: wer während des Studiums ein Firmenpraktikum absolviert, schließt das Studium etwas seltener in der Regelstudienzeit ab (54 Prozent vs. 60 Prozent). Ähnlich ist die Tendenz ist zwischen denjenigen, die ihr Studium hauptsächlich durch Erwerbsarbeit finanzierten und den übrigen Absolventinnen und Absolventen zu erkennen: Wenn das Studium durch eigene Erwerbsarbeit finanziert wurde, wird es ebenfalls seltener in der Regelstudienzeit abgeschlossen (50 Prozent vs. 57 Prozent).
 
 Schlussfolgerungen über die Studienqualität sind auf Grundlage der verfügbaren Daten nur bedingt möglich. Als Ausgangspunkt für die, im Rahmen der Reakkreditierung zu anzustrebenden Änderungen, wurden daher zusätzlich folgende Quellen miteinbezogen:
 
@@ -172,3 +169,7 @@ effekte zwischen den Bachelorstudiengängen der Informatik sorgen dafür, dass w
 ## Zusammenfassung
 
 Zusammengefasst stellen sich die beiden vom Institut für Informatik der Fakultät 10 getragenen Studiengänge Medieninformatik Bachelor und Medieninformatik Master gemäß der vorliegenden Daten und Erfahrungen als ein, sowohl hinsichtlich der Nachfrage der Studierenden und des Lehr-Portfolios der Fakultät 10 und auch hinsichtlich des Bedarfs der regionalen und überregionalen Industrie, hervorragend aufgestelltes und etabliertes Lehrangebot der TH Köln dar.
+
+
+[^Anhang-Pruefungsstatistiken]: Anhang-Pruefungsstatistiken
+[^Anhang-INCHER-Studie]: Anhang-INCHER-Studie

@@ -117,6 +117,19 @@
 		padding-bottom: $bfs;
 		border-bottom: solid 1px #9313ce;
 	}
+	
+	.img-responsive{
+		width: 100%;
+		
+		& + em{
+			display: block;
+			padding-bottom: $bfs;
+			font-style: normal;
+			color: $mi-gruen;
+			border-bottom: dotted 1px $mi-gruen;
+		}
+	}
+	
 
 }
 

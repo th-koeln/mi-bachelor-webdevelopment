@@ -1,0 +1,1 @@
+/Applications/Inkscape.app/Contents/Resources/bin/inkscape /Users/cnoss/git/mi-2017/anhaenge/tabellen/selbst-erzeugte-tabellen.pdf --export-plain-svg=/Users/cnoss/git/mi-2017/anhaenge/tabellen/selbst-erzeugte-tabellen.svg
