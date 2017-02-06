@@ -42,7 +42,7 @@ Diese Auflagen wurden von der Technischen Hochschule Köln folgendermaßen erfü
   - Sollte die Prüfungsform, bspw. wegen aktueller didaktischer Erwägungen, von der im Modulhandbuch bekannt gemachten Form abweichen, so ist diese durch den Dozenten dem Prüfungsamt rechtzeitig mitzuteilen, welches über die Änderung dann per Aushang fristgerecht informiert. § 14 der Prüfungsordnung für den Masterstudiengang Medieninformatik wurde dem entsprechend neu gefasst.
 - Ad 2.: Die Prüfungsordnungen vom 7. Januar 2011, in denen alle Auflagen erfüllt sind, wurden vom Fakultätsrat der Fakultät für Informatik und Ingenieurwissenschaften am 10.11.2010 bzw. 6.1.2011 beschlossen und vom Präsidenten der Fachhochschule Köln am 7.1.2011 genehmigt. Sie liegen der ASIIN vor.
 
-## Änderungen im Akkreditierungszeitraum
+## Änderungen des Master-Studiengangs im Akkreditierungszeitraum
 
 Gerade in dem sich immer noch in der Entwicklung befindlichen Gebiet der Medieninformatik war und ist insbesondere beim Masterstudiengang zu erwarten, dass sich auch im aktuellen Akkreditierungszeitraum Änderungen hinsichtlich der Erkenntnisse aus Wissenschaft und
 Berufspraxis sowie der im Lehrbetrieb seit der Reakkreditierung 2011 gesammelten Erfahrungen und Evaluierungsergebnisse ergeben. Hier sind  beispielhaft die den beruflichen und privaten Alltag gleichermaßen immer weiter durchdringende Nutzung von Netz- und besonders Web-basierten Diensten sowie die fortschreitende Medienkonvergenz zu nennen. Hinzu kommen mögliche curriculare und personale Synergien mit dem vom Institut für Informatik der Fakultät 10 der FH Köln seit 2008 eingeführten und 2012 reakkreditierten Masterstudiengang Informatik mit den beiden Schwerpunkten Wirtschaftsinformatik/Information Systems und Software Engineering.
