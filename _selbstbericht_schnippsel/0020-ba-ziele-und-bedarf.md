@@ -31,9 +31,25 @@ Die Auflagen für den Bachelor-Studiengang Medieninformatik wurden von der Fachh
 - Ad 3.: In §17 (3) der Bachelorprüfungsordnung wurde der folgende Passus ersatzlos gestrichen: Zu den Modulprüfungen des Hauptstudiums (Teil 1), mit Ausnahme des Moduls Netzbasierte Anwendungen, wird zugelassen, wer die Zwischenprüfung mit einer beliebigen Ausnahme bestanden hat. Zu den Modulprüfungen des Hauptstudiums (Teil 2) wird zugelassen, wer die Zwischenprüfung ohne Ausnahme bestanden hat. Somit gibt es keine der Prüfungsorganisation anzulastenden studienzeitverlängernden Effekte beim Übergang vom Grund- zum Hauptstudium mehr.
 - Ad. 4: Die Beschreibung des Moduls Abschlussarbeit liegt der ASIIN vor.
 
-## Veränderungen im Akkreditierungszeitraum
+## Veränderungen des Bachelor-Studiengangs im Akkreditierungszeitraum
 
-TODO Begründen aus Antrag Fak 10 / Präsidium
+Die im Folgenden dargestellten geplanten Veränderungen des Bachelorstudienprogramms dienen zur Beseitigung erkannter Schwächen 
+- Verbesserung der Studierbarkeit und Verringerung der Studiendauer (Überschreitung der Regelstudienzeiten)
+- Größere praxis- und projektorientierte Ausrichtung
+- Größere internationale Ausrichtung
+
+und zur Maßnahmenbildung im Rahmen der Ziele der Hochschul- und Fakultätsentwicklungspläne
+- Integrierte Programme und Maßnahmen, die sich gegenseitig verstärken
+- Profil stärken, Alleinstellungsmerkmale entwickeln und Attraktivität erhöhen
+- Internationalität stärken
+- Übergang ins Berufsleben und Kooperation mit Unternehmen durch stärkere Projektorientierung verbessern
+
+Geplante Veränderungen Bachelor
+
+1. Es kommt zu einer besseren Berücksichtigung der Lernaufwände der Studierenden in den einzelnen Modulen. Nach einer Überprüfung der Aufwände wurden in vielen Modulen bereits Anpassungen der Lehrformate, des Projektanteils und der Prüfungsformen vorgenommen. Die Anzahl der Veranstaltungen wird reduziert und die Fächer mit höherem Lernaufwand und höherem Schwierigkeitsgrad werden im Studienverlaufsplan neu angeordnet, um den Aufwand gleichmäßiger über das Studium zu verteilen.
+2. Eine Neusortierung und Zuordnung der Module zu den Semestern sorgt für eine gleichmäßigere Verteilung der Lernaufwände auf die Semester. Die Prüfungsanteile wurden hierbei entsprechend berücksichtigt. So wurden beispielsweise vergleichsweise "schwerere und aufwändige" Module aus dem bisher überlasteten 3. Semester auf andere Semester verteilt.
+3. Das im fünften Semester sehr stark projektbasierte Studium eröffnet zudem die Möglichkeit, ein Semester im Ausland zu verbringen, dort zu arbeiten oder an einer ausländischen Hochschule Projekte zu bearbeiten. Insofern wird dem zunehmenden Anspruch an eine größere internationale Ausrichtung des Studiengangs auf flexible Art und Weise entsprochen.
+4. Einige inhaltliche Veränderungen am Zuschnitt der Module dienen der stärkeren Orientierung auf das Berufsfeld der Absolventen. Insbesondere interkulturelle Teamkompetenz, Projektmanagement, soziale Kompetenz und auch die Vorbereitung auf Führungsaufgaben wird verstärkt. Dies soll vor allem durch Integration der entsprechenden Wissensmodule in die fachlichen Module erreicht werden.
 
 Als Kernfächer der Medieninformatik werden die Module "Einführung in die Medieninformatik", "Mensch-Computer-Interaktion", "Screendesign", "Web Fundamentals", "Audiovisuelles Medienprojekt" und "Medienrecht, Medien & Gesellschaft" angeboten. Im vierten Semester kann eine von drei Fachvertiefungen gewählt werden. Hier stehen die Module "Visual Computing", "Social Computing" und "Web Development" zur Wahl.
 
