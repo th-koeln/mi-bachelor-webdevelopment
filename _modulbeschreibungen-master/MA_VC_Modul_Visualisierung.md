@@ -65,17 +65,17 @@ Im speziellen, aber nicht ausschließlich, werden folgende Themen behandelt:
 
 
 ## Literatur:
-	•	Weitere themenbezogene Einzelverweise in der Vorlesung und im Seminar
-	•	Murray, S.: Interactive Data Visualization for the Web, O'Reilly
-	•	Meirelles, I.: Design for Information, Rockport
-	•	Berger,W., Grob,H.L.: Präsentieren und Visualisieren -mit und ohne Multimedia, dtv 2002
-	•	Kirckhoff,M.: Mind mapping, die Synthese von sprachlichem und bildhaftem Denken, Berlin 1988, und www.mindmanager.de
-	•	Excel: z.B. Berk, Kenneth N.: Data analysis with Microsoft Excel, 2000, Middleton,M.R. Data analysis using Microsoft Excel
-	•	Tufte, E.R., The Visual Display of Quantitative Information, Cheshire,CT, Graphics Press 1983, und Envisioning Information, Cheshire,CT, Graphics Press 1994
-	•	Keim, D.A.: Data mining mit bloßem Auge, Spektrum der Wissenschaft, Nov 2002
-	•	Ferreira de Oliveira,M.C., Levkowitz,H.: From Visual Data Exploration to Visual Data Mining: A Survey, IEEE Trans. on Visualization and Computer Graphics, 9-3, Jul 2003
-	•	Schumann,H., Müller,W.; Visualisierung -Grundlagen und allgemeine Methoden; Springer 2000, ISBN 3-540-64944-1
-	•	Brodlie,K.W., e.a.: Scientific Visualization, Techniques and Applications, Springer 1992
-	•	Open Visualization Data Explorer, open source
-	•	Visualization Toolkit, open Source, www.vtk.org
-	•	Data-driven Documents D3, d3js.org
+- Weitere themenbezogene Einzelverweise in der Vorlesung und im Seminar
+- Murray, S.: Interactive Data Visualization for the Web, O'Reilly
+- Meirelles, I.: Design for Information, Rockport
+- Berger,W., Grob,H.L.: Präsentieren und Visualisieren -mit und ohne Multimedia, dtv 2002
+- Kirckhoff,M.: Mind mapping, die Synthese von sprachlichem und bildhaftem Denken, Berlin 1988, und www.mindmanager.de
+- Excel: z.B. Berk, Kenneth N.: Data analysis with Microsoft Excel, 2000, Middleton,M.R. Data analysis using Microsoft Excel
+- Tufte, E.R., The Visual Display of Quantitative Information, Cheshire,CT, Graphics Press 1983, und Envisioning Information, Cheshire,CT, Graphics Press 1994
+- Keim, D.A.: Data mining mit bloßem Auge, Spektrum der Wissenschaft, Nov 2002
+- Ferreira de Oliveira,M.C., Levkowitz,H.: From Visual Data Exploration to Visual Data Mining: A Survey, IEEE Trans. on Visualization and Computer Graphics, 9-3, Jul 2003
+- Schumann,H., Müller,W.; Visualisierung -Grundlagen und allgemeine Methoden; Springer 2000, ISBN 3-540-64944-1
+- Brodlie,K.W., e.a.: Scientific Visualization, Techniques and Applications, Springer 1992
+- Open Visualization Data Explorer, open source
+- Visualization Toolkit, open Source, www.vtk.org
+- Data-driven Documents D3, d3js.org
