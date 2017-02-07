@@ -26,11 +26,7 @@ Verpflichtende Kurse im Umfang von 10 CP sind:
 - Computergrafik und Animation
 
 Mit diesen beiden Kursen wird ein Fundament geschaffen, was es erlaubt innerhalb der beiden verbliebenen Kurse tiefer in die jeweilige Spezialisierung einzutauchen. Dabei gibt es grundsätzlich die Möglichkeit sich in Richtung Fernseh- und Videoproduktion oder Gameentwicklung zu vertiefen.
-Der Wahlkatalog im Modul Visual Computing aus dem zwei weitere Kurse zu jeweils 5CP zu belegen sind umfasst folgende Kurse, welche nach Verfügbarkeit angeboten werden:
-- Audiovisuelles Medienprojekt 2
-- Visuelle Effekte und Animation
-- Cross-Platform Game Development mit Unity 3D
-- Prozedurale Generierung virtueller Welten
+Aus dem Wahlkatalog im Modul Visual Computing, bestehend aus Kursen aus dem Bereich Film/Video und Game Development, sind zwei weitere Kurse zu jeweils 5CP zu belegen, welche nach Verfügbarkeit angeboten werden.
 
 Die Kurse sind in der Regel projektbasiert aufgebaut, so dass sowohl theoretischer Hintergrund als auch praxisnahes Wissen vermittelt wird und zur Anwendung kommt.
 
@@ -43,11 +39,11 @@ Pflichtbereich:
 - Audiovisuelle Medientechnik
 - Computergrafik und Animation
 
-Vertiefung Film/Video:
+Wahlkatalog Film/Video:
 - Audiovisuelles Medienprojekt 2
 - Visuelle Effekte und Animation
 
-Vertiefung Game Development:
+Wahlkatalog Game Development:
 - Crossplatform Game Development mit Unity3D
 - Prozedurale Generierung virtueller Welten
 
@@ -60,7 +56,7 @@ Vertiefung Game Development:
 - Prozedurale Generierung virtueller Welten: Gesamtaufwand 150 h, davon - 40 h Vorlesung (inkl. Vor- und Nachbereitung), - 40 h Live-Coding und Übungen - 40 h Selbstlernphase - 30 h Begleitetes Abschlussprojekt
 
 ## Angestrebte Lernergebnisse:
-Je nach gewählter Vertiefung entwickeln die Studierenden Fähigkeiten zur selbstverantwortlichen Durchführung von Projekten im Bereich Gamedevelopment, dreidimensionaler Darstellung virtueller Szenen, Film- und Fernsehtechnik, sowie Visueller Effekte.
+Je nach gewählten Vertiefungskursen entwickeln die Studierenden Fähigkeiten zur selbstverantwortlichen Durchführung von Projekten im Bereich Gamedevelopment, dreidimensionaler Darstellung virtueller Szenen, Film- und Fernsehtechnik, sowie Visueller Effekte.
 Im Detail:
 
 ### Audiovisuelle Medientechnik
@@ -98,20 +94,139 @@ Die Studierenden haben die Möglichkeit ihr Vorwissen über 3D-Computergrafik, 3
 
 
 ## Inhalt:
-siehe Modulbeschreibung:
-- Audiovisuelle Medientechnik
-- Computergrafik und Animation
-- Cross-Platform Game Development mit Unity 3D
-- Prozedurale Generierung virtueller Welten
-- Audiovisuelles Medienprojekt 2
-- Visuelle Effekte und Animation
+
+### Audiovisuelle Medientechnik
+- Grundlagen der Fernsehtechnik
+- Digitale Fernsehtechnik
+- HD-Technik
+- Videodatenreduktion
+- Bildwandler
+- Das Optische System der Videokamera
+- Signalverarbeitung in der Videokamera
+- Signalaufzeichnung
+- Elektroakustik
+- Bildwiedergabesysteme
+- Lichttechnik und Beleuchtung
+
+### Computergrafik und Animation
+- Graphikhardware, 
+- OpenGL
+- Transformationen und homogene Koordinaten 
+- Interpolation
+- Kameramodelle 
+- Clipping 
+- Shaderprogrammierung 
+- Animation
+- Texturierung
+- Fortgeschrittene Algorithmen (Schatten, Reflexionen, Bump-, Normal-, Parallax-, Relief-Mapping), Globale Beleuchtung, Deferred Shading)
+- Perzeption
+- Grundlagen des Ray Tracings
+
+
+### Audiovisuelles Medienprojekt 2
+- Vertiefung der Video- und Audioaufnahmetechnik
+- Verschiedene Dramaturgiemodelle
+- Drehbuch, Auflösung, Storyboard
+- Schnitt und Montage
+- Liveproduktion im Studio
+- Medienproduktion in den Formaten Spielfilm, Imagefilm und Studioproduktion
+
+### Visuelle Effekte und Animation
+- Storyboard
+- Kalkulation
+- Produktionabläufe
+- Matting
+- Compositing
+- Umgang mit Bild-/Videobearbeitungswerkzeugen
+
+### Cross-Platform Game Development mit Unity 3D
+- Aufbau einer Game Engine
+- Gameobjects
+- Game Physics
+- Interaktion
+- Spielmechaniken
+
+### Prozedurale Generierung virtueller Welten
+-	Einführung in die Game-Engine Unity
+-	Grundlagen 3D-Geometrie
+-	Erweiterung des Unity-Editors
+-	Primitive und Mesh-Datenstrukturen
+-	UV-Mapping und Texturierungstechniken/Materialien
+-	Prozedurale Texturgenerierung
+-	Parametrisierung von 3D-Modellen
+-	Kurven und Flächen
+-	Height-Maps
+-	L-Systeme und „Turtle“-Grafik-Renderer
+-	Triangulations-Algorithmen für Polygone
+-	Voxel-Terrain-Generierung
 
 
 ## Studien-/Prüfungsleistungen:
 Teilprüfungen in den jeweiligen Kursen.
 
+### Audiovisuelle Medientechnik
+Schriftliche Prüfung von 90 Min
+
+### Computergrafik und Animation
+Die erfolgreiche Teilnahme an den Praktikas ist Voraussetzung für die Klausur (120 Minuten) oder mündliche Prüfung
+
+### Audiovisuelles Medienprojekt 2
+Projektarbeit und schriftliche Ausarbeitung
+
+### Visuelle Effekte und Animation
+Projektarbeit und schriftliche Ausarbeitung
+
+### Cross-Platform Game Development mit Unity 3D
+Präsentation und Dokumentation eines eigenständig entwickelten Projekts
+
+### Prozedurale Generierung virtueller Welten
+Die erfolgreiche Teilnahme am Abschlussprojekt (eigenständiges Projekt, auch in Kleingruppen möglich) und Fachgespräch
+
 ## Medienformen:
-siehe jeweilige Kursbeschreibung
+Beamergestützte Vorträge, Rechnergestützte Workshops
 
 ## Literatur:
-siehe jeweilige Kursbeschreibung
+### Audiovisuelle Medientechnik
+- Schmidt Ulrich, Professionelle Videotechnik, Springer-Verlag Berlin Heidelberg New York 2013, ISBN 978-3-642-38992-4
+- Johannes Webers, Film- und Fernsehtechnik, Franzis Verlag, Poing 2000, ISBN 3-7723-7116-7
+- Möllering, Slansky, Handbuch der professionellen Videoaufnahme Edition Filmwerkstatt, Essen, 1993, ISBN 3 - 9 802 581 - 3 - 0
+
+### Computergrafik und Animation
+- Peter Shirley, Fundamentals of Computer Graphics, Peters, Wellesley
+- Andrew Woo, et al., OpenGL Programming Guide, Version 4.3, Addison-Wesley,
+- Tomas Akenine-Möller, Eric Haines, und Naty Hoffman, Real-Time Rendering, 3. Ausgabe, Peters, Wellesley
+- Randi J. Rost, John M. Kessenich, Barthold Lichtenbelt, OpenGL Shading Language, 2. Ausgabe, Addison-Wesley
+- Alan Watt, 3D Computer Graphics, Addison-Wesley
+- Frank Nielsen, Visual Computing, Charles River Media, 2005
+- James Foley, Andries Van Dam, et al., Computer Graphics : Principles and Practice, 2. Ausgabe, Addison-Wesley
+
+### Audiovisuelles Medienprojekt 2
+- James Monaco, Film verstehen, Rowolth Taschenbuch Verlag Hamburg, 1980, ISBN 3-499-162717
+- Syd Field, Drehbuchschreiben für Film und Fernsehen, München 2003, ISBN 354836473X
+- Steven D. Katz, Die Richtige Einstellung, Zweitausendeins, Frankfurt a.M.1998,ISBN 3-86150-229-1
+- David Lewis Yewdall, Practical Art of Motion Picture Sound, Focal Press, USA 2003, ISBN 0-240-80525-9
+- Hans Kornacher & Manfred Stross, Dokumentarisches Videofilmen, Augustus Verlag, Augsburg, 1992, ISBN 3-8043-5474-2
+- Hans Beller Hg., Handbuch der Filmmontage, München: TR-Verlagsunion, 1993, ISBN 3-8058-2357-6
+- Karel Reisz, Gavin Millar, Geschichte und Technik der Filmmontage, München: Filmlandpresse, 1988, ISBN 3-88690-071-1
+- Chris Vogler, Die Reise des Drehbuchschreibens, Verlag Zweitausendeins
+- Wolfgang Lanzenberger, Michael Müller, Unternehmensfilme drehen: Business Movies im digitalen Zeitalter, ISBN: 978-386764367
+
+
+### Visuelle Effekte und Animation
+
+
+### Cross-Platform Game Development mit Unity 3D
+- Unity 3D API (https://docs.unity3d.com/ScriptReference/)
+- Unity 3D Manual (https://docs.unity3d.com/Manual/index.html)
+- Unity Tutorials (https://unity3d.com/de/learn/tutorials)
+- Ian Millington, John Funge,  Artificial Intelligence For Games, Second Edition, CRC Press, 2009
+- Mat Buckland,  Programming Game AI by Example, Wordware Game Developers Library, 2004
+- Steve Rabin et al.,  AI Game Programming Wisdom 1-4, Cengage Learning
+
+### Prozedurale Generierung virtueller Welten
+- Peter Shirley, Steve Marschner, “Fundamentals of Computer Graphics“, CRC Press
+- David Salomon, “Curves and Surfaces for Computer Graphics”, Springer
+- Carsten Seifert, “Spiele entwickeln mit Unity 5”, Hanser
+- Noor Shaker, Julian Togelius, Mark J. Nelson, "Procedural Content Generation in Games (Computational Synthesis and Creative Systems)",  Springer
+- Ryan Watkins, "Procedural Content Generation for Unity Game Development", Packt Publishing
+- Dale Green, "Procedural Content Generation for C++ Game Development", Packt Publishing 
