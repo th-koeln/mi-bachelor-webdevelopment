@@ -39,6 +39,8 @@ Pflichtbereich:
 - Audiovisuelle Medientechnik
 - Computergrafik und Animation
 
+Aus den folgenden Wahlkatalogen sind zwei weitere Kurse zu jeweils 5CP zu belegen, welche nach Verfügbarkeit angeboten werden.
+
 Wahlkatalog Film/Video:
 - Audiovisuelles Medienprojekt 2
 - Visuelle Effekte und Animation
