@@ -69,3 +69,6 @@ Die erfolgreiche Teilnahme am Abschlussprojekt (eigenständiges Projekt, auch in
 - Peter Shirley, Steve Marschner, “Fundamentals of Computer Graphics“, CRC Press
 - David Salomon, “Curves and Surfaces for Computer Graphics”, Springer
 - Carsten Seifert, “Spiele entwickeln mit Unity 5”, Hanser
+- Noor Shaker, Julian Togelius, Mark J. Nelson, "Procedural Content Generation in Games (Computational Synthesis and Creative Systems)",  Springer
+- Ryan Watkins, "Procedural Content Generation for Unity Game Development", Packt Publishing
+- Dale Green, "Procedural Content Generation for C++ Game Development", Packt Publishing 

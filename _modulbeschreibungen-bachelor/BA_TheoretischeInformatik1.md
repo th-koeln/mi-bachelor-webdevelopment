@@ -16,9 +16,13 @@ type: pm
 ---
 
 ## Lehrform/SWS:
-
+4 SWS, Vorlesung (2 SWS), Übung (2 SWS)
 
 ## Arbeitsaufwand:
+Gesamtaufwand 150 h, davon
+- 50h Vorlesung (inkl. Vor- und Nachbearbeitung)
+- 50h Übung (inkl. Vor- und Nachbearbeitung)
+- 50h Selbstlernphase 
 
 ## Angestrebte Lernergebnisse:
 - Grundsätzliches Ziel des Kurses ist eine Einführung in die Begriffe, Methoden, Modelle und Arbeitsweise der Theoretischen Informatik anhand der ausgewählten Teilgebiete.
