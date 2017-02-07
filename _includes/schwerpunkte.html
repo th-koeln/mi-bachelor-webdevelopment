@@ -87,7 +87,7 @@
 					{% if modulbeschreibung.type == "pm" %}{% assign show = true %}{% endif %}
 					{% if modulbeschreibung.type == "spmw" %}{% assign show = true %}{% endif %}
 					{% if modulbeschreibung.type == "spp" %}
-						{% if modulbeschreibung.schwerpunkt == schwerpunkt.kuerzel %}
+						{% if modulbeschreibung.schwerpunkt contains schwerpunkt.kuerzel %}
 						{% assign show = true %}
 						{% endif %}
 					{% endif %}

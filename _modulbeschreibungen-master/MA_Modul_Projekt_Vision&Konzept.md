@@ -1,6 +1,6 @@
 ---
-title: Projektarbeit - Vision und Konzept im Schwerpunkt Web Development
-modulverantwortlich: kf
+title: Projektarbeit - Vision und Konzept im Kontext des Studienschwerpunkts
+modulverantwortlich: kf, mw, hc, me, ck, gh
 modulniveau: n/a
 kuerzel: WTWP-VK
 untertitel: null
@@ -15,7 +15,7 @@ empfohlene-voraussetzungen: keine
 published: true
 type: spp
 parent: 
-schwerpunkt: wtw
+schwerpunkt: wtw, sc, vc, mpd, hci
 ---
 
 ## Kurzbeschreibung

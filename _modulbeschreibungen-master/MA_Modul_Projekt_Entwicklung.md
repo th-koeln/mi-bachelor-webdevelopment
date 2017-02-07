@@ -1,6 +1,6 @@
 ---
-title: Projektarbeit - Entwicklung im Schwerpunkt Web Development
-modulverantwortlich: kf
+title: Projektarbeit - Entwicklung im Kontext des Studienschwerpunkts
+modulverantwortlich: kf, mw, hc, me, ck, gh
 modulniveau: n/a
 kuerzel: WTWP-E
 untertitel: null
@@ -15,7 +15,7 @@ empfohlene-voraussetzungen: keine
 published: true
 type: spp
 parent: 
-schwerpunkt: wtw
+schwerpunkt: wtw, sc, vc, mpd, hci
 ---
 
 ## Kurzbeschreibung
