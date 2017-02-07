@@ -1,5 +1,5 @@
 ---
-title: Visualistik
+title: Visualisierung
 modulverantwortlich: me
 modulniveau: null
 kuerzel: VI
