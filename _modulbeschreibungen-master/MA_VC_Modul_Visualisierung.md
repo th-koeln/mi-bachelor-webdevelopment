@@ -39,20 +39,20 @@ Die Studierenden sollen in die Lage versetzt werden, abstrakte, vorwiegend numer
 Grundlagen der Visualisierung und Exploration mehrdimensionaler Daten, aktuelle Visualisierungsverfahren und Interaktionsverfahren.
 Darüber hinaus werden Grundlagen der statistischen Datenanalyse und der 3D-Computergrafik einbezogen.
 Im speziellen, aber nicht ausschließlich, werden folgende Themen behandelt:
-	•	Design Prinzipien
-	•	Daten Modelle
-	•	Visuelle Parameter
-	•	Interaktion
-	•	Netzwerke
-	•	Prozesse
-	•	Graphen
-	•	Hochdimensionale Daten
-	•	Textvisualisierung
-	•	Maps
-	•	Wahrnehmung
-	•	Farbe
-	•	Kognition
-	•	Story Telling
+- Design Prinzipien
+- Daten Modelle
+- Visuelle Parameter
+- Interaktion
+- Netzwerke
+- Prozesse
+- Graphen
+- Hochdimensionale Daten
+- Textvisualisierung
+- Maps
+- Wahrnehmung
+- Farbe
+- Kognition
+- Story Telling
 
 ## Studien-/Prüfungsleistungen:
 2 Fachvorträge sowie eine abschließende Projektarbeit samt Dokumentation und Präsentation.
