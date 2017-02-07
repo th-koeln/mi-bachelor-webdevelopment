@@ -52,7 +52,7 @@ Zusätzlich wird ein Ausblick auf weiterführende Themen der Computergraphik geg
 - Grundlagen des Ray Tracings
 
 ## Studien-/Prüfungsleistungen:
-Die erfolgreiche Teilnahme an den Praktikas ist Voraussetzung für die Klausur (120 Minuten) oder mündliche Prüfung
+Die erfolgreiche Teilnahme an den Praktikas ist Voraussetzung für die Klausur (90 Minuten) oder mündliche Prüfung
 
 ## Medienformen:
 - Beamergestützte Vorlesung; 
