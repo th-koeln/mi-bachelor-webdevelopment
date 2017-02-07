@@ -42,9 +42,11 @@ Vorlesung, Praktikum / Projekt, Übung mit kursabhängigen Schwerpunkten
 Pflichtbereich:
 - Audiovisuelle Medientechnik
 - Computergrafik und Animation
+
 Vertiefung Film/Video:
 - Audiovisuelles Medienprojekt 2
 - Visuelle Effekte und Animation
+
 Vertiefung Game Development:
 - Crossplatform Game Development mit Unity3D
 - Prozedurale Generierung virtueller Welten
