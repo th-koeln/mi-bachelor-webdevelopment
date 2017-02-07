@@ -17,6 +17,7 @@ parent: VC
 ---
 
 ## Kurzbeschreibung
+In diesem Kurs werden die Grundlagen prozeduraler Generierung mit Hilfe einer Game Engine vermittelt.
 
 ## Lehrform/SWS: 
 2 SWS Vorlesung 
