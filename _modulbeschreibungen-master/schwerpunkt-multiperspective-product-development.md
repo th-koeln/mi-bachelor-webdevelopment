@@ -22,7 +22,7 @@ Der Schwerpunkt "Multi-Perspective Product Development" bereitet die Studierende
 Folgende Module sind in dem Schwerpunkt verpflichtend: 
 <!-- MW: 3 Module mit je 6 cp -->
 * Interaction Design
-* Privatsphäre, Vertrauen & Sicherheit im Netz
+* Bildbasierte Computergrafik
 * Qualitätssicherung und -management
 
 ## Lehrveranstaltungen im Projekt:
