@@ -28,6 +28,7 @@ In der Veranstaltung werden wesentliche Grundideen, Interaktionsprinzipien, Cont
 Die Studierenden 
 - kennen wesentliche Grundideen, Interaktionsprinzipien, Contentarchitekturen und Sicherheitsmechanismen, die das Web als Medium konstituieren und 
 - können moderne Webanwendungen auf der Basis von Fachbegriffen analysieren und einordnen
+
 um kompetent am fachlichen Diskurs über Eigenschaften, Auswirkungen und Gestaltungsalternativen von Web Anwendungen teilnehmen zu können.
 
 ## Inhalt:
