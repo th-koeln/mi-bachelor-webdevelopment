@@ -39,6 +39,10 @@ Advanced Seminar
 - Lehrveranstaltungen je nach Schwerpunkt des gewählten Projekts.
 
 ## Empfohlene Wahlpflicht-Module in dem Schwerpunkt:
+- Privatsphäre & Sicherheit im Netz
+- Soziotechnische Patterns
+- Kooperationssysteme
+- Netzwerk- und Graphentheorie
 - Logik und semantische Modellierung
 - Anforderungsmanagement
 - Medienrecht und Medienwirtschaft
