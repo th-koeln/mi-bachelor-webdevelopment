@@ -12,7 +12,7 @@ kreditpunkte: 20
 voraussetzungen-nach-pruefungsordnung: keine
 empfohlene-voraussetzungen: Einführung in die Medieninformatik, Web Architekturen, Algorithmen und Programmierung, Paradigmen der Programmierung, MCI, Screendesign, Betriebssysteme und verteilte Systeme
 published: true
-type: spm
+type: vpm
 ---
 
 ## Kurzbeschreibung
@@ -53,7 +53,7 @@ Die Studentinnen und Studenten kennen
 - wesentliche Frameworks, Dienste und Werkzeuge für die serverseitige Entwicklung von Web Anwendungen
 - können ausgewählte Frameworks, Dienste und Tools in einem Projektkontext anwenden. 
 
-Die Kompetenz zur systematischen Entwicklung von Systemen in einem arbeitsteiligen Team wird eingeübt und vertieft. Kenntnisse aus den anderen Modulen des Schwerpunktes werden vertieft und verknüpft und im Rahmen eines konkreten Projektauftrags angewendet.
+Die Kompetenz zur systematischen Entwicklung von Systemen in einem arbeitsteiligen Team wird eingeübt und vertieft. Kenntnisse aus den anderen Modulen der Vertiefung werden vertieft und verknüpft und im Rahmen eines konkreten Projektauftrags angewendet.
 
 Die Studierenden sind in der Lage ein Projektbriefing zu durchdringen und daraus einen Projektauftrag abzuleiten und diesen im Team abzuarbeiten.
 

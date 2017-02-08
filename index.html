@@ -8,7 +8,7 @@ layout: default
 {% assign pflichtmodule = (site.modulbeschreibungen-bachelor | where:"type","pm") %}
 {% assign teilmodule = (site.modulbeschreibungen-bachelor | where:"type","tm") %}
 {% assign wahlpflichtmodule = (site.modulbeschreibungen-bachelor | where:"type","wpm") %}
-{% assign schwerpunktmodule = (site.modulbeschreibungen-bachelor | where:"type","spm") %} 
+{% assign vertiefungsmodule = (site.modulbeschreibungen-bachelor | where:"type","vpm") %} 
 
 {% assign sorted_teilmodule = (teilmodule | sort: 'title') %}
 
@@ -54,28 +54,28 @@ layout: default
 					{% if fachsemester == "4" %}
 					{% assign cps = cps | plus: 20 %}
 					<tr class="no-border">
-						<td>Schwerpunktmodul</td>
-						<td>SPM</td>
+						<td>Vertiefungsmodule</td>
+						<td>VPM</td>
 						<td colspan="2">20</td>
 					</tr>
 					
-					{% assign sorted_pages = (schwerpunktmodule | where:"studiensemester",fachsemester | sort: 'title') %}
-						{% for schwerpunktmodulbeschreibung in sorted_pages %}
+					{% assign sorted_pages = (vertiefungsmodule | where:"studiensemester",fachsemester | sort: 'title') %}
+						{% for vertiefungsmodulbeschreibung in sorted_pages %}
 						
 						<tr class="no-border">
 							<td>
-								<a href="{{site.baseurl}}{{schwerpunktmodulbeschreibung.url}}">{{schwerpunktmodulbeschreibung.title}}</a><br>
+								<a href="{{site.baseurl}}{{vertiefungsmodulbeschreibung.url}}">{{vertiefungsmodulbeschreibung.title}}</a><br>
 								{% for teilmodulbeschreibung in sorted_teilmodule %}
-									{% if teilmodulbeschreibung.parent == schwerpunktmodulbeschreibung.kuerzel %}
+									{% if teilmodulbeschreibung.parent == vertiefungsmodulbeschreibung.kuerzel %}
 									- <a class="is-small is-less-important" href="{{site.baseurl}}{{teilmodulbeschreibung.url}}">{{teilmodulbeschreibung.title}}</a><br> 
 									{% endif %}
 								{% endfor %}
 							
 							</td>
-							<td>{{schwerpunktmodulbeschreibung.kuerzel}}</td>
+							<td>{{vertiefungsmodulbeschreibung.kuerzel}}</td>
 							<td></td>
 							<td>
-								{% include /functions/resolve-names.html modulverantwortlich=schwerpunktmodulbeschreibung.modulverantwortlich %}
+								{% include /functions/resolve-names.html modulverantwortlich=vertiefungsmodulbeschreibung.modulverantwortlich %}
 								{{modulverantwortliche}}
 							</td>
 						</tr>
