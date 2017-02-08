@@ -43,8 +43,7 @@ Advanced Seminar
 ## Module im Schwerpunkt:
 - Privatsphäre, Vertrauen & Sicherheit im Netz
 - Web-basierte Architekturen
-- Beautiful Code?
-- Logik und semantische Modellierung?
+- Web Technologien
 
 
 
