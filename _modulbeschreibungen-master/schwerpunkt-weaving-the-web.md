@@ -21,11 +21,6 @@ Als charakterisierende Merkmale für die Entwicklung von Produkten und Diensten 
 
 Der Titel der Studienrichtung, "Weaving the Web" wurde gewählt, da neben dem klassischen Software Engineering vor allem auch die Integration eigener Produkte und Dienste in das Web thematisiert wird.
 
-Folgende Module sind in der Studienrichtung verpflichtend: Web Development, Web Architectures, Qualitätssicherung und -management(MW?) 
-<!-- MW: Es sollten doch 3 Module a 6 cp sein -->
-
-Darüber hinaus werden folgende Module für die Studienrichtung angeboten: Quality Management, Logik und semantische Modellierung, Computer Ethik, Visualistik
-
 
 ## Lehrveranstaltungen im Projekt:
 
