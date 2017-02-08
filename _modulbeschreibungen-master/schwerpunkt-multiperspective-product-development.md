@@ -21,8 +21,8 @@ Der Schwerpunkt "Multi-Perspective Product Development" bereitet die Studierende
 ## Schwerpunktspezifische Pflichtmodule
 Folgende Module sind in dem Schwerpunkt verpflichtend: 
 <!-- MW: 3 Module mit je 6 cp -->
+* Privatsphäre & Sicherheit im Netz
 * Interaction Design
-* Bildbasierte Computergrafik
 * Qualitätssicherung und -management
 
 ## Lehrveranstaltungen im Projekt:
@@ -39,7 +39,7 @@ Advanced Seminar
 - Lehrveranstaltungen je nach Schwerpunkt des gewählten Projekts.
 
 ## Empfohlene Wahlpflicht-Module in dem Schwerpunkt:
-- Privatsphäre & Sicherheit im Netz
+- Bildbasierte Computergrafik
 - Soziotechnische Patterns
 - Kooperationssysteme
 - Netzwerk- und Graphentheorie
