@@ -54,7 +54,7 @@ layout: default
 					{% if fachsemester == "4" %}
 					{% assign cps = cps | plus: 20 %}
 					<tr class="no-border">
-						<td>Vertiefungsmodule</td>
+						<td>Vertiefungsmodule:</td>
 						<td>VPM</td>
 						<td colspan="2">20</td>
 					</tr>
@@ -67,7 +67,7 @@ layout: default
 								<a href="{{site.baseurl}}{{vertiefungsmodulbeschreibung.url}}">{{vertiefungsmodulbeschreibung.title}}</a><br>
 								{% for teilmodulbeschreibung in sorted_teilmodule %}
 									{% if teilmodulbeschreibung.parent == vertiefungsmodulbeschreibung.kuerzel %}
-									- <a class="is-small is-less-important" href="{{site.baseurl}}{{teilmodulbeschreibung.url}}">{{teilmodulbeschreibung.title}}</a><br> 
+									<!--a class="is-small is-less-important" href="{{site.baseurl}}{{teilmodulbeschreibung.url}}">{{teilmodulbeschreibung.title}}</a><br--> 
 									{% endif %}
 								{% endfor %}
 							
