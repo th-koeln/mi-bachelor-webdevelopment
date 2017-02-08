@@ -45,6 +45,8 @@ Die Inhalte werden als Vorlesung vermittelt. In dem begleitenden Seminar werden 
 Mündliche Prüfung
 
 ## Medienformen:
+- Folienpräsentation
+- Auschnitte aus der Literatur als Leseaufgaben und Fallstudien
 
 
 ## Literatur:
