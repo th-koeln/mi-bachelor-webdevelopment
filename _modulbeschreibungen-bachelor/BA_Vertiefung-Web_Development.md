@@ -19,7 +19,7 @@ type: vpm
 Einführungen in Konzepte, Techniken und Arbeitsweisen der Web Entwicklung.
 
 ## Lehrform/SWS: 
-
+6 SWS Vorlesung, 6 SWS Praktikum, 4 SWS Projekt
 ## Lehrveranstaltungen
 - Web Frontend Entwicklung
 - Serverseitige Frameworks und Dienste
@@ -37,6 +37,13 @@ Einführungen in Konzepte, Techniken und Arbeitsweisen der Web Entwicklung.
 - Web Development Projekt: Projekt(150 Stunden)
 
 ## Angestrebte Lernergebnisse:
+Die Studierenden
+- kennen ausgewählte Methoden und Frameworks für die Web Entwicklung im Front-End, im Back-End und in vernetzten Geräten (IoT),
+- können eine Methoden und Technologiewahl für einen Prpojektkontext fachlich begründen,
+- können Frameworks und Methoden zur Realisierung von Proof-of-Concepts in einem Projektkontext einsetzen und
+- können die erzielten Ergebnisse fachlich, kritisch einordnen und diskutieren,
+
+um kompetent in Web Entwicklungs Teams mitwirken zu können.
 
 ### Web Frontend Entwicklung:
 Die Studierenden kennen wesentliche Konzepte und Technologien des Web-Frontend Developments und können diese anwenden, um eigenständig im Team Web-Frontends zu konzipieren, realisieren und optimieren.
@@ -91,7 +98,7 @@ Studierende können nach diesem Modul selbstständig Anwendungen für das Intern
 - NodeJS
 - Services im Web: Amazon WS (AWS), Google Firebase, ….
 - NoSQL Datenbanken
-- Web Analyse: Piwik, …
+- Web Analyse: Piwik,
 
 Ausgewählte Tools sollen tiefgreifend erarbeitet werden und in einem Projektkontext angewendet werden. Dies erfolgt in der Regel in dem begleitenden Projekt
 
@@ -118,4 +125,8 @@ Beamergestützte Vorträge, Rechnergestützte Workshops
 ## Literatur:
 - Randy Connolly, Ricardo Hoar: Fundamentals of Web Development
 - Andy Clark: Hardboiled Web-Design
-
+- Tilkov et al.: REST und HTTP- Entwicklung und Integration nach dem Architekturstil des Web, dpunkt.verlag 2015
+- Watkin: Practical XMPP, Packt Publishing 2016
+- Saint-Andre: XMPP: THe Definitive Guide, OReilly 2009
+- Roy: RabbitMQ in Depth, Manning 2016
+- Newman: Building Microservices: Designing fine-grained systems, OReilly 2015
