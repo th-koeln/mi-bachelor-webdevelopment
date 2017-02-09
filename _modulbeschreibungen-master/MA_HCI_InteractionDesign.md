@@ -29,7 +29,7 @@ schwerpunkt: hci, mpd
 ## Angestrebte Lernergebnisse:
 Ziel ist vor allem, die Benutzerperspektive im Entwicklungsprozess interaktiver Systeme zu berücksichtigen, nicht von der 
 Technologie sondern von menschlichen Erfordernissen auszugehen und eine entsprechende Interaktionsmodellierung und –Gestaltung erreichen zu können. Dabei wird besonderer Wert auf den Auf- bzw. Ausbau von Entwurfskompetenz („reflection in action“, „conversation with the material“) gelegt, die das systematische Entwickeln von Gestaltungsalternativen, deren Bewertung, der Synthese gefundener Qualitäten in kohärenten und konsistenten Systementwürfen und den systematischen, konstruktiven Umgang mit trade-offs und ein insgesamt iteratives Vorgehen beinhaltet. 
-Die Studierenden haben konzeptionelles Design (Conceptual Design) verstanden, können es souverän anwenden und als Methode kritisch einordnen, um aufgabenangemessene und aus Benutzersicht angenehme Technologienutzung zu gestalten. Die Studierenden haben "Designing for Life" verstanden und wissen, wie sie dies methodisch umsetzen können.
+Die Studierenden haben konzeptionelles Design (Conceptual Design) verstanden, können es souverän anwenden und als Vorgehen kritisch einordnen, um aufgabenangemessene und aus Benutzersicht angenehme Technologienutzung zu gestalten. Die Studierenden haben "Designing for Life" verstanden und wissen, wie sie dies methodisch umsetzen können.
 
   
 
