@@ -34,17 +34,19 @@ Gesamtaufwand 150h, davon
 
 
 ## Angestrebte Lernergebnisse:
-Nach erfolgreichem Abschluss können die Teilnehmer:
-- Filter und Segmentierungsverfahren beschreiben und implementieren
-- Verschiedene Bild- und Videooperatoren in ihrer Wirkung vergleichen, kombinieren und sinnvoll einsetzen
-- Mathematische Beschreibungen von Bild- und Videooperatoren verstehen
-- Feature Detektoren einsetzen
-- Kamerakalibrierungsverfahren erfolgreich einsetzen
-- Photogrammetriemethoden zur 3D Rekonstruktion einsetzen
-- Augmented Reality Anwendungen entwerfen und entwickeln
-- Bildinterpolationsmethoden und ihre Herausforderungen kennen
-- Bildbasierte Darstellungsformen auswählen und anwenden (360° Panoramas, Lichtfelder, Morphing, Image-based Rendering)
-- Die Konzepte auf CPU und GPU umsetzen
+Nach erfolgreichem Abschluss
+
+- haben die Teilnehmer ihr Wissen und Verständnis im Bereich der bildbasierten Computergrafik erweitert und vertieft, bspw. können Sie
+  - Filter und Segmentierungsverfahren beschreiben und implementieren
+  - Verschiedene Bild- und Videooperatoren in ihrer Wirkung vergleichen, kombinieren und sinnvoll einsetzen
+  - Mathematische Beschreibungen von Bild- und Videooperatoren verstehen
+  - Feature Detektoren einsetzen
+  - Kamerakalibrierungsverfahren erfolgreich einsetzen
+  - Photogrammetriemethoden zur 3D Rekonstruktion einsetzen
+  - Augmented Reality Anwendungen entwerfen und entwickeln
+  - Bildinterpolationsmethoden und ihre Herausforderungen kennen
+  - Bildbasierte Darstellungsformen auswählen und anwenden (360° Panoramas, Lichtfelder, Morphing, Image-based Rendering)
+  - Die Konzepte auf CPU und GPU umsetzen
 
 
 ## Inhalt:
