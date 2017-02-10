@@ -68,6 +68,7 @@
 			<table class="table is-tab-content is-{{startsemester}}" id="{{startsemester}}-{{schwerpunkt.kuerzel}}">
 				<thead>
 					<tr>
+						<th width="5px"></th>
 						<th width="50%">Modulname</th>
 						<th>Kürzel</th>
 						<th>CP</th>
@@ -95,6 +96,11 @@
 					{% assign cps = cps | plus: modulbeschreibung.kreditpunkte %}
 					{% assign modulverantwortlich = modulbeschreibung.modulverantwortlich %}
 					<tr>
+						{% assign kennung = modulbeschreibung.type %}
+						{% if modulbeschreibung.title == "Wahlpflichtmodul" %}
+						{% assign kennung = "pm-grau" %}
+						{% endif %}
+						<td class="kennung {{kennung}}"></td>
 						<td>
 							{% if modulbeschreibung.type == "spmw" %}
 							{{modulbeschreibung.title}}:
