@@ -4,8 +4,8 @@ modulverantwortlich: all
 modulniveau: n/a
 kuerzel: SPM2
 untertitel: null
-studiensemester-ws: 2
-studiensemester-ss: 1
+studiensemester-ws: 1
+studiensemester-ss: 2
 kategorie: n/a
 sprache: deutsch
 zuordnung-zum-curriculum: siehe Studienverlaufsplan

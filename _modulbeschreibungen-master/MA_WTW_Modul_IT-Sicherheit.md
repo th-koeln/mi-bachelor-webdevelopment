@@ -4,8 +4,8 @@ modulverantwortlich: sk
 modulniveau:
 kuerzel: WTW-ITS
 untertitel:
-studiensemester-ws: 2
-studiensemester-ss: 3
+studiensemester-ws: 1
+studiensemester-ss: 2
 kategorie:
 sprache: deutsch
 zuordnung-zum-curriculum: siehe Studienverlaufsplan
@@ -14,7 +14,7 @@ voraussetzungen-nach-pruefungsordnung: keine
 empfohlene-voraussetzungen: keine
 published: true
 type: spm
-parent: SPM3
+parent: SPM2
 schwerpunkt: wtw, sc, mpd
 ---
 

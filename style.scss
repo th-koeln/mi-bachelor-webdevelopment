@@ -130,6 +130,21 @@
 		}
 	}
 	
+	td.pm{
+		background-color: $mi-blau;
+	}
+	
+	td.spp{
+		background-color: $mi-gruen;
+	}
+	
+	td.spmw, td.spm{
+		background-color: $mi-pink;
+	}
+	
+	td.pm-grau, td.wpm{
+		background-color: lighten($mi-black, 50%);
+	}
 
 }
 

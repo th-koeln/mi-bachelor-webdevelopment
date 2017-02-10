@@ -2,10 +2,10 @@
 title: Research Methods
 modulverantwortlich: gh
 modulniveau: null
-kuerzel: 
+kuerzel: RM
 untertitel: null
-studiensemester-ws: 1
-studiensemester-ss: 2
+studiensemester-ws: 2
+studiensemester-ss: 1
 kategorie: null
 sprache: deutsch
 zuordnung-zum-curriculum: Medieninformatik Master
