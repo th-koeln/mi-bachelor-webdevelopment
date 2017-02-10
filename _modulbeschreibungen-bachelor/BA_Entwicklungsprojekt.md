@@ -22,9 +22,9 @@ Projekt
 300 Std
 
 ## Angestrebte Lernergebnisse:
-Die Studierenden sollen vertiefende Kenntnisse in die Methoden und Techniken aus zwei ausgewählten Modulen aus den ersten vier Fachsemestern des Studiums erlangen und diese in der Konzeption und prototypischen Realisierung eines interaktiven Systems oder Mediums anzuwenden. Dabei sollen sie eigene Erfahrungen in der Projektabwicklung mit Medieninformatik-spezifischen Fragestellungen und in der Teamarbeit sammeln und eine reflektierend-kritische Haltung zu methodischen Ansätzen und Entwicklungsmodellen entwickeln. Ziel ist eine, mit eigenen praktischen Erfahrungen fundierte Methodenkompetenz.
+Die Studierenden sollen vertiefende Kenntnisse in die Methoden und Techniken aus zwei ausgewählten Modulen aus den ersten vier Fachsemestern des Studiums erlangen und diese in der Konzeption und prototypischen Realisierung eines interaktiven Systems oder Mediums anzuwenden. Dadurch sollen sie eigene Erfahrungen in der Projektabwicklung mit Medieninformatik-spezifischen Fragestellungen und in der Teamarbeit sammeln und eine reflektierend-kritische Haltung zu methodischen Ansätzen und Entwicklungsmodellen entwickeln. Ziel ist eine, mit eigenen praktischen Erfahrungen fundierte Methodenkompetenz.
 
-Die Studierenden sollen darüberhinaus lernen, die Vorgehensweise und die Ergebnisses ihres Projektes in einem kritischen Diskurs vor einem Fachpublikum zu vertreten.
+Die Studierenden sollen darüberhinaus lernen, die Vorgehensweise und die Ergebnisses ihres Projektes in einem kritischen Diskurs vor einem Fachpublikum zu vertreten, um in der Berufspraxis ihre Herangehensweise und Projektergebnisse vertreten zu können.
 
 ## Inhalt:
 Die Projekte werden in Teams durchgeführt. Zunächst werden von den Teams zwei Module aus den ersten vier Fachsemestern gewählt, welche die fachlichen Perspektiven für die Vertiefung bestimmen. In Absprache mit den Lehrenden werden dann Projektziele festgelegt.

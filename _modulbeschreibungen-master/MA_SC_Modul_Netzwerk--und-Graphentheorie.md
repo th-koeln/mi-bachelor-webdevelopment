@@ -33,6 +33,8 @@ V/Ü
 - kennen wesentliche Konzepte, Kenngrößen und Algorithmen für Graphen und Netzwerke
 - können in abgegrenzten Beispielen bestehende Netze anhand der Kenngrößen und Algorithmen analysieren 
 
+um Methoden und TEchniken zur Analyse sozialer und ggfs. anderer Netze auswählen uzu können.
+
 
 ## Inhalt:
 - Empirische Untersuchung von Netzwerke: technische Netze, Informationsnetze, soziale Netze

@@ -36,6 +36,8 @@ Die Studentinnen und Studenten
 - kennen wesentliche Elemente der Internet Governance und können Problemfelder in diesem Bereich kritisch analysieren
 - können bestehende Web Anwendungen basierend auf den Konzepten der Software Architektur und der Internet Governance analysieren
 
+um an in leitender Funktion zur Gestaltung der Architektur von Projekten für das Web beitragen zu können.
+
 ## Inhalt:
 Softwarearchitekturen: Designprozess, Kommunikationsmethoden(Connectoren), Sicherheit, Modellierung, Visualisierung, Analyse
 
