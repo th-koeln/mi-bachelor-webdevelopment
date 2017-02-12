@@ -55,3 +55,6 @@ Projektarbeit und schriftliche Ausarbeitung
 - Projektarbeit in Teams, um die erlernten Methoden und Techniken einzuüben und zu vertiefen;
 
 ## Literatur:
+Field, Syd (1987): Drehbuchschreiben für Film und Fernsehen, München
+Fuchs, Werner T.  (2013): Warum das Gehirn Geschichten liebt, Haufe-Lexware GmbH. Freiburg
+Vogler, Christopher (2007): Die Odyssee des Drehbuchschreibens. Zweitausendeins. Frankfurt a. M.
