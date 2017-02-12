@@ -58,31 +58,31 @@ Je nach gewählten Vertiefungskursen entwickeln die Studierenden Fähigkeiten zu
 Im Detail:
 
 ### Audiovisuelle Medientechnik
-Die Studierenden sollen durch dieses Modul dazu befähigt werden, auf Basis der technischen Grundlagen der Video- und Fernsehtechnik weitergehende Fragestellungen selbstständig zu erarbeiten und sich so auch zukünftige technische Entwicklungen
+Die Studierenden sollen durch dieses Modul dazu befähigt werden, auf Basis der technischen Grundlagen der Video- und Fernsehtechnik weitergehende Fragestellungen selbstständig zu erarbeiten und sich so auch zukünftige technische Entwicklungen
 autonom erschließen zu können. 
 Neben der Entwicklung und Förderung dieser Fachkompetenz ist die Initiierung der Methodenkompetenz eine wichtige Säule des Vorlesungsmoduls. Unter Methodenkompetenz ist hier die Selbstorganisation im Sinne von wissenschaftlicher Fragestellung an einen Themenkomplex und ein strukturiertes Vorgehen in der Erarbeitung eines Lösungsansatzes zu verstehen. Ziel ist es, das Wissen aus verschiedenen Bereichen, wie Kerninformatik, Internet- und Webtechnologien und benachbarten Wissenschaften mit der in diesem Modul unterrichteten Medientechnologien zu kombinieren und in die Medienproduktion zu integrieren.
-Gerade der Umgang mit Technologien und Methoden aus der Film- und Fernsehproduktion erweitert den Erfahrungshorizont der Studierenden über den bekannten Themenbereich der Kerninformatik hinaus und legt ihnen eine Einarbeitung in informatikfremde Sachverhalte und technologische Problemstellungen und deren Lösungsmethoden nahe.
-Pragmatisches Ziel ist es, in den unterschiedlichsten Berufsfeldern audiovisueller Medien die Entwicklung und den Einsatz digitaler Medientechnik zu beraten, zu planen, durchzuführen oder zu verantworten.
+Gerade der Umgang mit Technologien und Methoden aus der Film- und Fernsehproduktion erweitert den Erfahrungshorizont der Studierenden über den bekannten Themenbereich der Kerninformatik hinaus und legt ihnen eine Einarbeitung in informatikfremde Sachverhalte und technologische Problemstellungen und deren Lösungsmethoden nahe.
+Pragmatisches Ziel ist es, in den unterschiedlichsten Berufsfeldern audiovisueller Medien die Entwicklung und den Einsatz digitaler Medientechnik zu beraten, zu planen, durchzuführen oder zu verantworten.
 
 ### Computergrafik und Animation
 Die Grundlagen der zwei- und insbesondere der dreidimensionalen Computergraphik und Animation stellen ein hervorragendes Paradigma zur Vermittlung zentraler Inhalte und Kompetenzen der Medieninformatik dar.
 
 Den Studierenden wird deutlich, wie der Bogen von den abstrakten, geometrischen und algorithmischen Fakten zu den pragmatischen Gegebenheiten der Computergraphik-Hardware gespannt ist. 
-Sie erkennen die Zusammenhänge zwischen Grundlagenvorlesungen (Mathematik, Algorithmen, Programmierung) und der Gestaltung von Schnittstellen und Oberflächen und werden so für die jeweiligen Inhalte zusätzlich motiviert. 
+Sie erkennen die Zusammenhänge zwischen Grundlagenvorlesungen (Mathematik, Algorithmen, Programmierung) und der Gestaltung von Schnittstellen und Oberflächen und werden so für die jeweiligen Inhalte zusätzlich motiviert. 
 Dabei lernen Sie im Kontext der Computergrafik Verfahrensweisen um den algorithmischen Kern eines Problems zu identifizieren und können Algorithmen entwerfen, verifizieren und bzgl. ihres Ressourcenbedarfs bewerten.
 Sie erwerben die Fähigkeit, aktuelle technologische Entwicklungen im Medieninformatik-Kontext zu bewerten und Trends einzuordnen. 
 
-Nach Abschluss des Moduls besitzen die Studierenden grundlegende Kenntnisse über Architektur und Programmierung moderner Graphikhardware, sowie deren Anwendung in konkreten Problemstellungen und Anwendungskontexten. 
-Am Beispiel von OpenGL und der Rendering-Pipeline lernen die Studierenden Problemstellungen im Anwendungskontext erkennen und sind mit den zugehörigen Lösungsmustern durch praktische Programmierung vertraut.
+Nach Abschluss des Moduls besitzen die Studierenden grundlegende Kenntnisse über Architektur und Programmierung moderner Graphikhardware, sowie deren Anwendung in konkreten Problemstellungen und Anwendungskontexten. 
+Am Beispiel von OpenGL und der Rendering-Pipeline lernen die Studierenden Problemstellungen im Anwendungskontext erkennen und sind mit den zugehörigen Lösungsmustern durch praktische Programmierung vertraut.
 
-Das erlernte Wissen und die erlernten Kenntnisse in der Soft- und Grafikhardware-Architektur ermöglicht es erfolgreichen Teilnehmern, anschließend Echtzeit-Visualisierungen mit OpenGL zu implementieren und somit mit einer modernen, plattformunabhängigen API umzugehen, die flexibel an bestehende Anforderungen angepasst werden kann. Zudem haben Sie die Fähigkeit hochparallele Algorithmen auf der Graphikkarte zu entwerfen und auszuführen. 
+Das erlernte Wissen und die erlernten Kenntnisse in der Soft- und Grafikhardware-Architektur ermöglicht es erfolgreichen Teilnehmern, anschließend Echtzeit-Visualisierungen mit OpenGL zu implementieren und somit mit einer modernen, plattformunabhängigen API umzugehen, die flexibel an bestehende Anforderungen angepasst werden kann. Zudem haben Sie die Fähigkeit hochparallele Algorithmen auf der Graphikkarte zu entwerfen und auszuführen. 
 
 Dabei beherrschen die Studierenden nach Abschluss des Moduls die Fähigkeit abstrakte Szenen- und Objektbeschreibungen zu erstellen und darzustellen, sowie sich in vorhandenen Quelltext einzuarbeiten und diesen sinnvoll weiter zu entwickeln.. 
 Die Inhalte des Moduls befähigen die Studierenden die grundlegenden Algorithmen und Datenstrukturen der Echtzeit-Computergraphik zu beherrschen. 
-Die Studierenden können ihr erworbenes Können und Wissen zur Implementierung einer eigenen Game/Visualisierungs-Engine einsetzen. Dies zeigen Sie durch Umsetzung eines eigenen Projektes in Kleingruppen, wo sie zusätzlich lernen mündlich überzeugend zu präsentieren, abweichende Positionen zu erkennen und in eine sach- und interessengerechte Lösung zu integrieren. Sie zeigen dadurch, dass Sie in der Lage sind sich selbstständig neues Wissen anzueigenen und zu erkennen, welches Wissen relevant ist, können mediengestalterische Grundkompetenzen anwenden und besitzen aktive Vokabularien zur Beschreibung und Realisierung angemessener Konzeptionen. Zudem können sie die Realisationen bezüglich der Zielsetzungen kritisch diskutieren.
+Die Studierenden können ihr erworbenes Können und Wissen zur Implementierung einer eigenen Game/Visualisierungs-Engine einsetzen. Dies zeigen Sie durch Umsetzung eines eigenen Projektes in Kleingruppen, wo sie zusätzlich lernen mündlich überzeugend zu präsentieren, abweichende Positionen zu erkennen und in eine sach- und interessengerechte Lösung zu integrieren. Sie zeigen dadurch, dass Sie in der Lage sind sich selbstständig neues Wissen anzueigenen und zu erkennen, welches Wissen relevant ist, können mediengestalterische Grundkompetenzen anwenden und besitzen aktive Vokabularien zur Beschreibung und Realisierung angemessener Konzeptionen. Zudem können sie die Realisationen bezüglich der Zielsetzungen kritisch diskutieren.
 
 ### Audiovisuelles Medienprojekt 2
-Die praktische Umsetzung des Vorlesungsstoffes, die Kommunikation und Zusammenarbeit im Team über Themenbereiche dieses Faches und die Präsentation von eigenen Projekten und Untersuchungsergebnissen sind die Lernziele des Moduls „Audiovisuelles Medienprojekt 2“. Neben dieser formulierten Fachkompetenz, Methodenkompetenz und Kommunikationskompetenz stehen gerade die sogenannten Softskills Teamfähigkeit und Kommunikationsfähigkeit im Focus der Ausbildung in diesem Modul.
+Die praktische Umsetzung des Vorlesungsstoffes, die Kommunikation und Zusammenarbeit im Team über Themenbereiche dieses Faches und die Präsentation von eigenen Projekten und Untersuchungsergebnissen sind die Lernziele des Moduls Audiovisuelles Medienprojekt 2. Neben dieser formulierten Fachkompetenz, Methodenkompetenz und Kommunikationskompetenz stehen gerade die sogenannten Softskills Teamfähigkeit und Kommunikationsfähigkeit im Focus der Ausbildung in diesem Modul.
 
 Die Studierenden kennen über die grundlegenden Erzählformen audiovisueller Medien hinaus spezielle Formate wie Spielfilm, Imagefilm und Studioproduktion und haben dabei folgende Fertigkeiten: Sie können eigene audiovisuelle Erzählformen auf der Basis dieser Erzählmuster entwickeln und sind befähigt zur Analyse, zur Diskussion und zur kritischen Betrachtung audiovisueller Medieninhalte.
 
@@ -158,7 +158,7 @@ Nach Abschluss des Moduls besitzen die Studierenden grundlegende Kenntnisse übe
 - Storyboard
 - Kalkulation
 - Produktionabläufe
-- Matting
+- Keyverfahren mit Green- und Bluescreen
 - Compositing
 - Umgang mit Bild-/Videobearbeitungswerkzeugen
 
@@ -232,10 +232,12 @@ Beamergestützte Vorträge, Rechnergestützte Workshops
 - Hans Beller Hg., Handbuch der Filmmontage, München: TR-Verlagsunion, 1993, ISBN 3-8058-2357-6
 - Karel Reisz, Gavin Millar, Geschichte und Technik der Filmmontage, München: Filmlandpresse, 1988, ISBN 3-88690-071-1
 - Chris Vogler, Die Reise des Drehbuchschreibens, Verlag Zweitausendeins
-- Wolfgang Lanzenberger, Michael Müller, Unternehmensfilme drehen: Business Movies im digitalen Zeitalter, ISBN: 978-386764367
+- Wolfgang Lanzenberger, Michael Müller, Unternehmensfilme drehen: Business Movies im digitalen Zeitalter, ISBN 978-386764367
 
 
 ### Visuelle Effekte und Animation
+- Flückiger Barbara, Visual Effects: Filmbilder aus dem Computer (Zürcher Filmstudien), Schüren Verlag GmbH, 2008,ISBN 978-3894725181
+- Bertram Sascha, VFX (Praxis Film), UVK, 2005, ISBN 978-3896695154
 
 
 ### Cross-Platform Game Development mit Unity 3D
