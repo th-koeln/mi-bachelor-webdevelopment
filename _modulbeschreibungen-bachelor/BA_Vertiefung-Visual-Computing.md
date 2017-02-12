@@ -209,6 +209,7 @@ Die erfolgreiche Teilnahme am Abschlussprojekt (eigenständiges Projekt, auch in
 Beamergestützte Vorträge, Rechnergestützte Workshops
 
 ## Literatur:
+
 ### Audiovisuelle Medientechnik
 - Schmidt Ulrich, Professionelle Videotechnik, Springer-Verlag Berlin Heidelberg New York 2013, ISBN 978-3-642-38992-4
 - Johannes Webers, Film- und Fernsehtechnik, Franzis Verlag, Poing 2000, ISBN 3-7723-7116-7
