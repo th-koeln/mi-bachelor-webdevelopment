@@ -236,7 +236,7 @@ Beamergestützte Vorträge, Rechnergestützte Workshops
 
 
 ### Visuelle Effekte und Animation
-- Flückiger Barbara, Visual Effects: Filmbilder aus dem Computer (Zürcher Filmstudien), Schüren Verlag GmbH, 2008,ISBN 978-3894725181
+- Flückiger Barbara, Visual Effects: Filmbilder aus dem Computer (Zürcher Filmstudien), Schüren Verlag GmbH, 2008, ISBN 978-3894725181
 - Bertram Sascha, VFX (Praxis Film), UVK, 2005, ISBN 978-3896695154
 
 
