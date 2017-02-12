@@ -4,7 +4,7 @@ modulverantwortlich: kf
 modulniveau: n/a
 kuerzel: WTW-WBA
 untertitel: null
-studiensemester-ws: 1, 3
+studiensemester-ws: 1
 studiensemester-ss: 2
 kategorie: n/a
 sprache: deutsch

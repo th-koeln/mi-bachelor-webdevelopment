@@ -1,0 +1,7 @@
+<!-- Daten übernehmen -->
+{% assign content = include.content %}
+
+{% assign content = content | replace: 'h5', 'h6'  %}
+{% assign content = content | replace: 'h4', 'h5'  %}
+{% assign content = content | replace: 'h3', 'h4'  %}
+{% assign content = content | replace: 'h2', 'h3'  %}

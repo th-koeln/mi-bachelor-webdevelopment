@@ -28,8 +28,8 @@ Der Titel der Studienrichtung, "Weaving the Web" wurde gewählt, da neben dem kl
 Advanced Seminar
 
 ### Entwicklung:
-- Frontend & Backend Development?
-- Beautiful Code?
+- Projektmanagement
+- Beautiful Code
 
 ### Verwertung:
 - Deployment, Kontinuierliche Weiterentwicklung

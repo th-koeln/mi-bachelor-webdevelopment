@@ -16,38 +16,22 @@ layout: default
 	</div>
 </section>
 
-<section class="section ideen">
-	<div class="container toc unordered">
-		<ul class="menu-list">
-		{% for schwerpunkt in schwerpunkte %}
-			<li><a href="#{{schwerpunkt.id}}">Schwerpunkt {{schwerpunkt.title}}</a></li>
-		{% endfor %}
-		</ul>
-	</div>
-</section>
-
 {% for schwerpunkt in schwerpunkte %}
-<section class="hero is-medium is-info">
-	<div class="hero-body">
-	    <div class="container">
-			<div class="columns is-vcentered">
-				<div class="column">
-					<h2 class="title">Schwerpunkt {{schwerpunkt.title}}</h2>
-				</div>
-			</div>
-	    </div>
-	</div>
-</section>
-  
+{% if schwerpunkt.content %}
 <section class="section">
 	<div class="container">    
 		<div class="content" id="{{schwerpunkt.id}}">
-	        {{schwerpunkt.content}}
-	        <br>
-	        <a href="{{site.baseurl}}/master-schwerpunkt-{{schwerpunkt.kuerzel}}/">Studienverlaufsplan für den Schwerpunkt {{schwerpunkt.title}}</a>
+			<h2 class="title is-primary" data-target="infos-{{schwerpunkt.id}}">Schwerpunkt {{schwerpunkt.title}}</h2>
+			<div class="is-hidden" id="infos-{{schwerpunkt.id}}">
+		        <a href="{{site.baseurl}}/master-schwerpunkt-{{schwerpunkt.kuerzel}}/">Studienverlaufsplan für den Schwerpunkt {{schwerpunkt.title}}</a>
+		        <br><br>
+		        {{schwerpunkt.content}}
+			</div>
+	        
 		</div>		
 	</div>
 </section>
+{% endif %}
 {% endfor %}
 
 
@@ -98,15 +82,15 @@ layout: default
 
 <section class="section">
 	<div class="container">
-	    <h1 class="title is-1">Alle Module</h1>
+	    <h2 class="title is-2">Alle Module</h2>
 	</div>
 </section>
 
 <section class="section">
 	<div class="container">    
-		<div class="content is-tab-wrap">	        
+		<div class="content">	        
 
-			<table class="table is-tab-content">
+			<table class="table">
 				<thead>
 					<tr>
 						<th width="1%" class="kennung"></th>
@@ -137,8 +121,8 @@ layout: default
 					<tr>
 						<th width="1%" class="kennung"></th>
 						<th><br><br>Module Sommersemester</th>
-						<th width="10%">Kürzel</th>
-						<th width="30%">Name</th>
+						<th width="10%"><br><br>Kürzel</th>
+						<th width="30%"><br><br>Name</th>
 						
 					</tr>
 				</thead>

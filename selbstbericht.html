@@ -2,6 +2,19 @@
 layout: default
 ---
 
+{% assign chapters = "" | split: "," %}
+{% assign last_chapter = "" %}
+
+{% for doc in site.selbstbericht %}
+	{% assign path = doc.path  | remove_first:'_selbstbericht/' | split:'/' %}
+	{% assign subpath = '_selbstbericht/' | append: path.first %}
+	
+	{% if subpath != last_chapter %}
+ 	   {% assign chapters = chapters | push: subpath %}
+ 	   {% assign last_chapter = subpath %}
+ 	{% endif %}
+{% endfor %}
+	
 <section class="section">
 	<div class="container">
 	    <h1 class="title is-1">Selbstbericht</h1>
@@ -14,26 +27,66 @@ layout: default
 		
 		<div class="toc">
 			<ol class="menu-list">
-			{% for doc in site.selbstbericht %}
-				<li><a href="#{{doc.id}}">{{doc.title}}</a></li>
+			{% for chapter in chapters %}
+				{% assign subchapters = "" | split: "," %}
+				{% for doc in site.selbstbericht %}
+					{% if doc.path contains chapter %}
+						{% assign subchapters = subchapters | push: doc %}
+					{% endif %}
+				{% endfor %}
+		
+				{% assign count = 0 %}
+				{% for doc in subchapters %}
+					{% assign count = count | plus: 1 %}
+					{% if count == 1 %}
+						<li>{{doc.title}}</li>
+					{% else %}
+
+					{% endif %}
+				{% endfor %}
 			{% endfor %}
 			</ol>
 		</div>
 	</div>
 </section>
 
-<div id="selbstbericht">
-	{% for doc in site.selbstbericht %}
-	<section class="section selbstbericht" id="{{doc.id}}">
-		<div class="container">
-			<div class="content">
-				<h1>{{doc.title}}</h1>
-				{{doc.content}}
-			</div>
-	
-		</div>
-	</section>
+<div id="selbstbericht">	
+	{% for chapter in chapters %}
+		{% assign subchapters = "" | split: "," %}
+		{% for doc in site.selbstbericht %}
+			{% if doc.path contains chapter %}
+				{% assign subchapters = subchapters | push: doc %}
+			{% endif %}
+		{% endfor %}
+
+		{% assign count = 0 %}
+		{% for doc in subchapters %}
+			{% assign count = count | plus: 1 %}
+			{% if count == 1 %}
+			<section class="section selbstbericht" id="{{doc.id}}">
+				<div class="container">
+					<div class="content">
+						<h1>{{doc.title}}</h1>
+						{{doc.content}}
+					</div>
+				</div>
+			</section>
+			{% else %}
+			<section class="section selbstbericht" id="{{doc.id}}">
+				<div class="container">
+					<div class="content">
+						{% include /functions/shift-level.html content=doc.content %}
+						<h2>{{doc.title}}</h2>
+						{{content}}
+					</div>
+				</div>
+			</section>
+			{% endif %}
+			
+			
+		{% endfor %}
 	{% endfor %}
+
 	
 </div>
 

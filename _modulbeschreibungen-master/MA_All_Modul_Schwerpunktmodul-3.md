@@ -4,7 +4,7 @@ modulverantwortlich: all
 modulniveau: n/a
 kuerzel: SPM3
 untertitel: null
-studiensemester-ws: 2
+studiensemester-ws: 3
 studiensemester-ss: 1
 kategorie: n/a
 sprache: deutsch

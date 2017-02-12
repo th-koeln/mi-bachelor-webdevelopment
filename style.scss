@@ -145,7 +145,13 @@
 	td.pm-grau, td.wpm{
 		background-color: lighten($mi-black, 50%);
 	}
-
+	
+	.lighten{
+		* {
+			color: #aaa;
+		}
+	}
+	
 }
 
 #selbstbericht{
@@ -186,6 +192,10 @@
 
 .toc{
 	border-left: solid 1px $mi-pink;
+	
+	.menu-list{
+		padding-left: $bfs *1.2;
+	}
 }
 
 .is-old *{
@@ -205,6 +215,20 @@
 
 .is-hidden{
 	display: none;
+}
+
+.more-button{
+	font-size: $bfs * 1.5 !important;
+	display: inline-block;
+	margin-left: $bfs /2;
+	transition: all 0.5s;
+	&:hover{
+		cursor: pointer;
+	}
+	
+	&.active{
+		transform: rotate(180deg);
+	}
 }
 
 @media (max-width: 640px) { 

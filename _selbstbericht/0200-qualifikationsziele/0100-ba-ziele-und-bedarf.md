@@ -10,7 +10,7 @@ Mit dem Bachelor-Studiengang Medieninformatik bietet die Fakultät für Informat
 
 TODO aus Zielematrix verdichten
 
- ## Erfüllung der Auflagen der Reakkreditierung
+## Erfüllung der Auflagen der Reakkreditierung
 
 Der Technischen Hochschule Köln wurden im Rahmen der Reakkreditierung im März 2010 folgende Auflagen der Akkreditierungskommission für den mitgeteilt:
 1. Es muss sichergestellt werden, dass den Studierenden zu Beginn der Veranstaltungen die Form der Prüfungsleistungen bekannt gegeben wird und diese auf die Ausbildungsziele abgestimmt ist.

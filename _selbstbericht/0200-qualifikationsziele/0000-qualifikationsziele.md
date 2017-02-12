@@ -14,4 +14,3 @@ Der Bachelorstudiengang soll die Absolventinnen und Absolventen befähigen, in i
 
 Der Masterstudiengang Medieninformatik soll die Absolventinnen und Absolventen befähigen, an der Analyse komplexer informatik-spezifischer Aufgabenstellungen im Kontext interaktiver, oft web-basierter multimedialer Systeme an leitender Stelle in interdisziplinären Teams mitzuwirken, Lösungskonzepte verantwortlich zu entwerfen und zu realisieren, kritisch einzuordnen, in der fachlichen Öffentlichkeit zu kommunizieren und verwerten zu können und interdisziplinäre Entwicklungsteams zu führen.
 
-Test einer [^Fußnote]  
