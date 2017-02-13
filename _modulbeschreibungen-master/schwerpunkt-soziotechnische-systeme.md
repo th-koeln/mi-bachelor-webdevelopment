@@ -30,7 +30,7 @@ Folgende Module sind im Schwerpunkt verpflichtend:
 
 ### Vision & Konzept:
 - Advanced Seminar
-- Planung einer empirischen Studie
+- Planung einer empirischen Studie oder Konzeption eines soziotechnischen Systems
 
 ### Entwicklung:
 - Entwicklungsprojekt soziotechnische Systeme, Beautiful Code 
