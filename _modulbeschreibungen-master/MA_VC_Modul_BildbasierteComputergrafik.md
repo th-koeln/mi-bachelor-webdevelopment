@@ -47,7 +47,7 @@ Nach erfolgreichem Abschluss
   - Bildinterpolationsmethoden und ihre Herausforderungen kennen
   - Bildbasierte Darstellungsformen auswählen und anwenden (360° Panoramas, Lichtfelder, Morphing, Image-based Rendering)
   - Die Konzepte auf CPU und GPU umsetzen
-  und sind somit in der Lage ihr Wissen und Verständnis einzusetzen, um Modelle, Systeme und Prozesse eigener Bild-, Video-, und Computer Vision Applikationen zu konzipieren, umzusetzen und zu evaluieren.
+- sind die Studierenden somit in der Lage ihr Wissen und Verständnis einzusetzen, um Modelle, Systeme und Prozesse eigener Bild-, Video-, und Computer Vision Applikationen zu konzipieren, umzusetzen und zu evaluieren.
 - haben Sie ihre Fähigkeit vertieft, sich eigenständig in neue Themenbereiche einzuarbeiten und Problemstellungen, Technologien und wissenschaftliche Erkenntnisse im Umfeld der bildbasierten Verfahren zu erkennen und sich in relevante Theorien, Methoden und Techniken, sowohl aus theoretischer als auch aus technischer Sichtweise, einzuarbeiten und das erworbene Wissen effizient in die Lösung aktueller und auch zukünftiger Frage- und Problemstellungen einzubringen und anzuwenden. Dies wird durch eigene Recherche, Vorträge und ein Abschlussprojekt realisiert.
 
 ## Inhalt:
