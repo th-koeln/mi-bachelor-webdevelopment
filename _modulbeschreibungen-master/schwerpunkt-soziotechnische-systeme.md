@@ -33,7 +33,7 @@ Folgende Module sind im Schwerpunkt verpflichtend:
 - Planung einer empirischen Studie
 
 ### Entwicklung:
-- Entwicklungsprojekt soziotechnische Systeme
+- Entwicklungsprojekt soziotechnische Systeme, Beautiful Code 
 - Durchführung einer empirischen Studie
 
 ### Verwertung:
