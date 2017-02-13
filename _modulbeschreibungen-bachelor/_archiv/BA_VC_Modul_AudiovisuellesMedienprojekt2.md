@@ -17,7 +17,7 @@ parent: VC
 ---
 
 ## Kurzbeschreibung
-
+Im Mittelpunkt dieses Moduls steht die digitale audiovisuelle Medienproduktion in den Formaten Spielfilm, Imagefilm und Studioproduktion.
 
 ## Lehrform/SWS: 
 4 SWS: Vorlesung 2 SWS; Projekt 2 SWS
