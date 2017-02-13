@@ -4,7 +4,7 @@ modulverantwortlich: all
 modulniveau: n/a
 kuerzel: WPM
 untertitel: null
-studiensemester-ws: 2
+studiensemester-ws: 3
 studiensemester-ss: 3
 kategorie: n/a
 sprache: deutsch

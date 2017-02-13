@@ -70,6 +70,12 @@
 
 .content{
 	
+	p, li{
+		max-width: $bfs * 36;		
+	}
+
+
+
 	h1{ font-size: $bfs * 1.4; font-weight: 500;}
 	h2{ font-size: $bfs * 1.2; font-weight: 500;}
 	h3{ font-size: $bfs * 1.1; font-weight: 500;}
@@ -155,6 +161,8 @@
 }
 
 #selbstbericht{
+	
+	
 	
 	counter-reset: h1counter;
     

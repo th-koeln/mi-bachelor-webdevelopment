@@ -4,7 +4,7 @@ modulverantwortlich: ck
 modulniveau: null
 kuerzel: CE
 untertitel: null
-studiensemester-ws: 3
+studiensemester-ws: 2
 studiensemester-ss: 1
 kategorie: null
 sprache: deutsch

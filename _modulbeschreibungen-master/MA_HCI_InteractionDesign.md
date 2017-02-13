@@ -15,7 +15,7 @@ empfohlene-voraussetzungen: Basismodul Mensch-Computer Interaktion, so wie durch
 published: true
 type: spm
 parent: SPM1
-schwerpunkt: hci, mpd
+schwerpunkt: hci
 ---
 
 ## Lehrform/SWS: Vorlesung/ 2 SWS, Übung/ 1 SWS, Projekt/ 3 SWS

@@ -12,46 +12,52 @@ tabs.func = (function(){
 		
 		//if(tabWraps.length <= 1){ return false; }
 		
-		tabWraps.forEach(function(tabWrap) {
+		for(i=0; i<tabWraps.length; i++){
+			var tabWrap = tabWraps[i];
 			tabContents = tabWrap.querySelectorAll('.is-tab-content');
 			tabContents[1].classList.add('is-hidden');
-		});
+		}
 		
 		
 		
 		// Tab Navi aktivieren
 		var tabNavigations = document.querySelectorAll('.is-tab-navigation');
 		
-		tabNavigations.forEach(function(tabNavigation) {
-			var tabs = tabNavigation.querySelectorAll('.tab-item');
-			tabs[0].classList.add('is-active');
+		for(i=0; i<tabNavigations.length; i++){
+			var tabNavigation = tabNavigations[i];
+			var htmltabs = tabNavigation.querySelectorAll('.tab-item');
+			htmltabs[0].classList.add('is-active');
 			
-			tabs.forEach(function(tab) {
-				tab.onclick = function() { 
-					var target_id = tab.getAttribute('data-tab');
-					var target = document.getElementById(target_id);
+			for(i=0; i<htmltabs.length; i++){
+				var htmltab = htmltabs[i];
+				
+				htmltab.onclick = function() { 
 					
+					var target_id = this.getAttribute('data-tab');
+					var target = document.getElementById(target_id);
+
 					// Content ausblenden
 					var elements = target.parentElement.querySelectorAll('.is-tab-content');
-					elements.forEach(function(element) {
+					for(i=0; i<elements.length; i++){
+						var element = elements[i];
 						element.classList.add('is-hidden');
-					});
+					}
 					
 					// gewählten Content einblenden
 					target.classList.remove('is-hidden');
 					
 					// Aktiven Navipunkt markieren
-					var elements = tab.parentElement.querySelectorAll('.tab-item');
-					elements.forEach(function(element) {
+					var elements = this.parentElement.querySelectorAll('.tab-item');
+					for(i=0; i<elements.length; i++){
+						var element = elements[i];
 						element.classList.remove('is-active');
-					});					
-					tab.classList.add('is-active');
-					
-
+					}				
+					this.classList.add('is-active');
+				
 				};
-			});
+			}
 			
-		});
+		}
 	}
 
 

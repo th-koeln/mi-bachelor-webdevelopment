@@ -14,7 +14,7 @@ voraussetzungen-nach-pruefungsordnung: keine
 empfohlene-voraussetzungen: Grundkenntnisse der Softwaretechnik
 published: true
 type: spm
-parent: SPM2
+parent: SPM1
 schwerpunkt: mpd
 ---
 
