@@ -4,8 +4,9 @@ modulverantwortlich: mw
 modulniveau: Master
 kuerzel: WTW-QUS
 untertitel: null
-studiensemester-ws: 1
-studiensemester-ss: 2
+studiensemester-ws: 2
+studiensemester-ss: 1
+informatik-master: ss
 kategorie: Projektbegleitend
 sprache: deutsch, Seminar-Basisliteratur i.d.R. in englischer Sprache
 zuordnung-zum-curriculum: null
@@ -14,7 +15,7 @@ voraussetzungen-nach-pruefungsordnung: keine
 empfohlene-voraussetzungen: Grundkenntnisse der Softwaretechnik
 published: true
 type: spm
-parent: SPM1
+parent: SPM3
 schwerpunkt: mpd
 ---
 

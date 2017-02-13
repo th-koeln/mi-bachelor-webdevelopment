@@ -6,6 +6,7 @@ kuerzel: SGM-D
 untertitel: null
 studiensemester-ws: 1
 studiensemester-ss: 2
+informatik-master: ws
 kategorie: n/a
 sprache: deutsch
 zuordnung-zum-curriculum: siehe Studienverlaufsplan

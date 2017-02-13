@@ -5,7 +5,7 @@ modulniveau: n/a
 kuerzel: SPM3
 untertitel: null
 studiensemester-ws: 2
-studiensemester-ss: 1
+studiensemester-ss: 3
 kategorie: n/a
 sprache: deutsch
 zuordnung-zum-curriculum: siehe Studienverlaufsplan

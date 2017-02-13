@@ -5,7 +5,7 @@ modulniveau: n/a
 kuerzel: WPM
 untertitel: null
 studiensemester-ws: 3
-studiensemester-ss: 3
+studiensemester-ss: 1
 kategorie: n/a
 sprache: deutsch
 zuordnung-zum-curriculum: siehe Studienverlaufsplan

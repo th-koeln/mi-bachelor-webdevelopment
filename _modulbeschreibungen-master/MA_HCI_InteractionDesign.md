@@ -6,6 +6,7 @@ kuerzel: ID
 untertitel: ID
 studiensemester-ws: 1
 studiensemester-ss: 2
+informatik-master: ws
 kategorie: null
 sprache: deutsch
 zuordnung-zum-curriculum: Medieninformatik Master, Software-Engineering Master

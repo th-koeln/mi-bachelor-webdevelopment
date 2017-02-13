@@ -34,7 +34,6 @@ layout: default
 {% endif %}
 {% endfor %}
 
-
 {% assign alle_fachsemester = "1,2,3,4" | split: "," %}
 {% assign alle_startsemester = "ws,ss" | split: "," %}
 
@@ -60,7 +59,6 @@ layout: default
 {% for schwerpunktmodul in schwerpunktmodule %}
 {% assign module = module | push: schwerpunktmodul %}
 {% endfor %}
-
 
 {% assign module = (module | sort: 'title') %}
 
@@ -108,7 +106,11 @@ layout: default
 						{% assign kennung = "pm-grau" %}
 						{% endif %}
 						<td class="kennung {{kennung}}"></td>
-						<td><a href="{{site.baseurl}}{{modul.url}}">{{modul.title}}</a></td>
+						<td><a href="{{site.baseurl}}{{modul.url}}">{{modul.title}}</a>
+							{% if modul.informatik-master %}
+								(InfMa: {{modul.informatik-master}})
+							{% endif %}
+						</td>
 						<td>{{ modul.kuerzel }}</td>
 						<td>
 							{% include /functions/resolve-names.html modulverantwortlich=modul.modulverantwortlich %}
@@ -134,7 +136,11 @@ layout: default
 						{% assign kennung = "pm-grau" %}
 						{% endif %}
 						<td class="kennung {{kennung}}"></td>
-						<td><a href="{{site.baseurl}}{{modul.url}}">{{modul.title}}</a></td>
+						<td><a href="{{site.baseurl}}{{modul.url}}">{{modul.title}}</a>
+						{% if modul.informatik-master %}
+							(InfMa: {{modul.informatik-master}})
+						{% endif %}
+						</td>
 						<td>{{ modul.kuerzel }}</td>
 						<td>
 							{% include /functions/resolve-names.html modulverantwortlich=modul.modulverantwortlich %}
@@ -142,6 +148,47 @@ layout: default
 						</td>
 					</tr>
 				{% endfor %}
+				</tbody>
+  			</table>
+		</div>
+	</div>
+</section>
+
+<hr>
+
+<section class="section">
+	<div class="container">
+	    <h2 class="title is-2">Schwerpunktmodule in der Übersicht</h2>
+	</div>
+</section>
+
+<section class="section">
+	<div class="container">    
+		<div class="content">	        
+
+			<table class="table">
+				<thead>
+					<tr>
+						<th></th>
+						{% for schwerpunkt in schwerpunkte %}
+						<th>{{schwerpunkt.title}}</th>
+						{% endfor %}
+					</tr>
+				</thead>
+				<tbody>
+				
+					<tr>
+					{% include /functions/show-spms.html spm="SPM1" %}
+					</tr>
+					
+					<tr>
+					{% include /functions/show-spms.html spm="SPM2" %}
+					</tr>
+					
+					<tr>
+					{% include /functions/show-spms.html spm="SPM3" %}
+					</tr>
+				
 				</tbody>
   			</table>
 		</div>

@@ -1,0 +1,18 @@
+{% assign schwerpunkte = (site.modulbeschreibungen-master | where:"type","sp" | sort: "title") %}
+{% assign spm = include.spm %}
+
+<th>{{spm}}</th>
+{% assign  schwerpunktmodule = (site.modulbeschreibungen-master | where:"parent",spm | sort: "title") %}
+
+{% for schwerpunkt in schwerpunkte %}
+<td>
+{% for modul in schwerpunktmodule %}
+	{% if modul.schwerpunkt contains schwerpunkt.kuerzel %}
+	{{modul.title}}
+	{% if modul.informatik-master %}
+		(InfMa: {{modul.informatik-master}})
+	{% endif %}
+	{% endif %}
+{% endfor %}
+</td>
+{% endfor %}

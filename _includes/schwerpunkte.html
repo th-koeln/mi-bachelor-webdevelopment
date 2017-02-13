@@ -125,7 +125,11 @@
 									{% if schwerpunktmodul.schwerpunkt contains schwerpunkt.kuerzel %}
 										{% assign modulverantwortlich = schwerpunktmodul.modulverantwortlich %}
 										{% assign is_shown = is_shown | push: schwerpunktmodul.kuerzel %} 
-										<a href="{{site.baseurl}}{{schwerpunktmodul.url}}">{{schwerpunktmodul.title}}</a><br>
+										<a href="{{site.baseurl}}{{schwerpunktmodul.url}}">{{schwerpunktmodul.title}}</a>
+											{% if schwerpunktmodul.informatik-master %}
+											(InfMa: {{schwerpunktmodul.informatik-master}})
+											{% endif %}
+										<br>
 									{% endif %}
 								{% endif %}
 								
@@ -134,6 +138,9 @@
 							{% else %}
 							{% assign is_shown = is_shown | push: modulbeschreibung.kuerzel %}
 							<a href="{{site.baseurl}}{{modulbeschreibung.url}}">{{modulbeschreibung.title}}</a>
+								{% if modulbeschreibung.informatik-master %}
+								(InfMa: {{modulbeschreibung.informatik-master}})
+								{% endif %}
 							{% endif %}
 						</td>
 						<td>{{modulbeschreibung.kuerzel}}</td>
