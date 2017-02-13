@@ -50,3 +50,5 @@ Projektarbeit und schriftliche Ausarbeitung
 - Projektarbeit in Teams, um die erlernten Methoden und Techniken einzuüben und zu vertiefen
 
 ## Literatur:
+- Flückiger Barbara, Visual Effects: Filmbilder aus dem Computer (Zürcher Filmstudien), Schüren Verlag GmbH, 2008, ISBN 978-3894725181
+- Bertram Sascha, VFX (Praxis Film), UVK, 2005, ISBN 978-3896695154
