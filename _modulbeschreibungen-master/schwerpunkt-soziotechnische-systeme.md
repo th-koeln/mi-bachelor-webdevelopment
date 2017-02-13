@@ -21,7 +21,7 @@ Ziel ist es, soziale Innovation durch digitale Anwendungen entstehen zu lassen. 
 ## Studienrichtungsspezifische Pflichtmodule
 Folgende Module sind in der Studienrichtung verpflichtend: 
 <!-- MW: 3 Module mit je 6 cp -->
-* Computerethik
+* Computerethik (cn: ist ja jetzt für alle verfplichtend, also bitte ersetzen)
 * Soziotechnische Entwurfsmuster
 * (Soziale) Netzwerktheorien
 
