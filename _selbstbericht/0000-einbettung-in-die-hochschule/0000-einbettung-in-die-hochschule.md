@@ -42,8 +42,8 @@ Das Institut für Informatik betreibt Labore für:
 - Systemgestaltung (SG)
 - Mathematik & ihre Anwendungen
 - Medieninformatik (MI)
+- Mobile und verteilte Informationstechnologie (moxd)
 - Kommunikationstechnik & Datensicherheit (KTDS)
-- Technische Datenverarbeitung & Informationstechnik (TDI)
 - Wirtschaftsinformatik (WI)
 
 [^Anhang-Diversity-Konzepte]: Anhang Diversity Konzepte
