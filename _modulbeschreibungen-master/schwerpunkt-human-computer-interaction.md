@@ -15,3 +15,9 @@ Im Zusammenhang mit der „third wave of HCI“ (Susan Bødker, 2006 und 2016) w
 Dieser Schwerpunkt adressiert Kompetenzen, Fähigkeiten und Fertigkeiten die im Zusammenhang mit der Leitung und dem Management von Entwicklungsprojekten innovativer, interaktiver Systeme stehen. Dies umfasst die Nutzungskontexte in verschiedensten Anwendungsbereichen kritisch zu analysieren, Problemfelder zu identifizieren, Anforderungen zu spezifizieren, angemessene Vorgehen zur Lösungsentwicklung zu konzipieren und Gestaltungslösungen zu entwickeln und zu evaluieren. Absolventen dieses Schwerpunktes arbeiten als UX-Architects, Interaction Designer oder in Positionen mit ähnlichen Rollenbezeichnungen in Unternehmen/Institutionen und sind zentrale Entscheidungsträger, wenn es um die Entwicklung interaktiver Systeme aus Nutzungs -oder Nutzerperspektive geht. 
 
 Neben den vielfältigen weiterentwickelten Kompetenzen (formale, analytische, methodologische, gestalterische, technologische, etc.) haben sie die Befähigung zum fachlichen Diskurs vertieft und implementieren mit ihrer Kommunikationskompetenz eine wichtige Schnittstelle für die verschiedenen Stakeholder und Gewerke. 
+
+## Schwerpunktspezifische Pflichtmodule
+Folgende Module sind im Schwerpunkt verpflichtend: 
+* Interaction Design
+* Design Methodologies
+* Angewandte Statistik für die Mensch-Computer Interaktion
