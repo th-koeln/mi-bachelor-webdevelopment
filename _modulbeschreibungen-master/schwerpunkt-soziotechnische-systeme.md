@@ -21,9 +21,9 @@ Ziel ist es, soziale Innovation durch digitale Anwendungen entstehen zu lassen. 
 ## Schwerpunktspezifische Pflichtmodule
 Folgende Module sind im Schwerpunkt verpflichtend: 
 <!-- MW: 3 Module mit je 6 cp -->
-* Computerethik (cn: ist ja jetzt für alle verfplichtend, also bitte ersetzen)
+* Privatsphäre, Vertrauen & Sicherheit im Netz
 * Soziotechnische Entwurfsmuster
-* (Soziale) Netzwerktheorien
+* Netzwerk-und Graphentheorie
 
 
 ## Lehrveranstaltungen im Projekt:
@@ -41,9 +41,8 @@ Folgende Module sind im Schwerpunkt verpflichtend:
 - Veröffentlichung der empirischen Studie
 
 ## Empfohlene Wahlpflicht-Module in der Studienrichtung:
-- CSCL
+- Computer Supported Collaborative Learning (CSCL)
 - e-Science
-- Research Methods
 - Design Methodologies
 - Storytelling
 - Sketching User Experience
