@@ -34,11 +34,11 @@ Folgende Module sind im Schwerpunkt verpflichtend:
 
 ### Entwicklung:
 - Entwicklungsprojekt soziotechnische Systeme, Beautiful Code 
-- Durchführung einer empirischen Studie
+- Oder: Durchführung einer empirischen Studie
 
 ### Verwertung:
 - Veröffentlichung des Entwicklungsprojekts
-- Veröffentlichung der empirischen Studie
+- Oder: Veröffentlichung der empirischen Studie
 
 ## Empfohlene Wahlpflicht-Module in der Studienrichtung:
 - Computer Supported Collaborative Learning (CSCL)
