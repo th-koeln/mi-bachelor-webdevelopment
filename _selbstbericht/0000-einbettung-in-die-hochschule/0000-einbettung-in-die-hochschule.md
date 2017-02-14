@@ -24,18 +24,18 @@ Auch international pflegt die TH Köln enge Beziehungen zu anderen Hochschulen. 
 
 Die TH Köln ist eine forschungsaktive und forschungsstarke Hochschule. Sie kooperiert national und international mit Universitäten und anderen Forschungseinrichtungen, da hochwertige Forschung vom fachlichen Austausch lebt – über institutionelle und geographische Grenzen hinweg.
 
-Klimawandel, knappe Ressourcen, Sicherheit und demografischer Wandel sind einige der großen Herausforderungen der nächsten Jahrzehnte. Die erfahrenen Wissenschaftlerinnen und Wissenschaftler der TH Köln forschen im Rahmen ihrer anwendungsorientierten und interdisziplinären Projekte an Lösungen für diese „Great Challenges“ und leisten einen aktiven Beitrag zur Weiterentwicklung von Wissenschaft, Wirtschaft und Gesellschaft.
+Klimawandel, knappe Ressourcen, Sicherheit und demographischer Wandel sind einige der großen Herausforderungen der nächsten Jahrzehnte. Die erfahrenen Wissenschaftlerinnen und Wissenschaftler der TH Köln forschen im Rahmen ihrer anwendungsorientierten und interdisziplinären Projekte an Lösungen für diese „Great Challenges“ und leisten einen aktiven Beitrag zur Weiterentwicklung von Wissenschaft, Wirtschaft und Gesellschaft.
 
-Die Forschungsstrategie beschreibt Planungen der TH Köln für die zukünftige Entwicklung ihrer Forschungs- und Transferaktivitäten bis zum Jahre 2015[^anhang-forschungsstrategie-th]. Die vielfältigen Forschungsaktivitäten spiegeln sich im Forschungsprofil der TH Köln, bestehend aus 10 thematischen Cluster wider. Die Cluster dienen als thematische Klammer für die Forschungsaktivitäten in den unterschiedlichen Forschungsstrukturen der Hochschule, wie Forschungsinstitute, Kompetenzplattformen, Forschungsschwerpunkten und Forschungsstellen.
+Die vielfältigen Forschungsaktivitäten spiegeln sich im Forschungsprofil der TH Köln, bestehend aus 10 thematischen Clustern[^anhang-forschungscluster-th]  wider. Die Cluster dienen als thematische Klammer für die Forschungsaktivitäten in den unterschiedlichen Forschungsstrukturen der Hochschule, wie Forschungsinstitute, Kompetenzplattformen, Forschungsschwerpunkten und Forschungsstellen.
 
 ### Zahl und Verteilung der Studierenden
 
-An der TH Köln studieren ca. 23.500 Studierende an 11 Fakultäten. Die nachstehende Abbildung[^abbildung-verteilung-der-studierenden] zeigt die Verteilung der Studierenden.
+An der TH Köln studieren ca. 23.500 Studierende an 11 Fakultäten. Die Abbildung[^abbildung-verteilung-der-studierenden] zeigt die Verteilung der Studierenden.
 
 
 ## Einbettung der Studiengänge in die Fakultät
 
-Die Fakultät für Informatik und Ingenieurwissenschaften ist am Standort Gummersbach angesiedelt (Campus Gummersbach) und ist mit derzeit 4500 Studierenden die größte Fakultät der TH Köln. An der Fakultät sind 8 Institute angesiedelt; zum Studienangebot der Fakultät gehören 8 Bachelor- und 6 Masterstudiengänge. Die Medieninformatik Studiengänge werden von der Fakultät für Informatik und Ingenieurwissenschaften ausgerichtet und ist im Institut für Informatik organisatorisch verankert. 
+Die Fakultät für Informatik und Ingenieurwissenschaften ist am Standort Gummersbach angesiedelt (Campus Gummersbach) und ist mit derzeit 5200 Studierenden[^studierende-gm-2016] die größte Fakultät der TH Köln. An der Fakultät sind 8 Institute angesiedelt; zum Studienangebot der Fakultät gehören 8 Bachelor- und 6 Masterstudiengänge. Die Medieninformatik Studiengänge werden von der Fakultät für Informatik und Ingenieurwissenschaften ausgerichtet und ist im Institut für Informatik organisatorisch verankert. 
 
 Das Institut für Informatik betreibt Labore für:
 - Allgemeine Datenverarbeitung (ADV)
@@ -46,8 +46,16 @@ Das Institut für Informatik betreibt Labore für:
 - Technische Datenverarbeitung & Informationstechnik (TDI)
 - Wirtschaftsinformatik (WI)
 
-[^Anhang-Diversity-Konzepte]: Anhang Diversity Konzepte
-[^anhang-profil2]: Anhang Profil2
-[^anhang-forschungsstrategie-th]: <a href="https://www.fh- koeln.de/mam/downloads/deutsch/forschung/forschungsstrategie_2015_070921.pdf">https://www.fh- koeln.de/mam/downloads/deutsch/forschung/forschungsstrategie_2015_070921.pdf</a>
+~~~~~
+	Reviewer: Christian Noss
+	Date: 14.02.2017
+	Comment: Inhaltlich ok, Abbildung Verteilung der Studierenden fehlt.
+	Status: Peer-Review erforderlich
+~~~~~
 
+[^Anhang-Diversity-Konzepte]: <a href="https://www.th-koeln.de/hochschule/educational-diversity_5710.php">https://www.th-koeln.de/hochschule/educational-diversity_5710.php</a>
+[^anhang-profil2]: <a href="https://www.th-koeln.de/hochschule/profil_5676.php">https://www.th-koeln.de/hochschule/profil_5676.php</a>
+[^anhang-forschungscluster-th]: <a href="https://www.th-koeln.de/forschung/cluster_2734.php">https://www.th-koeln.de/forschung/cluster_2734.php</a>
 [^abbildung-verteilung-der-studierenden]: Abbildung Verteilung der Studierenden
+[^studierende-gm-2016]: <a href="../anhaenge/Studentenzahlen_WS-2016_(01.12.2016).pdf">Studentenzahlen_WS-2016_(01.12.2016).pdf</a>
+

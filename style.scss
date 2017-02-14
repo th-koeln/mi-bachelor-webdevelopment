@@ -68,6 +68,8 @@
 	padding-top: $bfs *2;
 }
 
+
+
 .content{
 	
 	p, li{
@@ -202,7 +204,7 @@
 	border-left: solid 1px $mi-pink;
 	
 	.menu-list{
-		padding-left: $bfs *1.2;
+		padding-left: $bfs *2;
 	}
 }
 
@@ -256,5 +258,20 @@
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
-@import "highlights";
+//@import "highlights";
 @import "svg-icons";
+
+.highlight {
+    background-color: $mi-pink;
+    color: #fff;
+    border: none;
+    box-shadow: none;
+    margin: 20px 0;
+    overflow: auto;
+    padding: 7px 7px 7px 10px;
+}
+
+pre code{
+	background-color: transparent;
+	color: #fff;
+}
