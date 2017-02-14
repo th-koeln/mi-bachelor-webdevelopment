@@ -153,14 +153,14 @@ Somit lassen sich die folgenden Defizite im aktuellen Medieninformatik Master St
 ~~~~~
 	Reviewer: Christian Noss
 	Date: 14.02.2017
-	Comment: Schon gar nicht schlecht, ein paar Schlussfolgerungen und Belege fehlen (siehe Kommentare)
+	Comment: Schon gar nicht schlecht, ein paar Schlussfolgerungen, Anhänge und Belege fehlen (siehe Kommentare)
 	Status: Überarbeitung und Peer-Review erforderlich
 ~~~~~
 
 [^anhang-verbleib-und-studienabbruch]: <a href="../anhaenge/verbleib-und-studienabbruch.pdf">Statistik zum Verbleib- und Studienabbruch</a>
 [^anhang-hep-2020]: <a href="https://www.verwaltung.th-koeln.de/imperia/md/content/verwaltung/broschueren_leitfaeden/hochschulentwicklungsplan2020.pdf">Hochschulentwicklungsplan 2020</a>
-[^Anhang-Pruefungsstatistiken]: <a href="../anhaenge/pruefungsstatistiken.pdf">Bachelorstudiengang Medieninformatik, Prüfungsstatistik 2016</a>
-[^Anhang-fakultaetsstruktur]: <a href="../anhaenge/Fakultaetsstruktur-Studienangebot-Personal-Haushaltsmittel-Kennzahlen-2014.pdf">Fakultät für Informatik und Ingenieurwissenschaften, Statistik 2013/14</a>
+[^Anhang-Pruefungsstatistiken]: <a href="../anhaenge/pruefungsstatistiken.pdf">Bachelorstudiengang Medieninformatik, Prüfungsstatistik 2016</a>
+[^Anhang-fakultaetsstruktur]: <a href="../anhaenge/Fakultaetsstruktur-Studienangebot-Personal-Haushaltsmittel-Kennzahlen-2014.pdf">Fakultät für Informatik und Ingenieurwissenschaften, Statistik 2013/14</a>
 [^Anhang-INCHER-Studie]: <a href="../anhaenge/INCHER-Studie.pdf">INCHER-Studie 2014</a>
 [^evaluationen-f10]: <a href="../anhaenge/evaluationen-f10.pdf">Studentische Evaluationen Medieninformatik</a>
 [^Anhang-Curriculumsanalye]: fehlt

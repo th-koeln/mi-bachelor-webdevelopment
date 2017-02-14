@@ -1,5 +1,5 @@
 ---
-title: Privatsphäre, Vertrauen & Sicherheit im Netz 
+title: Sicherheit, Privatsphäre und Vertrauen im Netz
 modulverantwortlich: sk
 modulniveau:
 kuerzel: WTW-ITS
