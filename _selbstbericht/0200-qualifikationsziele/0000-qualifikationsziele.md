@@ -18,22 +18,12 @@ Darüber hinaus sieht sie fünf charakteristische Merkmale:
 4. Medieninformatik arbeitet interdisziplinär.
 5. Medieninformatik arbeitet forschungs- und anwendungsorientiert.
 
-## Leitbild Medieninformatik Bachelor
-
-Das folgende Leitbild steht über dem Studiengang Medieninformatik Bachelor:
-
-*Der Studiengang soll die Absolventinnen und Absolventen befähigen, in interdisziplinären Teams digitale Prozesse und Systeme zur Produktion, Bearbeitung und Distribution medienbasierter Informationen aus informatischer, ökonomischer und sozialer Perspektive zu analysieren, konzipieren, adaptieren, realisieren und zu dokumentieren.*
-
-## Leitbild Medieninformatik Master
-
-Der konsekutive Masterstudiengang ist auf das folgende Leitbild ausgerichtet:
-
-*Der Masterstudiengang soll die Absolventinnen und Absolventen befähigen, an der Analyse komplexer informatik-spezifischer Aufgabenstellungen im Kontext interaktiver, oft web-basierter, multimedialer Systeme an leitender Stelle in interdisziplinären Teams mitzuwirken, Lösungskonzepte verantwortlich zu entwerfen und zu realisieren, kritisch einzuordnen, in der fachlichen Öffentlichkeit zu kommunizieren und verwerten zu können und interdisziplinäre Entwicklungsteams zu führen.*
+Medieninformatik ist ein anspruchsvolles, fassettenreiches Betätigungsfeld mit ausgeprägter Interdisziplinarität. Das breite Spektrum an erforderlichen kognitiven, sozialen und fachlichen Kompetenzen, Fertigkeiten und Kenntnissen lässt sich kaum mit der nötigen Tiefe in einem einzigen Ausbildungsprofil zusammenführen. Mit zunehmender Komplexität der zu entwickelnden Systeme und zunehmenden Anforderungen an die Qualität dieser Systeme aber auch aufgrund der wachsenden Bedeutung von Software für innovative Produkte und Dienstleistungen in unserer Gesellschaft zeigt sich daher immer mehr die Notwendigkeit einer professionellen Differenzierung. Um eine möglichst beständige, von aktuellen technologischen Trends weitgehend unabhängige Medieninformatik-Ausbildung bieten zu können, orientieren sich die Inhalte der Medieninformatik Studiengänge weitgehend an Grundlagen, ohne jedoch den Praxisbezug in Form von Fallstudien und Projekten zu vernachlässigen.
 
 ~~~~~
 	Reviewer: Christian Noss
 	Date: 14.02.2017
-	Comment: Schon gar nicht schlecht, Leitbilder müssten vielleicht noch mal geschliffen werden.
-	Status: Peer-Review erforderlich
+	Comment: Referenzierung auf GI Paper zu Informatik Studiengängen fehlt
+	Status: Ergänzung erforderlich
 ~~~~~
 
