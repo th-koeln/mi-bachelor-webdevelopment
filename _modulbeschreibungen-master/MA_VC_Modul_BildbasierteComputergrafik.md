@@ -4,8 +4,8 @@ modulverantwortlich: me
 modulniveau: null
 kuerzel: BCG
 untertitel: null
-studiensemester-ws: 2
-studiensemester-ss: 1
+studiensemester-ws: 1
+studiensemester-ss: 2
 kategorie: null
 sprache: wahlweise deutsch oder englisch
 zuordnung-zum-curriculum: Medieninformatik Master
