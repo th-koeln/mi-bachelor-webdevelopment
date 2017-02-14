@@ -1,11 +1,11 @@
 ---
 title: Netzwerk-und Graphentheorie
-modulverantwortlich: ck, kf
+modulverantwortlich: kf
 modulniveau: n/a
 kuerzel: NGT
 untertitel: null
-studiensemester-ws: 1
-studiensemester-ss: 2
+studiensemester-ws: 2
+studiensemester-ss: 1
 kategorie: n/a
 sprache: deutsch
 zuordnung-zum-curriculum: siehe Studienverlaufsplan

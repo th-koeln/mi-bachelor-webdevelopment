@@ -42,8 +42,8 @@ Das Institut für Informatik betreibt Labore für:
 - Systemgestaltung (SG)
 - Mathematik & ihre Anwendungen
 - Medieninformatik (MI)
+- Mobile und verteilte Informationstechnologie (moxd)
 - Kommunikationstechnik & Datensicherheit (KTDS)
-- Technische Datenverarbeitung & Informationstechnik (TDI)
 - Wirtschaftsinformatik (WI)
 
 ~~~~~
@@ -58,4 +58,3 @@ Das Institut für Informatik betreibt Labore für:
 [^anhang-forschungscluster-th]: <a href="https://www.th-koeln.de/forschung/cluster_2734.php">https://www.th-koeln.de/forschung/cluster_2734.php</a>
 [^abbildung-verteilung-der-studierenden]: Abbildung Verteilung der Studierenden
 [^studierende-gm-2016]: <a href="../anhaenge/Studentenzahlen_WS-2016_(01.12.2016).pdf">Studentenzahlen_WS-2016_(01.12.2016).pdf</a>
-
