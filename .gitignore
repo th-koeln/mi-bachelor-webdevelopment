@@ -7,5 +7,4 @@ _site
 Gemfile
 Gemfile.lock
 node_modules
-tex
 package.json

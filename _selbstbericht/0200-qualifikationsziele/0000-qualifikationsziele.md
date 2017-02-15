@@ -1,5 +1,5 @@
 ---
-title: Qualifikationsziele des Studiengangskonzeptes
+title: Qualifikationsziele der Studiengangskonzepte
 ---
 
 Die Fachgruppe Medieninformatik innerhalb des Fachbereichs Mensch-Computer-Interaktion der Gesellschaft für Informatik definiert das Lehr-, Forschungs- und Arbeitsgebiet Medieninformatik in ihrem aktuellen Positionspapier (Entwurf) wie folgt:

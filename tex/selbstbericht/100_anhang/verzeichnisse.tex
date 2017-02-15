@@ -1,0 +1,29 @@
+%!TEX root = ../PP.tex
+ 
+
+  %Erzeugt ein Abbildungsverzeichnis
+	\listoffigures
+	%F\UTF{00B8}gt die Zeile "`Abbildungsverzeichnis"' als Chapter ins Inhaltsverzeichnis ein
+	\addcontentsline{toc}{chapter}{Abbildungsverzeichnis}
+	
+	%Erzeugt ein Tabellenverzeichnis
+	%\listoftables
+	%F\UTF{00B8}gt die Zeile "`Tabellenverzeichnis"' als Chapter ins Inhaltsverzeichnis ein
+	%\addcontentsline{toc}{chapter}{Tabellenverzeichnis}
+	
+	%Erzeugt ein Glossar
+	\glossarystyle{listgroup}
+	\glsaddall
+	\printglossary[title=Glossar,toctitle=Glossar]
+	%\addcontentsline{toc}{chapter}{Glossar}
+
+		
+	%\UTF{0192}ndert den Stil des Literaturverzeichnisses
+	%\bibliographystyle{geralpha}
+	%\bibliographystyle{alphadin}
+	\bibliographystyle{alphadin}
+
+	\bibliography{literatur}
+	%F\UTF{00B8}gt die Zeile "`Literaturverzeichnis"' als Chapter ins Inhaltsverzeichnis ein
+	\addcontentsline{toc}{chapter}{Literaturverzeichnis}
+  	
