@@ -28,7 +28,10 @@ Diese Auflagen wurden von der Technischen Hochschule Köln folgendermaßen erfü
   - Sollte die Prüfungsform, bspw. wegen aktueller didaktischer Erwägungen, von der im Modulhandbuch bekannt gemachten Form abweichen, so ist diese durch den Dozenten dem Prüfungsamt rechtzeitig mitzuteilen, welches über die Änderung dann per Aushang fristgerecht informiert. § 14 der Prüfungsordnung für den Masterstudiengang Medieninformatik wurde dementsprechend neu gefasst.
 - zu 2: Die Prüfungsordnungen vom 7. Januar 2011, in denen alle Auflagen erfüllt sind, wurden vom Fakultätsrat der Fakultät für Informatik und Ingenieurwissenschaften am 10.11.2010 bzw. 6.1.2011 beschlossen und vom Präsidenten der Fachhochschule Köln am 7.1.2011 genehmigt. Sie liegen der ASIIN vor.
 
-## Beurteilung des Studienerfolgs auf der Basis von Absolventenbefragungen und Verbleibstudien
+
+## Stärken und Schwächen Analyse
+
+### Beurteilung des Studienerfolgs auf der Basis von Absolventenbefragungen und Verbleibstudien
 
 Die folgenden Ausführungen beruhen auf der Datenerhebung[^anhang-verbleib-und-studienabbruch] zum 01.12.2015 für den Zeitraum 2011 bis 2015 und fokussieren die derzeit eingeschriebenen Studierenden, erfolgreiche Abschlüsse und Studienfachabbrecher im Medieninformatik-Bachelor.
 
@@ -71,7 +74,7 @@ Bei den Vorbereitungen zum Praxisprojekt, das in der Regel im selben Themenfeld 
 
 Dieser Prozess ist zeitaufwändig und wird von den meisten Studierenden unterschätzt und daher häufig zu spät begonnen. Um diesem Problem entgegen zu wirken wird in der Medieninformatik seit drei Jahren am Ende des fünften Semesterseine Kontaktbörse durchgeführt. Auf dieser Veranstaltung werden den künftigen Absolventen die Regularien, Abläufe und Herausforderungen des Abschlusssemesters erläutert. Darüber hinaus stellen ausgewählte Unternehmen und Organisationen potenzielle Themen und Problemfelder für Praxisprojekt und Bachelorarbeit vor. Auch die Professoren der Informatik haben hier die Möglichkeit ihre Themen und Forschungsfelder als Ansatzpunkt für mögliche, forschungsnahe Praxisprojekte und Abschlussarbeiten vorzustellen.
 
-## Bewertung von Ergebnissen der Evaluation
+### Bewertung von Ergebnissen der Evaluation
 
 Hier kann auf Erstsemesterbefragungen und regelmäßig semesterweise durchgeführte Evaluationen der Lehrveranstaltungen verwiesen werden. Die Auswertung der Evaluationen erfolgt zentral durch die Hochschulverwaltung; ein integriertes Qualitätsmanagement nach DIN/ISO 9001 ist an der Fakultät 10 etabliert. In den Ergebnissen[^evaluationen-f10] zeigt sich grundsätzlich bei den Bachelorstudierenden ein etwas geringeres Zufriedenheitsmaß als bei den Masterstudierenden. Dies lässt sich mit Verweis auf die allgemein hohen Abbruchquoten in grundständigen Informatikstudiengängen ggf. so interpretieren, dass die Unzufriedenheit nicht allein durch die Studienangebotsseite verursacht ist. Dennoch lassen sich deutliche Verbesserungspotentiale identifizieren, etwa bzgl. der Einführung neuer Lehr-Lernformate, Koordination der Praktika, Bereitstellung von studentischen Arbeitsräumen, Gastvorträgen, Exkursionen und Workshops.
 
@@ -83,36 +86,36 @@ cn: hier fehlt noch die explizite Schlussfolgerung
 
 Die Unzufriedenheit bei der Bewertung der Studien- und Prüfungsorganisation in der Fakultät lässt sich auf punktuelle Ausfälle des "Prüfungs- und Studierendenservice Online" (PSSO) und teilweise nicht optimal im Internet kommunizierte Prüfungsinformationen zurückführen. Erfreulich ist die weiterhin große Gesamtzufriedenheit der Studierenden im Medieninformatik Master.
 
-## Außercurriculare Maßnahmen
+### Außercurriculare Maßnahmen
 
 Mehrere gebündelte und ständig weiter entwickelte außercurriculare Maßnahmen tragen, insbesondere vor dem Hintergrund der stark ansteigenden Studierendenzahlen, zur weiteren Verbesserung der Studienqualität bei.
 
-### Showcase 
+#### Showcase 
 
 Das jährlich durchgeführte Medieninformatik-Showcase dient zur Stärkung der Identität der Medieninformatik, zur besseren Vernetzung von Studierenden sowohl zwischen Master- und Bachelorstudierenden als auch über die Studiensemester, zum Ausblick auf die Praxis durch externe Sprecher (oft Alumni), sowie als strukturierte Feedbackmöglichkeit. Das Event verbessert außerdem die Sichtbarkeit der Medieninformatik am Campus und in der Region.
 
-### Medieninformatik Mentor
+#### Medieninformatik Mentor
 
 Der neu eingeführte Medieninformatik Mentor, welcher mit erfahrenen wissenschaftlichen Mitarbeiterinnen oder Mitarbeitern besetzt wird, die selbst zumindest den Bachelorstudiengang Medieninformatik am Campus Gummersbach absolviert haben, um mit den Studierenden Probleme im und um das Studium zu besprechen und als institutionelles Bindeglied zwischen Studierenden und Lehrenden fungiert.
 
-### Social Media Angebote
+#### Social Media Angebote
 
 Die von der Medieninformatik eingerichteten und administrierten Social Media Angebote in YouTube, Facebook- und Twitter erreichen regelmäßig etwa 1000 Abonnenten, sprich: Studierende, Interessierte und Alumni. Sie bieten eine gute Gelegenheit um im Gespräch zu bleiben, Themen und Arbeitsergebnisse zu platzieren, sowie Studienanfänger, Jobs und Projekte zu akquirieren oder anzubieten.
 
-### Wettbewerb "Die besten Projekte"
+#### Wettbewerb "Die besten Projekte"
 
 Der jährlich vom Labor für Medieninformatik durchgeführte Wettbewerb "Die besten Projekte", welcher einerseits gute und sehr gute Ergebnisse aus dem Bachelor- und dem Masterstudiengang herausstellt, andererseits in der gemeinsamen Abschlusspräsentation zur Vernetzung zwischen den Studierenden des Bachelor- und des Masterstudiengangs beiträgt, und letztendlich den projektorientierten Ansatz in der Medieninformatik nachhaltig sichtbar macht.
 
-### Medieninformatik Kontaktbörse
+#### Medieninformatik Kontaktbörse
 
 Die bereits beschriebe, einmal im Semester durchgeführte, Medieninformatik Kontaktbörse dient zur Erleichterung des Übergangs in das Abschlusssemester, zur Herstellung von Kontakten zu potentiellen Kooperationspartnern, und zum Geben von Ideen und Inspiration zu Themen für die Abschlussarbeit.
 
-### Medieninformatik-Filmfest
+#### Medieninformatik-Filmfest
 
 Das jährlich durchgeführte Medieninformatik-Filmfest dient zur Stärkung der Identität der Medieninformatik, zur besseren Vernetzung der Studierenden, insbesondere der Studienanfänger und zur Präsentation ausgewählter Arbeitsergebnisse. Das Event verbessert außerdem die Sichtbarkeit der Medieninformatik am Campus und in der Region.
 
 
-## Bewertung der statistischen Daten bezüglich der Auslastung, der Prüfungserfolge, der Abbrecherquoten und der Studienanfängerund Bewerberzahlen.
+### Bewertung der statistischen Daten bezüglich der Auslastung, der Prüfungserfolge, der Abbrecherquoten und der Studienanfängerund Bewerberzahlen.
 
 Die folgenden Ausführungen beruhen auf der Datenerhebung zum 22.09.2016 für den Zeitraum Wintersemester 2011 bis Wintersemester 2015[^Anhang-Pruefungsstatistiken][^Anhang-fakultaetsstruktur] und fokussieren die derzeit eingeschriebenen Studenten, erfolgreiche Abschlüsse und Studienfachabbrecher.
 
@@ -134,11 +137,17 @@ Im Bachelorstudiengang Medieninformatik zeigt sich bei den Prüfungserfolgen des
 Im Masterstudium wirkt die sich die, im Rahmen der Reakkreditierung weggefallene Zulassungsvoraussetzung eines Mindest-Notenschnittes nicht wesentlich auf die Verteilung der Prüfungsergebnisse aus. Auch hier ist weiterhin das gesamte Notenspektrum abgedeckt, ebenso wie bei den Ergebnissen der Master Thesen.
 
 
-## Ableitungen aus den Bewertungen der zur Verfügung stehenden Daten und Evaluationen
+### Rückschlüsse aus informellen Gesprächen und Kommentaren
+
+~~~
+cn: TBD
+~~~
+
+### Ableitungen aus den Bewertungen der zur Verfügung stehenden Daten und Evaluationen
 
 Aus den Bewertungen der Daten, Evaluationen und Feedbacks lassen sich folgende Schwächen und Handlungsfelder ableiten.
 
-### Defizite Medieninformatik Bachelor
+#### Stärken und Schwächen des Medieninformatik Bachelor
 
 Als Indikator für eine gute Studierbarkeit, kann die Anzahl der abgelegten Prüfungen im vorgesehenen Fachsemester des Moduls angesehen werden. Ziel ist es, dass die Studierenden Prüfungen möglichst im selben Semester ablegen, in dem das Modul im Studienverlaufsplan verortet ist. Gelingt dies nicht, so kann ein Studienabschluss innerhalb der Regelstudienzeit fast nicht mehr realisiert werden. Ab dem dritten Studiensemester werden Prüfungen zunehmend verspätet abgelegt (vgl. Pruefungsstatistiken[^Anhang-Pruefungsstatistiken]). Feedbacks, Befragungen und Curriculumsanalyse[^Anhang-Curriculumsanalye] zeigen, dass in diesem Semester die Anzahl der unterschiedlichen Module am höchsten ist und viele Module Praxisanteile in Projektform haben, so dass sich die Studierenden in verschiedene Fachdisziplinen, Modulregularien und Projektkontexte eindenken und vielen Teamkonstellationen organisieren müssen. Darüberhinaus sind im dritten Semester bei vielen Modulen Prüfungsvorleistungen (Teilnahmeschein) notwendig.
 
@@ -163,7 +172,7 @@ Somit lassen sich die folgenden Defizite im aktuellen Medieninformatik Bachelor 
 cn: Nachfrage nach Vertiefungsmöglichkeiten müsste man vielleicht noch mal anmoderieren/ stärken.
 ~~~
 
-### Defizite Medieninformatik Master
+#### Stärken und Schwächen des Medieninformatik Master
 
 Beim Medieninformatik Master leiten sich die erkannten Defizite im Wesentlichen aus Feedbacks und persönlichen Gesprächen mit Studierenden, Bachelor Absolventen und Dozenten ab. Die fehlende Möglichkeit zur fachlichen Vertiefung und der geringe Anteil an praxisnaher Projekte werden als wesentliche Defizite wahrgenommen und führen schlussendlich auch dazu, dass viele potenzielle Studieninteressierte an andere Studiengänge, zumeist außerhalb der TH Köln, mit stäkerer Profilierung und Praxisbezug verloren gehen.
 
