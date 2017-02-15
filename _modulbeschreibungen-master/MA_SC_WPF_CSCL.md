@@ -1,5 +1,5 @@
 ---
-title: Systeme für kooperatives Arbeiten und Lernen
+title: WPF Systeme für kooperatives Arbeiten und Lernen
 modulverantwortlich: ck
 modulniveau: null
 kuerzel: CSCL
