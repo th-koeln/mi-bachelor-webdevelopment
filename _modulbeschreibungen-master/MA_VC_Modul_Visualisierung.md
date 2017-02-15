@@ -14,7 +14,7 @@ voraussetzungen-nach-pruefungsordnung: null
 empfohlene-voraussetzungen: Web-basierte Anwendungen 1 (aus dem Bachelor) bzw. Kenntnisse in HTML und Javascript
 published: true
 type: spm
-parent: SPM2
+parent: SPM3
 schwerpunkt: vc, mpd
 ---
 

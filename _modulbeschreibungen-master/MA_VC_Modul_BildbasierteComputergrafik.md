@@ -14,7 +14,7 @@ voraussetzungen-nach-pruefungsordnung: null
 empfohlene-voraussetzungen: Computergrafik und Animation
 published: true
 type: spm
-parent: SPM3
+parent: SPM2
 schwerpunkt: vc
 ---
 
