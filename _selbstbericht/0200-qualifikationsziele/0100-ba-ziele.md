@@ -14,7 +14,6 @@ Die im Folgenden dargestellten geplanten Veränderungen des Bachelorstudienprogr
 
 ~~~
 @volker: wie kann ich unabhängige Links innerhalb des Dokuments erzeugen?
-@volker: wie kann ich Content, z.B. die Kurzbeschreibung aus einer Modulbeschreibung inkludieren?
 ~~~
 
 - Verbesserung der Studierbarkeit und Verringerung der Studiendauer (Überschreitung der Regelstudienzeiten)

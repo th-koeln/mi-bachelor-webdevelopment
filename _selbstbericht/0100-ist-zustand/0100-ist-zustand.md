@@ -179,8 +179,8 @@ Somit lassen sich die folgenden Defizite im aktuellen Medieninformatik Master St
 ~~~~~
 	Reviewer: Christian Noss
 	Date: 14.02.2017
-	Comment: Schon gar nicht schlecht, ein paar Schlussfolgerungen, Anhänge und Belege fehlen (siehe Kommentare)
-	Status: Überarbeitung und Peer-Review erforderlich
+	Comment: Schon gar nicht schlecht, ein paar Schlussfolgerungen, Anhänge und Belege fehlen (siehe Kommentare), Stärken fehlen und Referenz auf Studycheck.de
+	Status: Unvollständig und Peer-Review erforderlich
 ~~~~~
 
 [^anhang-verbleib-und-studienabbruch]: <a href="../anhaenge/verbleib-und-studienabbruch.pdf">Statistik zum Verbleib- und Studienabbruch</a>
