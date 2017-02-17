@@ -2,6 +2,10 @@
 title: Qualifikationsziele der Studiengangskonzepte
 ---
 
+~~~
+cn: hier wäre noch ein kleines Präludium schön. Wie hat sich die MI in den letzten Jahren verändert und was sind strategische Ziele des Insituts (Computergrafik, Social Computing)
+~~~
+
 Die Fachgruppe Medieninformatik innerhalb des Fachbereichs Mensch-Computer-Interaktion der Gesellschaft für Informatik definiert das Lehr-, Forschungs- und Arbeitsgebiet Medieninformatik in ihrem aktuellen Positionspapier (Entwurf) wie folgt:
 
 > Medieninformatik ist ein Teilgebiet der Informatik. Sie beschäftigt sich mit:
@@ -22,7 +26,6 @@ Medieninformatik ist ein anspruchsvolles, fassettenreiches Betätigungsfeld mit 
 
 Die wesentliche Basis für die Entwicklung und Ausgestaltung relevanter Kompetenzen bildeten einerseits die bestehenden Bereiche und Kompetenzziele das aktuellen Akkreditierungszeitraums, soweit sie noch Bestand haben und andererseits die aktuellen "Empfehlungen für Bachelor- und Masterprogramme im Studienfach Informatik an Hochschulen" [^gi-empfehlungen] der Gesellschaft für Informatik.
  
-
 ~~~~~
 	Reviewer: Christian Noss
 	Date: 14.02.2017

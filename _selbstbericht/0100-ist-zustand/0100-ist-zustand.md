@@ -186,16 +186,16 @@ cn: Nachfrage nach Vertiefungsmöglichkeiten müsste man vielleicht noch mal anm
 
 #### Schwächen des Medieninformatik Master
 
-Beim Medieninformatik Master leiten sich die erkannten Defizite im Wesentlichen aus Feedbacks und persönlichen Gesprächen mit Studierenden, Bachelor Absolventen und Dozenten ab. Die fehlende Möglichkeit zur fachlichen Vertiefung und der geringe Anteil an praxisnaher Projekte werden als wesentliche Defizite wahrgenommen und führen schlussendlich auch dazu, dass viele potenzielle Studieninteressierte an andere Studiengänge, zumeist außerhalb der TH Köln, mit stäkerer Profilierung und Praxisbezug verloren gehen.
+Beim Medieninformatik Master leiten sich die erkannten Defizite im Wesentlichen aus Feedbacks und persönlichen Gesprächen mit Studierenden, Bachelor Absolventen und Dozenten ab. Die fehlende Möglichkeit zur fachlichen Vertiefung und der geringe Anteil an praxisnaher Projekte werden als wesentliche Defizite wahrgenommen und führen schlussendlich auch dazu, dass viele potenzielle Studieninteressierte an andere Studiengänge, zumeist außerhalb der TH Köln, mit stärkerer Profilierung und Praxisbezug verloren gehen.
 
 Der Medieninformatik Master sieht derzeit zwar verschiedene Wahlmodule vor, diese sind aber stark fragmentiert und reglementiert, so dass hier häufig keine echte Wahl durch die Studierenden getroffen werden kann. Hinzu kommt, dass die Informatik Masterstudiengänge der Fakultät 10 sich sehr stark auseinander entwickelt haben, so dass Synergien, auch bei den angebotenen Wahlpflichtfächern und Projekten nur schwer genutzt werden können.
 
 Somit lassen sich die folgenden Defizite im aktuellen Medieninformatik Master Studiengang zusammenfassen:
 
+- zu wenig Übergänge von Bachelorabsolventen des Campus Gummersbach
 - Fehlende Profilschärfung und sichbarer Praxisbezug
 - Geringer Anteil an praxisnahen Projekten
 - Geringe internationale Ausrichtung
-
 
 ~~~~~
 	Reviewer: Christian Noss

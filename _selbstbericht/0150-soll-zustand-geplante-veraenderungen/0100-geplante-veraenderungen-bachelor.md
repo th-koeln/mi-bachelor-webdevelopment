@@ -1,5 +1,5 @@
 ---
-title: Soll-Zustand (geplante Veränderungen)
+title: Soll-Zustand/ geplante Veränderungen
 ---
 
 ## Geplante Veränderungen des Bachelor-Studiengangs gegenüber dem aktuellen Akkreditierungszeitraum
@@ -10,22 +10,7 @@ Die im Folgenden dargestellten geplanten Veränderungen des Bachelorstudienprogr
 @volker: wie kann ich unabhängige Links innerhalb des Dokuments erzeugen?
 ~~~
 
-
-
-- zu wenige Übergänge in den Master
-- Verbesserung der Studierbarkeit und Verringerung der Studiendauer, Überschreitungen der Regelstudienzeiten minimieren
-- Größere praxis- und projektorientierte Ausrichtung
-- Größere internationale Ausrichtung
-
-
-
-~~~
-cn: da müssen wir noch mal ran
-~~~
-
-
 ### Verbesserungen des Studienaufbaus
-
 
 ~~~
 @cn: grafik einbinden
@@ -94,7 +79,7 @@ Das Entwicklungsprojekt im fünften Semester wird inhaltlich geöffnet. Im aktue
 Darüber hinaus wurden weitere Änderungen durchgeführt, um die folgenden Defizite zu verbessern:
 
 - kein Medienrecht
-- missverständliches Abschlusssemester
+- missverständliches Abschlusssemester
 
 Das Abschlusssemester wurde in seiner grundsätzlichen Struktur beibehalten, jedoch wurde der Seminarteil das Moduls "Praxisprojekt" ausgelagert und als eigenes Modul installiert. Hiermit wird die Studierbarkeit verbessert, da die zeitliche Kopplung des Praxis- und Seminarteils reduziert wird. Darüber hinaus ist nun das Praxisprojekt mit einem Gewicht von 10 Creditpoints ausgestattet und damit weniger gewichtig, als die Bachelorarbeit, die ein Gewicht von 12 Creditpoints hat.
 
