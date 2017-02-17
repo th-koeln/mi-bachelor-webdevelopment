@@ -2,8 +2,9 @@
 title: Ausstattung
 ---
 
-##Verleih
-* 12 x Audiovisuelle Produktionssets, bestehend aus jeweils
+## Verleih
+
+- 12 x Audiovisuelle Produktionssets, bestehend aus jeweils
   * P2 Panasonic HD Kamera
   * Sachtler Kamerastativ
     * Sennheiser MKH 416 Richtmikrofon
@@ -40,7 +41,8 @@ title: Ausstattung
   * 2 x Nexus 9
   * 1 x iPad Pro 13’’ mit Apple Pencil
 
-##Nachbearbeitung##
+## Nachbearbeitung
+
 * 5 x Mac Pro stationär, mit Adobe Production Suite CS 6
 
 * 12 x iMac mobil, mit Adobe Production Suite CS 6
@@ -50,24 +52,22 @@ title: Ausstattung
   * Mac Pro mit Logic X zur Aufnahmen und Nachbearbeitung
   * Mackie 1402 Tonmischpult
 
-##Studio##
+## Studio
+
 * Greenbox mit festmontierter und variabler Beleuchtung
 * Bildmischer Panasonic AV-HS400A
 * Audiomischer Behringer AB1222FX-Pro
 * Mac Pro mit Adobe Production Suite CS 6 zur Digitalisierung und Nachbearbeitung der Studioproduktionen
 
 
-
 ## Lehrende in der Medieninformatik
 
-**Bartz-Beielstein, Thomas**
-
-https://www.th-koeln.de/personen/thomas.bartz-beielstein/
-
-Lehrgebiete
-
-- Angewandte Mathematik Simulation und Optimierung 
-- Computational Intelligence Evolutionäre Algorithmen
+### Prof. Dr. Thomas Bartz-Beielstein
+- Forschungsschwerpunkt CIplus
+- Web: https://www.th-koeln.de/personen/thomas.bartz-beielstein/
+- Lehrgebiete:
+	- Angewandte Mathematik Simulation und Optimierung 
+	- Computational Intelligence Evolutionäre Algorithmen
 
 
 

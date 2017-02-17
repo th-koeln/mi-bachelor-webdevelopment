@@ -24,8 +24,9 @@ Mit einer Verbesserung des Studienaufbaus sollen folgende bekannte Defizite ausg
 - zu starke Fragmentierung von Modulen und der projektorientierten Praxisanteile
 - zu viele „Baustellen“
 
-![](../anhaenge/bilder/veraenderungen-studienverlaufsplan.svg){:class="img-responsive"}
-*Bild: Veränderungen des Studienablaufs*
+
+{% include image.html url="bilder/veraenderungen-studienverlaufsplan.svg" caption="Bild: Veränderungen des Studienablaufs" %}
+
 
 Die starke Projektorientierung wird und wurde insgesamt als positiv bewertet. Jedoch ist die Verteilung der Module mit Projektanteil derzeit nicht optimal. So sind z.B. im dritten Fachsemester momentan 7 Module angesiedelt, von denen vier projektorientiert durchgeführt werden. Hingegen wird im vierten Semester kein projektorientiertes Modul angeboten. Um hier die Aufwände gleichmäßiger zu verteilen wurde die Reihenfolge der Module verändert und Module wurden zusammengelegt.
 
