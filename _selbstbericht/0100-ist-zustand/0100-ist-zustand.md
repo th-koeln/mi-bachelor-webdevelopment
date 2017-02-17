@@ -145,9 +145,11 @@ cn: TBD
 
 ### Ableitungen aus den Bewertungen der zur Verfügung stehenden Daten und Evaluationen
 
-Aus den Bewertungen der Daten, Evaluationen und Feedbacks lassen sich folgende Schwächen und Handlungsfelder ableiten.
+Aus den Bewertungen der Daten, Evaluationen und Feedbacks lassen sich folgende Stärken und Schwächen ableiten.
 
-#### Stärken und Schwächen des Medieninformatik Bachelor
+#### Stärken des Medieninformatik Bachelor
+
+#### Schwächen des Medieninformatik Bachelor
 
 Als Indikator für eine gute Studierbarkeit, kann die Anzahl der abgelegten Prüfungen im vorgesehenen Fachsemester des Moduls angesehen werden. Ziel ist es, dass die Studierenden Prüfungen möglichst im selben Semester ablegen, in dem das Modul im Studienverlaufsplan verortet ist. Gelingt dies nicht, so kann ein Studienabschluss innerhalb der Regelstudienzeit fast nicht mehr realisiert werden. Ab dem dritten Studiensemester werden Prüfungen zunehmend verspätet abgelegt (vgl. Pruefungsstatistiken[^Anhang-Pruefungsstatistiken]). Feedbacks, Befragungen und Curriculumsanalyse[^Anhang-Curriculumsanalye] zeigen, dass in diesem Semester die Anzahl der unterschiedlichen Module am höchsten ist und viele Module Praxisanteile in Projektform haben, so dass sich die Studierenden in verschiedene Fachdisziplinen, Modulregularien und Projektkontexte eindenken und vielen Teamkonstellationen organisieren müssen. Darüberhinaus sind im dritten Semester bei vielen Modulen Prüfungsvorleistungen (Teilnahmeschein) notwendig.
 
@@ -167,12 +169,22 @@ Somit lassen sich die folgenden Defizite im aktuellen Medieninformatik Bachelor 
 - Zu viele verschiedene Module mit unterschiedlichen Regularien
 - Zeitproblem beim Einstieg ins Praxisprojekt
 - Fehlende Möglichkeit zur strukturierten Vertiefung
+- Übergang in den Spezialisierungsteil (vom vierten ins fünfte Semester) Übergang ins Abschlussprojekt
+- zu starke Fragmentierung, zu wenige Zusammenhänge
+- zu viele „Baustellen“
+- keine Spezialisierung, zu allgemein
+- zu wenige Übergänge in den Master
+- kein Medienrecht
+- missverständliches Abschlusssemester
+   
 
 ~~~
-cn: Nachfrage nach Vertiefungsmöglichkeiten müsste man vielleicht noch mal anmoderieren/ stärken.
+cn: Nachfrage nach Vertiefungsmöglichkeiten müsste man vielleicht noch mal anmoderieren/ stärken. Ggf sollte man alle erkennten Schwächen noch mal kurz erklären.
 ~~~
 
-#### Stärken und Schwächen des Medieninformatik Master
+#### Stärken des Medieninformatik Master
+
+#### Schwächen des Medieninformatik Master
 
 Beim Medieninformatik Master leiten sich die erkannten Defizite im Wesentlichen aus Feedbacks und persönlichen Gesprächen mit Studierenden, Bachelor Absolventen und Dozenten ab. Die fehlende Möglichkeit zur fachlichen Vertiefung und der geringe Anteil an praxisnaher Projekte werden als wesentliche Defizite wahrgenommen und führen schlussendlich auch dazu, dass viele potenzielle Studieninteressierte an andere Studiengänge, zumeist außerhalb der TH Köln, mit stäkerer Profilierung und Praxisbezug verloren gehen.
 
