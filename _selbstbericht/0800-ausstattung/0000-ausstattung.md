@@ -6,10 +6,10 @@ title: Ausstattung
 * 12 x Audiovisuelle Produktionssets, bestehend aus jeweils
   * P2 Panasonic HD Kamera
   * Sachtler Kamerastativ
-  *Sennheiser MKH 416 Richtmikrofon
-  *2 Kanal Audiomischer
-  *Tonangel
-  *Diverse Verbindungskabel und Taschen
+    * Sennheiser MKH 416 Richtmikrofon
+    * 2 Kanal Audiomischer
+    * Tonangel
+    * Diverse Verbindungskabel und Taschen
 
 * 4 x kompakte Panasonic HD Kameras
 
@@ -55,3 +55,262 @@ title: Ausstattung
 * Bildmischer Panasonic AV-HS400A
 * Audiomischer Behringer AB1222FX-Pro
 * Mac Pro mit Adobe Production Suite CS 6 zur Digitalisierung und Nachbearbeitung der Studioproduktionen
+
+
+
+## Lehrende in der Medieninformatik
+
+**Bartz-Beielstein, Thomas**
+
+https://www.th-koeln.de/personen/thomas.bartz-beielstein/
+
+Lehrgebiete
+
+- Angewandte Mathematik Simulation und Optimierung 
+- Computational Intelligence Evolutionäre Algorithmen
+
+
+
+**Bente, Stefan**
+
+https://www.th-koeln.de/personen/stefan.bente/
+
+Lehrgebiete
+
+- Softwaretechnik Softwarearchitektur
+- Anforderungsmanagement
+
+
+
+**Bertelsmeier, Birgit**
+
+https://www.th-koeln.de/personen/birgit.bertelsmeier/
+
+Lehrgebiete
+
+- Datenbank- und Informationssysteme RDBMS bis NoSQL
+
+
+
+**Böhmer, Matthias**
+
+https://www.th-koeln.de/personen/matthias.boehmer/
+
+Lehrgebiete
+
+- Mobile und Verteilte Architekturen
+
+
+
+**Eisemann, Martin**
+
+https://www.th-koeln.de/personen/martin.eisemann/
+
+Lehrgebiete
+
+- Computergrafik Realistische und Interaktive Bildsynthese, Bildbasierte Computergraphik, Visual Analytics, Gaming Technologies
+- Theoretische Informatik Grundlagenvorlesungen im Bachelor
+
+
+
+**Faeskorn-Woyke, Heide**
+
+https://www.th-koeln.de/personen/heide.faeskorn-woyke/
+
+Lehrgebiete
+
+- Datenbanken und Informationssysteme
+
+
+
+**Fischer, Kristian**
+
+https://www.th-koeln.de/personen/kristian.fischer/
+
+Lehrgebiete
+
+- Web-basierte Anwendungen und verteilte Systeme
+
+
+
+**Giannakopoulos, Fotios**
+
+https://www.th-koeln.de/personen/fotios.giannakopoulos/
+
+Lehrgebiete
+
+- **[hier fehlt noch Inhalt]**
+
+
+
+**Günther, Holger**
+
+https://www.th-koeln.de/personen/holger.guenther/
+
+Lehrgebiete
+
+- **[hier fehlt noch Inhalt]**
+
+
+
+**Hartmann, Gerhard**
+
+https://www.th-koeln.de/personen/gerhard.hartmann/
+
+Lehrgebiete
+
+- Mensch-Computer Interaktion
+- Entwicklungsprojekt interaktive Systeme
+- Interaction Design
+- Naturwissenschaftliche Grundlagen Digitaler Medien
+- Research Methods in Human-Computer Interaction
+- Design Methodologies
+
+
+
+**Jochum, Friedbert**
+
+https://www.th-koeln.de/personen/friedbert.jochum/
+
+Lehrgebiete
+
+- **[hier fehlt noch Inhalt]**
+
+
+
+**Karsch, Stefan**
+
+https://www.th-koeln.de/personen/stefan.karsch/
+
+Lehrgebiete
+
+- **[hier fehlt noch Inhalt]**
+
+
+
+**Klocke, Heinrich**
+
+https://www.th-koeln.de/personen/heinrich.klocke/
+
+Lehrgebiete
+
+- Mensch-Computer Interaktion Usability Engineering und kognitive Psychologie
+- Algorithmik
+- Künstliche Intelligenz Logische Agenten
+
+
+
+**Knittel, Friedrich**
+
+https://www.th-koeln.de/personen/friedrich.knittel/
+
+Lehrgebiete
+
+- **[hier fehlt noch Inhalt]**
+
+
+
+**Koch, Heribert**
+
+https://www.th-koeln.de/personen/heribert.koch/
+
+Lehrgebiete
+
+- **[hier fehlt noch Inhalt]**
+
+
+
+**Köhler, Lutz**
+
+https://www.th-koeln.de/personen/lutz.koehler/
+
+Lehrgebiete
+
+- **[hier fehlt noch Inhalt]**
+
+
+
+**Kohls, Christian**
+
+https://www.th-koeln.de/personen/christian.kohls/
+
+Lehrgebiete
+
+- **[hier fehlt noch Inhalt]**
+
+
+
+**Konen, Wolfgang**
+
+https://www.th-koeln.de/personen/wolfgang.konen/
+
+Lehrgebiete
+
+- Mathematik
+- Data Mining
+
+
+
+**Kornacher, Hans Hermann**
+
+https://www.th-koeln.de/personen/hans.kornacher/
+
+Lehrgebiete
+
+- Medientechnik und -produktion
+- Digitale Animation und Visual Effects in der Film- und Fernsehproduktion
+
+
+
+**Naujoks, Boris**
+
+https://www.th-koeln.de/personen/boris.naujoks/
+
+Lehrgebiete
+
+- Angewandte Mathematik Grundlagenveranstaltungen Informatik und Ingenieure
+
+**Noss, Christian**
+
+https://www.th-koeln.de/personen/christian.noss/
+
+Lehrgebiete
+
+- Kommunikationsdesign
+- Web-basierte Anwendungen
+
+**Stahl, Hans Ludwig**
+
+https://www.th-koeln.de/personen/hans.stahl/
+
+Lehrgebiete
+
+- Theoretische Informatik und Technische Informatik
+- Kommunikationstechnik und Netze
+- Mobile IT Security
+- IT Compliance and Risk Management Informatik
+
+**Victor, Frank**
+
+https://www.th-koeln.de/personen/frank.victor/
+
+Lehrgebiete
+
+- **[hier fehlt noch Inhalt]**
+
+**Westenberger, Hartmut**
+
+https://www.th-koeln.de/personen/hartmut.westenberger/
+
+Lehrgebiete
+
+- Informatik Betriebliche Anwendungssysteme
+
+**Winter, Mario**
+
+https://www.th-koeln.de/personen/mario.winter/
+
+Lehrgebiete
+
+- Softwareentwicklung und Projektmanagement in Medienprojekten 
+- Modellbasierte Entwicklungsmethoden und Qualitätssicherung
