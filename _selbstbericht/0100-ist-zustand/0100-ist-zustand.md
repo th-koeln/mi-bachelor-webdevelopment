@@ -185,6 +185,62 @@ Somit lassen sich die folgenden Defizite im aktuellen Medieninformatik Master St
 - Geringe internationale Ausrichtung
 
 
+
+
+### Zusammenfassung der Stärken und Schwächen des Medieninformatik Bachelor aus den Bewertungen auf studycheck.de
+
+#### Stärken
+
+- Dadurch, dass weniger los ist in Gummersbach als z. B. in Köln, kann man sich besser auf das Studium konzentrieren
+- Extra Tutorien und Übungsstunden
+- Ausgewogenens Verhältnis von Frauen und Männern
+- Viele praktische Projekte und Gruppenarbeiten, die versuchen gezielt Lerninhalte zu vermitteln und Teamfähigkeit zu stärken
+- lehrreich und hat Zukunft
+- Nette Leute,
+- Die Dozenten sind super hilfreich, das denke ich bekommt man so an keiner anderen Hochschule.
+- Donzenten sind bei Fragen und Problemen auch selbst ansprechbar und bereit Hilfe zu leisten und schieben nicht alles auf die wissenschaftlichen Mitarbeiter ab.
+- Studienverlauf gut durchdacht
+- Kurse sind mit ausreichend Pflichtkursen ausgestattet, so dass man genügen mitarbeiten muss um mitzukommen, es aber auch nicht erdrückend wird und man noch genügend Freizeit hat.
+- Mensa-Essen ist akzeptabel und hat ein großes Angebot
+- Lehrveranstaltungen gut organisiert und vorbereitet
+- Lehrveranstaltugnen sehr anspruchsvoll
+- Überwiegend interessante Veranstaltungen 
+- Es gibt viele Unterlagen zu kaufen
+- Lage der Hochschule. Viele Möglichkeiten in der Nähe: Schwalbearena, Hall 32 mit interessanten Veranstaltungen, Einkaufszuentrum „Forum”
+- Campus ist sehr modern
+- Medieninformatik ist top ausgestattet
+- Die Fachschaft ist sehr engagiert um auch in Gummersbach ein Freizeitangebot zu schaffen.
+- Studieninhalte online verfügbar
+- moderne Lernmittel
+- Innerhalb des Studiums war ich häufig vom Umfang des Studiengangs überwältigt. Nach dem Einstieg ins Berufsleben wurde mir aber klar, wie wichtig jedes einzelne Fach war. Gerade in Internet-Agenturen kann ein Medieninformatiker so gut wie jeden Job machen
+- Durch die 'relativ' kleinen Gruppen in den Modulen und der vielen praktischen Einheiten ist eine persönliche Förderung durch die Dozenten und wissenschaftlichen Mitarbeitern gewährleistet.
+- Der Campus Gummersbach ist offen für Ideen und kreative Projekte.
+- Man findet immer jemanden der einem zuhört und hilft oder dich an jemanden verweist, der es kann.
+- Man erhält verschiedene Einblicke in verschiedene Bereiche der Informatik und Medien. Bei Gefallen muss man sich aber eher die Sachen darüber hinaus selbst beibringen.
+- Man findet immer gute Räume zur Lernen, wenn die Bibliothek und die Übungsräume beregt sind
+- Bibliotheken sind sehr gut bestückt. Alle Bücher, die ich bisher gebraucht habe, konnte ich sofort ausleihen.
+- Das Mentoring-Programm war sehr hilfreich um sich schnell und sicher in der Universität zurecht zu finden.
+- Hier lernt man nicht nur die Grundlagen des Programmierens kennen, sondern auch noch viel anderes Nützliches für Präsentation, Umgang mit Kunden im Berufsleben
+- Eine gute Mischung aus der Allgemeinen Informatik, sprich Programmierung technische Aspekte der Informatik und der Mediensparte: Webdesign, Video-Grafikbearbeitung-Design.
+- anstrengend und fordernd, aber macht viel Spaß
+
+#### Schwächen
+
+- Gegend ist eher ländlich
+- In Gummersbach ist nicht so viel los wie z. B. in Köln
+- zu viele Studenten / Platzprobleme im ersten und zweiten Semester
+- Viele Basisinformationen zum Studiengang werden bei Einführungsveranstaltungen nicht mitgeteilt
+- Organisation an der TH Köln Campus Gummersbach nicht so optimal
+- Leider allgemein nicht gut organisiert was Einschreibung angeht
+- Leider macht man bei uns bis einschließlich des 4. Semesters fast nur Informatikfächer. Das wirklich Interessante kommt erst im 5. Semester, bis dahin hatten schon viele das Studium abgebrochen. Ich hatte es mir auch überlegt, bin aber froh es nicht gemacht zu haben.
+- Vorlesungen teils langweilig (lässt sich aber kaum vermeiden).
+- Es gibt viel zu wenig Parkplätze und es werden ständig Autos abgeschleppt
+- Viel zu wenig Moderne Lernmittel für ein Informatik Studiengang
+- Der Campus hat nicht genug Übungsräume die permanent zur Verfügung stehen oder geeignet sind für Teamarbeit
+- Das Campusleben generell ist eher langweilig
+- Bei Ausfall eines Professors, steht man ziemlich allein da, da kein passender Ersatz vorhanden ist. Sehr zum Leidtragen der Studenten.
+- Der Studienort Gummersbach (Fachbereich Informatik FH Köln) ist entsetztlich und ein Campusleben gibt es gar nicht!
+
 ~~~~~
 	Reviewer: Christian Noss
 	Date: 14.02.2017
@@ -199,3 +255,4 @@ Somit lassen sich die folgenden Defizite im aktuellen Medieninformatik Master St
 [^Anhang-INCHER-Studie]: <a href="../anhaenge/INCHER-Studie.pdf">INCHER-Studie 2014</a>
 [^evaluationen-f10]: <a href="../anhaenge/evaluationen-f10.pdf">Studentische Evaluationen Medieninformatik</a>
 [^Anhang-Curriculumsanalye]: fehlt
+[^Anhang-Snapshot-Bewertungen-von-studychek.de]: <a href="../anhaenge/snapshot_2017_02_17_bewertungen_studiengang_medieninformatik_auf_studycheck_._de">Snapshot Bewertungen von studycheck.de</a>
