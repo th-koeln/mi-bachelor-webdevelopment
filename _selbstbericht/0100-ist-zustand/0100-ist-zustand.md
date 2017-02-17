@@ -187,9 +187,9 @@ Somit lassen sich die folgenden Defizite im aktuellen Medieninformatik Master St
 
 
 
-### Zusammenfassung der Stärken und Schwächen des Medieninformatik Bachelor aus den Bewertungen auf studycheck.de
+#### Zusammenfassung der Stärken und Schwächen des Medieninformatik Bachelor aus den Bewertungen auf studycheck.de
 
-#### Stärken
+##### Stärken
 
 - Dadurch, dass weniger los ist in Gummersbach als z. B. in Köln, kann man sich besser auf das Studium konzentrieren
 - Extra Tutorien und Übungsstunden
@@ -224,7 +224,7 @@ Somit lassen sich die folgenden Defizite im aktuellen Medieninformatik Master St
 - Eine gute Mischung aus der Allgemeinen Informatik, sprich Programmierung technische Aspekte der Informatik und der Mediensparte: Webdesign, Video-Grafikbearbeitung-Design.
 - anstrengend und fordernd, aber macht viel Spaß
 
-#### Schwächen
+##### Schwächen
 
 - Gegend ist eher ländlich
 - In Gummersbach ist nicht so viel los wie z. B. in Köln
