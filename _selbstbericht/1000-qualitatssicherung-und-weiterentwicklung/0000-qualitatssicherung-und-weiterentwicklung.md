@@ -31,6 +31,6 @@ Die vereinbarten Qualitätsziele wurden an quantifizierbaren Kenngrößen oder b
 	Bearbeiterhistorie: Christian Noss
 	Date: 17.02.2017
 	Comment: fast alles von Websience geklaut … danke!
-	Status: fertig, review erfolrderlich
+	Status: fast fertig, review erfolrderlich
 	Reviewed von: -
 ~~~~~

@@ -33,26 +33,6 @@ Absolventinnen und Absolventen des Masterstudiengangs »Medieninformatik« …
 
 … Beiträge zur Weiterentwicklung der Medieninformatik als wissenschaftlicher Disziplin leisten.
 
-## Geplante Änderungen des Master-Studiengangs
-
-Gerade in dem sich immer noch in der Entwicklung befindlichen Gebiet der Medieninformatik war und ist insbesondere beim Masterstudiengang zu erwarten, dass sich auch im aktuellen Akkreditierungszeitraum Änderungen hinsichtlich der Erkenntnisse aus Wissenschaft und
-Berufspraxis sowie der im Lehrbetrieb seit der Reakkreditierung 2011 gesammelten Erfahrungen und Evaluierungsergebnisse ergeben. Hier sind  beispielhaft die den beruflichen und privaten Alltag gleichermaßen immer weiter durchdringende Nutzung von Netz- und besonders Web-basierten Diensten sowie die fortschreitende Medienkonvergenz zu nennen. Hinzu kommen mögliche curriculare und personale Synergien mit dem vom Institut für Informatik der Fakultät 10 der FH Köln seit 2008 eingeführten und 2012 reakkreditierten Masterstudiengang Informatik mit den beiden Schwerpunkten Wirtschaftsinformatik/Information Systems und Software Engineering.
-Die vorgenommenen bzw. im Rahmen der Reakkreditierung noch vorzunehmenden Änderungen von Modulen und Lehrveranstaltungen (LV) behalten die im Selbstbericht zur Reakkreditierung vom 16. September 2009 beschriebenen Studiengangsziele und curricularen Inhalte im Wesentlichen bei. Bei der Ausgestaltung wurde jedoch Wert auf eine größere Profilschärfung und damit verbundene Möglichkeiten zu individuellen fachlichen Vertiefungen gelegt. 
-
-Die im Folgenden dargestellten geplanten Veränderungen des Masterstudienprogramms dienen zur Beseitigung erkannter Schwächen 
-- Fehlende Profilschärfung und Praxisbezug
-- Geringer Anteil an projektbasierter Lehre
-- Geringe internationale Ausrichtung
-und zur Maßnahmenbildung im Rahmen der Ziele der Hochschul- und Fakultätsentwicklungspläne wie sie bereits oben beim Bachelorstudienprogramm dargestellt wurden.
-
-1. Der Studiengang erhält Studienschwerpunkte. Dadurch, dass Wahlkataloge im Umfang von 30 ECTS CP angeboten werden, kann je nach Neigung durch entsprechende Auswahl von Modulen ein spezieller Teilbereich der Medieninformatik studiert werden. Zugleich ergeben sich weitere Synergieeffekte mit dem auch vom Institut für Informatik angebotenen Master "Informatik" mit den beiden Studienrichtungen "Software Engineering" und "Information Systems". Diese Maßnahme wirkt auch langfristig hinsichtlich des zu erwartenden Anstiegs der Bewerbernachfrage für dieses Studienangebot. Zugleich werden die Studierenden besser auf die Aufgaben in der Praxis vorbereitet.
-2. Der Projektanteil wird von 10 CP auf 36 CP erhöht und auf die ersten drei Studiensemester konzentriert, so dass der Übergang ins Berufsleben und die Kooperation mit Unternehmen verbessert werden können. Zu der praktischen Projektarbeit gesellen sich jeweils fachlicher Anteile. z.B. in Form von seminaristischen- oder Vorlesungsanteilen. Die Mitarbeit der Studierenden in Projekten trägt überdies zum Ausbau der Forschungsaktivitäten der Fakultät bei. Außerdem bietet sich das dritte Studiensemester mit seiner fast ausschließlichen Projektorientierung für einen Forschungsaufenthalt im Ausland an.
-3. Der Anteil der Grundlagen-Pflicht-Lehrveranstaltungen sinkt von 75 CP auf 18 CP und wird - ebenso wie die Module der Studienschwerpunkte - auf das erste und zweite Semester konzentriert. Das Verhältnis von Präsenzanteil zu Arbeitsaufwand wird reduziert, sodass für die Studierenden mehr Zeit für Ausarbeitungen, Referate und Literaturstudium bleibt und einer Verschulung des Masterstudiums entgegengewirkt wird. Zu diesem Zweck werden alle Module mit 6 CPs statt bisher mit 5 CPs ausgestattet.
-4. Einige inhaltliche Veränderungen am Zuschnitt der Module dienen der stärkeren Orientierung auf das Berufsfeld der Masterabsolventen. Insbesondere die Vorbereitung auf wissenschaftliches Arbeiten und Führungsaufgaben wird verstärkt.
-
-Die geplanten Veränderungen stehen in völliger Übereinstimmung mit den Plänen der Hochschule und der Fakultät und sind geeignet, die Erreichung der entsprechenden Ziele nachhaltig zu unterstützen.
-
-
 ~~~~~
 	Reviewer: Christian Noss
 	Date: 14.02.2017

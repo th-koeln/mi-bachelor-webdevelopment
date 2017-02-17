@@ -31,7 +31,7 @@ Die Umsetzung dieser Ziele und die Einbettung in die bestehenden Handlungsfelder
 	Aktueller Bearbeiter: -
 	Bearbeiterhistorie: Christian Noss
 	Date: 17.02.2017
-	Comment: alles von Websience geklaut … danke!
+	Comment: alles von Websience geklaut … danke! Fußnoten müssen noch gescheit gesetzt werden
 	Status: fertig, review erfolrderlich
 	Reviewed von: -
 ~~~~~
