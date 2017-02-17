@@ -3,7 +3,7 @@ title: Soll-Zustand/ geplante Veränderungen
 ---
 
 ~~~
-cn: hier wäre noch ein kleines Präludium schön. Wie hat sich die MI in den letzten Jahren verändert und was sind strategische Ziele des Insituts (Computergrafik, Social Computing)
+cn: hier wäre noch ein kleines Präludium schön. Wie hat sich die MI in den letzten Jahren verändert und was sind strategische Ziele des Instituts (Computergrafik, Social Computing)
 ~~~
 
 ## Geplante Veränderungen des Bachelor-Studiengangs gegenüber dem aktuellen Akkreditierungszeitraum

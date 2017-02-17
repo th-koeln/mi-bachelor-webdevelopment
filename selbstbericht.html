@@ -37,12 +37,10 @@ layout: default
 		
 				{% assign count = 0 %}
 				{% for doc in subchapters %}
-					{% assign count = count | plus: 1 %}
-					{% if count == 1 %}
-						<li><a href="#{{doc.id}}">{{doc.title}}</a></li>
-					{% else %}
-						
+					{% if count == 0 %}
+						<li><a href="#{{doc.id}}">{{doc.title}} {% if doc.ueberarbeitung-erforderlich == "ja" %}<span class="icon"><i class="fa fa-edit"></i></span>{% endif %}</a></li>
 					{% endif %}
+					{% assign count = count | plus: 1 %}
 				{% endfor %}
 			{% endfor %}
 			</ol>
@@ -64,7 +62,16 @@ layout: default
 		<section class="section selbstbericht" id="{{doc.id}}">
 			<div class="container">
 				<div class="content">
-					<h1 id="{{doc.id}}">{{doc.title}}</h1>
+					
+					<div class="columns">
+						<div class="column is-8"><h1 id="{{doc.id}}">{{ doc.title }}</h1></div>
+						{% if doc.ueberarbeitung-erforderlich == "ja" %}
+						<div class="column is-4 has-text-right">
+							<a target="_blank" href="https://github.com/th-koeln/mi-2017/edit/master/{{ page.path }}"><span class="icon"><i class="fa fa-edit"></i></span> Bearbeiten</a>
+						</div>
+						{% endif %}
+					</div>
+					
 					{{doc.content}}
 					
 					{% for doc in subchapters %}
@@ -72,7 +79,7 @@ layout: default
 					{% if count > 1 %}
 
 						{% include /functions/shift-level.html content=doc.content %}
-						<h2>{{doc.title}}</h2>
+						<h2 id="{{doc.id}}">{{ doc.title }}{% if doc.ueberarbeitung-erforderlich == "ja" %}<a target="_blank" href="https://github.com/th-koeln/mi-2017/edit/master/{{ page.path }}"><span class="icon"><i class="fa fa-edit"></i></span> Bearbeiten</a>{% endif %}</h2>
 						{{content}}
 						
 					{% endif %}

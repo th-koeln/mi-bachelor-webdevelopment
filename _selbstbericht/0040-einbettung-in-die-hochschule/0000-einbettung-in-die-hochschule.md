@@ -1,5 +1,6 @@
 ---
 title: Einbettung des Studienganges in die Hochschule
+ueberarbeitung-erforderlich: ja 
 ---
 
 ## Kurzüberblick über die Struktur der Hochschule

@@ -1,5 +1,6 @@
 ---
 title: Analyse der Studiengänge
+ueberarbeitung-erforderlich: ja 
 ---
 
 Die Studiengänge wurden auf Basis verschiedener quantitativer und qualitativer Erhebungen analysiert und in einem iterativen Prozess optimiert. An diesem Prozess waren folgende Personengruppen beteiligt:
