@@ -2,19 +2,19 @@
 title: Soll-Zustand/ geplante Veränderungen
 ---
 
+~~~
+cn: hier wäre noch ein kleines Präludium schön. Wie hat sich die MI in den letzten Jahren verändert und was sind strategische Ziele des Insituts (Computergrafik, Social Computing)
+~~~
+
 ## Geplante Veränderungen des Bachelor-Studiengangs gegenüber dem aktuellen Akkreditierungszeitraum
 
-Die im Folgenden dargestellten geplanten Veränderungen des Bachelorstudienprogramms dienen zur Beseitigung erkannter Schwächen (vgl. Defizite Medieninformatik Bachelor):
+Die im Folgenden dargestellten geplanten Veränderungen des Bachelorstudienprogramms dienen zur Beseitigung erkannter Schwächen (vgl. Defizite Medieninformatik Bachelor).
 
 ~~~
 @volker: wie kann ich unabhängige Links innerhalb des Dokuments erzeugen?
 ~~~
 
 ### Verbesserungen des Studienaufbaus
-
-~~~
-@cn: grafik einbinden
-~~~
 
 
 Mit einer Verbesserung des Studienaufbaus sollen folgende bekannte Defizite ausgeglichen werden:
@@ -23,6 +23,9 @@ Mit einer Verbesserung des Studienaufbaus sollen folgende bekannte Defizite ausg
 - Zu viele Projektkontexte
 - zu starke Fragmentierung von Modulen und der projektorientierten Praxisanteile
 - zu viele „Baustellen“
+
+![](../anhaenge/bilder/veraenderungen-studienverlaufsplan.svg){:class="img-responsive"}
+*Bild: Veränderungen des Studienablaufs*
 
 Die starke Projektorientierung wird und wurde insgesamt als positiv bewertet. Jedoch ist die Verteilung der Module mit Projektanteil derzeit nicht optimal. So sind z.B. im dritten Fachsemester momentan 7 Module angesiedelt, von denen vier projektorientiert durchgeführt werden. Hingegen wird im vierten Semester kein projektorientiertes Modul angeboten. Um hier die Aufwände gleichmäßiger zu verteilen wurde die Reihenfolge der Module verändert und Module wurden zusammengelegt.
 
@@ -80,14 +83,18 @@ Darüber hinaus wurden weitere Änderungen durchgeführt, um die folgenden Defiz
 
 - kein Medienrecht
 - missverständliches Abschlusssemester
+- zu wenig Kenntnisse über verschiedene Programmierkonzepte
 
 Das Abschlusssemester wurde in seiner grundsätzlichen Struktur beibehalten, jedoch wurde der Seminarteil das Moduls "Praxisprojekt" ausgelagert und als eigenes Modul installiert. Hiermit wird die Studierbarkeit verbessert, da die zeitliche Kopplung des Praxis- und Seminarteils reduziert wird. Darüber hinaus ist nun das Praxisprojekt mit einem Gewicht von 10 Creditpoints ausgestattet und damit weniger gewichtig, als die Bachelorarbeit, die ein Gewicht von 12 Creditpoints hat.
 
 Im fünften Semester wurde das Modul "Medieninformatik und Gesellschaft" umgewidmet in "Medienrecht, Medien und Gesellschaft" um hier einen dedizierten Platz für rechtliche Themen innerhalb der Domäne im Curriculum zu verankern.
 
 ~~~~~
-	Reviewer: Christian Noss
+	Aktueller Bearbeiter: Christian Noss
+	Bearbeiterhistorie: Christian Noss
 	Date: 17.02.2017
-	Comment: Grafiken fehlen, ansonsten ganz ok
-	Status: Unvollständig und Peer-Review erforderlich
+	Comment: Grafiken fehlen, ansonsten ganz ok, PDP und Web-Archs fehlen, Schwerpunkt zusammensetzung ebenfalls
+	Status: Unvollständig
+	Reviewed von: -
 ~~~~~
+

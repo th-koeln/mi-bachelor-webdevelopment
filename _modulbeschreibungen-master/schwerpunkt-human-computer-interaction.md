@@ -3,7 +3,7 @@ title: Human-Computer Interaction
 verantwortlich: gh
 type: sp
 kuerzel: hci
-kurzbeschreibung: Kurzbeschreibung vorhanden
+kurzbeschreibung: Medieninformatik und Mensch-Computer Interaktion stehen in vielerlei Hinsicht in einem engen Zusammenhang. Mit der „third wave of HCI“ (Susan Bødker, 2006 und 2016) wird die aktuelle Bedeutung der Disziplin der Mensch-Computer Interaktion für die Gestaltung interaktiver System und insbesondere ihre Rolle für die Medieninformatik deutlich. Nach Bødker besteht eine aktuelle Herausforderung der 3rd wave of HCI insbesondere darin, dass sich die Trennlinie von Technologienutzung zwischen beruflichem/gewerblichem und privatem Bereich mehr und mehr auflöst. Medieninformatik befasst sich insbesondere mit interaktiven und multimedialen Systemen in gewerblichen und privaten Nutzungskontexten und adressiert demnach die Herausforderungen der 3rd wave of HCI.
 ---
 
 ## Allgemeines: 

@@ -47,10 +47,12 @@ Das Institut für Informatik betreibt Labore für:
 - Wirtschaftsinformatik (WI)
 
 ~~~~~
-	Reviewer: Christian Noss
+	Aktueller Bearbeiter: -
+	Bearbeiterhistorie: Christian Noss
 	Date: 14.02.2017
 	Comment: Inhaltlich ok, Abbildung Verteilung der Studierenden fehlt.
 	Status: Peer-Review erforderlich
+	Reviewed von: -
 ~~~~~
 
 [^Anhang-Diversity-Konzepte]: <a href="https://www.th-koeln.de/hochschule/educational-diversity_5710.php">https://www.th-koeln.de/hochschule/educational-diversity_5710.php</a>

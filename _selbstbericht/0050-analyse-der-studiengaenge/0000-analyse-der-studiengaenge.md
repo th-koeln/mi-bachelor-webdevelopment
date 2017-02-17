@@ -15,3 +15,11 @@ Die Studiengänge wurden auf Basis verschiedener quantitativer und qualitativer 
 | Qualitätsmanagement-Team | themenspezifische Abstimmungsmeetings, Einzelgespräche |
 | Alumni und Wirtschaftsvertreter | Evaluationen, Einzelgespräche |
 
+~~~~~
+	Aktueller Bearbeiter: Christian Noss
+	Bearbeiterhistorie: Christian Noss
+	Date: 14.02.2017
+	Comment: erstmal fertig
+	Status: Peer-Review erforderlich
+	Reviewed von: -
+~~~~~

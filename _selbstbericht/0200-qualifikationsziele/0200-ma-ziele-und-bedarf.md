@@ -1,5 +1,5 @@
 ---
-title: Qualifikationsziele Medieninformatik Bachelor
+title: Qualifikationsziele Medieninformatik Master
 ---
 
 ## Leitbild Medieninformatik Master

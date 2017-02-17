@@ -60,31 +60,27 @@ layout: default
 		{% endfor %}
 
 		{% assign count = 0 %}
-		{% for doc in subchapters %}
-			{% assign count = count | plus: 1 %}
-			{% if count == 1 %}
-			<section class="section selbstbericht" id="{{doc.id}}">
-				<div class="container">
-					<div class="content">
-						<h1 id="{{doc.id}}">{{doc.title}}</h1>
-						{{doc.content}}
-					</div>
-				</div>
-			</section>
-			{% else %}
-			<section class="section selbstbericht" id="{{doc.id}}">
-				<div class="container">
-					<div class="content">
+		{% assign doc = subchapters | first %}
+		<section class="section selbstbericht" id="{{doc.id}}">
+			<div class="container">
+				<div class="content">
+					<h1 id="{{doc.id}}">{{doc.title}}</h1>
+					{{doc.content}}
+					
+					{% for doc in subchapters %}
+					{% assign count = count | plus: 1 %}
+					{% if count > 1 %}
+
 						{% include /functions/shift-level.html content=doc.content %}
 						<h2>{{doc.title}}</h2>
 						{{content}}
-					</div>
+						
+					{% endif %}
+					{% endfor %}
 				</div>
-			</section>
-			{% endif %}
-			
-			
-		{% endfor %}
+			</div>
+		</section>
+
 	{% endfor %}
 
 	

@@ -139,6 +139,8 @@ Im Masterstudium wirkt die sich die, im Rahmen der Reakkreditierung weggefallene
 
 ### Rückschlüsse aus informellen Gesprächen und Kommentaren
 
+- vertiefende Kenntnisse von verschiedenen Programmierkonzepte
+
 ~~~
 cn: TBD
 ~~~
@@ -175,6 +177,7 @@ Somit lassen sich die folgenden Defizite im aktuellen Medieninformatik Bachelor 
 - keine Spezialisierung, zu allgemein
 - zu wenige Übergänge in den Master
 - kein Medienrecht
+- zu wenig Kenntnisse über verschiedene Programmierkonzepte
 - missverständliches Abschlusssemester
    
 
@@ -196,12 +199,88 @@ Somit lassen sich die folgenden Defizite im aktuellen Medieninformatik Master St
 - Fehlende Profilschärfung und sichbarer Praxisbezug
 - Geringer Anteil an praxisnahen Projekten
 - Geringe internationale Ausrichtung
+- Fehlende Möglichkeiten zur fachlichen Vertiefung
+- zu wenig Wahlmöglichkeiten
+
+#### Zusammenfassung der Stärken und Schwächen des Medieninformatik Bachelor aus den Bewertungen auf studycheck.de
+
+##### Stärken
+
+- Dadurch, dass weniger los ist in Gummersbach als z. B. in Köln, kann man sich besser auf das Studium konzentrieren
+- Extra Tutorien und Übungsstunden
+- Ausgewogenens Verhältnis von Frauen und Männern
+- Viele praktische Projekte und Gruppenarbeiten, die versuchen gezielt Lerninhalte zu vermitteln und Teamfähigkeit zu stärken
+- lehrreich und hat Zukunft
+- Nette Leute,
+- Die Dozenten sind super hilfreich, das denke ich bekommt man so an keiner anderen Hochschule.
+- Donzenten sind bei Fragen und Problemen auch selbst ansprechbar und bereit Hilfe zu leisten und schieben nicht alles auf die wissenschaftlichen Mitarbeiter ab.
+- Studienverlauf gut durchdacht
+- Kurse sind mit ausreichend Pflichtkursen ausgestattet, so dass man genügen mitarbeiten muss um mitzukommen, es aber auch nicht erdrückend wird und man noch genügend Freizeit hat.
+- Lehrveranstaltungen gut organisiert und vorbereitet
+- Lehrveranstaltugnen sehr anspruchsvoll
+- Überwiegend interessante Veranstaltungen 
+- Es gibt viele Unterlagen zu kaufen
+- Campus ist sehr modern
+- Medieninformatik ist top ausgestattet
+- Die Fachschaft ist sehr engagiert um auch in Gummersbach ein Freizeitangebot zu schaffen.
+- Studieninhalte online verfügbar
+- moderne Lernmittel
+- Innerhalb des Studiums war ich häufig vom Umfang des Studiengangs überwältigt. Nach dem Einstieg ins Berufsleben wurde mir aber klar, wie wichtig jedes einzelne Fach war. Gerade in Internet-Agenturen kann ein Medieninformatiker so gut wie jeden Job machen
+- Durch die 'relativ' kleinen Gruppen in den Modulen und der vielen praktischen Einheiten ist eine persönliche Förderung durch die Dozenten und wissenschaftlichen Mitarbeitern gewährleistet.
+- Der Campus Gummersbach ist offen für Ideen und kreative Projekte.
+- Man findet immer jemanden der einem zuhört und hilft oder dich an jemanden verweist, der es kann.
+- Man erhält verschiedene Einblicke in verschiedene Bereiche der Informatik und Medien. Bei Gefallen muss man sich aber eher die Sachen darüber hinaus selbst beibringen.
+- Man findet immer gute Räume zur Lernen, wenn die Bibliothek und die Übungsräume beregt sind
+- Bibliotheken sind sehr gut bestückt. Alle Bücher, die ich bisher gebraucht habe, konnte ich sofort ausleihen.
+- Das Mentoring-Programm war sehr hilfreich um sich schnell und sicher in der Universität zurecht zu finden.
+- Hier lernt man nicht nur die Grundlagen des Programmierens kennen, sondern auch noch viel anderes Nützliches für Präsentation, Umgang mit Kunden im Berufsleben
+- Eine gute Mischung aus der Allgemeinen Informatik, sprich Programmierung technische Aspekte der Informatik und der Mediensparte: Webdesign, Video-Grafikbearbeitung-Design.
+- anstrengend und fordernd, aber macht viel Spaß
+
+##### Schwächen
+
+- Gegend ist eher ländlich
+- In Gummersbach ist nicht so viel los wie z. B. in Köln
+- zu viele Studenten / Platzprobleme im ersten und zweiten Semester
+- Viele Basisinformationen zum Studiengang werden bei Einführungsveranstaltungen nicht mitgeteilt
+- Organisation an der TH Köln Campus Gummersbach nicht so optimal
+- Leider allgemein nicht gut organisiert was Einschreibung angeht
+- Leider macht man bei uns bis einschließlich des 4. Semesters fast nur Informatikfächer. Das wirklich Interessante kommt erst im 5. Semester, bis dahin hatten schon viele das Studium abgebrochen. Ich hatte es mir auch überlegt, bin aber froh es nicht gemacht zu haben.
+- Vorlesungen teils langweilig (lässt sich aber kaum vermeiden).
+- Es gibt viel zu wenig Parkplätze und es werden ständig Autos abgeschleppt
+- Viel zu wenig Moderne Lernmittel für ein Informatik Studiengang
+- Der Campus hat nicht genug Übungsräume die permanent zur Verfügung stehen oder geeignet sind für Teamarbeit
+- Das Campusleben generell ist eher langweilig
+- Bei Ausfall eines Professors, steht man ziemlich allein da, da kein passender Ersatz vorhanden ist. Sehr zum Leidtragen der Studenten.
+- Der Studienort Gummersbach (Fachbereich Informatik FH Köln) ist entsetztlich und ein Campusleben gibt es gar nicht!
+
+
+#### Insights Rahe
+
+Ich habe kurz nach dem Kolloquium schon eine Zusage für eine Arbeitsstelle als Produktmanager/UX-Konzepter für die Marke NetMoms bekommen. Diese ist Teil der ForwardNews+ GmbH, welche wiederum zum Burda-Konzern gehört. Der Standort ist hier in Köln, wo auch andere digitale Marken des Konzerns im selben Gebäude sitzen. Hier sind aber vor allem die mobilen Entwickler der jeweiligen Marken. Ein Großteil der Redaktion sitzt in München.
+
+Meine Aufgabe umfasst das Produktmanagement der mobilen Zyklusapp der NetMoms. Im wesentlichen geht es hierbei um die natürlich Empfängnisregelung für Frauen, welche über mehrere Methoden unterstützt werden kann. Bisher kann diese "lediglich" einige Grundkalkulationen durchführen. Da der Markt aber aktuell durch viele Innovationstreiber stark umkämpft ist, wird es mehr in Richtung "Quantify yourself" und "Big Data" gehen.
+
+Insgesamt stehe ich vor einem Berg von Arbeit, da es im wesentlichen noch an Prozessen (sowohl Usability-Engineering, als auch agile SE) fehlt. Methodisch wurde hier etwas unsauber gearbeitet und viel zu wenig Analysen über die Nutzer und Aufgaben durchgeführt. Mir wurde zum Ziel gesetzt UE/UX Prozesse wieder verstärkt zu integrieren und den Scrum-Prozess anzuleiten. Das Team ist sehr klein und erinnert mich sehr an das EIS-Praktikum ;-) Ich fühle mich durch meine WiMa-Zeit aber deswegen optimal vorbereitet. 
+
+Und um hier nochmal anzuknüpfen: Ich habe in den wenigen Tagen, bereits viele Einblicke in die Bereiche anderer Marken (also was die App-Entwicklung angeht) gewonnen (z.B. Focus Online, Finanzen 100, etc.). 
+Mit meiner Ausbildung an der FH, kann ich mich hier sehr sehr gut platzieren. Auch im direkten Vergleich mit anderen Produktmanagern und UX´lern. Ich konnte bereits einige davon überzeugen, das dass Discount Usability, nicht unbedingt die beste Vorgehensweise ist.. :-) Auch wenn es mir noch etwas an praktischer Erfahrung fehlt (und besonders dem wirtschaftlichen Verständnis über die wichtigen KPIs eines Unternehmens), kann ich mein theoretisches Wissen, dem konzeptuellen Verständnis und besonders dem nutzerzentrierten Mindset (dank dir) sehr gut einbringen. Es ist eine spannende Aufgabe und ich bin sehr motiviert einige Prozesse zu integrieren und vieles zu optimieren.
+
+Auf jeden Fall, danke ich dir und natürlich den anderen Professoren (bitte gebe dies weiter) für die gute Ausbildung, Betreuung und sehr guten Vorbereitung für den Beruf. Hier wollte man nichtmal ein Zeugnis von mir sehen, das Bewerbungsgespräch hat bereits die Geschäftsführung überzeugen können und das sagt schon vieles! :-)
+Wir sehen uns hoffentlich auf dem WUD! Und viele Grüße an alle Dozenten und wissenschaftliche Mitarbeiter!
+
+
+~~~
+cn: Studycheck Ergebnisse mussten noch überprüft und zusammengefasst werden, ggf. insights von Julian noch verarbeiten
+~~~
 
 ~~~~~
-	Reviewer: Christian Noss
+	Aktueller Bearbeiter: Christian Noss
+	Bearbeiterhistorie: Christian Noss
 	Date: 14.02.2017
 	Comment: Schon gar nicht schlecht, ein paar Schlussfolgerungen, Anhänge und Belege fehlen (siehe Kommentare), Stärken fehlen und Referenz auf Studycheck.de
-	Status: Unvollständig und Peer-Review erforderlich
+	Status: Unvollständig
+	Reviewed von: -
 ~~~~~
 
 [^anhang-verbleib-und-studienabbruch]: <a href="../anhaenge/verbleib-und-studienabbruch.pdf">Statistik zum Verbleib- und Studienabbruch</a>
@@ -211,3 +290,4 @@ Somit lassen sich die folgenden Defizite im aktuellen Medieninformatik Master St
 [^Anhang-INCHER-Studie]: <a href="../anhaenge/INCHER-Studie.pdf">INCHER-Studie 2014</a>
 [^evaluationen-f10]: <a href="../anhaenge/evaluationen-f10.pdf">Studentische Evaluationen Medieninformatik</a>
 [^Anhang-Curriculumsanalye]: fehlt
+[^Anhang-Snapshot-Bewertungen-von-studychek.de]: <a href="../anhaenge/snapshot_2017_02_17_bewertungen_studiengang_medieninformatik_auf_studycheck_._de">Snapshot Bewertungen von studycheck.de</a>
