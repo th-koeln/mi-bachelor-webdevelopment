@@ -216,9 +216,11 @@ cn: gibt es zu "im breiten Mittelfeld von Informatikstudiengängen" zahlen?
 ~~~
 
 sehr erfreulich ist die für den Masterstudiengang Medieninformatik die geringe Abbrecherquote. In Verbindung mit der bedauerlich hohen, für ingenieur- und naturwissenschaftliche Studiengänge, insbesondere im Bachelor-Bereich jedoch leider inhärenten Abbrecherquote (durchschnittlich geschätzte Schwundquote in der Informatik an Fachhochschulen ist 39%), 
+
 ~~~
 cn: wo kommt diese Zahl her (durchschnittlich geschätzte Schwundquote in der Informatik an Fachhochschulen ist 39%)?
 ~~~
+
 zeigt sich hier ein deutliches noch zu hebendes Optimierungspotential. Erfreulich ist hier die mit 27% recht hohe Frauenquote im Bachelorstudiengang Medieninformatik. Die durchschnittliche Frauenquote in der Lehreinheit Informatik liegt bei 22%. In der Fakultät 10 liegt sie bei 20%.
 
 Die Prüfungserfolge sind bzgl. des Bachelor- und Masterstudiengangs zu differenzieren.
@@ -700,26 +702,6 @@ Absolventinnen und Absolventen des Masterstudiengangs »Medieninformatik« …
 
 … Beiträge zur Weiterentwicklung der Medieninformatik als wissenschaftlicher Disziplin leisten.
 
-## Geplante Änderungen des Master-Studiengangs
-
-Gerade in dem sich immer noch in der Entwicklung befindlichen Gebiet der Medieninformatik war und ist insbesondere beim Masterstudiengang zu erwarten, dass sich auch im aktuellen Akkreditierungszeitraum Änderungen hinsichtlich der Erkenntnisse aus Wissenschaft und
-Berufspraxis sowie der im Lehrbetrieb seit der Reakkreditierung 2011 gesammelten Erfahrungen und Evaluierungsergebnisse ergeben. Hier sind  beispielhaft die den beruflichen und privaten Alltag gleichermaßen immer weiter durchdringende Nutzung von Netz- und besonders Web-basierten Diensten sowie die fortschreitende Medienkonvergenz zu nennen. Hinzu kommen mögliche curriculare und personale Synergien mit dem vom Institut für Informatik der Fakultät 10 der FH Köln seit 2008 eingeführten und 2012 reakkreditierten Masterstudiengang Informatik mit den beiden Schwerpunkten Wirtschaftsinformatik/Information Systems und Software Engineering.
-Die vorgenommenen bzw. im Rahmen der Reakkreditierung noch vorzunehmenden Änderungen von Modulen und Lehrveranstaltungen (LV) behalten die im Selbstbericht zur Reakkreditierung vom 16. September 2009 beschriebenen Studiengangsziele und curricularen Inhalte im Wesentlichen bei. Bei der Ausgestaltung wurde jedoch Wert auf eine größere Profilschärfung und damit verbundene Möglichkeiten zu individuellen fachlichen Vertiefungen gelegt. 
-
-Die im Folgenden dargestellten geplanten Veränderungen des Masterstudienprogramms dienen zur Beseitigung erkannter Schwächen 
-- Fehlende Profilschärfung und Praxisbezug
-- Geringer Anteil an projektbasierter Lehre
-- Geringe internationale Ausrichtung
-und zur Maßnahmenbildung im Rahmen der Ziele der Hochschul- und Fakultätsentwicklungspläne wie sie bereits oben beim Bachelorstudienprogramm dargestellt wurden.
-
-1. Der Studiengang erhält Studienschwerpunkte. Dadurch, dass Wahlkataloge im Umfang von 30 ECTS CP angeboten werden, kann je nach Neigung durch entsprechende Auswahl von Modulen ein spezieller Teilbereich der Medieninformatik studiert werden. Zugleich ergeben sich weitere Synergieeffekte mit dem auch vom Institut für Informatik angebotenen Master "Informatik" mit den beiden Studienrichtungen "Software Engineering" und "Information Systems". Diese Maßnahme wirkt auch langfristig hinsichtlich des zu erwartenden Anstiegs der Bewerbernachfrage für dieses Studienangebot. Zugleich werden die Studierenden besser auf die Aufgaben in der Praxis vorbereitet.
-2. Der Projektanteil wird von 10 CP auf 36 CP erhöht und auf die ersten drei Studiensemester konzentriert, so dass der Übergang ins Berufsleben und die Kooperation mit Unternehmen verbessert werden können. Zu der praktischen Projektarbeit gesellen sich jeweils fachlicher Anteile. z.B. in Form von seminaristischen- oder Vorlesungsanteilen. Die Mitarbeit der Studierenden in Projekten trägt überdies zum Ausbau der Forschungsaktivitäten der Fakultät bei. Außerdem bietet sich das dritte Studiensemester mit seiner fast ausschließlichen Projektorientierung für einen Forschungsaufenthalt im Ausland an.
-3. Der Anteil der Grundlagen-Pflicht-Lehrveranstaltungen sinkt von 75 CP auf 18 CP und wird - ebenso wie die Module der Studienschwerpunkte - auf das erste und zweite Semester konzentriert. Das Verhältnis von Präsenzanteil zu Arbeitsaufwand wird reduziert, sodass für die Studierenden mehr Zeit für Ausarbeitungen, Referate und Literaturstudium bleibt und einer Verschulung des Masterstudiums entgegengewirkt wird. Zu diesem Zweck werden alle Module mit 6 CPs statt bisher mit 5 CPs ausgestattet.
-4. Einige inhaltliche Veränderungen am Zuschnitt der Module dienen der stärkeren Orientierung auf das Berufsfeld der Masterabsolventen. Insbesondere die Vorbereitung auf wissenschaftliches Arbeiten und Führungsaufgaben wird verstärkt.
-
-Die geplanten Veränderungen stehen in völliger Übereinstimmung mit den Plänen der Hochschule und der Fakultät und sind geeignet, die Erreichung der entsprechenden Ziele nachhaltig zu unterstützen.
-
-
 ~~~~~
 	Reviewer: Christian Noss
 	Date: 14.02.2017
@@ -829,7 +811,133 @@ Zusammengefasst stellen sich die beiden vom Institut für Informatik der Fakult�
 
 # Studierbarkeit
 
+>Die Studierbarkeit des Studiengangs wird gewährleistet durch:
+>
+>-   die Berücksichtigung der erwarteten Eingangsqualifikationen,
+>-   eine geeignete Studienplangestaltung
+>-   die auf Plausibilität hin überprüfte (bzw. im Falle der Erstakkreditierung nach Er-fahrungswerten geschätzte) Angabe der studentischen Arbeitsbelastung,
+>-   eine adäquate und belastungsangemessene Prüfungsdichte und -organisation,
+>-   entsprechende Betreuungsangebote sowie
+>-   eine fachliche und überfachliche Studienberatung.
+>
+>Die Belange von Studierenden mit Behinderung werden berücksichtigt.
+>  
+>**Leitfragen**
+>
+>-   Woran erkennen die Verantwortlichen, dass die (formalen und fachlich-inhaltlichen) Zugangskriterien das Erreichen des angestrebten Kompetenzprofils unterstützen?
+>
+>-   Ggf.: Wie wurde reagiert, wenn die Zugangsregelungen diesen Zweck aus Sicht der für den Studiengang Verantwortlichen nicht erfüllt haben?
+>
+>-   Wie schätzen die für den Studiengang Verantwortlichen und daran Beteiligten\ – einschließlich der Studierenden – die studentische Arbeitsbelastung ein? Welche Probleme treten auf? Was wird zu deren Lösung unternommen?
+>
+>-   Sind hinsichtlich des Studienabschlusses in der vorgesehenen Zeit in den vergangenen Jahren Probleme aufgetreten? Wenn ja, welche? Wie wurden sie behandelt?
+>
+>-   Inwieweit sind individuelle Mobilitätsfenster für Studierende im Studienverlauf realisierbar? Welche Probleme gibt es? Wie wurde darauf reagiert?
+>
+>-   Welche Auswirkungen auf die Studierbarkeit haben die vorhandenen (prüfungsrelevanten) Regelungen zu Wiederholungsmöglichkeiten, Nachteilsausgleich bei Behinderung, Nichterscheinen im Krankheitsfall etc.?
+>
+>-   Gab es Fälle, in denen sich die konkrete Prüfungsorganisation (z. B. Terminierung der Prüfungen, Korrekturzeiten) nachteilig auf den Studienverlauf ausgewirkt haben? Wenn ja, welche Konsequenzen wurden gezogen?
+>
+>-   Welche der vorhandenen Betreuungs- und Beratungsangebote für Studierende halten die für den Studiengang Verantwortlichen und Beteiligten – einschließlich der Studierenden – für besonders effektiv im Hinblick auf den Studienerfolg?
+>
+>-   Welche Betreuungs- und Beratungsangebote für Studierende vermissen die für den Studiengang Verantwortlichen und Beteiligten – einschließlich der Studierenden? Warum werden sie nicht realisiert?
+>
+>-   Inwieweit werden Belange von Studierenden mit Behinderung berücksichtigt?
+>
+>**Mögliche Evidenzen**
+>
+>-   Ggf. Zugangssatzung sowie Informationen über die Studiengangsvoraussetzungen auf Webseiten, in Studienführern etc.
+>
+>-   Einschlägige Ergebnisse interner Erhebungen und Evaluationen – ggf. Daten zur studentischen Arbeitslast
+>
+>-   Studienverlaufsplan, aus der/dem Semesterlage, Umfang und studentische Arbeitslast der Module pro Semester hervorgehen (ggf. mit Veröffentlichungsort wie z. B. Homepage, Studienführer, Studien- bzw. Prüfungsordnungen) bzw. Dokumente, in denen Studienverläufe und deren Organisation geregelt sind
+>
+>-   Dokumente, aus denen die geltenden Regelungen zur (Auslands-)Mobilität, Praxisphasen und Anerkennung von an anderen Hochschulen / außerhalb der Hochschule erbrachten Leistungen erkennbar sind
+>
+>-   Dokumente aus dem täglichen Gebrauch an der Hochschule, aus denen das vorhandene Beratungs- und Betreuungskonzept hervorgeht
+>
+>-   (statistische) Daten zu Studienverläufen
+>
+>-   Ggf. Daten zur (Auslands-)Mobilität von Studierenden und zu Praxiseinsätzen von Studierenden
+>
+>-   Ggf. weitere einschlägige Ergebnisse interner Befragungen und Evaluationen (auch Auffälligkeiten hinsichtlich der Wirkung von ggf. vorhandenen Maßnahmen zur Vermeidung von Ungleichbehandlungen in der Hochschule)
+
+
+## Struktur
+Im Anhang K sind die Studienverlaufspläne der einzelnen Studiengänge enthalten, für die eine Akkreditierung beantragt wird. Das Studium umfasst im Bachelor jeweils insgesamt 180 ECTS Punkte und 144 Semesterwochenstunden Semesterwochenstunden. Dies entspricht durchschnittlich 24 SWS je Semester. Die Inhalte der Module sind in dem entsprechenden Modulhandbuch dargestellt.
+
+Das Masterstudium umfasst 120 ECTS Punkte bei 48 SWS Präsenzzeit, was einer durchschnittlichen Präsenzzeit von 16 SWS pro Semester entspricht.
+
+## Arbeitslast
+
+Die Bachelor- und Masterstudiengänge sind durchgängig mit 30 ECTS-Punkten im Semester durchkalkuliert, was einer Arbeitslast von 900 Stunden pro Semester entspricht. Wenn man ein Semester mit 24 Wochen veranschlagt, wobei die Prüfungszeit und Prüfungsvorbereitung mitgerechnet ist, ergibt sich eine Wochenarbeitszeit von 900 h / 24 = 37,5 Stunden. Eine Veranstaltung mit 5 Creditpoints und 4 SWS, 2 SWS Vorlesung + S SWS übung hat in der Regel einen Arbeitsaufwand von 5 x 30 = 150 Stunden. Bei durchschnittlich 18 Semesterwochen entspricht dies einem Anteil von 2 h x 18 = 36 Stunden Vorlesung, 2 h x 18 = 36 Stunden übung, also 72 Stunden Präsenzanteil und 78 Stunden Selbststudium inklusive Klausurvorbereitung und Nachbereitung der Präsenzanteile. Dies entspricht in etwa einer Aufteilung der Gesamtzeit in 50% für Präsenzstudium und in 50 % für Selbststudium.
+
+Die Lehrveranstaltungen des Masterstudiengangs sind mit 6 Creditpoints ausgestattet, was bei einem Modul mit 4 SWS einem Verhältnis von 40% für Präsenzstudium und 60 % für Selbststudium entspricht. 
+
+
+## Leistungspunktesystem
+
+Die Module der beantragten Studiengänge werden mit Creditpoints bewertet, um europaweite Vergleichbarkeit gemäß den Bologna-Richtlinien zu ermöglichen.
+
+## Prüfungen
+
+Viele Fachprüfungen der Bachelorstudiengänge, vor allem der Grundlagenfächer, werden in Form einer Klausur angeboten. Bei vielen Pflichtmodulen, den meisten Wahlpflichtfächer und natürlich im Kolloquium zur Bachelorarbeit sind mündliche Prüfungen vorgesehen, die oft durch Referate und Präsentationen unterstützt werden. Die Anzahlen der Modulprüfungen liegen bei den Bachelorstudiengängen zwischen 28 und 30 und sind so über die sechs Semester verteilt, dass es zu keinen Häufungen mit mehr als sechs Prüfungen in einem Semester kommt.
+
+Im Masterstudium ist der Schwerpunkt der Prüfungsformen in Richtung mündlicher Prüfungen, Präsentationen und wissenschaftlicher Ausarbeitungen gelegt. Bei einer Gesamtzahl von 15 Modulprüfungen fallen maximal fünf Prüfungen pro Semester an.
+
+## Studien/Prüfungsordnungen
+
+Die Studien- und Prüfungsordnungen der beantragten Studiengänge sind dem Anhang dieses Berichts beigefügt. Der Studienverlaufsplan entspricht der Studienordnung.
+
+
+## Maßnahmen zur Beratung von Studieninteressierten und Studierenden
+
+Die Medieninformatik beteiligt sich ferner jährlich an folgenden Veranstaltungen zur Beratung von Studieninteressierten:
+
+Regelmäßig wird im Mai ein „Schnupperstudium“ durchgeführt, an dem rund 150 Schüler, teilweise mit ihren Lehrern teilnehmen, um die Fachhochschule kennen zu lernen.
+
+Das Medieninformatik beteiligt sich regelmäßig mit eigenen Veranstaltungen an dem bundesweit jährlich stattfindenden Girls-Day, an dem rund 50 Schülerinnen speziell für ein Informatik-Studium oder ein ingenieurwissenschaftliches Studium in Gummersbach begeistert werden sollen.
+
+Dazu kommen Laborführungen für Schülergruppen verschiedener Schulen sowie die Präsentation des Campus Gummersbach außerhalb der Hochschule:
+- auf der „Overather Ausbildungsbörse",
+- der „Ausbildungsbörse Bergneustadt",
+- der „Mädchenmesse" des Oberbergischen Kreises,
+- dem „Tag der Offenen Tür" des Berufskollegs Dieringhausen (Gummersbach),der „Weiterbildungsmesse Oberberg",
+- sowie die Teilnahme an anderen, unregelmäßig durchgeführten Veranstaltungen zur Studien- und Berufswahl.
+
+Im Rahmen des bundesweiten Informatikjahres wurde am Campus Gummersbach ein „Tag der Informatik" für Studieninteressierte und eine „Informatik Sommerakademie für Schülerinnen (ISAS)" durchgeführt. Studierende und Dozenten gaben Einblicke in die Informatik-Welt und die Studieninteressierten konnten in verschiedenen Workshops und Selbsteinschätzungstests ihre Eignung und ihr Interesse für die Informatik live testen. Mit über 100 Studieninteressierten war die Beteiligung sehr erfreulich, und die Veranstaltungen stießen auf ein positives Echo.
+Das Institut für Informatik beteiligt sich jährlich am „Tag der offenen Tür“ der TH-Köln im September und an Informationsveranstaltungen der umliegenden Gymnasien und anderer weiterführender Schulen, die potenzielle Studienanfängerinnen und Studienanfänger an die Qualifizierung für ein Hochschulstudium heranführen.
+Alle diese Angebote werden sehr gut aufgenommen und sind stark frequentiert.
+
+
+~~~~~
+	Aktueller Bearbeiter: Christian Noss
+	Bearbeiterhistorie: Christian Noss
+	Date: 17.02.2017
+	Comment: von Informatik übernommen, Prüfungen müssen nachgezählt werden, da muss auch noch mal rein geschaut werden
+	Status: nicht fertig
+	Reviewed von: -
+~~~~~
+
 # Prüfungssystem
+
+>Die Prüfungen dienen der Feststellung, ob die formulierten Qualifikationsziele erreicht wurden. Sie sind modulbezogen sowie wissens- und kompetenzorientiert. Jedes Modul schließt in der Regel mit einer das gesamte Modul umfassenden Prüfung ab. Der Nach-teilsausgleich für behinderte Studierende hinsichtlich zeitlicher und formaler Vorgaben im Studium sowie bei allen abschließenden oder studienbegleitenden Leistungsnachweisen ist sichergestellt. Die Prüfungsordnung wurde einer Rechtsprüfung unterzogen.
+>
+>**Leitfragen**
+>
+>-   Welche der eingesetzten Prüfungsformen stufen die Lehrenden und die für den Studiengang Verantwortlichen als besonders geeignet zur Erfassung erreichter Lernergebnisse ein? Welche Lernergebnisse lassen sich aus Sicht der Lehrenden und der für den Studiengang Verantwortlichen nur schwer überprüfen?
+>
+>-   Wie werden die Bewertungskriterien für Studierende und Lehrende transparent gemacht?
+>
+>**Mögliche Evidenzen**
+>
+>-   Prüfungsrelevante Regelungen
+>
+>-   Einschlägige Ergebnisse aus internen Befragungen und Evaluationen mit Blick auf die Prüfungsorganisation und die Lernergebnisorientierung der Prüfungen
+>
+>-   Beispielhafte Prüfungspläne (einschließlich Prüfungstermine)
+>
+>-   Statistische Daten zum Studienverlauf, z.B. Durchschnittsnote, Durchfallquote, Anzahl der Wiederholungen
 
 # Studiengangsbezogene Kooperationen
 
@@ -1150,7 +1258,56 @@ Lehrgebiete
 
 # Transparenz und Dokumentation
 
-# Qualitätssicherung und Weiterentwicklung
+>Studiengang, Studienverlauf, Prüfungsanforderungen und Zugangsvoraussetzungen ein-schließlich der Nachteilsausgleichsregelungen für Studierende mit Behinderung sind dokumentiert und veröffentlicht.
+>
+>**Leitfragen**
+>
+>-   Wie wird sichergestellt, dass inländische und ausländische Studierende ihre Rechte und Pflichten kennen?
+>
+>-   Wer hat die Entscheidungsbefugnis über welche Dokumente?
+>
+>**Mögliche Evidenzen**
+>
+>-   Vorlage aller relevanten Regelungen zu Studienverlauf, Zugang, Studienabschluss, Prüfungen, Qualitätssicherung etc., mit Angabe zum Status der Verbindlichkeit
+>
+>-   Verweis auf die Stelle, an der diese veröffentlicht sind, z.B. Webseiten
+
+---
+title: Qualitätssicherung und Weiterentwicklung
+ueberarbeitung-erforderlich: ja 
+---
+
+## Beschreibung des Qualitätssicherungssystems der Studiengänge
+
+Der Senat der TH Köln hat am 12. Dezember 2013 die Ordnung für die Evaluation von Studium und Lehre in Ihrer dritten Fassung verabschiedet, die den Verfahrensablauf und die Verfahrensschritte von Evaluationsverfahren an der TH Köln regelt. verfügt mit dem Hochschulreferat 4 Qualitätsmanagement über eine zentrale Organisationseinheit für die Entwicklung und Durchführung von Evaluationsverfahren. Zudem hat der Fachausschuss des Studiengangs einen Qualitätsbeauftragten benannt, der als interner Ansprechpartner für die zentral organisierten Evaluationen und Studierendenbefragungen fungiert und neben dem Vorsitzenden des Fachausschusses direkter Ansprechpartner für die Umsetzung von Qualitätsverbesserungsmaßnahmen ist.
+
+Die Evaluationsordnung beinhaltet auch Befragungen zur Qualität des Studiums, wie sie nach § 7 HZG in Nordrhein-Westfalen vorgeschrieben sind.
+
+Das Qualitätsmanagement der Programme beinhaltet eine semesterweise Evaluation der Module sowie deren Unterbestandteile Projekte und Kurse. Die Evaluationsergebnisse werden zentral durch das Hochschulreferat 4 ausgewertet und aufbereitet. Die Lehrveranstaltungsbewertungen des Studiengangs kontinuierlich evaluiert. Die Ergebnisse von Lehrveranstaltungsbewertungen werden den Studierenden zurück gemeldet, um einen Dialog über die Qualität der Lehre zu initiieren und im Rahmen der quantitativen Ergebnisanalyse sichtbar gewordene Kritikpunkte inhaltlich-qualitativ weiter aufarbeiten zu können. 
+
+Die individuellen Ergebnisse der Lehrveranstaltungsbewertungen werden darüber hinaus auch vom Qualitätsbeauftragten gesichtet, um bei signifikanten Qualitätsproblemen einzelner Lehrender oder in einzelnen Lehrbereichen über Gespräche mit den betroffenen Kolleginnen und Kollegen Lösungsmöglichkeiten für die sichtbar gewordenen Probleme zu entwickeln.
+
+## Organisatorische Prozesse
+
+Der Campus Gummersbach der TH Köln ist der erste Campus einer öffentlichen Hochschule in Nordrhein-Westfalen und einer von ganz wenigen in Deutschland, der ein ganzheitliches Qualitäts- Management-System nach ISO 9001:2008 umgesetzt hat.
+
+Auf Basis des Fakultätsentwicklungsplan 2010-2015 wurde ein Qualitäts-Management- System mit fünf wesentlichen Handlungsfeldern definiert:
+- Qualität der Lehre
+- Strategische Studienprogramme
+- Internationalisierung
+- Forschung und Wissenstransfer
+- Standortentwicklung und Infrastruktur
+
+Die vereinbarten Qualitätsziele wurden an quantifizierbaren Kenngrößen oder beschlossenen Maßnahmen orientiert. Die Verbesserungsmaßnahmen und -programme werden jährlich in einer Management-Review evaluiert. Als zentrales Dokument des Qualitäts-Management-Systems wurde das QM-Handbuch für unsere Mitarbeiter*innen, Studierenden und Forschungspartner angefertigt. Dafür verlieh der TüV Rheinland nach umfangreicher Prüfung (Audit) das Zertifikat mit der Klassifizierung "Premium" für ein besonders hochwertiges System.
+
+~~~~~
+	Aktueller Bearbeiter: -
+	Bearbeiterhistorie: Christian Noss
+	Date: 17.02.2017
+	Comment: fast alles von Websience geklaut … danke!
+	Status: fast fertig, review erfolrderlich
+	Reviewed von: -
+~~~~~
 
 ---
 title: Geschlechtergerechtigkeit und Chancengleichheit
@@ -1185,7 +1342,7 @@ Die Umsetzung dieser Ziele und die Einbettung in die bestehenden Handlungsfelder
 	Aktueller Bearbeiter: -
 	Bearbeiterhistorie: Christian Noss
 	Date: 17.02.2017
-	Comment: alles von Websience geklaut … danke!
+	Comment: alles von Websience geklaut … danke! Fußnoten müssen noch gescheit gesetzt werden
 	Status: fertig, review erfolrderlich
 	Reviewed von: -
 ~~~~~
@@ -1229,3 +1386,24 @@ Geplant ist eine bessere Berücksichtigung der Lernaufwände in den einzelnen Mo
 Das im fünften Semester fast ausschließlich projektbasierte Studium eröffnet zudem die Möglichkeit, ein Semester im Ausland zu verbringen, dort zu arbeiten oder an einer ausländischen Hochschule Projekte zu bearbeiten. Insofern wird dem zunehmenden Anspruch an eine größere internationale Ausrichtung des Studiengangs auf flexible Art und Weise entsprochen.
 
 Einige inhaltliche Veränderungen am Zuschnitt der Module dienen der stärkeren Orientierung auf das Berufsfeld der Absolventen.
+
+## Geplante Änderungen des Master-Studiengangs
+
+Gerade in dem sich immer noch in der Entwicklung befindlichen Gebiet der Medieninformatik war und ist insbesondere beim Masterstudiengang zu erwarten, dass sich auch im aktuellen Akkreditierungszeitraum Änderungen hinsichtlich der Erkenntnisse aus Wissenschaft und
+Berufspraxis sowie der im Lehrbetrieb seit der Reakkreditierung 2011 gesammelten Erfahrungen und Evaluierungsergebnisse ergeben. Hier sind  beispielhaft die den beruflichen und privaten Alltag gleichermaßen immer weiter durchdringende Nutzung von Netz- und besonders Web-basierten Diensten sowie die fortschreitende Medienkonvergenz zu nennen. Hinzu kommen mögliche curriculare und personale Synergien mit dem vom Institut für Informatik der Fakultät 10 der FH Köln seit 2008 eingeführten und 2012 reakkreditierten Masterstudiengang Informatik mit den beiden Schwerpunkten Wirtschaftsinformatik/Information Systems und Software Engineering.
+Die vorgenommenen bzw. im Rahmen der Reakkreditierung noch vorzunehmenden Änderungen von Modulen und Lehrveranstaltungen (LV) behalten die im Selbstbericht zur Reakkreditierung vom 16. September 2009 beschriebenen Studiengangsziele und curricularen Inhalte im Wesentlichen bei. Bei der Ausgestaltung wurde jedoch Wert auf eine größere Profilschärfung und damit verbundene Möglichkeiten zu individuellen fachlichen Vertiefungen gelegt. 
+
+Die im Folgenden dargestellten geplanten Veränderungen des Masterstudienprogramms dienen zur Beseitigung erkannter Schwächen 
+- Fehlende Profilschärfung und Praxisbezug
+- Geringer Anteil an projektbasierter Lehre
+- Geringe internationale Ausrichtung
+und zur Maßnahmenbildung im Rahmen der Ziele der Hochschul- und Fakultätsentwicklungspläne wie sie bereits oben beim Bachelorstudienprogramm dargestellt wurden.
+
+1. Der Studiengang erhält Studienschwerpunkte. Dadurch, dass Wahlkataloge im Umfang von 30 ECTS CP angeboten werden, kann je nach Neigung durch entsprechende Auswahl von Modulen ein spezieller Teilbereich der Medieninformatik studiert werden. Zugleich ergeben sich weitere Synergieeffekte mit dem auch vom Institut für Informatik angebotenen Master "Informatik" mit den beiden Studienrichtungen "Software Engineering" und "Information Systems". Diese Maßnahme wirkt auch langfristig hinsichtlich des zu erwartenden Anstiegs der Bewerbernachfrage für dieses Studienangebot. Zugleich werden die Studierenden besser auf die Aufgaben in der Praxis vorbereitet.
+2. Der Projektanteil wird von 10 CP auf 36 CP erhöht und auf die ersten drei Studiensemester konzentriert, so dass der Übergang ins Berufsleben und die Kooperation mit Unternehmen verbessert werden können. Zu der praktischen Projektarbeit gesellen sich jeweils fachlicher Anteile. z.B. in Form von seminaristischen- oder Vorlesungsanteilen. Die Mitarbeit der Studierenden in Projekten trägt überdies zum Ausbau der Forschungsaktivitäten der Fakultät bei. Außerdem bietet sich das dritte Studiensemester mit seiner fast ausschließlichen Projektorientierung für einen Forschungsaufenthalt im Ausland an.
+3. Der Anteil der Grundlagen-Pflicht-Lehrveranstaltungen sinkt von 75 CP auf 18 CP und wird - ebenso wie die Module der Studienschwerpunkte - auf das erste und zweite Semester konzentriert. Das Verhältnis von Präsenzanteil zu Arbeitsaufwand wird reduziert, sodass für die Studierenden mehr Zeit für Ausarbeitungen, Referate und Literaturstudium bleibt und einer Verschulung des Masterstudiums entgegengewirkt wird. Zu diesem Zweck werden alle Module mit 6 CPs statt bisher mit 5 CPs ausgestattet.
+4. Einige inhaltliche Veränderungen am Zuschnitt der Module dienen der stärkeren Orientierung auf das Berufsfeld der Masterabsolventen. Insbesondere die Vorbereitung auf wissenschaftliches Arbeiten und Führungsaufgaben wird verstärkt.
+
+Die geplanten Veränderungen stehen in völliger Übereinstimmung mit den Plänen der Hochschule und der Fakultät und sind geeignet, die Erreichung der entsprechenden Ziele nachhaltig zu unterstützen.
+
+

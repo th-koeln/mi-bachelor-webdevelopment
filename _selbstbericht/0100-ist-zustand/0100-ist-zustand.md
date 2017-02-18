@@ -124,9 +124,11 @@ cn: gibt es zu "im breiten Mittelfeld von Informatikstudiengängen" zahlen?
 ~~~
 
 sehr erfreulich ist die für den Masterstudiengang Medieninformatik die geringe Abbrecherquote. In Verbindung mit der bedauerlich hohen, für ingenieur- und naturwissenschaftliche Studiengänge, insbesondere im Bachelor-Bereich jedoch leider inhärenten Abbrecherquote (durchschnittlich geschätzte Schwundquote in der Informatik an Fachhochschulen ist 39%), 
+
 ~~~
 cn: wo kommt diese Zahl her (durchschnittlich geschätzte Schwundquote in der Informatik an Fachhochschulen ist 39%)?
 ~~~
+
 zeigt sich hier ein deutliches noch zu hebendes Optimierungspotential. Erfreulich ist hier die mit 27% recht hohe Frauenquote im Bachelorstudiengang Medieninformatik. Die durchschnittliche Frauenquote in der Lehreinheit Informatik liegt bei 22%. In der Fakultät 10 liegt sie bei 20%.
 
 Die Prüfungserfolge sind bzgl. des Bachelor- und Masterstudiengangs zu differenzieren.

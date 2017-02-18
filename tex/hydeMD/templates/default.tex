@@ -41,13 +41,16 @@
 
 %Paket zum \UTF{0192}ndern der Kopf- und Fußzeile
 \usepackage{fancyhdr}
+
 %Benutzt das Paket für eigenen Seitenstil
 \pagestyle{fancy}
+
 %Erzeugt eine Linie in der Kopfzeile (lässt sich mit 0.0pt ausblenden)
 \renewcommand*{\headrulewidth}{0.1pt}
 \renewcommand{\headrule}{\hbox to\headwidth{%
   \color{m_pink}\leaders\hrule height \headrulewidth\hfill}}
 \lhead{} %Kopfzeile links
+
 %\chead{\thepage} %Kopfzeile mitte
 \chead{\includegraphics[height=20pt]{../assets/box.pdf}}
 \rhead{} %Kopfzeile rechts
@@ -62,8 +65,8 @@
 }
 
 
-%\setlength\headheight{40pt}
-%\setlength\footheight{20pt}
+\setlength\headheight{60pt}
+\setlength\footheight{40pt}
 %\lfoot{\includegraphics[height=40pt]{../assets/box.pdf}}
 \rfoot{\thepage}
 \lfoot{\changefont <| title |> Medieninformatik\\TH Köln // Institut für Informatik\\ \today}
@@ -161,11 +164,14 @@
 
 \usepackage{titlesec}
 \titleformat{\chapter}[display]
-  {\normalfont\sffamily\mdseries\color{m_lila}}
+  {\normalfont\sffamily\mdseries}
   {\chaptertitlename\ \thechapter}{14pt}{\huge}
 \titleformat{\section}
-  {\normalfont\sffamily\Large\mdseries\color{m_lila}}
-  {\thesection}{1em}{}
+  {\normalfont\sffamily\mdseries\large\color{m_pink}}
+  {\thesection}{1em}{\large}
+\titleformat{\subsection}
+  {\normalfont\sffamily\mdseries\large}
+  {\thesubsection}{1em}{\large}
 
 \usepackage[T1]{fontenc}
 
