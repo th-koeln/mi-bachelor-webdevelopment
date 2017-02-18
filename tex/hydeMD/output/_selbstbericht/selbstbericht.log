@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.17)  18 FEB 2017 02:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.17)  18 FEB 2017 02:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -810,7 +810,7 @@ Package: ltcaption 2013/06/09 v1.4-94 longtable captions (AR)
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 
-No file selbstbericht.aux.
+(./selbstbericht.aux (./content.aux))
 \openout1 = `selbstbericht.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 190.
@@ -829,6 +829,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 190.
 LaTeX Font Info:    ... okay on input line 190.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 190.
 LaTeX Font Info:    Try loading font information for TS1+cmr on input line 190.
+
 
 (/usr/local/texlive/2016basic/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
@@ -892,10 +893,12 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 190.
 LaTeX Info: Redefining \pageref on input line 190.
 LaTeX Info: Redefining \nameref on input line 190.
+ (./selbstbericht.out) (./selbstbericht.out)
 \@outlinefile=\write5
 \openout5 = `selbstbericht.out'.
 
- (/usr/local/texlive/2016basic/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+
+(/usr/local/texlive/2016basic/texmf-dist/tex/latex/oberdiek/pdflscape.sty
 Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
 
 (/usr/local/texlive/2016basic/texmf-dist/tex/latex/graphics/lscape.sty
@@ -957,7 +960,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    Font shape `T1/Roboto-LF/l/n' will be
 (Font)              scaled to size 6.0pt on input line 35.
 
-<../assets/box.pdf, id=6, 598.86235pt x 493.1233pt>
+<../assets/box.pdf, id=275, 598.86235pt x 493.1233pt>
 File: ../assets/box.pdf Graphic file (type pdf)
  <use ../assets/box.pdf>
 Package pdftex.def Info: ../assets/box.pdf used on input line 42.
@@ -1313,13 +1316,19 @@ Overfull \hbox (19.90506pt too wide) in alignment at lines 1203--1226
  []
 
 
+Overfull \hbox (29.07654pt too wide) in alignment at lines 1231--1236
+ [] [] [] 
+ []
+
+
 Overfull \hbox (29.07654pt too wide) in alignment at lines 1236--1241
  [] [] [] 
  []
 
 
-Package longtable Warning: Column widths have changed
-(longtable)                in table 3.2 on input line 1241.
+Overfull \hbox (126.55435pt too wide) in alignment at lines 1246--1251
+ [] [] [] 
+ []
 
 
 Overfull \hbox (126.55435pt too wide) in alignment at lines 1251--1257
@@ -1327,8 +1336,9 @@ Overfull \hbox (126.55435pt too wide) in alignment at lines 1251--1257
  []
 
 
-Package longtable Warning: Column widths have changed
-(longtable)                in table 3.3 on input line 1257.
+Overfull \hbox (74.08842pt too wide) in alignment at lines 1262--1267
+ [] [] [] 
+ []
 
 
 Overfull \hbox (74.08842pt too wide) in alignment at lines 1267--1273
@@ -1347,11 +1357,6 @@ Package Fancyhdr Warning: \headheight is too small (15.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [21]
-
-Package longtable Warning: Column widths have changed
-(longtable)                in table 3.4 on input line 1273.
-
-
 Overfull \hbox (19.90506pt too wide) in alignment at lines 1278--1288
  [] [] [] 
  []
@@ -1584,7 +1589,7 @@ utzen können. Alle Veränderungen bitte im Kapitel "Qualifikationsziele" veranke
 rn.[] 
  []
 
-<../anhaenge/bilder/ba-studienphasen.001.jpeg, id=256, 1027.84pt x 770.88pt>
+<../anhaenge/bilder/ba-studienphasen.001.jpeg, id=486, 1027.84pt x 770.88pt>
 File: ../anhaenge/bilder/ba-studienphasen.001.jpeg Graphic file (type jpg)
 
 <use ../anhaenge/bilder/ba-studienphasen.001.jpeg>
@@ -1946,32 +1951,19 @@ Package Fancyhdr Warning: \headheight is too small (15.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [55]
-
-Package longtable Warning: Table widths have changed. Rerun LaTeX.
-
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 205.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 205.
-(./selbstbericht.aux (./content.aux))
+ (./selbstbericht.aux (./content.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 205.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 205.
-
-
-Package rerunfilecheck Warning: File `selbstbericht.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `selbstbericht.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  FA7EF1376EF62818DEF62D3BD77AB08A;5824.
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
+Package rerunfilecheck Info: File `selbstbericht.out' has not changed.
+(rerunfilecheck)             Checksum: FA7EF1376EF62818DEF62D3BD77AB08A;5824.
  ) 
 Here is how much of TeX's memory you used:
- 16094 strings out of 494447
- 255369 string characters out of 6166766
- 446665 words of memory out of 5000000
- 18990 multiletter control sequences out of 15000+600000
+ 16173 strings out of 494447
+ 256518 string characters out of 6166766
+ 453093 words of memory out of 5000000
+ 19061 multiletter control sequences out of 15000+600000
  59391 words of font info for 44 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
  57i,15n,100p,8492b,596s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1982,10 +1974,10 @@ enc} </Users/jorge/Library/texlive/2016basic/texmf-var/fonts/pk/ljfour/jknappen
 roboto/Roboto-Bold.pfb></usr/local/texlive/2016basic/texmf-dist/fonts/type1/goo
 gle/roboto/Roboto-Light.pfb></usr/local/texlive/2016basic/texmf-dist/fonts/type
 1/google/roboto/Roboto-LightItalic.pfb>
-Output written on selbstbericht.pdf (55 pages, 681525 bytes).
+Output written on selbstbericht.pdf (55 pages, 685982 bytes).
 PDF statistics:
- 518 PDF objects out of 1000 (max. 8388607)
- 368 compressed objects within 4 object streams
+ 722 PDF objects out of 1000 (max. 8388607)
+ 570 compressed objects within 6 object streams
  164 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 547 words of extra memory for PDF output out of 10000 (max. 10000000)
 
