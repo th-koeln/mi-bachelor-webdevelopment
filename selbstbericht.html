@@ -71,7 +71,7 @@ layout: default
 						{% assign check = doc.aktueller-bearbeiter | strip_newlines %}
 						{% if check == ""  %}
 						<div class="column is-4 has-text-right">
-							<a target="_blank" href="https://github.com/th-koeln/mi-2017/edit/master/{{ page.path }}"><span class="icon"><i class="fa fa-edit"></i></span> Bearbeiten</a>
+							<a target="_blank" href="https://github.com/th-koeln/mi-2017/edit/master/{{ doc.path }}"><span class="icon"><i class="fa fa-edit"></i></span> Bearbeiten</a>
 						</div>
 						{% endif %}
 					</div>
@@ -86,7 +86,7 @@ layout: default
 
 						{% include /functions/shift-level.html content=doc.content %}
 						{% assign check = doc.aktueller-bearbeiter | strip_newlines %}
-						<h2 id="{{doc.id}}">{{ doc.title }}{% if check == ""  %} <a target="_blank" href="https://github.com/th-koeln/mi-2017/edit/master/{{ page.path }}"><span class="icon"><i class="fa fa-edit"></i></span> Bearbeiten</a>{% endif %}</h2>
+						<h2 id="{{doc.id}}">{{ doc.title }}{% if check == ""  %} <a target="_blank" href="https://github.com/th-koeln/mi-2017/edit/master/{{ doc.path }}"><span class="icon"><i class="fa fa-edit"></i></span> Bearbeiten</a>{% endif %}</h2>
 						
 						{% include /functions/show-doc-status.html doc=doc %}
 						
