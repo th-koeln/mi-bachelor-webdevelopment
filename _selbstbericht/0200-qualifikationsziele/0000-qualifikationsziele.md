@@ -56,8 +56,8 @@ Diese Kompetenzmatrix bildet die Basis für die Ausrichtung und Einteilung der e
 	Bearbeiterhistorie: Christian Noss
 	Date: 17.02.2017
 	Comment: -
-	Status: ok
-	Reviewed von: Peer-Review erforderlich
+	Status: Peer-Review erforderlich
+	Reviewed von: 
 ~~~
 
 [^gi-empfehlungen]: Gesellschaft für Informatik e.V. (GI): "Empfehlungen für Bachelor- und Masterprogramme im Studienfach Informatik an Hochschulen", unter: https://www.gi.de/fileadmin/redaktion/empfehlungen/GI-Empfehlungen_Bachelor-Master-Informatik2016.pdf (abgerufen am 01.02.2017).

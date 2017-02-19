@@ -14,13 +14,10 @@ Das folgende Leitbild steht über dem Studiengang Medieninformatik Bachelor:
 Mit dem Bachelor-Studiengang Medieninformatik bietet die Fakultät für Informatik und Ingenieurwissenschaften der TH Köln seit dem Jahr 2000 ein wissenschaftlich fundiertes und praxisorientiertes Informatik-Studium mit dem Schwerpunkt Medien an. Fachlich und strukturell ist der Studiengang Medieninformatik auf die Analyse, Konzeption, Realisierung und Adaption von, oft web-basierten Prozessen und Systemen zur Produktion, Bearbeitung und Distribution medienbasierter Informationen sowie interaktiver Systeme ausgerichtet. Den Kern bildet ein Informatikstudium. Hinzu kommt die Vermittlung umfassender, vielschichtiger analytischer wie konstruktiver Medienkompetenzen sowie ökonomischer, technischer und gesellschaftlicher Grundkenntnisse.
 
 ~~~
-mw: TODO aus Zielematrix verdichten
+	Aktueller Bearbeiter: Christian Noss
+	Bearbeiterhistorie: Christian Noss
+	Date: 18.02.2017
+	Comment: -
+	Status: unvollständig und noch etwas chaotisch, Überarbeitung erforderlich
+	Reviewed von: 
 ~~~
-
-
-~~~~~
-	Reviewer: Christian Noss
-	Date: 14.02.2017
-	Comment: 
-	Status: nicht fertig reviewed
-~~~~~
