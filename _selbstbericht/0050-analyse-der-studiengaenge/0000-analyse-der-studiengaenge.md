@@ -1,6 +1,11 @@
 ---
 title: Analyse der Studiengänge
-ueberarbeitung-erforderlich: ja 
+aktueller-bearbeiter:
+bearbeiterhistorie: Christian Noss
+date: 14.02.2017
+comment: erstmal fertig
+status: Peer Review erforderlich
+reviewed-von:
 ---
 
 Die Studiengänge wurden auf Basis verschiedener quantitativer und qualitativer Erhebungen analysiert und in einem iterativen Prozess optimiert. An diesem Prozess waren folgende Personengruppen beteiligt:
@@ -15,12 +20,3 @@ Die Studiengänge wurden auf Basis verschiedener quantitativer und qualitativer 
 | Prüfungsamt | themenspezifischen Abstimmungsmeetings, Einzelgespräche |
 | Qualitätsmanagement-Team | themenspezifische Abstimmungsmeetings, Einzelgespräche |
 | Alumni und Wirtschaftsvertreter | Evaluationen, Einzelgespräche |
-
-~~~~~
-	Aktueller Bearbeiter: Christian Noss
-	Bearbeiterhistorie: Christian Noss
-	Date: 14.02.2017
-	Comment: erstmal fertig
-	Status: Peer-Review erforderlich
-	Reviewed von: -
-~~~~~

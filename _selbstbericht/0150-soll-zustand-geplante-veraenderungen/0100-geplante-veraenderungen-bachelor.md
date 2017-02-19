@@ -1,5 +1,11 @@
 ---
 title: Soll-Zustand/ geplante Veränderungen
+aktueller-bearbeiter: Christian Noss
+bearbeiterhistorie: Christian Noss
+date: 17.02.2017
+comment: Grafiken fehlen, ansonsten ganz ok, PDP und Web-Archs fehlen, Schwerpunkt zusammensetzung ebenfalls
+status: Unvollständig
+reviewed-von:
 ---
 
 ~~~
@@ -90,12 +96,4 @@ Das Abschlusssemester wurde in seiner grundsätzlichen Struktur beibehalten, jed
 
 Im fünften Semester wurde das Modul "Medieninformatik und Gesellschaft" umgewidmet in "Medienrecht, Medien und Gesellschaft" um hier einen dedizierten Platz für rechtliche Themen innerhalb der Domäne im Curriculum zu verankern.
 
-~~~~~
-	Aktueller Bearbeiter: Christian Noss
-	Bearbeiterhistorie: Christian Noss
-	Date: 17.02.2017
-	Comment: Grafiken fehlen, ansonsten ganz ok, PDP und Web-Archs fehlen, Schwerpunkt zusammensetzung ebenfalls
-	Status: Unvollständig
-	Reviewed von: -
-~~~~~
 

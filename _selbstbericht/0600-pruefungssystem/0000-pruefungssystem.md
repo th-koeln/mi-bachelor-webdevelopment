@@ -1,5 +1,11 @@
 ---
 title: Prüfungssystem
+aktueller-bearbeiter: 
+bearbeiterhistorie: 
+date: 10.02.2017
+comment: 
+status: unbarbeitet
+reviewed-von:
 ---
 
 >Die Prüfungen dienen der Feststellung, ob die formulierten Qualifikationsziele erreicht wurden. Sie sind modulbezogen sowie wissens- und kompetenzorientiert. Jedes Modul schließt in der Regel mit einer das gesamte Modul umfassenden Prüfung ab. Der Nach-teilsausgleich für behinderte Studierende hinsichtlich zeitlicher und formaler Vorgaben im Studium sowie bei allen abschließenden oder studienbegleitenden Leistungsnachweisen ist sichergestellt. Die Prüfungsordnung wurde einer Rechtsprüfung unterzogen.

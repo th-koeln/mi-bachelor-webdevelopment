@@ -1,7 +1,23 @@
 ---
 title: Geschlechtergerechtigkeit und Chancengleichheit
-ueberarbeitung-erforderlich: ja 
+aktueller-bearbeiter: 
+bearbeiterhistorie: Christian Noss
+date: 17.02.2017
+comment: alles von Websience geklaut … danke! Fußnoten müssen noch gescheit gesetzt werden
+status: fertig, review erfolrderlich
+reviewed-von:
 ---
+
+
+> Auf der Ebene des Studiengangs werden die Konzepte der Hochschule zur Geschlechtergerechtigkeit und zur Förderung der Chancengleichheit von Studierenden in besonderen Lebenslagen wie beispielsweise Studierende mit gesundheitlichen Beeinträchtigungen, Studierende mit Kindern, ausländische Studierende, Studierende mit Migrationshintergrund und/oder aus sogenannten bildungsfernen Schichten umgesetzt.
+>
+> **Leitfragen**
+>
+>-   Liegen Konzepte der Hochschule zur Geschlechtergerechtigkeit und zur Förderung der Chancengleichheit von Studierenden in besonderen Lebenslagen vor? Wenn ja welche?
+>
+> **Mögliche Evidenzen**
+>
+>-   Einschlägige Dokumente aus dem alltäglichen Gebrauch der Hochschule, die die ggf. vorhandenen Konzepte und Maßnahmen zeigen
 
 Die TH Köln betrachtet Gleichstellung und Chancengleichheit der Geschlechter als Querschnittsaufgaben. Dabei wird Gleichstellung als integrierter Bestandteil von Lehre und Forschung verstanden, auf die Vereinbarkeit von Studium und Familie beziehungsweise Beruf und Familie geachtet sowie für eine ausgewogene Beteiligung von Männern und Frauen an den Entscheidungsstrukturen in Lehre, Forschung und Verwaltung gesorgt. Darüber hinaus wird der Anteil der Frauen bei den Professuren, Mitarbeiterstellen und den Studierenden in denjenigen Fächern, in denen sie unterrepräsentiert sind, kontinuierlich erhöht.
 
@@ -27,14 +43,6 @@ Für die Umsetzung der Chancengleichheit von Männern und Frauen hat die Hochsch
 
 Die Umsetzung dieser Ziele und die Einbettung in die bestehenden Handlungsfelder der Hochschule werden in der amtlichen Mitteilung[^gleichstellungskonzept] näher erläutert. Der TH Köln ist es ein besonderes Anliegen, mit den umgesetzten Maßnahmen die Selbstverständlichkeit von Beruf und Familie bzw. Studium und Familie zu unterstreichen und damit eine Kulturveränderung innerhalb der Hochschule zu bewirken, denn damit werden indirekt Karrierehemmnisse von Frauen abgebaut.
 
-~~~~~
-	Aktueller Bearbeiter: -
-	Bearbeiterhistorie: Christian Noss
-	Date: 17.02.2017
-	Comment: alles von Websience geklaut … danke! Fußnoten müssen noch gescheit gesetzt werden
-	Status: fertig, review erfolrderlich
-	Reviewed von: -
-~~~~~
 
 [^gleichstellungskonzept]: http://www.fh-koeln.de/mam/downloads/deutsch/hochschule/profil/gleichstellung/gleichstellungskonzept.pdf 
 [^educational-diversity]: https://www.th-koeln.de/hochschule/educational-diversity_5710.php

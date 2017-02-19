@@ -1,7 +1,44 @@
 ---
 title: Qualitätssicherung und Weiterentwicklung
-ueberarbeitung-erforderlich: ja 
+aktueller-bearbeiter: 
+bearbeiterhistorie: Christian Noss
+date: 18.02.2017
+comment: fast alles von Websience geklaut … danke!
+status: fast fertig, review erfolrderlich
+reviewed-von:
 ---
+
+
+>Ergebnisse des hochschulinternen Qualitätsmanagements werden bei den Weiterentwicklungen des Studienganges berücksichtigt. Dabei berücksichtigt die Hochschule Evaluationsergebnisse, Untersuchungen der studentischen Arbeitsbelastung, des Studienerfolgs und des Absolventenverbleibs.
+>
+>**Leitfragen**
+>
+>-   Welche Maßnahmen zur Qualitätsverbesserung in und von Studiengängen sind in den zurückliegenden Jahren ergriffen worden?
+>
+>-   Welche Elemente der internen Qualitätskontrolle erweisen sich als besonders nützlich für kontinuierliche Verbesserungen in einem Studiengang?
+>
+>-   Inwieweit findet der Aspekt „Lernergebnisorientierung“ bei der Konzeption und in der Praxis der Qualitätssicherungsinstrumente für einen Studiengang Berücksichtigung?
+>
+>-   Wie bewerten Studierende die interne Qualitätskontrolle und\ -entwicklung ihrer Studiengänge hinsichtlich
+>
+>    -   ihrer Beteiligung?
+>
+>    -   der Auswirkungen auf ihr Studium?
+>
+>-   Wie bewerten Lehrende und die Leitungsebenen die interne Qualitätskontrolle und -entwicklung ihrer Studiengänge hinsichtlich
+>
+>    -   ihrer Beteiligung?
+>
+>    -   der Unterstützung bei der Lösung von Problemen und Verbesserungen in der Lehre?
+>
+>**Mögliche Evidenzen**
+>
+>-   Interne Regelwerke zum Qualitätsmanagement (Evaluationsordnungen u.ä.)
+>
+>-   Exemplarisches Informationsmaterial über das Qualitätsmanagement und seine Ergebnisse, das die Hochschule regelmäßig für die Kommunikation nach innen und außen nutzt (z. B. Link zu spezifischen Webseiten, Berichte, Flyer)
+>
+>-   Quantitative und qualitative Daten aus Befragungen, Statistiken zum Studienverlauf, Absolventenzahlen und -verbleib u.ä.
+
 
 ## Beschreibung des Qualitätssicherungssystems der Studiengänge
 
@@ -25,12 +62,3 @@ Auf Basis des Fakultätsentwicklungsplan 2010-2015 wurde ein Qualitäts-Manageme
 - Standortentwicklung und Infrastruktur
 
 Die vereinbarten Qualitätsziele wurden an quantifizierbaren Kenngrößen oder beschlossenen Maßnahmen orientiert. Die Verbesserungsmaßnahmen und -programme werden jährlich in einer Management-Review evaluiert. Als zentrales Dokument des Qualitäts-Management-Systems wurde das QM-Handbuch für unsere Mitarbeiter*innen, Studierenden und Forschungspartner angefertigt. Dafür verlieh der TüV Rheinland nach umfangreicher Prüfung (Audit) das Zertifikat mit der Klassifizierung "Premium" für ein besonders hochwertiges System.
-
-~~~~~
-	Aktueller Bearbeiter: -
-	Bearbeiterhistorie: Christian Noss
-	Date: 17.02.2017
-	Comment: fast alles von Websience geklaut … danke!
-	Status: fast fertig, review erfolrderlich
-	Reviewed von: -
-~~~~~

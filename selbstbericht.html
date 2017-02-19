@@ -4,8 +4,10 @@ layout: default
 
 {% assign chapters = "" | split: "," %}
 {% assign last_chapter = "" %}
+{% assign docs = site.selbstbericht | sort: 'path' %}
 
-{% for doc in site.selbstbericht %}
+
+{% for doc in docs %}
 	{% assign path = doc.path  | remove_first:'_selbstbericht/' | split:'/' %}
 	{% assign subpath = '_selbstbericht/' | append: path.first %}
 	
@@ -38,7 +40,8 @@ layout: default
 				{% assign count = 0 %}
 				{% for doc in subchapters %}
 					{% if count == 0 %}
-						<li><a href="#{{doc.id}}">{{doc.title}} {% if doc.ueberarbeitung-erforderlich == "ja" %}<span class="icon"><i class="fa fa-edit"></i></span>{% endif %}</a></li>
+						{% assign check = doc.aktueller-bearbeiter | strip_newlines %}
+						<li><a href="#{{doc.id}}">{{doc.title}} {% if check == ""  %}<span class="icon"><i class="fa fa-edit"></i></span>{% else %} (derzeit bearbeitet von {{check}}){% endif %}</a></li>
 					{% endif %}
 					{% assign count = count | plus: 1 %}
 				{% endfor %}
@@ -65,12 +68,15 @@ layout: default
 					
 					<div class="columns">
 						<div class="column is-8"><h1 id="{{doc.id}}">{{ doc.title }}</h1></div>
-						{% if doc.ueberarbeitung-erforderlich == "ja" %}
+						{% assign check = doc.aktueller-bearbeiter | strip_newlines %}
+						{% if check == ""  %}
 						<div class="column is-4 has-text-right">
 							<a target="_blank" href="https://github.com/th-koeln/mi-2017/edit/master/{{ page.path }}"><span class="icon"><i class="fa fa-edit"></i></span> Bearbeiten</a>
 						</div>
 						{% endif %}
 					</div>
+					
+					{% include /functions/show-doc-status.html doc=doc %}
 					
 					{{doc.content}}
 					
@@ -79,7 +85,11 @@ layout: default
 					{% if count > 1 %}
 
 						{% include /functions/shift-level.html content=doc.content %}
-						<h2 id="{{doc.id}}">{{ doc.title }}{% if doc.ueberarbeitung-erforderlich == "ja" %}<a target="_blank" href="https://github.com/th-koeln/mi-2017/edit/master/{{ page.path }}"><span class="icon"><i class="fa fa-edit"></i></span> Bearbeiten</a>{% endif %}</h2>
+						{% assign check = doc.aktueller-bearbeiter | strip_newlines %}
+						<h2 id="{{doc.id}}">{{ doc.title }}{% if check == ""  %} <a target="_blank" href="https://github.com/th-koeln/mi-2017/edit/master/{{ page.path }}"><span class="icon"><i class="fa fa-edit"></i></span> Bearbeiten</a>{% endif %}</h2>
+						
+						{% include /functions/show-doc-status.html doc=doc %}
+						
 						{{content}}
 						
 					{% endif %}

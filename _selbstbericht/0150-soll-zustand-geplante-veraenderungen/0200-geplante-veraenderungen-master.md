@@ -1,6 +1,11 @@
 ---
 title: Geplante Veränderungen des Master-Studiengangs gegenüber dem aktuellen Akkreditierungszeitraum
-ueberarbeitung-erforderlich: ja 
+aktueller-bearbeiter: 
+bearbeiterhistorie: Christian Noss
+date: 17.02.2017
+comment: Schwerpunktmodule und deren Herkunft nicht komplett
+status: Unvollständig, Peer Review erforderlich
+reviewed-von:
 ---
 
 Die im Folgenden dargestellten geplanten Veränderungen des Masterstudienprogramms dienen zur Beseitigung erkannter Schwächen (vgl. Defizite Medieninformatik Master). Grundsätzlich wurde die Basisgröße der Module von fünf auf sechs Creditpoints erhöht. Module haben also stets ein Gewicht von sechs Creditpoints oder einem Vielfachen davon. Zum einen, um auch im Master die einzelnen Fachsemester weniger stark zu fragmentieren, zum anderen, um mit dem Informatik Masterstudiengang, der ebenfalls am Campus Gummersbach angeboten wird Module und Projekte teilen zu können. 
@@ -80,12 +85,3 @@ Die Mitarbeit der Studierenden in Projekten trägt überdies zum Ausbau der Fors
 Im dritten Fachsemester sind neben dem Projekt drei Wahlmodule vorgesehen, die im Gegensatz zum bisherigen Curriculum, an keinerlei weitere Regularien gebunden sind. Im aktuellen Curriculum werden die Wahlpflichtmodule in vier Kategorien eingeteilt und pro Kategorie muss ein Modul belegt werden. Die Kategorisierung der Wahlmodule führt jedoch nicht selten dazu, dass den Studierenden keine oder nur sehr wenige Optionen offen stehen. Im neuen Curriculum können als Wahlmodule alle Module des Medieninformatik- und des Informatik-Masterstudiengangs gewählt werden.
 
 Durch die offene Gestaltung des dritten Fachsemesters eignet sich selbiges gut für ein Auslandssemester, da hier die Anerkennung von Modulen sehr leicht fallen sollte. 
-
-~~~
-	Aktueller Bearbeiter: -
-	Bearbeiterhistorie: Christian Noss
-	Date: 17.02.2017
-	Comment: Schwerpunktmodule und deren Herkunft nicht komplett
-	Status: Unvollständig, Peer Review erforderlich
-	Reviewed von: -
-~~~

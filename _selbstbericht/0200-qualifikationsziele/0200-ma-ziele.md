@@ -1,6 +1,13 @@
 ---
 title: Qualifikationsziele Medieninformatik Master
+aktueller-bearbeiter: 
+bearbeiterhistorie: Christian Noss
+date: 18.02.2017
+comment:
+status: unvollständig und noch etwas chaotisch, Überarbeitung erforderlich
+reviewed-von:
 ---
+
 
 ## Leitbild Medieninformatik Master
 
@@ -33,11 +40,3 @@ Absolventinnen und Absolventen des Masterstudiengangs Medieninformatik:
 
 - Beiträge zur Weiterentwicklung der Medieninformatik als wissenschaftlicher Disziplin leisten.
 
-~~~
-	Aktueller Bearbeiter: Christian Noss
-	Bearbeiterhistorie: Christian Noss
-	Date: 18.02.2017
-	Comment: -
-	Status: unvollständig und noch etwas chaotisch, Überarbeitung erforderlich
-	Reviewed von: 
-~~~

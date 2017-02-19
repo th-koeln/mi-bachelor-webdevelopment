@@ -1,6 +1,11 @@
 ---
 title: Einbettung des Studienganges in die Hochschule
-ueberarbeitung-erforderlich: ja 
+aktueller-bearbeiter:
+bearbeiterhistorie: Christian Noss
+date: 14.02.2017
+comment: Inhaltlich ok, Abbildung Verteilung der Studierenden fehlt.
+status: Peer Review erforderlich
+reviewed-von:
 ---
 
 ## Kurzüberblick über die Struktur der Hochschule
@@ -47,14 +52,7 @@ Das Institut für Informatik betreibt Labore für:
 - Kommunikationstechnik & Datensicherheit (KTDS)
 - Wirtschaftsinformatik (WI)
 
-~~~~~
-	Aktueller Bearbeiter: -
-	Bearbeiterhistorie: Christian Noss
-	Date: 14.02.2017
-	Comment: Inhaltlich ok, Abbildung Verteilung der Studierenden fehlt.
-	Status: Peer-Review erforderlich
-	Reviewed von: -
-~~~~~
+
 
 [^Anhang-Diversity-Konzepte]: <a href="https://www.th-koeln.de/hochschule/educational-diversity_5710.php">https://www.th-koeln.de/hochschule/educational-diversity_5710.php</a>
 [^anhang-profil2]: <a href="https://www.th-koeln.de/hochschule/profil_5676.php">https://www.th-koeln.de/hochschule/profil_5676.php</a>

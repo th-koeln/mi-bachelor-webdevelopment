@@ -1,6 +1,18 @@
 ---
 title: Ist-Zustand
+aktueller-bearbeiter: Christian Noss
+bearbeiterhistorie: Christian Noss
+date: 14.02.2017
+comment: Schon gar nicht schlecht, ein paar Schlussfolgerungen, Anhänge und Belege fehlen (siehe Kommentare), Stärken fehlen und Referenz auf Studycheck.de
+status: Unvollständig
+reviewed-von:
 ---
+
+~~~
+cn: Präludium zur MI, Studycheck nicht vergessen
+~~~
+
+
 ## Erfüllung der Auflagen der Reakkreditierung 2010
 
 Der Technischen Hochschule Köln wurden im Rahmen der Reakkreditierung im März 2010 folgende Auflagen der Akkreditierungskommission mitgeteilt.
@@ -30,6 +42,7 @@ Diese Auflagen wurden von der Technischen Hochschule Köln folgendermaßen erfü
 
 
 ## Stärken und Schwächen Analyse
+
 
 ### Beurteilung des Studienerfolgs auf der Basis von Absolventenbefragungen und Verbleibstudien
 
@@ -114,7 +127,7 @@ Die bereits beschriebe, einmal im Semester durchgeführte, Medieninformatik Kont
 Das jährlich durchgeführte Medieninformatik-Filmfest dient zur Stärkung der Identität der Medieninformatik, zur besseren Vernetzung der Studierenden, insbesondere der Studienanfänger und zur Präsentation ausgewählter Arbeitsergebnisse. Das Event verbessert außerdem die Sichtbarkeit der Medieninformatik am Campus und in der Region.
 
 
-### Bewertung der statistischen Daten bezüglich der Auslastung, der Prüfungserfolge, der Abbrecherquoten und der Studienanfängerund Bewerberzahlen.
+### Bewertung der statistischen Daten bezüglich der Auslastung, der Prüfungserfolge, der Abbrecherquoten und der Studienanfänger- und Bewerberzahlen.
 
 Die folgenden Ausführungen beruhen auf der Datenerhebung zum 22.09.2016 für den Zeitraum Wintersemester 2011 bis Wintersemester 2015[^Anhang-Pruefungsstatistiken][^Anhang-fakultaetsstruktur] und fokussieren die derzeit eingeschriebenen Studenten, erfolgreiche Abschlüsse und Studienfachabbrecher.
 
@@ -140,11 +153,17 @@ Im Masterstudium wirkt die sich die, im Rahmen der Reakkreditierung weggefallene
 
 ### Rückschlüsse aus informellen Gesprächen und Kommentaren
 
-- vertiefende Kenntnisse von verschiedenen Programmierkonzepte
+>  … anstrengend und fordernd, aber macht viel Spaß … 
 
-~~~
-cn: TBD
-~~~
+Aus verschiedenen Einzel- und Gruppengesprächen im Team der Studiengangsbetreiber sowie mit Studierenden und Alumni, als auch aus Kommentaren aus Feedbackrunden und Online-Foren lassen sich eine Reihe von Stärken und Schwächen ableiten. 
+
+Der Studienaufbau des Bachelorstudiengangs wird überwiegend als positiv und gut durchdacht bewertet. Die Lehrveranstaltungen werden in Summe als gut organisiert und vorbereitet, interessant, aber auch als sehr sehr anspruchsvoll beschrieben. Der Umfang des Studiums wird zuweilen als "vom Umfang überwältigend" bezeichnet. Diese Einschätzung wird von Alumni jedoch dahingehend ergänzt, dass nach dem Einstieg ins Berufsleben die Wichtigkeit und Relevanz der einzelnen Module offenbar wurde und sie sich mit dem Studium sehr gut Beruf platzieren konnten und in bestimmten Berufszweigen sehr flexibel einsetzbar sind. Das Verhältnis der allgemeinen Informatik Anteile und der medieninformatik-spezifischen Module wird gut bewertet.
+
+Durchweg sehr positiv wird die gute und intensive Betreuung durch das Lehrpersonal beschrieben: "Die Dozenten sind super hilfreich …". Dies gilt auch für die vielen praktischen Projekte und Gruppenarbeiten. Auch die Offenheit für eigene Ideen und die Gruppengröße bei den Praxisanteilen wird sehr positiv bewertet. Das Mentoring-Programm wird ebenfalls als sehr hilfreich wahrgenommen.
+
+Auch sehr positiv wird die gute und moderne Ausstattung der Medieninformatik und der Bibliothek, als auch der recht ausgewogene Mengenverhältnis von Frauen und Männern bewertet.
+
+Defizitär
 
 ### Ableitungen aus den Bewertungen der zur Verfügung stehenden Daten und Evaluationen
 
@@ -275,14 +294,7 @@ Wir sehen uns hoffentlich auf dem WUD! Und viele Grüße an alle Dozenten und wi
 cn: Studycheck Ergebnisse mussten noch überprüft und zusammengefasst werden, ggf. insights von Julian noch verarbeiten
 ~~~
 
-~~~~~
-	Aktueller Bearbeiter: Christian Noss
-	Bearbeiterhistorie: Christian Noss
-	Date: 14.02.2017
-	Comment: Schon gar nicht schlecht, ein paar Schlussfolgerungen, Anhänge und Belege fehlen (siehe Kommentare), Stärken fehlen und Referenz auf Studycheck.de
-	Status: Unvollständig
-	Reviewed von: -
-~~~~~
+
 
 [^anhang-verbleib-und-studienabbruch]: <a href="../anhaenge/verbleib-und-studienabbruch.pdf">Statistik zum Verbleib- und Studienabbruch</a>
 [^anhang-hep-2020]: <a href="https://www.verwaltung.th-koeln.de/imperia/md/content/verwaltung/broschueren_leitfaeden/hochschulentwicklungsplan2020.pdf">Hochschulentwicklungsplan 2020</a>

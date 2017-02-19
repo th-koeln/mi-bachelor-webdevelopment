@@ -1,5 +1,12 @@
 ---
 title: Inhalte aus dem Antrag, die übrig geblieben sind
+zur-bearbeitung-freigegeben: ja
+aktueller-bearbeiter: 
+bearbeiterhistorie: 
+date: 10.02.2017
+comment: 
+status: unbearbeitet
+reviewed-von:
 ---
 
 1. Es kommt zu einer besseren Berücksichtigung der Lernaufwände der Studierenden in den einzelnen Modulen. Nach einer Überprüfung der Aufwände wurden in vielen Modulen bereits Anpassungen der Lehrformate, des Projektanteils und der Prüfungsformen vorgenommen. Die Anzahl der Veranstaltungen wird reduziert und die Fächer mit höherem Lernaufwand und höherem Schwierigkeitsgrad werden im Studienverlaufsplan neu angeordnet, um den Aufwand gleichmäßiger über das Studium zu verteilen.

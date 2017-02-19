@@ -1,5 +1,11 @@
 ---
 title: Transparenz und Dokumentation
+aktueller-bearbeiter: 
+bearbeiterhistorie: 
+date: 10.02.2017
+comment: 
+status: unbearbeitet
+reviewed-von:
 ---
 
 >Studiengang, Studienverlauf, Prüfungsanforderungen und Zugangsvoraussetzungen ein-schließlich der Nachteilsausgleichsregelungen für Studierende mit Behinderung sind dokumentiert und veröffentlicht.
