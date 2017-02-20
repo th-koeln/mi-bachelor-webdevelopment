@@ -1,8 +1,8 @@
 ---
 title: Soll-Zustand/ geplante Veränderungen
-aktueller-bearbeiter: Christian Noss
+aktueller-bearbeiter: 
 bearbeiterhistorie: Christian Noss
-date: 17.02.2017
+date: 20.02.2017
 comment: Grafiken fehlen, ansonsten ganz ok, PDP und Web-Archs fehlen, Schwerpunkt zusammensetzung ebenfalls
 status: Unvollständig
 reviewed-von:
