@@ -107,254 +107,295 @@ reviewed-von:
 ## Lehrende in der Medieninformatik
 
 ### Prof. Dr. Thomas Bartz-Beielstein
-- Forschungsschwerpunkt CIplus
-- Web: https://www.th-koeln.de/personen/thomas.bartz-beielstein/
+
+* Web: https://www.th-koeln.de/personen/thomas.bartz-beielstein/
+
+- Forschungsgebiete
+  -  CIplus
 - Lehrgebiete:
-	- Angewandte Mathematik Simulation und Optimierung 
-	- Computational Intelligence Evolutionäre Algorithmen
+  - Angewandte Mathematik Simulation und Optimierung 
+  - Computational Intelligence Evolutionäre Algorithmen
 
 
+### Bente, Stefan
 
-**Bente, Stefan**
+* Web: https://www.th-koeln.de/personen/stefan.bente/
 
-https://www.th-koeln.de/personen/stefan.bente/
 
-Lehrgebiete
+* Forschungsgebiete
+  * Softwarearchitektur
+  * Enterprise-Architektur-Management (EAM)
+* Lehrgebiete
+  * Softwaretechnik Softwarearchitektur
+  * Anforderungsmanagement
 
-- Softwaretechnik Softwarearchitektur
-- Anforderungsmanagement
+### Bertelsmeier, Birgit
 
+- Web: https://www.th-koeln.de/personen/birgit.bertelsmeier/
 
+* Forschungsgebiete
+  - Big Data von Datenbanksystemen über Auswertungstools bis hin zu ethischen Gesichtspunkten
+  - NoSQL von den Modellen bis hin zu den DB-Systemen und Analysetools
+  - Tuning von DBSen (RDBMS bis NoSQL) und deren (SQL-)Anfragen
+  - Datenschutz rechtliche wie auch (programm-)technische und ethische Aspekte
+* Lehrgebiete
+  * Datenbank- und Informationssysteme RDBMS bis NoSQL
 
-**Bertelsmeier, Birgit**
+### Böhmer, Matthias
 
-https://www.th-koeln.de/personen/birgit.bertelsmeier/
+* Web: https://www.th-koeln.de/personen/matthias.boehmer/
 
-Lehrgebiete
 
-- Datenbank- und Informationssysteme RDBMS bis NoSQL
+* Forschungsgebiete
+  * Ubiquitous Computing
+  * Context-aware Applications
+  * Distributed Interactive Systems
+  * Internet of Things
+  * Mobile Applications and Smartphone Usage
+* Lehrgebiete
+  * Mobile und Verteilte Architekturen
 
+### Eisemann, Martin
 
+- Web: https://www.th-koeln.de/personen/martin.eisemann/
 
-**Böhmer, Matthias**
+* Forschungsgebiete
+  * Photorealistische Computergrafik
+  * Bildbasierte Verfahren
+  * Visualisierung und Visual Analytics
+  * Bild- und Videoverarbeitung
 
-https://www.th-koeln.de/personen/matthias.boehmer/
 
-Lehrgebiete
+* Lehrgebiete
+  * Computergrafik Realistische und Interaktive Bildsynthese, Bildbasierte Computergraphik, Visual Analytics, Gaming Technologies
+  * Theoretische Informatik Grundlagenvorlesungen im Bachelor
 
-- Mobile und Verteilte Architekturen
+### Faeskorn-Woyke, Heide
 
+* Web: https://www.th-koeln.de/personen/heide.faeskorn-woyke/
 
 
-**Eisemann, Martin**
+* Forschungsgebiete
+  * Data Mining und Datenbankanwendungen im Big Data Umfeld
+* Lehrgebiete
+  * Datenbanken und Informationssysteme
 
-https://www.th-koeln.de/personen/martin.eisemann/
+### Fischer, Kristian
 
-Lehrgebiete
+* Web: https://www.th-koeln.de/personen/kristian.fischer/
 
-- Computergrafik Realistische und Interaktive Bildsynthese, Bildbasierte Computergraphik, Visual Analytics, Gaming Technologies
-- Theoretische Informatik Grundlagenvorlesungen im Bachelor
 
+* Forschungsgebiete
+  * Dienst orientierte Architekturen
+  * Semantische Modellierung digitaler Medien
 
 
-**Faeskorn-Woyke, Heide**
+* Lehrgebiete
+  * Web-basierte Anwendungen und verteilte Systeme
 
-https://www.th-koeln.de/personen/heide.faeskorn-woyke/
 
-Lehrgebiete
+### Giannakopoulos, Fotios
 
-- Datenbanken und Informationssysteme
+* Web: https://www.th-koeln.de/personen/fotios.giannakopoulos/
 
+- Forschungsgebiete
+  - **[hier fehlt noch Inhalt]**
+- Lehrgebiete
+  - **[hier fehlt noch Inhalt]**
 
+### Günther, Holger
 
-**Fischer, Kristian**
+* Web: https://www.th-koeln.de/personen/holger.guenther/
 
-https://www.th-koeln.de/personen/kristian.fischer/
 
-Lehrgebiete
+* Forschungsgebiete
+  - **[hier fehlt noch Inhalt]**
+* Lehrgebiete
+  * **[hier fehlt noch Inhalt]**
 
-- Web-basierte Anwendungen und verteilte Systeme
+### Hartmann, Gerhard
 
+* Web: https://www.th-koeln.de/personen/gerhard.hartmann/
 
 
-**Giannakopoulos, Fotios**
+* Forschungsgebiete
+  * **[hier fehlt noch Inhalt]**
+* Lehrgebiete
+  * Mensch-Computer Interaktion
+  * Entwicklungsprojekt interaktive Systeme
+  * Interaction Design
+  * Naturwissenschaftliche Grundlagen Digitaler Medien
+  * Research Methods in Human-Computer Interaction
+  * Design Methodologies
 
-https://www.th-koeln.de/personen/fotios.giannakopoulos/
+### Jochum, Friedbert
 
-Lehrgebiete
+* Web: https://www.th-koeln.de/personen/friedbert.jochum/
 
-- **[hier fehlt noch Inhalt]**
 
+* Forschungsgebiete
+  * Software-Architektur / Systemgestaltung
+  * Konstruktive Methoden
+  * Konzeptuelle Modellierung 
+  * Informatik und Semiotik
 
 
-**Günther, Holger**
+* Lehrgebiete
+  * Fachspezifischer Architekturentwurf
+  * Software-Architektur und Agile Methoden 
 
-https://www.th-koeln.de/personen/holger.guenther/
 
-Lehrgebiete
+### Karsch, Stefan
 
-- **[hier fehlt noch Inhalt]**
+* Web: https://www.th-koeln.de/personen/stefan.karsch/
+* Forschungsgebiete
+  * **[hier fehlt noch Inhalt]**
+* Lehrgebiete
+  * **[hier fehlt noch Inhalt]**
 
+### Klocke, Heinrich
 
+* Web: https://www.th-koeln.de/personen/heinrich.klocke/
+* Forschungsgebiete 
+  * Mensch-Computer-Interakton im Bereich SmartHome.
+* Lehrgebiete
+  * Mensch-Computer Interaktion Usability Engineering und kognitive Psychologie
+  * Algorithmik
+  * Künstliche Intelligenz Logische Agenten
 
-**Hartmann, Gerhard**
+### Knittel, Friedrich
 
-https://www.th-koeln.de/personen/gerhard.hartmann/
+* Web: https://www.th-koeln.de/personen/friedrich.knittel/
 
-Lehrgebiete
 
-- Mensch-Computer Interaktion
-- Entwicklungsprojekt interaktive Systeme
-- Interaction Design
-- Naturwissenschaftliche Grundlagen Digitaler Medien
-- Research Methods in Human-Computer Interaction
-- Design Methodologies
+* Forschungsgebiete
+  * **[hier fehlt noch Inhalt]**
+* Lehrgebiete
+  * **[hier fehlt noch Inhalt]**
 
+### Koch, Heribert
 
+* Web: https://www.th-koeln.de/personen/heribert.koch/
+* Forschungsgebiete
+  - **[hier fehlt noch Inhalt]**
+* Lehrgebiete
+  * **[hier fehlt noch Inhalt]**
 
-**Jochum, Friedbert**
+### Köhler, Lutz
 
-https://www.th-koeln.de/personen/friedbert.jochum/
+* Forschungsgebiete
+  * **[hier fehlt noch Inhalt]**
 
-Lehrgebiete
 
-- **[hier fehlt noch Inhalt]**
+* Web: https://www.th-koeln.de/personen/lutz.koehler/
 
 
+* Lehrgebiete
+  * **[hier fehlt noch Inhalt]**
 
-**Karsch, Stefan**
 
-https://www.th-koeln.de/personen/stefan.karsch/
+### Kohls, Christian
 
-Lehrgebiete
+* Web: https://www.th-koeln.de/personen/christian.kohls/
 
-- **[hier fehlt noch Inhalt]**
 
+* Forschungsgebiete
+  * **[hier fehlt noch Inhalt]**
+* Lehrgebiete
+  * **[hier fehlt noch Inhalt]**
 
+#### Konen, Wolfgang
 
-**Klocke, Heinrich**
+* Web: https://www.th-koeln.de/personen/wolfgang.konen/
 
-https://www.th-koeln.de/personen/heinrich.klocke/
+- Forschungsgebiete
+  - Computational Intelligence & Data Mining
+  - Bild- und Signalverarbeitung
+  - Optimierung, Simulation, Spieltheorie
 
-Lehrgebiete
+* Lehrgebiete
+  * Mathematik
+  * Data Mining
 
-- Mensch-Computer Interaktion Usability Engineering und kognitive Psychologie
-- Algorithmik
-- Künstliche Intelligenz Logische Agenten
 
+### Kornacher, Hans Hermann
 
+* Forschungsgebiete
+  * **[hier fehlt noch Inhalt]**
 
-**Knittel, Friedrich**
 
-https://www.th-koeln.de/personen/friedrich.knittel/
+* Web: https://www.th-koeln.de/personen/hans.kornacher/
 
-Lehrgebiete
 
-- **[hier fehlt noch Inhalt]**
+* Lehrgebiete
+  * Medientechnik und -produktion
+  * Digitale Animation und Visual Effects in der Film- und Fernsehproduktion
 
 
+### Naujoks, Boris
 
-**Koch, Heribert**
+* Web: https://www.th-koeln.de/personen/boris.naujoks/
 
-https://www.th-koeln.de/personen/heribert.koch/
 
-Lehrgebiete
+* Forschungsgebiete
+  - Computational Intelligence, Evolutionäre Algorithmen, Mehrkriterielle Optimierung
 
-- **[hier fehlt noch Inhalt]**
 
+* Lehrgebiete
+  * Angewandte Mathematik Grundlagenveranstaltungen Informatik und Ingenieure
 
+### Noss, Christian
 
-**Köhler, Lutz**
+* Forschungsgebiete
+  * **[hier fehlt noch Inhalt]**
+* Web: https://www.th-koeln.de/personen/christian.noss/
+* Lehrgebiete
+  * Kommunikationsdesign
+  * Web-basierte Anwendungen
 
-https://www.th-koeln.de/personen/lutz.koehler/
+### Stahl, Hans Ludwig
 
-Lehrgebiete
+* Forschungsgebiete
+  * Netze: Technik, Konzeption, Betrieb, Management, Sicherheit
+  * Outsourcing, ASP, CRM: Konzeption, Betrieb, SLAs, Management, Konzernstrategien
+  * Service Level Monitoring und ITIL-konforme IT-Prozesse bzw. Unterstützung von eTOM
+  * Open Systems: Betrieb, Management, Konsolidierung, Konzernstrategien
+  * Mobile IT / Mobilkommunikation: Technik, Management, Sicherheit, Anwendungen
+  * IT Security Management
+  * IT Risk Management
+  * IT- und Web-Trust-Management
+* Web: https://www.th-koeln.de/personen/hans.stahl/
+* Lehrgebiete
+  * Theoretische Informatik und Technische Informatik
+  * Kommunikationstechnik und Netze
+  * Mobile IT Security
+  * IT Compliance and Risk Management Informatik
 
-- **[hier fehlt noch Inhalt]**
+### Victor, Frank
 
+* Web: https://www.th-koeln.de/personen/frank.victor/
 
 
-**Kohls, Christian**
+* Lehrgebiete
+  * Algorithmen und Programmierung
+  * Enterprise Architecture Management
+  * Betriebliche Anwendungssysteme
+  * IT Consulting 
+  * IT Consulting und Management
 
-https://www.th-koeln.de/personen/christian.kohls/
+### Westenberger, Hartmut
 
-Lehrgebiete
+* Forschungsgebiete
+  - Industrialisierung von Data Warehousing und Business Intelligence Framework und Wissenskomponenten für die Beratung und Entwicklung von DWH/BI
+* Web: https://www.th-koeln.de/personen/hartmut.westenberger/
+* Lehrgebiete
+  * Informatik Betriebliche Anwendungssysteme
 
-- **[hier fehlt noch Inhalt]**
+### Winter, Mario
 
-
-
-**Konen, Wolfgang**
-
-https://www.th-koeln.de/personen/wolfgang.konen/
-
-Lehrgebiete
-
-- Mathematik
-- Data Mining
-
-
-
-**Kornacher, Hans Hermann**
-
-https://www.th-koeln.de/personen/hans.kornacher/
-
-Lehrgebiete
-
-- Medientechnik und -produktion
-- Digitale Animation und Visual Effects in der Film- und Fernsehproduktion
-
-
-
-**Naujoks, Boris**
-
-https://www.th-koeln.de/personen/boris.naujoks/
-
-Lehrgebiete
-
-- Angewandte Mathematik Grundlagenveranstaltungen Informatik und Ingenieure
-
-**Noss, Christian**
-
-https://www.th-koeln.de/personen/christian.noss/
-
-Lehrgebiete
-
-- Kommunikationsdesign
-- Web-basierte Anwendungen
-
-**Stahl, Hans Ludwig**
-
-https://www.th-koeln.de/personen/hans.stahl/
-
-Lehrgebiete
-
-- Theoretische Informatik und Technische Informatik
-- Kommunikationstechnik und Netze
-- Mobile IT Security
-- IT Compliance and Risk Management Informatik
-
-**Victor, Frank**
-
-https://www.th-koeln.de/personen/frank.victor/
-
-Lehrgebiete
-
-- **[hier fehlt noch Inhalt]**
-
-**Westenberger, Hartmut**
-
-https://www.th-koeln.de/personen/hartmut.westenberger/
-
-Lehrgebiete
-
-- Informatik Betriebliche Anwendungssysteme
-
-**Winter, Mario**
-
-https://www.th-koeln.de/personen/mario.winter/
-
-Lehrgebiete
-
-- Softwareentwicklung und Projektmanagement in Medienprojekten 
-- Modellbasierte Entwicklungsmethoden und Qualitätssicherung
+* Web: https://www.th-koeln.de/personen/mario.winter/
+* Forschungsgebiete
+  - **[hier fehlt noch Inhalt]**
+* Lehrgebiete
+  * Softwareentwicklung und Projektmanagement in Medienprojekten 
+  * Modellbasierte Entwicklungsmethoden und Qualitätssicherung
