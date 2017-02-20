@@ -108,7 +108,7 @@ reviewed-von:
 
 ### Prof. Dr. Thomas Bartz-Beielstein
 - Forschungsschwerpunkt CIplus
-- Web: https://www.th-koeln.de/personen/thomas.bartz-beielstein/
+- Web: [https://www.th-koeln.de/personen/thomas.bartz-beielstein/]
 - Lehrgebiete:
 	- Angewandte Mathematik Simulation und Optimierung 
 	- Computational Intelligence Evolutionäre Algorithmen
