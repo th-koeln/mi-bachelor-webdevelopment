@@ -16,7 +16,8 @@ layout: default
  	   {% assign last_chapter = subpath %}
  	{% endif %}
 {% endfor %}
-	
+
+
 <section class="section">
 	<div class="container">
 	    <h1 class="title is-1">Selbstbericht</h1>
@@ -30,8 +31,9 @@ layout: default
 		<div class="toc">
 			<ol class="menu-list">
 			{% for chapter in chapters %}
+				
 				{% assign subchapters = "" | split: "," %}
-				{% for doc in site.selbstbericht %}
+				{% for doc in docs %}
 					{% if doc.path contains chapter %}
 						{% assign subchapters = subchapters | push: doc %}
 					{% endif %}
@@ -54,7 +56,7 @@ layout: default
 <div id="selbstbericht">	
 	{% for chapter in chapters %}
 		{% assign subchapters = "" | split: "," %}
-		{% for doc in site.selbstbericht %}
+		{% for doc in docs %}
 			{% if doc.path contains chapter %}
 				{% assign subchapters = subchapters | push: doc %}
 			{% endif %}

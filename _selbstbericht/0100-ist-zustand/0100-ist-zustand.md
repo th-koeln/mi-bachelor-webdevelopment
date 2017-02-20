@@ -1,17 +1,16 @@
 ---
 title: Ist-Zustand
-aktueller-bearbeiter: Christian Noss
+aktueller-bearbeiter:
 bearbeiterhistorie: Christian Noss
 date: 14.02.2017
-comment: Schon gar nicht schlecht, ein paar Schlussfolgerungen, Anhänge und Belege fehlen (siehe Kommentare), Stärken fehlen und Referenz auf Studycheck.de
+comment: Schon gar nicht schlecht, ein paar Schlussfolgerungen, Anhänge und Belege fehlen (siehe Kommentare)
 status: Unvollständig
 reviewed-von:
 ---
 
-~~~
-cn: Präludium zur MI, Studycheck nicht vergessen
-~~~
+Mit den Medieninformatik Studiengänge bietet die Fakultät für Informatik und Ingenieurwissenschaften der TH Köln seit dem Jahr 2000 ein wissenschaftlich fundiertes und praxisorientiertes Informatik-Studienprogramm mit dem Schwerpunkt Medien an. Fachlich und strukturell ist der Bachelor Studiengang und der konsekutive Masterstudiengang auf die Analyse, Konzeption, Realisierung und Adaption von, oft web-basierten Prozessen und Systemen zur Produktion, Bearbeitung und Distribution medienbasierter Informationen sowie interaktiver Systeme ausgerichtet. Den Kern bildet ein Informatikstudium. Hinzu kommt die Vermittlung umfassender, vielschichtiger analytischer wie konstruktiver Medienkompetenzen sowie ökonomischer, technischer und gesellschaftlicher Grundkenntnisse. Darüber hinaus werden zeitgemäße Toolchains, Kollaborations- und Entwicklungsmethoden vermittelt und überwiegend projektorientiert eingeübt.
 
+Die Studiengänge, vor allem der Bachelor, erfreuen sich extrem großer Nachfrage, sowohl von Studierenden als auch von Unternehmen. Beim unabhängigen Bewertungsportal "Studycheck.de" [^Link-studycheckde] wird die Medieninformatik am Campus Gummersbach unter den TOP 5 Studiengängen in diesem Segment gelistet [^Anhang-Snapshot-Bewertungen-von-studycheckde].
 
 ## Erfüllung der Auflagen der Reakkreditierung 2010
 
@@ -50,6 +49,7 @@ Die folgenden Ausführungen beruhen auf der Datenerhebung[^anhang-verbleib-und-s
 
 ~~~
 cn: Tabelle zeigt nur Zahlen bis 2013. Haben wir da was besseres?
+@Volker: da müsstest Du bitte noch mal eine Tabelle draus machen. Sprechen wir Mittwoch drüber. 
 ~~~
 
 {% include image.html url="tabellen/MI-BA-anzahl-studierende.svg" caption="Tabelle: Daten des Bachelorstudiengangs Medieninformatik" %}
@@ -90,13 +90,23 @@ Dieser Prozess ist zeitaufwändig und wird von den meisten Studierenden untersch
 
 Hier kann auf Erstsemesterbefragungen und regelmäßig semesterweise durchgeführte Evaluationen der Lehrveranstaltungen verwiesen werden. Die Auswertung der Evaluationen erfolgt zentral durch die Hochschulverwaltung; ein integriertes Qualitätsmanagement nach DIN/ISO 9001 ist an der Fakultät 10 etabliert. In den Ergebnissen[^evaluationen-f10] zeigt sich grundsätzlich bei den Bachelorstudierenden ein etwas geringeres Zufriedenheitsmaß als bei den Masterstudierenden. Dies lässt sich mit Verweis auf die allgemein hohen Abbruchquoten in grundständigen Informatikstudiengängen ggf. so interpretieren, dass die Unzufriedenheit nicht allein durch die Studienangebotsseite verursacht ist. Dennoch lassen sich deutliche Verbesserungspotentiale identifizieren, etwa bzgl. der Einführung neuer Lehr-Lernformate, Koordination der Praktika, Bereitstellung von studentischen Arbeitsräumen, Gastvorträgen, Exkursionen und Workshops.
 
-Der 2013 zu verzeichnende Rückgang der Zufriedenheit bzgl. des Lehrangebotes im Master lässt sich nach unseren Analysen und Gesprächen mit Studierenden u.A. als Auswirkung des ersten, im Informatik-Master durchgeführten Projekt-Semesters interpretieren. Die dort durchgeführten „Guided Projects“ zeigen einen starken Praxisbezug und eine klare, mit den Methoden des (oft agilen) Projektmanagements gestaltete Ablaufstruktur. 
-
-~~~
-cn: hier fehlt noch die explizite Schlussfolgerung
-~~~
+Der 2013 zu verzeichnende Rückgang der Zufriedenheit bzgl. des Lehrangebotes im Master lässt sich nach unseren Analysen und Gesprächen mit Studierenden u.A. als Auswirkung des ersten, im Informatik-Master durchgeführten Projekt-Semesters interpretieren. Die dort durchgeführten „Guided Projects“ zeigen einen starken Praxisbezug und eine klare, mit den Methoden des (oft agilen) Projektmanagements gestaltete Ablaufstruktur. Diese auf den Arbeitsmarkt ausgerichtete Herangehensweise wird auch von vielen Studierenden im Medieninformatik Master gewünscht.
 
 Die Unzufriedenheit bei der Bewertung der Studien- und Prüfungsorganisation in der Fakultät lässt sich auf punktuelle Ausfälle des "Prüfungs- und Studierendenservice Online" (PSSO) und teilweise nicht optimal im Internet kommunizierte Prüfungsinformationen zurückführen. Erfreulich ist die weiterhin große Gesamtzufriedenheit der Studierenden im Medieninformatik Master.
+
+### Begleitende Betreuung während des Studiums
+
+#### MentoRing Programm des Campus Gummersbach
+
+Mit Beginn des Wintersemesters 11/12 wurde das mehrstufige MentoRing4Excellence© an der Fakultät für Informatik und Ingenieurwissenschaften der TH Köln eingeführt. Das Mentoringprogramm spannt ein Netzwerk zwischen Studienanfängern, erfahrenen Studierenden und externen Führungskräften. Es beinhaltet die Unterprogramme MentoRing4Beginners© und MentoRing4LeadershipDevelopment©. MentoRing4Beginners© bietet den Erstsemestern am Campus Gummersbach Orientierung und Hilfestellung bei ihrem Studienstart. Erfahrene Studierende stehen den „Neuen“ als Mentoren/innen zur Seite, damit diese besser in den Studienalltag hineinfinden und schneller Kontakte knüpfen können. Sie sind während des ersten Semesters Begleitung und Ansprechpartner in allen Fragen rund ums Studium, z. B. in Bezug auf die Studienorganisation, die Studienlaufbahnplanung, Lerntechniken, Prüfungsvorbereitung und Projekte. Ab dem zweiten Semester stehen sie den Studierenden campusweit und semesterübergreifend als Tutoren für wissenschaftliches Arbeiten zur Verfügung. Dafür werden die Mentoren intensiv geschult. In einem mehrstufigen Verfahren werden 15 erfolgreiche Studierende der Informatik und Ingenieurwissenschaften mit ausgeprägter Sozialkompetenz als Mentoren/innen ausgewählt und in einem viertägigen Intensivtraining auf ihre Aufgabe vorbereitet. Während des Semesters erhalten sie laufende Supervision.
+
+Für Studienanfänger und Mentoren bedeutet das Mentoring ein Gewinn. Die Studienanfänger finden leichter ins Studium und schneller Kontakte. Die Mentoren erhalten neue Impulse für den eigenen Studienkontext und entwickeln/stärken die eigene Kommunikations- und Beratungskompetenz. Das Mentoringprogramm wird evaluiert.
+
+Besonders engagierte, leistungs- und kommunikationsbereite Studierende, die sich als Mentoren bewährt haben, können sich für das „Leadership Development Program“ bewerben. Im Rahmen dieses studienbegleitenden Qualifizierungsprogramms werden den Studierenden externe Führungskräfte als Mentoren zur Seite gestellt, so dass sie in Gesprächen, in Projektmitarbeit und durch Einbindung in berufsrelevante Netzwerke von deren langjähriger Berufs- und Lebenserfahrung profitieren können. Das Programm beginnt mit einer individuellen Potenzialanalyse und umfasst mehrere Trainingseinheiten zur Entwicklung relevanter Führungsfähigkeiten.
+
+#### Medieninformatik Mentor
+
+Ergänzend zum MentoRing Programm, dass sich an alle Studienanfänger des Campus Gummersbach richtet, wurde in der Medieninformatik mit der letzten Reakkreditierung die Stelle des Medieninformatik Mentor geschaffen. Diese wird mit erfahrenen wissenschaftlichen Mitarbeitern/innen besetzt, die selbst zumindest den Bachelorstudiengang Medieninformatik am Campus Gummersbach absolviert haben. Der Medieninformatik Mentor fungiert als institutionelles Bindeglied zwischen Studierenden und Lehrenden und ist bei Problemen und Fragen rund um das Studium Ansprechpartner für die Studierenden, aber auch für Lehrende. Mit Hilfe dieser Stelle werden auch wiederkehrende Probleme sichtbar und können seitens der Studiengangsbetreiber behoben, verbessert oder zumindest thematisiert werden.
 
 ### Außercurriculare Maßnahmen
 
@@ -105,10 +115,6 @@ Mehrere gebündelte und ständig weiter entwickelte außercurriculare Maßnahmen
 #### Showcase 
 
 Das jährlich durchgeführte Medieninformatik-Showcase dient zur Stärkung der Identität der Medieninformatik, zur besseren Vernetzung von Studierenden sowohl zwischen Master- und Bachelorstudierenden als auch über die Studiensemester, zum Ausblick auf die Praxis durch externe Sprecher (oft Alumni), sowie als strukturierte Feedbackmöglichkeit. Das Event verbessert außerdem die Sichtbarkeit der Medieninformatik am Campus und in der Region.
-
-#### Medieninformatik Mentor
-
-Der neu eingeführte Medieninformatik Mentor, welcher mit erfahrenen wissenschaftlichen Mitarbeiterinnen oder Mitarbeitern besetzt wird, die selbst zumindest den Bachelorstudiengang Medieninformatik am Campus Gummersbach absolviert haben, um mit den Studierenden Probleme im und um das Studium zu besprechen und als institutionelles Bindeglied zwischen Studierenden und Lehrenden fungiert.
 
 #### Social Media Angebote
 
@@ -303,4 +309,5 @@ cn: Studycheck Ergebnisse mussten noch überprüft und zusammengefasst werden, g
 [^Anhang-INCHER-Studie]: <a href="../anhaenge/INCHER-Studie.pdf">INCHER-Studie 2014</a>
 [^evaluationen-f10]: <a href="../anhaenge/evaluationen-f10.pdf">Studentische Evaluationen Medieninformatik</a>
 [^Anhang-Curriculumsanalye]: fehlt
-[^Anhang-Snapshot-Bewertungen-von-studychek.de]: <a href="../anhaenge/snapshot_2017_02_17_bewertungen_studiengang_medieninformatik_auf_studycheck_._de">Snapshot Bewertungen von studycheck.de</a>
+[^Anhang-Snapshot-Bewertungen-von-studycheckde]: <a href="../anhaenge/snapshot_2017_02_17_bewertungen_studiengang_medieninformatik_auf_studycheck_._de">Snapshot Bewertungen von studycheck.de</a>
+[^Link-studycheckde]: <a href="http://studycheck.de">http://studycheck.de</a>
