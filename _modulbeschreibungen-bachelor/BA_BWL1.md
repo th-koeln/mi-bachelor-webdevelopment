@@ -1,6 +1,6 @@
 ---
 title: BWL I - Grundlagen
-modulverantwortlich: pb
+modulverantwortlich: moe
 modulniveau:
 kuerzel: BWL1
 untertitel:
@@ -24,7 +24,7 @@ Vorlesung: 30 Stunden
 Selbstlernphase: 60 Stunden
 
 ## Angestrebte Lernergebnisse:
-Die Studierenden können und verstehen die wichtigsten Entscheidungsbereiche wirtschaftlichen Handeln indem Sie grundlegenden Entscheidungen im Rahmen einer Unternehmensgründung, die Aufgaben der Unternehmensführung wie die Konzeption einer tragfähigen Strategie, und die Aufgaben der Teilbereiche Produktion, Absatz und Marketing sowie Investition und Finanzierung beschreiben können und können Investitionsentscheidungen informationsgestützt treffen indem Sie die Kalkulationsverfahren der Investitionsrechnung anwenden und auswerten um für weitere BWL-Veranstaltungen Ihres Studiums vorbereitet zu sein und in ihrem Berufsleben wirtschaftliche Konzepte im Unternehmenskontext anzuwenden.
+Die Studierenden verstehen die wichtigsten Entscheidungsbereiche wirtschaftlichen Handeln und können diese anwenden. Sie können grundlegenden Entscheidungen im Rahmen einer Unternehmensgründung, die Aufgaben der Unternehmensführung wie die Konzeption einer tragfähigen Strategie, und die Aufgaben der Teilbereiche Produktion, Absatz und Marketing sowie Investition und Finanzierung beschreiben und beurteilen. Investitionsentscheidungen können die Studierenden informationsgestützt treffen indem Sie die Kalkulationsverfahren der Investitionsrechnung anwenden und auswerten. Die Veranstaltung bereitet die Studierenden für weitere BWL-Veranstaltungen Ihres Studiums, sowie darauf in ihrem Berufsleben wirtschaftliche Konzepte im Unternehmenskontext anzuwenden vor.
 
 ## Inhalt:
 1.Grundlagen
@@ -42,11 +42,10 @@ Die Studierenden können und verstehen die wichtigsten Entscheidungsbereiche wir
 7.Absatz und Marketing
 
 ## Studien-/Prüfungsleistungen:
-Benotete schriftliche Klausur (ca. 60% Multiple Choice, 40% Berechnungen und Interpretationen)
+Benotete schriftliche Klausur
 
 ## Medienformen:
 
 
 ## Literatur:
-Wöhe (2013): Einführung in die Allgemeine Betriebswirtschaftslehre, 25. Auflage (Auszüge)
-
+Literatur: Wöhe (2016): Einführung in die Allgemeine Betriebswirtschaftslehre, 26. Aufl.
