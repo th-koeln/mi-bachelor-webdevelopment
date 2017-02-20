@@ -39,6 +39,43 @@ Diese Auflagen wurden von der Technischen Hochschule Köln folgendermaßen erfü
   - Sollte die Prüfungsform, bspw. wegen aktueller didaktischer Erwägungen, von der im Modulhandbuch bekannt gemachten Form abweichen, so ist diese durch den Dozenten dem Prüfungsamt rechtzeitig mitzuteilen, welches über die Änderung dann per Aushang fristgerecht informiert. § 14 der Prüfungsordnung für den Masterstudiengang Medieninformatik wurde dementsprechend neu gefasst.
 - zu 2: Die Prüfungsordnungen vom 7. Januar 2011, in denen alle Auflagen erfüllt sind, wurden vom Fakultätsrat der Fakultät für Informatik und Ingenieurwissenschaften am 10.11.2010 bzw. 6.1.2011 beschlossen und vom Präsidenten der Fachhochschule Köln am 7.1.2011 genehmigt. Sie liegen der ASIIN vor.
 
+### Begleitende Betreuung während des Studiums
+
+#### MentoRing Programm des Campus Gummersbach
+
+Mit Beginn des Wintersemesters 11/12 wurde das mehrstufige MentoRing4Excellence© an der Fakultät für Informatik und Ingenieurwissenschaften der TH Köln eingeführt. Das Mentoringprogramm spannt ein Netzwerk zwischen Studienanfängern, erfahrenen Studierenden und externen Führungskräften. Es beinhaltet die Unterprogramme MentoRing4Beginners© und MentoRing4LeadershipDevelopment©. MentoRing4Beginners© bietet den Erstsemestern am Campus Gummersbach Orientierung und Hilfestellung bei ihrem Studienstart. Erfahrene Studierende stehen den „Neuen“ als Mentoren/innen zur Seite, damit diese besser in den Studienalltag hineinfinden und schneller Kontakte knüpfen können. Sie sind während des ersten Semesters Begleitung und Ansprechpartner in allen Fragen rund ums Studium, z. B. in Bezug auf die Studienorganisation, die Studienlaufbahnplanung, Lerntechniken, Prüfungsvorbereitung und Projekte. Ab dem zweiten Semester stehen sie den Studierenden campusweit und semesterübergreifend als Tutoren für wissenschaftliches Arbeiten zur Verfügung. Dafür werden die Mentoren intensiv geschult. In einem mehrstufigen Verfahren werden 15 erfolgreiche Studierende der Informatik und Ingenieurwissenschaften mit ausgeprägter Sozialkompetenz als Mentoren/innen ausgewählt und in einem viertägigen Intensivtraining auf ihre Aufgabe vorbereitet. Während des Semesters erhalten sie laufende Supervision.
+
+Für Studienanfänger und Mentoren bedeutet das Mentoring ein Gewinn. Die Studienanfänger finden leichter ins Studium und schneller Kontakte. Die Mentoren erhalten neue Impulse für den eigenen Studienkontext und entwickeln/stärken die eigene Kommunikations- und Beratungskompetenz. Das Mentoringprogramm wird evaluiert.
+
+Besonders engagierte, leistungs- und kommunikationsbereite Studierende, die sich als Mentoren bewährt haben, können sich für das „Leadership Development Program“ bewerben. Im Rahmen dieses studienbegleitenden Qualifizierungsprogramms werden den Studierenden externe Führungskräfte als Mentoren zur Seite gestellt, so dass sie in Gesprächen, in Projektmitarbeit und durch Einbindung in berufsrelevante Netzwerke von deren langjähriger Berufs- und Lebenserfahrung profitieren können. Das Programm beginnt mit einer individuellen Potenzialanalyse und umfasst mehrere Trainingseinheiten zur Entwicklung relevanter Führungsfähigkeiten.
+
+#### Medieninformatik Mentor
+
+Ergänzend zum MentoRing Programm, dass sich an alle Studienanfänger des Campus Gummersbach richtet, wurde in der Medieninformatik mit der letzten Reakkreditierung die Stelle des Medieninformatik Mentor geschaffen. Diese wird mit erfahrenen wissenschaftlichen Mitarbeitern/innen besetzt, die selbst zumindest den Bachelorstudiengang Medieninformatik am Campus Gummersbach absolviert haben. Der Medieninformatik Mentor fungiert als institutionelles Bindeglied zwischen Studierenden und Lehrenden und ist bei Problemen und Fragen rund um das Studium Ansprechpartner für die Studierenden, aber auch für Lehrende. Mit Hilfe dieser Stelle werden auch wiederkehrende Probleme sichtbar und können seitens der Studiengangsbetreiber behoben, verbessert oder zumindest thematisiert werden.
+
+### Außercurriculare Maßnahmen
+
+Mehrere gebündelte und ständig weiter entwickelte außercurriculare Maßnahmen tragen, insbesondere vor dem Hintergrund der stark ansteigenden Studierendenzahlen, zur weiteren Verbesserung der Studienqualität bei.
+
+#### Showcase 
+
+Das jährlich durchgeführte Medieninformatik-Showcase dient zur Stärkung der Identität der Medieninformatik, zur besseren Vernetzung von Studierenden sowohl zwischen Master- und Bachelorstudierenden als auch über die Studiensemester, zum Ausblick auf die Praxis durch externe Sprecher (oft Alumni), sowie als strukturierte Feedbackmöglichkeit. Das Event verbessert außerdem die Sichtbarkeit der Medieninformatik am Campus und in der Region.
+
+#### Social Media Angebote
+
+Die von der Medieninformatik eingerichteten und administrierten Social Media Angebote in YouTube, Facebook- und Twitter erreichen regelmäßig etwa 1000 Abonnenten, sprich: Studierende, Interessierte und Alumni. Sie bieten eine gute Gelegenheit um im Gespräch zu bleiben, Themen und Arbeitsergebnisse zu platzieren, sowie Studienanfänger, Jobs und Projekte zu akquirieren oder anzubieten.
+
+#### Wettbewerb "Die besten Projekte"
+
+Der jährlich vom Labor für Medieninformatik durchgeführte Wettbewerb "Die besten Projekte", welcher einerseits gute und sehr gute Ergebnisse aus dem Bachelor- und dem Masterstudiengang herausstellt, andererseits in der gemeinsamen Abschlusspräsentation zur Vernetzung zwischen den Studierenden des Bachelor- und des Masterstudiengangs beiträgt, und letztendlich den projektorientierten Ansatz in der Medieninformatik nachhaltig sichtbar macht.
+
+#### Medieninformatik Kontaktbörse
+
+Die bereits beschriebe, einmal im Semester durchgeführte, Medieninformatik Kontaktbörse dient zur Erleichterung des Übergangs in das Abschlusssemester, zur Herstellung von Kontakten zu potentiellen Kooperationspartnern, und zum Geben von Ideen und Inspiration zu Themen für die Abschlussarbeit.
+
+#### Medieninformatik-Filmfest
+
+Das jährlich durchgeführte Medieninformatik-Filmfest dient zur Stärkung der Identität der Medieninformatik, zur besseren Vernetzung der Studierenden, insbesondere der Studienanfänger und zur Präsentation ausgewählter Arbeitsergebnisse. Das Event verbessert außerdem die Sichtbarkeit der Medieninformatik am Campus und in der Region.
 
 ## Stärken und Schwächen Analyse
 
@@ -86,52 +123,13 @@ Bei den Vorbereitungen zum Praxisprojekt, das in der Regel im selben Themenfeld 
 
 Dieser Prozess ist zeitaufwändig und wird von den meisten Studierenden unterschätzt und daher häufig zu spät begonnen. Um diesem Problem entgegen zu wirken wird in der Medieninformatik seit drei Jahren am Ende des fünften Semesterseine Kontaktbörse durchgeführt. Auf dieser Veranstaltung werden den künftigen Absolventen die Regularien, Abläufe und Herausforderungen des Abschlusssemesters erläutert. Darüber hinaus stellen ausgewählte Unternehmen und Organisationen potenzielle Themen und Problemfelder für Praxisprojekt und Bachelorarbeit vor. Auch die Professoren der Informatik haben hier die Möglichkeit ihre Themen und Forschungsfelder als Ansatzpunkt für mögliche, forschungsnahe Praxisprojekte und Abschlussarbeiten vorzustellen.
 
-### Bewertung von Ergebnissen der Evaluation
+### Bewertung von Ergebnissen aus Evaluationen
 
 Hier kann auf Erstsemesterbefragungen und regelmäßig semesterweise durchgeführte Evaluationen der Lehrveranstaltungen verwiesen werden. Die Auswertung der Evaluationen erfolgt zentral durch die Hochschulverwaltung; ein integriertes Qualitätsmanagement nach DIN/ISO 9001 ist an der Fakultät 10 etabliert. In den Ergebnissen[^evaluationen-f10] zeigt sich grundsätzlich bei den Bachelorstudierenden ein etwas geringeres Zufriedenheitsmaß als bei den Masterstudierenden. Dies lässt sich mit Verweis auf die allgemein hohen Abbruchquoten in grundständigen Informatikstudiengängen ggf. so interpretieren, dass die Unzufriedenheit nicht allein durch die Studienangebotsseite verursacht ist. Dennoch lassen sich deutliche Verbesserungspotentiale identifizieren, etwa bzgl. der Einführung neuer Lehr-Lernformate, Koordination der Praktika, Bereitstellung von studentischen Arbeitsräumen, Gastvorträgen, Exkursionen und Workshops.
 
 Der 2013 zu verzeichnende Rückgang der Zufriedenheit bzgl. des Lehrangebotes im Master lässt sich nach unseren Analysen und Gesprächen mit Studierenden u.A. als Auswirkung des ersten, im Informatik-Master durchgeführten Projekt-Semesters interpretieren. Die dort durchgeführten „Guided Projects“ zeigen einen starken Praxisbezug und eine klare, mit den Methoden des (oft agilen) Projektmanagements gestaltete Ablaufstruktur. Diese auf den Arbeitsmarkt ausgerichtete Herangehensweise wird auch von vielen Studierenden im Medieninformatik Master gewünscht.
 
 Die Unzufriedenheit bei der Bewertung der Studien- und Prüfungsorganisation in der Fakultät lässt sich auf punktuelle Ausfälle des "Prüfungs- und Studierendenservice Online" (PSSO) und teilweise nicht optimal im Internet kommunizierte Prüfungsinformationen zurückführen. Erfreulich ist die weiterhin große Gesamtzufriedenheit der Studierenden im Medieninformatik Master.
-
-### Begleitende Betreuung während des Studiums
-
-#### MentoRing Programm des Campus Gummersbach
-
-Mit Beginn des Wintersemesters 11/12 wurde das mehrstufige MentoRing4Excellence© an der Fakultät für Informatik und Ingenieurwissenschaften der TH Köln eingeführt. Das Mentoringprogramm spannt ein Netzwerk zwischen Studienanfängern, erfahrenen Studierenden und externen Führungskräften. Es beinhaltet die Unterprogramme MentoRing4Beginners© und MentoRing4LeadershipDevelopment©. MentoRing4Beginners© bietet den Erstsemestern am Campus Gummersbach Orientierung und Hilfestellung bei ihrem Studienstart. Erfahrene Studierende stehen den „Neuen“ als Mentoren/innen zur Seite, damit diese besser in den Studienalltag hineinfinden und schneller Kontakte knüpfen können. Sie sind während des ersten Semesters Begleitung und Ansprechpartner in allen Fragen rund ums Studium, z. B. in Bezug auf die Studienorganisation, die Studienlaufbahnplanung, Lerntechniken, Prüfungsvorbereitung und Projekte. Ab dem zweiten Semester stehen sie den Studierenden campusweit und semesterübergreifend als Tutoren für wissenschaftliches Arbeiten zur Verfügung. Dafür werden die Mentoren intensiv geschult. In einem mehrstufigen Verfahren werden 15 erfolgreiche Studierende der Informatik und Ingenieurwissenschaften mit ausgeprägter Sozialkompetenz als Mentoren/innen ausgewählt und in einem viertägigen Intensivtraining auf ihre Aufgabe vorbereitet. Während des Semesters erhalten sie laufende Supervision.
-
-Für Studienanfänger und Mentoren bedeutet das Mentoring ein Gewinn. Die Studienanfänger finden leichter ins Studium und schneller Kontakte. Die Mentoren erhalten neue Impulse für den eigenen Studienkontext und entwickeln/stärken die eigene Kommunikations- und Beratungskompetenz. Das Mentoringprogramm wird evaluiert.
-
-Besonders engagierte, leistungs- und kommunikationsbereite Studierende, die sich als Mentoren bewährt haben, können sich für das „Leadership Development Program“ bewerben. Im Rahmen dieses studienbegleitenden Qualifizierungsprogramms werden den Studierenden externe Führungskräfte als Mentoren zur Seite gestellt, so dass sie in Gesprächen, in Projektmitarbeit und durch Einbindung in berufsrelevante Netzwerke von deren langjähriger Berufs- und Lebenserfahrung profitieren können. Das Programm beginnt mit einer individuellen Potenzialanalyse und umfasst mehrere Trainingseinheiten zur Entwicklung relevanter Führungsfähigkeiten.
-
-#### Medieninformatik Mentor
-
-Ergänzend zum MentoRing Programm, dass sich an alle Studienanfänger des Campus Gummersbach richtet, wurde in der Medieninformatik mit der letzten Reakkreditierung die Stelle des Medieninformatik Mentor geschaffen. Diese wird mit erfahrenen wissenschaftlichen Mitarbeitern/innen besetzt, die selbst zumindest den Bachelorstudiengang Medieninformatik am Campus Gummersbach absolviert haben. Der Medieninformatik Mentor fungiert als institutionelles Bindeglied zwischen Studierenden und Lehrenden und ist bei Problemen und Fragen rund um das Studium Ansprechpartner für die Studierenden, aber auch für Lehrende. Mit Hilfe dieser Stelle werden auch wiederkehrende Probleme sichtbar und können seitens der Studiengangsbetreiber behoben, verbessert oder zumindest thematisiert werden.
-
-### Außercurriculare Maßnahmen
-
-Mehrere gebündelte und ständig weiter entwickelte außercurriculare Maßnahmen tragen, insbesondere vor dem Hintergrund der stark ansteigenden Studierendenzahlen, zur weiteren Verbesserung der Studienqualität bei.
-
-#### Showcase 
-
-Das jährlich durchgeführte Medieninformatik-Showcase dient zur Stärkung der Identität der Medieninformatik, zur besseren Vernetzung von Studierenden sowohl zwischen Master- und Bachelorstudierenden als auch über die Studiensemester, zum Ausblick auf die Praxis durch externe Sprecher (oft Alumni), sowie als strukturierte Feedbackmöglichkeit. Das Event verbessert außerdem die Sichtbarkeit der Medieninformatik am Campus und in der Region.
-
-#### Social Media Angebote
-
-Die von der Medieninformatik eingerichteten und administrierten Social Media Angebote in YouTube, Facebook- und Twitter erreichen regelmäßig etwa 1000 Abonnenten, sprich: Studierende, Interessierte und Alumni. Sie bieten eine gute Gelegenheit um im Gespräch zu bleiben, Themen und Arbeitsergebnisse zu platzieren, sowie Studienanfänger, Jobs und Projekte zu akquirieren oder anzubieten.
-
-#### Wettbewerb "Die besten Projekte"
-
-Der jährlich vom Labor für Medieninformatik durchgeführte Wettbewerb "Die besten Projekte", welcher einerseits gute und sehr gute Ergebnisse aus dem Bachelor- und dem Masterstudiengang herausstellt, andererseits in der gemeinsamen Abschlusspräsentation zur Vernetzung zwischen den Studierenden des Bachelor- und des Masterstudiengangs beiträgt, und letztendlich den projektorientierten Ansatz in der Medieninformatik nachhaltig sichtbar macht.
-
-#### Medieninformatik Kontaktbörse
-
-Die bereits beschriebe, einmal im Semester durchgeführte, Medieninformatik Kontaktbörse dient zur Erleichterung des Übergangs in das Abschlusssemester, zur Herstellung von Kontakten zu potentiellen Kooperationspartnern, und zum Geben von Ideen und Inspiration zu Themen für die Abschlussarbeit.
-
-#### Medieninformatik-Filmfest
-
-Das jährlich durchgeführte Medieninformatik-Filmfest dient zur Stärkung der Identität der Medieninformatik, zur besseren Vernetzung der Studierenden, insbesondere der Studienanfänger und zur Präsentation ausgewählter Arbeitsergebnisse. Das Event verbessert außerdem die Sichtbarkeit der Medieninformatik am Campus und in der Region.
-
 
 ### Bewertung der statistischen Daten bezüglich der Auslastung, der Prüfungserfolge, der Abbrecherquoten und der Studienanfänger- und Bewerberzahlen.
 
@@ -167,27 +165,23 @@ Der Studienaufbau des Bachelorstudiengangs wird überwiegend als positiv und gut
 
 Durchweg sehr positiv wird die gute und intensive Betreuung durch das Lehrpersonal beschrieben: "Die Dozenten sind super hilfreich …". Dies gilt auch für die vielen praktischen Projekte und Gruppenarbeiten. Auch die Offenheit für eigene Ideen und die Gruppengröße bei den Praxisanteilen wird sehr positiv bewertet. Das Mentoring-Programm wird ebenfalls als sehr hilfreich wahrgenommen.
 
-Auch sehr positiv wird die gute und moderne Ausstattung der Medieninformatik und der Bibliothek, als auch der recht ausgewogene Mengenverhältnis von Frauen und Männern bewertet.
+Auch sehr positiv wird die gute und moderne Ausstattung der Medieninformatik und der Bibliothek, als auch der recht ausgewogene quantitative Verhältnis von Frauen und Männern bewertet.
 
-Defizitär
+Als problematisch wird, bezogen auf den Bachelorstudiengang, vor allem die starke Fragmentierung der Module sowie der zugehörigen Praxisanteile gesehen, so dass die Situation, vor allem im dritten Fachsemester, als "zu voll" oder mit "zu viele Baustellen" beschrieben wird. Dieses Problem wurde auch im Rahmen der Analysen zu Profil2 Antrag der Hochschule identifiziert [^profil2]. Derzeit wird dieser Problematik bereits mit der sequentiellen Anordnung einiger Module begegnet. Dabei werden zwei parallel laufende Module nacheinander, dafür aber mit halber Laufzeit und doppelter SWS Anzahl angeboten, so dass sich die Studierenden auf weniger Module zur gleichen Zeit konzentrieren können. Diese Herangehensweise wurde ebenfalls im Rahmen von Profil2 als Maßnahme vorgeschlagen[^profil2]. Viele Studierende wünschen sich die Möglichkeit der Fachvertiefung. Das Problem wird häufig mit "man kratzt alles nur an und dann kommt schon das nächste Thema" beschrieben. Gerade bei den Implementierungs-affinen Studierenden, aber auch bei den Lehrenden wird häufig der Wunsch nach mehr Unterstützung im Bereich Programmierung gennant. Dies gilt vor allem für komplexere und größere Projekte. 
+
+Bezogen auf den Master wird immer wieder die fehlende oder unzureichende Praxisorientierung als Problem genannt. Auch hier fehlt den Studierenden die Möglichkeit zur Fachvertiefung entsprechend der persönlichen Neigung. 
 
 ### Ableitungen aus den Bewertungen der zur Verfügung stehenden Daten und Evaluationen
 
-Aus den Bewertungen der Daten, Evaluationen und Feedbacks lassen sich folgende Stärken und Schwächen ableiten.
+Aus den Bewertungen der Daten, Evaluationen und Feedbacks lassen sich folgende Problem und Schwächen ableiten.
 
-#### Stärken des Medieninformatik Bachelor
-
-#### Schwächen des Medieninformatik Bachelor
+#### Medieninformatik Bachelor
 
 Als Indikator für eine gute Studierbarkeit, kann die Anzahl der abgelegten Prüfungen im vorgesehenen Fachsemester des Moduls angesehen werden. Ziel ist es, dass die Studierenden Prüfungen möglichst im selben Semester ablegen, in dem das Modul im Studienverlaufsplan verortet ist. Gelingt dies nicht, so kann ein Studienabschluss innerhalb der Regelstudienzeit fast nicht mehr realisiert werden. Ab dem dritten Studiensemester werden Prüfungen zunehmend verspätet abgelegt (vgl. Pruefungsstatistiken[^Anhang-Pruefungsstatistiken]). Feedbacks, Befragungen und Curriculumsanalyse[^Anhang-Curriculumsanalye] zeigen, dass in diesem Semester die Anzahl der unterschiedlichen Module am höchsten ist und viele Module Praxisanteile in Projektform haben, so dass sich die Studierenden in verschiedene Fachdisziplinen, Modulregularien und Projektkontexte eindenken und vielen Teamkonstellationen organisieren müssen. Darüberhinaus sind im dritten Semester bei vielen Modulen Prüfungsvorleistungen (Teilnahmeschein) notwendig.
 
 Ein weiteres Problem bildet offenbar das große Projekt im fünften Semester (Entwicklungsprojekt interaktive Systeme). Nachdem die Studierenden in den vorangegangen Semestern nur mit Projektgrößen von maximal 2,5 Creditpoints konfrontiert wurden, stehen sie im fünften Semester einem Projekt der vierfachen Größe gegenüber. Dies scheint viele zu überfordern, so dass sie entweder erst dann das Projekt beginnen, wenn sie keine parallelen Veranstaltungen haben, oder das Projekt vorzeitig abbrechen.
 
 Die Probleme beim Übergang ins Abschlusssemester wurden bereits beschrieben. Vor allem in Feedbacks und persönlichen Gesprächen wird ein weiteres Defizit häufig genannt: die fehlende Möglichkeit sich in einem thematischen Bereich zu vertiefen.
-
-~~~
-cn: hier fehlt auch eine Schlussfolgerung
-~~~
 
 Somit lassen sich die folgenden Defizite im aktuellen Medieninformatik Bachelor Studiengang zusammenfassen:
 
@@ -205,15 +199,8 @@ Somit lassen sich die folgenden Defizite im aktuellen Medieninformatik Bachelor 
 - kein Medienrecht
 - zu wenig Kenntnisse über verschiedene Programmierkonzepte
 - missverständliches Abschlusssemester
-   
 
-~~~
-cn: Nachfrage nach Vertiefungsmöglichkeiten müsste man vielleicht noch mal anmoderieren/ stärken. Ggf sollte man alle erkennten Schwächen noch mal kurz erklären.
-~~~
-
-#### Stärken des Medieninformatik Master
-
-#### Schwächen des Medieninformatik Master
+#### Medieninformatik Master
 
 Beim Medieninformatik Master leiten sich die erkannten Defizite im Wesentlichen aus Feedbacks und persönlichen Gesprächen mit Studierenden, Bachelor Absolventen und Dozenten ab. Die fehlende Möglichkeit zur fachlichen Vertiefung und der geringe Anteil an praxisnaher Projekte werden als wesentliche Defizite wahrgenommen und führen schlussendlich auch dazu, dass viele potenzielle Studieninteressierte an andere Studiengänge, zumeist außerhalb der TH Köln, mit stärkerer Profilierung und Praxisbezug verloren gehen.
 
@@ -228,79 +215,6 @@ Somit lassen sich die folgenden Defizite im aktuellen Medieninformatik Master St
 - Fehlende Möglichkeiten zur fachlichen Vertiefung
 - zu wenig Wahlmöglichkeiten
 
-#### Zusammenfassung der Stärken und Schwächen des Medieninformatik Bachelor aus den Bewertungen auf studycheck.de
-
-##### Stärken
-
-- Dadurch, dass weniger los ist in Gummersbach als z. B. in Köln, kann man sich besser auf das Studium konzentrieren
-- Extra Tutorien und Übungsstunden
-- Ausgewogenens Verhältnis von Frauen und Männern
-- Viele praktische Projekte und Gruppenarbeiten, die versuchen gezielt Lerninhalte zu vermitteln und Teamfähigkeit zu stärken
-- lehrreich und hat Zukunft
-- Nette Leute,
-- Die Dozenten sind super hilfreich, das denke ich bekommt man so an keiner anderen Hochschule.
-- Donzenten sind bei Fragen und Problemen auch selbst ansprechbar und bereit Hilfe zu leisten und schieben nicht alles auf die wissenschaftlichen Mitarbeiter ab.
-- Studienverlauf gut durchdacht
-- Kurse sind mit ausreichend Pflichtkursen ausgestattet, so dass man genügen mitarbeiten muss um mitzukommen, es aber auch nicht erdrückend wird und man noch genügend Freizeit hat.
-- Lehrveranstaltungen gut organisiert und vorbereitet
-- Lehrveranstaltugnen sehr anspruchsvoll
-- Überwiegend interessante Veranstaltungen 
-- Es gibt viele Unterlagen zu kaufen
-- Campus ist sehr modern
-- Medieninformatik ist top ausgestattet
-- Die Fachschaft ist sehr engagiert um auch in Gummersbach ein Freizeitangebot zu schaffen.
-- Studieninhalte online verfügbar
-- moderne Lernmittel
-- Innerhalb des Studiums war ich häufig vom Umfang des Studiengangs überwältigt. Nach dem Einstieg ins Berufsleben wurde mir aber klar, wie wichtig jedes einzelne Fach war. Gerade in Internet-Agenturen kann ein Medieninformatiker so gut wie jeden Job machen
-- Durch die 'relativ' kleinen Gruppen in den Modulen und der vielen praktischen Einheiten ist eine persönliche Förderung durch die Dozenten und wissenschaftlichen Mitarbeitern gewährleistet.
-- Der Campus Gummersbach ist offen für Ideen und kreative Projekte.
-- Man findet immer jemanden der einem zuhört und hilft oder dich an jemanden verweist, der es kann.
-- Man erhält verschiedene Einblicke in verschiedene Bereiche der Informatik und Medien. Bei Gefallen muss man sich aber eher die Sachen darüber hinaus selbst beibringen.
-- Man findet immer gute Räume zur Lernen, wenn die Bibliothek und die Übungsräume beregt sind
-- Bibliotheken sind sehr gut bestückt. Alle Bücher, die ich bisher gebraucht habe, konnte ich sofort ausleihen.
-- Das Mentoring-Programm war sehr hilfreich um sich schnell und sicher in der Universität zurecht zu finden.
-- Hier lernt man nicht nur die Grundlagen des Programmierens kennen, sondern auch noch viel anderes Nützliches für Präsentation, Umgang mit Kunden im Berufsleben
-- Eine gute Mischung aus der Allgemeinen Informatik, sprich Programmierung technische Aspekte der Informatik und der Mediensparte: Webdesign, Video-Grafikbearbeitung-Design.
-- anstrengend und fordernd, aber macht viel Spaß
-
-##### Schwächen
-
-- Gegend ist eher ländlich
-- In Gummersbach ist nicht so viel los wie z. B. in Köln
-- zu viele Studenten / Platzprobleme im ersten und zweiten Semester
-- Viele Basisinformationen zum Studiengang werden bei Einführungsveranstaltungen nicht mitgeteilt
-- Organisation an der TH Köln Campus Gummersbach nicht so optimal
-- Leider allgemein nicht gut organisiert was Einschreibung angeht
-- Leider macht man bei uns bis einschließlich des 4. Semesters fast nur Informatikfächer. Das wirklich Interessante kommt erst im 5. Semester, bis dahin hatten schon viele das Studium abgebrochen. Ich hatte es mir auch überlegt, bin aber froh es nicht gemacht zu haben.
-- Vorlesungen teils langweilig (lässt sich aber kaum vermeiden).
-- Es gibt viel zu wenig Parkplätze und es werden ständig Autos abgeschleppt
-- Viel zu wenig Moderne Lernmittel für ein Informatik Studiengang
-- Der Campus hat nicht genug Übungsräume die permanent zur Verfügung stehen oder geeignet sind für Teamarbeit
-- Das Campusleben generell ist eher langweilig
-- Bei Ausfall eines Professors, steht man ziemlich allein da, da kein passender Ersatz vorhanden ist. Sehr zum Leidtragen der Studenten.
-- Der Studienort Gummersbach (Fachbereich Informatik FH Köln) ist entsetztlich und ein Campusleben gibt es gar nicht!
-
-
-#### Insights Rahe
-
-Ich habe kurz nach dem Kolloquium schon eine Zusage für eine Arbeitsstelle als Produktmanager/UX-Konzepter für die Marke NetMoms bekommen. Diese ist Teil der ForwardNews+ GmbH, welche wiederum zum Burda-Konzern gehört. Der Standort ist hier in Köln, wo auch andere digitale Marken des Konzerns im selben Gebäude sitzen. Hier sind aber vor allem die mobilen Entwickler der jeweiligen Marken. Ein Großteil der Redaktion sitzt in München.
-
-Meine Aufgabe umfasst das Produktmanagement der mobilen Zyklusapp der NetMoms. Im wesentlichen geht es hierbei um die natürlich Empfängnisregelung für Frauen, welche über mehrere Methoden unterstützt werden kann. Bisher kann diese "lediglich" einige Grundkalkulationen durchführen. Da der Markt aber aktuell durch viele Innovationstreiber stark umkämpft ist, wird es mehr in Richtung "Quantify yourself" und "Big Data" gehen.
-
-Insgesamt stehe ich vor einem Berg von Arbeit, da es im wesentlichen noch an Prozessen (sowohl Usability-Engineering, als auch agile SE) fehlt. Methodisch wurde hier etwas unsauber gearbeitet und viel zu wenig Analysen über die Nutzer und Aufgaben durchgeführt. Mir wurde zum Ziel gesetzt UE/UX Prozesse wieder verstärkt zu integrieren und den Scrum-Prozess anzuleiten. Das Team ist sehr klein und erinnert mich sehr an das EIS-Praktikum ;-) Ich fühle mich durch meine WiMa-Zeit aber deswegen optimal vorbereitet. 
-
-Und um hier nochmal anzuknüpfen: Ich habe in den wenigen Tagen, bereits viele Einblicke in die Bereiche anderer Marken (also was die App-Entwicklung angeht) gewonnen (z.B. Focus Online, Finanzen 100, etc.). 
-Mit meiner Ausbildung an der FH, kann ich mich hier sehr sehr gut platzieren. Auch im direkten Vergleich mit anderen Produktmanagern und UX´lern. Ich konnte bereits einige davon überzeugen, das dass Discount Usability, nicht unbedingt die beste Vorgehensweise ist.. :-) Auch wenn es mir noch etwas an praktischer Erfahrung fehlt (und besonders dem wirtschaftlichen Verständnis über die wichtigen KPIs eines Unternehmens), kann ich mein theoretisches Wissen, dem konzeptuellen Verständnis und besonders dem nutzerzentrierten Mindset (dank dir) sehr gut einbringen. Es ist eine spannende Aufgabe und ich bin sehr motiviert einige Prozesse zu integrieren und vieles zu optimieren.
-
-Auf jeden Fall, danke ich dir und natürlich den anderen Professoren (bitte gebe dies weiter) für die gute Ausbildung, Betreuung und sehr guten Vorbereitung für den Beruf. Hier wollte man nichtmal ein Zeugnis von mir sehen, das Bewerbungsgespräch hat bereits die Geschäftsführung überzeugen können und das sagt schon vieles! :-)
-Wir sehen uns hoffentlich auf dem WUD! Und viele Grüße an alle Dozenten und wissenschaftliche Mitarbeiter!
-
-
-~~~
-cn: Studycheck Ergebnisse mussten noch überprüft und zusammengefasst werden, ggf. insights von Julian noch verarbeiten
-~~~
-
-
 
 [^anhang-verbleib-und-studienabbruch]: <a href="../anhaenge/verbleib-und-studienabbruch.pdf">Statistik zum Verbleib- und Studienabbruch</a>
 [^anhang-hep-2020]: <a href="https://www.verwaltung.th-koeln.de/imperia/md/content/verwaltung/broschueren_leitfaeden/hochschulentwicklungsplan2020.pdf">Hochschulentwicklungsplan 2020</a>
@@ -311,3 +225,4 @@ cn: Studycheck Ergebnisse mussten noch überprüft und zusammengefasst werden, g
 [^Anhang-Curriculumsanalye]: fehlt
 [^Anhang-Snapshot-Bewertungen-von-studycheckde]: <a href="../anhaenge/snapshot_2017_02_17_bewertungen_studiengang_medieninformatik_auf_studycheck_._de">Snapshot Bewertungen von studycheck.de</a>
 [^Link-studycheckde]: <a href="http://studycheck.de">http://studycheck.de</a>
+[^profil2]: <a href="https://www.th-koeln.de/mam/downloads/deutsch/hochschule/profil/lehre/profil2_antrag_ministerium.pdf">Profil2 Antrag der TH Köln</a>
