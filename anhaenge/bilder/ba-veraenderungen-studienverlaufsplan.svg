@@ -514,7 +514,7 @@
 </g>
 <g id="Modul" style="mix-blend-mode:normal;" figma:type="instance">
 <g id="Rectangle" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
-<use xlink:href="#path0_fill" transform="translate(250 -189)" fill="#BDBDBD" style="mix-blend-mode:normal;"/>
+<use xlink:href="#path0_fill" transform="translate(250 -189)" fill="#FFCB2E" style="mix-blend-mode:normal;"/>
 </g>
 <g id="Paradigmen der Programmierung" style="mix-blend-mode:normal;" figma:type="text">
 <use xlink:href="#path35_fill" transform="translate(260.04 -179)" fill="#333333" style="mix-blend-mode:normal;"/>

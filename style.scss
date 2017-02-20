@@ -134,15 +134,21 @@
 		width: 100%;
 	}
 	
-	figcaption{
-		display: block;
-		padding-bottom: $bfs /2;
-		padding-top: $bfs;
-		margin-bottom: $bfs;
-		font-style: normal;
-		color: $mi-gruen;
+	figure{
 		border-top: dotted 1px $mi-gruen;
+		padding-top: $bfs;
+		margin-top: $bfs;
+		figcaption{
+			display: block;
+			padding-bottom: $bfs /2;
+			padding-top: $bfs;
+			margin-bottom: $bfs;
+			font-style: normal;
+			color: $mi-gruen;
+			border-top: dotted 1px $mi-gruen;
+		}		
 	}
+
 	
 	td.pm{
 		background-color: $mi-blau;

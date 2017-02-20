@@ -60,6 +60,10 @@ reviewed-von:
 cn: hier bitte die Studiengänge nur beschreiben, also bitte nicht mehr auf veränderungen eingehen, so dass wir diese Texte später weiter benutzen können. Alle Veränderungen bitte im Kapitel "Qualifikationsziele" verankern.
 ~~~
 
+## Studienphasen
+
+{% include image.html url="bilder/ba-studienphasen.svg" caption="Abbildung: Studienphasen des Bachelorstudiengangs Medieninformatik" %}
+
 ## Prinzipien
 
 Module eines Schwerpunkts näher zusammen bringen Projektkontexte reduzieren

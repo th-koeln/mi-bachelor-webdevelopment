@@ -14,6 +14,7 @@ cn: hier wäre noch ein kleines Präludium schön. Wie hat sich die MI in den le
 
 ## Geplante Veränderungen des Bachelor-Studiengangs gegenüber dem aktuellen Akkreditierungszeitraum
 
+
 Die im Folgenden dargestellten geplanten Veränderungen des Bachelorstudienprogramms dienen zur Beseitigung erkannter Schwächen (vgl. Defizite Medieninformatik Bachelor).
 
 ~~~
@@ -23,16 +24,15 @@ Die im Folgenden dargestellten geplanten Veränderungen des Bachelorstudienprogr
 ### Verbesserungen des Studienaufbaus
 
 
+{% include image.html url="bilder/ba-veraenderungen-studienverlaufsplan.svg" caption="Abbildung: Geplante Veränderungen des Bachelorstudiengangs Medieninformatik. Links das aktuelle und rechts das zu akkreditierende Curriculum. Die lila hinterlegten Module werden gestrichen, die grün hinterlegten in Vertiefungsmodulen zusammengefasst, die orange hinterlegten Module wurden neu angeordnet und die gelben Module wurden neu integriert." %}
+
+
 Mit einer Verbesserung des Studienaufbaus sollen folgende bekannte Defizite ausgeglichen werden:
 
 - Überladenes drittes Fachsemester
 - Zu viele Projektkontexte
 - zu starke Fragmentierung von Modulen und der projektorientierten Praxisanteile
 - zu viele „Baustellen“
-
-
-{% include image.html url="bilder/veraenderungen-studienverlaufsplan.svg" caption="Bild: Veränderungen des Studienablaufs" %}
-
 
 Die starke Projektorientierung wird und wurde insgesamt als positiv bewertet. Jedoch ist die Verteilung der Module mit Projektanteil derzeit nicht optimal. So sind z.B. im dritten Fachsemester momentan 7 Module angesiedelt, von denen vier projektorientiert durchgeführt werden. Hingegen wird im vierten Semester kein projektorientiertes Modul angeboten. Um hier die Aufwände gleichmäßiger zu verteilen wurde die Reihenfolge der Module verändert und Module wurden zusammengelegt.
 
@@ -43,9 +43,7 @@ Im vierten Semester wurde ein Vertiefungsmodul mit 20 Creditpoints installiert a
 
 ### Verbesserter Aufbau der projektorientierten Module und der Projektgrößen
 
-~~~
-@cn: grafik einbinden
-~~~
+{% include image.html url="bilder/ba-projektanteile.svg" caption="Abbildung: Veränderter Aufbau der Projektanteile des Bachelorstudiengangs Medieninformatik. Links das aktuelle und rechts das zu akkreditierende Curriculum." %}
 
 Hiermit sollen folgende bekannte Defizite ausgeglichen werden:
 
@@ -58,9 +56,7 @@ Wie bereits beschrieben, wurden die projektorientierten Module gleichmäßiger �
 
 ### Strukturierte Möglichkeit zur individuellen Fachvertiefung
 
-~~~
-@cn: grafik einbinden
-~~~
+{% include image.html url="bilder/ba-vertiefungen.svg" caption="Abbildung: Zusammenfassung von Modulen aus einem Themenfeld zu Vertiefungsmodulen im  Medieninformatik Bachelor." %}
 
 Mit dieser Änderungen sollen folgende bekannte Defizite ausgeglichen werden:
 
@@ -81,10 +77,6 @@ Das Entwicklungsprojekt im fünften Semester wird inhaltlich geöffnet. Im aktue
 
 
 ### Weitere Änderungen
-
-~~~
-@cn: grafik einbinden
-~~~
 
 Darüber hinaus wurden weitere Änderungen durchgeführt, um die folgenden Defizite zu verbessern:
 
