@@ -60,6 +60,9 @@ reviewed-von:
 cn: hier bitte die Studiengänge nur beschreiben, also bitte nicht mehr auf veränderungen eingehen, so dass wir diese Texte später weiter benutzen können. Alle Veränderungen bitte im Kapitel "Qualifikationsziele" verankern.
 ~~~
 
+## Zielgruppe
+Das Studienangebot richtet sich primär an Studierende des deutschsprachigen Raumes. Ausländische Studienbewerber werden durch ein etabliertes, durch das Sekretariat für internationale Studierende betreutes Verfahren nach Nachweis der Kenntnisse der deutschen Sprache aufgenommen.
+
 ## Studienphasen
 
 {% include image.html url="bilder/ba-studienphasen.svg" caption="Abbildung: Studienphasen des Bachelorstudiengangs Medieninformatik" %}
