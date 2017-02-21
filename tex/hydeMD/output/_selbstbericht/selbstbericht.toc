@@ -1,0 +1,184 @@
+\contentsline {chapter}{\numberline {1}Formale Angaben}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Bachelor Medieninformatik}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}Master Medieninformatik}{1}{section.1.2}
+\contentsline {chapter}{\numberline {2}Einbettung des Studienganges in die Hochschule}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}Kurz\IeC {\"u}berblick \IeC {\"u}ber die Struktur der Hochschule}{3}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Profil der Hochschule}{3}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Lehr- und Forschungsschwerpunkte}{4}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}Zahl und Verteilung der Studierenden}{5}{subsection.2.1.3}
+\contentsline {section}{\numberline {2.2}Einbettung der Studieng\IeC {\"a}nge in die Fakult\IeC {\"a}t}{5}{section.2.2}
+\contentsline {chapter}{\numberline {3}Analyse der Studieng\IeC {\"a}nge}{6}{chapter.3}
+\contentsline {chapter}{\numberline {4}Ist-Zustand}{7}{chapter.4}
+\contentsline {section}{\numberline {4.1}Erf\IeC {\"u}llung der Auflagen der Reakkreditierung 2010}{7}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Auflagen Medieninformatik Bachelor}{8}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Auflagen Medieninformatik Master}{8}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.3}Begleitende Betreuung w\IeC {\"a}hrend des Studiums}{9}{subsection.4.1.3}
+\contentsline {paragraph}{MentoRing Programm des Campus Gummersbach}{9}{subsection.4.1.3}
+\contentsline {paragraph}{Medieninformatik Mentor}{10}{subsection.4.1.3}
+\contentsline {subsection}{\numberline {4.1.4}Au\IeC {\ss }ercurriculare Ma\IeC {\ss }nahmen}{10}{subsection.4.1.4}
+\contentsline {paragraph}{Showcase}{10}{subsection.4.1.4}
+\contentsline {paragraph}{Social Media Angebote}{10}{subsection.4.1.4}
+\contentsline {paragraph}{Wettbewerb ``Die besten Projekte''}{10}{subsection.4.1.4}
+\contentsline {paragraph}{Medieninformatik Kontaktb\IeC {\"o}rse}{11}{subsection.4.1.4}
+\contentsline {paragraph}{Medieninformatik-Filmfest}{11}{subsection.4.1.4}
+\contentsline {section}{\numberline {4.2}St\IeC {\"a}rken und Schw\IeC {\"a}chen Analyse}{11}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Beurteilung des Studienerfolgs auf der Basis von Absolventenbefragungen und Verbleibstudien}{11}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Bewertung von Ergebnissen aus Evaluationen}{13}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Bewertung der statistischen Daten bez\IeC {\"u}glich der Auslastung, der Pr\IeC {\"u}fungserfolge, der Abbrecherquoten und der Studienanf\IeC {\"a}nger- und Bewerberzahlen.}{14}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}R\IeC {\"u}ckschl\IeC {\"u}sse aus informellen Gespr\IeC {\"a}chen und Kommentaren}{15}{subsection.4.2.4}
+\contentsline {subsection}{\numberline {4.2.5}Ableitungen aus den Bewertungen der zur Verf\IeC {\"u}gung stehenden Daten und Evaluationen}{16}{subsection.4.2.5}
+\contentsline {paragraph}{Medieninformatik Bachelor}{16}{subsection.4.2.5}
+\contentsline {paragraph}{Medieninformatik Master}{17}{subsection.4.2.5}
+\contentsline {chapter}{\numberline {5}Soll-Zustand/ geplante Ver\IeC {\"a}nderungen}{18}{chapter.5}
+\contentsline {section}{\numberline {5.1}Weiterentwicklung des Lehrportfolios des Institut f\IeC {\"u}r Informatik}{18}{section.5.1}
+\contentsline {section}{\numberline {5.2}Geplante Ver\IeC {\"a}nderungen des Bachelor-Studiengangs gegen\IeC {\"u}ber dem aktuellen Akkreditierungszeitraum}{19}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Verbesserungen des Studienaufbaus}{20}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Verbesserter Aufbau der projektorientierten Module und der Projektgr\IeC {\"o}\IeC {\ss }en}{21}{subsection.5.2.2}
+\contentsline {subsection}{\numberline {5.2.3}Strukturierte M\IeC {\"o}glichkeit zur individuellen Fachvertiefung}{21}{subsection.5.2.3}
+\contentsline {subsection}{\numberline {5.2.4}Weitere \IeC {\"A}nderungen}{22}{subsection.5.2.4}
+\contentsline {section}{\numberline {5.3}Auswirkungen auf die Lehrkapazit\IeC {\"a}t}{23}{section.5.3}
+\contentsline {chapter}{\numberline {6}Geplante Ver\IeC {\"a}nderungen des Master-Studiengangs gegen\IeC {\"u}ber dem aktuellen Akkreditierungszeitraum}{24}{chapter.6}
+\contentsline {section}{\numberline {6.1}Sch\IeC {\"a}rfung des Profils}{24}{section.6.1}
+\contentsline {subsection}{\numberline {6.1.1}Schwerpunkt Social Computing}{25}{subsection.6.1.1}
+\contentsline {subsection}{\numberline {6.1.2}Schwerpunkt Visual Computing}{25}{subsection.6.1.2}
+\contentsline {subsection}{\numberline {6.1.3}Schwerpunkt Human-Computer Interaction}{25}{subsection.6.1.3}
+\contentsline {subsection}{\numberline {6.1.4}Schwerpunkt Weaving the Web}{26}{subsection.6.1.4}
+\contentsline {subsection}{\numberline {6.1.5}Generalistischer Studienverlauf: Multiperspective Product Development}{26}{subsection.6.1.5}
+\contentsline {section}{\numberline {6.2}Erh\IeC {\"o}hung des Anteils an praxisnahen Projekten}{26}{section.6.2}
+\contentsline {section}{\numberline {6.3}Flexibilisierung des dritten Fachsemesters}{27}{section.6.3}
+\contentsline {chapter}{\numberline {7}Qualifikationsziele der Studiengangskonzepte}{28}{chapter.7}
+\contentsline {chapter}{\numberline {8}Qualifikationsziele Medieninformatik Bachelor}{32}{chapter.8}
+\contentsline {section}{\numberline {8.1}Leitbild}{32}{section.8.1}
+\contentsline {chapter}{\numberline {9}Qualifikationsziele Medieninformatik Master}{33}{chapter.9}
+\contentsline {section}{\numberline {9.1}Leitbild Medieninformatik Master}{33}{section.9.1}
+\contentsline {section}{\numberline {9.2}Ziele des zu reakkreditierenden Studiengangs insgesamt}{33}{section.9.2}
+\contentsline {section}{\numberline {9.3}Darstellung der durch das Studium zu erreichenden Lernergebnisse}{34}{section.9.3}
+\contentsline {chapter}{\numberline {10}Konzeptionelle Einordnung des Studiengangs in das Studiensystem}{36}{chapter.10}
+\contentsline {chapter}{\numberline {11}Studiengangskonzept}{38}{chapter.11}
+\contentsline {section}{\numberline {11.1}Zielgruppe}{40}{section.11.1}
+\contentsline {section}{\numberline {11.2}Bachelor}{40}{section.11.2}
+\contentsline {subsection}{\numberline {11.2.1}Prinzipien}{40}{subsection.11.2.1}
+\contentsline {subsection}{\numberline {11.2.2}Studienphasen}{40}{subsection.11.2.2}
+\contentsline {subsection}{\numberline {11.2.3}Lehrformen}{40}{subsection.11.2.3}
+\contentsline {section}{\numberline {11.3}Master}{40}{section.11.3}
+\contentsline {subsection}{\numberline {11.3.1}Prinzipien}{40}{subsection.11.3.1}
+\contentsline {subsection}{\numberline {11.3.2}Studienstruktur}{41}{subsection.11.3.2}
+\contentsline {subsection}{\numberline {11.3.3}Lehrformen}{41}{subsection.11.3.3}
+\contentsline {chapter}{\numberline {12}Studierbarkeit}{42}{chapter.12}
+\contentsline {section}{\numberline {12.1}Bachelor Medieninformatik}{44}{section.12.1}
+\contentsline {subsection}{\numberline {12.1.1}Zugangsvoraussetzungen}{44}{subsection.12.1.1}
+\contentsline {subsection}{\numberline {12.1.2}Allgemeine/fachgebundene Hochschulreife, Fachhochschulreife, einschl\IeC {\"a}gige Berufserfahrung}{44}{subsection.12.1.2}
+\contentsline {subsection}{\numberline {12.1.3}Praktika/Berufserfahrung}{44}{subsection.12.1.3}
+\contentsline {subsection}{\numberline {12.1.4}Fremdsprachenkenntnisse, Deutschkenntnisse}{44}{subsection.12.1.4}
+\contentsline {subsection}{\numberline {12.1.5}Eignungsfeststellung}{44}{subsection.12.1.5}
+\contentsline {section}{\numberline {12.2}Master Medieninformatik}{45}{section.12.2}
+\contentsline {section}{\numberline {12.3}Struktur}{45}{section.12.3}
+\contentsline {section}{\numberline {12.4}Arbeitslast}{45}{section.12.4}
+\contentsline {section}{\numberline {12.5}Leistungspunktesystem}{46}{section.12.5}
+\contentsline {section}{\numberline {12.6}Pr\IeC {\"u}fungen}{46}{section.12.6}
+\contentsline {section}{\numberline {12.7}Studien/Pr\IeC {\"u}fungsordnungen}{46}{section.12.7}
+\contentsline {section}{\numberline {12.8}Diploma Supplement}{46}{section.12.8}
+\contentsline {section}{\numberline {12.9}Ma\IeC {\ss }nahmen zur Beratung von Studieninteressierten und Studierenden}{47}{section.12.9}
+\contentsline {chapter}{\numberline {13}Pr\IeC {\"u}fungssystem}{48}{chapter.13}
+\contentsline {section}{\numberline {13.1}Studien/Pr\IeC {\"u}fungsordnungen}{49}{section.13.1}
+\contentsline {chapter}{\numberline {14}Studiengangsbezogene Kooperationen}{50}{chapter.14}
+\contentsline {chapter}{\numberline {15}Ausstattung}{51}{chapter.15}
+\contentsline {section}{\numberline {15.1}Verleih}{52}{section.15.1}
+\contentsline {section}{\numberline {15.2}Nachbearbeitung}{53}{section.15.2}
+\contentsline {section}{\numberline {15.3}Studio}{54}{section.15.3}
+\contentsline {section}{\numberline {15.4}MI-Projektraum}{54}{section.15.4}
+\contentsline {section}{\numberline {15.5}Lehrende in der Medieninformatik}{54}{section.15.5}
+\contentsline {subsection}{\numberline {15.5.1}Prof.~Dr.~Thomas Bartz-Beielstein}{54}{subsection.15.5.1}
+\contentsline {subsection}{\numberline {15.5.2}Bente, Stefan}{54}{subsection.15.5.2}
+\contentsline {subsection}{\numberline {15.5.3}Bertelsmeier, Birgit}{55}{subsection.15.5.3}
+\contentsline {subsection}{\numberline {15.5.4}B\IeC {\"o}hmer, Matthias}{55}{subsection.15.5.4}
+\contentsline {subsection}{\numberline {15.5.5}Eisemann, Martin}{56}{subsection.15.5.5}
+\contentsline {subsection}{\numberline {15.5.6}Faeskorn-Woyke, Heide}{56}{subsection.15.5.6}
+\contentsline {subsection}{\numberline {15.5.7}Fischer, Kristian}{56}{subsection.15.5.7}
+\contentsline {subsection}{\numberline {15.5.8}Giannakopoulos, Fotios}{57}{subsection.15.5.8}
+\contentsline {subsection}{\numberline {15.5.9}G\IeC {\"u}nther, Holger}{57}{subsection.15.5.9}
+\contentsline {subsection}{\numberline {15.5.10}Hartmann, Gerhard}{57}{subsection.15.5.10}
+\contentsline {subsection}{\numberline {15.5.11}Jochum, Friedbert}{58}{subsection.15.5.11}
+\contentsline {subsection}{\numberline {15.5.12}Karsch, Stefan}{58}{subsection.15.5.12}
+\contentsline {subsection}{\numberline {15.5.13}Klocke, Heinrich}{58}{subsection.15.5.13}
+\contentsline {subsection}{\numberline {15.5.14}Knittel, Friedrich}{59}{subsection.15.5.14}
+\contentsline {subsection}{\numberline {15.5.15}Koch, Heribert}{59}{subsection.15.5.15}
+\contentsline {subsection}{\numberline {15.5.16}K\IeC {\"o}hler, Lutz}{59}{subsection.15.5.16}
+\contentsline {subsection}{\numberline {15.5.17}Kohls, Christian}{59}{subsection.15.5.17}
+\contentsline {paragraph}{Konen, Wolfgang}{60}{subsection.15.5.17}
+\contentsline {subsection}{\numberline {15.5.18}Kornacher, Hans Hermann}{60}{subsection.15.5.18}
+\contentsline {subsection}{\numberline {15.5.19}Naujoks, Boris}{60}{subsection.15.5.19}
+\contentsline {subsection}{\numberline {15.5.20}Noss, Christian}{61}{subsection.15.5.20}
+\contentsline {subsection}{\numberline {15.5.21}Stahl, Hans Ludwig}{61}{subsection.15.5.21}
+\contentsline {subsection}{\numberline {15.5.22}Victor, Frank}{61}{subsection.15.5.22}
+\contentsline {subsection}{\numberline {15.5.23}Westenberger, Hartmut}{62}{subsection.15.5.23}
+\contentsline {subsection}{\numberline {15.5.24}Winter, Mario}{62}{subsection.15.5.24}
+\contentsline {section}{\numberline {15.6}Wissenschaftliche Besch\IeC {\"a}ftigte}{63}{section.15.6}
+\contentsline {subsection}{\numberline {15.6.1}Breiderhoff, Beate}{63}{subsection.15.6.1}
+\contentsline {subsection}{\numberline {15.6.2}Breuer, Stefan}{63}{subsection.15.6.2}
+\contentsline {subsection}{\numberline {15.6.3}Buderus, Dennis}{63}{subsection.15.6.3}
+\contentsline {subsection}{\numberline {15.6.4}Bungart, Johannes-Josef}{63}{subsection.15.6.4}
+\contentsline {subsection}{\numberline {15.6.5}Butz, Raphaela}{63}{subsection.15.6.5}
+\contentsline {subsection}{\numberline {15.6.6}Chandrasekaran, Sowmya}{63}{subsection.15.6.6}
+\contentsline {subsection}{\numberline {15.6.7}Dang, Ngoc-Anh}{63}{subsection.15.6.7}
+\contentsline {subsection}{\numberline {15.6.8}Dimitriou, Konstantinos}{63}{subsection.15.6.8}
+\contentsline {subsection}{\numberline {15.6.9}Dobrynin, Alexander}{63}{subsection.15.6.9}
+\contentsline {subsection}{\numberline {15.6.10}Ferreira Pereira, Jorge Henrique}{63}{subsection.15.6.10}
+\contentsline {subsection}{\numberline {15.6.11}Fischbach, Andreas}{63}{subsection.15.6.11}
+\contentsline {subsection}{\numberline {15.6.12}Friese, Martina}{63}{subsection.15.6.12}
+\contentsline {subsection}{\numberline {15.6.13}Gabriel, Robert}{63}{subsection.15.6.13}
+\contentsline {subsection}{\numberline {15.6.14}Gawenda, Damian}{63}{subsection.15.6.14}
+\contentsline {subsection}{\numberline {15.6.15}Gellert, Edgar}{63}{subsection.15.6.15}
+\contentsline {subsection}{\numberline {15.6.16}Gr\IeC {\"u}nloh, Christiane}{63}{subsection.15.6.16}
+\contentsline {subsection}{\numberline {15.6.17}Hein, Irina}{63}{subsection.15.6.17}
+\contentsline {subsection}{\numberline {15.6.18}He\IeC {\ss }land, Marco Paolo}{63}{subsection.15.6.18}
+\contentsline {subsection}{\numberline {15.6.19}Hofmeister, Anne}{63}{subsection.15.6.19}
+\contentsline {subsection}{\numberline {15.6.20}Holste, Andreas}{63}{subsection.15.6.20}
+\contentsline {subsection}{\numberline {15.6.21}Jaeger, Dennis}{63}{subsection.15.6.21}
+\contentsline {subsection}{\numberline {15.6.22}Jaspers, Franz-Leonard}{63}{subsection.15.6.22}
+\contentsline {subsection}{\numberline {15.6.23}Jung, Christian}{63}{subsection.15.6.23}
+\contentsline {subsection}{\numberline {15.6.24}Kasper, Andre}{63}{subsection.15.6.24}
+\contentsline {subsection}{\numberline {15.6.25}Krampe, Fabian Reinhard Dietrich}{63}{subsection.15.6.25}
+\contentsline {subsection}{\numberline {15.6.26}Krischer, Manuel}{63}{subsection.15.6.26}
+\contentsline {subsection}{\numberline {15.6.27}Krumnow, Benjamin}{63}{subsection.15.6.27}
+\contentsline {subsection}{\numberline {15.6.28}\textbf {Kullack, Sven}}{63}{subsection.15.6.28}
+\contentsline {subsection}{\numberline {15.6.29}Linke, Mario}{63}{subsection.15.6.29}
+\contentsline {subsection}{\numberline {15.6.30}Moritz, Steffen}{63}{subsection.15.6.30}
+\contentsline {subsection}{\numberline {15.6.31}M\IeC {\"u}ller, Sebastian}{63}{subsection.15.6.31}
+\contentsline {subsection}{\numberline {15.6.32}M\IeC {\"u}nster, Beate Anna}{63}{subsection.15.6.32}
+\contentsline {subsection}{\numberline {15.6.33}M\IeC {\"u}nster, Guido}{63}{subsection.15.6.33}
+\contentsline {subsection}{\numberline {15.6.34}M\IeC {\"u}sse, Uwe}{63}{subsection.15.6.34}
+\contentsline {subsection}{\numberline {15.6.35}Neagu, Adrian}{63}{subsection.15.6.35}
+\contentsline {subsection}{\numberline {15.6.36}Odenwald, Patrick}{63}{subsection.15.6.36}
+\contentsline {subsection}{\numberline {15.6.37}Petersen, David Ferdinand}{63}{subsection.15.6.37}
+\contentsline {subsection}{\numberline {15.6.38}Petrisor, Teodora Roxana}{63}{subsection.15.6.38}
+\contentsline {subsection}{\numberline {15.6.39}Pham, Quoc Cuong}{63}{subsection.15.6.39}
+\contentsline {subsection}{\numberline {15.6.40}Poborski, Uwe}{63}{subsection.15.6.40}
+\contentsline {subsection}{\numberline {15.6.41}Rebolledo Coy, Margarita Alejandra}{63}{subsection.15.6.41}
+\contentsline {subsection}{\numberline {15.6.42}Reitano, Marco}{63}{subsection.15.6.42}
+\contentsline {subsection}{\numberline {15.6.43}Reschke, Daniela}{63}{subsection.15.6.43}
+\contentsline {subsection}{\numberline {15.6.44}Riemer, Petra}{63}{subsection.15.6.44}
+\contentsline {subsection}{\numberline {15.6.45}Sassmannshausen, Sheree May}{63}{subsection.15.6.45}
+\contentsline {subsection}{\numberline {15.6.46}Sch\IeC {\"a}fer, Frank}{63}{subsection.15.6.46}
+\contentsline {subsection}{\numberline {15.6.47}Schaefer, Volker}{63}{subsection.15.6.47}
+\contentsline {subsection}{\numberline {15.6.48}Scherban, Helmut}{63}{subsection.15.6.48}
+\contentsline {subsection}{\numberline {15.6.49}Schewe, Sascha}{63}{subsection.15.6.49}
+\contentsline {subsection}{\numberline {15.6.50}Sch\IeC {\"o}nthier, Pascal}{63}{subsection.15.6.50}
+\contentsline {subsection}{\numberline {15.6.51}Schwede, Marc}{63}{subsection.15.6.51}
+\contentsline {subsection}{\numberline {15.6.52}Stork, J\IeC {\"o}rg}{63}{subsection.15.6.52}
+\contentsline {subsection}{\numberline {15.6.53}Stratmann, Marcel}{63}{subsection.15.6.53}
+\contentsline {subsection}{\numberline {15.6.54}Strohschein, Jan}{63}{subsection.15.6.54}
+\contentsline {subsection}{\numberline {15.6.55}Thill, Markus}{63}{subsection.15.6.55}
+\contentsline {subsection}{\numberline {15.6.56}Wagner, Peter}{63}{subsection.15.6.56}
+\contentsline {subsection}{\numberline {15.6.57}Zaefferer, Martin}{63}{subsection.15.6.57}
+\contentsline {subsection}{\numberline {15.6.58}Zakrevski, Svetlana}{63}{subsection.15.6.58}
+\contentsline {chapter}{\numberline {16}Transparenz und Dokumentation}{64}{chapter.16}
+\contentsline {chapter}{\numberline {17}Qualit\IeC {\"a}tssicherung und Weiterentwicklung}{65}{chapter.17}
+\contentsline {section}{\numberline {17.1}Beschreibung des Qualit\IeC {\"a}tssicherungssystems der Studieng\IeC {\"a}nge}{66}{section.17.1}
+\contentsline {section}{\numberline {17.2}Organisatorische Prozesse}{67}{section.17.2}
+\contentsline {chapter}{\numberline {18}Geschlechtergerechtigkeit und Chancengleichheit}{68}{chapter.18}
+\contentsline {section}{\numberline {18.1}Konzepte zur F\IeC {\"o}rderung der Chancengleichheit}{69}{section.18.1}
+\contentsline {section}{\numberline {18.2}Konzept der Hochschule f\IeC {\"u}r Chancengleichheit und Studierende in besonderen Lebenslagen}{69}{section.18.2}
+\contentsline {chapter}{\numberline {19}Backlog}{71}{chapter.19}
+\contentsline {chapter}{\numberline {20}Inhalte aus dem Antrag, die \IeC {\"u}brig geblieben sind}{72}{chapter.20}
+\contentsline {section}{\numberline {20.1}Geplante \IeC {\"A}nderungen des Master-Studiengangs}{73}{section.20.1}

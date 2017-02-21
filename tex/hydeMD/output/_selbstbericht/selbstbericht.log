@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.11.27)  21 FEB 2017 21:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.11.27)  21 FEB 2017 22:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -930,7 +930,7 @@ Overfull \hbox (5.68263pt too wide) in paragraph at lines 27--27
 h der Aus-las-tung, der Prü-fungs- 
  []
 
-<../assets/box.pdf, id=705, 598.86235pt x 493.1233pt>
+<../assets/box.pdf, id=729, 598.86235pt x 493.1233pt>
 File: ../assets/box.pdf Graphic file (type pdf)
  <use ../assets/box.pdf>
 Package pdftex.def Info: ../assets/box.pdf used on input line 36.
@@ -946,14 +946,14 @@ File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
 
 {/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <../asse
 ts/box.pdf>]
-Overfull \hbox (5.24269pt too wide) in paragraph at lines 64--64
+Overfull \hbox (5.24269pt too wide) in paragraph at lines 70--70
  [][] [][]\T1/Roboto-LF/l/n/10 Allgemeine/fachgebundene Hoch-schul-rei-fe, Fach
 -hoch-schul-rei-fe, ein-schlä- 
  []
 
 File: ../assets/box.pdf Graphic file (type pdf)
 <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 70.
+Package pdftex.def Info: ../assets/box.pdf used on input line 71.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
  [2]
 File: ../assets/box.pdf Graphic file (type pdf)
@@ -964,7 +964,7 @@ Package pdftex.def Info: ../assets/box.pdf used on input line 112.
 File: ../assets/box.pdf Graphic file (type pdf)
 
 <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 154.
+Package pdftex.def Info: ../assets/box.pdf used on input line 155.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
  [4])
 \tf@toc=\write6
@@ -995,17 +995,17 @@ Class scrbook Warning: \float@addtolists detected!
 (scrbook)              deprecated \float@addtolist interface .
 
 LaTeX Font Info:    Font shape `T1/Roboto-LF/l/n' will be
-(Font)              scaled to size 12.0pt on input line 7.
+(Font)              scaled to size 17.28pt on input line 7.
 File: ../assets/box.pdf Graphic file (type pdf)
 <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 54.
+Package pdftex.def Info: ../assets/box.pdf used on input line 52.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.54 \item[Regelstudienzeit]
-                             [1
+l.52 \item[Zu verleihender Hochschulgrad]
+                                          [1
 
 
 
@@ -1022,11 +1022,8 @@ been already used, duplicate ignored
 l.60 \chapter
              {Einbettung des Studienganges in die [2]
 chapter 2.
-
-Overfull \hbox (14.01276pt too wide) in paragraph at lines 61--61
-|\T1/Roboto-LF/l/n/20.74 Einbettung des Stu-dien-gan-ges in die Hoch-schu-
- []
-
+LaTeX Font Info:    Font shape `T1/Roboto-LF/l/n' will be
+(Font)              scaled to size 12.0pt on input line 66.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/ucs/data/uni-32.def
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 )
@@ -1106,125 +1103,124 @@ Overfull \hbox (4.86646pt too wide) in paragraph at lines 273--279
 n-gi-gen Be-wer-tungs-por-tal ``Stu-dy-check.de''
  []
 
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 280.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
 File: ../assets/box.pdf Graphic file (type pdf)
+
 <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 300.
+Package pdftex.def Info: ../assets/box.pdf used on input line 302.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
  [7
 
 
 ]
 LaTeX Font Info:    Try loading font information for TS1+Roboto-LF on input lin
-e 308.
+e 312.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/roboto/TS1Roboto-LF.fd
 File: TS1Roboto-LF.fd 2015/09/15 (autoinst) Font definitions for TS1/Roboto-LF.
 
 )
 LaTeX Font Info:    Font shape `TS1/Roboto-LF/l/n' will be
-(Font)              scaled to size 10.0pt on input line 308.
+(Font)              scaled to size 10.0pt on input line 312.
 File: ../assets/box.pdf Graphic file (type pdf)
 
 <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 378.
+Package pdftex.def Info: ../assets/box.pdf used on input line 370.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
  [8]
-Overfull \hbox (10.75958pt too wide) in paragraph at lines 378--383
+Overfull \hbox (10.75958pt too wide) in paragraph at lines 382--387
 \T1/Roboto-LF/l/n/10 den vom Fa-kul-täts-rat der Fa-kul-tät für In-for-ma-tik u
 nd In-ge-nieur-wis-sen-schaf-ten am 10.11.2010
  []
 
 File: ../assets/box.pdf Graphic file (type pdf)
 <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 444.
+Package pdftex.def Info: ../assets/box.pdf used on input line 433.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
  [9]
-Overfull \hbox (5.14511pt too wide) in paragraph at lines 455--462
+Overfull \hbox (5.14511pt too wide) in paragraph at lines 459--466
 [] []\T1/Roboto-LF/b/n/10 Show-ca-se[] \T1/Roboto-LF/l/n/10 Das jähr-lich durch
 -ge-führ-te Medieninformatik-Showcase dient zur Stär-kung der Iden-
  []
 
 File: ../assets/box.pdf Graphic file (type pdf)
 <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 499.
+Package pdftex.def Info: ../assets/box.pdf used on input line 495.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
  [10]
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 513.
-
-
-(/usr/local/texlive/2016/texmf-dist/tex/latex/base/t1cmtt.fd
-File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-Overfull \hbox (88.9085pt too wide) in paragraph at lines 515--515
+Overfull \hbox (88.9085pt too wide) in paragraph at lines 519--519
 []\T1/cmtt/m/n/10 @Volker: da müsstest Du bitte noch mal eine Tabelle draus mac
 hen. Sprechen wir Mittwoch drüber.[] 
  []
 
 
-Overfull \hbox (56.19618pt too wide) in alignment at lines 522--540
+Overfull \hbox (56.19618pt too wide) in alignment at lines 526--544
  [] [] [] [] [] 
  []
 
 
-Overfull \hbox (56.19618pt too wide) in alignment at lines 540--587
+Overfull \hbox (56.19618pt too wide) in alignment at lines 544--591
  [] [] [] [] [] 
  []
 
 File: ../assets/box.pdf Graphic file (type pdf)
 <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 615.
+Package pdftex.def Info: ../assets/box.pdf used on input line 605.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
  [11]
-Overfull \hbox (0.64655pt too wide) in paragraph at lines 634--637
+Overfull \hbox (0.64655pt too wide) in paragraph at lines 638--641
 []\T1/Roboto-LF/l/n/10 Studentische Rück-mel-dun-gen aus den, im Rah-men des Me
 -dien-in-for-ma-tik Show-ca-se statt-
  []
 
 File: ../assets/box.pdf Graphic file (type pdf)
 <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 683.
+Package pdftex.def Info: ../assets/box.pdf used on input line 670.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
  [12]
 File: ../assets/box.pdf Graphic file (type pdf)
  <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 744.
+Package pdftex.def Info: ../assets/box.pdf used on input line 735.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
  [13]
-Overfull \hbox (199.13158pt too wide) in paragraph at lines 762--762
+Overfull \hbox (199.13158pt too wide) in paragraph at lines 766--766
 []\T1/cmtt/m/n/10 cn: wo kommt diese Zahl her (durchschnittlich geschätzte Schw
 undquote in der Informatik an Fachhochschulen ist 39%)?[] 
  []
 
-
-Overfull \hbox (0.2275pt too wide) in paragraph at lines 789--794
+File: ../assets/box.pdf Graphic file (type pdf)
+<use ../assets/box.pdf>
+Package pdftex.def Info: ../assets/box.pdf used on input line 792.
+(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
+ [14]
+Overfull \hbox (0.2275pt too wide) in paragraph at lines 793--798
 []\T1/Roboto-LF/l/n/10 Im Mas-ter-stu-di-um wirkt die sich die, im Rah-men der 
 Re-ak-kre-di-tie-rung weg-ge-fal-le-ne Zu-las-sungs-
  []
 
 File: ../assets/box.pdf Graphic file (type pdf)
 <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 796.
-(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
- [14]
-File: ../assets/box.pdf Graphic file (type pdf)
- <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 852.
+Package pdftex.def Info: ../assets/box.pdf used on input line 855.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
  [15]
 File: ../assets/box.pdf Graphic file (type pdf)
-
-<use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 909.
+ <use ../assets/box.pdf>
+Package pdftex.def Info: ../assets/box.pdf used on input line 907.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
  [16]
 File: ../assets/box.pdf Graphic file (type pdf)
- <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 971.
+
+<use ../assets/box.pdf>
+Package pdftex.def Info: ../assets/box.pdf used on input line 975.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
  [17]
 chapter 5.
 
-Overfull \hbox (398.58287pt too wide) in paragraph at lines 975--975
+Overfull \hbox (398.58287pt too wide) in paragraph at lines 979--979
 []\T1/cmtt/m/n/10 @Gerhard & Kristian: hier wäre noch ein kleines Präludium sch
 ön. Wie hat sich die MI in den letzten Jahren verändert. Hättet ihr Lust da was
  zu schreiben?[] 
@@ -1232,246 +1228,236 @@ Overfull \hbox (398.58287pt too wide) in paragraph at lines 975--975
 
 File: ../assets/box.pdf Graphic file (type pdf)
 <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 1017.
+Package pdftex.def Info: ../assets/box.pdf used on input line 1021.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
  [18
 
 
 ]
-Overfull \hbox (15.74257pt too wide) in paragraph at lines 1062--1070
+File: ../assets/box.pdf Graphic file (type pdf)
+ <use ../assets/box.pdf>
+Package pdftex.def Info: ../assets/box.pdf used on input line 1060.
+(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
+ [19]
+Overfull \hbox (15.74257pt too wide) in paragraph at lines 1066--1074
 \T1/Roboto-LF/l/n/10 {% in-clu-de image.html url=``bilder/ba-veraenderungen-stu
 dienverlaufsplan.svg'' cap-ti-on=``Abbildung:
  []
 
-File: ../assets/box.pdf Graphic file (type pdf)
-<use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 1070.
-(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
- [19]
-Overfull \hbox (1.22147pt too wide) in paragraph at lines 1095--1104
+
+Overfull \hbox (1.22147pt too wide) in paragraph at lines 1099--1108
 \T1/Roboto-LF/l/n/10 wa-re-ent-wick-lung aus-zu-rich-ten. Die präg-nan-tes-te A
 us-wir-kung die-ser Maÿ-nah-me ist die Ver-schie-
  []
 
 
-Overfull \hbox (5.78542pt too wide) in paragraph at lines 1115--1119
+Overfull \hbox (5.78542pt too wide) in paragraph at lines 1119--1123
 \T1/Roboto-LF/l/n/10 bau der Pro-jek-tan-tei-le des Ba-che-lor-stu-dien-gangs M
 e-dien-in-for-ma-tik. Links das ak-tu-el-le und rechts
  []
 
 File: ../assets/box.pdf Graphic file (type pdf)
 <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 1125.
+Package pdftex.def Info: ../assets/box.pdf used on input line 1124.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
  [20]
 File: ../assets/box.pdf Graphic file (type pdf)
  <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 1195.
+Package pdftex.def Info: ../assets/box.pdf used on input line 1198.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
  [21]
-Overfull \hbox (2.83954pt too wide) in paragraph at lines 1230--1235
+Overfull \hbox (2.83954pt too wide) in paragraph at lines 1234--1239
 []\T1/Roboto-LF/l/n/10 Das Mo-dul ``Pa-ra-dig-men der Pro-gram-mie-rung'', das 
 bis-lang nur im In-for-ma-tik Ba-che-lor als Pflicht-
  []
 
 File: ../assets/box.pdf Graphic file (type pdf)
 <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 1259.
+Package pdftex.def Info: ../assets/box.pdf used on input line 1253.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
  [22]
 File: ../assets/box.pdf Graphic file (type pdf)
  <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 1271.
+Package pdftex.def Info: ../assets/box.pdf used on input line 1275.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
  [23]
 chapter 6.
-
-Overfull \hbox (46.23653pt too wide) in paragraph at lines 1273--1273
-|\T1/Roboto-LF/l/n/20.74 Geplante Ver-än-de-run-gen des Master-Studiengangs
- []
-
 File: ../assets/box.pdf Graphic file (type pdf)
 <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 1321.
+Package pdftex.def Info: ../assets/box.pdf used on input line 1325.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
  [24
 
 
 ]
-Overfull \hbox (19.90506pt too wide) in alignment at lines 1327--1339
+Overfull \hbox (19.90506pt too wide) in alignment at lines 1331--1343
  [] [] [] 
  []
 
 
-Overfull \hbox (19.90506pt too wide) in alignment at lines 1339--1368
+Overfull \hbox (19.90506pt too wide) in alignment at lines 1343--1372
  [] [] [] 
  []
 
 
-Overfull \hbox (29.07654pt too wide) in alignment at lines 1373--1378
+Overfull \hbox (29.07654pt too wide) in alignment at lines 1377--1382
  [] [] [] 
  []
 
 
-Overfull \hbox (29.07654pt too wide) in alignment at lines 1378--1383
+Overfull \hbox (29.07654pt too wide) in alignment at lines 1382--1387
  [] [] [] 
  []
 
 
-Overfull \hbox (126.55435pt too wide) in alignment at lines 1388--1393
+Overfull \hbox (126.55435pt too wide) in alignment at lines 1392--1397
  [] [] [] 
  []
 
 
-Overfull \hbox (126.55435pt too wide) in alignment at lines 1393--1399
+Overfull \hbox (126.55435pt too wide) in alignment at lines 1397--1403
  [] [] [] 
  []
 
 
-Overfull \hbox (74.08842pt too wide) in alignment at lines 1404--1409
+Overfull \hbox (74.08842pt too wide) in alignment at lines 1408--1413
  [] [] [] 
  []
 
 
-Overfull \hbox (74.08842pt too wide) in alignment at lines 1409--1415
+Overfull \hbox (74.08842pt too wide) in alignment at lines 1413--1419
  [] [] [] 
  []
 
 File: ../assets/box.pdf Graphic file (type pdf)
 <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 1415.
+Package pdftex.def Info: ../assets/box.pdf used on input line 1419.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
  [25]
-Overfull \hbox (19.90506pt too wide) in alignment at lines 1420--1432
+Overfull \hbox (19.90506pt too wide) in alignment at lines 1424--1436
  [] [] [] 
  []
 
 
-Overfull \hbox (19.90506pt too wide) in alignment at lines 1432--1461
+Overfull \hbox (19.90506pt too wide) in alignment at lines 1436--1465
  [] [] [] 
  []
 
 File: ../assets/box.pdf Graphic file (type pdf)
 <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 1506.
+Package pdftex.def Info: ../assets/box.pdf used on input line 1503.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
  [26]
-Overfull \hbox (17.93048pt too wide) in paragraph at lines 1509--1518
+Overfull \hbox (17.93048pt too wide) in paragraph at lines 1513--1522
 \T1/Roboto-LF/l/n/10 kön-nen als Wahlm-odu-le al-le Mo-du-le des Medieninformat
 ik- und des Informatik-Masterstudiengangs
  []
 
 File: ../assets/box.pdf Graphic file (type pdf)
 <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 1523.
+Package pdftex.def Info: ../assets/box.pdf used on input line 1527.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
  [27]
 chapter 7.
 
-Overfull \hbox (13.39554pt too wide) in paragraph at lines 1550--1553
+Overfull \hbox (13.39554pt too wide) in paragraph at lines 1554--1557
 []\T1/Roboto-LF/l/n/10 Wie wur-de das an-ge-streb-te Kom-pe-tenz-pro-fil des St
 u-dien-gangs (weiter-)entwickelt
  []
 
 File: ../assets/box.pdf Graphic file (type pdf)
 <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 1573.
+Package pdftex.def Info: ../assets/box.pdf used on input line 1577.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
  [28
 
 
 ]
-Overfull \hbox (109.90337pt too wide) in paragraph at lines 1585--1585
+Overfull \hbox (109.90337pt too wide) in paragraph at lines 1589--1589
 []\T1/cmtt/m/n/10 cn: hier wäre noch ein kleines Präludium schön. Wie hat sich 
 die MI in den letzten Jahren verändert[] 
  []
 
 
-Overfull \hbox (31.17259pt too wide) in paragraph at lines 1586--1586
+Overfull \hbox (31.17259pt too wide) in paragraph at lines 1590--1590
 []    \T1/cmtt/m/n/10 und was sind strategische Ziele des Instituts (Computergr
 afik, Social Computing)[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1596--1596
+Underfull \hbox (badness 10000) in paragraph at lines 1600--1600
 [][][]\T1/Roboto-LF/l/n/8 Martin Chri-stof Kinds-mül-ler, Chris-ti-an Wol-ters,
  An-dre-as M. Hei-ne-cke: ``Me-dien-in-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1596--1596
+Underfull \hbox (badness 10000) in paragraph at lines 1600--1600
 \T1/Roboto-LF/l/n/8 for-ma-tik 2016: Was war, was ist, was soll sein?'', un-ter
 : http://dl.mensch-und-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1596--1596
+Underfull \hbox (badness 10000) in paragraph at lines 1600--1600
 \T1/Roboto-LF/l/n/8 computer.de/bitstream/handle/123456789/5131/Kindsm%C3%BClle
 r_Wolters_Heinecke_2016.pdf (ab-ge-ru-fen
  []
 
 
-Overfull \hbox (2.73743pt too wide) in paragraph at lines 1623--1640
+Overfull \hbox (2.73743pt too wide) in paragraph at lines 1627--1644
 []\T1/Roboto-LF/l/n/10 Aus die-sen De-fi-ni-tio-nen und den Er-fah-run-gen der 
 Be-tei-lig-ten Stu-dien-gangs-ver-ant-wort-li-chen lässt
  []
 
 File: ../assets/box.pdf Graphic file (type pdf)
 <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 1640.
+Package pdftex.def Info: ../assets/box.pdf used on input line 1644.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
  [29]
-Overfull \hbox (10.59642pt too wide) in paragraph at lines 1658--1661
+Overfull \hbox (10.59642pt too wide) in paragraph at lines 1662--1665
 \T1/Roboto-LF/l/n/10 spra-chen und -methodik, Software-Engineering, Mensch-Comp
 uter-Interaktion, Projekt- und Team-
  []
 
 
-Overfull \hbox (4.18147pt too wide) in paragraph at lines 1666--1671
+Overfull \hbox (4.18147pt too wide) in paragraph at lines 1670--1675
 \T1/Roboto-LF/l/n/10 sys-te-men im An-wen-dungs-kon-text, Recht-li-che Aspek-te
  von In-for-ma-tik-sys-te-men im An-wen-dungs-
  []
 
 
-Overfull \hbox (1.20337pt too wide) in paragraph at lines 1672--1675
+Overfull \hbox (1.20337pt too wide) in paragraph at lines 1676--1679
 []\T1/Roboto-LF/b/n/10 Soziale Kom-pe-ten-zen und Selbst-kom-pe-ten-zen: \T1/Ro
 boto-LF/l/n/10 Ko-ope-ra-ti-ons-ma-na-ge-ment, Diversity- und Kon-
  []
 
 
-Overfull \hbox (31.10446pt too wide) in paragraph at lines 1676--1679
+Overfull \hbox (31.10446pt too wide) in paragraph at lines 1680--1683
 \T1/Roboto-LF/l/n/10 chen Wei-ter-bil-dung, Ana-ly-se von In-for-ma-tik-sys-te-
 men in ih-rem An-wen-dungs-kon-text, Implementierungs-
  []
 
 
-Overfull \hbox (11.33345pt too wide) in paragraph at lines 1684--1689
+Overfull \hbox (11.33345pt too wide) in paragraph at lines 1688--1693
 []\T1/Roboto-LF/l/n/10 Medieninformatiker ana-ly-sie-ren, kon-zi-pie-ren, rea-l
 i-sie-ren und ad-ap-tie-ren in in-ter-dis-zi-pli-nären Teams
  []
 
 File: ../assets/box.pdf Graphic file (type pdf)
 <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 1693.
+Package pdftex.def Info: ../assets/box.pdf used on input line 1697.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
  [30]
 File: ../assets/box.pdf Graphic file (type pdf)
  <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 1698.
+Package pdftex.def Info: ../assets/box.pdf used on input line 1702.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
  [31]
 chapter 8.
-
-Overfull \hbox (0.10652pt too wide) in paragraph at lines 1699--1699
-|\T1/Roboto-LF/l/n/20.74 Qualifikationsziele Me-dien-in-for-ma-tik Ba-che-lor| 
-
- []
-
 LaTeX Font Info:    Font shape `T1/Roboto-LF/l/it' will be
-(Font)              scaled to size 10.0pt on input line 1710.
+(Font)              scaled to size 10.0pt on input line 1714.
 File: ../assets/box.pdf Graphic file (type pdf)
 <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 1712.
+Package pdftex.def Info: ../assets/box.pdf used on input line 1716.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
  [32
 
@@ -1480,7 +1466,7 @@ Package pdftex.def Info: ../assets/box.pdf used on input line 1712.
 chapter 9.
 File: ../assets/box.pdf Graphic file (type pdf)
 <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 1758.
+Package pdftex.def Info: ../assets/box.pdf used on input line 1762.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
  [33
 
@@ -1488,90 +1474,90 @@ Package pdftex.def Info: ../assets/box.pdf used on input line 1758.
 ]
 File: ../assets/box.pdf Graphic file (type pdf)
  <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 1810.
+Package pdftex.def Info: ../assets/box.pdf used on input line 1807.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
  [34]
 File: ../assets/box.pdf Graphic file (type pdf)
 
 <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 1814.
+Package pdftex.def Info: ../assets/box.pdf used on input line 1818.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
  [35]
 chapter 10.
 
-Overfull \hbox (1.85564pt too wide) in paragraph at lines 1845--1849
+Overfull \hbox (1.85564pt too wide) in paragraph at lines 1849--1853
 []\T1/Roboto-LF/l/n/10 Sind al-le ver-bind-lich vor-ge-schrie-be-nen Stu-dien-b
 e-stand-tei-le (ein-schlieÿ-lich prak-
  []
 
 File: ../assets/box.pdf Graphic file (type pdf)
 <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 1852.
+Package pdftex.def Info: ../assets/box.pdf used on input line 1856.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
  [36
 
 
 ]
-Overfull \hbox (3.35365pt too wide) in paragraph at lines 1860--1865
+Overfull \hbox (3.35365pt too wide) in paragraph at lines 1864--1869
 \T1/Roboto-LF/l/n/10 ter-bil-den-de Mas-ter-stu-dien-gän-ge, Ab-schlüs-se und A
 b-schluss-be-zeich-nun-gen be-
  []
 
 
-Overfull \hbox (2.72966pt too wide) in paragraph at lines 1868--1871
+Overfull \hbox (2.72966pt too wide) in paragraph at lines 1872--1875
 []\T1/Roboto-LF/l/n/10 Dokumente, in de-nen Stu-di-en-ver-läu-fe und de-ren Or-
 ga-ni-sa-ti-on ge-re-gelt sind (z. B.
  []
 
 
-Overfull \hbox (178.1367pt too wide) in paragraph at lines 1883--1883
+Overfull \hbox (178.1367pt too wide) in paragraph at lines 1887--1887
 []\T1/cmtt/m/n/10 @kristian, @gerhard, @mario: kann einer von euch was dazu sch
 reiben? Ich hab keine Peilung, was die da wollen :/[] 
  []
 
 File: ../assets/box.pdf Graphic file (type pdf)
 <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 1886.
+Package pdftex.def Info: ../assets/box.pdf used on input line 1890.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
  [37]
 chapter 11.
 
-Overfull \hbox (2.22458pt too wide) in paragraph at lines 1898--1905
+Overfull \hbox (2.22458pt too wide) in paragraph at lines 1902--1909
 \T1/Roboto-LF/l/n/10 Leis-tun-gen ge-mäÿ der Lissa-bon Kon-ven-ti-on und au-ÿer
 -hoch-schu-lisch er-brach-te Leis-
  []
 
 File: ../assets/box.pdf Graphic file (type pdf)
 <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 1926.
+Package pdftex.def Info: ../assets/box.pdf used on input line 1930.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
  [38
 
 
 ]
-Overfull \hbox (3.00374pt too wide) in paragraph at lines 1955--1961
+Overfull \hbox (3.00374pt too wide) in paragraph at lines 1959--1965
 []\T1/Roboto-LF/l/n/10 Curriculare Über-sicht/-Stu-di-en-ver-laufs-plan, aus de
 r/-dem Se-mes-ter-la-ge, Um-fang
  []
 
 
-Overfull \hbox (4.56567pt too wide) in paragraph at lines 1955--1961
+Overfull \hbox (4.56567pt too wide) in paragraph at lines 1959--1965
 \T1/Roboto-LF/l/n/10 Ver-öf-fent-li-chungs-ort wie z. B. Ho-me-pa-ge, Stu-di-en
 -füh-rer, Studien- bzw. Prü-fungs-
  []
 
 
-Overfull \hbox (4.74966pt too wide) in paragraph at lines 1961--1966
+Overfull \hbox (4.74966pt too wide) in paragraph at lines 1965--1970
 \T1/Roboto-LF/l/n/10 xis-pha-sen und An-er-ken-nung von an an-de-ren Hoch-schu-
 len / au-ÿer-halb der Hoch-
  []
 
 File: ../assets/box.pdf Graphic file (type pdf)
 <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 1979.
+Package pdftex.def Info: ../assets/box.pdf used on input line 1983.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
  [39]
-Overfull \hbox (755.49571pt too wide) in paragraph at lines 1985--1985
+Overfull \hbox (755.49571pt too wide) in paragraph at lines 1989--1989
 []\T1/cmtt/m/n/10 cn: hier bitte die Studiengänge nur beschreiben, also bitte n
 icht mehr auf veränderungen eingehen, so dass wir diese Texte später weiter ben
 utzen können. Alle Veränderungen bitte im Kapitel "Qualifikationsziele" veranke
@@ -1579,10 +1565,362 @@ rn.[]
  []
 
 
-Overfull \hbox (5.46254pt too wide) in paragraph at lines 2000--2003
+Overfull \hbox (5.46254pt too wide) in paragraph at lines 2011--2014
 \T1/Roboto-LF/l/n/10 {% in-clu-de image.html url=``bilder/ba-studienphasen.svg'
 ' cap-ti-on=``Abbildung: Stu-di-en-pha-sen des
  []
 
+File: ../assets/box.pdf Graphic file (type pdf)
+<use ../assets/box.pdf>
+Package pdftex.def Info: ../assets/box.pdf used on input line 2028.
+(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
+ [40]
+Overfull \hbox (4.15758pt too wide) in paragraph at lines 2037--2043
+\T1/Roboto-LF/l/n/10 {% in-clu-de image.html url=``bilder/ma-schwerpunkte.svg''
+ cap-ti-on=``Abbildung: Schwer-punk-te Me-
+ []
 
-./content.tex:2017
+
+Overfull \hbox (13.62256pt too wide) in paragraph at lines 2037--2043
+\T1/Roboto-LF/l/n/10 dien-in-for-ma-tik Mas-ter'' %} {% in-clu-de image.html ur
+l=``bilder/ma-leitfragen.svg'' cap-ti-on=``Abbildung:
+ []
+
+
+Overfull \hbox (1.94357pt too wide) in paragraph at lines 2037--2043
+\T1/Roboto-LF/l/n/10 Leit-fra-gen Me-dien-in-for-ma-tik Mas-ter'' %} {% in-clu-
+de image.html url=``bilder/ma-projektfragen.svg''
+ []
+
+File: ../assets/box.pdf Graphic file (type pdf)
+<use ../assets/box.pdf>
+Package pdftex.def Info: ../assets/box.pdf used on input line 2046.
+(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
+ [41]
+chapter 12.
+
+Overfull \hbox (16.27357pt too wide) in paragraph at lines 2076--2080
+[]\T1/Roboto-LF/l/n/10 Woran er-ken-nen die Ver-ant-wort-li-chen, dass die (for
+-ma-len und fachlich-inhaltlichen)
+ []
+
+
+Overfull \hbox (5.11864pt too wide) in paragraph at lines 2096--2101
+\T1/Roboto-LF/l/n/10 re-le-van-ten) Re-ge-lun-gen zu Wie-der-ho-lungs-mög-lich-
+kei-ten, Nach-teils-aus-gleich bei
+ []
+
+File: ../assets/box.pdf Graphic file (type pdf)
+<use ../assets/box.pdf>
+Package pdftex.def Info: ../assets/box.pdf used on input line 2101.
+(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
+ [42
+
+
+]
+Overfull \hbox (4.74966pt too wide) in paragraph at lines 2135--2140
+\T1/Roboto-LF/l/n/10 xis-pha-sen und An-er-ken-nung von an an-de-ren Hoch-schu-
+len / au-ÿer-halb der Hoch-
+ []
+
+File: ../assets/box.pdf Graphic file (type pdf)
+<use ../assets/box.pdf>
+Package pdftex.def Info: ../assets/box.pdf used on input line 2156.
+(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
+ [43]
+File: ../assets/box.pdf Graphic file (type pdf)
+ <use ../assets/box.pdf>
+Package pdftex.def Info: ../assets/box.pdf used on input line 2213.
+(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
+ [44]
+Overfull \hbox (10.92441pt too wide) in paragraph at lines 2216--2222
+\T1/Roboto-LF/l/n/10 Punk-te und 144 Se-mes-ter-wo-chen-stun-den Se-mes-ter-wo-
+chen-stun-den. Dies ent-spricht durch-schnitt-
+ []
+
+File: ../assets/box.pdf Graphic file (type pdf)
+<use ../assets/box.pdf>
+Package pdftex.def Info: ../assets/box.pdf used on input line 2246.
+(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
+ [45]
+Overfull \hbox (2.2825pt too wide) in paragraph at lines 2254--2262
+\T1/Roboto-LF/l/n/10 Viele Fach-prü-fun-gen der Ba-che-lor-stu-dien-gän-ge, vor
+ al-lem der Grund-la-gen-fä-cher, wer-den in Form
+ []
+
+File: ../assets/box.pdf Graphic file (type pdf)
+<use ../assets/box.pdf>
+Package pdftex.def Info: ../assets/box.pdf used on input line 2284.
+(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
+ [46]
+Overfull \hbox (0.93846pt too wide) in paragraph at lines 2314--2318
+[]\T1/Roboto-LF/l/n/10 Darüber hin-aus bie-tet die Me-dien-in-for-ma-tik ei-ni-
+ge Ver-an-stal-tun-gen (sie-he au-ÿer-cur-ri-cu-la-re Maÿ-
+ []
+
+File: ../assets/box.pdf Graphic file (type pdf)
+<use ../assets/box.pdf>
+Package pdftex.def Info: ../assets/box.pdf used on input line 2319.
+(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
+ [47]
+chapter 13.
+File: ../assets/box.pdf Graphic file (type pdf)
+<use ../assets/box.pdf>
+Package pdftex.def Info: ../assets/box.pdf used on input line 2370.
+(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
+ [48
+
+
+]
+File: ../assets/box.pdf Graphic file (type pdf)
+ <use ../assets/box.pdf>
+Package pdftex.def Info: ../assets/box.pdf used on input line 2371.
+(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
+ [49]
+chapter 14.
+
+Overfull \hbox (4.4106pt too wide) in paragraph at lines 2387--2389
+[]\T1/Roboto-LF/l/n/10 Funktionieren die hoch-schulin-ter-nen und hoch-schu-lex
+-ter-nen Ko-ope-ra-tio-nen aus
+ []
+
+File: ../assets/box.pdf Graphic file (type pdf)
+<use ../assets/box.pdf>
+Package pdftex.def Info: ../assets/box.pdf used on input line 2400.
+(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
+ [50
+
+
+]
+chapter 15.
+
+Overfull \hbox (1.48965pt too wide) in paragraph at lines 2426--2429
+[]\T1/Roboto-LF/l/n/10 Inwieweit sind Forschungs- und Ent-wick-lungs-tä-tig-kei
+-ten der Leh-ren-den der Stu-
+ []
+
+
+Overfull \hbox (17.71461pt too wide) in paragraph at lines 2432--2435
+[]\T1/Roboto-LF/l/n/10 Woran er-ken-nen die Ver-ant-wort-li-chen, dass Wei-ter-
+bil-dungs-maÿ-nah-men er-wünscht
+ []
+
+File: ../assets/box.pdf Graphic file (type pdf)
+<use ../assets/box.pdf>
+Package pdftex.def Info: ../assets/box.pdf used on input line 2440.
+(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
+ [51
+
+
+]
+Overfull \hbox (2.6277pt too wide) in paragraph at lines 2457--2460
+[]\T1/Roboto-LF/l/n/10 Daten zu wahr-ge-nom-me-nen Wei-ter-bil-dungs-ak-ti-vi-t
+ä-ten, z. B. For-schungs-se-mes-
+ []
+
+File: ../assets/box.pdf Graphic file (type pdf)
+<use ../assets/box.pdf>
+Package pdftex.def Info: ../assets/box.pdf used on input line 2502.
+(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
+ [52]
+File: ../assets/box.pdf Graphic file (type pdf)
+ <use ../assets/box.pdf>
+Package pdftex.def Info: ../assets/box.pdf used on input line 2557.
+(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
+ [53]
+File: ../assets/box.pdf Graphic file (type pdf)
+
+<use ../assets/box.pdf>
+Package pdftex.def Info: ../assets/box.pdf used on input line 2611.
+(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
+ [54]
+File: ../assets/box.pdf Graphic file (type pdf)
+ <use ../assets/box.pdf>
+Package pdftex.def Info: ../assets/box.pdf used on input line 2668.
+(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
+ [55]
+File: ../assets/box.pdf Graphic file (type pdf)
+
+<use ../assets/box.pdf>
+Package pdftex.def Info: ../assets/box.pdf used on input line 2724.
+(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
+ [56]
+File: ../assets/box.pdf Graphic file (type pdf)
+ <use ../assets/box.pdf>
+Package pdftex.def Info: ../assets/box.pdf used on input line 2774.
+(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
+ [57]
+File: ../assets/box.pdf Graphic file (type pdf)
+
+<use ../assets/box.pdf>
+Package pdftex.def Info: ../assets/box.pdf used on input line 2843.
+(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
+ [58]
+File: ../assets/box.pdf Graphic file (type pdf)
+ <use ../assets/box.pdf>
+Package pdftex.def Info: ../assets/box.pdf used on input line 2902.
+(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
+ [59]
+File: ../assets/box.pdf Graphic file (type pdf)
+
+<use ../assets/box.pdf>
+Package pdftex.def Info: ../assets/box.pdf used on input line 2961.
+(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
+ [60]
+File: ../assets/box.pdf Graphic file (type pdf)
+ <use ../assets/box.pdf>
+Package pdftex.def Info: ../assets/box.pdf used on input line 3037.
+(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
+ [61]
+LaTeX Font Info:    Font shape `T1/Roboto-LF/b/n' will be
+(Font)              scaled to size 12.0pt on input line 3126.
+File: ../assets/box.pdf Graphic file (type pdf)
+
+<use ../assets/box.pdf>
+Package pdftex.def Info: ../assets/box.pdf used on input line 3191.
+(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
+ [62]
+Overfull \vbox (1344.04807pt too high) has occurred while \output is active []
+
+File: ../assets/box.pdf Graphic file (type pdf)
+
+<use ../assets/box.pdf>
+Package pdftex.def Info: ../assets/box.pdf used on input line 3191.
+(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
+ [63]
+chapter 16.
+
+Overfull \hbox (2.46275pt too wide) in paragraph at lines 3195--3198
+[]\T1/Roboto-LF/l/n/10 Studiengang, Stu-di-en-ver-lauf, Prü-fungs-an-for-de-run
+-gen und Zu-gangs-vor-aus-set-zun-gen
+ []
+
+
+Overfull \hbox (11.84264pt too wide) in paragraph at lines 3213--3217
+[]\T1/Roboto-LF/l/n/10 Vorlage al-ler re-le-van-ten Re-ge-lun-gen zu Stu-di-en-
+ver-lauf, Zu-gang, Stu-di-en-ab-schluss,
+ []
+
+File: ../assets/box.pdf Graphic file (type pdf)
+<use ../assets/box.pdf>
+Package pdftex.def Info: ../assets/box.pdf used on input line 3222.
+(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
+ [64
+
+
+]
+chapter 17.
+
+Overfull \hbox (0.91754pt too wide) in paragraph at lines 3226--3231
+\T1/Roboto-LF/l/n/10 schu-le Eva-lua-ti-ons-er-geb-nis-se, Un-ter-su-chun-gen d
+er stu-den-ti-schen Ar-beits-be-las-tung,
+ []
+
+File: ../assets/box.pdf Graphic file (type pdf)
+<use ../assets/box.pdf>
+Package pdftex.def Info: ../assets/box.pdf used on input line 3269.
+(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
+ [65
+
+
+]
+File: ../assets/box.pdf Graphic file (type pdf)
+ <use ../assets/box.pdf>
+Package pdftex.def Info: ../assets/box.pdf used on input line 3322.
+(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
+ [66]
+Overfull \hbox (2.83842pt too wide) in paragraph at lines 3328--3336
+\T1/Roboto-LF/l/n/10 ner Management-Review eva-lu-iert. Als zen-tra-les Do-ku-m
+ent des Qualitäts-Management-Systems
+ []
+
+File: ../assets/box.pdf Graphic file (type pdf)
+<use ../assets/box.pdf>
+Package pdftex.def Info: ../assets/box.pdf used on input line 3337.
+(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
+ [67]
+chapter 18.
+
+Overfull \hbox (4.75955pt too wide) in paragraph at lines 3341--3347
+[]\T1/Roboto-LF/l/n/10 Auf der Ebe-ne des Stu-dien-gangs wer-den die Kon-zep-te
+ der Hoch-schu-le zur Ge-schlech-
+ []
+
+File: ../assets/box.pdf Graphic file (type pdf)
+<use ../assets/box.pdf>
+Package pdftex.def Info: ../assets/box.pdf used on input line 3385.
+(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
+ [68
+
+
+]
+File: ../assets/box.pdf Graphic file (type pdf)
+ <use ../assets/box.pdf>
+Package pdftex.def Info: ../assets/box.pdf used on input line 3433.
+(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
+ [69]
+File: ../assets/box.pdf Graphic file (type pdf)
+
+<use ../assets/box.pdf>
+Package pdftex.def Info: ../assets/box.pdf used on input line 3442.
+(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
+ [70]
+chapter 19.
+File: ../assets/box.pdf Graphic file (type pdf)
+<use ../assets/box.pdf>
+Package pdftex.def Info: ../assets/box.pdf used on input line 3465.
+(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
+ [71
+
+
+]
+chapter 20.
+File: ../assets/box.pdf Graphic file (type pdf)
+<use ../assets/box.pdf>
+Package pdftex.def Info: ../assets/box.pdf used on input line 3524.
+(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
+ [72
+
+
+]
+File: ../assets/box.pdf Graphic file (type pdf)
+ <use ../assets/box.pdf>
+Package pdftex.def Info: ../assets/box.pdf used on input line 3583.
+(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
+ [73])
+File: ../assets/box.pdf Graphic file (type pdf)
+
+<use ../assets/box.pdf>
+Package pdftex.def Info: ../assets/box.pdf used on input line 206.
+(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
+ [74]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 214.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 214.
+ (./selbstbericht.aux (./content.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 214.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 214.
+Package rerunfilecheck Info: File `selbstbericht.out' has not changed.
+(rerunfilecheck)             Checksum: 6C3EF0D51511ADA7D7AF1302A6677A62;13954.
+ ) 
+Here is how much of TeX's memory you used:
+ 16516 strings out of 493014
+ 261352 string characters out of 6133350
+ 467331 words of memory out of 5000000
+ 19472 multiletter control sequences out of 15000+600000
+ 64587 words of font info for 46 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,15n,100p,8492b,807s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/roboto/rbto_idpkzy.enc}{/
+usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/roboto/rbto_bergpl.enc}{/usr/
+local/texlive/2016/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/lo
+cal/texlive/2016/texmf-dist/fonts/type1/google/roboto/Roboto-Bold.pfb></usr/loc
+al/texlive/2016/texmf-dist/fonts/type1/google/roboto/Roboto-Light.pfb></usr/loc
+al/texlive/2016/texmf-dist/fonts/type1/google/roboto/Roboto-LightItalic.pfb></u
+sr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb>
+Output written on selbstbericht.pdf (79 pages, 678404 bytes).
+PDF statistics:
+ 1412 PDF objects out of 1440 (max. 8388607)
+ 1296 compressed objects within 13 object streams
+ 299 named destinations out of 1000 (max. 500000)
+ 1398 words of extra memory for PDF output out of 10000 (max. 10000000)
+

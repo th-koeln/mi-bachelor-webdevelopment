@@ -144,6 +144,10 @@ Mit den Medieninformatik Studiengänge bietet die Fakultät für Informatik und 
 
 Die Studiengänge, vor allem der Bachelor, erfreuen sich extrem großer Nachfrage, sowohl von Studierenden als auch von Unternehmen. Beim unabhängigen Bewertungsportal "Studycheck.de" [^Link-studycheckde] wird die Medieninformatik am Campus Gummersbach unter den TOP 5 Studiengängen in diesem Segment gelistet [^Anhang-Snapshot-Bewertungen-von-studycheckde].
 
+~~~
+@gerhard: hättest Du Lust was zu unseren Promotionserfolgen zu schreiben?
+~~~
+
 ## Erfüllung der Auflagen der Reakkreditierung 2010
 
 Der Technischen Hochschule Köln wurden im Rahmen der Reakkreditierung im März 2010 folgende Auflagen der Akkreditierungskommission mitgeteilt.
@@ -809,26 +813,43 @@ Das Studienangebot richtet sich primär an Studierende des deutschsprachigen Rau
 
 ## Bachelor
 
-### Studienphasen
-
-{% include image.html url="bilder/ba-studienphasen.svg" caption="Abbildung: Studienphasen des Bachelorstudiengangs Medieninformatik" %}
-
 ### Prinzipien
 
 Module eines Schwerpunkts näher zusammen bringen Projektkontexte reduzieren
 Workflow berücksichtigen
 Projektorientierung berücksichtigen
 Projektgrößen sinnvoll aufbauen mehr Wahlmöglichkeiten weniger Prüfungselemente
-
-### Lehr-
-
-~~~
-cn: Grafiken nicht vergessen!
-~~~
+Austauschsemester in 5
+Vertiefung
 
 
-![](../anhaenge/bilder/ba-studienphasen.svg){:class="img-responsive"}
-*Bild 1: Studienphasen des Bachelorstudiengangs Medieninformatik*
+### Studienphasen
+
+{% include image.html url="bilder/ba-studienphasen.svg" caption="Abbildung: Studienphasen des Bachelorstudiengangs Medieninformatik" %}
+
+### Lehrformen
+
+
+## Master
+
+### Prinzipien
+
+- Leitfragen
+- Workflow berücksichtigen
+- Säulen
+- Projekt- und Forschungsorientierung
+- arbeitsteilige Projekte
+
+### Studienstruktur
+{% include image.html url="bilder/ma-schwerpunkte.svg" caption="Abbildung: Schwerpunkte Medieninformatik Master" %}
+{% include image.html url="bilder/ma-leitfragen.svg" caption="Abbildung: Leitfragen Medieninformatik Master" %}
+{% include image.html url="bilder/ma-projektfragen.svg" caption="Abbildung: Ausrichtung der Projekte" %}
+
+
+### Lehrformen
+
+
+
 
 
 # Studierbarkeit
