@@ -1,9 +1,73 @@
 # Formale Angaben
 
----
-title: Einbettung des Studienganges in die Hochschule
-ueberarbeitung-erforderlich: ja 
----
+Es handelt sich um konsekutive Studiengänge mit den Abschlüssen Bachelor und Master. Die formalen Angaben werden daher für die verschiedenen Studiengänge getrennt gemacht.
+
+## Bachelor Medieninformatik
+Bezeichnung des Studiengangs in deutsch
+: Bachelor Medieninformatik
+
+Bezeichnung des Studiengangs in englisch
+: Bachelor in media informatics
+
+Unterrichtssprache
+: Deutsch
+
+Kontaktperson
+: Prof. Christian Noss, christian.noss@th-koeln.de, +49 171 79 19 249, +49 2261 8196 6412
+
+Web Adresse
+: http://www.medieninformatik.th-koeln.de/bachelor
+
+Zuordnung zu einem Profil
+: n/a
+
+Einordnung konsekutiv/ nicht konsekutiv
+: Konsekutiv
+
+Zu verleihender Hochschulgrad
+: Bachelor of Science
+ 
+Regelstudienzeit
+: Sechs Semester
+
+Studienbeginn
+: Jeweils zum Wintersemester
+ 
+
+## Master Medieninformatik
+
+Bezeichnung des Studiengangs in deutsch
+: Master Medieninformatik
+
+Bezeichnung des Studiengangs in englisch
+: Master in media informatics
+
+Unterrichtssprache
+: Deutsch
+
+Kontaktperson
+: Prof. Dr. Mario Winter, mario.winter@th-koeln.de, +49 2261 8196 6285
+
+Web Adresse
+: http://www.medieninformatik.th-koeln.de/master
+
+Zuordnung zu einem Profil
+: anwendungsorientierter Studiengang
+
+Einordnung konsekutiv/ nicht konsekutiv
+: Konsekutiv zu den Studiengängen Medieninformatik (Bachelor)
+
+Zu verleihender Hochschulgrad
+: Master of Science
+ 
+Regelstudienzeit
+: Vier Semester
+
+Studienbeginn
+: Aufnahme in jedem Semester
+
+
+# Einbettung des Studienganges in die Hochschule
 
 ## Kurzüberblick über die Struktur der Hochschule
 
@@ -49,14 +113,7 @@ Das Institut für Informatik betreibt Labore für:
 - Kommunikationstechnik & Datensicherheit (KTDS)
 - Wirtschaftsinformatik (WI)
 
-~~~~~
-	Aktueller Bearbeiter: -
-	Bearbeiterhistorie: Christian Noss
-	Date: 14.02.2017
-	Comment: Inhaltlich ok, Abbildung Verteilung der Studierenden fehlt.
-	Status: Peer-Review erforderlich
-	Reviewed von: -
-~~~~~
+
 
 [^Anhang-Diversity-Konzepte]: <a href="https://www.th-koeln.de/hochschule/educational-diversity_5710.php">https://www.th-koeln.de/hochschule/educational-diversity_5710.php</a>
 [^anhang-profil2]: <a href="https://www.th-koeln.de/hochschule/profil_5676.php">https://www.th-koeln.de/hochschule/profil_5676.php</a>
@@ -65,10 +122,7 @@ Das Institut für Informatik betreibt Labore für:
 [^studierende-gm-2016]: <a href="../anhaenge/Studentenzahlen_WS-2016_(01.12.2016).pdf">Studentenzahlen_WS-2016_(01.12.2016).pdf</a>
 
 
----
-title: Analyse der Studiengänge
-ueberarbeitung-erforderlich: ja 
----
+# Analyse der Studiengänge
 
 Die Studiengänge wurden auf Basis verschiedener quantitativer und qualitativer Erhebungen analysiert und in einem iterativen Prozess optimiert. An diesem Prozess waren folgende Personengruppen beteiligt:
 
@@ -83,16 +137,13 @@ Die Studiengänge wurden auf Basis verschiedener quantitativer und qualitativer 
 | Qualitätsmanagement-Team | themenspezifische Abstimmungsmeetings, Einzelgespräche |
 | Alumni und Wirtschaftsvertreter | Evaluationen, Einzelgespräche |
 
-~~~~~
-	Aktueller Bearbeiter: Christian Noss
-	Bearbeiterhistorie: Christian Noss
-	Date: 14.02.2017
-	Comment: erstmal fertig
-	Status: Peer-Review erforderlich
-	Reviewed von: -
-~~~~~
 
 # Ist-Zustand
+
+Mit den Medieninformatik Studiengänge bietet die Fakultät für Informatik und Ingenieurwissenschaften der TH Köln seit dem Jahr 2000 ein wissenschaftlich fundiertes und praxisorientiertes Informatik-Studienprogramm mit dem Schwerpunkt Medien an. Fachlich und strukturell ist der Bachelor Studiengang und der konsekutive Masterstudiengang auf die Analyse, Konzeption, Realisierung und Adaption von, oft web-basierten Prozessen und Systemen zur Produktion, Bearbeitung und Distribution medienbasierter Informationen sowie interaktiver Systeme ausgerichtet. Den Kern bildet ein Informatikstudium. Hinzu kommt die Vermittlung umfassender, vielschichtiger analytischer wie konstruktiver Medienkompetenzen sowie ökonomischer, technischer und gesellschaftlicher Grundkenntnisse. Darüber hinaus werden zeitgemäße Toolchains, Kollaborations- und Entwicklungsmethoden vermittelt und überwiegend projektorientiert eingeübt.
+
+Die Studiengänge, vor allem der Bachelor, erfreuen sich extrem großer Nachfrage, sowohl von Studierenden als auch von Unternehmen. Beim unabhängigen Bewertungsportal "Studycheck.de" [^Link-studycheckde] wird die Medieninformatik am Campus Gummersbach unter den TOP 5 Studiengängen in diesem Segment gelistet [^Anhang-Snapshot-Bewertungen-von-studycheckde].
+
 ## Erfüllung der Auflagen der Reakkreditierung 2010
 
 Der Technischen Hochschule Köln wurden im Rahmen der Reakkreditierung im März 2010 folgende Auflagen der Akkreditierungskommission mitgeteilt.
@@ -120,8 +171,46 @@ Diese Auflagen wurden von der Technischen Hochschule Köln folgendermaßen erfü
   - Sollte die Prüfungsform, bspw. wegen aktueller didaktischer Erwägungen, von der im Modulhandbuch bekannt gemachten Form abweichen, so ist diese durch den Dozenten dem Prüfungsamt rechtzeitig mitzuteilen, welches über die Änderung dann per Aushang fristgerecht informiert. § 14 der Prüfungsordnung für den Masterstudiengang Medieninformatik wurde dementsprechend neu gefasst.
 - zu 2: Die Prüfungsordnungen vom 7. Januar 2011, in denen alle Auflagen erfüllt sind, wurden vom Fakultätsrat der Fakultät für Informatik und Ingenieurwissenschaften am 10.11.2010 bzw. 6.1.2011 beschlossen und vom Präsidenten der Fachhochschule Köln am 7.1.2011 genehmigt. Sie liegen der ASIIN vor.
 
+### Begleitende Betreuung während des Studiums
+
+#### MentoRing Programm des Campus Gummersbach
+
+Mit Beginn des Wintersemesters 11/12 wurde das mehrstufige MentoRing4Excellence© an der Fakultät für Informatik und Ingenieurwissenschaften der TH Köln eingeführt. Das Mentoringprogramm spannt ein Netzwerk zwischen Studienanfängern, erfahrenen Studierenden und externen Führungskräften. Es beinhaltet die Unterprogramme MentoRing4Beginners© und MentoRing4LeadershipDevelopment©. MentoRing4Beginners© bietet den Erstsemestern am Campus Gummersbach Orientierung und Hilfestellung bei ihrem Studienstart. Erfahrene Studierende stehen den „Neuen“ als Mentoren/innen zur Seite, damit diese besser in den Studienalltag hineinfinden und schneller Kontakte knüpfen können. Sie sind während des ersten Semesters Begleitung und Ansprechpartner in allen Fragen rund ums Studium, z. B. in Bezug auf die Studienorganisation, die Studienlaufbahnplanung, Lerntechniken, Prüfungsvorbereitung und Projekte. Ab dem zweiten Semester stehen sie den Studierenden campusweit und semesterübergreifend als Tutoren für wissenschaftliches Arbeiten zur Verfügung. Dafür werden die Mentoren intensiv geschult. In einem mehrstufigen Verfahren werden 15 erfolgreiche Studierende der Informatik und Ingenieurwissenschaften mit ausgeprägter Sozialkompetenz als Mentoren/innen ausgewählt und in einem viertägigen Intensivtraining auf ihre Aufgabe vorbereitet. Während des Semesters erhalten sie laufende Supervision.
+
+Für Studienanfänger und Mentoren bedeutet das Mentoring ein Gewinn. Die Studienanfänger finden leichter ins Studium und schneller Kontakte. Die Mentoren erhalten neue Impulse für den eigenen Studienkontext und entwickeln/stärken die eigene Kommunikations- und Beratungskompetenz. Das Mentoringprogramm wird evaluiert.
+
+Besonders engagierte, leistungs- und kommunikationsbereite Studierende, die sich als Mentoren bewährt haben, können sich für das „Leadership Development Program“ bewerben. Im Rahmen dieses studienbegleitenden Qualifizierungsprogramms werden den Studierenden externe Führungskräfte als Mentoren zur Seite gestellt, so dass sie in Gesprächen, in Projektmitarbeit und durch Einbindung in berufsrelevante Netzwerke von deren langjähriger Berufs- und Lebenserfahrung profitieren können. Das Programm beginnt mit einer individuellen Potenzialanalyse und umfasst mehrere Trainingseinheiten zur Entwicklung relevanter Führungsfähigkeiten.
+
+#### Medieninformatik Mentor
+
+Ergänzend zum MentoRing Programm, dass sich an alle Studienanfänger des Campus Gummersbach richtet, wurde in der Medieninformatik mit der letzten Reakkreditierung die Stelle des Medieninformatik Mentor geschaffen. Diese wird mit erfahrenen wissenschaftlichen Mitarbeitern/innen besetzt, die selbst zumindest den Bachelorstudiengang Medieninformatik am Campus Gummersbach absolviert haben. Der Medieninformatik Mentor fungiert als institutionelles Bindeglied zwischen Studierenden und Lehrenden und ist bei Problemen und Fragen rund um das Studium Ansprechpartner für die Studierenden, aber auch für Lehrende. Mit Hilfe dieser Stelle werden auch wiederkehrende Probleme sichtbar und können seitens der Studiengangsbetreiber behoben, verbessert oder zumindest thematisiert werden.
+
+### Außercurriculare Maßnahmen
+
+Mehrere gebündelte und ständig weiter entwickelte außercurriculare Maßnahmen tragen, insbesondere vor dem Hintergrund der stark ansteigenden Studierendenzahlen, zur weiteren Verbesserung der Studienqualität bei.
+
+#### Showcase
+
+Das jährlich durchgeführte Medieninformatik-Showcase dient zur Stärkung der Identität der Medieninformatik, zur besseren Vernetzung von Studierenden sowohl zwischen Master- und Bachelorstudierenden als auch über die Studiensemester, zum Ausblick auf die Praxis durch externe Sprecher (oft Alumni), sowie als strukturierte Feedbackmöglichkeit. Das Event verbessert außerdem die Sichtbarkeit der Medieninformatik am Campus und in der Region.
+
+#### Social Media Angebote
+
+Die von der Medieninformatik eingerichteten und administrierten Social Media Angebote in YouTube, Facebook- und Twitter erreichen regelmäßig etwa 1000 Abonnenten, sprich: Studierende, Interessierte und Alumni. Sie bieten eine gute Gelegenheit um im Gespräch zu bleiben, Themen und Arbeitsergebnisse zu platzieren, sowie Studienanfänger, Jobs und Projekte zu akquirieren oder anzubieten.
+
+#### Wettbewerb "Die besten Projekte"
+
+Der jährlich vom Labor für Medieninformatik durchgeführte Wettbewerb "Die besten Projekte", welcher einerseits gute und sehr gute Ergebnisse aus dem Bachelor- und dem Masterstudiengang herausstellt, andererseits in der gemeinsamen Abschlusspräsentation zur Vernetzung zwischen den Studierenden des Bachelor- und des Masterstudiengangs beiträgt, und letztendlich den projektorientierten Ansatz in der Medieninformatik nachhaltig sichtbar macht.
+
+#### Medieninformatik Kontaktbörse
+
+Die bereits beschriebe, einmal im Semester durchgeführte, Medieninformatik Kontaktbörse dient zur Erleichterung des Übergangs in das Abschlusssemester, zur Herstellung von Kontakten zu potentiellen Kooperationspartnern, und zum Geben von Ideen und Inspiration zu Themen für die Abschlussarbeit.
+
+#### Medieninformatik-Filmfest
+
+Das jährlich durchgeführte Medieninformatik-Filmfest dient zur Stärkung der Identität der Medieninformatik, zur besseren Vernetzung der Studierenden, insbesondere der Studienanfänger und zur Präsentation ausgewählter Arbeitsergebnisse. Das Event verbessert außerdem die Sichtbarkeit der Medieninformatik am Campus und in der Region.
 
 ## Stärken und Schwächen Analyse
+
 
 ### Beurteilung des Studienerfolgs auf der Basis von Absolventenbefragungen und Verbleibstudien
 
@@ -129,9 +218,16 @@ Die folgenden Ausführungen beruhen auf der Datenerhebung[^anhang-verbleib-und-s
 
 ~~~
 cn: Tabelle zeigt nur Zahlen bis 2013. Haben wir da was besseres?
+@Volker: da müsstest Du bitte noch mal eine Tabelle draus machen. Sprechen wir Mittwoch drüber.
 ~~~
 
-{% include image.html url="tabellen/MI-BA-anzahl-studierende.svg" caption="Tabelle 1: Daten des Bachelorstudiengangs Medieninformatik" %}
+{% include image.html url="tabellen/MI-BA-anzahl-studierende.svg" caption="Tabelle: Daten des Bachelorstudiengangs Medieninformatik" %}
+
+| &nbsp; | Einschreibungen gesamt | Davon noch im Studium | Davon Abbruch | Davon Abschluss |
+| ---------- | ---------------------- | --------------------- | ------------- | --------------- |
+| WS 2010/11 | 96                     | 28 (29,2%)            | 30 (31,3%)    | 25 (26,0%)      |
+| WS 2011/12 | 141                    | 59 (41,8%)            | 48 (34,0%)    | 15 (10,6%)      |
+| WS 2012/13 | 144                    | 78 (54,2%)            | 42 (29,2%)    | 2 (1,4%)        |
 
 Die in Tabelle 1 dargestellten Zahlen zeigen einen stetig wachsenden Zulauf für den Bachelorstudiengang Medieninformatik, der ursprünglich für 63 Studierende ausgelegt wurde. Erfreulicherweise ist, trotz der im Rahmen der Fakultätsentwicklung und des Hochschulentwicklungsplans 2020[^anhang-hep-2020] steigenden Anfängerzahlen, eine gleichbleibende Abbrecherquote um die 30% zu erkennen. Die Zahlen zeigen leider auch eine niedrige Quote an Absolventen in Regelstudienzeit, die jedoch im Mittel aller Studiengänge der Fakultät 10 liegt. Nach den vorliegenden Prüfungsstatistiken (vgl. Prüfungsstatistiken [^Anhang-Pruefungsstatistiken]) ist mit einem proportionalen Anstieg der Absolventen zu rechnen.
 
@@ -165,57 +261,24 @@ Bei den Vorbereitungen zum Praxisprojekt, das in der Regel im selben Themenfeld 
 
 Dieser Prozess ist zeitaufwändig und wird von den meisten Studierenden unterschätzt und daher häufig zu spät begonnen. Um diesem Problem entgegen zu wirken wird in der Medieninformatik seit drei Jahren am Ende des fünften Semesterseine Kontaktbörse durchgeführt. Auf dieser Veranstaltung werden den künftigen Absolventen die Regularien, Abläufe und Herausforderungen des Abschlusssemesters erläutert. Darüber hinaus stellen ausgewählte Unternehmen und Organisationen potenzielle Themen und Problemfelder für Praxisprojekt und Bachelorarbeit vor. Auch die Professoren der Informatik haben hier die Möglichkeit ihre Themen und Forschungsfelder als Ansatzpunkt für mögliche, forschungsnahe Praxisprojekte und Abschlussarbeiten vorzustellen.
 
-### Bewertung von Ergebnissen der Evaluation
+### Bewertung von Ergebnissen aus Evaluationen
 
 Hier kann auf Erstsemesterbefragungen und regelmäßig semesterweise durchgeführte Evaluationen der Lehrveranstaltungen verwiesen werden. Die Auswertung der Evaluationen erfolgt zentral durch die Hochschulverwaltung; ein integriertes Qualitätsmanagement nach DIN/ISO 9001 ist an der Fakultät 10 etabliert. In den Ergebnissen[^evaluationen-f10] zeigt sich grundsätzlich bei den Bachelorstudierenden ein etwas geringeres Zufriedenheitsmaß als bei den Masterstudierenden. Dies lässt sich mit Verweis auf die allgemein hohen Abbruchquoten in grundständigen Informatikstudiengängen ggf. so interpretieren, dass die Unzufriedenheit nicht allein durch die Studienangebotsseite verursacht ist. Dennoch lassen sich deutliche Verbesserungspotentiale identifizieren, etwa bzgl. der Einführung neuer Lehr-Lernformate, Koordination der Praktika, Bereitstellung von studentischen Arbeitsräumen, Gastvorträgen, Exkursionen und Workshops.
 
-Der 2013 zu verzeichnende Rückgang der Zufriedenheit bzgl. des Lehrangebotes im Master lässt sich nach unseren Analysen und Gesprächen mit Studierenden u.A. als Auswirkung des ersten, im Informatik-Master durchgeführten Projekt-Semesters interpretieren. Die dort durchgeführten „Guided Projects“ zeigen einen starken Praxisbezug und eine klare, mit den Methoden des (oft agilen) Projektmanagements gestaltete Ablaufstruktur. 
-
-~~~
-cn: hier fehlt noch die explizite Schlussfolgerung
-~~~
+Der 2013 zu verzeichnende Rückgang der Zufriedenheit bzgl. des Lehrangebotes im Master lässt sich nach unseren Analysen und Gesprächen mit Studierenden u.A. als Auswirkung des ersten, im Informatik-Master durchgeführten Projekt-Semesters interpretieren. Die dort durchgeführten „Guided Projects“ zeigen einen starken Praxisbezug und eine klare, mit den Methoden des (oft agilen) Projektmanagements gestaltete Ablaufstruktur. Diese auf den Arbeitsmarkt ausgerichtete Herangehensweise wird auch von vielen Studierenden im Medieninformatik Master gewünscht.
 
 Die Unzufriedenheit bei der Bewertung der Studien- und Prüfungsorganisation in der Fakultät lässt sich auf punktuelle Ausfälle des "Prüfungs- und Studierendenservice Online" (PSSO) und teilweise nicht optimal im Internet kommunizierte Prüfungsinformationen zurückführen. Erfreulich ist die weiterhin große Gesamtzufriedenheit der Studierenden im Medieninformatik Master.
 
-### Außercurriculare Maßnahmen
-
-Mehrere gebündelte und ständig weiter entwickelte außercurriculare Maßnahmen tragen, insbesondere vor dem Hintergrund der stark ansteigenden Studierendenzahlen, zur weiteren Verbesserung der Studienqualität bei.
-
-#### Showcase 
-
-Das jährlich durchgeführte Medieninformatik-Showcase dient zur Stärkung der Identität der Medieninformatik, zur besseren Vernetzung von Studierenden sowohl zwischen Master- und Bachelorstudierenden als auch über die Studiensemester, zum Ausblick auf die Praxis durch externe Sprecher (oft Alumni), sowie als strukturierte Feedbackmöglichkeit. Das Event verbessert außerdem die Sichtbarkeit der Medieninformatik am Campus und in der Region.
-
-#### Medieninformatik Mentor
-
-Der neu eingeführte Medieninformatik Mentor, welcher mit erfahrenen wissenschaftlichen Mitarbeiterinnen oder Mitarbeitern besetzt wird, die selbst zumindest den Bachelorstudiengang Medieninformatik am Campus Gummersbach absolviert haben, um mit den Studierenden Probleme im und um das Studium zu besprechen und als institutionelles Bindeglied zwischen Studierenden und Lehrenden fungiert.
-
-#### Social Media Angebote
-
-Die von der Medieninformatik eingerichteten und administrierten Social Media Angebote in YouTube, Facebook- und Twitter erreichen regelmäßig etwa 1000 Abonnenten, sprich: Studierende, Interessierte und Alumni. Sie bieten eine gute Gelegenheit um im Gespräch zu bleiben, Themen und Arbeitsergebnisse zu platzieren, sowie Studienanfänger, Jobs und Projekte zu akquirieren oder anzubieten.
-
-#### Wettbewerb "Die besten Projekte"
-
-Der jährlich vom Labor für Medieninformatik durchgeführte Wettbewerb "Die besten Projekte", welcher einerseits gute und sehr gute Ergebnisse aus dem Bachelor- und dem Masterstudiengang herausstellt, andererseits in der gemeinsamen Abschlusspräsentation zur Vernetzung zwischen den Studierenden des Bachelor- und des Masterstudiengangs beiträgt, und letztendlich den projektorientierten Ansatz in der Medieninformatik nachhaltig sichtbar macht.
-
-#### Medieninformatik Kontaktbörse
-
-Die bereits beschriebe, einmal im Semester durchgeführte, Medieninformatik Kontaktbörse dient zur Erleichterung des Übergangs in das Abschlusssemester, zur Herstellung von Kontakten zu potentiellen Kooperationspartnern, und zum Geben von Ideen und Inspiration zu Themen für die Abschlussarbeit.
-
-#### Medieninformatik-Filmfest
-
-Das jährlich durchgeführte Medieninformatik-Filmfest dient zur Stärkung der Identität der Medieninformatik, zur besseren Vernetzung der Studierenden, insbesondere der Studienanfänger und zur Präsentation ausgewählter Arbeitsergebnisse. Das Event verbessert außerdem die Sichtbarkeit der Medieninformatik am Campus und in der Region.
-
-
-### Bewertung der statistischen Daten bezüglich der Auslastung, der Prüfungserfolge, der Abbrecherquoten und der Studienanfängerund Bewerberzahlen.
+### Bewertung der statistischen Daten bezüglich der Auslastung, der Prüfungserfolge, der Abbrecherquoten und der Studienanfänger- und Bewerberzahlen.
 
 Die folgenden Ausführungen beruhen auf der Datenerhebung zum 22.09.2016 für den Zeitraum Wintersemester 2011 bis Wintersemester 2015[^Anhang-Pruefungsstatistiken][^Anhang-fakultaetsstruktur] und fokussieren die derzeit eingeschriebenen Studenten, erfolgreiche Abschlüsse und Studienfachabbrecher.
 
-Zur Bewertung der Auslastung kann wie folgt Stellung genommen werden: gemessen an den planmäßigen 63 Studierendenplätzen (WS13/14) werden seit drei Studienjahren im Rahmen der strategischen Fakultätsplanung und des Hochschulentwicklungsplans 2020 mehr als 200% Überlast aufgenommen. Mit den Abbrecherquoten im Bachelorstudiengang bewegt sich die Medieninformatik im breiten Mittelfeld von Informatikstudiengängen im Allgemeinen; 
+Zur Bewertung der Auslastung kann wie folgt Stellung genommen werden: gemessen an den planmäßigen 63 Studierendenplätzen (WS13/14) werden seit drei Studienjahren im Rahmen der strategischen Fakultätsplanung und des Hochschulentwicklungsplans 2020 mehr als 200% Überlast aufgenommen. Mit den Abbrecherquoten im Bachelorstudiengang bewegt sich die Medieninformatik im breiten Mittelfeld von Informatikstudiengängen im Allgemeinen;
 ~~~
 cn: gibt es zu "im breiten Mittelfeld von Informatikstudiengängen" zahlen?
 ~~~
 
-sehr erfreulich ist die für den Masterstudiengang Medieninformatik die geringe Abbrecherquote. In Verbindung mit der bedauerlich hohen, für ingenieur- und naturwissenschaftliche Studiengänge, insbesondere im Bachelor-Bereich jedoch leider inhärenten Abbrecherquote (durchschnittlich geschätzte Schwundquote in der Informatik an Fachhochschulen ist 39%), 
+sehr erfreulich ist die für den Masterstudiengang Medieninformatik die geringe Abbrecherquote. In Verbindung mit der bedauerlich hohen, für ingenieur- und naturwissenschaftliche Studiengänge, insbesondere im Bachelor-Bereich jedoch leider inhärenten Abbrecherquote (durchschnittlich geschätzte Schwundquote in der Informatik an Fachhochschulen ist 39%),
 
 ~~~
 cn: wo kommt diese Zahl her (durchschnittlich geschätzte Schwundquote in der Informatik an Fachhochschulen ist 39%)?
@@ -232,29 +295,32 @@ Im Masterstudium wirkt die sich die, im Rahmen der Reakkreditierung weggefallene
 
 ### Rückschlüsse aus informellen Gesprächen und Kommentaren
 
-- vertiefende Kenntnisse von verschiedenen Programmierkonzepte
+>  … anstrengend und fordernd, aber macht viel Spaß …
 
-~~~
-cn: TBD
-~~~
+Aus verschiedenen Einzel- und Gruppengesprächen im Team der Studiengangsbetreiber sowie mit Studierenden und Alumni, als auch aus Kommentaren aus Feedbackrunden und Online-Foren lassen sich eine Reihe von Stärken und Schwächen ableiten.
+
+Der Studienaufbau des Bachelorstudiengangs wird überwiegend als positiv und gut durchdacht bewertet. Die Lehrveranstaltungen werden in Summe als gut organisiert und vorbereitet, interessant, aber auch als sehr sehr anspruchsvoll beschrieben. Der Umfang des Studiums wird zuweilen als "vom Umfang überwältigend" bezeichnet. Diese Einschätzung wird von Alumni jedoch dahingehend ergänzt, dass nach dem Einstieg ins Berufsleben die Wichtigkeit und Relevanz der einzelnen Module offenbar wurde und sie sich mit dem Studium sehr gut Beruf platzieren konnten und in bestimmten Berufszweigen sehr flexibel einsetzbar sind. Das Verhältnis der allgemeinen Informatik Anteile und der medieninformatik-spezifischen Module wird gut bewertet.
+
+Durchweg sehr positiv wird die gute und intensive Betreuung durch das Lehrpersonal beschrieben: "Die Dozenten sind super hilfreich …". Dies gilt auch für die vielen praktischen Projekte und Gruppenarbeiten. Auch die Offenheit für eigene Ideen und die Gruppengröße bei den Praxisanteilen wird sehr positiv bewertet. Das Mentoring-Programm wird ebenfalls als sehr hilfreich wahrgenommen.
+
+Auch sehr positiv wird die gute und moderne Ausstattung der Medieninformatik und der Bibliothek, als auch der recht ausgewogene quantitative Verhältnis von Frauen und Männern bewertet.
+
+Als problematisch wird, bezogen auf den Bachelorstudiengang, vor allem die starke Fragmentierung der Module sowie der zugehörigen Praxisanteile gesehen, so dass die Situation, vor allem im dritten Fachsemester, als "zu voll" oder mit "zu viele Baustellen" beschrieben wird. Dieses Problem wurde auch im Rahmen der Analysen zu Profil2 Antrag der Hochschule identifiziert [^profil2]. Derzeit wird dieser Problematik bereits mit der sequentiellen Anordnung einiger Module begegnet. Dabei werden zwei parallel laufende Module nacheinander, dafür aber mit halber Laufzeit und doppelter SWS Anzahl angeboten, so dass sich die Studierenden auf weniger Module zur gleichen Zeit konzentrieren können. Diese Herangehensweise wurde ebenfalls im Rahmen von Profil2 als Maßnahme vorgeschlagen[^profil2]. Viele Studierende wünschen sich die Möglichkeit der Fachvertiefung. Das Problem wird häufig mit "man kratzt alles nur an und dann kommt schon das nächste Thema" beschrieben. Gerade bei den Implementierungs-affinen Studierenden, aber auch bei den Lehrenden wird häufig der Wunsch nach mehr Unterstützung im Bereich Programmierung gennant. Dies gilt vor allem für komplexere und größere Projekte.
+Derzeit fehlt im Bachelorprogramm ein Modul, dass die Studierenden auf die rechtlichen Fragestellung in der (Medien-)informatik vorbereitet. Dieses Defizit wurde in verschiedenen Feedbackrunden adressiert.
+
+Bezogen auf den Master wird immer wieder die fehlende oder unzureichende Praxisorientierung als Problem genannt. Auch hier fehlt den Studierenden die Möglichkeit zur Fachvertiefung entsprechend der persönlichen Neigung.
 
 ### Ableitungen aus den Bewertungen der zur Verfügung stehenden Daten und Evaluationen
 
-Aus den Bewertungen der Daten, Evaluationen und Feedbacks lassen sich folgende Stärken und Schwächen ableiten.
+Aus den Bewertungen der Daten, Evaluationen und Feedbacks lassen sich folgende Problem und Schwächen ableiten.
 
-#### Stärken des Medieninformatik Bachelor
-
-#### Schwächen des Medieninformatik Bachelor
+#### Medieninformatik Bachelor
 
 Als Indikator für eine gute Studierbarkeit, kann die Anzahl der abgelegten Prüfungen im vorgesehenen Fachsemester des Moduls angesehen werden. Ziel ist es, dass die Studierenden Prüfungen möglichst im selben Semester ablegen, in dem das Modul im Studienverlaufsplan verortet ist. Gelingt dies nicht, so kann ein Studienabschluss innerhalb der Regelstudienzeit fast nicht mehr realisiert werden. Ab dem dritten Studiensemester werden Prüfungen zunehmend verspätet abgelegt (vgl. Pruefungsstatistiken[^Anhang-Pruefungsstatistiken]). Feedbacks, Befragungen und Curriculumsanalyse[^Anhang-Curriculumsanalye] zeigen, dass in diesem Semester die Anzahl der unterschiedlichen Module am höchsten ist und viele Module Praxisanteile in Projektform haben, so dass sich die Studierenden in verschiedene Fachdisziplinen, Modulregularien und Projektkontexte eindenken und vielen Teamkonstellationen organisieren müssen. Darüberhinaus sind im dritten Semester bei vielen Modulen Prüfungsvorleistungen (Teilnahmeschein) notwendig.
 
 Ein weiteres Problem bildet offenbar das große Projekt im fünften Semester (Entwicklungsprojekt interaktive Systeme). Nachdem die Studierenden in den vorangegangen Semestern nur mit Projektgrößen von maximal 2,5 Creditpoints konfrontiert wurden, stehen sie im fünften Semester einem Projekt der vierfachen Größe gegenüber. Dies scheint viele zu überfordern, so dass sie entweder erst dann das Projekt beginnen, wenn sie keine parallelen Veranstaltungen haben, oder das Projekt vorzeitig abbrechen.
 
 Die Probleme beim Übergang ins Abschlusssemester wurden bereits beschrieben. Vor allem in Feedbacks und persönlichen Gesprächen wird ein weiteres Defizit häufig genannt: die fehlende Möglichkeit sich in einem thematischen Bereich zu vertiefen.
-
-~~~
-cn: hier fehlt auch eine Schlussfolgerung
-~~~
 
 Somit lassen sich die folgenden Defizite im aktuellen Medieninformatik Bachelor Studiengang zusammenfassen:
 
@@ -264,7 +330,7 @@ Somit lassen sich die folgenden Defizite im aktuellen Medieninformatik Bachelor 
 - Zu viele verschiedene Module mit unterschiedlichen Regularien
 - Zeitproblem beim Einstieg ins Praxisprojekt
 - Fehlende Möglichkeit zur strukturierten Vertiefung
-- Übergang in den Spezialisierungsteil (vom vierten ins fünfte Semester) Übergang ins Abschlussprojekt
+- Übergang in den Spezialisierungsteil (vom vierten ins fünfte Semester) übergang ins Abschlussprojekt
 - zu starke Fragmentierung, zu wenige Zusammenhänge
 - zu viele „Baustellen“
 - keine Spezialisierung, zu allgemein
@@ -272,15 +338,8 @@ Somit lassen sich die folgenden Defizite im aktuellen Medieninformatik Bachelor 
 - kein Medienrecht
 - zu wenig Kenntnisse über verschiedene Programmierkonzepte
 - missverständliches Abschlusssemester
-   
 
-~~~
-cn: Nachfrage nach Vertiefungsmöglichkeiten müsste man vielleicht noch mal anmoderieren/ stärken. Ggf sollte man alle erkennten Schwächen noch mal kurz erklären.
-~~~
-
-#### Stärken des Medieninformatik Master
-
-#### Schwächen des Medieninformatik Master
+#### Medieninformatik Master
 
 Beim Medieninformatik Master leiten sich die erkannten Defizite im Wesentlichen aus Feedbacks und persönlichen Gesprächen mit Studierenden, Bachelor Absolventen und Dozenten ab. Die fehlende Möglichkeit zur fachlichen Vertiefung und der geringe Anteil an praxisnaher Projekte werden als wesentliche Defizite wahrgenommen und führen schlussendlich auch dazu, dass viele potenzielle Studieninteressierte an andere Studiengänge, zumeist außerhalb der TH Köln, mit stärkerer Profilierung und Praxisbezug verloren gehen.
 
@@ -295,86 +354,6 @@ Somit lassen sich die folgenden Defizite im aktuellen Medieninformatik Master St
 - Fehlende Möglichkeiten zur fachlichen Vertiefung
 - zu wenig Wahlmöglichkeiten
 
-#### Zusammenfassung der Stärken und Schwächen des Medieninformatik Bachelor aus den Bewertungen auf studycheck.de
-
-##### Stärken
-
-- Dadurch, dass weniger los ist in Gummersbach als z. B. in Köln, kann man sich besser auf das Studium konzentrieren
-- Extra Tutorien und Übungsstunden
-- Ausgewogenens Verhältnis von Frauen und Männern
-- Viele praktische Projekte und Gruppenarbeiten, die versuchen gezielt Lerninhalte zu vermitteln und Teamfähigkeit zu stärken
-- lehrreich und hat Zukunft
-- Nette Leute,
-- Die Dozenten sind super hilfreich, das denke ich bekommt man so an keiner anderen Hochschule.
-- Donzenten sind bei Fragen und Problemen auch selbst ansprechbar und bereit Hilfe zu leisten und schieben nicht alles auf die wissenschaftlichen Mitarbeiter ab.
-- Studienverlauf gut durchdacht
-- Kurse sind mit ausreichend Pflichtkursen ausgestattet, so dass man genügen mitarbeiten muss um mitzukommen, es aber auch nicht erdrückend wird und man noch genügend Freizeit hat.
-- Lehrveranstaltungen gut organisiert und vorbereitet
-- Lehrveranstaltugnen sehr anspruchsvoll
-- Überwiegend interessante Veranstaltungen 
-- Es gibt viele Unterlagen zu kaufen
-- Campus ist sehr modern
-- Medieninformatik ist top ausgestattet
-- Die Fachschaft ist sehr engagiert um auch in Gummersbach ein Freizeitangebot zu schaffen.
-- Studieninhalte online verfügbar
-- moderne Lernmittel
-- Innerhalb des Studiums war ich häufig vom Umfang des Studiengangs überwältigt. Nach dem Einstieg ins Berufsleben wurde mir aber klar, wie wichtig jedes einzelne Fach war. Gerade in Internet-Agenturen kann ein Medieninformatiker so gut wie jeden Job machen
-- Durch die 'relativ' kleinen Gruppen in den Modulen und der vielen praktischen Einheiten ist eine persönliche Förderung durch die Dozenten und wissenschaftlichen Mitarbeitern gewährleistet.
-- Der Campus Gummersbach ist offen für Ideen und kreative Projekte.
-- Man findet immer jemanden der einem zuhört und hilft oder dich an jemanden verweist, der es kann.
-- Man erhält verschiedene Einblicke in verschiedene Bereiche der Informatik und Medien. Bei Gefallen muss man sich aber eher die Sachen darüber hinaus selbst beibringen.
-- Man findet immer gute Räume zur Lernen, wenn die Bibliothek und die Übungsräume beregt sind
-- Bibliotheken sind sehr gut bestückt. Alle Bücher, die ich bisher gebraucht habe, konnte ich sofort ausleihen.
-- Das Mentoring-Programm war sehr hilfreich um sich schnell und sicher in der Universität zurecht zu finden.
-- Hier lernt man nicht nur die Grundlagen des Programmierens kennen, sondern auch noch viel anderes Nützliches für Präsentation, Umgang mit Kunden im Berufsleben
-- Eine gute Mischung aus der Allgemeinen Informatik, sprich Programmierung technische Aspekte der Informatik und der Mediensparte: Webdesign, Video-Grafikbearbeitung-Design.
-- anstrengend und fordernd, aber macht viel Spaß
-
-##### Schwächen
-
-- Gegend ist eher ländlich
-- In Gummersbach ist nicht so viel los wie z. B. in Köln
-- zu viele Studenten / Platzprobleme im ersten und zweiten Semester
-- Viele Basisinformationen zum Studiengang werden bei Einführungsveranstaltungen nicht mitgeteilt
-- Organisation an der TH Köln Campus Gummersbach nicht so optimal
-- Leider allgemein nicht gut organisiert was Einschreibung angeht
-- Leider macht man bei uns bis einschließlich des 4. Semesters fast nur Informatikfächer. Das wirklich Interessante kommt erst im 5. Semester, bis dahin hatten schon viele das Studium abgebrochen. Ich hatte es mir auch überlegt, bin aber froh es nicht gemacht zu haben.
-- Vorlesungen teils langweilig (lässt sich aber kaum vermeiden).
-- Es gibt viel zu wenig Parkplätze und es werden ständig Autos abgeschleppt
-- Viel zu wenig Moderne Lernmittel für ein Informatik Studiengang
-- Der Campus hat nicht genug Übungsräume die permanent zur Verfügung stehen oder geeignet sind für Teamarbeit
-- Das Campusleben generell ist eher langweilig
-- Bei Ausfall eines Professors, steht man ziemlich allein da, da kein passender Ersatz vorhanden ist. Sehr zum Leidtragen der Studenten.
-- Der Studienort Gummersbach (Fachbereich Informatik FH Köln) ist entsetztlich und ein Campusleben gibt es gar nicht!
-
-
-#### Insights Rahe
-
-Ich habe kurz nach dem Kolloquium schon eine Zusage für eine Arbeitsstelle als Produktmanager/UX-Konzepter für die Marke NetMoms bekommen. Diese ist Teil der ForwardNews+ GmbH, welche wiederum zum Burda-Konzern gehört. Der Standort ist hier in Köln, wo auch andere digitale Marken des Konzerns im selben Gebäude sitzen. Hier sind aber vor allem die mobilen Entwickler der jeweiligen Marken. Ein Großteil der Redaktion sitzt in München.
-
-Meine Aufgabe umfasst das Produktmanagement der mobilen Zyklusapp der NetMoms. Im wesentlichen geht es hierbei um die natürlich Empfängnisregelung für Frauen, welche über mehrere Methoden unterstützt werden kann. Bisher kann diese "lediglich" einige Grundkalkulationen durchführen. Da der Markt aber aktuell durch viele Innovationstreiber stark umkämpft ist, wird es mehr in Richtung "Quantify yourself" und "Big Data" gehen.
-
-Insgesamt stehe ich vor einem Berg von Arbeit, da es im wesentlichen noch an Prozessen (sowohl Usability-Engineering, als auch agile SE) fehlt. Methodisch wurde hier etwas unsauber gearbeitet und viel zu wenig Analysen über die Nutzer und Aufgaben durchgeführt. Mir wurde zum Ziel gesetzt UE/UX Prozesse wieder verstärkt zu integrieren und den Scrum-Prozess anzuleiten. Das Team ist sehr klein und erinnert mich sehr an das EIS-Praktikum ;-) Ich fühle mich durch meine WiMa-Zeit aber deswegen optimal vorbereitet. 
-
-Und um hier nochmal anzuknüpfen: Ich habe in den wenigen Tagen, bereits viele Einblicke in die Bereiche anderer Marken (also was die App-Entwicklung angeht) gewonnen (z.B. Focus Online, Finanzen 100, etc.). 
-Mit meiner Ausbildung an der FH, kann ich mich hier sehr sehr gut platzieren. Auch im direkten Vergleich mit anderen Produktmanagern und UX´lern. Ich konnte bereits einige davon überzeugen, das dass Discount Usability, nicht unbedingt die beste Vorgehensweise ist.. :-) Auch wenn es mir noch etwas an praktischer Erfahrung fehlt (und besonders dem wirtschaftlichen Verständnis über die wichtigen KPIs eines Unternehmens), kann ich mein theoretisches Wissen, dem konzeptuellen Verständnis und besonders dem nutzerzentrierten Mindset (dank dir) sehr gut einbringen. Es ist eine spannende Aufgabe und ich bin sehr motiviert einige Prozesse zu integrieren und vieles zu optimieren.
-
-Auf jeden Fall, danke ich dir und natürlich den anderen Professoren (bitte gebe dies weiter) für die gute Ausbildung, Betreuung und sehr guten Vorbereitung für den Beruf. Hier wollte man nichtmal ein Zeugnis von mir sehen, das Bewerbungsgespräch hat bereits die Geschäftsführung überzeugen können und das sagt schon vieles! :-)
-Wir sehen uns hoffentlich auf dem WUD! Und viele Grüße an alle Dozenten und wissenschaftliche Mitarbeiter!
-
-
-~~~
-cn: Studycheck Ergebnisse mussten noch überprüft und zusammengefasst werden, ggf. insights von Julian noch verarbeiten
-~~~
-
-~~~~~
-	Aktueller Bearbeiter: Christian Noss
-	Bearbeiterhistorie: Christian Noss
-	Date: 14.02.2017
-	Comment: Schon gar nicht schlecht, ein paar Schlussfolgerungen, Anhänge und Belege fehlen (siehe Kommentare), Stärken fehlen und Referenz auf Studycheck.de
-	Status: Unvollständig
-	Reviewed von: -
-~~~~~
 
 [^anhang-verbleib-und-studienabbruch]: <a href="../anhaenge/verbleib-und-studienabbruch.pdf">Statistik zum Verbleib- und Studienabbruch</a>
 [^anhang-hep-2020]: <a href="https://www.verwaltung.th-koeln.de/imperia/md/content/verwaltung/broschueren_leitfaeden/hochschulentwicklungsplan2020.pdf">Hochschulentwicklungsplan 2020</a>
@@ -383,7 +362,9 @@ cn: Studycheck Ergebnisse mussten noch überprüft und zusammengefasst werden, g
 [^Anhang-INCHER-Studie]: <a href="../anhaenge/INCHER-Studie.pdf">INCHER-Studie 2014</a>
 [^evaluationen-f10]: <a href="../anhaenge/evaluationen-f10.pdf">Studentische Evaluationen Medieninformatik</a>
 [^Anhang-Curriculumsanalye]: fehlt
-[^Anhang-Snapshot-Bewertungen-von-studychek.de]: <a href="../anhaenge/snapshot_2017_02_17_bewertungen_studiengang_medieninformatik_auf_studycheck_._de">Snapshot Bewertungen von studycheck.de</a>
+[^Anhang-Snapshot-Bewertungen-von-studycheckde]: <a href="../anhaenge/snapshot_2017_02_17_bewertungen_studiengang_medieninformatik_auf_studycheck_._de">Snapshot Bewertungen von studycheck.de</a>
+[^Link-studycheckde]: <a href="http://studycheck.de">http://studycheck.de</a>
+[^profil2]: <a href="https://www.th-koeln.de/mam/downloads/deutsch/hochschule/profil/lehre/profil2_antrag_ministerium.pdf">Profil2 Antrag der TH Köln</a>
 
 # Soll-Zustand/ geplante Veränderungen
 
@@ -392,6 +373,7 @@ cn: hier wäre noch ein kleines Präludium schön. Wie hat sich die MI in den le
 ~~~
 
 ## Geplante Veränderungen des Bachelor-Studiengangs gegenüber dem aktuellen Akkreditierungszeitraum
+
 
 Die im Folgenden dargestellten geplanten Veränderungen des Bachelorstudienprogramms dienen zur Beseitigung erkannter Schwächen (vgl. Defizite Medieninformatik Bachelor).
 
@@ -402,16 +384,15 @@ Die im Folgenden dargestellten geplanten Veränderungen des Bachelorstudienprogr
 ### Verbesserungen des Studienaufbaus
 
 
+{% include image.html url="bilder/ba-veraenderungen-studienverlaufsplan.svg" caption="Abbildung: Geplante Veränderungen des Bachelorstudiengangs Medieninformatik. Links das aktuelle und rechts das zu akkreditierende Curriculum. Die lila hinterlegten Module werden gestrichen, die grün hinterlegten in Vertiefungsmodulen zusammengefasst, die orange hinterlegten Module wurden neu angeordnet und die gelben Module wurden neu integriert." %}
+
+
 Mit einer Verbesserung des Studienaufbaus sollen folgende bekannte Defizite ausgeglichen werden:
 
 - Überladenes drittes Fachsemester
 - Zu viele Projektkontexte
 - zu starke Fragmentierung von Modulen und der projektorientierten Praxisanteile
 - zu viele „Baustellen“
-
-
-{% include image.html url="bilder/veraenderungen-studienverlaufsplan.svg" caption="Bild: Veränderungen des Studienablaufs" %}
-
 
 Die starke Projektorientierung wird und wurde insgesamt als positiv bewertet. Jedoch ist die Verteilung der Module mit Projektanteil derzeit nicht optimal. So sind z.B. im dritten Fachsemester momentan 7 Module angesiedelt, von denen vier projektorientiert durchgeführt werden. Hingegen wird im vierten Semester kein projektorientiertes Modul angeboten. Um hier die Aufwände gleichmäßiger zu verteilen wurde die Reihenfolge der Module verändert und Module wurden zusammengelegt.
 
@@ -422,9 +403,7 @@ Im vierten Semester wurde ein Vertiefungsmodul mit 20 Creditpoints installiert a
 
 ### Verbesserter Aufbau der projektorientierten Module und der Projektgrößen
 
-~~~
-@cn: grafik einbinden
-~~~
+{% include image.html url="bilder/ba-projektanteile.svg" caption="Abbildung: Veränderter Aufbau der Projektanteile des Bachelorstudiengangs Medieninformatik. Links das aktuelle und rechts das zu akkreditierende Curriculum." %}
 
 Hiermit sollen folgende bekannte Defizite ausgeglichen werden:
 
@@ -437,9 +416,7 @@ Wie bereits beschrieben, wurden die projektorientierten Module gleichmäßiger �
 
 ### Strukturierte Möglichkeit zur individuellen Fachvertiefung
 
-~~~
-@cn: grafik einbinden
-~~~
+{% include image.html url="bilder/ba-vertiefungen.svg" caption="Abbildung: Zusammenfassung von Modulen aus einem Themenfeld zu Vertiefungsmodulen im  Medieninformatik Bachelor." %}
 
 Mit dieser Änderungen sollen folgende bekannte Defizite ausgeglichen werden:
 
@@ -461,10 +438,6 @@ Das Entwicklungsprojekt im fünften Semester wird inhaltlich geöffnet. Im aktue
 
 ### Weitere Änderungen
 
-~~~
-@cn: grafik einbinden
-~~~
-
 Darüber hinaus wurden weitere Änderungen durchgeführt, um die folgenden Defizite zu verbessern:
 
 - kein Medienrecht
@@ -473,23 +446,16 @@ Darüber hinaus wurden weitere Änderungen durchgeführt, um die folgenden Defiz
 
 Das Abschlusssemester wurde in seiner grundsätzlichen Struktur beibehalten, jedoch wurde der Seminarteil das Moduls "Praxisprojekt" ausgelagert und als eigenes Modul installiert. Hiermit wird die Studierbarkeit verbessert, da die zeitliche Kopplung des Praxis- und Seminarteils reduziert wird. Darüber hinaus ist nun das Praxisprojekt mit einem Gewicht von 10 Creditpoints ausgestattet und damit weniger gewichtig, als die Bachelorarbeit, die ein Gewicht von 12 Creditpoints hat.
 
+Das Modul "Paradigmen der Programmierung", das bislang nur im Informatik Bachelor als Pflichtmodul im Curriculum verankert war, wird jetzt ein Pflichtmodul im dritten Fachsemester in der Medieninformatik um die Studierenden bessere Kenntnisse im Bereich verschiedener Programmierkonzepte und deren Anwendung zu vermitteln.
+
+Da web-basierte Architekturen elementarer Bestandteil der Medieninformatik und dediziert in den Studiengangszielen verankert sind, wurde hierzu ein Pflichtmodul installiert, das Inhalte aus den Modulen "Web-basierte Anwendungen 1 & 2" enthält, die alle Studierenden kennen sollten, auch wenn sie sich später in einem anderen Bereich vertiefen möchten.
+
 Im fünften Semester wurde das Modul "Medieninformatik und Gesellschaft" umgewidmet in "Medienrecht, Medien und Gesellschaft" um hier einen dedizierten Platz für rechtliche Themen innerhalb der Domäne im Curriculum zu verankern.
 
-~~~~~
-	Aktueller Bearbeiter: Christian Noss
-	Bearbeiterhistorie: Christian Noss
-	Date: 17.02.2017
-	Comment: Grafiken fehlen, ansonsten ganz ok, PDP und Web-Archs fehlen, Schwerpunkt zusammensetzung ebenfalls
-	Status: Unvollständig
-	Reviewed von: -
-~~~~~
 
 
 
----
-title: Geplante Veränderungen des Master-Studiengangs gegenüber dem aktuellen Akkreditierungszeitraum
-ueberarbeitung-erforderlich: ja 
----
+# Geplante Veränderungen des Master-Studiengangs gegenüber dem aktuellen Akkreditierungszeitraum
 
 Die im Folgenden dargestellten geplanten Veränderungen des Masterstudienprogramms dienen zur Beseitigung erkannter Schwächen (vgl. Defizite Medieninformatik Master). Grundsätzlich wurde die Basisgröße der Module von fünf auf sechs Creditpoints erhöht. Module haben also stets ein Gewicht von sechs Creditpoints oder einem Vielfachen davon. Zum einen, um auch im Master die einzelnen Fachsemester weniger stark zu fragmentieren, zum anderen, um mit dem Informatik Masterstudiengang, der ebenfalls am Campus Gummersbach angeboten wird Module und Projekte teilen zu können. 
 
@@ -555,9 +521,9 @@ Mit dieser Veränderung soll folgende bekannte Schwäche ausgeglichen werden:
 
 - Geringer Anteil an praxisnahen Projekten
 
-Um dieses Defizit auszugleichen wird zukünftig in jedem der ersten drei Fachsemester ein Projekt mit einem Gewicht von 12 Creditpoints angeboten. Über jedem der Fachsemester steht eine übergeordnete Fragestellung und die Projekte zahlen auf diese Fragestellung ein. In den Projekten werden Fragestellungen und Probleme aus Sicht der jeweiligen Schwerpunkte bearbeitet. Je nach Projektgegenstand können und sollen Projektteams aus verschiedenen Schwerpunkten zusammenarbeiten und die Perspektive ihres jeweiligen Studienschwerpunkts vertreten. Im Rahmen des jeweiligen Projekts werden auch Workshops und Lehrveranstaltungen zu verschiedenen Themen angeboten, z.B. Projektmanagement. 
+Um dieses Defizit auszugleichen wird zukünftig in jedem der ersten drei Fachsemester ein Projekt mit einem Gewicht von 12 Creditpoints angeboten. Der Projektanteil wird damit von 10 Creditpoints auf 36 Creditpoints erhöht und auf alle Studiensemester verteilt, sodass der Übergang ins Berufsleben und die Kooperation mit Unternehmen verbessert werden können. Über jedem der Fachsemester steht eine übergeordnete Fragestellung und die Projekte zahlen auf diese Fragestellung ein. In den Projekten werden Fragestellungen und Probleme aus Sicht der jeweiligen Schwerpunkte bearbeitet. Je nach Projektgegenstand können und sollen Projektteams aus verschiedenen Schwerpunkten zusammenarbeiten und die Perspektive ihres jeweiligen Studienschwerpunkts vertreten. Im Rahmen des jeweiligen Projekts werden auch Workshops und Lehrveranstaltungen zu verschiedenen Themen angeboten, z.B. Projektmanagement.
 
-Die Projekte im Master setzen so die Projektorientierung aus dem Bachelorstudiengang konsequent fort. Über die Möglichkeit der Schwerpunkt-gemischten Teams werden multiperspektivische Lösungsansätze und Fachdiskurse forciert. Somit bilden die Projekte einen wesentlichen Bestandteil bei der Erreichung der angestrebten Kompetenzziele des Studiengangs.
+Die Mitarbeit der Studierenden in Projekten trägt überdies zum Ausbau der Forschungsaktivitäten der Fakultät bei. Die Projekte im Master setzen so die Projektorientierung aus dem Bachelorstudiengang konsequent fort. Über die Möglichkeit der Schwerpunkt-gemischten Teams werden multiperspektivische Lösungsansätze und Fachdiskurse forciert. Somit bilden die Projekte einen wesentlichen Bestandteil bei der Erreichung der angestrebten Kompetenzziele des Studiengangs.
 
 
 ## Flexibilisierung des dritten Fachsemesters
@@ -569,19 +535,42 @@ Im dritten Fachsemester sind neben dem Projekt drei Wahlmodule vorgesehen, die i
 
 Durch die offene Gestaltung des dritten Fachsemesters eignet sich selbiges gut für ein Auslandssemester, da hier die Anerkennung von Modulen sehr leicht fallen sollte. 
 
-~~~
-	Aktueller Bearbeiter: -
-	Bearbeiterhistorie: Christian Noss
-	Date: 17.02.2017
-	Comment: Schwerpunktmodule und deren Herkunft nicht komplett
-	Status: Unvollständig, Peer Review erforderlich
-	Reviewed von: -
-~~~
 
----
-title: Qualifikationsziele der Studiengangskonzepte
-ueberarbeitung-erforderlich: ja 
----
+# Qualifikationsziele der Studiengangskonzepte
+
+
+>  Das Studiengangskonzept orientiert sich an Qualifikationszielen. Diese umfassen fachliche und überfachliche Aspekte und beziehen sich insbesondere auf die Bereiche
+>
+>  -   wissenschaftliche oder künstlerische Befähigung,
+>
+>  -   Befähigung, eine qualifizierte Erwerbstätigkeit aufzunehmen,
+>
+>  -   Befähigung zum gesellschaftlichen Engagement
+>
+>  -   Persönlichkeitsentwicklung
+>  
+>**Leitfragen**
+>
+>-   An welcher Stelle sind die jeweils im Kriterium genannten Kompetenz-Bereiche im Studiengang nach dem Verständnis der Hochschule abgebildet?
+>
+>-   Wie wurde das angestrebte Kompetenzprofil des Studiengangs (weiter-)entwickelt (Auslöser, Vorgehen, Beteiligungen)?
+>
+>-   Finden die definierten Kompetenzziele für Absolventen des Studienprogramms die Zustimmung von Lehrenden und Studierenden?
+>
+>-   Wurde die Stimmigkeit der Lernziele des Studiengangs in den letzten Jahren überprüft? Aus welchen Gründen wurden ggf. Anpassungen vorgenommen?
+>
+>-   Gibt es Auffälligkeiten bei den qualitativen oder quantitativen Daten/Informationen der Hochschule hinsichtlich der Akzeptanz des Kompetenzprofils auf dem Arbeitsmarkt?
+>
+>**Mögliche Evidenzen**
+>
+>-   Dokumente/Stellen, wo die Ziele und Lernergebnisse verankert u. veröffentlicht sind, z.B. Ordnungen, Homepage, Diploma Supplement, Studienführer
+>
+>-   Interne Unterlagen, aus denen die Einbeziehung der verschiedenen Interessenträger hervorgeht, z.B. Vorgaben, Prozessbeschreibungen, Befragungsergebnisse, Protokolle
+>
+>-   Ziele-Module-Matrix
+>
+>-   Modulbeschreibungen, wie sie den Lehrenden und Studierenden zur Verfügung stehen
+
 
 ~~~
 cn: hier wäre noch ein kleines Präludium schön. Wie hat sich die MI in den letzten Jahren verändert
@@ -630,15 +619,7 @@ Aus diesen Kompetenzen wurden die folgenden Ziele und Lernergebnisse abgeleitet:
 {% include kompetenzmatrix.html %}
 
 Diese Kompetenzmatrix bildet die Basis für die Ausrichtung und Einteilung der einzelnen Module in beiden Studiengängen.
- 
-~~~
-	Aktueller Bearbeiter:
-	Bearbeiterhistorie: Christian Noss
-	Date: 17.02.2017
-	Comment: -
-	Status: ok
-	Reviewed von: Peer-Review erforderlich
-~~~
+
 
 [^gi-empfehlungen]: Gesellschaft für Informatik e.V. (GI): "Empfehlungen für Bachelor- und Masterprogramme im Studienfach Informatik an Hochschulen", unter: https://www.gi.de/fileadmin/redaktion/empfehlungen/GI-Empfehlungen_Bachelor-Master-Informatik2016.pdf (abgerufen am 01.02.2017).
 [^positionspapier-gi-mci-mi]: Martin Christof Kindsmüller, Christian Wolters, Andreas M. Heinecke: "Medieninformatik 2016: Was war, was ist, was soll sein?", unter: http://dl.mensch-und-computer.de/bitstream/handle/123456789/5131/Kindsm%C3%BCller_Wolters_Heinecke_2016.pdf (abgerufen am 17.02.2017)
@@ -651,36 +632,19 @@ Das folgende Leitbild steht über dem Studiengang Medieninformatik Bachelor:
 
 *Der Studiengang soll die Absolventinnen und Absolventen befähigen, in interdisziplinären Teams digitale Prozesse und Systeme zur Produktion, Bearbeitung und Distribution medienbasierter Informationen aus informatischer, ökonomischer und sozialer Perspektive zu analysieren, konzipieren, adaptieren, realisieren und zu dokumentieren.*
 
-
-## Studienziele und Kompetenzprofil
-
-Mit dem Bachelor-Studiengang Medieninformatik bietet die Fakultät für Informatik und Ingenieurwissenschaften der TH Köln seit dem Jahr 2000 ein wissenschaftlich fundiertes und praxisorientiertes Informatik-Studium mit dem Schwerpunkt Medien an. Fachlich und strukturell ist der Studiengang Medieninformatik auf die Analyse, Konzeption, Realisierung und Adaption von, oft web-basierten Prozessen und Systemen zur Produktion, Bearbeitung und Distribution medienbasierter Informationen sowie interaktiver Systeme ausgerichtet. Den Kern bildet ein Informatikstudium. Hinzu kommt die Vermittlung umfassender, vielschichtiger analytischer wie konstruktiver Medienkompetenzen sowie ökonomischer, technischer und gesellschaftlicher Grundkenntnisse.
-
-~~~
-mw: TODO aus Zielematrix verdichten
-~~~
-
-
-~~~~~
-	Reviewer: Christian Noss
-	Date: 14.02.2017
-	Comment: 
-	Status: nicht fertig reviewed
-~~~~~
-
-
 # Qualifikationsziele Medieninformatik Master
+
 
 ## Leitbild Medieninformatik Master
 
 Der konsekutive Masterstudiengang ist auf das folgende Leitbild ausgerichtet:
 
-*Der Masterstudiengang soll die Absolventinnen und Absolventen befähigen, an der Analyse komplexer informatik-spezifischer Aufgabenstellungen im Kontext interaktiver, oft web-basierter, multimedialer Systeme an leitender Stelle in interdisziplinären Teams mitzuwirken, Lösungskonzepte verantwortlich zu entwerfen und zu realisieren, kritisch einzuordnen, in der fachlichen Öffentlichkeit zu kommunizieren und verwerten zu können und interdisziplinäre Entwicklungsteams zu führen.*
+*Der Masterstudiengang Medieninformatik soll die Absolventinnen und Absolventen befähigen, an der Analyse komplexer informatik-spezifischer Aufgabenstellungen im Kontext interaktiver, oft web-basierter, multimedialer Systeme an leitender Stelle in interdisziplinären Teams mitzuwirken, Lösungskonzepte verantwortlich zu entwerfen und zu realisieren, kritisch einzuordnen, in der fachlichen Öffentlichkeit zu kommunizieren und verwerten zu können und interdisziplinäre Entwicklungsteams zu führen.*
 
 
 ## Ziele des zu reakkreditierenden Studiengangs insgesamt 
 
-Der Masterstudiengang Medieninformatik soll die Absolventinnen und Absolventen befähigen, an der Analyse komplexer informatik-spezifischer Aufgabenstellungen im Kontext multimedialer Informations-und Kommunikationssystem an leitender Stelle mitzuwirken, Lösungskonzepte verantwortlich zu entwerfen, zu realisieren und zu evaluieren sowie interdisziplinäre Entwicklungsteams zu führen. Dazu sollen die Studierenden lernen, umfangreiche und zum Teil auch gegenläufige Anforderungen zu ermitteln und unter sozialen wie wirtschaftlichen Kosten-Nutzen-Aspekten zu hinterfragen, Lösungsarchitekturen und Lösungsstrategien zu entwerfen und umzusetzen oder Referenzmodelle für neue Aufgabenstellungen zu entwickeln. Dazu werden die Studierenden in Teilbereichen Medieninformatik an den Stand der Forschung herangeführt. Sie lernen Methoden des Selbstmanagements zu beherrschen, um im Berufsalltag an vorderster Wissensfront Aufgaben bewältigen zu können.  
+Dazu sollen die Studierenden lernen, umfangreiche und zum Teil auch gegenläufige Anforderungen zu ermitteln und unter sozialen wie wirtschaftlichen Kosten-Nutzen-Aspekten zu hinterfragen, Lösungsarchitekturen und Lösungsstrategien zu entwerfen und umzusetzen oder Referenzmodelle für neue Aufgabenstellungen zu entwickeln. Dazu werden die Studierenden in Teilbereichen Medieninformatik an den Stand der Forschung herangeführt. Sie lernen Methoden des Selbstmanagements zu beherrschen, um im Berufsalltag an vorderster Wissensfront Aufgaben bewältigen zu können.  
 
 ## Darstellung der durch das Studium zu erreichenden Lernergebnisse 
 
@@ -688,28 +652,66 @@ Im konsekutiven 4-semestrigen Masterstudiengang Medieninformatik werden die im R
 
 Zusammenfassend lassen sich für den Master Medieninformatik folgende übergeordnete, sich gegenseitig ergänzende und teils auch überlappende Studienziele definieren: 
 
-Absolventinnen und Absolventen des Masterstudiengangs »Medieninformatik« … 
+Absolventinnen und Absolventen des Masterstudiengangs Medieninformatik:
 
-… haben das im Rahmen ihres ersten berufsbefähigenden Studiums erworbene fachliche und fachübergreifende Wissen der Informatik und insbes. der Medieninformatik vertieft und insbesondere ihre Fähigkeit zur Abstraktion und Modellierung sowie zum Operieren in formalen Welten mit erweitertem methodischen und analytischen Ansatz verbreitert. Sie haben ein umfassendes Verständnis für anwendbare Techniken und Methoden in der Wertschöpfungskette aus Medienkonzeption, -produktion, -bearbeitung, -distribution und -nutzung und für deren Grenzen entwickelt.
+- haben das im Rahmen ihres ersten berufsbefähigenden Studiums erworbene fachliche und fachübergreifende Wissen der Informatik und insbes. der Medieninformatik vertieft und insbesondere ihre Fähigkeit zur Abstraktion und Modellierung sowie zum Operieren in formalen Welten mit erweitertem methodischen und analytischen Ansatz verbreitert. Sie haben ein umfassendes Verständnis für anwendbare Techniken und Methoden in der Wertschöpfungskette aus Medienkonzeption, -produktion, -bearbeitung, -distribution und -nutzung und für deren Grenzen entwickelt.
 
-… sind dazu befähigt, in leitender Position Problemstellungen aus neuen und in der Entwicklung begriffenen Bereichen der Medieninformatik grundlagenbasiert, systemanalytisch und multiperspektivisch zu analysieren, zu formulieren, zu formalisieren und zu lösen, sowie solche Lösungen kritisch zu evaluieren. Sie haben dafür ein kritisches Bewusstsein über die neueren Erkenntnisse und Entwicklungen in der Informatik und insbesondere der Medieninformatik entwickelt und kennen nicht-technische Auswirkungen ihrer praktischen Tätigkeit auf und innerhalb von sozio-technischen Systemen. 
+- sind dazu befähigt, in leitender Position Problemstellungen aus neuen und in der Entwicklung begriffenen Bereichen der Medieninformatik grundlagenbasiert, systemanalytisch und multiperspektivisch zu analysieren, zu formulieren, zu formalisieren und zu lösen, sowie solche Lösungen kritisch zu evaluieren. Sie haben dafür ein kritisches Bewusstsein über die neueren Erkenntnisse und Entwicklungen in der Informatik und insbesondere der Medieninformatik entwickelt und kennen nicht-technische Auswirkungen ihrer praktischen Tätigkeit auf und innerhalb von sozio-technischen Systemen. 
 
-… entwickelten ihre Medienkompetenzen in wichtigen Kernfächern weiter und können Konzeptionen und Informationen bezüglich ihrer Struktur, Nutzung und ihres Managements modellieren, unter Berücksichtigung fachlicher, organisatorischer, sozialer und kultureller Kontexte sowie Vorgaben und Regeln, angemessene Gestaltungsziele formulieren, sowie Konzeptionen im Kontext etablierter wissenschaftlicher Theorien einordnen, analysieren, diskutieren und bewerten. 
+- entwickelten ihre Medienkompetenzen in wichtigen Kernfächern weiter und können Konzeptionen und Informationen bezüglich ihrer Struktur, Nutzung und ihres Managements modellieren, unter Berücksichtigung fachlicher, organisatorischer, sozialer und kultureller Kontexte sowie Vorgaben und Regeln, angemessene Gestaltungsziele formulieren, sowie Konzeptionen im Kontext etablierter wissenschaftlicher Theorien einordnen, analysieren, diskutieren und bewerten. 
 
-… haben anhand praxisnaher Projekte und Fallstudien die Kompetenz erworben, eigenverantwortlich und professionell Projekte im Umfeld der Medieninformatik organisieren als auch durchführen zu können und effektiv Teams aus mehreren Disziplinen, mit verschiedenen Ausbildungsniveaus und aus unterschiedlicher kulturell/ethnischer Herkunft zu leiten. Darüber hinaus können sie die eigene Rolle im professionellen Kontext hinterfragen und weiterentwickeln. 
+- haben anhand praxisnaher Projekte und Fallstudien die Kompetenz erworben, eigenverantwortlich und professionell Projekte im Umfeld der Medieninformatik organisieren als auch durchführen zu können und effektiv Teams aus mehreren Disziplinen, mit verschiedenen Ausbildungsniveaus und aus unterschiedlicher kulturell/ethnischer Herkunft zu leiten. Darüber hinaus können sie die eigene Rolle im professionellen Kontext hinterfragen und weiterentwickeln. 
 
-… wurden an forschungsnahe Fragestellungen der Medieninformatik herangeführt und können auch zukünftige Problemstellungen, Technologien und wissenschaftliche Erkenntnisse im Umfeld der Medieninformatik erkennen und in ihrem Arbeitsumfeld einbeziehen sowie selbst wissenschaftlich arbeiten und – etwa im Rahmen einer Dissertation 
+- wurden an forschungsnahe Fragestellungen der Medieninformatik herangeführt und können auch zukünftige Problemstellungen, Technologien und wissenschaftliche Erkenntnisse im Umfeld der Medieninformatik erkennen und in ihrem Arbeitsumfeld einbeziehen sowie selbst wissenschaftlich arbeiten und – etwa im Rahmen einer Dissertation 
 
-… Beiträge zur Weiterentwicklung der Medieninformatik als wissenschaftlicher Disziplin leisten.
+- Beiträge zur Weiterentwicklung der Medieninformatik als wissenschaftlicher Disziplin leisten.
 
-~~~~~
-	Reviewer: Christian Noss
-	Date: 14.02.2017
-	Comment: 
-	Status: nicht fertig reviewed
-~~~~~
+
 
 # Konzeptionelle Einordnung des Studiengangs in das Studiensystem
+
+>  Der Studiengang entspricht
+>
+>  \(1) den Anforderungen des Qualifikationsrahmens für deutsche
+>  Hochschulabschlüsse vom 21.04.2005 in der jeweils gültigen Fassung,
+>
+>  \(2) den Anforderungen der Ländergemeinsamen Strukturvorgaben für die
+>  Akkreditierung von Bachelor- und Masterstudiengängen vom 10.10.2003 in
+>  der jeweils gültigen Fassung,
+>
+>  \(3) landesspezifischen Strukturvorgaben für die Akkreditierung von
+>  Bachelor- und Masterstudiengängen,
+>
+>  \(4) der verbindlichen Auslegung und Zusammenfassung von (1) bis (3)
+>  durch den Akkreditierungsrat.
+>  
+>**Leitfragen**
+>
+>-   Inwieweit sehen die für den Studiengang Verantwortlichen die im Kriterium genannten Anforderungen (insbesondere ländergemeinsame und ggf. landesspezifische Strukturvorgaben) eingehalten? Wo sieht die Hochschule Abweichungen und wie sind diese begründet?
+>
+>-   Auf welcher Berechnungsgrundlage fußt die Zuordnung von Kreditpunkten zu einzelnen Modulen?
+>
+>-   Sind alle verbindlich vorgeschriebenen Studienbestandteile (einschließlich praktischer Studienphasen) kreditiert? Wenn nein, warum nicht?
+>
+>-   Sind bei der Vergabe von Abschlusszeugnis und Diploma Supplement an die Studierenden Probleme bekannt geworden? Wenn ja, wie wurde darauf reagiert?
+>
+>**Mögliche Evidenzen**
+>
+>-   Studien-/Prüfungsordnung bzw. Zugangssatzung
+>
+>-   Falls nicht in Ordnungen enthalten, ergänzende Dokumente, die Studienstruktur und -dauer, ggf. Studiengangsprofile, ggf. Einordnung in konsekutive oder weiterbildende Masterstudiengänge, Abschlüsse und Abschlussbezeichnungen belegen
+>
+>-   Modulbeschreibungen, wie sie den Lehrenden und Studierenden zur Verfügung stehen
+>
+>-   Dokumente, in denen Studienverläufe und deren Organisation geregelt sind (z. B. Studienverlaufspläne)
+>
+>-   Dokumente, die die Kreditpunktezuordnung hochschulweit / studiengangbezogen regeln
+>
+>-   exemplarisches Zeugnis je Studiengang
+>
+>-   exemplarisches Diploma Supplement je Studiengang
+>
+>-   exemplarisches Transcript of Records je Studiengang
 
 ~~~
 cn: irgendwo würde ich gern was zur Haltung schreiben
@@ -719,9 +721,61 @@ cn: irgendwo würde ich gern was zur Haltung schreiben
 
 # Studiengangskonzept
 
+>Das Studiengangskonzept umfasst die Vermittlung von Fachwissen und fachübergreifendem Wissen sowie von fachlichen, methodischen und generischen Kompetenzen.
+>
+>Es ist in der Kombination der einzelnen Module stimmig im Hinblick auf formulierte Qualifikationsziele aufgebaut und sieht adäquate Lehr- und Lernformen vor. Gegebenenfalls vorgesehene Praxisanteile werden so ausgestaltet, dass Leistungspunkte (ECTS) erworben werden können.
+>
+>Es legt die Zugangsvoraussetzungen und gegebenenfalls ein adäquates Auswahlverfahren fest sowie Anerkennungsregeln für an anderen Hochschulen erbrachte Leistungen gemäß der Lissabon Konvention und außerhochschulisch erbrachte Leistungen. Dabei werden Regelungen zum Nachteilsausgleich für Studierende mit Behinderung getroffen. Gegebenenfalls vorgesehene Mobilitätsfenster werden curricular eingebunden.
+>
+>Die Studienorganisation gewährleistet die Umsetzung des Studiengangskonzeptes.
+>  
+>**Leitfragen**
+>
+>-   Welchen Beitrag leistet das Curriculum/leisten die einzelnen Module aus Sicht der für den Studiengang Verantwortlichen und Beteiligten zum Erreichen des angestrebten Kompetenzprofils?
+>
+>-   Hat sich im Zuge eines Abgleichs von angestrebtem Kompetenzprofil und Curriculum in den letzten Jahren Anpassungsbedarf ergeben? Welche Gründe gab es dafür? Wie wurde reagiert?
+>
+>-   Wie wird erreicht, dass die Module in sich stimmig sind, zueinander passen und wo nötig aufeinander aufbauen? Wie reagieren die für einen Studiengang Verantwortlichen, wenn einzelne Module sich nicht (mehr) in das Gesamtkonzept des Studiengangs einfügen?
+>
+>-   Woran erkennen die für den Studiengang Verantwortlichen, dass die Module eines Studiengangs *in ihrer Gesamtheit* das angestrebte akademische Niveau tragen?
+>
+>-   Inwieweit tragen die angebotenen Wahlmöglichkeiten im Studiengang zum Erreichen des angestrebten Kompetenzprofils bei?
+>
+>-   Woran erkennen die Lehrenden und die für den Studiengang Verantwortlichen, dass die gewählten didaktischen Instrumente und Methoden das Erreichen der Lernergebnisse des Studiengangs unterstützen?
+>
+>-   Können alle Lehrenden die ihrer Meinung nach idealen didaktischen Instrumente und Methoden einsetzen? Wenn nein, warum nicht?
+>
+>-   Welche Elemente unterstützen das eigenständige wissenschaftliche Arbeiten von Studierenden?
+>
+>-   Erfüllen die ggf. in einem Studiengang vorgesehenen Praxisphasen die Erwartungen im Hinblick auf die angestrebten Lernergebnisse?
+>
+>-   Welchen Prinzipien folgt die Hochschule im Umgang mit extern erworbenen Leistungen von Studierenden?
+>
+>**Mögliche Evidenzen**
+>
+>-   Curriculare Übersicht/Studienverlaufsplan, aus der/dem Semesterlage, Umfang und studentische Arbeitslast der Module pro Semester hervorgehen (ggf. mit Veröffentlichungsort wie z. B. Homepage, Studienführer, Studien- bzw. Prüfungsordnungen) bzw. Dokumente, in denen Studienverläufe und deren Organisation geregelt sind
+>
+>-   Dokumente, aus denen die geltenden Regelungen zur (Auslands-)Mobilität, Praxisphasen und Anerkennung von an anderen Hochschulen / außerhalb der Hochschule erbrachte Leistungen erkennbar sind
+>
+>-   Ziele-Module-Matrix
+>
+>-   Modulbeschreibungen, wie sie den Lehrenden und Studierenden zur Verfügung stehen
+>
+>-   Dokumente aus dem täglichen Gebrauch an der Hochschule, aus denen das vorhandene Didaktik-Konzept hervorgeht
+>
+>-   Einschlägige Ergebnisse interner Befragungen und Evaluationen
+>
+>-   Ggf. Daten zur (Auslands-)Mobilität von Studierenden und zu Praxiseinsätzen von Studierenden
+>
+>-   Informationen über die Profile der Bewerber und der zugelassenen Studierenden
+
 ~~~
 cn: hier bitte die Studiengänge nur beschreiben, also bitte nicht mehr auf veränderungen eingehen, so dass wir diese Texte später weiter benutzen können. Alle Veränderungen bitte im Kapitel "Qualifikationsziele" verankern.
 ~~~
+
+## Studienphasen
+
+{% include image.html url="bilder/ba-studienphasen.svg" caption="Abbildung: Studienphasen des Bachelorstudiengangs Medieninformatik" %}
 
 ## Prinzipien
 
@@ -738,6 +792,857 @@ cn: Grafiken nicht vergessen!
 
 ![](../anhaenge/bilder/ba-studienphasen.001.jpeg){:class="img-responsive"}
 *Bild 1: Studienphasen des Bachelorstudiengangs Medieninformatik*
+
+
+# Studierbarkeit
+
+>Die Studierbarkeit des Studiengangs wird gewährleistet durch:
+>
+>-   die Berücksichtigung der erwarteten Eingangsqualifikationen,
+>-   eine geeignete Studienplangestaltung
+>-   die auf Plausibilität hin überprüfte (bzw. im Falle der Erstakkreditierung nach Er-fahrungswerten geschätzte) Angabe der studentischen Arbeitsbelastung,
+>-   eine adäquate und belastungsangemessene Prüfungsdichte und -organisation,
+>-   entsprechende Betreuungsangebote sowie
+>-   eine fachliche und überfachliche Studienberatung.
+>
+>Die Belange von Studierenden mit Behinderung werden berücksichtigt.
+>  
+>**Leitfragen**
+>
+>-   Woran erkennen die Verantwortlichen, dass die (formalen und fachlich-inhaltlichen) Zugangskriterien das Erreichen des angestrebten Kompetenzprofils unterstützen?
+>
+>-   Ggf.: Wie wurde reagiert, wenn die Zugangsregelungen diesen Zweck aus Sicht der für den Studiengang Verantwortlichen nicht erfüllt haben?
+>
+>-   Wie schätzen die für den Studiengang Verantwortlichen und daran Beteiligten\ – einschließlich der Studierenden – die studentische Arbeitsbelastung ein? Welche Probleme treten auf? Was wird zu deren Lösung unternommen?
+>
+>-   Sind hinsichtlich des Studienabschlusses in der vorgesehenen Zeit in den vergangenen Jahren Probleme aufgetreten? Wenn ja, welche? Wie wurden sie behandelt?
+>
+>-   Inwieweit sind individuelle Mobilitätsfenster für Studierende im Studienverlauf realisierbar? Welche Probleme gibt es? Wie wurde darauf reagiert?
+>
+>-   Welche Auswirkungen auf die Studierbarkeit haben die vorhandenen (prüfungsrelevanten) Regelungen zu Wiederholungsmöglichkeiten, Nachteilsausgleich bei Behinderung, Nichterscheinen im Krankheitsfall etc.?
+>
+>-   Gab es Fälle, in denen sich die konkrete Prüfungsorganisation (z. B. Terminierung der Prüfungen, Korrekturzeiten) nachteilig auf den Studienverlauf ausgewirkt haben? Wenn ja, welche Konsequenzen wurden gezogen?
+>
+>-   Welche der vorhandenen Betreuungs- und Beratungsangebote für Studierende halten die für den Studiengang Verantwortlichen und Beteiligten – einschließlich der Studierenden – für besonders effektiv im Hinblick auf den Studienerfolg?
+>
+>-   Welche Betreuungs- und Beratungsangebote für Studierende vermissen die für den Studiengang Verantwortlichen und Beteiligten – einschließlich der Studierenden? Warum werden sie nicht realisiert?
+>
+>-   Inwieweit werden Belange von Studierenden mit Behinderung berücksichtigt?
+>
+>**Mögliche Evidenzen**
+>
+>-   Ggf. Zugangssatzung sowie Informationen über die Studiengangsvoraussetzungen auf Webseiten, in Studienführern etc.
+>
+>-   Einschlägige Ergebnisse interner Erhebungen und Evaluationen – ggf. Daten zur studentischen Arbeitslast
+>
+>-   Studienverlaufsplan, aus der/dem Semesterlage, Umfang und studentische Arbeitslast der Module pro Semester hervorgehen (ggf. mit Veröffentlichungsort wie z. B. Homepage, Studienführer, Studien- bzw. Prüfungsordnungen) bzw. Dokumente, in denen Studienverläufe und deren Organisation geregelt sind
+>
+>-   Dokumente, aus denen die geltenden Regelungen zur (Auslands-)Mobilität, Praxisphasen und Anerkennung von an anderen Hochschulen / außerhalb der Hochschule erbrachten Leistungen erkennbar sind
+>
+>-   Dokumente aus dem täglichen Gebrauch an der Hochschule, aus denen das vorhandene Beratungs- und Betreuungskonzept hervorgeht
+>
+>-   (statistische) Daten zu Studienverläufen
+>
+>-   Ggf. Daten zur (Auslands-)Mobilität von Studierenden und zu Praxiseinsätzen von Studierenden
+>
+>-   Ggf. weitere einschlägige Ergebnisse interner Befragungen und Evaluationen (auch Auffälligkeiten hinsichtlich der Wirkung von ggf. vorhandenen Maßnahmen zur Vermeidung von Ungleichbehandlungen in der Hochschule)
+
+1.3 Zugangs- und Zulassungsvoraussetzungen 1.3.1 Bachelor: Zugangsvoraussetzungen
+Als Voraussetzung für die Aufnahme eines Bachelorstudiums der Allgemeinen Informatik, der Technischen Informatik und der Wirtschaftsinformatik wird die Fachhochschulreife oder eine als gleichwertig anerkannte Vorbildung gefordert.
+1.3.1.1 Self-Assessment
+Die Fakultät 10 der FH Köln hat im vergangenen Jahr mit sehr gutem Erfolg ein Self- Assessment für Studienbewerber in den ingenieurwissenschaftlichen Studiengängen einge- führt6. Das Durchlaufen dieses Self-Assessment, das mit einem Feedback an den Studien- bewerber in Bezug auf Neigung und Eignung abgeschlossen wird, ist eine Zulassungsvo- raussetzung, es stellt jedoch keine Barriere im Sinne einer Eingangsprüfung dar. Das Self- Assessment wurde basierend auf einem an der RWTH Aachen konzipierten System entwi- ckelt und wurde von den Studierenden sehr gut angenommen.
+Es ist vorgesehen, das Self-Assessment mit Beginn WS2012/13 auch auf die Informatikstu- diengänge auszudehnen.
+1.3.2 Master: Zulassungsvoraussetzungen
+Als Voraussetzung für die Aufnahme des Masterstudiums wird ein Bachelor oder Diplom- Abschluss einer deutschen Fachhochschule oder Universität in Informatik (auch in einer verwandten Ausrichtung wie etwa Technische Informatik, Wirtschaftsinformatik, Medienin- formatik, Bioinformatik etc.) oder ein gleichwertiger Abschluss (auch aus dem Ausland) mit einer Abschlussnote von 2,5 oder besser gefordert. Die Bedingungen der Konsekutivität werden in der Prüfungsordnung beschrieben. Liegt ein anderer Hochschulabschluss vor, so können die Voraussetzungen für das Studium durch eine Aufnahmeprüfung oder eine ein- schlägige qualifizierte Berufstätigkeit von mindestens zwei Jahren nachgewiesen werden. Als bilingualer Studiengang (deutsch/englisch) sind entsprechende Sprachkompetenzen nachzuweisen. Liegt nur der Nachweis deutscher Sprachkompetenz vor, ist ein Studium mit Schwerpunkt Software Engineering mit der Beschränkung auf die deutschsprachigen Modu- le möglich. Liegt nur der Nachweis englischer Sprachkompetenz vor, ist ein Studium mit Schwerpunkt Wirtschaftsinformatik mit der Beschränkung auf die englischsprachigen Modu- le möglich. Die Studienbewerber werden vor der Einschränkung detailliert über die Sprach- bedingungen informiert. Der Nachweis der zweiten Sprachkompetenz während des Studi- ums ist optional möglich und erweitert gegebenenfalls den Katalog wählbarer Fächer.
+Eine vom Prüfungsausschuss benannte Kommission der Fakultät für Informatik und Ingeni- eurwissenschaften ist für die Durchführung der Aufnahmeprüfung verantwortlich. Weitere Einzelheiten des Verfahrens werden in der Prüfungsordnung beschrieben (s. beiliegender Entwurf).
+1.3.3 Übergänge zum / vom herkömmlichen Qualifizierungssystem
+Der Masterstudiengang steht allen Absolventinnen und Absolventen von Informatik Studien- gängen, auch den Absolventinnen und Absolventen von Diplomstudiengängen offen. Es gelten die entsprechenden Bestimmungen aus Kap. 1.3.2. Zudem sind englische oder deut- sche Sprachnachweise notwendig, die von dem gewählten Masterschwerpunkt abhängen. Einzelheiten dazu werden in der Prüfungsordnung geregelt.
+1.3.4 Maßnahmen zum Defizitausgleich von Eingangsqualifikationen
+1.3.4.1 Bachelor
+Es gibt ein Tutorenprogramm der Mathematik zu Beginn jeden Wintersemesters. Durch Kombination aus Vorlesung und von Tutoren begleiteten Übungen werden die oftmals sehr unterschiedlichen Voraussetzungen der Studienanfänger in einem 2-wöchigen Kursus an- geglichen. Auf dem Webportal des Vorkurses (www.gm.fh-koeln.de/mathevorkurs), das durch Studierende unter Betreuung von Prof. Konen neu aufgebaut wurde, findet u.a. eine regelmäßige Evaluierung durch die studentischen Teilnehmer statt, die zu durchweg positi- ven Bewertungen führte. Ebenfalls wird begleitend zur Vorlesung Mathematik 1 + 2 ein Tuto- rium durch Studierende angeboten.
+In den vergangenen Jahren wurde im Rahmen des NRW-weiten MATRIXX-Projektes (www.matrixx.nrw.de) das eLearning-Angebote für "Mathematik in der Informatik" aufgebaut. Die Steigerung der dort verfügbaren Angebote, gerade auch unter Beteiligung studentischer Tutoren, gehört zu den Maßnahmen, die im Rahmen des QdL-Programms (Qualität der Leh- re) gefördert werden.
+Ähnlich wie in der Mathematik hat sich in den letzten Jahren ein Tutorium im Bereich Algo- rithmen und Programmierung etabliert. Eine Arbeitsgruppe von 4 studentischen Hilfskräften in höheren Semestern, die die Klausur in Algorithmen und Programmierung mindestens mit der Note 2.0 bestanden haben, kümmert sich um die Studierenden in diesem Bereich. Hier- zu gibt es 2 Termine pro Woche, in denen zusammen mit den Studierenden Programmier- aufgaben bearbeitet werden. Diese beziehen sich auf den aktuellen Stoff der Vorlesung und des Praktikums. Ziel des Tutoriums ist vor allen Dingen, potenzielle Unterschiede im Kennt- nisstand der Studierenden auszugleichen.
+1.3.4.2 Master
+Zusätzlich zu den im Master angebotenen Brückenkursen zu den Themen der Mathematik werden zukünftig mit den Studienanfänger Beratungsgespräche durchgeführt, um Empfeh- lungen zum Ausgleich von Defiziten durchgeführt, dokumentiert und regelmäßig mit den Studierenden besprochen. Die Wahlkataloge des Curriculums sollten insbesondere auf den Abbau vorhandener Lücken ausgenutzt werden, sofern ausreichende Sprachkompetenz vorliegt.
+Bei nicht-konsekutiven Studiengängen kann die Zulassung unter Auflagen zur Beseitigung von Defiziten erfolgen. Entsprechende Details regelt die Prüfungsordnung.
+
+
+## Struktur
+Im Anhang K sind die Studienverlaufspläne der einzelnen Studiengänge enthalten, für die eine Akkreditierung beantragt wird. Das Studium umfasst im Bachelor jeweils insgesamt 180 ECTS Punkte und 144 Semesterwochenstunden Semesterwochenstunden. Dies entspricht durchschnittlich 24 SWS je Semester. Die Inhalte der Module sind in dem entsprechenden Modulhandbuch dargestellt.
+
+Das Masterstudium umfasst 120 ECTS Punkte bei 48 SWS Präsenzzeit, was einer durchschnittlichen Präsenzzeit von 16 SWS pro Semester entspricht.
+
+## Arbeitslast
+
+Die Bachelor- und Masterstudiengänge sind durchgängig mit 30 ECTS-Punkten im Semester durchkalkuliert, was einer Arbeitslast von 900 Stunden pro Semester entspricht. Wenn man ein Semester mit 24 Wochen veranschlagt, wobei die Prüfungszeit und Prüfungsvorbereitung mitgerechnet ist, ergibt sich eine Wochenarbeitszeit von 900 h / 24 = 37,5 Stunden. Eine Veranstaltung mit 5 Creditpoints und 4 SWS, 2 SWS Vorlesung + S SWS übung hat in der Regel einen Arbeitsaufwand von 5 x 30 = 150 Stunden. Bei durchschnittlich 18 Semesterwochen entspricht dies einem Anteil von 2 h x 18 = 36 Stunden Vorlesung, 2 h x 18 = 36 Stunden übung, also 72 Stunden Präsenzanteil und 78 Stunden Selbststudium inklusive Klausurvorbereitung und Nachbereitung der Präsenzanteile. Dies entspricht in etwa einer Aufteilung der Gesamtzeit in 50% für Präsenzstudium und in 50 % für Selbststudium.
+
+Die Lehrveranstaltungen des Masterstudiengangs sind mit 6 Creditpoints ausgestattet, was bei einem Modul mit 4 SWS einem Verhältnis von 40% für Präsenzstudium und 60 % für Selbststudium entspricht. 
+
+
+## Leistungspunktesystem
+
+Die Module der beantragten Studiengänge werden mit Creditpoints bewertet, um europaweite Vergleichbarkeit gemäß den Bologna-Richtlinien zu ermöglichen.
+
+## Prüfungen
+
+Viele Fachprüfungen der Bachelorstudiengänge, vor allem der Grundlagenfächer, werden in Form einer Klausur angeboten. Bei vielen Pflichtmodulen, den meisten Wahlpflichtfächer und natürlich im Kolloquium zur Bachelorarbeit sind mündliche Prüfungen vorgesehen, die oft durch Referate und Präsentationen unterstützt werden. Die Anzahlen der Modulprüfungen liegen bei den Bachelorstudiengängen zwischen 28 und 30 und sind so über die sechs Semester verteilt, dass es zu keinen Häufungen mit mehr als sechs Prüfungen in einem Semester kommt.
+
+Im Masterstudium ist der Schwerpunkt der Prüfungsformen in Richtung mündlicher Prüfungen, Präsentationen und wissenschaftlicher Ausarbeitungen gelegt. Bei einer Gesamtzahl von 15 Modulprüfungen fallen maximal fünf Prüfungen pro Semester an.
+
+## Studien/Prüfungsordnungen
+
+Die Studien- und Prüfungsordnungen der beantragten Studiengänge sind dem Anhang dieses Berichts beigefügt. Der Studienverlaufsplan entspricht der Studienordnung.
+
+
+## Maßnahmen zur Beratung von Studieninteressierten und Studierenden
+
+Die Medieninformatik beteiligt sich ferner jährlich an folgenden Veranstaltungen zur Beratung von Studieninteressierten:
+
+Regelmäßig wird im Mai ein „Schnupperstudium“ durchgeführt, an dem rund 150 Schüler, teilweise mit ihren Lehrern teilnehmen, um die Fachhochschule kennen zu lernen.
+
+Das Medieninformatik beteiligt sich regelmäßig mit eigenen Veranstaltungen an dem bundesweit jährlich stattfindenden Girls-Day, an dem rund 50 Schülerinnen speziell für ein Informatik-Studium oder ein ingenieurwissenschaftliches Studium in Gummersbach begeistert werden sollen.
+
+Dazu kommen Laborführungen für Schülergruppen verschiedener Schulen sowie die Präsentation des Campus Gummersbach außerhalb der Hochschule:
+- auf der „Overather Ausbildungsbörse",
+- der „Ausbildungsbörse Bergneustadt",
+- der „Mädchenmesse" des Oberbergischen Kreises,
+- dem „Tag der Offenen Tür" des Berufskollegs Dieringhausen (Gummersbach),der „Weiterbildungsmesse Oberberg",
+- sowie die Teilnahme an anderen, unregelmäßig durchgeführten Veranstaltungen zur Studien- und Berufswahl.
+
+Im Rahmen des bundesweiten Informatikjahres wurde am Campus Gummersbach ein „Tag der Informatik" für Studieninteressierte und eine „Informatik Sommerakademie für Schülerinnen (ISAS)" durchgeführt. Studierende und Dozenten gaben Einblicke in die Informatik-Welt und die Studieninteressierten konnten in verschiedenen Workshops und Selbsteinschätzungstests ihre Eignung und ihr Interesse für die Informatik live testen. Mit über 100 Studieninteressierten war die Beteiligung sehr erfreulich, und die Veranstaltungen stießen auf ein positives Echo.
+Das Institut für Informatik beteiligt sich jährlich am „Tag der offenen Tür“ der TH-Köln im September und an Informationsveranstaltungen der umliegenden Gymnasien und anderer weiterführender Schulen, die potenzielle Studienanfängerinnen und Studienanfänger an die Qualifizierung für ein Hochschulstudium heranführen.
+Alle diese Angebote werden sehr gut aufgenommen und sind stark frequentiert.
+
+
+# Prüfungssystem
+
+>Die Prüfungen dienen der Feststellung, ob die formulierten Qualifikationsziele erreicht wurden. Sie sind modulbezogen sowie wissens- und kompetenzorientiert. Jedes Modul schließt in der Regel mit einer das gesamte Modul umfassenden Prüfung ab. Der Nach-teilsausgleich für behinderte Studierende hinsichtlich zeitlicher und formaler Vorgaben im Studium sowie bei allen abschließenden oder studienbegleitenden Leistungsnachweisen ist sichergestellt. Die Prüfungsordnung wurde einer Rechtsprüfung unterzogen.
+>
+>**Leitfragen**
+>
+>-   Welche der eingesetzten Prüfungsformen stufen die Lehrenden und die für den Studiengang Verantwortlichen als besonders geeignet zur Erfassung erreichter Lernergebnisse ein? Welche Lernergebnisse lassen sich aus Sicht der Lehrenden und der für den Studiengang Verantwortlichen nur schwer überprüfen?
+>
+>-   Wie werden die Bewertungskriterien für Studierende und Lehrende transparent gemacht?
+>
+>**Mögliche Evidenzen**
+>
+>-   Prüfungsrelevante Regelungen
+>
+>-   Einschlägige Ergebnisse aus internen Befragungen und Evaluationen mit Blick auf die Prüfungsorganisation und die Lernergebnisorientierung der Prüfungen
+>
+>-   Beispielhafte Prüfungspläne (einschließlich Prüfungstermine)
+>
+>-   Statistische Daten zum Studienverlauf, z.B. Durchschnittsnote, Durchfallquote, Anzahl der Wiederholungen
+
+
+## Studien/Prüfungsordnungen
+Die Studien- und Prüfungsordnungen der laufenden Studiengänge sind dem Anhang G dieses Berichts beigefügt. Der Studienverlaufsplan entspricht der Studienordnung. Nach Zu- stimmung der Gutachter zu den in den Abschnitten 1 und 1 erläuterten Änderungen im Rahmen der Reakkreditierung werden die überarbeiteten Prüfungsordnungen zeitnah vorge- legt.
+
+# Studiengangsbezogene Kooperationen
+
+>Beteiligt oder beauftragt die Hochschule andere Organisationen mit der Durchführung von Teilen des Studiengangs, gewährleistet sie die Umsetzung und die Qualität des Studiengangskonzeptes. Umfang und Art bestehender Kooperationen mit anderen Hochschulen, Unternehmen und sonstigen Einrichtungen sind beschrieben und die der Kooperation zu Grunde liegenden Vereinbarungen dokumentiert.
+>
+>**Leitfragen**
+>
+>-   Funktionieren die hochschulinternen und hochschulexternen Kooperationen aus Sicht der für den Studiengang Verantwortlichen?
+>
+>**Mögliche Evidenzen**
+>
+>-   Kooperationsverträge, Regeln für interne/externe Kooperationen
+
+# Ausstattung
+
+>Die adäquate Durchführung des Studiengangs ist hinsichtlich der qualitativen und quantitativen personellen, sächlichen und räumlichen Ausstattung gesichert. Dabei werden Verflechtungen mit anderen Studiengängen berücksichtigt. Maßnahmen zur Personalentwicklung und -qualifizierung sind vorhanden.
+>
+>**Leitfragen**
+>
+>-   Auf welche Weise stellen die für den Studiengang Verantwortlichen fest, dass Umfang und fachliche Qualifikation des Lehrpersonals für Lehre und Betreuung ausreichen?
+>
+>-   Wie zufrieden sind die am Studiengang Beteiligten mit den Ressourcen für Lehre, Betreuung und Administration?
+>
+>-   Wie reagieren die für den Studiengang Verantwortlichen auf auftretende Probleme und Engpässe?
+>
+>-   Woran wird die Qualität von ggf. eingesetzten Lehrbeauftragten fest gemacht?
+>
+>-   Inwieweit sind Forschungs- und Entwicklungstätigkeiten der Lehrenden der Studiengangsentwicklung förderlich?
+>
+>-   Wer ist für die fachliche und didaktische Weiterentwicklung der Lehrenden verantwortlich?
+>
+>-   Woran erkennen die Verantwortlichen, dass Weiterbildungsmaßnahmen erwünscht oder erforderlich sind?
+>
+>-   Wie zufrieden sind die am Studiengang Beteiligten mit der sächlichen Ausstattung?
+>
+>-   Wie reagieren die für den Studiengang Verantwortlichen auf Engpässe in der Ausstattung?
+>
+>**Mögliche Evidenzen**
+>
+>-   Beschreibung des Personals
+>
+>-   Dokument aus dem täglichen Gebrauch der Hochschule, aus dem die ausreichende Lehrkapazität hervorgeht
+>
+>-   Anzahl der Studierenden
+>
+>-   Darstellung des didaktischen Weiterbildungsangebotes (ggf. Verweis auf Webseite) und von Maßnahmen zur Unterstützung der Lehrenden bei dessen Inanspruchnahme
+>
+>-   Daten zu wahrgenommenen Weiterbildungsaktivitäten, z. B. Forschungssemester, Gastprofessuren, Seminare, Tagungen, Workshops
+>
+>-   (Kurz-)Darstellung der studiengangsbezogenen Forschungsaktivitäten
+>
+>-   Dokumente aus dem täglichen Gebrauch der Hochschule, in denen die Ausstattung dargestellt wird, z.B. Laborhandbücher, Inventarlisten, Finanzpläne
+
+## Verleih
+
+- 12 x Audiovisuelle Produktionssets, bestehend aus jeweils
+  * P2 Panasonic HD Kamera
+  * Sachtler Kamerastativ
+    * Sennheiser MKH 416 Richtmikrofon
+    * 2 Kanal Audiomischer
+    * Tonangel
+    * Diverse Verbindungskabel und Taschen
+
+* 4 x kompakte Panasonic HD Kameras
+
+* 1 x Canon EOS 5D Mark III mit folgenden Objektiven:
+  * Canon Fisheye Zoom Lens EF 8-15mm 1:4 L USM
+  * Canon Zoom Lens EF 24-70mm 1:4 L IS USM
+  * Canon Lens EF 85mm 1:1,2 L II USM
+
+* 1 x GoPro Hero 3 Black Edition
+
+* 1 x DJI Ozmo Gimbal Kamera
+
+* 9 x Lichtset, bestehend aus jeweils
+  * 3 x 750 W ARRI Scheinwerfer
+  * 3 x Stative
+  * 1 x Koffer
+
+* Diverses Zubehör für Licht, Ton und Video:
+  * Reflektoren
+  * Stative
+  * Monitore
+  * Speichermedien
+  * Reflektoren
+
+
+* Smartphones und Tablets
+  * 1 x Nexus 5
+  * 2 x Nexus 9
+  * 1 x iPad Pro 13’’ mit Apple Pencil
+
+## Nachbearbeitung
+
+* 5 x Mac Pro stationär, mit Adobe Production Suite CS 6
+
+* 12 x iMac mobil, mit Adobe Production Suite CS 6
+
+* 1 x Tonkabine mit folgenden Equipment
+  * Neumann Großmembranmikrofon mit Poppschutz
+  * Mac Pro mit Logic X zur Aufnahmen und Nachbearbeitung
+  * Mackie 1402 Tonmischpult
+
+## Studio
+
+* Greenbox mit festmontierter und variabler Beleuchtung
+* Bildmischer Panasonic AV-HS400A
+* Audiomischer Behringer AB1222FX-Pro
+* Mac Pro mit Adobe Production Suite CS 6 zur Digitalisierung und Nachbearbeitung der Studioproduktionen
+
+## MI-Projektraum
+
+* Eyetracking System (SMI-Vision, 120 Hz) mit Laptop und Auswertungssoftware
+* Eye-Tracking Brille (Tobii) für mobile Nutzungskontexte
+
+## Lehrende in der Medieninformatik
+
+### Prof. Dr. Thomas Bartz-Beielstein
+
+* Web: https://www.th-koeln.de/personen/thomas.bartz-beielstein/
+
+- Forschungsgebiete
+  -  CIplus
+- Lehrgebiete:
+  - Angewandte Mathematik Simulation und Optimierung 
+  - Computational Intelligence Evolutionäre Algorithmen
+
+
+### Bente, Stefan
+
+* Web: https://www.th-koeln.de/personen/stefan.bente/
+
+
+* Forschungsgebiete
+  * Softwarearchitektur
+  * Enterprise-Architektur-Management (EAM)
+* Lehrgebiete
+  * Softwaretechnik Softwarearchitektur
+  * Anforderungsmanagement
+
+### Bertelsmeier, Birgit
+
+- Web: https://www.th-koeln.de/personen/birgit.bertelsmeier/
+
+* Forschungsgebiete
+  - Big Data von Datenbanksystemen über Auswertungstools bis hin zu ethischen Gesichtspunkten
+  - NoSQL von den Modellen bis hin zu den DB-Systemen und Analysetools
+  - Tuning von DBSen (RDBMS bis NoSQL) und deren (SQL-)Anfragen
+  - Datenschutz rechtliche wie auch (programm-)technische und ethische Aspekte
+* Lehrgebiete
+  * Datenbank- und Informationssysteme RDBMS bis NoSQL
+
+### Böhmer, Matthias
+
+* Web: https://www.th-koeln.de/personen/matthias.boehmer/
+
+
+* Forschungsgebiete
+  * Ubiquitous Computing
+  * Context-aware Applications
+  * Distributed Interactive Systems
+  * Internet of Things
+  * Mobile Applications and Smartphone Usage
+* Lehrgebiete
+  * Mobile und Verteilte Architekturen
+
+### Eisemann, Martin
+
+- Web: https://www.th-koeln.de/personen/martin.eisemann/
+
+* Forschungsgebiete
+  * Photorealistische Computergrafik
+  * Bildbasierte Verfahren
+  * Visualisierung und Visual Analytics
+  * Bild- und Videoverarbeitung
+
+
+* Lehrgebiete
+  * Computergrafik Realistische und Interaktive Bildsynthese, Bildbasierte Computergraphik, Visual Analytics, Gaming Technologies
+  * Theoretische Informatik Grundlagenvorlesungen im Bachelor
+
+### Faeskorn-Woyke, Heide
+
+* Web: https://www.th-koeln.de/personen/heide.faeskorn-woyke/
+
+
+* Forschungsgebiete
+  * Data Mining und Datenbankanwendungen im Big Data Umfeld
+* Lehrgebiete
+  * Datenbanken und Informationssysteme
+
+### Fischer, Kristian
+
+* Web: https://www.th-koeln.de/personen/kristian.fischer/
+
+
+* Forschungsgebiete
+  * Dienst orientierte Architekturen
+  * Semantische Modellierung digitaler Medien
+
+
+* Lehrgebiete
+  * Web-basierte Anwendungen und verteilte Systeme
+
+
+### Giannakopoulos, Fotios
+
+* Web: https://www.th-koeln.de/personen/fotios.giannakopoulos/
+
+- Forschungsgebiete
+  - **[hier fehlt noch Inhalt]**
+- Lehrgebiete
+  - **[hier fehlt noch Inhalt]**
+
+### Günther, Holger
+
+* Web: https://www.th-koeln.de/personen/holger.guenther/
+
+
+* Forschungsgebiete
+  - **[hier fehlt noch Inhalt]**
+* Lehrgebiete
+  * **[hier fehlt noch Inhalt]**
+
+### Hartmann, Gerhard
+
+* Web: https://www.th-koeln.de/personen/gerhard.hartmann/
+
+
+* Forschungsgebiete
+  * Sustainable Interaction Design
+  * Sustainability as System-Requirements
+  * Designing Worth, Value-related Design
+  
+* Lehrgebiete
+  * Mensch-Computer Interaktion
+  * Entwicklungsprojekt interaktive Systeme
+  * Interaction Design
+  * Naturwissenschaftliche Grundlagen Digitaler Medien
+  * Research Methods in Human-Computer Interaction
+  * Design Methodologies
+
+### Jochum, Friedbert
+
+* Web: https://www.th-koeln.de/personen/friedbert.jochum/
+
+
+* Forschungsgebiete
+  * Software-Architektur / Systemgestaltung
+  * Konstruktive Methoden
+  * Konzeptuelle Modellierung 
+  * Informatik und Semiotik
+
+
+* Lehrgebiete
+  * Fachspezifischer Architekturentwurf
+  * Software-Architektur und Agile Methoden 
+
+
+### Karsch, Stefan
+
+* Web: https://www.th-koeln.de/personen/stefan.karsch/
+* Forschungsgebiete
+  * **[hier fehlt noch Inhalt]**
+* Lehrgebiete
+  * **[hier fehlt noch Inhalt]**
+
+### Klocke, Heinrich
+
+* Web: https://www.th-koeln.de/personen/heinrich.klocke/
+* Forschungsgebiete 
+  * Mensch-Computer-Interakton im Bereich SmartHome.
+* Lehrgebiete
+  * Mensch-Computer Interaktion Usability Engineering und kognitive Psychologie
+  * Algorithmik
+  * Künstliche Intelligenz Logische Agenten
+
+### Knittel, Friedrich
+
+* Web: https://www.th-koeln.de/personen/friedrich.knittel/
+
+
+* Forschungsgebiete
+  * **[hier fehlt noch Inhalt]**
+* Lehrgebiete
+  * **[hier fehlt noch Inhalt]**
+
+### Koch, Heribert
+
+* Web: https://www.th-koeln.de/personen/heribert.koch/
+* Forschungsgebiete
+  - **[hier fehlt noch Inhalt]**
+* Lehrgebiete
+  * **[hier fehlt noch Inhalt]**
+
+### Köhler, Lutz
+
+* Forschungsgebiete
+  * **[hier fehlt noch Inhalt]**
+
+
+* Web: https://www.th-koeln.de/personen/lutz.koehler/
+
+
+* Lehrgebiete
+  * **[hier fehlt noch Inhalt]**
+
+
+### Kohls, Christian
+
+* Web: https://www.th-koeln.de/personen/christian.kohls/
+
+
+* Forschungsgebiete
+  * **[hier fehlt noch Inhalt]**
+* Lehrgebiete
+  * **[hier fehlt noch Inhalt]**
+
+#### Konen, Wolfgang
+
+* Web: https://www.th-koeln.de/personen/wolfgang.konen/
+
+- Forschungsgebiete
+  - Computational Intelligence & Data Mining
+  - Bild- und Signalverarbeitung
+  - Optimierung, Simulation, Spieltheorie
+
+* Lehrgebiete
+  * Mathematik
+  * Data Mining
+
+
+### Kornacher, Hans Hermann
+
+* Forschungsgebiete
+  * **[hier fehlt noch Inhalt]**
+
+
+* Web: https://www.th-koeln.de/personen/hans.kornacher/
+
+
+* Lehrgebiete
+  * Medientechnik und -produktion
+  * Digitale Animation und Visual Effects in der Film- und Fernsehproduktion
+
+
+### Naujoks, Boris
+
+* Web: https://www.th-koeln.de/personen/boris.naujoks/
+
+
+* Forschungsgebiete
+  - Computational Intelligence, Evolutionäre Algorithmen, Mehrkriterielle Optimierung
+
+
+* Lehrgebiete
+  * Angewandte Mathematik Grundlagenveranstaltungen Informatik und Ingenieure
+
+### Noss, Christian
+
+* Forschungsgebiete
+  * **[hier fehlt noch Inhalt]**
+* Web: https://www.th-koeln.de/personen/christian.noss/
+* Lehrgebiete
+  * Kommunikationsdesign
+  * Web-basierte Anwendungen
+
+### Stahl, Hans Ludwig
+
+* Forschungsgebiete
+  * Netze: Technik, Konzeption, Betrieb, Management, Sicherheit
+  * Outsourcing, ASP, CRM: Konzeption, Betrieb, SLAs, Management, Konzernstrategien
+  * Service Level Monitoring und ITIL-konforme IT-Prozesse bzw. Unterstützung von eTOM
+  * Open Systems: Betrieb, Management, Konsolidierung, Konzernstrategien
+  * Mobile IT / Mobilkommunikation: Technik, Management, Sicherheit, Anwendungen
+  * IT Security Management
+  * IT Risk Management
+  * IT- und Web-Trust-Management
+* Web: https://www.th-koeln.de/personen/hans.stahl/
+* Lehrgebiete
+  * Theoretische Informatik und Technische Informatik
+  * Kommunikationstechnik und Netze
+  * Mobile IT Security
+  * IT Compliance and Risk Management Informatik
+
+### Victor, Frank
+
+* Web: https://www.th-koeln.de/personen/frank.victor/
+
+
+* Lehrgebiete
+  * Algorithmen und Programmierung
+  * Enterprise Architecture Management
+  * Betriebliche Anwendungssysteme
+  * IT Consulting 
+  * IT Consulting und Management
+
+### Westenberger, Hartmut
+
+* Forschungsgebiete
+  - Industrialisierung von Data Warehousing und Business Intelligence Framework und Wissenskomponenten für die Beratung und Entwicklung von DWH/BI
+* Web: https://www.th-koeln.de/personen/hartmut.westenberger/
+* Lehrgebiete
+  * Informatik Betriebliche Anwendungssysteme
+
+### Winter, Mario
+
+* Web: https://www.th-koeln.de/personen/mario.winter/
+* Forschungsgebiete
+  - **[hier fehlt noch Inhalt]**
+* Lehrgebiete
+  * Softwareentwicklung und Projektmanagement in Medienprojekten 
+  * Modellbasierte Entwicklungsmethoden und Qualitätssicherung
+
+## Wissenschaftliche Beschäftigte
+
+### Breiderhoff, Beate
+
+### Breuer, Stefan
+
+### Buderus, Dennis
+
+### Bungart, Johannes-Josef
+
+### Butz, Raphaela
+
+### Chandrasekaran, Sowmya
+
+### Dang, Ngoc-Anh
+
+### Dimitriou, Konstantinos
+
+### Dobrynin, Alexander
+
+### Ferreira Pereira, Jorge Henrique
+
+### Fischbach, Andreas
+
+### Friese, Martina
+
+### Gabriel, Robert
+
+### Gawenda, Damian
+
+### Gellert, Edgar
+
+### Grünloh, Christiane
+
+### Hein, Irina
+
+### Heßland, Marco Paolo
+
+### Hofmeister, Anne
+
+### Holste, Andreas
+
+### Jaeger, Dennis
+
+### Jaspers, Franz-Leonard
+
+### Jung, Christian
+
+### Kasper, Andre
+
+### Krampe, Fabian Reinhard Dietrich
+
+### Krischer, Manuel
+
+### Krumnow, Benjamin
+
+### **Kullack, Sven**
+
+### Linke, Mario
+
+### Moritz, Steffen
+
+### Müller, Sebastian
+
+### Münster, Beate Anna
+
+### Münster, Guido
+
+### Müsse, Uwe
+
+### Neagu, Adrian
+
+### Odenwald, Patrick
+
+### Petersen, David Ferdinand
+
+### Petrisor, Teodora Roxana
+
+### Pham, Quoc Cuong
+
+### Poborski, Uwe
+
+### Rebolledo Coy, Margarita Alejandra
+
+### Reitano, Marco
+
+### Reschke, Daniela
+
+### Riemer, Petra
+
+### Sassmannshausen, Sheree May
+
+### Schäfer, Frank
+
+### Schaefer, Volker
+
+### Scherban, Helmut
+
+### Schewe, Sascha
+
+### Schönthier, Pascal
+
+### Schwede, Marc
+
+### Stork, Jörg
+
+### Stratmann, Marcel
+
+### Strohschein, Jan
+
+### Thill, Markus
+
+### Wagner, Peter
+
+### Zaefferer, Martin
+
+### Zakrevski, Svetlana
+
+
+
+# Transparenz und Dokumentation
+
+>Studiengang, Studienverlauf, Prüfungsanforderungen und Zugangsvoraussetzungen ein-schließlich der Nachteilsausgleichsregelungen für Studierende mit Behinderung sind dokumentiert und veröffentlicht.
+>
+>**Leitfragen**
+>
+>-   Wie wird sichergestellt, dass inländische und ausländische Studierende ihre Rechte und Pflichten kennen?
+>
+>-   Wer hat die Entscheidungsbefugnis über welche Dokumente?
+>
+>**Mögliche Evidenzen**
+>
+>-   Vorlage aller relevanten Regelungen zu Studienverlauf, Zugang, Studienabschluss, Prüfungen, Qualitätssicherung etc., mit Angabe zum Status der Verbindlichkeit
+>
+>-   Verweis auf die Stelle, an der diese veröffentlicht sind, z.B. Webseiten
+
+# Qualitätssicherung und Weiterentwicklung
+
+
+>Ergebnisse des hochschulinternen Qualitätsmanagements werden bei den Weiterentwicklungen des Studienganges berücksichtigt. Dabei berücksichtigt die Hochschule Evaluationsergebnisse, Untersuchungen der studentischen Arbeitsbelastung, des Studienerfolgs und des Absolventenverbleibs.
+>
+>**Leitfragen**
+>
+>-   Welche Maßnahmen zur Qualitätsverbesserung in und von Studiengängen sind in den zurückliegenden Jahren ergriffen worden?
+>
+>-   Welche Elemente der internen Qualitätskontrolle erweisen sich als besonders nützlich für kontinuierliche Verbesserungen in einem Studiengang?
+>
+>-   Inwieweit findet der Aspekt „Lernergebnisorientierung“ bei der Konzeption und in der Praxis der Qualitätssicherungsinstrumente für einen Studiengang Berücksichtigung?
+>
+>-   Wie bewerten Studierende die interne Qualitätskontrolle und\ -entwicklung ihrer Studiengänge hinsichtlich
+>
+>    -   ihrer Beteiligung?
+>
+>    -   der Auswirkungen auf ihr Studium?
+>
+>-   Wie bewerten Lehrende und die Leitungsebenen die interne Qualitätskontrolle und -entwicklung ihrer Studiengänge hinsichtlich
+>
+>    -   ihrer Beteiligung?
+>
+>    -   der Unterstützung bei der Lösung von Problemen und Verbesserungen in der Lehre?
+>
+>**Mögliche Evidenzen**
+>
+>-   Interne Regelwerke zum Qualitätsmanagement (Evaluationsordnungen u.ä.)
+>
+>-   Exemplarisches Informationsmaterial über das Qualitätsmanagement und seine Ergebnisse, das die Hochschule regelmäßig für die Kommunikation nach innen und außen nutzt (z. B. Link zu spezifischen Webseiten, Berichte, Flyer)
+>
+>-   Quantitative und qualitative Daten aus Befragungen, Statistiken zum Studienverlauf, Absolventenzahlen und -verbleib u.ä.
+
+
+## Beschreibung des Qualitätssicherungssystems der Studiengänge
+
+Der Senat der TH Köln hat am 12. Dezember 2013 die Ordnung für die Evaluation von Studium und Lehre in Ihrer dritten Fassung verabschiedet, die den Verfahrensablauf und die Verfahrensschritte von Evaluationsverfahren an der TH Köln regelt. verfügt mit dem Hochschulreferat 4 Qualitätsmanagement über eine zentrale Organisationseinheit für die Entwicklung und Durchführung von Evaluationsverfahren. Zudem hat der Fachausschuss des Studiengangs einen Qualitätsbeauftragten benannt, der als interner Ansprechpartner für die zentral organisierten Evaluationen und Studierendenbefragungen fungiert und neben dem Vorsitzenden des Fachausschusses direkter Ansprechpartner für die Umsetzung von Qualitätsverbesserungsmaßnahmen ist.
+
+Die Evaluationsordnung beinhaltet auch Befragungen zur Qualität des Studiums, wie sie nach § 7 HZG in Nordrhein-Westfalen vorgeschrieben sind.
+
+Das Qualitätsmanagement der Programme beinhaltet eine semesterweise Evaluation der Module sowie deren Unterbestandteile Projekte und Kurse. Die Evaluationsergebnisse werden zentral durch das Hochschulreferat 4 ausgewertet und aufbereitet. Die Lehrveranstaltungsbewertungen des Studiengangs kontinuierlich evaluiert. Die Ergebnisse von Lehrveranstaltungsbewertungen werden den Studierenden zurück gemeldet, um einen Dialog über die Qualität der Lehre zu initiieren und im Rahmen der quantitativen Ergebnisanalyse sichtbar gewordene Kritikpunkte inhaltlich-qualitativ weiter aufarbeiten zu können. 
+
+Die individuellen Ergebnisse der Lehrveranstaltungsbewertungen werden darüber hinaus auch vom Qualitätsbeauftragten gesichtet, um bei signifikanten Qualitätsproblemen einzelner Lehrender oder in einzelnen Lehrbereichen über Gespräche mit den betroffenen Kolleginnen und Kollegen Lösungsmöglichkeiten für die sichtbar gewordenen Probleme zu entwickeln.
+
+## Organisatorische Prozesse
+
+Der Campus Gummersbach der TH Köln ist der erste Campus einer öffentlichen Hochschule in Nordrhein-Westfalen und einer von ganz wenigen in Deutschland, der ein ganzheitliches Qualitäts- Management-System nach ISO 9001:2008 umgesetzt hat.
+
+Auf Basis des Fakultätsentwicklungsplan 2010-2015 wurde ein Qualitäts-Management- System mit fünf wesentlichen Handlungsfeldern definiert:
+- Qualität der Lehre
+- Strategische Studienprogramme
+- Internationalisierung
+- Forschung und Wissenstransfer
+- Standortentwicklung und Infrastruktur
+
+Die vereinbarten Qualitätsziele wurden an quantifizierbaren Kenngrößen oder beschlossenen Maßnahmen orientiert. Die Verbesserungsmaßnahmen und -programme werden jährlich in einer Management-Review evaluiert. Als zentrales Dokument des Qualitäts-Management-Systems wurde das QM-Handbuch für unsere Mitarbeiter*innen, Studierenden und Forschungspartner angefertigt. Dafür verlieh der TüV Rheinland nach umfangreicher Prüfung (Audit) das Zertifikat mit der Klassifizierung "Premium" für ein besonders hochwertiges System.
+
+
+# Geschlechtergerechtigkeit und Chancengleichheit
+
+
+> Auf der Ebene des Studiengangs werden die Konzepte der Hochschule zur Geschlechtergerechtigkeit und zur Förderung der Chancengleichheit von Studierenden in besonderen Lebenslagen wie beispielsweise Studierende mit gesundheitlichen Beeinträchtigungen, Studierende mit Kindern, ausländische Studierende, Studierende mit Migrationshintergrund und/oder aus sogenannten bildungsfernen Schichten umgesetzt.
+>
+> **Leitfragen**
+>
+>-   Liegen Konzepte der Hochschule zur Geschlechtergerechtigkeit und zur Förderung der Chancengleichheit von Studierenden in besonderen Lebenslagen vor? Wenn ja welche?
+>
+> **Mögliche Evidenzen**
+>
+>-   Einschlägige Dokumente aus dem alltäglichen Gebrauch der Hochschule, die die ggf. vorhandenen Konzepte und Maßnahmen zeigen
+
+Die TH Köln betrachtet Gleichstellung und Chancengleichheit der Geschlechter als Querschnittsaufgaben. Dabei wird Gleichstellung als integrierter Bestandteil von Lehre und Forschung verstanden, auf die Vereinbarkeit von Studium und Familie beziehungsweise Beruf und Familie geachtet sowie für eine ausgewogene Beteiligung von Männern und Frauen an den Entscheidungsstrukturen in Lehre, Forschung und Verwaltung gesorgt. Darüber hinaus wird der Anteil der Frauen bei den Professuren, Mitarbeiterstellen und den Studierenden in denjenigen Fächern, in denen sie unterrepräsentiert sind, kontinuierlich erhöht.
+
+Es wird die Aufstellung und Einhaltung der Frauenförderpläne kontrolliert. Des Weiteren werden bei einem "Girl’s Day" spezielle Veranstaltungen für interessierte Frauen bezüglich der Informatikstudiengänge angeboten. Alle Konzepte und Maßnahmen für Geschlechtergerechtigkeit und Chancengleichheit finden auf die zu akkreditierenden Studiengänge Anwendung.
+
+Fernerhin hat die TH Köln das Audit familiengerechte Hochschule[^family-matters] der berufundfamilie gemeinnützigen GmbH erfolgreich durchgeführt. Im Rahmen der Auditierung wurden der Bestand familienorientierter Maßnahmen begutachtet und weiterführende Zielvorgaben zur Verwirklichung familiengerechter Studienbedingungen sowie einer familienbewussten Personalpolitik definiert. Die Hochschule ist in 2015 erfolgreich re-auditiert worden.
+
+## Konzepte zur Förderung der Chancengleichheit
+
+Die Konzepte zur Förderung der Chancengleichheit gelten insbesondere für Studierende in besonderen Lebenslagen (z.B. Studierende mit Kind), für Studierende mit Beeinträchtigung oder für Studierende mit spezifischem sozialem Hintergrund.
+
+Die TH Köln versteht sich als familiengerechte Hochschule und bietet verschiedene Beratungsangebote und Serviceleistungen für studierende Eltern an, um die Vereinbarkeit von Studium/Beruf und Familie besser zu ermöglichen. Im Herbst 2009 wurde das Programm "Educational Diversity" der TH Köln aufgesetzt. Die Grundidee von Educational Diversity ist die Umsetzung einer gelebten, die Unterschiedlichkeit der Studierenden als kreatives Potenzial begreifenden Lehr- und Lerncommunity. Alle Akteure stehen im direkten Kontakt miteinander und werden durch eine webbasierte Lehr- und Lerncommunity unterstützt.
+
+Das Programm „Educational Diversity“[^educational-diversity] der TH Köln hat zum Ziel, die Verschiedenartigkeit der Studierenden zu erkennen und durch hochschuldidaktische Differenzierung das Potenzial jedes/jeder einzelnen Studierenden optimal zu fördern. Auch die Dozent*innen der Informatikstudiengänge beteiligen sich an diesen Programmen.
+
+## Konzept der Hochschule für Chancengleichheit und Studierende in besonderen Lebenslagen
+
+Für die Umsetzung der Chancengleichheit von Männern und Frauen hat die Hochschule in ihrem Entwicklungsplan vier Ziele benannt:
+1. Die Ermöglichung einer geschlechtsunabhängigen Studienfachwahl für Schülerinnen und Schüler.
+2. Die Erhöhung des Frauenanteils bei den wissenschaftlichen Beschäftigten der TH Köln, insbesondere bei den Professorinnen, wissenschaftlichen Mitarbeiterinnen und Lehrbeauftragten.
+3. Die Verbesserung der Vereinbarkeit von Studium bzw. Beruf und Familie.
+4. Die Umsetzung bzw. Unterstützung genderbezogener Projekte in Lehre und Forschung.
+
+Die Umsetzung dieser Ziele und die Einbettung in die bestehenden Handlungsfelder der Hochschule werden in der amtlichen Mitteilung[^gleichstellungskonzept] näher erläutert. Der TH Köln ist es ein besonderes Anliegen, mit den umgesetzten Maßnahmen die Selbstverständlichkeit von Beruf und Familie bzw. Studium und Familie zu unterstreichen und damit eine Kulturveränderung innerhalb der Hochschule zu bewirken, denn damit werden indirekt Karrierehemmnisse von Frauen abgebaut.
+
+
+[^gleichstellungskonzept]: http://www.fh-koeln.de/mam/downloads/deutsch/hochschule/profil/gleichstellung/gleichstellungskonzept.pdf 
+[^educational-diversity]: https://www.th-koeln.de/hochschule/educational-diversity_5710.php
+[^family-matters]: https://www.th-koeln.de/hochschule/familienfreundlichkeit_3759.php
+
+# Backlog
+
+Folgende Themen sollten noch adressiert werden:
+
+- Entwicklung der Medieninformatik insgesamt
+- Veranstaltungen und Formate: Showcase, Kontaktbörse, Filmfest, Website, Youtube Kanal, Twitter, Facebook
+- Top 5 Studiengang laut https://www.studycheck.de/studium/medieninformatik
+- auf welcher Basis wurde konzipiert: GI Paper, Gruppe Medieninformatik der GI
+- Toolchain
+- Abgleich mit Fakultätsentwicklungsplan?
+
+# Inhalte aus dem Antrag, die übrig geblieben sind
+
+1. Es kommt zu einer besseren Berücksichtigung der Lernaufwände der Studierenden in den einzelnen Modulen. Nach einer Überprüfung der Aufwände wurden in vielen Modulen bereits Anpassungen der Lehrformate, des Projektanteils und der Prüfungsformen vorgenommen. Die Anzahl der Veranstaltungen wird reduziert und die Fächer mit höherem Lernaufwand und höherem Schwierigkeitsgrad werden im Studienverlaufsplan neu angeordnet, um den Aufwand gleichmäßiger über das Studium zu verteilen.
+2. Eine Neusortierung und Zuordnung der Module zu den Semestern sorgt für eine gleichmäßigere Verteilung der Lernaufwände auf die Semester. Die Prüfungsanteile wurden hierbei entsprechend berücksichtigt. So wurden beispielsweise vergleichsweise "schwerere und aufwändige" Module aus dem bisher überlasteten 3. Semester auf andere Semester verteilt.
+
+
+
+Die Praxisorientierung wird durch Projekte innerhalb der Module und expliziten Projektmodulen erreicht. Der Umfang der Projektanteile wird über die Semester langsam erhöht, so dass im Studienverlauf komplexere Projekte mit verschiedenen fachlichen Perspektiven bearbeitet werden können. 
+
+3. Das im fünften Semester sehr stark projektbasierte Studium eröffnet zudem die Möglichkeit, ein Semester im Ausland zu verbringen, dort zu arbeiten oder an einer ausländischen Hochschule Projekte zu bearbeiten. Insofern wird dem zunehmenden Anspruch an eine größere internationale Ausrichtung des Studiengangs auf flexible Art und Weise entsprochen.
+
+
+Die Studierenden haben die Möglichkeit das Studium, ihren Neigungen entsprechend, zu vertiefen. Das Curriculum sieht dafür, neben den bereits erwähnten Vertiefungsmodulen im vierten Semester, ein großes Projekt im fünften Semester, sowie das Praxisprojekt und die Bachelorarbeit im Abschlusssemester vor.
+
+
+4. Einige inhaltliche Veränderungen am Zuschnitt der Module dienen der stärkeren Orientierung auf das Berufsfeld der Absolventen. Insbesondere interkulturelle Teamkompetenz, Projektmanagement, soziale Kompetenz und auch die Vorbereitung auf Führungsaufgaben wird verstärkt. Dies soll vor allem durch Integration der entsprechenden Wissensmodule in die fachlichen Module erreicht werden.
+
+Als Kernfächer der Medieninformatik werden die Module "Einführung in die Medieninformatik", "Mensch-Computer-Interaktion", "Screendesign", "Web Fundamentals", "Audiovisuelles Medienprojekt" und "Medienrecht, Medien & Gesellschaft" angeboten. Im vierten Semester kann eine von drei Fachvertiefungen gewählt werden. Hier stehen die Module "Visual Computing", "Social Computing" und "Web Development" zur Wahl.
+
+Geplant ist eine bessere Berücksichtigung der Lernaufwände in den einzelnen Modulen. Nach einer Überprüfung der Aufwände wurden in vielen Modulen bereits Anpassungen der Lehrformate, des Projektanteils und der Prüfungsformen vorgenommen. Veranstaltungen aus einem Themenbereich werden zukünftig möglichst in einem Semester zusammengefasst um damit häufige Perspektiv- und Themenwechsel zu vermeiden und Praxisanteile zusammenfassen zu können. Damit wird auch eine sinnvollere Staffelung der projektbasierten Praxisanteile möglich, so dass die Studierenden besser auf das 10-CP Projekt im fünften Semester vorbereitet sind. Dieses Projekt kann zukünftig thematisch stärker durch die Studierenden bestimmt werden. Hiermit ist zum einen eine bessere Möglichkeit zur Vertiefung gegeben und zum anderen kann dadurch schon der Weg ins Abschlusssemester thematisch vorbereitet werden. über neue Wahlmöglichkeiten, können die Studierenden, entsprechend ihrer Neigung, zukünftig besser eigene Qualifizierungsvertiefungen setzen.
+
+Das im fünften Semester fast ausschließlich projektbasierte Studium eröffnet zudem die Möglichkeit, ein Semester im Ausland zu verbringen, dort zu arbeiten oder an einer ausländischen Hochschule Projekte zu bearbeiten. Insofern wird dem zunehmenden Anspruch an eine größere internationale Ausrichtung des Studiengangs auf flexible Art und Weise entsprochen.
+
+Einige inhaltliche Veränderungen am Zuschnitt der Module dienen der stärkeren Orientierung auf das Berufsfeld der Absolventen.
+
+## Geplante Änderungen des Master-Studiengangs
+
+Gerade in dem sich immer noch in der Entwicklung befindlichen Gebiet der Medieninformatik war und ist insbesondere beim Masterstudiengang zu erwarten, dass sich auch im aktuellen Akkreditierungszeitraum Änderungen hinsichtlich der Erkenntnisse aus Wissenschaft und
+Berufspraxis sowie der im Lehrbetrieb seit der Reakkreditierung 2011 gesammelten Erfahrungen und Evaluierungsergebnisse ergeben. Hier sind  beispielhaft die den beruflichen und privaten Alltag gleichermaßen immer weiter durchdringende Nutzung von Netz- und besonders Web-basierten Diensten sowie die fortschreitende Medienkonvergenz zu nennen. Hinzu kommen mögliche curriculare und personale Synergien mit dem vom Institut für Informatik der Fakultät 10 der FH Köln seit 2008 eingeführten und 2012 reakkreditierten Masterstudiengang Informatik mit den beiden Schwerpunkten Wirtschaftsinformatik/Information Systems und Software Engineering.
+Die vorgenommenen bzw. im Rahmen der Reakkreditierung noch vorzunehmenden Änderungen von Modulen und Lehrveranstaltungen (LV) behalten die im Selbstbericht zur Reakkreditierung vom 16. September 2009 beschriebenen Studiengangsziele und curricularen Inhalte im Wesentlichen bei. Bei der Ausgestaltung wurde jedoch Wert auf eine größere Profilschärfung und damit verbundene Möglichkeiten zu individuellen fachlichen Vertiefungen gelegt. 
+
+Die im Folgenden dargestellten geplanten Veränderungen des Masterstudienprogramms dienen zur Beseitigung erkannter Schwächen 
+- Fehlende Profilschärfung und Praxisbezug
+- Geringer Anteil an projektbasierter Lehre
+- Geringe internationale Ausrichtung
+und zur Maßnahmenbildung im Rahmen der Ziele der Hochschul- und Fakultätsentwicklungspläne wie sie bereits oben beim Bachelorstudienprogramm dargestellt wurden.
+
+1. Der Studiengang erhält Studienschwerpunkte. Dadurch, dass Wahlkataloge im Umfang von 30 ECTS CP angeboten werden, kann je nach Neigung durch entsprechende Auswahl von Modulen ein spezieller Teilbereich der Medieninformatik studiert werden. Zugleich ergeben sich weitere Synergieeffekte mit dem auch vom Institut für Informatik angebotenen Master "Informatik" mit den beiden Studienrichtungen "Software Engineering" und "Information Systems". Diese Maßnahme wirkt auch langfristig hinsichtlich des zu erwartenden Anstiegs der Bewerbernachfrage für dieses Studienangebot. Zugleich werden die Studierenden besser auf die Aufgaben in der Praxis vorbereitet.
+2. Der Projektanteil wird von 10 CP auf 36 CP erhöht und auf die ersten drei Studiensemester konzentriert, so dass der Übergang ins Berufsleben und die Kooperation mit Unternehmen verbessert werden können. Zu der praktischen Projektarbeit gesellen sich jeweils fachlicher Anteile. z.B. in Form von seminaristischen- oder Vorlesungsanteilen. Die Mitarbeit der Studierenden in Projekten trägt überdies zum Ausbau der Forschungsaktivitäten der Fakultät bei. Außerdem bietet sich das dritte Studiensemester mit seiner fast ausschließlichen Projektorientierung für einen Forschungsaufenthalt im Ausland an.
+3. Der Anteil der Grundlagen-Pflicht-Lehrveranstaltungen sinkt von 75 CP auf 18 CP und wird - ebenso wie die Module der Studienschwerpunkte - auf das erste und zweite Semester konzentriert. Das Verhältnis von Präsenzanteil zu Arbeitsaufwand wird reduziert, sodass für die Studierenden mehr Zeit für Ausarbeitungen, Referate und Literaturstudium bleibt und einer Verschulung des Masterstudiums entgegengewirkt wird. Zu diesem Zweck werden alle Module mit 6 CPs statt bisher mit 5 CPs ausgestattet.
+4. Einige inhaltliche Veränderungen am Zuschnitt der Module dienen der stärkeren Orientierung auf das Berufsfeld der Masterabsolventen. Insbesondere die Vorbereitung auf wissenschaftliches Arbeiten und Führungsaufgaben wird verstärkt.
+
+Die geplanten Veränderungen stehen in völliger Übereinstimmung mit den Plänen der Hochschule und der Fakultät und sind geeignet, die Erreichung der entsprechenden Ziele nachhaltig zu unterstützen.
+
+
 
 
 # Veränderungen des Studienprogramms
@@ -808,602 +1713,3 @@ effekte zwischen den Bachelorstudiengängen der Informatik sorgen dafür, dass w
 # Zusammenfassung
 
 Zusammengefasst stellen sich die beiden vom Institut für Informatik der Fakultät 10 getragenen Studiengänge Medieninformatik Bachelor und Medieninformatik Master gemäß der vorliegenden Daten und Erfahrungen als ein, sowohl hinsichtlich der Nachfrage der Studierenden und des Lehr-Portfolios der Fakultät 10 und auch hinsichtlich des Bedarfs der regionalen und überregionalen Industrie, hervorragend aufgestelltes und etabliertes Lehrangebot der TH Köln dar.
-
-# Studierbarkeit
-
->Die Studierbarkeit des Studiengangs wird gewährleistet durch:
->
->-   die Berücksichtigung der erwarteten Eingangsqualifikationen,
->-   eine geeignete Studienplangestaltung
->-   die auf Plausibilität hin überprüfte (bzw. im Falle der Erstakkreditierung nach Er-fahrungswerten geschätzte) Angabe der studentischen Arbeitsbelastung,
->-   eine adäquate und belastungsangemessene Prüfungsdichte und -organisation,
->-   entsprechende Betreuungsangebote sowie
->-   eine fachliche und überfachliche Studienberatung.
->
->Die Belange von Studierenden mit Behinderung werden berücksichtigt.
->  
->**Leitfragen**
->
->-   Woran erkennen die Verantwortlichen, dass die (formalen und fachlich-inhaltlichen) Zugangskriterien das Erreichen des angestrebten Kompetenzprofils unterstützen?
->
->-   Ggf.: Wie wurde reagiert, wenn die Zugangsregelungen diesen Zweck aus Sicht der für den Studiengang Verantwortlichen nicht erfüllt haben?
->
->-   Wie schätzen die für den Studiengang Verantwortlichen und daran Beteiligten\ – einschließlich der Studierenden – die studentische Arbeitsbelastung ein? Welche Probleme treten auf? Was wird zu deren Lösung unternommen?
->
->-   Sind hinsichtlich des Studienabschlusses in der vorgesehenen Zeit in den vergangenen Jahren Probleme aufgetreten? Wenn ja, welche? Wie wurden sie behandelt?
->
->-   Inwieweit sind individuelle Mobilitätsfenster für Studierende im Studienverlauf realisierbar? Welche Probleme gibt es? Wie wurde darauf reagiert?
->
->-   Welche Auswirkungen auf die Studierbarkeit haben die vorhandenen (prüfungsrelevanten) Regelungen zu Wiederholungsmöglichkeiten, Nachteilsausgleich bei Behinderung, Nichterscheinen im Krankheitsfall etc.?
->
->-   Gab es Fälle, in denen sich die konkrete Prüfungsorganisation (z. B. Terminierung der Prüfungen, Korrekturzeiten) nachteilig auf den Studienverlauf ausgewirkt haben? Wenn ja, welche Konsequenzen wurden gezogen?
->
->-   Welche der vorhandenen Betreuungs- und Beratungsangebote für Studierende halten die für den Studiengang Verantwortlichen und Beteiligten – einschließlich der Studierenden – für besonders effektiv im Hinblick auf den Studienerfolg?
->
->-   Welche Betreuungs- und Beratungsangebote für Studierende vermissen die für den Studiengang Verantwortlichen und Beteiligten – einschließlich der Studierenden? Warum werden sie nicht realisiert?
->
->-   Inwieweit werden Belange von Studierenden mit Behinderung berücksichtigt?
->
->**Mögliche Evidenzen**
->
->-   Ggf. Zugangssatzung sowie Informationen über die Studiengangsvoraussetzungen auf Webseiten, in Studienführern etc.
->
->-   Einschlägige Ergebnisse interner Erhebungen und Evaluationen – ggf. Daten zur studentischen Arbeitslast
->
->-   Studienverlaufsplan, aus der/dem Semesterlage, Umfang und studentische Arbeitslast der Module pro Semester hervorgehen (ggf. mit Veröffentlichungsort wie z. B. Homepage, Studienführer, Studien- bzw. Prüfungsordnungen) bzw. Dokumente, in denen Studienverläufe und deren Organisation geregelt sind
->
->-   Dokumente, aus denen die geltenden Regelungen zur (Auslands-)Mobilität, Praxisphasen und Anerkennung von an anderen Hochschulen / außerhalb der Hochschule erbrachten Leistungen erkennbar sind
->
->-   Dokumente aus dem täglichen Gebrauch an der Hochschule, aus denen das vorhandene Beratungs- und Betreuungskonzept hervorgeht
->
->-   (statistische) Daten zu Studienverläufen
->
->-   Ggf. Daten zur (Auslands-)Mobilität von Studierenden und zu Praxiseinsätzen von Studierenden
->
->-   Ggf. weitere einschlägige Ergebnisse interner Befragungen und Evaluationen (auch Auffälligkeiten hinsichtlich der Wirkung von ggf. vorhandenen Maßnahmen zur Vermeidung von Ungleichbehandlungen in der Hochschule)
-
-
-## Struktur
-Im Anhang K sind die Studienverlaufspläne der einzelnen Studiengänge enthalten, für die eine Akkreditierung beantragt wird. Das Studium umfasst im Bachelor jeweils insgesamt 180 ECTS Punkte und 144 Semesterwochenstunden Semesterwochenstunden. Dies entspricht durchschnittlich 24 SWS je Semester. Die Inhalte der Module sind in dem entsprechenden Modulhandbuch dargestellt.
-
-Das Masterstudium umfasst 120 ECTS Punkte bei 48 SWS Präsenzzeit, was einer durchschnittlichen Präsenzzeit von 16 SWS pro Semester entspricht.
-
-## Arbeitslast
-
-Die Bachelor- und Masterstudiengänge sind durchgängig mit 30 ECTS-Punkten im Semester durchkalkuliert, was einer Arbeitslast von 900 Stunden pro Semester entspricht. Wenn man ein Semester mit 24 Wochen veranschlagt, wobei die Prüfungszeit und Prüfungsvorbereitung mitgerechnet ist, ergibt sich eine Wochenarbeitszeit von 900 h / 24 = 37,5 Stunden. Eine Veranstaltung mit 5 Creditpoints und 4 SWS, 2 SWS Vorlesung + S SWS übung hat in der Regel einen Arbeitsaufwand von 5 x 30 = 150 Stunden. Bei durchschnittlich 18 Semesterwochen entspricht dies einem Anteil von 2 h x 18 = 36 Stunden Vorlesung, 2 h x 18 = 36 Stunden übung, also 72 Stunden Präsenzanteil und 78 Stunden Selbststudium inklusive Klausurvorbereitung und Nachbereitung der Präsenzanteile. Dies entspricht in etwa einer Aufteilung der Gesamtzeit in 50% für Präsenzstudium und in 50 % für Selbststudium.
-
-Die Lehrveranstaltungen des Masterstudiengangs sind mit 6 Creditpoints ausgestattet, was bei einem Modul mit 4 SWS einem Verhältnis von 40% für Präsenzstudium und 60 % für Selbststudium entspricht. 
-
-
-## Leistungspunktesystem
-
-Die Module der beantragten Studiengänge werden mit Creditpoints bewertet, um europaweite Vergleichbarkeit gemäß den Bologna-Richtlinien zu ermöglichen.
-
-## Prüfungen
-
-Viele Fachprüfungen der Bachelorstudiengänge, vor allem der Grundlagenfächer, werden in Form einer Klausur angeboten. Bei vielen Pflichtmodulen, den meisten Wahlpflichtfächer und natürlich im Kolloquium zur Bachelorarbeit sind mündliche Prüfungen vorgesehen, die oft durch Referate und Präsentationen unterstützt werden. Die Anzahlen der Modulprüfungen liegen bei den Bachelorstudiengängen zwischen 28 und 30 und sind so über die sechs Semester verteilt, dass es zu keinen Häufungen mit mehr als sechs Prüfungen in einem Semester kommt.
-
-Im Masterstudium ist der Schwerpunkt der Prüfungsformen in Richtung mündlicher Prüfungen, Präsentationen und wissenschaftlicher Ausarbeitungen gelegt. Bei einer Gesamtzahl von 15 Modulprüfungen fallen maximal fünf Prüfungen pro Semester an.
-
-## Studien/Prüfungsordnungen
-
-Die Studien- und Prüfungsordnungen der beantragten Studiengänge sind dem Anhang dieses Berichts beigefügt. Der Studienverlaufsplan entspricht der Studienordnung.
-
-
-## Maßnahmen zur Beratung von Studieninteressierten und Studierenden
-
-Die Medieninformatik beteiligt sich ferner jährlich an folgenden Veranstaltungen zur Beratung von Studieninteressierten:
-
-Regelmäßig wird im Mai ein „Schnupperstudium“ durchgeführt, an dem rund 150 Schüler, teilweise mit ihren Lehrern teilnehmen, um die Fachhochschule kennen zu lernen.
-
-Das Medieninformatik beteiligt sich regelmäßig mit eigenen Veranstaltungen an dem bundesweit jährlich stattfindenden Girls-Day, an dem rund 50 Schülerinnen speziell für ein Informatik-Studium oder ein ingenieurwissenschaftliches Studium in Gummersbach begeistert werden sollen.
-
-Dazu kommen Laborführungen für Schülergruppen verschiedener Schulen sowie die Präsentation des Campus Gummersbach außerhalb der Hochschule:
-- auf der „Overather Ausbildungsbörse",
-- der „Ausbildungsbörse Bergneustadt",
-- der „Mädchenmesse" des Oberbergischen Kreises,
-- dem „Tag der Offenen Tür" des Berufskollegs Dieringhausen (Gummersbach),der „Weiterbildungsmesse Oberberg",
-- sowie die Teilnahme an anderen, unregelmäßig durchgeführten Veranstaltungen zur Studien- und Berufswahl.
-
-Im Rahmen des bundesweiten Informatikjahres wurde am Campus Gummersbach ein „Tag der Informatik" für Studieninteressierte und eine „Informatik Sommerakademie für Schülerinnen (ISAS)" durchgeführt. Studierende und Dozenten gaben Einblicke in die Informatik-Welt und die Studieninteressierten konnten in verschiedenen Workshops und Selbsteinschätzungstests ihre Eignung und ihr Interesse für die Informatik live testen. Mit über 100 Studieninteressierten war die Beteiligung sehr erfreulich, und die Veranstaltungen stießen auf ein positives Echo.
-Das Institut für Informatik beteiligt sich jährlich am „Tag der offenen Tür“ der TH-Köln im September und an Informationsveranstaltungen der umliegenden Gymnasien und anderer weiterführender Schulen, die potenzielle Studienanfängerinnen und Studienanfänger an die Qualifizierung für ein Hochschulstudium heranführen.
-Alle diese Angebote werden sehr gut aufgenommen und sind stark frequentiert.
-
-
-~~~~~
-	Aktueller Bearbeiter: Christian Noss
-	Bearbeiterhistorie: Christian Noss
-	Date: 17.02.2017
-	Comment: von Informatik übernommen, Prüfungen müssen nachgezählt werden, da muss auch noch mal rein geschaut werden
-	Status: nicht fertig
-	Reviewed von: -
-~~~~~
-
-# Prüfungssystem
-
->Die Prüfungen dienen der Feststellung, ob die formulierten Qualifikationsziele erreicht wurden. Sie sind modulbezogen sowie wissens- und kompetenzorientiert. Jedes Modul schließt in der Regel mit einer das gesamte Modul umfassenden Prüfung ab. Der Nach-teilsausgleich für behinderte Studierende hinsichtlich zeitlicher und formaler Vorgaben im Studium sowie bei allen abschließenden oder studienbegleitenden Leistungsnachweisen ist sichergestellt. Die Prüfungsordnung wurde einer Rechtsprüfung unterzogen.
->
->**Leitfragen**
->
->-   Welche der eingesetzten Prüfungsformen stufen die Lehrenden und die für den Studiengang Verantwortlichen als besonders geeignet zur Erfassung erreichter Lernergebnisse ein? Welche Lernergebnisse lassen sich aus Sicht der Lehrenden und der für den Studiengang Verantwortlichen nur schwer überprüfen?
->
->-   Wie werden die Bewertungskriterien für Studierende und Lehrende transparent gemacht?
->
->**Mögliche Evidenzen**
->
->-   Prüfungsrelevante Regelungen
->
->-   Einschlägige Ergebnisse aus internen Befragungen und Evaluationen mit Blick auf die Prüfungsorganisation und die Lernergebnisorientierung der Prüfungen
->
->-   Beispielhafte Prüfungspläne (einschließlich Prüfungstermine)
->
->-   Statistische Daten zum Studienverlauf, z.B. Durchschnittsnote, Durchfallquote, Anzahl der Wiederholungen
-
-# Studiengangsbezogene Kooperationen
-
-# Ausstattung
-
-## Verleih
-
-- 12 x Audiovisuelle Produktionssets, bestehend aus jeweils
-  * P2 Panasonic HD Kamera
-  * Sachtler Kamerastativ
-    * Sennheiser MKH 416 Richtmikrofon
-    * 2 Kanal Audiomischer
-    * Tonangel
-    * Diverse Verbindungskabel und Taschen
-
-* 4 x kompakte Panasonic HD Kameras
-
-* 1 x Canon EOS 5D Mark III mit folgenden Objektiven:
-  * Canon Fisheye Zoom Lens EF 8-15mm 1:4 L USM
-  * Canon Zoom Lens EF 24-70mm 1:4 L IS USM
-  * Canon Lens EF 85mm 1:1,2 L II USM
-
-* 1 x GoPro Hero 3 Black Edition
-
-* 1 x DJI Ozmo Gimbal Kamera
-
-* 9 x Lichtset, bestehend aus jeweils
-  * 3 x 750 W ARRI Scheinwerfer
-  * 3 x Stative
-  * 1 x Koffer
-
-* Diverses Zubehör für Licht, Ton und Video:
-  * Reflektoren
-  * Stative
-  * Monitore
-  * Speichermedien
-  * Reflektoren
-
-
-* Smartphones und Tablets
-  * 1 x Nexus 5
-  * 2 x Nexus 9
-  * 1 x iPad Pro 13’’ mit Apple Pencil
-
-## Nachbearbeitung
-
-* 5 x Mac Pro stationär, mit Adobe Production Suite CS 6
-
-* 12 x iMac mobil, mit Adobe Production Suite CS 6
-
-* 1 x Tonkabine mit folgenden Equipment
-  * Neumann Großmembranmikrofon mit Poppschutz
-  * Mac Pro mit Logic X zur Aufnahmen und Nachbearbeitung
-  * Mackie 1402 Tonmischpult
-
-## Studio
-
-* Greenbox mit festmontierter und variabler Beleuchtung
-* Bildmischer Panasonic AV-HS400A
-* Audiomischer Behringer AB1222FX-Pro
-* Mac Pro mit Adobe Production Suite CS 6 zur Digitalisierung und Nachbearbeitung der Studioproduktionen
-
-
-## Lehrende in der Medieninformatik
-
-### Prof. Dr. Thomas Bartz-Beielstein
-- Forschungsschwerpunkt CIplus
-- Web: https://www.th-koeln.de/personen/thomas.bartz-beielstein/
-- Lehrgebiete:
-	- Angewandte Mathematik Simulation und Optimierung 
-	- Computational Intelligence Evolutionäre Algorithmen
-
-
-
-**Bente, Stefan**
-
-https://www.th-koeln.de/personen/stefan.bente/
-
-Lehrgebiete
-
-- Softwaretechnik Softwarearchitektur
-- Anforderungsmanagement
-
-
-
-**Bertelsmeier, Birgit**
-
-https://www.th-koeln.de/personen/birgit.bertelsmeier/
-
-Lehrgebiete
-
-- Datenbank- und Informationssysteme RDBMS bis NoSQL
-
-
-
-**Böhmer, Matthias**
-
-https://www.th-koeln.de/personen/matthias.boehmer/
-
-Lehrgebiete
-
-- Mobile und Verteilte Architekturen
-
-
-
-**Eisemann, Martin**
-
-https://www.th-koeln.de/personen/martin.eisemann/
-
-Lehrgebiete
-
-- Computergrafik Realistische und Interaktive Bildsynthese, Bildbasierte Computergraphik, Visual Analytics, Gaming Technologies
-- Theoretische Informatik Grundlagenvorlesungen im Bachelor
-
-
-
-**Faeskorn-Woyke, Heide**
-
-https://www.th-koeln.de/personen/heide.faeskorn-woyke/
-
-Lehrgebiete
-
-- Datenbanken und Informationssysteme
-
-
-
-**Fischer, Kristian**
-
-https://www.th-koeln.de/personen/kristian.fischer/
-
-Lehrgebiete
-
-- Web-basierte Anwendungen und verteilte Systeme
-
-
-
-**Giannakopoulos, Fotios**
-
-https://www.th-koeln.de/personen/fotios.giannakopoulos/
-
-Lehrgebiete
-
-- **[hier fehlt noch Inhalt]**
-
-
-
-**Günther, Holger**
-
-https://www.th-koeln.de/personen/holger.guenther/
-
-Lehrgebiete
-
-- **[hier fehlt noch Inhalt]**
-
-
-
-**Hartmann, Gerhard**
-
-https://www.th-koeln.de/personen/gerhard.hartmann/
-
-Lehrgebiete
-
-- Mensch-Computer Interaktion
-- Entwicklungsprojekt interaktive Systeme
-- Interaction Design
-- Naturwissenschaftliche Grundlagen Digitaler Medien
-- Research Methods in Human-Computer Interaction
-- Design Methodologies
-
-
-
-**Jochum, Friedbert**
-
-https://www.th-koeln.de/personen/friedbert.jochum/
-
-Lehrgebiete
-
-- **[hier fehlt noch Inhalt]**
-
-
-
-**Karsch, Stefan**
-
-https://www.th-koeln.de/personen/stefan.karsch/
-
-Lehrgebiete
-
-- **[hier fehlt noch Inhalt]**
-
-
-
-**Klocke, Heinrich**
-
-https://www.th-koeln.de/personen/heinrich.klocke/
-
-Lehrgebiete
-
-- Mensch-Computer Interaktion Usability Engineering und kognitive Psychologie
-- Algorithmik
-- Künstliche Intelligenz Logische Agenten
-
-
-
-**Knittel, Friedrich**
-
-https://www.th-koeln.de/personen/friedrich.knittel/
-
-Lehrgebiete
-
-- **[hier fehlt noch Inhalt]**
-
-
-
-**Koch, Heribert**
-
-https://www.th-koeln.de/personen/heribert.koch/
-
-Lehrgebiete
-
-- **[hier fehlt noch Inhalt]**
-
-
-
-**Köhler, Lutz**
-
-https://www.th-koeln.de/personen/lutz.koehler/
-
-Lehrgebiete
-
-- **[hier fehlt noch Inhalt]**
-
-
-
-**Kohls, Christian**
-
-https://www.th-koeln.de/personen/christian.kohls/
-
-Lehrgebiete
-
-- **[hier fehlt noch Inhalt]**
-
-
-
-**Konen, Wolfgang**
-
-https://www.th-koeln.de/personen/wolfgang.konen/
-
-Lehrgebiete
-
-- Mathematik
-- Data Mining
-
-
-
-**Kornacher, Hans Hermann**
-
-https://www.th-koeln.de/personen/hans.kornacher/
-
-Lehrgebiete
-
-- Medientechnik und -produktion
-- Digitale Animation und Visual Effects in der Film- und Fernsehproduktion
-
-
-
-**Naujoks, Boris**
-
-https://www.th-koeln.de/personen/boris.naujoks/
-
-Lehrgebiete
-
-- Angewandte Mathematik Grundlagenveranstaltungen Informatik und Ingenieure
-
-**Noss, Christian**
-
-https://www.th-koeln.de/personen/christian.noss/
-
-Lehrgebiete
-
-- Kommunikationsdesign
-- Web-basierte Anwendungen
-
-**Stahl, Hans Ludwig**
-
-https://www.th-koeln.de/personen/hans.stahl/
-
-Lehrgebiete
-
-- Theoretische Informatik und Technische Informatik
-- Kommunikationstechnik und Netze
-- Mobile IT Security
-- IT Compliance and Risk Management Informatik
-
-**Victor, Frank**
-
-https://www.th-koeln.de/personen/frank.victor/
-
-Lehrgebiete
-
-- **[hier fehlt noch Inhalt]**
-
-**Westenberger, Hartmut**
-
-https://www.th-koeln.de/personen/hartmut.westenberger/
-
-Lehrgebiete
-
-- Informatik Betriebliche Anwendungssysteme
-
-**Winter, Mario**
-
-https://www.th-koeln.de/personen/mario.winter/
-
-Lehrgebiete
-
-- Softwareentwicklung und Projektmanagement in Medienprojekten 
-- Modellbasierte Entwicklungsmethoden und Qualitätssicherung
-
-# Transparenz und Dokumentation
-
->Studiengang, Studienverlauf, Prüfungsanforderungen und Zugangsvoraussetzungen ein-schließlich der Nachteilsausgleichsregelungen für Studierende mit Behinderung sind dokumentiert und veröffentlicht.
->
->**Leitfragen**
->
->-   Wie wird sichergestellt, dass inländische und ausländische Studierende ihre Rechte und Pflichten kennen?
->
->-   Wer hat die Entscheidungsbefugnis über welche Dokumente?
->
->**Mögliche Evidenzen**
->
->-   Vorlage aller relevanten Regelungen zu Studienverlauf, Zugang, Studienabschluss, Prüfungen, Qualitätssicherung etc., mit Angabe zum Status der Verbindlichkeit
->
->-   Verweis auf die Stelle, an der diese veröffentlicht sind, z.B. Webseiten
-
----
-title: Qualitätssicherung und Weiterentwicklung
-ueberarbeitung-erforderlich: ja 
----
-
-## Beschreibung des Qualitätssicherungssystems der Studiengänge
-
-Der Senat der TH Köln hat am 12. Dezember 2013 die Ordnung für die Evaluation von Studium und Lehre in Ihrer dritten Fassung verabschiedet, die den Verfahrensablauf und die Verfahrensschritte von Evaluationsverfahren an der TH Köln regelt. verfügt mit dem Hochschulreferat 4 Qualitätsmanagement über eine zentrale Organisationseinheit für die Entwicklung und Durchführung von Evaluationsverfahren. Zudem hat der Fachausschuss des Studiengangs einen Qualitätsbeauftragten benannt, der als interner Ansprechpartner für die zentral organisierten Evaluationen und Studierendenbefragungen fungiert und neben dem Vorsitzenden des Fachausschusses direkter Ansprechpartner für die Umsetzung von Qualitätsverbesserungsmaßnahmen ist.
-
-Die Evaluationsordnung beinhaltet auch Befragungen zur Qualität des Studiums, wie sie nach § 7 HZG in Nordrhein-Westfalen vorgeschrieben sind.
-
-Das Qualitätsmanagement der Programme beinhaltet eine semesterweise Evaluation der Module sowie deren Unterbestandteile Projekte und Kurse. Die Evaluationsergebnisse werden zentral durch das Hochschulreferat 4 ausgewertet und aufbereitet. Die Lehrveranstaltungsbewertungen des Studiengangs kontinuierlich evaluiert. Die Ergebnisse von Lehrveranstaltungsbewertungen werden den Studierenden zurück gemeldet, um einen Dialog über die Qualität der Lehre zu initiieren und im Rahmen der quantitativen Ergebnisanalyse sichtbar gewordene Kritikpunkte inhaltlich-qualitativ weiter aufarbeiten zu können. 
-
-Die individuellen Ergebnisse der Lehrveranstaltungsbewertungen werden darüber hinaus auch vom Qualitätsbeauftragten gesichtet, um bei signifikanten Qualitätsproblemen einzelner Lehrender oder in einzelnen Lehrbereichen über Gespräche mit den betroffenen Kolleginnen und Kollegen Lösungsmöglichkeiten für die sichtbar gewordenen Probleme zu entwickeln.
-
-## Organisatorische Prozesse
-
-Der Campus Gummersbach der TH Köln ist der erste Campus einer öffentlichen Hochschule in Nordrhein-Westfalen und einer von ganz wenigen in Deutschland, der ein ganzheitliches Qualitäts- Management-System nach ISO 9001:2008 umgesetzt hat.
-
-Auf Basis des Fakultätsentwicklungsplan 2010-2015 wurde ein Qualitäts-Management- System mit fünf wesentlichen Handlungsfeldern definiert:
-- Qualität der Lehre
-- Strategische Studienprogramme
-- Internationalisierung
-- Forschung und Wissenstransfer
-- Standortentwicklung und Infrastruktur
-
-Die vereinbarten Qualitätsziele wurden an quantifizierbaren Kenngrößen oder beschlossenen Maßnahmen orientiert. Die Verbesserungsmaßnahmen und -programme werden jährlich in einer Management-Review evaluiert. Als zentrales Dokument des Qualitäts-Management-Systems wurde das QM-Handbuch für unsere Mitarbeiter*innen, Studierenden und Forschungspartner angefertigt. Dafür verlieh der TüV Rheinland nach umfangreicher Prüfung (Audit) das Zertifikat mit der Klassifizierung "Premium" für ein besonders hochwertiges System.
-
-~~~~~
-	Aktueller Bearbeiter: -
-	Bearbeiterhistorie: Christian Noss
-	Date: 17.02.2017
-	Comment: fast alles von Websience geklaut … danke!
-	Status: fast fertig, review erfolrderlich
-	Reviewed von: -
-~~~~~
-
----
-title: Geschlechtergerechtigkeit und Chancengleichheit
-ueberarbeitung-erforderlich: ja 
----
-
-Die TH Köln betrachtet Gleichstellung und Chancengleichheit der Geschlechter als Querschnittsaufgaben. Dabei wird Gleichstellung als integrierter Bestandteil von Lehre und Forschung verstanden, auf die Vereinbarkeit von Studium und Familie beziehungsweise Beruf und Familie geachtet sowie für eine ausgewogene Beteiligung von Männern und Frauen an den Entscheidungsstrukturen in Lehre, Forschung und Verwaltung gesorgt. Darüber hinaus wird der Anteil der Frauen bei den Professuren, Mitarbeiterstellen und den Studierenden in denjenigen Fächern, in denen sie unterrepräsentiert sind, kontinuierlich erhöht.
-
-Es wird die Aufstellung und Einhaltung der Frauenförderpläne kontrolliert. Des Weiteren werden bei einem "Girl’s Day" spezielle Veranstaltungen für interessierte Frauen bezüglich der Informatikstudiengänge angeboten. Alle Konzepte und Maßnahmen für Geschlechtergerechtigkeit und Chancengleichheit finden auf die zu akkreditierenden Studiengänge Anwendung.
-
-Fernerhin hat die TH Köln das Audit familiengerechte Hochschule[^family-matters] der berufundfamilie gemeinnützigen GmbH erfolgreich durchgeführt. Im Rahmen der Auditierung wurden der Bestand familienorientierter Maßnahmen begutachtet und weiterführende Zielvorgaben zur Verwirklichung familiengerechter Studienbedingungen sowie einer familienbewussten Personalpolitik definiert. Die Hochschule ist in 2015 erfolgreich re-auditiert worden.
-
-## Konzepte zur Förderung der Chancengleichheit
-
-Die Konzepte zur Förderung der Chancengleichheit gelten insbesondere für Studierende in besonderen Lebenslagen (z.B. Studierende mit Kind), für Studierende mit Beeinträchtigung oder für Studierende mit spezifischem sozialem Hintergrund.
-
-Die TH Köln versteht sich als familiengerechte Hochschule und bietet verschiedene Beratungsangebote und Serviceleistungen für studierende Eltern an, um die Vereinbarkeit von Studium/Beruf und Familie besser zu ermöglichen. Im Herbst 2009 wurde das Programm "Educational Diversity" der TH Köln aufgesetzt. Die Grundidee von Educational Diversity ist die Umsetzung einer gelebten, die Unterschiedlichkeit der Studierenden als kreatives Potenzial begreifenden Lehr- und Lerncommunity. Alle Akteure stehen im direkten Kontakt miteinander und werden durch eine webbasierte Lehr- und Lerncommunity unterstützt.
-
-Das Programm „Educational Diversity“[^educational-diversity] der TH Köln hat zum Ziel, die Verschiedenartigkeit der Studierenden zu erkennen und durch hochschuldidaktische Differenzierung das Potenzial jedes/jeder einzelnen Studierenden optimal zu fördern. Auch die Dozent*innen der Informatikstudiengänge beteiligen sich an diesen Programmen.
-
-## Konzept der Hochschule für Chancengleichheit und Studierende in besonderen Lebenslagen
-
-Für die Umsetzung der Chancengleichheit von Männern und Frauen hat die Hochschule in ihrem Entwicklungsplan vier Ziele benannt:
-1. Die Ermöglichung einer geschlechtsunabhängigen Studienfachwahl für Schülerinnen und Schüler.
-2. Die Erhöhung des Frauenanteils bei den wissenschaftlichen Beschäftigten der TH Köln, insbesondere bei den Professorinnen, wissenschaftlichen Mitarbeiterinnen und Lehrbeauftragten.
-3. Die Verbesserung der Vereinbarkeit von Studium bzw. Beruf und Familie.
-4. Die Umsetzung bzw. Unterstützung genderbezogener Projekte in Lehre und Forschung.
-
-Die Umsetzung dieser Ziele und die Einbettung in die bestehenden Handlungsfelder der Hochschule werden in der amtlichen Mitteilung[^gleichstellungskonzept] näher erläutert. Der TH Köln ist es ein besonderes Anliegen, mit den umgesetzten Maßnahmen die Selbstverständlichkeit von Beruf und Familie bzw. Studium und Familie zu unterstreichen und damit eine Kulturveränderung innerhalb der Hochschule zu bewirken, denn damit werden indirekt Karrierehemmnisse von Frauen abgebaut.
-
-~~~~~
-	Aktueller Bearbeiter: -
-	Bearbeiterhistorie: Christian Noss
-	Date: 17.02.2017
-	Comment: alles von Websience geklaut … danke! Fußnoten müssen noch gescheit gesetzt werden
-	Status: fertig, review erfolrderlich
-	Reviewed von: -
-~~~~~
-
-[^gleichstellungskonzept]: http://www.fh-koeln.de/mam/downloads/deutsch/hochschule/profil/gleichstellung/gleichstellungskonzept.pdf 
-[^educational-diversity]: https://www.th-koeln.de/hochschule/educational-diversity_5710.php
-[^family-matters]: https://www.th-koeln.de/hochschule/familienfreundlichkeit_3759.php
-
-# Backlog
-
-Folgende Themen sollten noch adressiert werden:
-
-- Entwicklung der Medieninformatik insgesamt
-- Veranstaltungen und Formate: Showcase, Kontaktbörse, Filmfest, Website, Youtube Kanal, Twitter, Facebook
-- Top 5 Studiengang laut https://www.studycheck.de/studium/medieninformatik
-- auf welcher Basis wurde konzipiert: GI Paper, Gruppe Medieninformatik der GI
-- Toolchain
-- Abgleich mit Fakultätsentwicklungsplan?
-
-# Inhalte aus dem Antrag, die übrig geblieben sind
-
-1. Es kommt zu einer besseren Berücksichtigung der Lernaufwände der Studierenden in den einzelnen Modulen. Nach einer Überprüfung der Aufwände wurden in vielen Modulen bereits Anpassungen der Lehrformate, des Projektanteils und der Prüfungsformen vorgenommen. Die Anzahl der Veranstaltungen wird reduziert und die Fächer mit höherem Lernaufwand und höherem Schwierigkeitsgrad werden im Studienverlaufsplan neu angeordnet, um den Aufwand gleichmäßiger über das Studium zu verteilen.
-2. Eine Neusortierung und Zuordnung der Module zu den Semestern sorgt für eine gleichmäßigere Verteilung der Lernaufwände auf die Semester. Die Prüfungsanteile wurden hierbei entsprechend berücksichtigt. So wurden beispielsweise vergleichsweise "schwerere und aufwändige" Module aus dem bisher überlasteten 3. Semester auf andere Semester verteilt.
-
-
-
-Die Praxisorientierung wird durch Projekte innerhalb der Module und expliziten Projektmodulen erreicht. Der Umfang der Projektanteile wird über die Semester langsam erhöht, so dass im Studienverlauf komplexere Projekte mit verschiedenen fachlichen Perspektiven bearbeitet werden können. 
-
-3. Das im fünften Semester sehr stark projektbasierte Studium eröffnet zudem die Möglichkeit, ein Semester im Ausland zu verbringen, dort zu arbeiten oder an einer ausländischen Hochschule Projekte zu bearbeiten. Insofern wird dem zunehmenden Anspruch an eine größere internationale Ausrichtung des Studiengangs auf flexible Art und Weise entsprochen.
-
-
-Die Studierenden haben die Möglichkeit das Studium, ihren Neigungen entsprechend, zu vertiefen. Das Curriculum sieht dafür, neben den bereits erwähnten Vertiefungsmodulen im vierten Semester, ein großes Projekt im fünften Semester, sowie das Praxisprojekt und die Bachelorarbeit im Abschlusssemester vor.
-
-
-4. Einige inhaltliche Veränderungen am Zuschnitt der Module dienen der stärkeren Orientierung auf das Berufsfeld der Absolventen. Insbesondere interkulturelle Teamkompetenz, Projektmanagement, soziale Kompetenz und auch die Vorbereitung auf Führungsaufgaben wird verstärkt. Dies soll vor allem durch Integration der entsprechenden Wissensmodule in die fachlichen Module erreicht werden.
-
-Als Kernfächer der Medieninformatik werden die Module "Einführung in die Medieninformatik", "Mensch-Computer-Interaktion", "Screendesign", "Web Fundamentals", "Audiovisuelles Medienprojekt" und "Medienrecht, Medien & Gesellschaft" angeboten. Im vierten Semester kann eine von drei Fachvertiefungen gewählt werden. Hier stehen die Module "Visual Computing", "Social Computing" und "Web Development" zur Wahl.
-
-Geplant ist eine bessere Berücksichtigung der Lernaufwände in den einzelnen Modulen. Nach einer Überprüfung der Aufwände wurden in vielen Modulen bereits Anpassungen der Lehrformate, des Projektanteils und der Prüfungsformen vorgenommen. Veranstaltungen aus einem Themenbereich werden zukünftig möglichst in einem Semester zusammengefasst um damit häufige Perspektiv- und Themenwechsel zu vermeiden und Praxisanteile zusammenfassen zu können. Damit wird auch eine sinnvollere Staffelung der projektbasierten Praxisanteile möglich, so dass die Studierenden besser auf das 10-CP Projekt im fünften Semester vorbereitet sind. Dieses Projekt kann zukünftig thematisch stärker durch die Studierenden bestimmt werden. Hiermit ist zum einen eine bessere Möglichkeit zur Vertiefung gegeben und zum anderen kann dadurch schon der Weg ins Abschlusssemester thematisch vorbereitet werden. über neue Wahlmöglichkeiten, können die Studierenden, entsprechend ihrer Neigung, zukünftig besser eigene Qualifizierungsvertiefungen setzen.
-
-Das im fünften Semester fast ausschließlich projektbasierte Studium eröffnet zudem die Möglichkeit, ein Semester im Ausland zu verbringen, dort zu arbeiten oder an einer ausländischen Hochschule Projekte zu bearbeiten. Insofern wird dem zunehmenden Anspruch an eine größere internationale Ausrichtung des Studiengangs auf flexible Art und Weise entsprochen.
-
-Einige inhaltliche Veränderungen am Zuschnitt der Module dienen der stärkeren Orientierung auf das Berufsfeld der Absolventen.
-
-## Geplante Änderungen des Master-Studiengangs
-
-Gerade in dem sich immer noch in der Entwicklung befindlichen Gebiet der Medieninformatik war und ist insbesondere beim Masterstudiengang zu erwarten, dass sich auch im aktuellen Akkreditierungszeitraum Änderungen hinsichtlich der Erkenntnisse aus Wissenschaft und
-Berufspraxis sowie der im Lehrbetrieb seit der Reakkreditierung 2011 gesammelten Erfahrungen und Evaluierungsergebnisse ergeben. Hier sind  beispielhaft die den beruflichen und privaten Alltag gleichermaßen immer weiter durchdringende Nutzung von Netz- und besonders Web-basierten Diensten sowie die fortschreitende Medienkonvergenz zu nennen. Hinzu kommen mögliche curriculare und personale Synergien mit dem vom Institut für Informatik der Fakultät 10 der FH Köln seit 2008 eingeführten und 2012 reakkreditierten Masterstudiengang Informatik mit den beiden Schwerpunkten Wirtschaftsinformatik/Information Systems und Software Engineering.
-Die vorgenommenen bzw. im Rahmen der Reakkreditierung noch vorzunehmenden Änderungen von Modulen und Lehrveranstaltungen (LV) behalten die im Selbstbericht zur Reakkreditierung vom 16. September 2009 beschriebenen Studiengangsziele und curricularen Inhalte im Wesentlichen bei. Bei der Ausgestaltung wurde jedoch Wert auf eine größere Profilschärfung und damit verbundene Möglichkeiten zu individuellen fachlichen Vertiefungen gelegt. 
-
-Die im Folgenden dargestellten geplanten Veränderungen des Masterstudienprogramms dienen zur Beseitigung erkannter Schwächen 
-- Fehlende Profilschärfung und Praxisbezug
-- Geringer Anteil an projektbasierter Lehre
-- Geringe internationale Ausrichtung
-und zur Maßnahmenbildung im Rahmen der Ziele der Hochschul- und Fakultätsentwicklungspläne wie sie bereits oben beim Bachelorstudienprogramm dargestellt wurden.
-
-1. Der Studiengang erhält Studienschwerpunkte. Dadurch, dass Wahlkataloge im Umfang von 30 ECTS CP angeboten werden, kann je nach Neigung durch entsprechende Auswahl von Modulen ein spezieller Teilbereich der Medieninformatik studiert werden. Zugleich ergeben sich weitere Synergieeffekte mit dem auch vom Institut für Informatik angebotenen Master "Informatik" mit den beiden Studienrichtungen "Software Engineering" und "Information Systems". Diese Maßnahme wirkt auch langfristig hinsichtlich des zu erwartenden Anstiegs der Bewerbernachfrage für dieses Studienangebot. Zugleich werden die Studierenden besser auf die Aufgaben in der Praxis vorbereitet.
-2. Der Projektanteil wird von 10 CP auf 36 CP erhöht und auf die ersten drei Studiensemester konzentriert, so dass der Übergang ins Berufsleben und die Kooperation mit Unternehmen verbessert werden können. Zu der praktischen Projektarbeit gesellen sich jeweils fachlicher Anteile. z.B. in Form von seminaristischen- oder Vorlesungsanteilen. Die Mitarbeit der Studierenden in Projekten trägt überdies zum Ausbau der Forschungsaktivitäten der Fakultät bei. Außerdem bietet sich das dritte Studiensemester mit seiner fast ausschließlichen Projektorientierung für einen Forschungsaufenthalt im Ausland an.
-3. Der Anteil der Grundlagen-Pflicht-Lehrveranstaltungen sinkt von 75 CP auf 18 CP und wird - ebenso wie die Module der Studienschwerpunkte - auf das erste und zweite Semester konzentriert. Das Verhältnis von Präsenzanteil zu Arbeitsaufwand wird reduziert, sodass für die Studierenden mehr Zeit für Ausarbeitungen, Referate und Literaturstudium bleibt und einer Verschulung des Masterstudiums entgegengewirkt wird. Zu diesem Zweck werden alle Module mit 6 CPs statt bisher mit 5 CPs ausgestattet.
-4. Einige inhaltliche Veränderungen am Zuschnitt der Module dienen der stärkeren Orientierung auf das Berufsfeld der Masterabsolventen. Insbesondere die Vorbereitung auf wissenschaftliches Arbeiten und Führungsaufgaben wird verstärkt.
-
-Die geplanten Veränderungen stehen in völliger Übereinstimmung mit den Plänen der Hochschule und der Fakultät und sind geeignet, die Erreichung der entsprechenden Ziele nachhaltig zu unterstützen.
-
-
