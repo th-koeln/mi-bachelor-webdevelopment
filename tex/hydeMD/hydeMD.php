@@ -30,6 +30,7 @@ class Page {
     $this->fetchFiles();
     $this->loadFileContents();
     $this->replaceYAMLHeaderInFiles();
+    $this->fixEmptyTableHeader();
 
     /* Extract simple page name */
     $this->name = basename( $this->path );
@@ -48,6 +49,11 @@ class Page {
                                                \RecursiveRegexIterator::GET_MATCH );
 
       foreach( $matchingFiles as $path => $obj ) {
+
+        if( strpos( $path, '_archiv/' ) !== FALSE ) {
+          continue;
+        }
+
         $this->files[$path] = '';
       }
     }
@@ -62,10 +68,12 @@ class Page {
       $content = preg_replace( "=Ü=", "Ü", $content );
 
       $content = preg_replace( "=ä=", "ä", $content );
-      //$content = preg_replace( "==", "Ä", $content );
+      $content = preg_replace( "=Ä=", "Ä", $content );
 
       $content = preg_replace( "=ö=", "ö", $content );
       $content = preg_replace( "=Ö=", "Ö", $content );
+
+      $content = preg_replace( "=‐=", "-", $content );
 
     }
   }
@@ -73,7 +81,44 @@ class Page {
 
   private function replaceYAMLHeaderInFiles() {
     foreach( $this->files as $path => &$content ) {
-      $content = preg_replace( '/---\s*title:\s*(.*)\s*?---/i', '# $1', $content );
+      $firstReplacement = true;
+
+      $content = preg_replace_callback( '/---\s*(.*?)\s*---/is', function( $matches ) use($firstReplacement) {
+
+        if( ! $firstReplacement )
+          return $matches[0];
+
+        $firstReplacement = false;
+
+        $pairsAssocArr = array();
+
+        $pairs = explode( "\n", $matches[1] );
+
+        $pairs = array_filter( $pairs );
+
+        foreach( $pairs as $pair ) {
+          $pair = array_map( "trim", explode( ":", $pair ) );
+
+          if( !isset( $pair[1] ) ) {
+            $pair[1] = '';
+          }
+
+          $pairsAssocArr[ $pair[0] ] = $pair[1];
+        }
+
+        if( !isset( $pairsAssocArr[ 'title' ] ) ) {
+          return $matches[0];
+        }
+
+        return '# ' . $pairsAssocArr[ 'title' ];
+      }, $content );
+    }
+  }
+
+
+  private function fixEmptyTableHeader() {
+    foreach( $this->files as $path => &$content ) {
+      $content = preg_replace( '/\| +?\|/i', '| &nbsp; |', $content );
     }
   }
 
