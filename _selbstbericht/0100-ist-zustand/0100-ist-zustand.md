@@ -91,6 +91,12 @@ cn: Tabelle zeigt nur Zahlen bis 2013. Haben wir da was besseres?
 
 {% include image.html url="tabellen/MI-BA-anzahl-studierende.svg" caption="Tabelle: Daten des Bachelorstudiengangs Medieninformatik" %}
 
+|            | Einschreibungen gesamt | Davon noch im Studium | Davon Abbruch | Davon Abschluss |
+| ---------- | ---------------------- | --------------------- | ------------- | --------------- |
+| WS 2010/11 | 96                     | 28 (29,2%)            | 30 (31,3%)    | 25 (26,0%)      |
+| WS 2011/12 | 141                    | 59 (41,8%)            | 48 (34,0%)    | 15 (10,6%)      |
+| WS 2012/13 | 144                    | 78 (54,2%)            | 42 (29,2%)    | 2 (1,4%)        |
+
 Die in Tabelle 1 dargestellten Zahlen zeigen einen stetig wachsenden Zulauf für den Bachelorstudiengang Medieninformatik, der ursprünglich für 63 Studierende ausgelegt wurde. Erfreulicherweise ist, trotz der im Rahmen der Fakultätsentwicklung und des Hochschulentwicklungsplans 2020[^anhang-hep-2020] steigenden Anfängerzahlen, eine gleichbleibende Abbrecherquote um die 30% zu erkennen. Die Zahlen zeigen leider auch eine niedrige Quote an Absolventen in Regelstudienzeit, die jedoch im Mittel aller Studiengänge der Fakultät 10 liegt. Nach den vorliegenden Prüfungsstatistiken (vgl. Prüfungsstatistiken [^Anhang-Pruefungsstatistiken]) ist mit einem proportionalen Anstieg der Absolventen zu rechnen.
 
 ~~~
