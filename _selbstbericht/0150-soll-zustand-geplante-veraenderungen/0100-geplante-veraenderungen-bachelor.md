@@ -3,7 +3,7 @@ title: Soll-Zustand/ geplante Veränderungen
 aktueller-bearbeiter: Christian Noss
 bearbeiterhistorie: Christian Noss
 date: 20.02.2017
-comment: Grafiken fehlen, ansonsten ganz ok, PDP und Web-Archs fehlen, Schwerpunkt zusammensetzung ebenfalls
+comment: Strategie Institut fehlt
 status: Unvollständig
 reviewed-von:
 ---
@@ -85,6 +85,10 @@ Darüber hinaus wurden weitere Änderungen durchgeführt, um die folgenden Defiz
 - zu wenig Kenntnisse über verschiedene Programmierkonzepte
 
 Das Abschlusssemester wurde in seiner grundsätzlichen Struktur beibehalten, jedoch wurde der Seminarteil das Moduls "Praxisprojekt" ausgelagert und als eigenes Modul installiert. Hiermit wird die Studierbarkeit verbessert, da die zeitliche Kopplung des Praxis- und Seminarteils reduziert wird. Darüber hinaus ist nun das Praxisprojekt mit einem Gewicht von 10 Creditpoints ausgestattet und damit weniger gewichtig, als die Bachelorarbeit, die ein Gewicht von 12 Creditpoints hat.
+
+Das Modul "Paradigmen der Programmierung", das bislang nur im Informatik Bachelor als Pflichtmodul im Curriculum verankert war, wird jetzt ein Pflichtmodul im dritten Fachsemester in der Medieninformatik um die Studierenden bessere Kenntnisse im Bereich verschiedener Programmierkonzepte und deren Anwendung zu vermitteln.
+
+Da web-basierte Architekturen elementarer Bestandteil der Medieninformatik und dediziert in den Studiengangszielen verankert sind, wurde hierzu ein Pflichtmodul installiert, das Inhalte aus den Modulen "Web-basierte Anwendungen 1 & 2" enthält, die alle Studierenden kennen sollten, auch wenn sie sich später in einem anderen Bereich vertiefen möchten.
 
 Im fünften Semester wurde das Modul "Medieninformatik und Gesellschaft" umgewidmet in "Medienrecht, Medien und Gesellschaft" um hier einen dedizierten Platz für rechtliche Themen innerhalb der Domäne im Curriculum zu verankern.
 
