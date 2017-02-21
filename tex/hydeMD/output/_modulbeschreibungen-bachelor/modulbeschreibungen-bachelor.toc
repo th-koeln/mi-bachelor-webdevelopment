@@ -1,0 +1,305 @@
+\contentsline {chapter}{\numberline {1}Algorithmen und Programmierung 1}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Lehrform/SWS:}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}Arbeitsaufwand:}{1}{section.1.2}
+\contentsline {section}{\numberline {1.3}Angestrebte Lernergebnisse:}{1}{section.1.3}
+\contentsline {section}{\numberline {1.4}Inhalt:}{1}{section.1.4}
+\contentsline {section}{\numberline {1.5}Studien-/Pr\IeC {\"u}fungsleistungen:}{1}{section.1.5}
+\contentsline {section}{\numberline {1.6}Medienformen:}{1}{section.1.6}
+\contentsline {section}{\numberline {1.7}Literatur:}{2}{section.1.7}
+\contentsline {chapter}{\numberline {2}Algorithmen und Programmierung 2}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}Lehrform/SWS:}{3}{section.2.1}
+\contentsline {section}{\numberline {2.2}Arbeitsaufwand:}{3}{section.2.2}
+\contentsline {section}{\numberline {2.3}Angestrebte Lernergebnisse:}{3}{section.2.3}
+\contentsline {section}{\numberline {2.4}Inhalt:}{3}{section.2.4}
+\contentsline {section}{\numberline {2.5}Studien-/Pr\IeC {\"u}fungsleistungen:}{3}{section.2.5}
+\contentsline {section}{\numberline {2.6}Medienformen:}{3}{section.2.6}
+\contentsline {section}{\numberline {2.7}Literatur:}{3}{section.2.7}
+\contentsline {chapter}{\numberline {3}Audiovisuelles Medienprojekt}{4}{chapter.3}
+\contentsline {section}{\numberline {3.1}Kurzbeschreibung}{4}{section.3.1}
+\contentsline {section}{\numberline {3.2}Lehrform/SWS:}{4}{section.3.2}
+\contentsline {section}{\numberline {3.3}Arbeitsaufwand:}{4}{section.3.3}
+\contentsline {section}{\numberline {3.4}Angestrebte Lernergebnisse:}{4}{section.3.4}
+\contentsline {section}{\numberline {3.5}Inhalt:}{5}{section.3.5}
+\contentsline {section}{\numberline {3.6}Studien-/Pr\IeC {\"u}fungsleistungen:}{5}{section.3.6}
+\contentsline {section}{\numberline {3.7}Medienformen:}{5}{section.3.7}
+\contentsline {section}{\numberline {3.8}Literatur:}{6}{section.3.8}
+\contentsline {chapter}{\numberline {4}Bachelorarbeit}{7}{chapter.4}
+\contentsline {section}{\numberline {4.1}Lehrform/SWS:}{7}{section.4.1}
+\contentsline {section}{\numberline {4.2}Arbeitsaufwand:}{7}{section.4.2}
+\contentsline {section}{\numberline {4.3}Angestrebte Lernergebnisse:}{7}{section.4.3}
+\contentsline {section}{\numberline {4.4}Inhalt:}{7}{section.4.4}
+\contentsline {section}{\numberline {4.5}Studien-/Pr\IeC {\"u}fungsleistungen:}{8}{section.4.5}
+\contentsline {section}{\numberline {4.6}Medienformen:}{8}{section.4.6}
+\contentsline {section}{\numberline {4.7}Literatur:}{8}{section.4.7}
+\contentsline {chapter}{\numberline {5}Bachelor Kolloquium}{9}{chapter.5}
+\contentsline {section}{\numberline {5.1}Lehrform/SWS:}{9}{section.5.1}
+\contentsline {section}{\numberline {5.2}Arbeitsaufwand:}{9}{section.5.2}
+\contentsline {section}{\numberline {5.3}Angestrebte Lernergebnisse:}{9}{section.5.3}
+\contentsline {section}{\numberline {5.4}Inhalt:}{9}{section.5.4}
+\contentsline {section}{\numberline {5.5}Studien-/Pr\IeC {\"u}fungsleistungen:}{9}{section.5.5}
+\contentsline {section}{\numberline {5.6}Medienformen:}{10}{section.5.6}
+\contentsline {section}{\numberline {5.7}Literatur:}{10}{section.5.7}
+\contentsline {chapter}{\numberline {6}Betriebssysteme und verteilte Systeme}{11}{chapter.6}
+\contentsline {section}{\numberline {6.1}Kurzbeschreibung}{11}{section.6.1}
+\contentsline {section}{\numberline {6.2}Lehrform/SWS:}{11}{section.6.2}
+\contentsline {section}{\numberline {6.3}Arbeitsaufwand:}{11}{section.6.3}
+\contentsline {section}{\numberline {6.4}Angestrebte Lernergebnisse:}{11}{section.6.4}
+\contentsline {section}{\numberline {6.5}Inhalt:}{12}{section.6.5}
+\contentsline {section}{\numberline {6.6}Studien-/Pr\IeC {\"u}fungsleistungen:}{12}{section.6.6}
+\contentsline {section}{\numberline {6.7}Medienformen:}{12}{section.6.7}
+\contentsline {section}{\numberline {6.8}Literatur:}{12}{section.6.8}
+\contentsline {chapter}{\numberline {7}BWL I - Grundlagen}{13}{chapter.7}
+\contentsline {section}{\numberline {7.1}Lehrform/SWS:}{13}{section.7.1}
+\contentsline {section}{\numberline {7.2}Arbeitsaufwand:}{13}{section.7.2}
+\contentsline {section}{\numberline {7.3}Angestrebte Lernergebnisse:}{13}{section.7.3}
+\contentsline {section}{\numberline {7.4}Inhalt:}{13}{section.7.4}
+\contentsline {section}{\numberline {7.5}Studien-/Pr\IeC {\"u}fungsleistungen:}{14}{section.7.5}
+\contentsline {section}{\numberline {7.6}Medienformen:}{14}{section.7.6}
+\contentsline {section}{\numberline {7.7}Literatur:}{14}{section.7.7}
+\contentsline {chapter}{\numberline {8}Datenbanken 1}{15}{chapter.8}
+\contentsline {section}{\numberline {8.1}Lehrform/SWS:}{15}{section.8.1}
+\contentsline {section}{\numberline {8.2}Arbeitsaufwand:}{15}{section.8.2}
+\contentsline {section}{\numberline {8.3}Angestrebte Lernergebnisse:}{15}{section.8.3}
+\contentsline {section}{\numberline {8.4}Inhalt:}{16}{section.8.4}
+\contentsline {section}{\numberline {8.5}Studien-/Pr\IeC {\"u}fungsleistungen:}{16}{section.8.5}
+\contentsline {section}{\numberline {8.6}Medienformen:}{16}{section.8.6}
+\contentsline {section}{\numberline {8.7}Literatur:}{17}{section.8.7}
+\contentsline {chapter}{\numberline {9}Einf\IeC {\"u}hrung in Betriebssysteme und Rechnerarchitektur}{18}{chapter.9}
+\contentsline {section}{\numberline {9.1}Lehrform/SWS:}{18}{section.9.1}
+\contentsline {section}{\numberline {9.2}Arbeitsaufwand:}{18}{section.9.2}
+\contentsline {section}{\numberline {9.3}Angestrebte Lernergebnisse:}{18}{section.9.3}
+\contentsline {section}{\numberline {9.4}Inhalt:}{18}{section.9.4}
+\contentsline {section}{\numberline {9.5}Studien-/Pr\IeC {\"u}fungsleistungen:}{18}{section.9.5}
+\contentsline {section}{\numberline {9.6}Medienformen:}{18}{section.9.6}
+\contentsline {section}{\numberline {9.7}Literatur:}{19}{section.9.7}
+\contentsline {chapter}{\numberline {10}Einf\IeC {\"u}hrung in die Medieninformatik}{20}{chapter.10}
+\contentsline {section}{\numberline {10.1}Lehrform/SWS:}{20}{section.10.1}
+\contentsline {section}{\numberline {10.2}Arbeitsaufwand:}{20}{section.10.2}
+\contentsline {section}{\numberline {10.3}Angestrebte Lernergebnisse:}{20}{section.10.3}
+\contentsline {section}{\numberline {10.4}Inhalt:}{21}{section.10.4}
+\contentsline {section}{\numberline {10.5}Studien-/Pr\IeC {\"u}fungsleistungen:}{21}{section.10.5}
+\contentsline {section}{\numberline {10.6}Medienformen:}{21}{section.10.6}
+\contentsline {section}{\numberline {10.7}Literatur:}{21}{section.10.7}
+\contentsline {chapter}{\numberline {11}Entwicklungsprojekt}{22}{chapter.11}
+\contentsline {section}{\numberline {11.1}Lehrform/SWS:}{22}{section.11.1}
+\contentsline {section}{\numberline {11.2}Arbeitsaufwand:}{22}{section.11.2}
+\contentsline {section}{\numberline {11.3}Angestrebte Lernergebnisse:}{22}{section.11.3}
+\contentsline {section}{\numberline {11.4}Inhalt:}{23}{section.11.4}
+\contentsline {section}{\numberline {11.5}Studien-/Pr\IeC {\"u}fungsleistungen:}{23}{section.11.5}
+\contentsline {section}{\numberline {11.6}Medienformen:}{23}{section.11.6}
+\contentsline {section}{\numberline {11.7}Literatur:}{23}{section.11.7}
+\contentsline {chapter}{\numberline {12}Grundlagen des Web}{24}{chapter.12}
+\contentsline {section}{\numberline {12.1}Kurzbeschreibung}{24}{section.12.1}
+\contentsline {section}{\numberline {12.2}Lehrform/SWS:}{24}{section.12.2}
+\contentsline {section}{\numberline {12.3}Arbeitsaufwand:}{24}{section.12.3}
+\contentsline {section}{\numberline {12.4}Angestrebte Lernergebnisse:}{24}{section.12.4}
+\contentsline {section}{\numberline {12.5}Inhalt:}{25}{section.12.5}
+\contentsline {section}{\numberline {12.6}Studien-/Pr\IeC {\"u}fungsleistungen:}{25}{section.12.6}
+\contentsline {section}{\numberline {12.7}Medienformen:}{25}{section.12.7}
+\contentsline {section}{\numberline {12.8}Literatur:}{25}{section.12.8}
+\contentsline {chapter}{\numberline {13}Kommunikationstechnik und Netze}{26}{chapter.13}
+\contentsline {section}{\numberline {13.1}Lehrform/SWS:}{26}{section.13.1}
+\contentsline {section}{\numberline {13.2}Arbeitsaufwand:}{26}{section.13.2}
+\contentsline {section}{\numberline {13.3}Angestrebte Lernergebnisse:}{26}{section.13.3}
+\contentsline {section}{\numberline {13.4}Inhalt:}{26}{section.13.4}
+\contentsline {section}{\numberline {13.5}Studien-/Pr\IeC {\"u}fungsleistungen:}{27}{section.13.5}
+\contentsline {section}{\numberline {13.6}Medienformen:}{27}{section.13.6}
+\contentsline {section}{\numberline {13.7}Literatur:}{27}{section.13.7}
+\contentsline {chapter}{\numberline {14}Mathematik 1}{28}{chapter.14}
+\contentsline {section}{\numberline {14.1}Lehrform/SWS:}{28}{section.14.1}
+\contentsline {section}{\numberline {14.2}Arbeitsaufwand:}{28}{section.14.2}
+\contentsline {section}{\numberline {14.3}Angestrebte Lernergebnisse:}{28}{section.14.3}
+\contentsline {section}{\numberline {14.4}Inhalt:}{28}{section.14.4}
+\contentsline {section}{\numberline {14.5}Studien-/Pr\IeC {\"u}fungsleistungen:}{28}{section.14.5}
+\contentsline {section}{\numberline {14.6}Medienformen:}{29}{section.14.6}
+\contentsline {section}{\numberline {14.7}Literatur:}{29}{section.14.7}
+\contentsline {chapter}{\numberline {15}Mathematik 2}{30}{chapter.15}
+\contentsline {section}{\numberline {15.1}Lehrform/SWS:}{30}{section.15.1}
+\contentsline {section}{\numberline {15.2}Arbeitsaufwand:}{30}{section.15.2}
+\contentsline {section}{\numberline {15.3}Angestrebte Lernergebnisse:}{30}{section.15.3}
+\contentsline {section}{\numberline {15.4}Inhalt:}{30}{section.15.4}
+\contentsline {section}{\numberline {15.5}Studien-/Pr\IeC {\"u}fungsleistungen:}{31}{section.15.5}
+\contentsline {section}{\numberline {15.6}Medienformen:}{31}{section.15.6}
+\contentsline {section}{\numberline {15.7}Literatur:}{31}{section.15.7}
+\contentsline {chapter}{\numberline {16}Mensch-Computer Interaktion}{32}{chapter.16}
+\contentsline {section}{\numberline {16.1}Lehrform/SWS: Vorlesung und \IeC {\"U}bung}{32}{section.16.1}
+\contentsline {section}{\numberline {16.2}Arbeitsaufwand: 300 h, davon 65h Vorlesung, 65h \IeC {\"U}bung, 170 h Selbststudium}{32}{section.16.2}
+\contentsline {section}{\numberline {16.3}Angestrebte Lernergebnisse:}{32}{section.16.3}
+\contentsline {section}{\numberline {16.4}Inhalt:}{33}{section.16.4}
+\contentsline {section}{\numberline {16.5}Studien-/Pr\IeC {\"u}fungsleistungen:}{33}{section.16.5}
+\contentsline {section}{\numberline {16.6}Medienformen:}{33}{section.16.6}
+\contentsline {section}{\numberline {16.7}Literatur:}{33}{section.16.7}
+\contentsline {chapter}{\numberline {17}Informatik, Recht und Gesellschaft}{35}{chapter.17}
+\contentsline {section}{\numberline {17.1}Lehrform/SWS:}{35}{section.17.1}
+\contentsline {section}{\numberline {17.2}Arbeitsaufwand:}{35}{section.17.2}
+\contentsline {section}{\numberline {17.3}Angestrebte Lernergebnisse:}{35}{section.17.3}
+\contentsline {section}{\numberline {17.4}Inhalt:}{36}{section.17.4}
+\contentsline {section}{\numberline {17.5}Studien-/Pr\IeC {\"u}fungsleistungen:}{36}{section.17.5}
+\contentsline {section}{\numberline {17.6}Medienformen:}{36}{section.17.6}
+\contentsline {section}{\numberline {17.7}Literatur:}{36}{section.17.7}
+\contentsline {chapter}{\numberline {18}Paradigmen der Programmierung}{38}{chapter.18}
+\contentsline {section}{\numberline {18.1}Lehrform/SWS:}{38}{section.18.1}
+\contentsline {section}{\numberline {18.2}Arbeitsaufwand:}{38}{section.18.2}
+\contentsline {section}{\numberline {18.3}Angestrebte Lernergebnisse:}{38}{section.18.3}
+\contentsline {section}{\numberline {18.4}Inhalt:}{38}{section.18.4}
+\contentsline {section}{\numberline {18.5}Studien-/Pr\IeC {\"u}fungsleistungen:}{39}{section.18.5}
+\contentsline {section}{\numberline {18.6}Medienformen:}{39}{section.18.6}
+\contentsline {section}{\numberline {18.7}Literatur:}{39}{section.18.7}
+\contentsline {chapter}{\numberline {19}Praxisprojekt}{40}{chapter.19}
+\contentsline {section}{\numberline {19.1}Lehrform/SWS:}{40}{section.19.1}
+\contentsline {section}{\numberline {19.2}Arbeitsaufwand:}{40}{section.19.2}
+\contentsline {section}{\numberline {19.3}Angestrebte Lernergebnisse:}{40}{section.19.3}
+\contentsline {section}{\numberline {19.4}Inhalt:}{40}{section.19.4}
+\contentsline {section}{\numberline {19.5}Studien-/Pr\IeC {\"u}fungsleistungen:}{41}{section.19.5}
+\contentsline {section}{\numberline {19.6}Medienformen:}{41}{section.19.6}
+\contentsline {section}{\numberline {19.7}Literatur:}{41}{section.19.7}
+\contentsline {chapter}{\numberline {20}Praxisprojektseminar}{42}{chapter.20}
+\contentsline {section}{\numberline {20.1}Lehrform/SWS:}{42}{section.20.1}
+\contentsline {section}{\numberline {20.2}Arbeitsaufwand:}{42}{section.20.2}
+\contentsline {section}{\numberline {20.3}Angestrebte Lernergebnisse:}{42}{section.20.3}
+\contentsline {section}{\numberline {20.4}Inhalt:}{42}{section.20.4}
+\contentsline {section}{\numberline {20.5}Studien-/Pr\IeC {\"u}fungsleistungen:}{43}{section.20.5}
+\contentsline {section}{\numberline {20.6}Medienformen:}{43}{section.20.6}
+\contentsline {section}{\numberline {20.7}Literatur:}{43}{section.20.7}
+\contentsline {chapter}{\numberline {21}Projektmanagement}{44}{chapter.21}
+\contentsline {section}{\numberline {21.1}Kurzbeschreibung:}{44}{section.21.1}
+\contentsline {section}{\numberline {21.2}Lehrform/SWS:}{44}{section.21.2}
+\contentsline {section}{\numberline {21.3}Arbeitsaufwand:}{44}{section.21.3}
+\contentsline {section}{\numberline {21.4}Angestrebte Lernergebnisse:}{44}{section.21.4}
+\contentsline {section}{\numberline {21.5}Inhalt:}{45}{section.21.5}
+\contentsline {section}{\numberline {21.6}Studien-/Pr\IeC {\"u}fungsleistungen:}{45}{section.21.6}
+\contentsline {section}{\numberline {21.7}Medienformen:}{45}{section.21.7}
+\contentsline {section}{\numberline {21.8}Literatur:}{46}{section.21.8}
+\contentsline {chapter}{\numberline {22}Empirische Forschungsmethoden in der Informatik}{47}{chapter.22}
+\contentsline {section}{\numberline {22.1}Lehrform/SWS: Vorlesung/ 2 SWS, Seminar/ 2 SWS}{47}{section.22.1}
+\contentsline {section}{\numberline {22.2}Arbeitsaufwand: 150 h, davon 30h Vorlesung, 45h Selbststudium, 75h Seminar}{47}{section.22.2}
+\contentsline {section}{\numberline {22.3}Angestrebte Lernergebnisse:}{47}{section.22.3}
+\contentsline {section}{\numberline {22.4}Inhalt:}{47}{section.22.4}
+\contentsline {section}{\numberline {22.5}Studien-/Pr\IeC {\"u}fungsleistungen:}{48}{section.22.5}
+\contentsline {section}{\numberline {22.6}Medienformen:}{48}{section.22.6}
+\contentsline {section}{\numberline {22.7}Literatur:}{48}{section.22.7}
+\contentsline {chapter}{\numberline {23}Projekt Social Computing}{49}{chapter.23}
+\contentsline {section}{\numberline {23.1}Lehrform/SWS: 4 SWS Projekt}{49}{section.23.1}
+\contentsline {section}{\numberline {23.2}Arbeitsaufwand: 150 h, davon 150h Projekt}{49}{section.23.2}
+\contentsline {section}{\numberline {23.3}Angestrebte Lernergebnisse:}{49}{section.23.3}
+\contentsline {section}{\numberline {23.4}Inhalt:}{49}{section.23.4}
+\contentsline {section}{\numberline {23.5}Studien-/Pr\IeC {\"u}fungsleistungen:}{49}{section.23.5}
+\contentsline {section}{\numberline {23.6}Medienformen:}{49}{section.23.6}
+\contentsline {section}{\numberline {23.7}Literatur:}{49}{section.23.7}
+\contentsline {chapter}{\numberline {24}Gamification}{50}{chapter.24}
+\contentsline {section}{\numberline {24.1}Lehrform/SWS: 1 SWS Vorlesung, 3 SWS Projekt}{50}{section.24.1}
+\contentsline {section}{\numberline {24.2}Arbeitsaufwand: 150 h, davon 30h Vorlesung, 90h Projekt}{50}{section.24.2}
+\contentsline {section}{\numberline {24.3}Angestrebte Lernergebnisse:}{50}{section.24.3}
+\contentsline {section}{\numberline {24.4}Inhalt:}{50}{section.24.4}
+\contentsline {section}{\numberline {24.5}Studien-/Pr\IeC {\"u}fungsleistungen:}{51}{section.24.5}
+\contentsline {section}{\numberline {24.6}Medienformen:}{51}{section.24.6}
+\contentsline {section}{\numberline {24.7}Literatur:}{51}{section.24.7}
+\contentsline {chapter}{\numberline {25}Soziotechnische Systeme}{52}{chapter.25}
+\contentsline {section}{\numberline {25.1}Lehrform/SWS: Vorlesung / 2 SWS, Seminar 2 SWS}{52}{section.25.1}
+\contentsline {section}{\numberline {25.2}Arbeitsaufwand: 150 h, davon 45h Vorlesung, 45h Selbststudium, 60h Projekt}{52}{section.25.2}
+\contentsline {section}{\numberline {25.3}Angestrebte Lernergebnisse:}{52}{section.25.3}
+\contentsline {section}{\numberline {25.4}Inhalt:}{52}{section.25.4}
+\contentsline {section}{\numberline {25.5}Studien-/Pr\IeC {\"u}fungsleistungen:}{53}{section.25.5}
+\contentsline {section}{\numberline {25.6}Medienformen:}{53}{section.25.6}
+\contentsline {section}{\numberline {25.7}Literatur:}{53}{section.25.7}
+\contentsline {chapter}{\numberline {26}Screendesign}{54}{chapter.26}
+\contentsline {section}{\numberline {26.1}Lehrform/SWS:}{54}{section.26.1}
+\contentsline {section}{\numberline {26.2}Arbeitsaufwand:}{54}{section.26.2}
+\contentsline {section}{\numberline {26.3}Angestrebte Lernergebnisse:}{54}{section.26.3}
+\contentsline {section}{\numberline {26.4}Inhalt:}{55}{section.26.4}
+\contentsline {subsection}{\numberline {26.4.1}Vorlesung:}{55}{subsection.26.4.1}
+\contentsline {subsection}{\numberline {26.4.2}Seminar:}{55}{subsection.26.4.2}
+\contentsline {section}{\numberline {26.5}Studien-/Pr\IeC {\"u}fungsleistungen:}{55}{section.26.5}
+\contentsline {section}{\numberline {26.6}Medienformen:}{55}{section.26.6}
+\contentsline {section}{\numberline {26.7}Literatur:}{56}{section.26.7}
+\contentsline {chapter}{\numberline {27}Softwaretechnik}{57}{chapter.27}
+\contentsline {section}{\numberline {27.1}Kurzbeschreibung:}{57}{section.27.1}
+\contentsline {section}{\numberline {27.2}Lehrform/SWS:}{57}{section.27.2}
+\contentsline {section}{\numberline {27.3}Arbeitsaufwand:}{57}{section.27.3}
+\contentsline {section}{\numberline {27.4}Angestrebte Lernergebnisse:}{57}{section.27.4}
+\contentsline {section}{\numberline {27.5}Inhalt:}{58}{section.27.5}
+\contentsline {section}{\numberline {27.6}Studien-/Pr\IeC {\"u}fungsleistungen:}{58}{section.27.6}
+\contentsline {section}{\numberline {27.7}Medienformen:}{58}{section.27.7}
+\contentsline {section}{\numberline {27.8}Literatur:}{58}{section.27.8}
+\contentsline {chapter}{\numberline {28}Theoretische Informatik 1}{60}{chapter.28}
+\contentsline {section}{\numberline {28.1}Lehrform/SWS:}{60}{section.28.1}
+\contentsline {section}{\numberline {28.2}Arbeitsaufwand:}{60}{section.28.2}
+\contentsline {section}{\numberline {28.3}Angestrebte Lernergebnisse:}{60}{section.28.3}
+\contentsline {section}{\numberline {28.4}Inhalt:}{61}{section.28.4}
+\contentsline {section}{\numberline {28.5}Studien-/Pr\IeC {\"u}fungsleistungen:}{61}{section.28.5}
+\contentsline {section}{\numberline {28.6}Medienformen:}{61}{section.28.6}
+\contentsline {section}{\numberline {28.7}Literatur:}{62}{section.28.7}
+\contentsline {chapter}{\numberline {29}Theoretische Informatik 2}{63}{chapter.29}
+\contentsline {section}{\numberline {29.1}Lehrform/SWS:}{63}{section.29.1}
+\contentsline {section}{\numberline {29.2}Arbeitsaufwand:}{63}{section.29.2}
+\contentsline {section}{\numberline {29.3}Angestrebte Lernergebnisse:}{63}{section.29.3}
+\contentsline {section}{\numberline {29.4}Inhalt:}{64}{section.29.4}
+\contentsline {section}{\numberline {29.5}Studien-/Pr\IeC {\"u}fungsleistungen:}{64}{section.29.5}
+\contentsline {section}{\numberline {29.6}Medienformen:}{64}{section.29.6}
+\contentsline {section}{\numberline {29.7}Literatur:}{65}{section.29.7}
+\contentsline {chapter}{\numberline {30}Visual Computing}{66}{chapter.30}
+\contentsline {section}{\numberline {30.1}Kurzbeschreibung}{66}{section.30.1}
+\contentsline {section}{\numberline {30.2}Lehrform/SWS:}{66}{section.30.2}
+\contentsline {section}{\numberline {30.3}Lehrveranstaltungen}{67}{section.30.3}
+\contentsline {section}{\numberline {30.4}Arbeitsaufwand:}{67}{section.30.4}
+\contentsline {section}{\numberline {30.5}Angestrebte Lernergebnisse:}{67}{section.30.5}
+\contentsline {subsection}{\numberline {30.5.1}Audiovisuelle Medientechnik}{67}{subsection.30.5.1}
+\contentsline {subsection}{\numberline {30.5.2}Computergrafik und Animation}{68}{subsection.30.5.2}
+\contentsline {subsection}{\numberline {30.5.3}Audiovisuelles Medienprojekt 2}{69}{subsection.30.5.3}
+\contentsline {subsection}{\numberline {30.5.4}Visuelle Effekte und Animation}{69}{subsection.30.5.4}
+\contentsline {subsection}{\numberline {30.5.5}Cross-Platform Game Development mit Unity 3D}{70}{subsection.30.5.5}
+\contentsline {subsection}{\numberline {30.5.6}Prozedurale Generierung virtueller Welten}{70}{subsection.30.5.6}
+\contentsline {section}{\numberline {30.6}Inhalt:}{71}{section.30.6}
+\contentsline {subsection}{\numberline {30.6.1}Audiovisuelle Medientechnik}{71}{subsection.30.6.1}
+\contentsline {subsection}{\numberline {30.6.2}Computergrafik und Animation}{71}{subsection.30.6.2}
+\contentsline {subsection}{\numberline {30.6.3}Audiovisuelles Medienprojekt 2}{72}{subsection.30.6.3}
+\contentsline {subsection}{\numberline {30.6.4}Visuelle Effekte und Animation}{72}{subsection.30.6.4}
+\contentsline {subsection}{\numberline {30.6.5}Cross-Platform Game Development mit Unity 3D}{72}{subsection.30.6.5}
+\contentsline {subsection}{\numberline {30.6.6}Prozedurale Generierung virtueller Welten}{72}{subsection.30.6.6}
+\contentsline {section}{\numberline {30.7}Studien-/Pr\IeC {\"u}fungsleistungen:}{73}{section.30.7}
+\contentsline {subsection}{\numberline {30.7.1}Audiovisuelle Medientechnik}{73}{subsection.30.7.1}
+\contentsline {subsection}{\numberline {30.7.2}Computergrafik und Animation}{73}{subsection.30.7.2}
+\contentsline {subsection}{\numberline {30.7.3}Audiovisuelles Medienprojekt 2}{73}{subsection.30.7.3}
+\contentsline {subsection}{\numberline {30.7.4}Visuelle Effekte und Animation}{73}{subsection.30.7.4}
+\contentsline {subsection}{\numberline {30.7.5}Cross-Platform Game Development mit Unity 3D}{73}{subsection.30.7.5}
+\contentsline {subsection}{\numberline {30.7.6}Prozedurale Generierung virtueller Welten}{73}{subsection.30.7.6}
+\contentsline {section}{\numberline {30.8}Medienformen:}{73}{section.30.8}
+\contentsline {section}{\numberline {30.9}Literatur:}{74}{section.30.9}
+\contentsline {subsection}{\numberline {30.9.1}Audiovisuelle Medientechnik}{74}{subsection.30.9.1}
+\contentsline {subsection}{\numberline {30.9.2}Computergrafik und Animation}{74}{subsection.30.9.2}
+\contentsline {subsection}{\numberline {30.9.3}Audiovisuelles Medienprojekt 2}{74}{subsection.30.9.3}
+\contentsline {subsection}{\numberline {30.9.4}Visuelle Effekte und Animation}{75}{subsection.30.9.4}
+\contentsline {subsection}{\numberline {30.9.5}Cross-Platform Game Development mit Unity 3D}{75}{subsection.30.9.5}
+\contentsline {subsection}{\numberline {30.9.6}Prozedurale Generierung virtueller Welten}{75}{subsection.30.9.6}
+\contentsline {chapter}{\numberline {31}Web Development}{76}{chapter.31}
+\contentsline {section}{\numberline {31.1}Kurzbeschreibung}{76}{section.31.1}
+\contentsline {section}{\numberline {31.2}Lehrform/SWS:}{76}{section.31.2}
+\contentsline {section}{\numberline {31.3}Arbeitsaufwand:}{76}{section.31.3}
+\contentsline {section}{\numberline {31.4}Angestrebte Lernergebnisse:}{76}{section.31.4}
+\contentsline {subsection}{\numberline {31.4.1}Web Frontend Entwicklung:}{77}{subsection.31.4.1}
+\contentsline {subsection}{\numberline {31.4.2}Serverseitige Frameworks und Dienste:}{77}{subsection.31.4.2}
+\contentsline {subsection}{\numberline {31.4.3}Internet of Things:}{78}{subsection.31.4.3}
+\contentsline {section}{\numberline {31.5}Inhalt:}{78}{section.31.5}
+\contentsline {subsection}{\numberline {31.5.1}Web Frontend Entwicklung:}{78}{subsection.31.5.1}
+\contentsline {subsection}{\numberline {31.5.2}Serverseitige Frameworks und Dienste:}{78}{subsection.31.5.2}
+\contentsline {subsection}{\numberline {31.5.3}Internet of Things:}{79}{subsection.31.5.3}
+\contentsline {section}{\numberline {31.6}Studien-/Pr\IeC {\"u}fungsleistungen:}{79}{section.31.6}
+\contentsline {section}{\numberline {31.7}Medienformen:}{79}{section.31.7}
+\contentsline {section}{\numberline {31.8}Literatur:}{79}{section.31.8}
+\contentsline {chapter}{\numberline {32}Social Computing}{80}{chapter.32}
+\contentsline {section}{\numberline {32.1}Kurzbeschreibung}{80}{section.32.1}
+\contentsline {section}{\numberline {32.2}Lehrform/SWS:}{81}{section.32.2}
+\contentsline {section}{\numberline {32.3}Arbeitsaufwand:}{81}{section.32.3}
+\contentsline {section}{\numberline {32.4}Angestrebte Lernergebnisse:}{81}{section.32.4}
+\contentsline {section}{\numberline {32.5}Inhalt:}{81}{section.32.5}
+\contentsline {section}{\numberline {32.6}Studien-/Pr\IeC {\"u}fungsleistungen:}{81}{section.32.6}
+\contentsline {section}{\numberline {32.7}Medienformen:}{81}{section.32.7}
+\contentsline {section}{\numberline {32.8}Literatur:}{81}{section.32.8}
+\contentsline {chapter}{\numberline {33}Wahlpflichtmodul}{82}{chapter.33}
+\contentsline {section}{\numberline {33.1}Lehrform/SWS:}{82}{section.33.1}
+\contentsline {section}{\numberline {33.2}Arbeitsaufwand:}{82}{section.33.2}
+\contentsline {section}{\numberline {33.3}Angestrebte Lernergebnisse:}{82}{section.33.3}
+\contentsline {section}{\numberline {33.4}Inhalt:}{82}{section.33.4}
+\contentsline {section}{\numberline {33.5}Studien-/Pr\IeC {\"u}fungsleistungen:}{82}{section.33.5}
+\contentsline {section}{\numberline {33.6}Medienformen:}{83}{section.33.6}
+\contentsline {section}{\numberline {33.7}Literatur:}{83}{section.33.7}
