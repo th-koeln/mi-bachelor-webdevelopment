@@ -3,7 +3,7 @@ title: Ausstattung
 aktueller-bearbeiter: Gerhard
 bearbeiterhistorie: Christian Noss
 date: 18.02.2017
-comment: Gerhard hat die eye-tracking facilities eingefügt
+comment: Gerhard hat die eye-tracking facilities eingefügt, Gerhards Forschungsthemen eingetragen
 status: unvollständig
 reviewed-von:
 ---
@@ -223,7 +223,10 @@ reviewed-von:
 
 
 * Forschungsgebiete
-  * **[hier fehlt noch Inhalt]**
+  * Sustainable Interaction Design
+  * Sustainability as System-Requirements
+  * Designing Worth, Value-related Design
+  
 * Lehrgebiete
   * Mensch-Computer Interaktion
   * Entwicklungsprojekt interaktive Systeme
