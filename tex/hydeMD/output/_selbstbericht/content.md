@@ -189,7 +189,7 @@ Ergänzend zum MentoRing Programm, dass sich an alle Studienanfänger des Campus
 
 Mehrere gebündelte und ständig weiter entwickelte außercurriculare Maßnahmen tragen, insbesondere vor dem Hintergrund der stark ansteigenden Studierendenzahlen, zur weiteren Verbesserung der Studienqualität bei.
 
-#### Showcase
+#### Showcase 
 
 Das jährlich durchgeführte Medieninformatik-Showcase dient zur Stärkung der Identität der Medieninformatik, zur besseren Vernetzung von Studierenden sowohl zwischen Master- und Bachelorstudierenden als auch über die Studiensemester, zum Ausblick auf die Praxis durch externe Sprecher (oft Alumni), sowie als strukturierte Feedbackmöglichkeit. Das Event verbessert außerdem die Sichtbarkeit der Medieninformatik am Campus und in der Region.
 
@@ -218,7 +218,7 @@ Die folgenden Ausführungen beruhen auf der Datenerhebung[^anhang-verbleib-und-s
 
 ~~~
 cn: Tabelle zeigt nur Zahlen bis 2013. Haben wir da was besseres?
-@Volker: da müsstest Du bitte noch mal eine Tabelle draus machen. Sprechen wir Mittwoch drüber.
+@Volker: da müsstest Du bitte noch mal eine Tabelle draus machen. Sprechen wir Mittwoch drüber. 
 ~~~
 
 {% include image.html url="tabellen/MI-BA-anzahl-studierende.svg" caption="Tabelle: Daten des Bachelorstudiengangs Medieninformatik" %}
@@ -273,12 +273,12 @@ Die Unzufriedenheit bei der Bewertung der Studien- und Prüfungsorganisation in 
 
 Die folgenden Ausführungen beruhen auf der Datenerhebung zum 22.09.2016 für den Zeitraum Wintersemester 2011 bis Wintersemester 2015[^Anhang-Pruefungsstatistiken][^Anhang-fakultaetsstruktur] und fokussieren die derzeit eingeschriebenen Studenten, erfolgreiche Abschlüsse und Studienfachabbrecher.
 
-Zur Bewertung der Auslastung kann wie folgt Stellung genommen werden: gemessen an den planmäßigen 63 Studierendenplätzen (WS13/14) werden seit drei Studienjahren im Rahmen der strategischen Fakultätsplanung und des Hochschulentwicklungsplans 2020 mehr als 200% Überlast aufgenommen. Mit den Abbrecherquoten im Bachelorstudiengang bewegt sich die Medieninformatik im breiten Mittelfeld von Informatikstudiengängen im Allgemeinen;
+Zur Bewertung der Auslastung kann wie folgt Stellung genommen werden: gemessen an den planmäßigen 63 Studierendenplätzen (WS13/14) werden seit drei Studienjahren im Rahmen der strategischen Fakultätsplanung und des Hochschulentwicklungsplans 2020 mehr als 200% Überlast aufgenommen. Mit den Abbrecherquoten im Bachelorstudiengang bewegt sich die Medieninformatik im breiten Mittelfeld von Informatikstudiengängen im Allgemeinen; 
 ~~~
 cn: gibt es zu "im breiten Mittelfeld von Informatikstudiengängen" zahlen?
 ~~~
 
-sehr erfreulich ist die für den Masterstudiengang Medieninformatik die geringe Abbrecherquote. In Verbindung mit der bedauerlich hohen, für ingenieur- und naturwissenschaftliche Studiengänge, insbesondere im Bachelor-Bereich jedoch leider inhärenten Abbrecherquote (durchschnittlich geschätzte Schwundquote in der Informatik an Fachhochschulen ist 39%),
+sehr erfreulich ist die für den Masterstudiengang Medieninformatik die geringe Abbrecherquote. In Verbindung mit der bedauerlich hohen, für ingenieur- und naturwissenschaftliche Studiengänge, insbesondere im Bachelor-Bereich jedoch leider inhärenten Abbrecherquote (durchschnittlich geschätzte Schwundquote in der Informatik an Fachhochschulen ist 39%), 
 
 ~~~
 cn: wo kommt diese Zahl her (durchschnittlich geschätzte Schwundquote in der Informatik an Fachhochschulen ist 39%)?
@@ -295,9 +295,9 @@ Im Masterstudium wirkt die sich die, im Rahmen der Reakkreditierung weggefallene
 
 ### Rückschlüsse aus informellen Gesprächen und Kommentaren
 
->  … anstrengend und fordernd, aber macht viel Spaß …
+>  … anstrengend und fordernd, aber macht viel Spaß … 
 
-Aus verschiedenen Einzel- und Gruppengesprächen im Team der Studiengangsbetreiber sowie mit Studierenden und Alumni, als auch aus Kommentaren aus Feedbackrunden und Online-Foren lassen sich eine Reihe von Stärken und Schwächen ableiten.
+Aus verschiedenen Einzel- und Gruppengesprächen im Team der Studiengangsbetreiber sowie mit Studierenden und Alumni, als auch aus Kommentaren aus Feedbackrunden und Online-Foren lassen sich eine Reihe von Stärken und Schwächen ableiten. 
 
 Der Studienaufbau des Bachelorstudiengangs wird überwiegend als positiv und gut durchdacht bewertet. Die Lehrveranstaltungen werden in Summe als gut organisiert und vorbereitet, interessant, aber auch als sehr sehr anspruchsvoll beschrieben. Der Umfang des Studiums wird zuweilen als "vom Umfang überwältigend" bezeichnet. Diese Einschätzung wird von Alumni jedoch dahingehend ergänzt, dass nach dem Einstieg ins Berufsleben die Wichtigkeit und Relevanz der einzelnen Module offenbar wurde und sie sich mit dem Studium sehr gut Beruf platzieren konnten und in bestimmten Berufszweigen sehr flexibel einsetzbar sind. Das Verhältnis der allgemeinen Informatik Anteile und der medieninformatik-spezifischen Module wird gut bewertet.
 
@@ -305,10 +305,10 @@ Durchweg sehr positiv wird die gute und intensive Betreuung durch das Lehrperson
 
 Auch sehr positiv wird die gute und moderne Ausstattung der Medieninformatik und der Bibliothek, als auch der recht ausgewogene quantitative Verhältnis von Frauen und Männern bewertet.
 
-Als problematisch wird, bezogen auf den Bachelorstudiengang, vor allem die starke Fragmentierung der Module sowie der zugehörigen Praxisanteile gesehen, so dass die Situation, vor allem im dritten Fachsemester, als "zu voll" oder mit "zu viele Baustellen" beschrieben wird. Dieses Problem wurde auch im Rahmen der Analysen zu Profil2 Antrag der Hochschule identifiziert [^profil2]. Derzeit wird dieser Problematik bereits mit der sequentiellen Anordnung einiger Module begegnet. Dabei werden zwei parallel laufende Module nacheinander, dafür aber mit halber Laufzeit und doppelter SWS Anzahl angeboten, so dass sich die Studierenden auf weniger Module zur gleichen Zeit konzentrieren können. Diese Herangehensweise wurde ebenfalls im Rahmen von Profil2 als Maßnahme vorgeschlagen[^profil2]. Viele Studierende wünschen sich die Möglichkeit der Fachvertiefung. Das Problem wird häufig mit "man kratzt alles nur an und dann kommt schon das nächste Thema" beschrieben. Gerade bei den Implementierungs-affinen Studierenden, aber auch bei den Lehrenden wird häufig der Wunsch nach mehr Unterstützung im Bereich Programmierung gennant. Dies gilt vor allem für komplexere und größere Projekte.
+Als problematisch wird, bezogen auf den Bachelorstudiengang, vor allem die starke Fragmentierung der Module sowie der zugehörigen Praxisanteile gesehen, so dass die Situation, vor allem im dritten Fachsemester, als "zu voll" oder mit "zu viele Baustellen" beschrieben wird. Dieses Problem wurde auch im Rahmen der Analysen zu Profil2 Antrag der Hochschule identifiziert [^profil2]. Derzeit wird dieser Problematik bereits mit der sequentiellen Anordnung einiger Module begegnet. Dabei werden zwei parallel laufende Module nacheinander, dafür aber mit halber Laufzeit und doppelter SWS Anzahl angeboten, so dass sich die Studierenden auf weniger Module zur gleichen Zeit konzentrieren können. Diese Herangehensweise wurde ebenfalls im Rahmen von Profil2 als Maßnahme vorgeschlagen[^profil2]. Viele Studierende wünschen sich die Möglichkeit der Fachvertiefung. Das Problem wird häufig mit "man kratzt alles nur an und dann kommt schon das nächste Thema" beschrieben. Gerade bei den Implementierungs-affinen Studierenden, aber auch bei den Lehrenden wird häufig der Wunsch nach mehr Unterstützung im Bereich Programmierung gennant. Dies gilt vor allem für komplexere und größere Projekte. 
 Derzeit fehlt im Bachelorprogramm ein Modul, dass die Studierenden auf die rechtlichen Fragestellung in der (Medien-)informatik vorbereitet. Dieses Defizit wurde in verschiedenen Feedbackrunden adressiert.
 
-Bezogen auf den Master wird immer wieder die fehlende oder unzureichende Praxisorientierung als Problem genannt. Auch hier fehlt den Studierenden die Möglichkeit zur Fachvertiefung entsprechend der persönlichen Neigung.
+Bezogen auf den Master wird immer wieder die fehlende oder unzureichende Praxisorientierung als Problem genannt. Auch hier fehlt den Studierenden die Möglichkeit zur Fachvertiefung entsprechend der persönlichen Neigung. 
 
 ### Ableitungen aus den Bewertungen der zur Verfügung stehenden Daten und Evaluationen
 
@@ -369,8 +369,23 @@ Somit lassen sich die folgenden Defizite im aktuellen Medieninformatik Master St
 # Soll-Zustand/ geplante Veränderungen
 
 ~~~
-cn: hier wäre noch ein kleines Präludium schön. Wie hat sich die MI in den letzten Jahren verändert und was sind strategische Ziele des Instituts (Computergrafik, Social Computing)
+cn: hier wäre noch ein kleines Präludium schön. Wie hat sich die MI in den letzten Jahren verändert.
 ~~~
+
+## Weiterentwicklung des Lehrportfolios des Institut für Informatik
+
+Die Informatik als wissenschaftliche Disziplin allgemein und auch das Institut für Informatik im Besonderen muss sich der Tatsache stellen, dass der technische und wissenschaftliche Fortschritt auf diesem Fachgebiet nach wie vor rasant ist. Dem versucht das Institut nicht nur durch stetige inhaltliche Weiterentwicklung seiner Studiengänge und Module gerecht zu werden, sondern hier werden auch neue, auf Nachhaltigkeit ausgerichtete Entwicklungen wahrgenommen und bei ausreichender Relevanz in die Überlegungen zur Weiterentwicklung des Angebots einbezogen.
+Eine solche – aus Sicht des Instituts für Informatik besonders interessante, spannende, wichtige und zukunftsträchtige – zeigt sich aktuell im Themenfeld Soziotechnischer Systeme. Folgende Bereiche sind hier exemplarisch zu nennen:
+- Assistenzsysteme für Tätigkeiten: sportliches Training, Navigation, Robotik (Staubsaugen, Lebensrettung, schwierige Umgebungen), Autofahren, Büro, Produktionsumgebungen
+- Assistenzsysteme für Bevölkerungsgruppen: alte Menschen, behinderte Menschen, Kinder , Menschen im Alltag
+- Kommunikationshilfen: Suchmaschinen, soziale Medien, Sprach-Ein- und Ausgabe, Blindenschrift-Displays und andere spezielle Formen der MCI
+
+In all diesen Bereichen zeichnet sich bereits heute eine große, künftig noch stark zunehmende Bedeutung von IT-Systemen ab, zu deren Funktionen nicht nur technisches Wissen, sondern auch Fach- und Methodenwissen aus unterschiedlichen Spezialgebieten innerhalb der Informatik benötigt wird. Um diesen neuen Entwicklungen gerecht zu werden, soll zunächst ein geringer Anteil der Kapazität für dieses neue Themenfeld zur Verfügung gestellt werden. Entsprechende Lehrveranstaltungen können und sollen dann zunächst in Form von Wahlpflichtfächern angeboten werden. Die entsprechenden Voraussetzung im Modulkatalog werden, sofern erforderlich, kurzfristig geschaffen. Pflichtfächer werden dadurch nicht beeinträchtigt.
+
+Das Themenfeld „IT für Menschen“ wird auf absehbare Zeit als attraktiv angesehen, sowohl für Forscher als auch für Unternehmen und nicht zuletzt vor allem auch für Studieninteressierte. Wegen der nicht nur technischen Ausrichtung ist aufgrund bisheriger Erfahrungen auch ein signifikanter Anteil weiblicher Studierender zu erwarten. Das Themenfeld bietet darüber hinaus viele Anknüpfungsmöglichkeiten an bereits vorhandene Kompetenzen: Datenbanken, Medieninformatik, Softwaretechnik, Ergonomie, MCI, Kommunikationstechnik, technische Spezialthemen, mobile Systeme und Anwendungen u. v. m.
+
+Die starke Durchdringung der Gesellschaft mit leistungsfähigen, zunehmend mobilen, mit umfangreicher Sensorik ausgestatteten Endgeräten, eröffnet auch hier teilweise völlig neue Fragestellungen und Möglichkeiten. In Kombinationen mit den alten und anderen neuen Schwerpunkten eröffnet der Studienbereich „IT für Menschen“ auch neues Forschungsfeld. Mittelfristiges Ziel ist es, hier ein neues Studienangebot zu realisieren, dass auch aus den vom Präsidium für solche Zwecke in Aussicht gestellten neuen Professuren gespeist wird und nicht zu Lasten vorhandener Ressourcen – weder in der Lehreinheit Informatik noch in der Lehreinheit Ingenieurwissenschaften – geht. Das benötigte Know-how ist zum großen Teil bereits vorhanden und soll durch Wahlpflichtangebote in diesem Bereich ergänzt werden.
+
 
 ## Geplante Veränderungen des Bachelor-Studiengangs gegenüber dem aktuellen Akkreditierungszeitraum
 
@@ -452,6 +467,13 @@ Da web-basierte Architekturen elementarer Bestandteil der Medieninformatik und d
 
 Im fünften Semester wurde das Modul "Medieninformatik und Gesellschaft" umgewidmet in "Medienrecht, Medien und Gesellschaft" um hier einen dedizierten Platz für rechtliche Themen innerhalb der Domäne im Curriculum zu verankern.
 
+## Auswirkungen auf die Lehrkapazität
+
+Die Änderungen im Bachelorstudienprogramm sind weitgehend kapazitätsneutral. Das von allen Informatikstudiengängen geteilte Modul "Betriebswirtschaftslehre 2" wurde durch des ebenfalls geteilte Modul "Paradigmen der Programmierung" ersetzt. Das Modul "Mensch-Computer Interaktion" wurde zwar von fünf auf zehn Creditpoints vergrößert, jedoch enthielt bislang das Modul "Entwicklungsprojekt Interaktive Systeme" fünf Creditpoints Praxisanteil "Mensch-Computer Interaktion" die nun direkt dem Modul zugeschlagen werden.
+
+Die Studierenden verteilen sich über die Vertiefungsmodule, in die auch bisherige Wahlpflichtmodule integriert wurden. Somit reduziert sich hier in Summe die Lehrbelastung. Durch die resultierende Reduktion ist es möglich das Modul "Web-Architekturen" kapazitätsneutral anzubieten. Das "Entwicklungsprojekt" im fünften Semester ist zukünftig nicht mehr an nur zwei Lehrende gebunden, sondern kann von allen Lehrenden der Informatik betreut werden. Dadurch verteilt sich die Lehrbelastung.
+
+Lediglich das Vertiefungsmodul "Social Computing" ist nicht kapazitätsneutral, hier wurde jedoch zusätzliche Kapazität aufgebaut.
 
 
 
@@ -773,6 +795,9 @@ cn: irgendwo würde ich gern was zur Haltung schreiben
 cn: hier bitte die Studiengänge nur beschreiben, also bitte nicht mehr auf veränderungen eingehen, so dass wir diese Texte später weiter benutzen können. Alle Veränderungen bitte im Kapitel "Qualifikationsziele" verankern.
 ~~~
 
+## Zielgruppe
+Das Studienangebot richtet sich primär an Studierende des deutschsprachigen Raumes. Ausländische Studienbewerber werden durch ein etabliertes, durch das Sekretariat für internationale Studierende betreutes Verfahren nach Nachweis der Kenntnisse der deutschen Sprache aufgenommen.
+
 ## Studienphasen
 
 {% include image.html url="bilder/ba-studienphasen.svg" caption="Abbildung: Studienphasen des Bachelorstudiengangs Medieninformatik" %}
@@ -847,25 +872,31 @@ cn: Grafiken nicht vergessen!
 >
 >-   Ggf. weitere einschlägige Ergebnisse interner Befragungen und Evaluationen (auch Auffälligkeiten hinsichtlich der Wirkung von ggf. vorhandenen Maßnahmen zur Vermeidung von Ungleichbehandlungen in der Hochschule)
 
-1.3 Zugangs- und Zulassungsvoraussetzungen 1.3.1 Bachelor: Zugangsvoraussetzungen
-Als Voraussetzung für die Aufnahme eines Bachelorstudiums der Allgemeinen Informatik, der Technischen Informatik und der Wirtschaftsinformatik wird die Fachhochschulreife oder eine als gleichwertig anerkannte Vorbildung gefordert.
-1.3.1.1 Self-Assessment
-Die Fakultät 10 der FH Köln hat im vergangenen Jahr mit sehr gutem Erfolg ein Self- Assessment für Studienbewerber in den ingenieurwissenschaftlichen Studiengängen einge- führt6. Das Durchlaufen dieses Self-Assessment, das mit einem Feedback an den Studien- bewerber in Bezug auf Neigung und Eignung abgeschlossen wird, ist eine Zulassungsvo- raussetzung, es stellt jedoch keine Barriere im Sinne einer Eingangsprüfung dar. Das Self- Assessment wurde basierend auf einem an der RWTH Aachen konzipierten System entwi- ckelt und wurde von den Studierenden sehr gut angenommen.
-Es ist vorgesehen, das Self-Assessment mit Beginn WS2012/13 auch auf die Informatikstu- diengänge auszudehnen.
-1.3.2 Master: Zulassungsvoraussetzungen
-Als Voraussetzung für die Aufnahme des Masterstudiums wird ein Bachelor oder Diplom- Abschluss einer deutschen Fachhochschule oder Universität in Informatik (auch in einer verwandten Ausrichtung wie etwa Technische Informatik, Wirtschaftsinformatik, Medienin- formatik, Bioinformatik etc.) oder ein gleichwertiger Abschluss (auch aus dem Ausland) mit einer Abschlussnote von 2,5 oder besser gefordert. Die Bedingungen der Konsekutivität werden in der Prüfungsordnung beschrieben. Liegt ein anderer Hochschulabschluss vor, so können die Voraussetzungen für das Studium durch eine Aufnahmeprüfung oder eine ein- schlägige qualifizierte Berufstätigkeit von mindestens zwei Jahren nachgewiesen werden. Als bilingualer Studiengang (deutsch/englisch) sind entsprechende Sprachkompetenzen nachzuweisen. Liegt nur der Nachweis deutscher Sprachkompetenz vor, ist ein Studium mit Schwerpunkt Software Engineering mit der Beschränkung auf die deutschsprachigen Modu- le möglich. Liegt nur der Nachweis englischer Sprachkompetenz vor, ist ein Studium mit Schwerpunkt Wirtschaftsinformatik mit der Beschränkung auf die englischsprachigen Modu- le möglich. Die Studienbewerber werden vor der Einschränkung detailliert über die Sprach- bedingungen informiert. Der Nachweis der zweiten Sprachkompetenz während des Studi- ums ist optional möglich und erweitert gegebenenfalls den Katalog wählbarer Fächer.
-Eine vom Prüfungsausschuss benannte Kommission der Fakultät für Informatik und Ingeni- eurwissenschaften ist für die Durchführung der Aufnahmeprüfung verantwortlich. Weitere Einzelheiten des Verfahrens werden in der Prüfungsordnung beschrieben (s. beiliegender Entwurf).
-1.3.3 Übergänge zum / vom herkömmlichen Qualifizierungssystem
-Der Masterstudiengang steht allen Absolventinnen und Absolventen von Informatik Studien- gängen, auch den Absolventinnen und Absolventen von Diplomstudiengängen offen. Es gelten die entsprechenden Bestimmungen aus Kap. 1.3.2. Zudem sind englische oder deut- sche Sprachnachweise notwendig, die von dem gewählten Masterschwerpunkt abhängen. Einzelheiten dazu werden in der Prüfungsordnung geregelt.
-1.3.4 Maßnahmen zum Defizitausgleich von Eingangsqualifikationen
-1.3.4.1 Bachelor
-Es gibt ein Tutorenprogramm der Mathematik zu Beginn jeden Wintersemesters. Durch Kombination aus Vorlesung und von Tutoren begleiteten Übungen werden die oftmals sehr unterschiedlichen Voraussetzungen der Studienanfänger in einem 2-wöchigen Kursus an- geglichen. Auf dem Webportal des Vorkurses (www.gm.fh-koeln.de/mathevorkurs), das durch Studierende unter Betreuung von Prof. Konen neu aufgebaut wurde, findet u.a. eine regelmäßige Evaluierung durch die studentischen Teilnehmer statt, die zu durchweg positi- ven Bewertungen führte. Ebenfalls wird begleitend zur Vorlesung Mathematik 1 + 2 ein Tuto- rium durch Studierende angeboten.
-In den vergangenen Jahren wurde im Rahmen des NRW-weiten MATRIXX-Projektes (www.matrixx.nrw.de) das eLearning-Angebote für "Mathematik in der Informatik" aufgebaut. Die Steigerung der dort verfügbaren Angebote, gerade auch unter Beteiligung studentischer Tutoren, gehört zu den Maßnahmen, die im Rahmen des QdL-Programms (Qualität der Leh- re) gefördert werden.
-Ähnlich wie in der Mathematik hat sich in den letzten Jahren ein Tutorium im Bereich Algo- rithmen und Programmierung etabliert. Eine Arbeitsgruppe von 4 studentischen Hilfskräften in höheren Semestern, die die Klausur in Algorithmen und Programmierung mindestens mit der Note 2.0 bestanden haben, kümmert sich um die Studierenden in diesem Bereich. Hier- zu gibt es 2 Termine pro Woche, in denen zusammen mit den Studierenden Programmier- aufgaben bearbeitet werden. Diese beziehen sich auf den aktuellen Stoff der Vorlesung und des Praktikums. Ziel des Tutoriums ist vor allen Dingen, potenzielle Unterschiede im Kennt- nisstand der Studierenden auszugleichen.
-1.3.4.2 Master
-Zusätzlich zu den im Master angebotenen Brückenkursen zu den Themen der Mathematik werden zukünftig mit den Studienanfänger Beratungsgespräche durchgeführt, um Empfeh- lungen zum Ausgleich von Defiziten durchgeführt, dokumentiert und regelmäßig mit den Studierenden besprochen. Die Wahlkataloge des Curriculums sollten insbesondere auf den Abbau vorhandener Lücken ausgenutzt werden, sofern ausreichende Sprachkompetenz vorliegt.
-Bei nicht-konsekutiven Studiengängen kann die Zulassung unter Auflagen zur Beseitigung von Defiziten erfolgen. Entsprechende Details regelt die Prüfungsordnung.
+## Bachelor Medieninformatik
 
+### Zugangsvoraussetzungen
+Als Voraussetzung für die Aufnahme eines Bachelorstudiums Medieninformatik wird die Fachhochschulreife oder eine als gleichwertig anerkannte Vorbildung gefordert. Für die nächste Einschreibephase wurde darüber hinaus eine Zulassungsbeschränkung für alle Informatik Bachelorstudiengänge vereinbart.
+
+~~~
+cn: wie wird das denn korrekt formuliert?
+~~~
+
+### Allgemeine/fachgebundene Hochschulreife, Fachhochschulreife, einschlägige Berufserfahrung
+Voraussetzung für den Zugang zum Bachelorstudium ist die Fachhochschulreife oder eine als gleichwertig anerkannte Vorbildung.
+
+### Praktika/Berufserfahrung
+keine
+
+### Fremdsprachenkenntnisse, Deutschkenntnisse
+Fremdsprachenkenntnisse, die über das Maß der durch den schulischen Abschluss gegebenen Fremdsprachenkenntnisse hinausgehen, sind nicht gefordert. Die Deutschkenntnisse ausländischer Studierender werden i.d.R. durch Ablegen der Deutschen Sprachprüfung für den Hochschulzugang (DSH II) oder eine äquivalente Prüfung nachgewiesen; für nähere Informationen sowie Einzelfallregelungen ist das International Office der FH Köln zuständig[^int-office].
+
+### Eignungsfeststellung
+Keine
+
+## Master Medieninformatik
+
+Als Voraussetzung für die Aufnahme des Studiums wird ein Bachelor oder Diplom- Abschluss einer deutschen Fachhochschule oder Universität in Informatik oder ein gleichwertiger Abschluss gefordert.
+Liegt ein anderer Hochschulabschluss vor, so können die Voraussetzungen für das Studium auch durch eine einschlägige Berufspraxis von in der Regel mindestens zwei Jahren in einem für die Medieninformatik relevanten Tätigkeitsfeld erbracht werden. Bei Vorliegen eines anderen Hochschulabschlusses als oben festgelegt, müssen durch die Berufspraxis Qualifikationen in Informatik erworben worden sein, die den Qualifikationen eines Bachelorabsolventen in Informatik äquivalent sind. Eine vom Prüfungsausschuss benannte Kommission, bestehend aus zwei Professoren oder Professorinnen der Fakultät für Informatik und Ingenieurwissenschaften, entscheidet, ob bei dem Bewerber oder der Bewerberin die für die Aufnahme des Studiums notwendigen fachlichen Qualifikationen vorliegen.
 
 ## Struktur
 Im Anhang K sind die Studienverlaufspläne der einzelnen Studiengänge enthalten, für die eine Akkreditierung beantragt wird. Das Studium umfasst im Bachelor jeweils insgesamt 180 ECTS Punkte und 144 Semesterwochenstunden Semesterwochenstunden. Dies entspricht durchschnittlich 24 SWS je Semester. Die Inhalte der Module sind in dem entsprechenden Modulhandbuch dargestellt.
@@ -876,12 +907,13 @@ Das Masterstudium umfasst 120 ECTS Punkte bei 48 SWS Präsenzzeit, was einer dur
 
 Die Bachelor- und Masterstudiengänge sind durchgängig mit 30 ECTS-Punkten im Semester durchkalkuliert, was einer Arbeitslast von 900 Stunden pro Semester entspricht. Wenn man ein Semester mit 24 Wochen veranschlagt, wobei die Prüfungszeit und Prüfungsvorbereitung mitgerechnet ist, ergibt sich eine Wochenarbeitszeit von 900 h / 24 = 37,5 Stunden. Eine Veranstaltung mit 5 Creditpoints und 4 SWS, 2 SWS Vorlesung + S SWS übung hat in der Regel einen Arbeitsaufwand von 5 x 30 = 150 Stunden. Bei durchschnittlich 18 Semesterwochen entspricht dies einem Anteil von 2 h x 18 = 36 Stunden Vorlesung, 2 h x 18 = 36 Stunden übung, also 72 Stunden Präsenzanteil und 78 Stunden Selbststudium inklusive Klausurvorbereitung und Nachbereitung der Präsenzanteile. Dies entspricht in etwa einer Aufteilung der Gesamtzeit in 50% für Präsenzstudium und in 50 % für Selbststudium.
 
+
 Die Lehrveranstaltungen des Masterstudiengangs sind mit 6 Creditpoints ausgestattet, was bei einem Modul mit 4 SWS einem Verhältnis von 40% für Präsenzstudium und 60 % für Selbststudium entspricht. 
 
 
 ## Leistungspunktesystem
 
-Die Module der beantragten Studiengänge werden mit Creditpoints bewertet, um europaweite Vergleichbarkeit gemäß den Bologna-Richtlinien zu ermöglichen.
+Die Module der beantragten Studiengänge werden mit ECTS-Punkten bewertet, um europaweite Vergleichbarkeit gemäß den Bologna-Richtlinien zu ermöglichen.
 
 ## Prüfungen
 
@@ -891,12 +923,14 @@ Im Masterstudium ist der Schwerpunkt der Prüfungsformen in Richtung mündlicher
 
 ## Studien/Prüfungsordnungen
 
-Die Studien- und Prüfungsordnungen der beantragten Studiengänge sind dem Anhang dieses Berichts beigefügt. Der Studienverlaufsplan entspricht der Studienordnung.
+Die Studien- und Prüfungsordnungen[^pruefungsordnungen-online] der laufenden Studiengänge sind dem Anhang dieses Berichts beigefügt. Sie sind außerdem über die Website der Hochschule abrufbar. Der Studienverlaufsplan entspricht der Studienordnung. Nach Zustimmung der Gutachter zu den in den erläuterten Änderungen im Rahmen der Reakkreditierung werden die überarbeiteten Prüfungsordnungen, bzw. Studienverlaufspläne zeitnah vorgelegt.
 
+## Diploma Supplement
+Das Diploma Supplement der zur Reakkrediterung beantragten Studiengänge ist im Anhang des Dokuments zu finden.
 
 ## Maßnahmen zur Beratung von Studieninteressierten und Studierenden
 
-Die Medieninformatik beteiligt sich ferner jährlich an folgenden Veranstaltungen zur Beratung von Studieninteressierten:
+Die Medieninformatik beteiligt sich an folgenden Veranstaltungen zur Beratung von Studieninteressierten:
 
 Regelmäßig wird im Mai ein „Schnupperstudium“ durchgeführt, an dem rund 150 Schüler, teilweise mit ihren Lehrern teilnehmen, um die Fachhochschule kennen zu lernen.
 
@@ -909,10 +943,13 @@ Dazu kommen Laborführungen für Schülergruppen verschiedener Schulen sowie die
 - dem „Tag der Offenen Tür" des Berufskollegs Dieringhausen (Gummersbach),der „Weiterbildungsmesse Oberberg",
 - sowie die Teilnahme an anderen, unregelmäßig durchgeführten Veranstaltungen zur Studien- und Berufswahl.
 
-Im Rahmen des bundesweiten Informatikjahres wurde am Campus Gummersbach ein „Tag der Informatik" für Studieninteressierte und eine „Informatik Sommerakademie für Schülerinnen (ISAS)" durchgeführt. Studierende und Dozenten gaben Einblicke in die Informatik-Welt und die Studieninteressierten konnten in verschiedenen Workshops und Selbsteinschätzungstests ihre Eignung und ihr Interesse für die Informatik live testen. Mit über 100 Studieninteressierten war die Beteiligung sehr erfreulich, und die Veranstaltungen stießen auf ein positives Echo.
-Das Institut für Informatik beteiligt sich jährlich am „Tag der offenen Tür“ der TH-Köln im September und an Informationsveranstaltungen der umliegenden Gymnasien und anderer weiterführender Schulen, die potenzielle Studienanfängerinnen und Studienanfänger an die Qualifizierung für ein Hochschulstudium heranführen.
-Alle diese Angebote werden sehr gut aufgenommen und sind stark frequentiert.
+Das Institut für Informatik beteiligt sich jährlich am „Tag der offenen Tür“ der TH-Köln im September und an Informationsveranstaltungen der umliegenden Gymnasien und anderer weiterführender Schulen, die potenzielle Studienanfängerinnen und Studienanfänger an die Qualifizierung für ein Hochschulstudium heranführen. Alle diese Angebote werden sehr gut aufgenommen und sind stark frequentiert.
 
+Darüber hinaus bietet die Medieninformatik einige Veranstaltungen (siehe außercurriculare Maßnahmen) wie den jährlichen Showcase an, um hier auch eine Plattform für Studieninteressierte zu schaffen. Diese Angebote werden gut angenommen.  
+
+
+[^int-office]: International Office fehlt
+[^pruefungsordnungen-online]: Link zur online Prüfungsordnung fehlt
 
 # Prüfungssystem
 
@@ -1643,73 +1680,3 @@ und zur Maßnahmenbildung im Rahmen der Ziele der Hochschul- und Fakultätsentwi
 Die geplanten Veränderungen stehen in völliger Übereinstimmung mit den Plänen der Hochschule und der Fakultät und sind geeignet, die Erreichung der entsprechenden Ziele nachhaltig zu unterstützen.
 
 
-
-
-# Veränderungen des Studienprogramms
-
-## Veränderungen des Bachelorstudienprogramms
-
-Die im Folgenden dargestellten geplanten Veränderungen des Bachelorstudienprogramms dienen zur Beseitigung erkannter Schwächen
-
-- Verbesserung der Studierbarkeit und Verringerung der Studiendauer (Überschreitung der Regelstudienzeiten)
-- Größere praxisund projektorientierte Ausrichtung
-- Größere internationale Ausrichtung
-- Defragmentierung von Modulen und projektorientierten Praxisanteilen und zur Maßnahmenbildung im Rahmen der Ziele der Hochschul- und Fakultätsentwicklungspläne
-- Integrierte Programme und Maßnahmen, die sich gegenseitig verstärken
-- Profil stärken, Alleinstellungsmerkmale entwickeln und Attraktivität erhöhen
-- Internationalität stärken
-- Übergang ins Berufsleben und Kooperation mit Unternehmen durch stärkere Projektorientierung verbessern
-
-
-## Geplante Veränderungen Bachelor
-
-Geplant ist eine bessere Berücksichtigung der Lernaufwände in den einzelnen Modulen. Nach einer Überprüfung der Aufwände wurden in vielen Modulen bereits Anpassungen der Lehrformate, des Projektanteils und der Prüfungsformen vorgenommen. Veranstaltungen aus einem Themenbereich werden zukünftig möglichst in einem Semester zusammengefasst um damit häufige Perspektivund Themenwechsel zu vermeiden und Praxisanteile zusammenfassen zu können. Damit kann wird auch eine sinnvollere Staffelung der projektbasierten Praxisanteile möglich, so dass die Studierenden besser auf das 10-Creditpoint Projekt im fünften Semester vorbereitet sind. Dieses Projekt kann zukünftig thematisch stärker durch die Studierenden bestimmt werden. Hiermit ist zum einen eine bessere Möglichkeit zur Vertiefung gegeben und zum anderen kann dadurch schon der Weg ins Abschluss Semester thematisch vorbereitet werden. Über neue Wahlmöglichkeiten, können die Studierenden, entsprechend ihrer Neigung, zukünftig besser eigene Qualifizierungsschwerpunkte setzen.
-
-Das im fünften Semester fast ausschließlich projektbasierte Studium eröffnet zudem die Möglichkeit, ein Semester im Ausland zu verbringen, dort zu arbeiten oder an einer ausländischen Hochschule Projekte zu bearbeiten. Insofern wird dem zunehmenden Anspruch an eine größere internationale Ausrichtung des Studiengangs auf flexible Art und Weise entsprochen.
-
-Einige inhaltliche Veränderungen am Zuschnitt der Module dienen der stärkeren Orientierung auf das Berufsfeld der Absolventen. Insbesondere interkulturelle Teamkompetenz, Projektmanagement, soziale Kompetenz und auch die Vorbereitung auf Führungsaufgaben wird verstärkt. Dies soll vor allem durch Integration der entsprechenden Wissensmodule in die fachlichen Module erreicht werden.
-
-## Synergien innerhalb der Informatik Bachelor Studiengänge
-
-Im Zuge der Vorbesprechungen zur Reakkreditierung wurden und werden derzeit Gespräche mit den Studiengangsmanagern aller Informatik Studiengänge der Fakultät 10 und im Institut für Informatik geführt. Das Ziel ist, den organisatorischen Rahmen der Bachelor Studiengänge möglichst gleich zu gestalten um nach wie vor innerhalb einer gemeinsamen Prüfungsordnung agieren zu können und Synergien weiterhin nutzbar zu machen.
-
-## Veränderungen des Masterstudienprogramms
-
-Die im Folgenden dargestellten geplanten Veränderungen des Masterstudienprogramms dienen zur Beseitigung erkannter Schwächen
-
-- Fehlende Profilschärfung und Praxisbezug
-- Geringer Anteil an projektbasierter Lehre
-- Geringe internationale Ausrichtung
-
-und zur Maßnahmenbildung im Rahmen der Ziele der Hochschul- und Fakultätsentwicklungspläne wie sie bereits oben beim Bachelorstudienprogramm dargestellt wurden.
-
-## Geplante Veränderungen Master
-
-Der Studiengang erhält Vertiefungsrichtungen. Es werden Wahlkataloge im Umfang von 24 Creditpoints angeboten. Je nach Neigung kann durch entsprechende Auswahl von Modulen ein spezieller Teilbereich der Medieninformatik studiert werden. Zugleich ergeben sich weitere Synergieeffekte mit dem auch vom Institut für Informatik angebotenen Master „Informatik“ mit den beiden Studienrichtungen „Software Engineering“ und „Information Systems“. Diese Maßnahme wirkt auch langfristig hinsichtlich des zu erwartenden Anstiegs der Bewerbernachfrage für dieses Studienangebot aus. Zugleich werden die Studierenden besser auf die Aufgaben in der Praxis vorbereitet.
-
-Der Projektanteil wird von 10 Creditpoints auf 36 Creditpoints erhöht und auf alle Studiensemester verteilt, sodass der Übergang ins Berufsleben und die Kooperation mit Unternehmen verbessert werden können. Zu der praktischen Projektarbeit gesellen sich jeweils fachlicher Anteile. z.B. in Form von seminaristischenoder Vorlesungsanteilen. Die Mitarbeit der Studierenden in Projekten trägt überdies zum Ausbau der Forschungsaktivitäten der Fakultät bei. Außerdem bietet sich das dritte Semester mit seiner fast ausschließlichen Projektorientierung für einen Forschungsaufenthalt im Ausland an.
-
-Der Anteil der Pflicht-Lehrveranstaltungen sinkt von 75 Creditpoints auf 18 Creditpoints. Diese werden auf das erste und zweite Semester konzentriert und teilweise in Form von Wahlkatalogen angeboten. Das Verhältnis von Präsenzanteil zu Arbeitsaufwand wird reduziert, sodass für die Studierenden mehr Zeit für Ausarbeitungen, Referate und Literaturstudium bleibt und einer Verschulung des Masterstudiums entgegen wirkt. Zu diesem Zweck werden alle Module mit 6 Creditpoints statt bisher mit 5 Creditpoints ausgestattet.
-
-Einige inhaltliche Veränderungen am Zuschnitt der Module dienen der stärkeren Orientierung auf das Berufsfeld der Masterabsolventen. Insbesondere die Vorbereitung auf Führungsaufgaben wird durch ein neu eingeführtes Pflichtmodul von 6 Creditpoints deutlich verstärkt. Die geplanten Veränderungen stehen in völliger Übereinstimmung mit den Plänen der Hochschule und der Fakultät und sind geeignet, die Erreichung der entsprechenden Ziele nachhaltig zu unterstützen.
-
-## Synergien innerhalb der Informatik Master Studiengänge
-
-Auch hier wurden intensive Gespräche mit den Studiengangsmanagern aller Informatik Studiengänge der Fakultät 10 und im Institut für Informatik geführt. Zwar lässt sich in den Masterstudiengänge wahrscheinlich keine gemeinsame Prüfungsordnung installieren, dennoch wurden einige Maßnahmen verabschiedet, um mehr Synergien zwischen Studienangeboten nutzbar zu machen. Vor allem die einheitliche Modulgröße von 6 Creditpoints und der einheitliche Zuschnitt der Projekte erhöhen das synergetische Potential signifikant.
-
-## Übergreifende Ausrichtung
-
-Bewusst wird in den Studiengängen der Medieninformatik auf eine Annäherung an das medientechnikbezogene Angebot der Fakultät 7 vermieden und stattdessen eine Profilierung und Abgrenzung durch die Fokussierung auf die Informatik-Anteile und die verstärkte Projektorientierung, im Master auch höhere Forschungsorientierung, erreicht.
-
-
-# Vereinbarkeit mit der Fakultätsplanung
-
-Die Vereinbarkeit der Reakkreditierung und Fortführung der beiden Studiengänge kann nur im Rahmen der insgesamt von der Lehreinheit Informatik angebotenen Bachelorund Master-Studiengänge begründet werden. Im Anhang D findet sich die auf einer Zusammenstellung der von der Lehreinheit angebotenen Module und den Kapazitäts-Rahmendaten basierende aktuelle Kapazitätsberechnung der Lehreinheit Informatik. Lehrimporte und Lehrexporte sind dabei ebenso berücksichtigt wie die erteilten Lehraufträge. Es handelt sich dabei um eine Fortschreibung der im Wintersemester 11/12 anlässlich der Akkreditierung der weiteren von der Lehreinheit erbrachten BA/MA-Studiengänge aufgestellten Kapazitätsberechnung hinsichtlich der seitdem vorgenommenen unwesentlichen Änderungen der Module und Studienverlaufspläne sowie der aktuellen Studierendenzahlen. Eine auf der aktuellen Kapazitätslage fußende Berechnung wird nachgereicht.
-
-Der Vergleich der Kennzahlen in Anhang D zeigt, dass die Kapazitäten des Instituts für Informatik gut den Erfordernissen der angebotenen Studiengänge entsprechen. Die verhältnismäßige Aufteilung zwischen Bachelor und Master errechnet sich als 1/5 zu 4/5 oder prozentual als 18,2% zu 81,8%. Dabei sind zu 10% bzw. 5% Leistungen von Lehrbeauftragen berücksichtigt, wie sie auch bisher aufgebracht werden. Synergie-
-effekte zwischen den Bachelorstudiengängen der Informatik sorgen dafür, dass wesentliche Pflichtveranstaltungen in gewohntem Maß durchgeführt werden können und genügend Kapazität für studiengangsspezifische Veranstaltungen sowohl im Bachelor als auch im Master verbleibt. Insgesamt stellt sich die kapazitive Situation des Instituts für Informatik den zukünftigen Erfordernissen entsprechend mit 102,8% als Verhältnis zwischen planmäßigem und anvisiertem Potential als angemessen dar.
-
-
-# Zusammenfassung
-
-Zusammengefasst stellen sich die beiden vom Institut für Informatik der Fakultät 10 getragenen Studiengänge Medieninformatik Bachelor und Medieninformatik Master gemäß der vorliegenden Daten und Erfahrungen als ein, sowohl hinsichtlich der Nachfrage der Studierenden und des Lehr-Portfolios der Fakultät 10 und auch hinsichtlich des Bedarfs der regionalen und überregionalen Industrie, hervorragend aufgestelltes und etabliertes Lehrangebot der TH Köln dar.
