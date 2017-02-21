@@ -1,9 +1,9 @@
 ---
 title: Studierbarkeit
-aktueller-bearbeiter: 
+aktueller-bearbeiter: Christian Noss
 bearbeiterhistorie: Christian Noss
 date: 18.02.2017
-comment: von Informatik übernommen, Prüfungen müssen nachgezählt werden, da muss auch noch mal rein geschaut werden-
+comment: von Informatik übernommen, Prüfungen müssen nachgezählt werden, da muss auch noch mal rein geschaut werden, Zugangsvoraussetzungen Master fehlen
 status: nicht fertig
 reviewed-von:
 ---
@@ -59,25 +59,31 @@ reviewed-von:
 >
 >-   Ggf. weitere einschlägige Ergebnisse interner Befragungen und Evaluationen (auch Auffälligkeiten hinsichtlich der Wirkung von ggf. vorhandenen Maßnahmen zur Vermeidung von Ungleichbehandlungen in der Hochschule)
 
-1.3 Zugangs- und Zulassungsvoraussetzungen 1.3.1 Bachelor: Zugangsvoraussetzungen
-Als Voraussetzung für die Aufnahme eines Bachelorstudiums der Allgemeinen Informatik, der Technischen Informatik und der Wirtschaftsinformatik wird die Fachhochschulreife oder eine als gleichwertig anerkannte Vorbildung gefordert.
-1.3.1.1 Self-Assessment
-Die Fakultät 10 der FH Köln hat im vergangenen Jahr mit sehr gutem Erfolg ein Self- Assessment für Studienbewerber in den ingenieurwissenschaftlichen Studiengängen einge- führt6. Das Durchlaufen dieses Self-Assessment, das mit einem Feedback an den Studien- bewerber in Bezug auf Neigung und Eignung abgeschlossen wird, ist eine Zulassungsvo- raussetzung, es stellt jedoch keine Barriere im Sinne einer Eingangsprüfung dar. Das Self- Assessment wurde basierend auf einem an der RWTH Aachen konzipierten System entwi- ckelt und wurde von den Studierenden sehr gut angenommen.
-Es ist vorgesehen, das Self-Assessment mit Beginn WS2012/13 auch auf die Informatikstu- diengänge auszudehnen.
-1.3.2 Master: Zulassungsvoraussetzungen
-Als Voraussetzung für die Aufnahme des Masterstudiums wird ein Bachelor oder Diplom- Abschluss einer deutschen Fachhochschule oder Universität in Informatik (auch in einer verwandten Ausrichtung wie etwa Technische Informatik, Wirtschaftsinformatik, Medienin- formatik, Bioinformatik etc.) oder ein gleichwertiger Abschluss (auch aus dem Ausland) mit einer Abschlussnote von 2,5 oder besser gefordert. Die Bedingungen der Konsekutivität werden in der Prüfungsordnung beschrieben. Liegt ein anderer Hochschulabschluss vor, so können die Voraussetzungen für das Studium durch eine Aufnahmeprüfung oder eine ein- schlägige qualifizierte Berufstätigkeit von mindestens zwei Jahren nachgewiesen werden. Als bilingualer Studiengang (deutsch/englisch) sind entsprechende Sprachkompetenzen nachzuweisen. Liegt nur der Nachweis deutscher Sprachkompetenz vor, ist ein Studium mit Schwerpunkt Software Engineering mit der Beschränkung auf die deutschsprachigen Modu- le möglich. Liegt nur der Nachweis englischer Sprachkompetenz vor, ist ein Studium mit Schwerpunkt Wirtschaftsinformatik mit der Beschränkung auf die englischsprachigen Modu- le möglich. Die Studienbewerber werden vor der Einschränkung detailliert über die Sprach- bedingungen informiert. Der Nachweis der zweiten Sprachkompetenz während des Studi- ums ist optional möglich und erweitert gegebenenfalls den Katalog wählbarer Fächer.
-Eine vom Prüfungsausschuss benannte Kommission der Fakultät für Informatik und Ingeni- eurwissenschaften ist für die Durchführung der Aufnahmeprüfung verantwortlich. Weitere Einzelheiten des Verfahrens werden in der Prüfungsordnung beschrieben (s. beiliegender Entwurf).
-1.3.3 Übergänge zum / vom herkömmlichen Qualifizierungssystem
-Der Masterstudiengang steht allen Absolventinnen und Absolventen von Informatik Studien- gängen, auch den Absolventinnen und Absolventen von Diplomstudiengängen offen. Es gelten die entsprechenden Bestimmungen aus Kap. 1.3.2. Zudem sind englische oder deut- sche Sprachnachweise notwendig, die von dem gewählten Masterschwerpunkt abhängen. Einzelheiten dazu werden in der Prüfungsordnung geregelt.
-1.3.4 Maßnahmen zum Defizitausgleich von Eingangsqualifikationen
-1.3.4.1 Bachelor
-Es gibt ein Tutorenprogramm der Mathematik zu Beginn jeden Wintersemesters. Durch Kombination aus Vorlesung und von Tutoren begleiteten Übungen werden die oftmals sehr unterschiedlichen Voraussetzungen der Studienanfänger in einem 2-wöchigen Kursus an- geglichen. Auf dem Webportal des Vorkurses (www.gm.fh-koeln.de/mathevorkurs), das durch Studierende unter Betreuung von Prof. Konen neu aufgebaut wurde, findet u.a. eine regelmäßige Evaluierung durch die studentischen Teilnehmer statt, die zu durchweg positi- ven Bewertungen führte. Ebenfalls wird begleitend zur Vorlesung Mathematik 1 + 2 ein Tuto- rium durch Studierende angeboten.
-In den vergangenen Jahren wurde im Rahmen des NRW-weiten MATRIXX-Projektes (www.matrixx.nrw.de) das eLearning-Angebote für "Mathematik in der Informatik" aufgebaut. Die Steigerung der dort verfügbaren Angebote, gerade auch unter Beteiligung studentischer Tutoren, gehört zu den Maßnahmen, die im Rahmen des QdL-Programms (Qualität der Leh- re) gefördert werden.
-Ähnlich wie in der Mathematik hat sich in den letzten Jahren ein Tutorium im Bereich Algo- rithmen und Programmierung etabliert. Eine Arbeitsgruppe von 4 studentischen Hilfskräften in höheren Semestern, die die Klausur in Algorithmen und Programmierung mindestens mit der Note 2.0 bestanden haben, kümmert sich um die Studierenden in diesem Bereich. Hier- zu gibt es 2 Termine pro Woche, in denen zusammen mit den Studierenden Programmier- aufgaben bearbeitet werden. Diese beziehen sich auf den aktuellen Stoff der Vorlesung und des Praktikums. Ziel des Tutoriums ist vor allen Dingen, potenzielle Unterschiede im Kennt- nisstand der Studierenden auszugleichen.
-1.3.4.2 Master
-Zusätzlich zu den im Master angebotenen Brückenkursen zu den Themen der Mathematik werden zukünftig mit den Studienanfänger Beratungsgespräche durchgeführt, um Empfeh- lungen zum Ausgleich von Defiziten durchgeführt, dokumentiert und regelmäßig mit den Studierenden besprochen. Die Wahlkataloge des Curriculums sollten insbesondere auf den Abbau vorhandener Lücken ausgenutzt werden, sofern ausreichende Sprachkompetenz vorliegt.
-Bei nicht-konsekutiven Studiengängen kann die Zulassung unter Auflagen zur Beseitigung von Defiziten erfolgen. Entsprechende Details regelt die Prüfungsordnung.
+## Bachelor Medieninformatik
 
+### Zugangsvoraussetzungen
+Als Voraussetzung für die Aufnahme eines Bachelorstudiums Medieninformatik wird die Fachhochschulreife oder eine als gleichwertig anerkannte Vorbildung gefordert. Für die nächste Einschreibephase wurde darüber hinaus eine Zulassungsbeschränkung für alle Informatik Bachelorstudiengänge vereinbart.
+
+~~~
+cn: wie wird das denn korrekt formuliert?
+~~~
+
+### Allgemeine/fachgebundene Hochschulreife, Fachhochschulreife, einschlägige Berufserfahrung
+Voraussetzung für den Zugang zum Bachelorstudium ist die Fachhochschulreife oder eine als gleichwertig anerkannte Vorbildung.
+
+### Praktika/Berufserfahrung
+keine
+
+### Fremdsprachenkenntnisse, Deutschkenntnisse
+Fremdsprachenkenntnisse, die über das Maß der durch den schulischen Abschluss gegebenen Fremdsprachenkenntnisse hinausgehen, sind nicht gefordert. Die Deutschkenntnisse ausländischer Studierender werden i.d.R. durch Ablegen der Deutschen Sprachprüfung für den Hochschulzugang (DSH II) oder eine äquivalente Prüfung nachgewiesen; für nähere Informationen sowie Einzelfallregelungen ist das International Office der FH Köln zuständig[^int-office].
+
+### Eignungsfeststellung
+Keine
+
+## Master Medieninformatik
+
+Als Voraussetzung für die Aufnahme des Studiums wird ein Bachelor oder Diplom- Abschluss einer deutschen Fachhochschule oder Universität in Informatik oder ein gleichwertiger Abschluss gefordert.
+Liegt ein anderer Hochschulabschluss vor, so können die Voraussetzungen für das Studium auch durch eine einschlägige Berufspraxis von in der Regel mindestens zwei Jahren in einem für die Medieninformatik relevanten Tätigkeitsfeld erbracht werden. Bei Vorliegen eines anderen Hochschulabschlusses als oben festgelegt, müssen durch die Berufspraxis Qualifikationen in Informatik erworben worden sein, die den Qualifikationen eines Bachelorabsolventen in Informatik äquivalent sind. Eine vom Prüfungsausschuss benannte Kommission, bestehend aus zwei Professoren oder Professorinnen der Fakultät für Informatik und Ingenieurwissenschaften, entscheidet, ob bei dem Bewerber oder der Bewerberin die für die Aufnahme des Studiums notwendigen fachlichen Qualifikationen vorliegen.
 
 ## Struktur
 Im Anhang K sind die Studienverlaufspläne der einzelnen Studiengänge enthalten, für die eine Akkreditierung beantragt wird. Das Studium umfasst im Bachelor jeweils insgesamt 180 ECTS Punkte und 144 Semesterwochenstunden Semesterwochenstunden. Dies entspricht durchschnittlich 24 SWS je Semester. Die Inhalte der Module sind in dem entsprechenden Modulhandbuch dargestellt.
@@ -124,3 +130,7 @@ Dazu kommen Laborführungen für Schülergruppen verschiedener Schulen sowie die
 Im Rahmen des bundesweiten Informatikjahres wurde am Campus Gummersbach ein „Tag der Informatik" für Studieninteressierte und eine „Informatik Sommerakademie für Schülerinnen (ISAS)" durchgeführt. Studierende und Dozenten gaben Einblicke in die Informatik-Welt und die Studieninteressierten konnten in verschiedenen Workshops und Selbsteinschätzungstests ihre Eignung und ihr Interesse für die Informatik live testen. Mit über 100 Studieninteressierten war die Beteiligung sehr erfreulich, und die Veranstaltungen stießen auf ein positives Echo.
 Das Institut für Informatik beteiligt sich jährlich am „Tag der offenen Tür“ der TH-Köln im September und an Informationsveranstaltungen der umliegenden Gymnasien und anderer weiterführender Schulen, die potenzielle Studienanfängerinnen und Studienanfänger an die Qualifizierung für ein Hochschulstudium heranführen.
 Alle diese Angebote werden sehr gut aufgenommen und sind stark frequentiert.
+
+
+
+[^int-office]: International Office fehlt

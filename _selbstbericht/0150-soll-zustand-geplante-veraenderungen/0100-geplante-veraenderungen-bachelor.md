@@ -92,4 +92,11 @@ Da web-basierte Architekturen elementarer Bestandteil der Medieninformatik und d
 
 Im fünften Semester wurde das Modul "Medieninformatik und Gesellschaft" umgewidmet in "Medienrecht, Medien und Gesellschaft" um hier einen dedizierten Platz für rechtliche Themen innerhalb der Domäne im Curriculum zu verankern.
 
+## Auswirkungen auf die Lehrkapazität
+
+Die Änderungen im Bachelorstudienprogramm sind weitgehend kapazitätsneutral. Das von allen Informatikstudiengängen geteilte Modul "Betriebswirtschaftslehre 2" wurde durch des ebenfalls geteilte Modul "Paradigmen der Programmierung" ersetzt. Das Modul "Mensch-Computer Interaktion" wurde zwar von fünf auf zehn Creditpoints vergrößert, jedoch enthielt bislang das Modul "Entwicklungsprojekt Interaktive Systeme" fünf Creditpoints Praxisanteil "Mensch-Computer Interaktion" die nun direkt dem Modul zugeschlagen werden.
+
+Die Studierenden verteilen sich über die Vertiefungsmodule, in die auch bisherige Wahlpflichtmodule integriert wurden. Somit reduziert sich hier in Summe die Lehrbelastung. Durch die resultierende Reduktion ist es möglich das Modul "Web-Architekturen" kapazitätsneutral anzubieten. Das "Entwicklungsprojekt" im fünften Semester ist zukünftig nicht mehr an nur zwei Lehrende gebunden, sondern kann von allen Lehrenden der Informatik betreut werden. Dadurch verteilt sich die Lehrbelastung.
+
+Lediglich das Vertiefungsmodul "Social Computing" ist nicht kapazitätsneutral, hier wurde jedoch zusätzliche Kapazität aufgebaut.
 
