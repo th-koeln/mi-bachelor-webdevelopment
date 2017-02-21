@@ -1,6 +1,6 @@
 ---
 title: Studierbarkeit
-aktueller-bearbeiter: Christian Noss
+aktueller-bearbeiter: 
 bearbeiterhistorie: Christian Noss
 date: 18.02.2017
 comment: von Informatik übernommen, Prüfungen müssen nachgezählt werden, da muss auch noch mal rein geschaut werden, Zugangsvoraussetzungen Master fehlen

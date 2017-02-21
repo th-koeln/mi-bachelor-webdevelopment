@@ -369,23 +369,26 @@ Somit lassen sich die folgenden Defizite im aktuellen Medieninformatik Master St
 # Soll-Zustand/ geplante Veränderungen
 
 ~~~
-cn: hier wäre noch ein kleines Präludium schön. Wie hat sich die MI in den letzten Jahren verändert.
+@Gerhard & Kristian: hier wäre noch ein kleines Präludium schön. Wie hat sich die MI in den letzten Jahren verändert. Hättet ihr Lust da was zu schreiben?
 ~~~
 
 ## Weiterentwicklung des Lehrportfolios des Institut für Informatik
 
-Die Informatik als wissenschaftliche Disziplin allgemein und auch das Institut für Informatik im Besonderen muss sich der Tatsache stellen, dass der technische und wissenschaftliche Fortschritt auf diesem Fachgebiet nach wie vor rasant ist. Dem versucht das Institut nicht nur durch stetige inhaltliche Weiterentwicklung seiner Studiengänge und Module gerecht zu werden, sondern hier werden auch neue, auf Nachhaltigkeit ausgerichtete Entwicklungen wahrgenommen und bei ausreichender Relevanz in die Überlegungen zur Weiterentwicklung des Angebots einbezogen.
-Eine solche – aus Sicht des Instituts für Informatik besonders interessante, spannende, wichtige und zukunftsträchtige – zeigt sich aktuell im Themenfeld Soziotechnischer Systeme. Folgende Bereiche sind hier exemplarisch zu nennen:
-- Assistenzsysteme für Tätigkeiten: sportliches Training, Navigation, Robotik (Staubsaugen, Lebensrettung, schwierige Umgebungen), Autofahren, Büro, Produktionsumgebungen
-- Assistenzsysteme für Bevölkerungsgruppen: alte Menschen, behinderte Menschen, Kinder , Menschen im Alltag
-- Kommunikationshilfen: Suchmaschinen, soziale Medien, Sprach-Ein- und Ausgabe, Blindenschrift-Displays und andere spezielle Formen der MCI
+Im Antrag für die "Anstehende Wiederzuweisung von fünf Professuren im Institut für Informatik"[^antrag-wiederzuweisung] wird der Lehr- und Forschungsbereich "Soziotechnische Systeme" wie folgt argumentiert:
 
-In all diesen Bereichen zeichnet sich bereits heute eine große, künftig noch stark zunehmende Bedeutung von IT-Systemen ab, zu deren Funktionen nicht nur technisches Wissen, sondern auch Fach- und Methodenwissen aus unterschiedlichen Spezialgebieten innerhalb der Informatik benötigt wird. Um diesen neuen Entwicklungen gerecht zu werden, soll zunächst ein geringer Anteil der Kapazität für dieses neue Themenfeld zur Verfügung gestellt werden. Entsprechende Lehrveranstaltungen können und sollen dann zunächst in Form von Wahlpflichtfächern angeboten werden. Die entsprechenden Voraussetzung im Modulkatalog werden, sofern erforderlich, kurzfristig geschaffen. Pflichtfächer werden dadurch nicht beeinträchtigt.
+> Die Informatik als wissenschaftliche Disziplin allgemein und auch das Institut für Informatik im Besonderen muss sich der Tatsache stellen, dass der technische und wissenschaftliche Fortschritt auf diesem Fachgebiet nach wie vor rasant ist. Dem versucht das Institut nicht nur durch stetige inhaltliche Weiterentwicklung seiner Studiengänge und Module gerecht zu werden, sondern hier werden auch neue, auf Nachhaltigkeit ausgerichtete Entwicklungen wahrgenommen und bei ausreichender Relevanz in die Überlegungen zur Weiterentwicklung des Angebots einbezogen.
+> Eine solche – aus Sicht des Instituts für Informatik besonders interessante, spannende, wichtige und zukunftsträchtige – zeigt sich aktuell im Themenfeld Soziotechnischer Systeme. Folgende Bereiche sind hier exemplarisch zu nennen:
+> - Assistenzsysteme für Tätigkeiten: sportliches Training, Navigation, Robotik (Staubsaugen, Lebensrettung, schwierige Umgebungen), Autofahren, Büro, Produktionsumgebungen
+> - Assistenzsysteme für Bevölkerungsgruppen: alte Menschen, behinderte Menschen, Kinder , Menschen im Alltag
+> - Kommunikationshilfen: Suchmaschinen, soziale Medien, Sprach-Ein- und Ausgabe, Blindenschrift-Displays und andere spezielle Formen der MCI
+>
+> In all diesen Bereichen zeichnet sich bereits heute eine große, künftig noch stark zunehmende Bedeutung von IT-Systemen ab, zu deren Funktionen nicht nur technisches Wissen, sondern auch Fach- und Methodenwissen aus unterschiedlichen Spezialgebieten innerhalb der Informatik benötigt wird. Um diesen neuen Entwicklungen gerecht zu werden, soll zunächst ein geringer Anteil der Kapazität für dieses neue Themenfeld zur Verfügung gestellt werden. Entsprechende Lehrveranstaltungen können und sollen dann zunächst in Form von Wahlpflichtfächern angeboten werden. Die entsprechenden Voraussetzung im Modulkatalog werden, sofern erforderlich, kurzfristig geschaffen. Pflichtfächer werden dadurch nicht beeinträchtigt.
+>
+> Das Themenfeld „IT für Menschen“ wird auf absehbare Zeit als attraktiv angesehen, sowohl für Forscher als auch für Unternehmen und nicht zuletzt vor allem auch für Studieninteressierte. Wegen der nicht nur technischen Ausrichtung ist aufgrund bisheriger Erfahrungen auch ein signifikanter Anteil weiblicher Studierender zu erwarten. Das Themenfeld bietet darüber hinaus viele Anknüpfungsmöglichkeiten an bereits vorhandene Kompetenzen: Datenbanken, Medieninformatik, Softwaretechnik, Ergonomie, MCI, Kommunikationstechnik, technische Spezialthemen, mobile Systeme und Anwendungen u. v. m.
+>
+> Die starke Durchdringung der Gesellschaft mit leistungsfähigen, zunehmend mobilen, mit umfangreicher Sensorik ausgestatteten Endgeräten, eröffnet auch hier teilweise völlig neue Fragestellungen und Möglichkeiten. In Kombinationen mit den alten und anderen neuen Schwerpunkten eröffnet der Studienbereich „IT für Menschen“ auch neues Forschungsfeld. Mittelfristiges Ziel ist es, hier ein neues Studienangebot zu realisieren, dass auch aus den vom Präsidium für solche Zwecke in Aussicht gestellten neuen Professuren gespeist wird und nicht zu Lasten vorhandener Ressourcen – weder in der Lehreinheit Informatik noch in der Lehreinheit Ingenieurwissenschaften – geht. Das benötigte Know-how ist zum großen Teil bereits vorhanden und soll durch Wahlpflichtangebote in diesem Bereich ergänzt werden.
 
-Das Themenfeld „IT für Menschen“ wird auf absehbare Zeit als attraktiv angesehen, sowohl für Forscher als auch für Unternehmen und nicht zuletzt vor allem auch für Studieninteressierte. Wegen der nicht nur technischen Ausrichtung ist aufgrund bisheriger Erfahrungen auch ein signifikanter Anteil weiblicher Studierender zu erwarten. Das Themenfeld bietet darüber hinaus viele Anknüpfungsmöglichkeiten an bereits vorhandene Kompetenzen: Datenbanken, Medieninformatik, Softwaretechnik, Ergonomie, MCI, Kommunikationstechnik, technische Spezialthemen, mobile Systeme und Anwendungen u. v. m.
-
-Die starke Durchdringung der Gesellschaft mit leistungsfähigen, zunehmend mobilen, mit umfangreicher Sensorik ausgestatteten Endgeräten, eröffnet auch hier teilweise völlig neue Fragestellungen und Möglichkeiten. In Kombinationen mit den alten und anderen neuen Schwerpunkten eröffnet der Studienbereich „IT für Menschen“ auch neues Forschungsfeld. Mittelfristiges Ziel ist es, hier ein neues Studienangebot zu realisieren, dass auch aus den vom Präsidium für solche Zwecke in Aussicht gestellten neuen Professuren gespeist wird und nicht zu Lasten vorhandener Ressourcen – weder in der Lehreinheit Informatik noch in der Lehreinheit Ingenieurwissenschaften – geht. Das benötigte Know-how ist zum großen Teil bereits vorhanden und soll durch Wahlpflichtangebote in diesem Bereich ergänzt werden.
-
+Das Lehr- und Forschungsbereich "Soziotechnische Systeme" findet sich in den zu akkreditierenden Curricula unter dem Begriff "Social Computing". Dieser Themenkomplex soll im Bachelor Studienprogramm als Vertiefungsmodul und im Master als Schwerpunkt verankert werden.
 
 ## Geplante Veränderungen des Bachelor-Studiengangs gegenüber dem aktuellen Akkreditierungszeitraum
 
@@ -395,6 +398,9 @@ Die im Folgenden dargestellten geplanten Veränderungen des Bachelorstudienprogr
 ~~~
 @volker: wie kann ich unabhängige Links innerhalb des Dokuments erzeugen?
 ~~~
+
+[^antrag-wiederzuweisung]: <a href="../anhaenge/AntragWiederzuweisung_Motivation_2013.pdf">AntragWiederzuweisung_Motivation_2013.pdf</a>
+
 
 ### Verbesserungen des Studienaufbaus
 
@@ -656,6 +662,9 @@ Das folgende Leitbild steht über dem Studiengang Medieninformatik Bachelor:
 
 # Qualifikationsziele Medieninformatik Master
 
+~~~
+@mario: Kannst Du da bitte mal drüber gucken?
+~~~
 
 ## Leitbild Medieninformatik Master
 
@@ -736,7 +745,7 @@ Absolventinnen und Absolventen des Masterstudiengangs Medieninformatik:
 >-   exemplarisches Transcript of Records je Studiengang
 
 ~~~
-cn: irgendwo würde ich gern was zur Haltung schreiben
+@kristian, @gerhard, @mario: kann einer von euch was dazu schreiben? Ich hab keine Peilung, was die da wollen :/
 ~~~
 
 
@@ -798,24 +807,27 @@ cn: hier bitte die Studiengänge nur beschreiben, also bitte nicht mehr auf ver�
 ## Zielgruppe
 Das Studienangebot richtet sich primär an Studierende des deutschsprachigen Raumes. Ausländische Studienbewerber werden durch ein etabliertes, durch das Sekretariat für internationale Studierende betreutes Verfahren nach Nachweis der Kenntnisse der deutschen Sprache aufgenommen.
 
-## Studienphasen
+## Bachelor
+
+### Studienphasen
 
 {% include image.html url="bilder/ba-studienphasen.svg" caption="Abbildung: Studienphasen des Bachelorstudiengangs Medieninformatik" %}
 
-## Prinzipien
+### Prinzipien
 
 Module eines Schwerpunkts näher zusammen bringen Projektkontexte reduzieren
 Workflow berücksichtigen
 Projektorientierung berücksichtigen
 Projektgrößen sinnvoll aufbauen mehr Wahlmöglichkeiten weniger Prüfungselemente
 
+### Lehr-
 
 ~~~
 cn: Grafiken nicht vergessen!
 ~~~
 
 
-![](../anhaenge/bilder/ba-studienphasen.001.jpeg){:class="img-responsive"}
+![](../anhaenge/bilder/ba-studienphasen.svg){:class="img-responsive"}
 *Bild 1: Studienphasen des Bachelorstudiengangs Medieninformatik*
 
 
