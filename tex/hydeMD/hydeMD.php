@@ -49,6 +49,11 @@ class Page {
                                                \RecursiveRegexIterator::GET_MATCH );
 
       foreach( $matchingFiles as $path => $obj ) {
+
+        if( strpos( $path, '_archiv/' ) !== FALSE ) {
+          continue;
+        }
+
         $this->files[$path] = '';
       }
     }
@@ -67,6 +72,8 @@ class Page {
 
       $content = preg_replace( "=ö=", "ö", $content );
       $content = preg_replace( "=Ö=", "Ö", $content );
+
+      $content = preg_replace( "=‐=", "-", $content );
 
     }
   }
