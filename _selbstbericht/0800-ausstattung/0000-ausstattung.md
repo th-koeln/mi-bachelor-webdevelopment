@@ -1,6 +1,6 @@
 ---
 title: Ausstattung
-aktueller-bearbeiter: Gerhard
+aktueller-bearbeiter:
 bearbeiterhistorie: Christian Noss
 date: 18.02.2017
 comment: Gerhard hat die eye-tracking facilities eingefügt, Gerhards Forschungsthemen eingetragen
