@@ -168,7 +168,7 @@ reviewed-von:
 * Krampe, Fabian Reinhard Dietrich
 * Krischer, Manuel
 * Krumnow, Benjamin
-* **Kullack, Sven**
+* Kullack, Sven
 * Linke, Mario
 * Moritz, Steffen
 * Müller, Sebastian
