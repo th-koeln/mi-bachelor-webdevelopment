@@ -1,6 +1,6 @@
 ---
 title: Qualifikationsziele Medieninformatik Bachelor
-aktueller-bearbeiter: Christian Noss
+aktueller-bearbeiter:
 bearbeiterhistorie: Christian Noss
 date: 18.02.2017
 comment:

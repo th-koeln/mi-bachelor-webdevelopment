@@ -20,6 +20,7 @@ Einführungen in Konzepte, Techniken und Arbeitsweisen der Web Entwicklung.
 
 ## Lehrform/SWS: 
 6 SWS Vorlesung, 6 SWS Praktikum, 4 SWS Projekt
+
 ## Lehrveranstaltungen
 - Web Frontend Entwicklung
 - Serverseitige Frameworks und Dienste
