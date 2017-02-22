@@ -153,7 +153,15 @@ Die Projekte können mit zusätzlichen Lehrveranstaltungen, die auf die jeweilig
 Die inhaltliche Offenheit des dritten Fachsemesters mit drei Wahlpflichtmodulen und einem Projekt ermöglicht den Studierenden ein Auslandssemester, da hier die Anrechnung von Studienleistung problemlos möglich ist. 
 
 
+### Vertiefende Dokumente
+
+- Studienverlaufsplan Medieninformatik Master[^studienverlaufsplan-master]
+- Modulhandbuch Medieninformatik Master[^modulhandbuch-master]
+
+
 [^Abschlussarbeitsthemen-bachelor]: <a href="../anhaenge/anschlussarbeiten_2010-2014_.pdf">Themen der Abschlussabeiten des Medieninformatik Bachelor 2010 bis 2014</a>
 [^profil-studienanfaenger-2017]: <a href="../anhaenge/profil-studienanfaenger-2017.xlsx">profil-studienanfaenger-2017.xlsx</a>
 [^studienverlaufsplan-bachelor]: Studienverlaufsplan Medieninformatik Bachelor fehlt
 [^modulhandbuch-bachelor]: Modulhandbuch Medieninformatik Bachelor fehlt
+[^studienverlaufsplan-master]: Studienverlaufsplan Medieninformatik Master fehlt
+[^modulhandbuch-master]: Modulhandbuch Medieninformatik Master fehlt
