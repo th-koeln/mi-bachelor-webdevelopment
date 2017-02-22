@@ -10,13 +10,13 @@ sprache: deutsch
 zuordnung-zum-curriculum: Medieninformatik Bachelor
 kreditpunkte: 20
 voraussetzungen-nach-pruefungsordnung: keine
-empfohlene-voraussetzungen: Einführung in die Medieninformatik, Algorithmen und Programmierung, Paradigmen der Programmierung, MCI, Screendesign, Audiovisuelles Medienprojekt
+empfohlene-voraussetzungen: Einführung in die Medieninformatik, Algorithmen und Programmierung, Paradigmen der Programmierung, Mensch-Computer Interaktion, Screendesign, Audiovisuelles Medienprojekt
 published: true
 type: vpm
 ---
 
 ## Kurzbeschreibung
-Das Modul "Visual Computing" im Medieninformatik Bachelor beschäftigt sich mit der Erzeugung und Verarbeitung visueller Information sowohl in realen als auch computergenerierten Szenarien.
+Das Modul „Visual Computing” im Medieninformatik Bachelor beschäftigt sich mit der Erzeugung und Verarbeitung visueller Informationen, sowohl in realen als auch computergenerierten Szenarien.
 
 Ziel dieses Moduls ist es den Studierenden eine fachlich fundierte, praktische, sowie theoretische Grundlage im Umgang mit audiovisuellen Medien zu geben. Dabei wird sowohl auf die technische Seite (technischen Grundlagen der Video- und Fernsehtechnik) eingegangen als auch auf die algorithmische (computergenerierte Bildsynthese, Gameentwicklung).
 
@@ -171,17 +171,17 @@ Nach Abschluss des Moduls besitzen die Studierenden grundlegende Kenntnisse übe
 
 ### Prozedurale Generierung virtueller Welten
 -	Einführung in die Game-Engine Unity
--	Grundlagen 3D-Geometrie
--	Erweiterung des Unity-Editors
--	Primitive und Mesh-Datenstrukturen
--	UV-Mapping und Texturierungstechniken/Materialien
--	Prozedurale Texturgenerierung
--	Parametrisierung von 3D-Modellen
--	Kurven und Flächen
--	Height-Maps
--	L-Systeme und „Turtle“-Grafik-Renderer
--	Triangulations-Algorithmen für Polygone
--	Voxel-Terrain-Generierung
+   -Grundlagen 3D-Geometrie
+   -Erweiterung des Unity-Editors
+   -Primitive und Mesh-Datenstrukturen
+   -UV-Mapping und Texturierungstechniken/Materialien
+   -Prozedurale Texturgenerierung
+   -Parametrisierung von 3D-Modellen
+   -Kurven und Flächen
+   -Height-Maps
+   -L-Systeme und „Turtle“-Grafik-Renderer
+   -Triangulations-Algorithmen für Polygone
+   -Voxel-Terrain-Generierung
 
 
 ## Studien-/Prüfungsleistungen:

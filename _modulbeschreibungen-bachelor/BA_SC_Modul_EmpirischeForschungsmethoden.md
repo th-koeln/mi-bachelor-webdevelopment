@@ -16,28 +16,39 @@ type: tm
 parent: SC
 ---
 
-## Lehrform/SWS: Vorlesung/ 2 SWS, Seminar/ 2 SWS
+## Lehrform/SWS:
 
+4 SWS: Vorlesung 2 SWS; Seminar 2 SWS
 
-## Arbeitsaufwand: 150 h, davon 30h Vorlesung, 45h Selbststudium, 75h Seminar 
+## Arbeitsaufwand: 
+
+Gesamtaufwand 150 h, davon 
+
+- 30 h Vorlesung 
+- 75 h Seminar
+- 45 h Selbststudium 
 
 
 ## Angestrebte Lernergebnisse:
-Die Studierenden sollen die unterschiedlichen Herangehensweisen quantitativer und qualitativer Forschungsmethoden verstehen. Darüber hinaus sollen ausgewählte quantitative und qualitative Methoden angewendet werden können. Die Studierenden sollen in der Lage sein, einfache Forschungsdesigns zu entwickeln und nach wissenschaftlichen Standards durchzuführen. 
+Die Studierenden sollen 
+
+* die unterschiedlichen Herangehensweisen quantitativer und qualitativer Forschungsmethoden verstehen. Darüber hinaus sollen 
+* ausgewählte quantitative und qualitative Methoden angewendet werden können. 
+* in der Lage sein, einfache Forschungsdesigns zu entwickeln und nach wissenschaftlichen Standards durchzuführen. 
 
 ## Inhalt:
--	Wissenschaftstheoretische Grundlagen
--	Induktion, Deduktion, Abduktion
--	Unterschied zwischen quantitativer und qualitativer Forschung
--	Interviews gestalten, durchführen und auswerten
--	Beobachtung
--	Ethnographische Methoden
--	Hypothesengewinnung und Theoriebildung
--	Experimental-Designs
--	Statistische Verfahren für quantitative Forschung
--	Aussagekraft der Ergebnisse (statistische Signifikanz, interne und externe Valididät)
+Wissenschaftstheoretische Grundlagen
 
- 
+- Induktion, Deduktion, Abduktion
+- Unterschied zwischen quantitativer und qualitativer Forschung
+- Interviews gestalten, durchführen und auswerten
+- Beobachtung
+- Ethnographische Methoden
+- Hypothesengewinnung und Theoriebildung
+- Experimental-Designs
+- Statistische Verfahren für quantitative Forschung
+- Aussagekraft der Ergebnisse (statistische Signifikanz, interne und externe Valididät)
+
 ## Studien-/Prüfungsleistungen:
 Abschlusspräsentation und schriftliche Ausarbeitung
 

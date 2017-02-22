@@ -16,7 +16,7 @@ type: pm
 ---
 
 ## Lehrform/SWS:
-4 SWS, Vorlesung (2 SWS), Übung (2 SWS)
+4 SWS: Vorlesung 2 SWS; Übung 2 SWS
 
 ## Arbeitsaufwand:
 Gesamtaufwand 150 h, davon
@@ -27,18 +27,16 @@ Gesamtaufwand 150 h, davon
 ## Angestrebte Lernergebnisse:
 - Grundsätzliches Ziel des Kurses ist eine Einführung in die Begriffe, Methoden, Modelle und Arbeitsweise der Theoretischen Informatik anhand der ausgewählten Teilgebiete.
 
-- Dabei lernen die Studerenden Probleme und Sachverhalte zu abstrahieren und zu modellieren (etwa logische und algebraische Kalküle, graphentheoretische Notationen, formale Sprachen und Automaten sowie spezielle Kalküle wie Petri-Netze)
+- Dabei lernen die Studierenden Probleme und Sachverhalte zu abstrahieren und zu modellieren (etwa logische und algebraische Kalküle, graphentheoretische Notationen, formale Sprachen und Automaten sowie spezielle Kalküle wie Petri-Netze)
 
 - Die Studierenden erwerben fundierte Kenntnisse der grundlegenden Themengebiete und eine wesentliche Basis und Vorbereitung für Veranstaltungen in höheren Semestern des Studiums.
 
 - In verschiedenen Grundlagengebieten der Informatik lernen die Studierenden Verfahrensweisen kennen, um den algorithmischen Kern eines Problems zu identifizieren und können passende Algorithmen entwerfen (Automaten, Turing Maschinen, Logik). Dabei können Sie bekannte Problemstellungen im Anwendungskontext erkennen und sind mit den zugehörigen Lösungsmustern vertraut (Modellierung mittels Automaten, Petri-Netzen, Boolescher Algebra, etc.).
 
-- Aufgaben zu den Lehrinhalten(s.u.) werden in kleinen Gruppen (Teamarbeit) selbständig gelöst. Die Lösungen sollen in den Übungsstunden vorgetragen und der Lösungsweg den Kommilitonen hierbei erläutert werden.
+- Aufgaben zu den Lehrinhalten (s.u.) werden in kleinen Gruppen (Teamarbeit) selbständig gelöst. Die Lösungen sollen in den Übungsstunden vorgetragen und der Lösungsweg den Kommilitonen hierbei erläutert werden.
 
 ## Inhalt:
-Dieses Grundlagenfach zur Informatik erstreckt sich über zwei Semester(Theoretische Informatik 1 und Theoretische Informatik 2).  
-
-
+Dieses Grundlagenfach zur Informatik erstreckt sich über zwei Semester (Theoretische Informatik 1 und Theoretische Informatik 2).  
 
 
 - Grundlagen: Mengen, Relationen, Graphen, Polynome; Zahlensysteme, Zahlendarstellung, Numerische Aspekte; Codierung, Informationstheorie
@@ -54,7 +52,7 @@ Dieses Grundlagenfach zur Informatik erstreckt sich über zwei Semester(Theoreti
 - Kotextsensitive (Typ-1) und rekursiv aufzählende (Typ-0) Sprachen: Grammatiken, Monotonie, Normalform; Turingautomaten; Einführung in die Begriffe: Berechenbarkeit, Entscheidbarkeit und Komplexität
 
 ## Studien-/Prüfungsleistungen:
-Theoretische Informatik 1 + 2 als eine Modulprüfung von 120 Min.
+Theoretische Informatik 1 + 2 als eine schriftliche Modulprüfung von 120 Min.
 
 ## Medienformen:
 Vorlesung mit Übung
@@ -64,9 +62,7 @@ Vorlesung mit Übung
 
 
 
-
-
-- Brill, M. ( 2005 ): Mathematik für Informatiker.           Carl Hanser Verlag, München.
+- Brill, M. ( 2005 ): Mathematik für Informatiker. Carl Hanser Verlag, München.
 
 - Vossen, G., Witt K. (2004): Grundlagen der Theoretischen Informatik mit Anwendungen. 3. Aufl.  Vieweg & Sohn, Braunschweig.
 
@@ -94,7 +90,7 @@ Vorlesung mit Übung
 
 - Beuth, K. (1992): Digitaltechnik. 9.Aufl.Vogel, Würzburg.
 
-- Morgenstern, B. (1992): Elektronik III, Digitale Schaltungen und Systeme. Vieweg&Sohn, Braunschweig.
+- Morgenstern, B. (1992): Elektronik III, Digitale Schaltungen und Systeme. Vieweg & Sohn, Braunschweig.
 
 - Rembold, U. et al.  (1991): Einführung in die Informatik. 2.  Aufl. Hanser, München.                               
 

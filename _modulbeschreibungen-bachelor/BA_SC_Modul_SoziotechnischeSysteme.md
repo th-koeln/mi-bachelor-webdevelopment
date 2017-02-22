@@ -16,30 +16,36 @@ type: tm
 parent: SC
 ---
 
-## Lehrform/SWS:  Vorlesung / 2 SWS, Seminar 2 SWS 
+## Lehrform/SWS: 
+
+4 SWS: Vorlesung 2 SWS; Seminar 2 SWS
 
 
-## Arbeitsaufwand: 150 h, davon 45h Vorlesung, 45h Selbststudium, 60h Projekt
-5 ECTS
+## Arbeitsaufwand:
+Gesamtaufwand 150 h, davon 
+
+- 45 h Vorlesung 
+- 60 h Projekt
+- 45h Selbststudium 
 
 ## Angestrebte Lernergebnisse:
 Die Studierenden sollen das komplexe Wechselspiel zwischen informationstechnischen Systemen und gesellschaftlichen Normen und Prozessen verstehen, analysieren und einordnen können. Sie sollen in der Lage sein, Systeme nach ethischen, psychologischen und soziologischen Kriterien zu gestalten und die Auswirkungen einschätzen zu können. Die grundlegenden Modelle der verschiedenen Disziplinen sollen bekannt und verstanden werden.
 
 
 ## Inhalt:
--	Modelle der Sozioinformatik
--	Soziale und technische Systeme
--	Gestaltungsprinzipien für soziotechnische Systeme
--	Technikgenese und Ko-Evolution
--	Computerethische Grundlagen
--	Psychologische Grundlagen
--	Soziologische Grundlagen
--	Digitale Technologien für soziale Dienste
--	Digitale Technologien in Organisationen
--	Digitale Technologien in der Gesellschaft
--	E-Goverment
--	E-Learning
+* Modelle der Sozioinformatik
 
+- E-Learning
+- Soziale und technische Systeme
+- Gestaltungsprinzipien für soziotechnische Systeme
+- Technikgenese und Ko-Evolution
+- Computerethische Grundlagen
+- Psychologische Grundlagen
+- Soziologische Grundlagen
+- Digitale Technologien für soziale Dienste
+- Digitale Technologien in Organisationen
+- Digitale Technologien in der Gesellschaft
+- E-Goverment
 
 ## Studien-/Prüfungsleistungen:
 Abschlusspräsentation

@@ -16,14 +16,20 @@ type: tm
 parent: SC
 ---
 
-## Lehrform/SWS: 1 SWS Vorlesung, 3 SWS Projekt
+## Lehrform/SWS:
 
+4 SWS: Vorlesung 1 SWS; Projekt 3 SWS
 
 ## Arbeitsaufwand: 150 h, davon 30h Vorlesung, 90h Projekt 
 
+Gesamtaufwand 150 h, davon 
+
+- 30 h Vorlesung 
+- 90 h Projekt
 
 ## Angestrebte Lernergebnisse:
-Die Studierenden sollen in der Lage sein, die Möglichkeiten und Grenzen des Gamification-Ansatzes sowohl für die analoge als auch die digitale Welt einordnen zu können. Die verschiedenen Stufen der Gamification sollen verstanden und die Maßnahmen in Gestaltungsprozessen eingesetzt werden. Die Studierenden sollen die psychologischen Grundlagen verstehen und die gesellschaftlichen Implikationen bewerten können. Die Analyse von Regeln und Prozessen und daraus abgeleitete Gamification-Maßnahmen sowie die Entwicklung von Serious Games sollen praktisch umgesetzt werden, z.B. für Lernanwendungen, Online-Communities oder soziale Dienste.
+
+Die Studierenden sollen in der Lage sein, die Möglichkeiten und Grenzen des Gamification-Ansatzes, sowohl für die analoge als auch die digitale Welt, einordnen zu können. Die verschiedenen Stufen der Gamification sollen verstanden und die Maßnahmen in Gestaltungsprozessen eingesetzt werden. Die Studierenden sollen die psychologischen Grundlagen verstehen und die gesellschaftlichen Implikationen bewerten können. Die Analyse von Regeln und Prozessen und daraus abgeleitete Gamification-Maßnahmen sowie die Entwicklung von Serious Games sollen praktisch umgesetzt werden, z.B. für Lernanwendungen, Online-Communities oder soziale Dienste.
 
 ## Inhalt:
 - Grundelemente der Gamification

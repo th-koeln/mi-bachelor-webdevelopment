@@ -19,10 +19,10 @@ type: pm
 Angeleitetes, eigenverantwortliches Arbeiten
 
 ## Arbeitsaufwand:
-Projektarbeit: 300 Stunden
+300 h Projektarbeit
 
 ## Angestrebte Lernergebnisse:
-Die Studierenden: 
+Die Studierenden 
 
 - können Methoden und Techniken, die sie im Studium erlernt haben, in realitätsnahen Projekten weitgehend selbstständig anwenden
 
@@ -30,7 +30,7 @@ Die Studierenden:
 
 ## Inhalt:
 
-Modulinhalte des ersten bis fünften Semesters anhand von realen Anforderungen in einem praxisrelevanten Kontext angewendet und der Studierende durch die Betreuung des Dozenten an eine selbstständige Projektdurchführung und Kommunikation herangeführt. Das Praxisprojekt kann entweder in einem Unternehmen oder in der Hochschule - dann eingebettet in Forschungsprojekte - erfolgen.
+Modulinhalte des ersten bis fünften Semesters anhand von realen Anforderungen in einem praxisrelevanten Kontext anwenden und den Studierenden durch die Betreuung des Dozenten an eine selbstständige Projektdurchführung und Kommunikation heranführen. Das Praxisprojekt kann entweder in einem Unternehmen oder in der Hochschule - dann eingebettet in Forschungsprojekte - erfolgen.
 
 
 ## Studien-/Prüfungsleistungen:

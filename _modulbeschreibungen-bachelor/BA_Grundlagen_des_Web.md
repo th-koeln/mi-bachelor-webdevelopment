@@ -19,7 +19,7 @@ type: pm
 In der Veranstaltung werden wesentliche Grundideen, Interaktionsprinzipien, Contentarchitekturen und Sicherheitsmechanismen eingeführt, die das Web als Medium konstituieren.
 
 ## Lehrform/SWS: 
-2V, 2S
+4 SWS: Vorlesung 2 SWS; Seminar 2 SWS
 
 ## Arbeitsaufwand: 
 150 Stunden
@@ -28,18 +28,17 @@ In der Veranstaltung werden wesentliche Grundideen, Interaktionsprinzipien, Cont
 Die Studierenden 
 - kennen wesentliche Grundideen, Interaktionsprinzipien, Contentarchitekturen und Sicherheitsmechanismen, die das Web als Medium konstituieren und 
 - können moderne Webanwendungen auf der Basis von Fachbegriffen analysieren und einordnen
-
-um kompetent am fachlichen Diskurs über Eigenschaften, Auswirkungen und Gestaltungsalternativen von Web Anwendungen teilnehmen zu können.
+- um kompetent am fachlichen Diskurs über Eigenschaften, Auswirkungen und Gestaltungsalternativen von Web Anwendungen teilnehmen zu können.
 
 ## Inhalt:
 - Web Architektur des W3C
 - Offfenheit und Verwendung von Standards als Prinzip
 - Interaktionsformen: Synchrone Interaktion auf der Basis von REST, asynchrone Interaktion mit Publish/Subscribe
-- Fallstudien: Cloudservices für verteilte Anwendungen - e.g. Anazon Web Services, Google Firebase 
+- Fallstudien: Cloudservices für verteilte Anwendungen - z.B. Amazon Web Services, Google Firebase 
 - Ausgewählte Sicherheitsmechanismen im Web
 - Inhaltsarchitekturen: XML, JSON, Microformate, RDFa
 
-Die Inhalte werden als Vorlesung vermittelt. In dem begleitenden Seminar werden die Konzepte mittels Fallstudien anwendungsbezogen aanalysiert und diskutiert. 
+Die Inhalte werden als Vorlesung vermittelt. In dem begleitenden Seminar werden die Konzepte mittels Fallstudien anwendungsbezogen analysiert und diskutiert. 
 
 ## Studien-/Prüfungsleistungen:
 Mündliche Prüfung

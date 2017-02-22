@@ -64,22 +64,22 @@ Projektarbeit und schriftliche Ausarbeitung
 
 ## Literatur:
 - James Monaco, Film verstehen
-Rowolth Taschenbuch Verlag Hamburg, 1980, 
-ISBN 3-499-162717
+  Rowolth Taschenbuch Verlag Hamburg, 1980, 
+  ISBN 3-499-162717
 - Syd Field, Drehbuchschreiben für Film und Fernsehen, 
-München 2003, ISBN 354836473X
+  München 2003, ISBN 354836473X
 - Steven D. Katz, Die Richtige Einstellung
-Zweitausendeins, Frankfurt a.M.1998,ISBN 3-86150-229-1
+  Zweitausendeins, Frankfurt a.M.1998,ISBN 3-86150-229-1
 - David Lewis Yewdall, Practical Art of Motion Picture Sound
-Focal Press, USA 2003, ISBN 0-240-80525-9
+  Focal Press, USA 2003, ISBN 0-240-80525-9
 - Hans Kornacher & Manfred Stross, 
-Dokumentarisches Videofilmen	
-Augustus Verlag, Augsburg, 1992, ISBN 3-8043-5474-2
+  Dokumentarisches Videofilmen
+  Augustus Verlag, Augsburg, 1992, ISBN 3-8043-5474-2
 - Hans Beller Hg., Handbuch der Filmmontage, 
-München: TR-Verlagsunion, 1993, ISBN 3-8058-2357-6 
+  München: TR-Verlagsunion, 1993, ISBN 3-8058-2357-6 
 - Karel Reisz, Gavin Millar, 
-Geschichte und Technik der Filmmontage, 
-München: Filmlandpresse, 1988, ISBN 3-88690-071-1
+  Geschichte und Technik der Filmmontage, 
+  München: Filmlandpresse, 1988, ISBN 3-88690-071-1
 - Chris Vogler, 
-Die Reise des Drehbuchschreibens, Verlag Zweitausendeins
+  Die Reise des Drehbuchschreibens, Verlag Zweitausendeins
 
