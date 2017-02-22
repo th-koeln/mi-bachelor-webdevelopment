@@ -12,6 +12,10 @@ Mit den Medieninformatik Studiengänge bietet die Fakultät für Informatik und 
 
 Die Studiengänge, vor allem der Bachelor, erfreuen sich extrem großer Nachfrage, sowohl von Studierenden als auch von Unternehmen. Beim unabhängigen Bewertungsportal "Studycheck.de" [^Link-studycheckde] wird die Medieninformatik am Campus Gummersbach unter den TOP 5 Studiengängen in diesem Segment gelistet [^Anhang-Snapshot-Bewertungen-von-studycheckde].
 
+~~~
+@gerhard: hättest Du Lust was zu unseren Promotionserfolgen zu schreiben?
+~~~
+
 ## Erfüllung der Auflagen der Reakkreditierung 2010
 
 Der Technischen Hochschule Köln wurden im Rahmen der Reakkreditierung im März 2010 folgende Auflagen der Akkreditierungskommission mitgeteilt.
@@ -43,11 +47,11 @@ Diese Auflagen wurden von der Technischen Hochschule Köln folgendermaßen erfü
 
 #### MentoRing Programm des Campus Gummersbach
 
-Mit Beginn des Wintersemesters 11/12 wurde das mehrstufige MentoRing4Excellence© an der Fakultät für Informatik und Ingenieurwissenschaften der TH Köln eingeführt. Das Mentoringprogramm spannt ein Netzwerk zwischen Studienanfängern, erfahrenen Studierenden und externen Führungskräften. Es beinhaltet die Unterprogramme MentoRing4Beginners© und MentoRing4LeadershipDevelopment©. MentoRing4Beginners© bietet den Erstsemestern am Campus Gummersbach Orientierung und Hilfestellung bei ihrem Studienstart. Erfahrene Studierende stehen den „Neuen“ als Mentoren/innen zur Seite, damit diese besser in den Studienalltag hineinfinden und schneller Kontakte knüpfen können. Sie sind während des ersten Semesters Begleitung und Ansprechpartner in allen Fragen rund ums Studium, z. B. in Bezug auf die Studienorganisation, die Studienlaufbahnplanung, Lerntechniken, Prüfungsvorbereitung und Projekte. Ab dem zweiten Semester stehen sie den Studierenden campusweit und semesterübergreifend als Tutoren für wissenschaftliches Arbeiten zur Verfügung. Dafür werden die Mentoren intensiv geschult. In einem mehrstufigen Verfahren werden 15 erfolgreiche Studierende der Informatik und Ingenieurwissenschaften mit ausgeprägter Sozialkompetenz als Mentoren/innen ausgewählt und in einem viertägigen Intensivtraining auf ihre Aufgabe vorbereitet. Während des Semesters erhalten sie laufende Supervision.
+Mit Beginn des Wintersemesters 11/12 wurde das mehrstufige MentoRing4Excellence© an der Fakultät für Informatik und Ingenieurwissenschaften der TH Köln eingeführt. Das Mentoringprogramm spannt ein Netzwerk zwischen Studienanfängern, erfahrenen Studierenden und externen Führungskräften. Es beinhaltet die Unterprogramme MentoRing4Beginners© und MentoRing4LeadershipDevelopment©. MentoRing4Beginners© bietet den Erstsemestern am Campus Gummersbach Orientierung und Hilfestellung bei ihrem Studienstart. Erfahrene Studierende stehen den „Neuen“ als Mentoren/innen zur Seite, damit diese besser in den Studienalltag hineinfinden und schneller Kontakte knüpfen können. Sie sind während des ersten Semesters Begleitung und Ansprechpartner in allen Fragen rund ums Studium, z. B. in Bezug auf die Studienorganisation, die Studienlaufbahnplanung, Lerntechniken, Prüfungsvorbereitung und Projekte. Ab dem zweiten Semester stehen sie den Studierenden campusweit und semesterübergreifend als Tutoren für wissenschaftliches Arbeiten zur Verfügung. Dafür werden die Mentoren intensiv geschult. In einem mehrstufigen Verfahren werden 15 erfolgreiche Studierende der Informatik und Ingenieurwissenschaften mit ausgeprägter Sozialkompetenz als Mentoren/innen ausgewählt und in einem viertägigen Intensivtraining auf ihre Aufgabe vorbereitet. Während des Semesters erhalten sie laufende Supervision.
 
-Für Studienanfänger und Mentoren bedeutet das Mentoring ein Gewinn. Die Studienanfänger finden leichter ins Studium und schneller Kontakte. Die Mentoren erhalten neue Impulse für den eigenen Studienkontext und entwickeln/stärken die eigene Kommunikations- und Beratungskompetenz. Das Mentoringprogramm wird evaluiert.
+Für Studienanfänger und Mentoren bedeutet das Mentoring ein Gewinn. Die Studienanfänger finden leichter ins Studium und schneller Kontakte. Die Mentoren erhalten neue Impulse für den eigenen Studienkontext und entwickeln/stärken die eigene Kommunikations- und Beratungskompetenz. Das Mentoringprogramm wird evaluiert.
 
-Besonders engagierte, leistungs- und kommunikationsbereite Studierende, die sich als Mentoren bewährt haben, können sich für das „Leadership Development Program“ bewerben. Im Rahmen dieses studienbegleitenden Qualifizierungsprogramms werden den Studierenden externe Führungskräfte als Mentoren zur Seite gestellt, so dass sie in Gesprächen, in Projektmitarbeit und durch Einbindung in berufsrelevante Netzwerke von deren langjähriger Berufs- und Lebenserfahrung profitieren können. Das Programm beginnt mit einer individuellen Potenzialanalyse und umfasst mehrere Trainingseinheiten zur Entwicklung relevanter Führungsfähigkeiten.
+Besonders engagierte, leistungs- und kommunikationsbereite Studierende, die sich als Mentoren bewährt haben, können sich für das „Leadership Development Program“ bewerben. Im Rahmen dieses studienbegleitenden Qualifizierungsprogramms werden den Studierenden externe Führungskräfte als Mentoren zur Seite gestellt, so dass sie in Gesprächen, in Projektmitarbeit und durch Einbindung in berufsrelevante Netzwerke von deren langjähriger Berufs- und Lebenserfahrung profitieren können. Das Programm beginnt mit einer individuellen Potenzialanalyse und umfasst mehrere Trainingseinheiten zur Entwicklung relevanter Führungsfähigkeiten.
 
 #### Medieninformatik Mentor
 
@@ -174,6 +178,7 @@ Durchweg sehr positiv wird die gute und intensive Betreuung durch das Lehrperson
 Auch sehr positiv wird die gute und moderne Ausstattung der Medieninformatik und der Bibliothek, als auch der recht ausgewogene quantitative Verhältnis von Frauen und Männern bewertet.
 
 Als problematisch wird, bezogen auf den Bachelorstudiengang, vor allem die starke Fragmentierung der Module sowie der zugehörigen Praxisanteile gesehen, so dass die Situation, vor allem im dritten Fachsemester, als "zu voll" oder mit "zu viele Baustellen" beschrieben wird. Dieses Problem wurde auch im Rahmen der Analysen zu Profil2 Antrag der Hochschule identifiziert [^profil2]. Derzeit wird dieser Problematik bereits mit der sequentiellen Anordnung einiger Module begegnet. Dabei werden zwei parallel laufende Module nacheinander, dafür aber mit halber Laufzeit und doppelter SWS Anzahl angeboten, so dass sich die Studierenden auf weniger Module zur gleichen Zeit konzentrieren können. Diese Herangehensweise wurde ebenfalls im Rahmen von Profil2 als Maßnahme vorgeschlagen[^profil2]. Viele Studierende wünschen sich die Möglichkeit der Fachvertiefung. Das Problem wird häufig mit "man kratzt alles nur an und dann kommt schon das nächste Thema" beschrieben. Gerade bei den Implementierungs-affinen Studierenden, aber auch bei den Lehrenden wird häufig der Wunsch nach mehr Unterstützung im Bereich Programmierung gennant. Dies gilt vor allem für komplexere und größere Projekte. 
+Derzeit fehlt im Bachelorprogramm ein Modul, dass die Studierenden auf die rechtlichen Fragestellung in der (Medien-)informatik vorbereitet. Dieses Defizit wurde in verschiedenen Feedbackrunden adressiert.
 
 Bezogen auf den Master wird immer wieder die fehlende oder unzureichende Praxisorientierung als Problem genannt. Auch hier fehlt den Studierenden die Möglichkeit zur Fachvertiefung entsprechend der persönlichen Neigung. 
 
@@ -197,7 +202,7 @@ Somit lassen sich die folgenden Defizite im aktuellen Medieninformatik Bachelor 
 - Zu viele verschiedene Module mit unterschiedlichen Regularien
 - Zeitproblem beim Einstieg ins Praxisprojekt
 - Fehlende Möglichkeit zur strukturierten Vertiefung
-- Übergang in den Spezialisierungsteil (vom vierten ins fünfte Semester) Übergang ins Abschlussprojekt
+- Übergang in den Spezialisierungsteil (vom vierten ins fünfte Semester) übergang ins Abschlussprojekt
 - zu starke Fragmentierung, zu wenige Zusammenhänge
 - zu viele „Baustellen“
 - keine Spezialisierung, zu allgemein

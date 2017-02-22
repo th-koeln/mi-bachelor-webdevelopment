@@ -1,9 +1,9 @@
 ---
 title: Ausstattung
-aktueller-bearbeiter: 
+aktueller-bearbeiter:
 bearbeiterhistorie: Christian Noss
 date: 18.02.2017
-comment: 
+comment: Gerhard hat die eye-tracking facilities eingefügt, Gerhards Forschungsthemen eingetragen
 status: unvollständig
 reviewed-von:
 ---
@@ -103,6 +103,10 @@ reviewed-von:
 * Audiomischer Behringer AB1222FX-Pro
 * Mac Pro mit Adobe Production Suite CS 6 zur Digitalisierung und Nachbearbeitung der Studioproduktionen
 
+## MI-Projektraum
+
+* Eyetracking System (SMI-Vision, 120 Hz) mit Laptop und Auswertungssoftware
+* Eye-Tracking Brille (Tobii) für mobile Nutzungskontexte
 
 ## Lehrende in der Medieninformatik
 
@@ -224,7 +228,10 @@ reviewed-von:
 
 
 * Forschungsgebiete
-  * **[hier fehlt noch Inhalt]**
+  * Sustainable Interaction Design
+  * Sustainability as System-Requirements
+  * Designing Worth, Value-related Design
+  
 * Lehrgebiete
   * Mensch-Computer Interaktion
   * Entwicklungsprojekt interaktive Systeme

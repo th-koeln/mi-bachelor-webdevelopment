@@ -52,6 +52,6 @@ reviewed-von:
 >-   exemplarisches Transcript of Records je Studiengang
 
 ~~~
-cn: irgendwo würde ich gern was zur Haltung schreiben
+@kristian, @gerhard, @mario: kann einer von euch was dazu schreiben? Ich hab keine Peilung, was die da wollen :/
 ~~~
 

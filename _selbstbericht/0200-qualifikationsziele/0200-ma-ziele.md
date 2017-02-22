@@ -8,6 +8,9 @@ status: unvollständig und noch etwas chaotisch, Überarbeitung erforderlich
 reviewed-von:
 ---
 
+~~~
+@mario: Kannst Du da bitte mal drüber gucken?
+~~~
 
 ## Leitbild Medieninformatik Master
 
