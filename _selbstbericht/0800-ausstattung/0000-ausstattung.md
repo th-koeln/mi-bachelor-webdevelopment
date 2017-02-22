@@ -112,8 +112,8 @@ reviewed-von:
 
 | Name / Web                               | Forschungsgebiete                        | Lehrgebiete                              |
 | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
-| Prof. Dr. Thomas Bartz-Beielstein<br>https://www.th-koeln.de/personen/thomas.bartz-beielstein/ | • CIplus                                 | • Angewandte Mathematik Simulation und Optimierung<br>• Computational Intelligence Evolutionäre Algorithmen |
-| Bente, Stefan<br>https://www.th-koeln.de/personen/stefan.bente/ | <ul><li> Softwarearchitektur</li><br><li>Enterprise-Architektur-Management (EAM)</li></ul> | • Softwaretechnik Softwarearchitektur<br>• Anforderungsmanagement |
+| Prof. Dr. Thomas Bartz-Beielstein<br> [Personenseite](https://www.th-koeln.de/personen/thomas.bartz-beielstein | • CIplus                                 | • Angewandte Mathematik Simulation und Optimierung<br>• Computational Intelligence Evolutionäre Algorithmen |
+| Bente, Stefan<br>https://www.th-koeln.de/personen/stefan.bente/ | <ul><li> Softwarearchitektur</li><br><li>Enterprise-Architektur-Management (EAM)</li></ul> | * Softwaretechnik Softwarearchitektur * Anforderungsmanagement |
 
 ### Prof. Dr. Thomas Bartz-Beielstein
 
@@ -231,7 +231,7 @@ reviewed-von:
   * Sustainable Interaction Design
   * Sustainability as System-Requirements
   * Designing Worth, Value-related Design
-  
+
 * Lehrgebiete
   * Mensch-Computer Interaktion
   * Entwicklungsprojekt interaktive Systeme
