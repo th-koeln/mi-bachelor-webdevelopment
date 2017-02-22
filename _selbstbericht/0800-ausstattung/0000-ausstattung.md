@@ -333,7 +333,9 @@ reviewed-von:
 ### Kornacher, Hans Hermann
 
 * Forschungsgebiete
-  * **[hier fehlt noch Inhalt]**
+  * Storytelling und Dramaturgische Strukturen
+  * Charakterentwicklung und Persona
+  * Digitale Bildbearbeitung im Kontext der Film- und Fernsehproduktion
 
 
 * Web: https://www.th-koeln.de/personen/hans.kornacher/
@@ -342,6 +344,7 @@ reviewed-von:
 * Lehrgebiete
   * Medientechnik und -produktion
   * Digitale Animation und Visual Effects in der Film- und Fernsehproduktion
+  * Storytelling und narrative Strukturen
 
 
 ### Naujoks, Boris
