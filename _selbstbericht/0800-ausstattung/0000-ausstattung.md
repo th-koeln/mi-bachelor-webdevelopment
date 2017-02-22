@@ -79,6 +79,10 @@ reviewed-von:
 
 ## Lehrende in der Medieninformatik
 
+**Prof. Dr. Thomas Bartz-Beielstein**
+- Angewandte Mathematik Simulation und Optimierung
+- Computational Intelligence Evolutionäre Algorithmen
+
 | Name / Web                               | Forschungsgebiete                        | Lehrgebiete                              |
 | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
 | Prof. Dr. Thomas Bartz-Beielstein<br>https://www.th-koeln.de/personen/thomas.bartz-beielstein | • CIplus                                 | • Angewandte Mathematik Simulation und Optimierung<br>• Computational Intelligence Evolutionäre Algorithmen |

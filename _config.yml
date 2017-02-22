@@ -104,7 +104,7 @@ collections:
     layout: selbstbericht
   selbstbericht_schnippsel:
     layout: selbstbericht
-  selbstbericht-leitfragen-asiin:
+  leitfragen-asiin:
     layout: selbstbericht
   ideen:
     layout: ideen
@@ -155,5 +155,10 @@ defaults:
     scope:
       path: "selbstbericht_schnipsel"
       type: selbstbericht2009
+    values:
+      layout: selbstbericht
+    scope:
+      path: "leitfragen-asiin"
+      type: leitfragen-asiin
     values:
       layout: selbstbericht   

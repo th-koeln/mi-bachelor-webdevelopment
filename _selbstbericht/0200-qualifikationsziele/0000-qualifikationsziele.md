@@ -42,11 +42,6 @@ reviewed-von:
 >-   Modulbeschreibungen, wie sie den Lehrenden und Studierenden zur Verfügung stehen
 
 
-~~~
-cn: hier wäre noch ein kleines Präludium schön. Wie hat sich die MI in den letzten Jahren verändert
-	und was sind strategische Ziele des Instituts (Computergrafik, Social Computing)
-~~~
-
 Die Fachgruppe Medieninformatik innerhalb des Fachbereichs Mensch-Computer-Interaktion der Gesellschaft für Informatik definiert das Lehr-, Forschungs- und Arbeitsgebiet Medieninformatik in ihrem aktuellen Positionspapier[^positionspapier-gi-mci-mi] wie folgt:
 
 > Medieninformatik ist ein Teilgebiet der Informatik. Sie beschäftigt sich mit:
