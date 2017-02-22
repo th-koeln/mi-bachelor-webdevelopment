@@ -3,7 +3,7 @@ title: Ausstattung
 aktueller-bearbeiter:
 bearbeiterhistorie: Christian Noss
 date: 18.02.2017
-comment: Gerhard hat die eye-tracking facilities eingefügt, Gerhards Forschungsthemen eingetragen
+comment: Gerhard hat die eye-tracking facilities eingefügt, Gerhards Forschungsthemen eingetragen, Hans hat die Geräteausstattung etwas zusammengefasst
 status: unvollständig
 reviewed-von:
 ---
@@ -52,19 +52,12 @@ reviewed-von:
   * P2 Panasonic HD Kamera
   * Sachtler Kamerastativ
   * Sennheiser Richtmikrofon und mobilen Audiomischer
-
 * 4 x kompakte Panasonic HD Kameras
-
 * 1 x Canon EOS 5D Mark III mit verschiedenen Wechselobjektiven:
-
 * 1 x GoPro Hero 3 Black Edition
-
 * 1 x DJI Ozmo Gimbal Kamera
-
 * 9 x Lichtset im Koffer, mit jeweils 3 x 750 W ARRI Scheinwerfer
-
 * Diverses Zubehör für Licht, Ton und Video wie Lichtstative, Fieldmonitore, Speichermedien
-
 * Verschiedene Smartphones und Tablets: Nexus 5, Nexus 9 und iPad Pro 13’’ 
 
 ## Nachbearbeitung
