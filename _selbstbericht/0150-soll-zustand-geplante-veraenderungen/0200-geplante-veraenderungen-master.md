@@ -15,12 +15,12 @@ Die im Folgenden dargestellten geplanten Veränderungen des Masterstudienprogram
 Mit der Profilschärfung sollen folgende bekannte Defizite ausgeglichen werden:
 
 - zu wenig Übergänge von Bachelorabsolventen der eigenen Fakultät
-- Fehlende Profilschärfung und sichbarer Praxisbezug
+- Fehlende Profilschärfung und sichtbarer Praxisbezug
 - Fehlende Möglichkeiten zur fachlichen Vertiefung
 
 Der Medieninformatik Masterstudiengang war bislang generalistisch geprägt. Im Zuge der Reakkreditierung ist hier eine Veränderung dahingehend geplant, dass Studierenden die Möglichkeit gegeben werden soll, sich in bestimmten Bereichen zu spezialisieren. Dafür werden Studienschwerpunkte geschaffen. Trotzdem soll weiterhin ein generalistischer Studienverlauf möglich sein.
 
-Aufbauend auf den thematischen Gebieten des Bachelorstudiengangs, die sich dort unter anderem in den Vertiefungsmodulen manifestieren, und ausgerichtet auf die Strategie des Instituts für Informatik, werden folgende Schwerpunkte angeboten: "Social Computing", "Visual Computing", "Weaving the Web" und "Human-Computer Interaction". Zur Abbildung eines generalistischen Studienverlaufs wird der Pseudo-Schwerpunkt "Multiperspective Product Development" angeboten, der sich aus ausgewählten Modulen der anderen Schwerpunkte und des Wahlplichtkatalogs speist. Die Module der Schwerpunkte setzen sich zum großen Teil aus bestehenden Modulen des Pflicht- und Wahlbereichs zusammen. Für die Schwerpunkte "Visual Computing" und "Social Computing" wurden einige neue Module erarbeitet, da hier, in Einklang mit der inhaltlichen Strategie des Instituts, neue Themengebiete erschlossen oder verbreitert werden sollen.
+Aufbauend auf den thematischen Gebieten des Bachelorstudiengangs, die sich dort unter anderem in den Vertiefungsmodulen manifestieren, und ausgerichtet auf die Strategie des Instituts für Informatik, werden folgende Schwerpunkte angeboten: "Social Computing", "Visual Computing", "Weaving the Web" und "Human-Computer Interaction". Zur Abbildung eines generalistischen Studienverlaufs wird der Pseudo-Schwerpunkt "Multiperspective Product Development" angeboten, der sich aus ausgewählten Modulen der anderen Schwerpunkte und des Wahlpflichtkatalogs speist. Die Module der Schwerpunkte setzen sich zum großen Teil aus bestehenden Modulen des Pflicht- und Wahlbereichs zusammen. Für die Schwerpunkte "Visual Computing" und "Social Computing" wurden einige neue Module erarbeitet, da hier, in Einklang mit der inhaltlichen Strategie des Instituts, neue Themengebiete erschlossen oder verbreitert werden sollen.
 
 Die Schwerpunkte setzen sich aus den folgenden Modulen zusammen:
 
