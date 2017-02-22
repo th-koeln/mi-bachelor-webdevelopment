@@ -20,26 +20,39 @@ schwerpunkt: wtw
 
 ## Kurzbeschreibung
 In der Veranstaltung werden zwei Felder eingeführt:
-- Grundkonzepte der Software Architektur werden bezogen auf Web basierte Anwendungen behandelt
-- Fragen der Internet Governance werden eingeführt.
+
+- Grundkonzepte der Software Architektur bezogen auf Web basierte Anwendungen
+- Fragen der Internet Governance
+
 Basierend auf diesem Grundlagenwissen werden dann Lösungen aus fortschrittliche Anwendungsfelder im Web analysiert.
 
 ## Lehrform/SWS: 
-2 SWS Vorlesung, 2 SWS Seminar
+4 SWS: Vorlesung 2 SWS; Seminar 2 SWS
 
 ## Arbeitsaufwand: 
-180
+180 Stunden
+
+~~~
+Bitte Stunden noch aufsplitten
+Beispiel:
+
+Gesamtaufwand 150 h, davon 
+- 40 h Vorlesung 
+- 40 h Projektarbeit  
+- 90 h Selbststudium 
+~~~
+
+
 
 ## Angestrebte Lernergebnisse:
 Die Studentinnen und Studenten
 - kennen wesentliche Konzepte und Methoden aus dem Bereich Softwarearchitektur
 - kennen wesentliche Elemente der Internet Governance und können Problemfelder in diesem Bereich kritisch analysieren
 - können bestehende Web Anwendungen basierend auf den Konzepten der Software Architektur und der Internet Governance analysieren
-
-um an in leitender Funktion zur Gestaltung der Architektur von Projekten für das Web beitragen zu können.
+- um in leitender Funktion zur Gestaltung der Architektur von Projekten für das Web beitragen zu können.
 
 ## Inhalt:
-Softwarearchitekturen: Designprozess, Kommunikationsmethoden(Connectoren), Sicherheit, Modellierung, Visualisierung, Analyse
+Softwarearchitekturen: Designprozess, Kommunikationsmethoden (Connectoren), Sicherheit, Modellierung, Visualisierung, Analyse
 
 Internet Governance: Governance der Infrastruktur des Web, Politik und Werte bei der Wahl von Protokollen, Softwarelizensierung, Systeme des Urheberrechts, Ethische Fragen bei Web Anwendungen
 

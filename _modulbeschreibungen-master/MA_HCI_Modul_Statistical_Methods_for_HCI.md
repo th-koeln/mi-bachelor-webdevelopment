@@ -18,26 +18,41 @@ parent: SPM3
 schwerpunkt: hci
 ---
 
-## Lehrform/SWS: Vorlesung , Übung
+## Lehrform/SWS:
+
+Vorlesung; Übung
+
+~~~
+Angaben zu SWS fehlen
+~~~
 
 
-## Arbeitsaufwand: 180 h, davon 45h Vorlesung, 105h Selbststudium, 30h Übung
-6 ECTS
+
+## Lehrform/SWS:
+
+## Arbeitsaufwand:
+
+Gesamtaufwand 180 h, davon 
+
+- 45 h Vorlesung 
+- 30 h Übung
+- 105 h Selbststudium
 
 
 
 ## Angestrebte Lernergebnisse:
 
-Die Studierenden sind in der Lage, empirische Daten so darzustellen, dass wesentlichen Strukturen erkennbar sind. Die Studierenden können angemessene Kennzahlen und Verfahren zur Charakterisierung von empirischen Daten spezifizieren und ermitteln. Sie beherrschen wesentliche Konzepte zur Visualisierung von empirischen Daten und können erste (explorative) Analysen durchführen. 
+Die Studierenden sind in der Lage empirische Daten so darzustellen, dass wesentlichen Strukturen erkennbar sind. Die Studierenden können angemessene Kennzahlen und Verfahren zur Charakterisierung von empirischen Daten spezifizieren und ermitteln. Sie beherrschen wesentliche Konzepte zur Visualisierung von empirischen Daten und können erste (explorative) Analysen durchführen. 
 
 Die Studierenden kennen grundlegende Konzepte und Verfahren der Inferenzstatistik. Sie sind in der Lage, empirische Daten zu analysieren, Hypothesen zu testen und die Ergebnisse hinsichtlich empirischer Fragestellungen zu interpretieren. Sie können Gütekriterien zur Auswahl unterschiedlicher Verfahren benennen und anwenden.
 
 ## Inhalt:
 
-Merkmale und Skalen, univariante Häufigkeitsverteilungen, Lagemaße, Streuung und Schiefe, Konzentration, Bivariate Häufigkeitsverteilungen und Kontingenz, Korrelations- und Regressionsanalyse, Verhältnis – und Indexzahlen.
+Merkmale und Skalen, univariante Häufigkeitsverteilungen, Lagemaße, Streuung und Schiefe, Konzentration, bivariate Häufigkeitsverteilungen und Kontingenz, Korrelations- und Regressionsanalyse, Verhältnis – und Indexzahlen.
 
 Diskrete und Stetige Zufallsvariablen, Population und Parameterschätzung, Hypothesentests und Signifikanz, t-Tests, 
-Konfidenzintervalle, Fehlertypen, Effektstärken und Power, Multivariate Verfahren (ein- und mehrfaktorielle Varianzanalysen und entsprechendes Forschungsdesign).
+
+Konfidenzintervalle, Fehlertypen, Effektstärken und Power, multivariate Verfahren (ein- und mehrfaktorielle Varianzanalysen und entsprechendes Forschungsdesign).
 
 ## Studien-/Prüfungsleistungen:
 Übungsaufgaben und schriftliche Modulprüfung

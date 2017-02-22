@@ -19,11 +19,11 @@ schwerpunkt: vc, mpd
 ---
 
 ## Kurzbeschreibung
-Die Studierenden sollen in die Lage versetzt werden, abstrakte, vorwiegend numerische Datenbestände in 2-und 3-dimensionalen Repräsentationen zu visualisieren und mit interaktiven Methoden zu untersuchen, um Strukturen aufzudecken, Hypothesen abzuleiten und zu verifizieren sowie Ergebnisse zu kommunizieren. Die Studierenden sind in der Lage, die aus modernen Simulations- und Messmethoden resultierenden umfangreichere Datenvolumina durch Visualisierungsverfahren einer Analyse zuzuführen. Dies wird sowohl anhand von theoretischen Grundlagen, der Analyse und Präsentation aktueller Forschungsergebnisse als auch der Verifikation der erworbenen Kenntnisse an eigenen Visualisierungen vermittelt.
+Die Studierenden sollen in die Lage versetzt werden, abstrakte, vorwiegend numerische Datenbestände in 2-und 3-dimensionalen Repräsentationen zu visualisieren und mit interaktiven Methoden zu untersuchen, um Strukturen aufzudecken, Hypothesen abzuleiten und zu verifizieren, sowie Ergebnisse zu kommunizieren. Die Studierenden sind in der Lage, die aus modernen Simulations- und Messmethoden resultierenden umfangreichere Datenvolumina durch Visualisierungsverfahren einer Analyse zuzuführen. Dies wird sowohl anhand von theoretischen Grundlagen, der Analyse und Präsentation aktueller Forschungsergebnisse als auch der Verifikation der erworbenen Kenntnisse an eigenen Visualisierungen vermittelt.
 
 
 ## Lehrform/SWS: 
-4 SWS, Vorlesung (1 SWS), Seminar/Workshops (2SWS), Projekt (1 SWS)
+4 SWS: Vorlesung 1 SWS; Seminar / Workshops 2SWS; Projekt  1 SWS
 
 ## Arbeitsaufwand: 
 Gesamtaufwand 150h, davon
@@ -35,7 +35,7 @@ Gesamtaufwand 150h, davon
 ## Angestrebte Lernergebnisse:
 - Die Studierenden sollen in die Lage versetzt werden, abstrakte, vorwiegend numerische Datenbestände in 2-und 3-dimensionalen Repräsentationen zu visualisieren und mit interaktiven Methoden zu untersuchen, um Strukturen aufzudecken, Hypothesen abzuleiten und zu verifizieren sowie Ergebnisse zu kommunizieren. 
 - Die Studierenden sind in der Lage, die aus modernen Simulations- und Messmethoden resultierenden umfangreicheren Datenvolumina durch Visualisierungsverfahren einer Analyse zuzuführen. Dies wird sowohl anhand von theoretischen Grundlagen, der Analyse und Präsentation aktueller Forschungsergebnisse als auch der Verifikation der erworbenen Kenntnisse an eigenen Visualisierungen vermittelt.
-- Die Studierenden sind fähig, Problemstellungen grundlagen-basiert, systemanalytisch und multiperspektivisch zu analysieren, zu formulieren, zu formalisieren und durch geeignete Visualisierungen zu lösen sowie diese Lösungen kritisch zu evaluieren.
+- Die Studierenden sind fähig, Problemstellungen grundlagenbasiert, systemanalytisch und multiperspektivisch zu analysieren, zu formulieren, zu formalisieren und durch geeignete Visualisierungen zu lösen sowie diese Lösungen kritisch zu evaluieren.
 - Anhand eigener Recherche vertiefen die Studierenden ihre Fähigkeit, sich eigenständig in neue Themenbereiche einzuarbeiten, sowie Problemstellungen, Technologien und wissenschaftliche Erkenntnisse im Bereich der Visualisierung in ihre Projekte einzubeziehen und für eine effektive Lösung aktueller Fragestellungen anzuwenden. Dafür bereiten sie wissenschaftliche Arbeiten für unterschiedliche Zielgruppen auf und präsentieren diese fundiert und überzeugend. Das erworbende Wissen wird in einer eigenen interaktiven Visualisierung angewandt und gefestigt.
 - Die Studierenden lernen ihre und andere Visualisierung zu verstehen, zu bewerten und angemessen in eigene wissenschaftliche Arbeiten einfließen zu lassen.
 - Das erworbene Können kann in verschiedensten Bereichen eingesetzt werden, um als Datenanalyst, in der Qualitätskontrolle oder Informationsvisualisierung tätg zu werden.

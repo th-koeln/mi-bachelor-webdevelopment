@@ -7,7 +7,7 @@ kurzbeschreibung: Der Studienschwerpunkt "Visual Computing" steht an der Schnitt
 
 ---
 
-Der Studienschwerpunkt "Visual Computing" steht an der Schnittstelle von Computergrafik, Computer Vision, Mensch-Maschine-Kommunikation, Bild- und Videoverarbeitung, sowie Visualisierung. 
+Der Studienschwerpunkt „Visual Computing” steht an der Schnittstelle von Computergrafik, Computer Vision, Mensch-Maschine-Kommunikation, Bild- und Videoverarbeitung, sowie Visualisierung. 
 
 Ziel des Studienschwerpunktes Visual Computing ist es, den Studierenden ein solides Fundament bildbasierter und bildgebender Verfahren zu vermitteln, indem die Entwicklung praktischer Algorithmen und Programme anhand ihrer theoretischen Grundlagen erlernt wird. Zusätzlich sollen die Studierenden in die Lage versetzt werden, die entwickelten Applikationen zu bewerten, zu präsentieren und auf ihre ethischen Konsequenzen hin zu prüfen.
 
@@ -24,3 +24,37 @@ Zudem müssen folgende drei Projekte im Umfang von jeweils 12 cp belegt werden, 
 - Projekt Forschung im Studienschwerpunkt Visual Computing
 
 Weitere 18 CP können aus dem allgemeinen Angebot der Veranstaltungen aller Kurse aus den Masterstudiengängen Medieninformatik und Informatik belegt werden, um der Heterogenität der Medieninformatik und des Visual Computings gerecht zu werden.
+
+~~~
+Bitte das Dokument entsprechend der unten aufgeführten Struktur aufbauen.
+~~~
+
+
+
+## Zielsetzung:
+
+
+
+## Schwerpunktspezifische Pflichtmodule
+
+* ​
+* ​
+
+## Lehrveranstaltungen im Projekt:
+
+
+
+### Vision & Konzept:
+
+
+
+### Entwicklung:
+
+
+
+### Verwertung:
+
+
+
+## Empfohlene Wahlpflicht-Module in dem Schwerpunkt:
+

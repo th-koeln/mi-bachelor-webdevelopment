@@ -25,7 +25,7 @@ Auf Basis eines bereits ausgearbeiteten Prototypen werden in diesem Modul die Sc
 Projektarbeit
 
 ## Arbeitsaufwand: 
-360
+360 Stunden
 
 ## Angestrebte Lernergebnisse:
 Die Studentinnen und Studenten können die Kernfunktionen eines Produktes identifizieren und sind in der Lage einen Prototypen als minimal viable product in den Markt oder die Community zu bringen.
@@ -35,9 +35,9 @@ Die Teilnehmer kennen Deployment Strategien, Konzepte und Techniken der Kontinui
 Die Studierenden sind in der Lage eine Produkt Management Strategie für ein Online Produkt zu entwickeln und zu implementieren. Alternativ können die Studierenden die gewonnen Erkenntnisse aus dem Produkt in der Community z.B. in Form eines Konferenzbeitrags sichtbar machen und einen wissenschaftlichen Diskurs dazu führen.
 
 ## Inhalt:
-In der eigentlichen Projektarbeit wird ein fertiger, lauffertiger Prototyp evaluiert und in Form eines minimal viable product zugänglich gemacht. Im Rahmen des Moduls wird eine Produktmanagement Strategie entwickelt und das Produkt wird unter Qualitätsmanagement Gesichtspunkten beleuchtet. 
+In der eigentlichen Projektarbeit wird ein fertiger, lauffähiger Prototyp evaluiert und in Form eines minimal viable product zugänglich gemacht. Im Rahmen des Moduls wird eine Produktmanagement Strategie entwickelt und das Produkt wird unter Qualitätsmanagement Gesichtspunkten beleuchtet. 
 
-Variante: In der eigentlichen Projektarbeit wird ein fertiger, lauffertiger Prototyp evaluiert und in Form eines minimal viable product zugänglich gemacht. Im Rahmen des Projekts werden Konzepte und Techniken der Kontinuierlichen Integration auf das MVP angewendet.
+Variante: In der eigentlichen Projektarbeit wird ein fertiger, lauffertiger Prototyp evaluiert und in Form eines minimal viable product zugänglich gemacht. Im Rahmen des Projekts werden Konzepte und Techniken der Kontinuierlichen Integration auf das minimal viable product angewendet.
 
 Zur Unterstützung werden Workshops/Seminare in den Bereichen Produkt Management, Web Deployment und Continuous Integration angeboten.
 

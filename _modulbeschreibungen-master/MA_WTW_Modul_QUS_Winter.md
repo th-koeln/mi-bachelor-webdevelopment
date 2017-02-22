@@ -55,9 +55,8 @@ Seminar-Hausarbeit und -Vortrag
 Klausur 60 Minuten
 
 ## Medienformen:
-Beamer-gestützte Vorlesungen (Folien in elektronischer Form im Netz)
-
-Fallbeispielgestützte Übungen in Gruppen, um die erlernten Modelle und Methoden einzuüben und zu vertiefen (Seminarraum, Rechnerlabor).
+* Beamer-gestützte Vorlesungen (Folien in elektronischer Form im Netz)
+* Fallbeispielgestützte Übungen in Gruppen, um die erlernten Modelle und Methoden einzuüben und zu vertiefen (Seminarraum, Rechnerlabor).
 
 ## Literatur:
 - A. Spillner, T. Roßner, M. Winter, T. Linz: Praxiswissen Softwaretest – Testmanagement. 4., vollst. überarbeitete und akt. Auflage, dpunkt.verlag, Heidelberg, 2014

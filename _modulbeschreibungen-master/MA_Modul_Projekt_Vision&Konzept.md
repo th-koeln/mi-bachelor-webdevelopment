@@ -25,13 +25,13 @@ In einem Projekt wird eine Idee für ein Produkt oder einen Dienst entwickelt, e
 Projektarbeit
 
 ## Arbeitsaufwand: 
-360
+360 Stunden
 
 ## Angestrebte Lernergebnisse:
 Die Studentinnen und Studenten
 - können Kreativitätstechniken anwenden um zu Produktideen zu kommen
 - können zu einem kritischen Fachdiskurs über Potenziale und Risiken der Ideen beitragen
-- können wissenschaftliche Gebiete, die für das Produkt wesentlich sein können identifizieren, den Stand des Wissens ermitteln und in einem Fachdiskurs darstellen und diskutieren
+- können wissenschaftliche Gebiete, die für das Produkt wesentlich sein können, identifizieren, den Stand des Wissens ermitteln und in einem Fachdiskurs darstellen und diskutieren
 - können auf Basis aktuellen Wissens und aktueller Dienste und Technologien ein Konzept für ein Produkt entwickeln, das in einem nachfolgenden Schritt von einem Team von Entwicklern als Prototyp realisiert werden kann.
 - können die Vision in einen Design Mockup umsetzen
 

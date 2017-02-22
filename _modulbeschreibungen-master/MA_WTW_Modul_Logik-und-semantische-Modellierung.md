@@ -24,8 +24,26 @@ Die Studentinnen und Studenten werden in die Entwicklung von semantischen Modell
 ## Lehrform/SWS: 
 V/Ü
 
+~~~
+Bitte SWS noch ergänzen
+~~~
+
+
+
 ## Arbeitsaufwand: 
-180
+180 Stunden
+
+~~~
+Bitte Stunden noch aufsplitten
+Beispiel:
+
+Gesamtaufwand 150 h, davon 
+- 40 h Vorlesung 
+- 40 h Projektarbeit  
+- 90 h Selbststudium 
+~~~
+
+
 
 ## Angestrebte Lernergebnisse:
 Die Teilnehmerinnen und Teilnehmer sollen die
@@ -45,7 +63,8 @@ Die Teilnehmerinnen und Teilnehmer sollen die
 Mündliche Prüfung
 
 ## Medienformen:
-Präsentationsmaterialien, Arbeitsblätter
+* Präsentationsmaterialien
+* Arbeitsblätter
 
 ## Literatur:
 - D. Allemang, J. Hendler: Semantic Web for the Working Ontologist, Morgan Kaufman 2011

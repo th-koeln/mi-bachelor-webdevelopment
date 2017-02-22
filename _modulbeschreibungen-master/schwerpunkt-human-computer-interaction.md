@@ -8,7 +8,7 @@ kurzbeschreibung: Medieninformatik und Mensch-Computer Interaktion stehen in vie
 
 ## Allgemeines: 
 
-Medieninformatik und Mensch-Computer Interaktion stehen in vielerlei Hinsicht in einem engen Zusammenhang. So beinhaltet etwa der Fachbereich „Mensch-Computer Interaktion“ der GI e.V. die Fachgruppe „Medieninformatik“ (siehe auch: http://fb-mci.gi.de/mensch-computer-interaktion-mci/fachgruppen/medieninformatik.html).
+Medieninformatik und Mensch-Computer Interaktion stehen in vielerlei Hinsicht in einem engen Zusammenhang. So beinhaltet etwa der Fachbereich „Mensch-Computer Interaktion“ der GI e.V. die Fachgruppe „Medieninformatik“ (siehe auch: [http://fb-mci.gi.de/mensch-computer-interaktion-mci/fachgruppen/medieninformatik.html](http://fb-mci.gi.de/mensch-computer-interaktion-mci/fachgruppen/medieninformatik.html)).
 Im Zusammenhang mit der „third wave of HCI“ (Susan Bødker, 2006 und 2016) wird die aktuelle Bedeutung der Disziplin der Mensch-Computer Interaktion für die Gestaltung interaktiver System und insbesondere ihre Rolle für die Medieninformatik deutlich. Nach Bødker besteht eine aktuelle Herausforderung der 3rd wave of HCI insbesondere darin, dass sich die Trennlinie von Technologienutzung zwischen beruflichem/gewerblichem und privatem Bereich mehr und mehr auflöst. Medieninformatik befasst sich insbesondere mit interaktiven und multimedialen Systemen in gewerblichen und privaten Nutzungskontexten und adressiert demnach die Herausforderungen der 3rd wave of HCI.
 
 ## Zielsetzungen:
@@ -17,7 +17,36 @@ Dieser Schwerpunkt adressiert Kompetenzen, Fähigkeiten und Fertigkeiten die im 
 Neben den vielfältigen weiterentwickelten Kompetenzen (formale, analytische, methodologische, gestalterische, technologische, etc.) haben sie die Befähigung zum fachlichen Diskurs vertieft und implementieren mit ihrer Kommunikationskompetenz eine wichtige Schnittstelle für die verschiedenen Stakeholder und Gewerke. 
 
 ## Schwerpunktspezifische Pflichtmodule
-Folgende Module sind im Schwerpunkt verpflichtend: 
 * Interaction Design
 * Design Methodologies
 * Angewandte Statistik für die Mensch-Computer Interaktion
+
+## Lehrveranstaltungen im Projekt:
+
+~~~
+Bitte noch ergänzen
+~~~
+
+### Vision & Konzept:
+
+~~~
+Bitte noch ergänzen
+~~~
+
+### Entwicklung:
+
+~~~
+Bitte noch ergänzen
+~~~
+
+### Verwertung:
+
+~~~
+Bitte noch ergänzen
+~~~
+
+## Empfohlene Wahlpflicht-Module in dem Schwerpunkt:
+
+~~~
+Bitte noch ergänzen
+~~~

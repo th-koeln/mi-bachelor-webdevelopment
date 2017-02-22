@@ -16,17 +16,21 @@ published: true
 type: pm
 ---
 
-## Lehrform/SWS: Vorlesung/ 2 SWS, Übung/ 1 SWS, Projekt/ 3 SWS
+## Lehrform/SWS:
 
+6 SWS: Vorlesung 2 SWS; Übung 2SWS; Projekt 3 SWS
 
-## Arbeitsaufwand: 180 h, davon 45h Vorlesung, 30h Übung, 105 Projekt
-6 ECTS
+## Arbeitsaufwand:
+
+Gesamtaufwand 180 h, davon 
+
+- 45 h Vorlesung 
+- 30 h Übung
+- 105 h Projekt 
 
 ## Angestrebte Lernergebnisse:
 
-Die Teilnehmer sind in der Lage, verschiedene methodische Rahmen für die Beantwortung empirischer Problem- oder
-Fragestellungen zu benennen, kritisch einzuordnen und für ihre konkreten Projekte (Zielsetzungen, Rahmenbedingungen, etc.)
-eine rational begründete Wahl eines (oder einer Kombination aus verschiedenen) methodischen Rahme zu treffen und zu kommunizieren.
+Die Teilnehmer sind in der Lage verschiedene methodische Rahmen für die Beantwortung empirischer Problem- oder Fragestellungen zu benennen, kritisch einzuordnen und für ihre konkreten Projekte (Zielsetzungen, Rahmenbedingungen, etc.) eine rational begründete Wahl eines (oder einer Kombination aus verschiedenen) methodischen Rahme zu treffen und zu kommunizieren.
 Sie sind in der Lage, die Methoden projektgerecht und methodenkompetent anzuwenden und Resultate angemessen zu interpretieren und 
 kritisch zu diskutieren..
 
@@ -34,16 +38,16 @@ kritisch zu diskutieren..
 - Forschungsdesign und -planung
 - quantitative und qualitative Methoden
 - empirische und analytische Ansätze
-- in-vivo vs in-vitro Rahmenbedinungen bei empirischen Methoden
+- in-vivo vs. in-vitro Rahmenbedinungen bei empirischen Methoden
 - Datenweiterverarbeitung und Ergebnisinterpretation und -präsentation
 
- 
+
 ## Studien-/Prüfungsleistungen:
 schriftliche Modulprüfung
 
 ## Medienformen:
 - beamergestützte Vorlesung
-- ebooks
+- E-Books
 
 
 ## Literatur:

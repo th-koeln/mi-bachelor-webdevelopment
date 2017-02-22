@@ -18,33 +18,37 @@ parent: SPM2
 schwerpunkt: sc
 ---
 
-## Lehrform/SWS:  Vorlesung / 2 SWS, Projekt 2 SWS 
+## Lehrform/SWS:
 
+4 SWS: Vorlesung 2 SWS; Projekt 2 SWS
 
-## Arbeitsaufwand: 180 h, davon 45h Vorlesung, 45h Selbststudium, 90h Projekt
-6 ECTS
+## Arbeitsaufwand:
+
+Gesamtaufwand 180 h, davon 
+
+- 45 h Vorlesung 
+- 90 h Projekt
+- 45 h Selbststudium 
 
 ## Angestrebte Lernergebnisse:
 Die Studierenden sollen:
--	die Designphilosophie von Entwurfsmustern verstehen und einordnen können,
--	existierende Entwurfsmuster recherchieren, auswählen und umsetzen können,
--	neue Entwurfsmuster identifizieren und beschreiben können
--	Konstruktives Feedback und Verbesserungsvorschläge für Entwurfsmuster geben können (Peer-Feedback)
-
+- die Designphilosophie von Entwurfsmustern verstehen und einordnen können
+- existierende Entwurfsmuster recherchieren, auswählen und umsetzen können
+- neue Entwurfsmuster identifizieren und beschreiben können
+- Konstruktives Feedback und Verbesserungsvorschläge für Entwurfsmuster geben können (Peer-Feedback)
 
 ## Inhalt:
--	Pattern Theorie nach Christopher Alexander
--	Wissenschaftstheoretische Verortung von Entwurfsmustern
--	Praktische Relevanz von Entwurfsmustern 
--	Wissensmanagement und Erfahrungsaustausch über Good Practices
--	Übersicht über verschiedene soziotechnische Einsatzfelder von Entwurfsmustern (z.B. E-Learning, Social Interfaces, Interaction Design)
--	Formale Struktur von Entwurfsmustern
--	Passung zwischen Lösungsform und Kontext
--	Interventionen und Konsequenzen
--	Forschungsmethoden zum Entdecken von neuen Entwurfsmustern (Pattern Mining)
--	Schreiben von Entwurfsmustern
--	Kollaboratives Entwickeln von Entwurfsmustern
-
+- Pattern Theorie nach Christopher Alexander
+- Wissenschaftstheoretische Verortung von Entwurfsmustern
+- Kollaboratives Entwickeln von Entwurfsmustern
+- Praktische Relevanz von Entwurfsmustern 
+- Wissensmanagement und Erfahrungsaustausch über Good Practices
+- Übersicht über verschiedene soziotechnische Einsatzfelder von Entwurfsmustern (z.B. E-Learning, Social Interfaces, Interaction Design)
+- Formale Struktur von Entwurfsmustern
+- Passung zwischen Lösungsform und Kontext
+- Interventionen und Konsequenzen
+- Forschungsmethoden zum Entdecken von neuen Entwurfsmustern (Pattern Mining)
+- Schreiben von Entwurfsmustern
 
 ## Studien-/Prüfungsleistungen:
 Schriftliche Ausarbeitung zu neuen Entwurfsmustern
@@ -53,7 +57,7 @@ Schriftliche Ausarbeitung zu neuen Entwurfsmustern
 - Beamer-gestützte Vorlesungen (Folien in elektronischer Form)
 - Vertiefende Materialien in elektronischer Form (Screencasts und Handouts)
 - Pattern Mining Workshop: Gemeinsames Identifizieren von Entwurfsmustern
-- Writers‘ Workshop: Peer Feedback zu schriftlichen Ausarbeitung
+- Writers Workshop: Peer Feedback zu schriftlichen Ausarbeitung
 
 
 

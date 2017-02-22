@@ -23,10 +23,10 @@ Die Masterarbeit (Master Thesis) und das Kolloquium bilden den Abschluss des Stu
 Eigenständige betreute wissenschaftlich-fachpraktische Arbeit
 
 ## Arbeitsaufwand: 
-900
+900 Stunden
 
 ## Angestrebte Lernergebnisse:
-Ziel der Masterarbeit (Master Thesis) und des Kolloquiums ist die Befähigung, innerhalb einer vorgegebenen Frist eine wissenschaftlich orientierte Aufgabe aus der Medieninformatik sowohl in ihren fachlichen Einzelheiten als auch in den fachübergreifenden Zusammenhängen nach wissenschaftlichen, fachpraktischen und gestalterischen Methoden selbständig zu bearbeiten, zu dokumentieren und zu verteidigen. 
+Ziel der Masterarbeit (Master Thesis) und des Kolloquiums ist die Befähigung, innerhalb einer vorgegebenen Frist eine wissenschaftlich orientierte Aufgabe aus der Medieninformatik, sowohl in ihren fachlichen Einzelheiten als auch in den fachübergreifenden Zusammenhängen, nach wissenschaftlichen, fachpraktischen und gestalterischen Methoden selbständig zu bearbeiten, zu dokumentieren und zu verteidigen. 
 
 ## Inhalt:
 - Die Masterarbeit ist in der Regel eine eigenständige Untersuchung mit einer Aufgabenstellung aus der Medieninformatik und einer ausführlichen Beschreibung und Erläuterung ihrer Lösung. 
@@ -36,7 +36,7 @@ Ziel der Masterarbeit (Master Thesis) und des Kolloquiums ist die Befähigung, i
 ## Studien-/Prüfungsleistungen:
 - Masterarbeit: Dokumentation der geleisteten Arbeit mit Zielsetzung und Aufgabenstellung, Stand von Wissenschaft und Technik, verwendeten Problemlösungsmethoden, erzielten Resultaten, offenen Fragen, Reflektion, verwendeten Quellen etc..
 - Kolloquium: Darstellung und Verteidigung der Arbeit und der wichtigsten Ergebnisse im Rahmen eines Vortrages mit anschließender Diskussion
-- Bearbeitungszeiten s. Prüfungsordnung
+- Bearbeitungszeiten siehe Prüfungsordnung
 
 ## Medienformen:
 Je nach Thema
