@@ -106,6 +106,11 @@ reviewed-von:
 
 ## Lehrende in der Medieninformatik
 
+| Name / Web                               | Forschungsgebiete                        | Lehrgebiete                              |
+| ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
+| Prof. Dr. Thomas Bartz-Beielstein<br>https://www.th-koeln.de/personen/thomas.bartz-beielstein/ | • CIplus                                 | • Angewandte Mathematik Simulation und Optimierung<br>• Computational Intelligence Evolutionäre Algorithmen |
+| Bente, Stefan<br>https://www.th-koeln.de/personen/stefan.bente/ | <ul><li> Softwarearchitektur</li><br><li>Enterprise-Architektur-Management (EAM)</li></ul> | • Softwaretechnik Softwarearchitektur<br>• Anforderungsmanagement |
+
 ### Prof. Dr. Thomas Bartz-Beielstein
 
 * Web: https://www.th-koeln.de/personen/thomas.bartz-beielstein/

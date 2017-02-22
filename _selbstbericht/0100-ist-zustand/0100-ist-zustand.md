@@ -91,7 +91,7 @@ cn: Tabelle zeigt nur Zahlen bis 2013. Haben wir da was besseres?
 
 {% include image.html url="tabellen/MI-BA-anzahl-studierende.svg" caption="Tabelle: Daten des Bachelorstudiengangs Medieninformatik" %}
 
-|            | Einschreibungen gesamt | Davon noch im Studium | Davon Abbruch | Davon Abschluss |
+| Semester   | Einschreibungen gesamt | Davon noch im Studium | Davon Abbruch | Davon Abschluss |
 | ---------- | ---------------------- | --------------------- | ------------- | --------------- |
 | WS 2010/11 | 96                     | 28 (29,2%)            | 30 (31,3%)    | 25 (26,0%)      |
 | WS 2011/12 | 141                    | 59 (41,8%)            | 48 (34,0%)    | 15 (10,6%)      |
