@@ -4,8 +4,8 @@ aktueller-bearbeiter:
 bearbeiterhistorie: Christian Noss
 date: 18.02.2017
 comment: fast alles von Websience geklaut … danke!
-status: fast fertig, review erfolrderlich
-reviewed-von:
+status: fast fertig, review erfolrderlich; von Hans reviewed
+reviewed-von:HK
 ---
 
 
