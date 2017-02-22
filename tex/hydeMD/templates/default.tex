@@ -20,6 +20,8 @@
 \definecolor{m_lila}{HTML}{9313ce}
 \definecolor{m_blau}{HTML}{4952e1}
 
+% Paket Positionierung von Grafiken
+\usepackage[export]{adjustbox}
 
 %Paket für deutsche Silbentrennung etc.
 \usepackage{ngerman}
@@ -169,14 +171,14 @@
   {\normalfont\sffamily\mdseries}
   {\chaptertitlename\ \thechapter}{14pt}{\huge\raggedright}
 \titleformat{\section}
-  {\normalfont\sffamily\mdseries\LARGE\color{m_pink}\raggedright}
+  {\singlespacing\normalfont\sffamily\mdseries\LARGE\color{m_pink}\raggedright}
   {\thesection}{1em}{\LARGE}
 \titleformat{\subsection}
-  {\normalfont\sffamily\mdseries\large\raggedright}
+  {\singlespacing\normalfont\sffamily\mdseries\large\raggedright}
   {\thesubsection}{1em}{\large}
 % Zeilenumbruch und Spacing für Absätze
 \titleformat{\paragraph}[hang]
-  {\normalfont\normalsize\bfseries}
+  {\singlespacing\normalfont\normalsize\bfseries}
   {\theparagraph}{1em}{}
 \titlespacing*{\paragraph}{0pt}{3.25ex plus 1ex minus .2ex}{0.5em}
 
