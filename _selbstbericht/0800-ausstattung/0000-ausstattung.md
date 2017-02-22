@@ -141,119 +141,61 @@ reviewed-von:
 
 ## Wissenschaftliche Beschäftigte
 
-### Breiderhoff, Beate
-
-### Breuer, Stefan
-
-### Buderus, Dennis
-
-### Bungart, Johannes-Josef
-
-### Butz, Raphaela
-
-### Chandrasekaran, Sowmya
-
-### Dang, Ngoc-Anh
-
-### Dimitriou, Konstantinos
-
-### Dobrynin, Alexander
-
-### Ferreira Pereira, Jorge Henrique
-
-### Fischbach, Andreas
-
-### Friese, Martina
-
-### Gabriel, Robert
-
-### Gawenda, Damian
-
-### Gellert, Edgar
-
-### Grünloh, Christiane
-
-### Hein, Irina
-
-### Heßland, Marco Paolo
-
-### Hofmeister, Anne
-
-### Holste, Andreas
-
-### Jaeger, Dennis
-
-### Jaspers, Franz-Leonard
-
-### Jung, Christian
-
-### Kasper, Andre
-
-### Krampe, Fabian Reinhard Dietrich
-
-### Krischer, Manuel
-
-### Krumnow, Benjamin
-
-### **Kullack, Sven**
-
-### Linke, Mario
-
-### Moritz, Steffen
-
-### Müller, Sebastian
-
-### Münster, Beate Anna
-
-### Münster, Guido
-
-### Müsse, Uwe
-
-### Neagu, Adrian
-
-### Odenwald, Patrick
-
-### Petersen, David Ferdinand
-
-### Petrisor, Teodora Roxana
-
-### Pham, Quoc Cuong
-
-### Poborski, Uwe
-
-### Rebolledo Coy, Margarita Alejandra
-
-### Reitano, Marco
-
-### Reschke, Daniela
-
-### Riemer, Petra
-
-### Sassmannshausen, Sheree May
-
-### Schäfer, Frank
-
-### Schaefer, Volker
-
-### Scherban, Helmut
-
-### Schewe, Sascha
-
-### Schönthier, Pascal
-
-### Schwede, Marc
-
-### Stork, Jörg
-
-### Stratmann, Marcel
-
-### Strohschein, Jan
-
-### Thill, Markus
-
-### Wagner, Peter
-
-### Zaefferer, Martin
-
-### Zakrevski, Svetlana
-
+* Breiderhoff, Beate
+* Breuer, Stefan
+* Buderus, Dennis
+* Bungart, Johannes-Josef
+* Butz, Raphaela
+* Chandrasekaran, Sowmya
+* Dang, Ngoc-Anh
+* Dimitriou, Konstantinos
+* Dobrynin, Alexander
+* Ferreira Pereira, Jorge Henrique
+* Fischbach, Andreas
+* Friese, Martina
+* Gabriel, Robert
+* Gawenda, Damian
+* Gellert, Edgar
+* Grünloh, Christiane
+* Hein, Irina
+* Heßland, Marco Paolo
+* Hofmeister, Anne
+* Holste, Andreas
+* Jaeger, Dennis
+* Jaspers, Franz-Leonard
+* Jung, Christian
+* Kasper, Andre
+* Krampe, Fabian Reinhard Dietrich
+* Krischer, Manuel
+* Krumnow, Benjamin
+* **Kullack, Sven**
+* Linke, Mario
+* Moritz, Steffen
+* Müller, Sebastian
+* Münster, Beate Anna
+* Münster, Guido
+* Müsse, Uwe
+* Neagu, Adrian
+* Odenwald, Patrick
+* Petersen, David Ferdinand
+* Petrisor, Teodora Roxana
+* Pham, Quoc Cuong
+* Poborski, Uwe
+* Rebolledo Coy, Margarita Alejandra
+* Reitano, Marco
+* Reschke, Daniela
+* Riemer, Petra
+* Sassmannshausen, Sheree May
+* Schäfer, Frank
+* Schaefer, Volker
+* Scherban, Helmut
+* Schewe, Sascha
+* Schönthier, Pascal
+* Schwede, Marc
+* Stork, Jörg
+* Stratmann, Marcel
+* Strohschein, Jan
+* Thill, Markus
+* Wagner, Peter
+* Zaefferer, Martin
+* Zakrevski, Svetlana
