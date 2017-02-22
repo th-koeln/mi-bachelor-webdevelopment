@@ -24,20 +24,37 @@ Es werden Grundlagen für die Analyse und algorithmische Verarbeitung von Graph 
 ## Lehrform/SWS: 
 V/Ü
 
+~~~
+Angaben zu SWS fehlen
+~~~
+
+
+
 ## Arbeitsaufwand: 
 180 Stunden
 
-## Angestrebte Lernergebnisse:
-- Die Studentinnen und Studenten
-- kennen die Bedeutung von formalen Modellen von heutigen technischen, informations- und sozialen Netzen,
-- kennen wesentliche Konzepte, Kenngrößen und Algorithmen für Graphen und Netzwerke
-- können in abgegrenzten Beispielen bestehende Netze anhand der Kenngrößen und Algorithmen analysieren 
+~~~
+Bitte Stunden noch aufsplitten
+Beispiel:
 
-um Methoden und TEchniken zur Analyse sozialer und ggfs. anderer Netze auswählen uzu können.
+Gesamtaufwand 150 h, davon 
+- 40 h Vorlesung 
+- 40 h Projektarbeit  
+- 90 h Selbststudium 
+~~~
+
+
+
+## Angestrebte Lernergebnisse:
+Die Studentinnen und Studenten
+
+- kennen die Bedeutung von formalen Modellen von heutigen technischen, Informations- und sozialen Netzen,
+- kennen wesentliche Konzepte, Kenngrößen und Algorithmen für Graphen und Netzwerke
+- können in abgegrenzten Beispielen bestehende Netze anhand der Kenngrößen und Algorithmen analysieren um Methoden und Techniken zur Analyse sozialer und ggfs. anderer Netze auswählen zu können.
 
 
 ## Inhalt:
-- Empirische Untersuchung von Netzwerke: technische Netze, Informationsnetze, soziale Netze
+- Empirische Untersuchung von Netzwerken: technische Netze, Informationsnetze, soziale Netze
 - Psychologische Grundlagen Sozialer Netze
 - Graphentheorie: Grundlegende Konzepte, Kenngrößen, strukturelle Eigenschaften
 - Graph und Netzwerk Algorithmen
@@ -47,7 +64,8 @@ um Methoden und TEchniken zur Analyse sozialer und ggfs. anderer Netze auswähle
 Mündliche Prüfung
 
 ## Medienformen:
-Präsentationsmaterialien, Arbeitsblätter
+* Präsentationsmaterialien
+* Arbeitsblätter
 
 ## Literatur:
 - M.E.J. Newman: Networks - An Introduction, Oxford University Press 2010

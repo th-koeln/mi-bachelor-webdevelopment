@@ -19,10 +19,10 @@ schwerpunkt: vc
 ---
 
 ## Kurzbeschreibung
-Die Studierenden erlernen aktuelle Techniken zur Erzeugung von photorealistischer Computergrafik, wie Sie in Filmen mittels vorhanden Tools wie Blender/Maya/3DS Max verwendet wird. Dabei liegt der Schwerpunkt nicht auf der praktischen Anwendung sondern vor allem auf den darunterliegenden Algorithmen. Ziel ist es diese zu verstehen, zu erweitern und sinnvoll anwenden zu können.
+Die Studierenden erlernen aktuelle Techniken zur Erzeugung von photorealistischer Computergrafik, wie Sie in Filmen mittels vorhanden Tools wie Blender, Maya, 3DS Max verwendet wird. Dabei liegt der Schwerpunkt nicht auf der praktischen Anwendung sondern vor allem auf den darunterliegenden Algorithmen. Ziel ist es diese zu verstehen, zu erweitern und sinnvoll anwenden zu können.
 
 ## Lehrform/SWS: 
-4 SWS, Vorlesung (2 SWS), Praktikum / Projekt (2 SWS)
+4 SWS, Vorlesung 2 SWS, Praktikum / Projekt 2 SWS
 
 ## Arbeitsaufwand: 
 Gesamtaufwand 150h, davon
@@ -38,7 +38,7 @@ Gesamtaufwand 150h, davon
 
 ## Inhalt:
 - Objekt- und Szenenmodellierung
-- Material- und Reflexionsomdelle
+- Material- und Reflexionsmodelle
 - Licht-Materie-Wechselwirkung
 - globale Beleuchtung und Lichttransportphänomene
 - Path Tracing
@@ -55,7 +55,7 @@ Klausur oder mündliche Prüfung, sowie Projektpräsentationsprüfung.
 Die erfolgreiche Teilnahme an den Praktikas ist Voraussetzung für die Klausur (90 Minuten) oder mündliche Prüfung
 
 ## Medienformen:
-- Beamergestützte Vorlesung; 
+- Beamergestützte Vorlesung
 - Praktika / Projekt in Kleingruppen, um die erlernten Methoden und Techniken einzuüben und zu vertiefen (Rechnerlabor)
 
 ## Literatur:

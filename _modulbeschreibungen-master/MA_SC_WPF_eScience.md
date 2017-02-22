@@ -19,31 +19,40 @@ parent: WPM
 
 ## Lehrform/SWS: Vorlesung/ 3 SWS, Projekt/ 3 SWS
 
-
 ## Arbeitsaufwand: 180 h, davon 60h Vorlesung, 30h Selbststudium, 90h Seminar 
+
+## Lehrform/SWS:
+
+6 SWS: Vorlesung 3 SWS; Projekt 3 SWS
+
+## Arbeitsaufwand:
+
+Gesamtaufwand 180 h, davon 
+
+- 60 h Vorlesung 
+- 30 h Selbststudium
+- 90 h Seminar
 
 
 ## Angestrebte Lernergebnisse:
-Die Studierenden sollen quantitative und qualitative Forschungsmethoden mithilfe digitaler Medien durchführen können. Sie sollen elektronische Werkzeuge für die Datenerhebung und -auswertung beherrschen können. Sie sollen in der Lage sein, Forschungsergebnisse online zu diskutieren, sich international mit Forscherkollegen zu vernetzen und interdisziplinäre Forschungsprojekte durchzuführen. Zudem sollen Studierende in der Lage sein, digitale Arbeitsumgebungen für die wissenschaftliche Zusammenarbeit zu gestalten.
+Die Studierenden sollen quantitative und qualitative Forschungsmethoden mithilfe digitaler Medien durchführen können. Sie sollen elektronische Werkzeuge für die Datenerhebung und -auswertung beherrschen können. Sie sollen in der Lage sein, Forschungsergebnisse online zu diskutieren, sich international mit Forscherkollegen zu vernetzen und interdisziplinäre Forschungsprojekte durchzuführen. Zudem sollen Studierende in der Lage sein digitale Arbeitsumgebungen für die wissenschaftliche Zusammenarbeit zu gestalten.
 
 ## Inhalt:
--	Online-Interviews
--	Experimente im virtuellen Raum
--	Gestaltung von Online-Fragebögen
--	Auswertung von Forschungsergebnissen (z.B. SPSS)
--	Nutzung und Bereitstellung von Open Data
--	Archivierung von Forschungsdaten
--	Kollaboratives Online-Schreiben von wiss. Publikaitonen
--	Systeme für Peer-Reviews
+- Online-Interviews
+- Experimente im virtuellen Raum
+- Gestaltung von Online-Fragebögen
+- Auswertung von Forschungsergebnissen (z.B. SPSS)
+- Nutzung und Bereitstellung von Open Data
+- Archivierung von Forschungsdaten
+- Kollaboratives Online-Schreiben von wissenschaftlichen Publikaitonen
+- Systeme für Peer-Reviews
 
- 
 ## Studien-/Prüfungsleistungen:
-Mündl. Prüfung
+Mündiche Prüfung
 
 ## Medienformen:
 - Beamer-gestützte Vorlesungen (Folien in elektronischer Form)
--	Skript und Handouts
-
+- Skript und Handouts
 
 
 ## Literatur:

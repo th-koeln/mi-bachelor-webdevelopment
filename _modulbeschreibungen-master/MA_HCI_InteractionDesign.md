@@ -19,34 +19,34 @@ parent: SPM1
 schwerpunkt: hci
 ---
 
-## Lehrform/SWS: Vorlesung/ 2 SWS, Übung/ 1 SWS, Projekt/ 3 SWS
+## Lehrform/SWS:
 
+6 SWS: Vorlesung 2 SWS; Übung 1 SWS; Projekt 3 SWS
 
-## Arbeitsaufwand: 180 h, davon 45h Vorlesung, 30h Übung, 105 Projekt
-6 ECTS
+## Arbeitsaufwand:
+
+Gesamtaufwand 180 h, davon 
+
+- 45 h Vorlesung 
+- 30 h Übung
+- 105 h Projekt
 
 
 
 ## Angestrebte Lernergebnisse:
-Ziel ist vor allem, die Benutzerperspektive im Entwicklungsprozess interaktiver Systeme zu berücksichtigen, nicht von der 
-Technologie sondern von menschlichen Erfordernissen auszugehen und eine entsprechende Interaktionsmodellierung und –Gestaltung erreichen zu können. Dabei wird besonderer Wert auf den Auf- bzw. Ausbau von Entwurfskompetenz („reflection in action“, „conversation with the material“) gelegt, die das systematische Entwickeln von Gestaltungsalternativen, deren Bewertung, der Synthese gefundener Qualitäten in kohärenten und konsistenten Systementwürfen und den systematischen, konstruktiven Umgang mit trade-offs und ein insgesamt iteratives Vorgehen beinhaltet. 
-Die Studierenden haben konzeptionelles Design (Conceptual Design) verstanden, können es souverän anwenden und als Vorgehen kritisch einordnen, um aufgabenangemessene und aus Benutzersicht angenehme Technologienutzung zu gestalten. Die Studierenden haben den Ansatz "Designing for Life" verstanden und wissen, wie sie dies methodisch umsetzen können.
-
-  
-
-
+Ziel ist vor allem, die Benutzerperspektive im Entwicklungsprozess interaktiver Systeme zu berücksichtigen, nicht von der Technologie sondern von menschlichen Erfordernissen auszugehen und eine entsprechende Interaktionsmodellierung und –gestaltung erreichen zu können. Dabei wird besonderer Wert auf den Auf- bzw. Ausbau von Entwurfskompetenz („reflection in action“, „conversation with the material“) gelegt, die das systematische Entwickeln von Gestaltungsalternativen, deren Bewertung, der Synthese gefundener Qualitäten in kohärenten und konsistenten Systementwürfen und den systematischen, konstruktiven Umgang mit trade-offs und ein insgesamt iteratives Vorgehen beinhaltet. 
+Die Studierenden haben konzeptionelles Design (Conceptual Design) verstanden, können es souverän anwenden und als Vorgehen kritisch einordnen, um aufgabenangemessene und aus Benutzersicht angenehme Technologienutzung zu gestalten. Die Studierenden haben den Ansatz „Designing for Life” verstanden und wissen, wie sie dies methodisch umsetzen können.
 
 ## Inhalt:
 
--	Analyse und Dokumentation menschlichen, situierten Handelns
--	Entwicklung präskriptiver Handlungsmodelle
--	Analyse und kritische Einordnung präskriptiver Handlungsmodelle
--	Konzeptuelles Design
+- Analyse und Dokumentation menschlichen, situierten Handelns
+- Entwicklung präskriptiver Handlungsmodelle
+- Analyse und kritische Einordnung präskriptiver Handlungsmodelle
+- Konzeptuelles Design
 - Interaktionskonzeption und -gestaltung
--	Sketching und Prototyping Techniken
--	Case Studies
--	Evaluationsmethoden und –techniken
-
+- Sketching und Prototyping Techniken
+- Case Studies
+- Evaluationsmethoden und –techniken
 
 ## Studien-/Prüfungsleistungen:
 schriftliche Ausarbeitung und Designartefakte

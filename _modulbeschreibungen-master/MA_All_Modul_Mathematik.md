@@ -21,12 +21,14 @@ type: pm
 Es werden Grundlagen für die Analyse und algorithmische Verarbeitung von Graph basierten Daten eingeführt. 
 
 ## Lehrform/SWS: 
-Vorlesung(2), Seminar (2)
+4 SWS: Vorlesung 2 SWS; Seminar 2 SWS
 
 ## Arbeitsaufwand: 
-Vorlesung: 30 Stunden 
-Seminar: 30 Stunden
-Selbststudium: 120 Stunden
+Gesamtaufwand 150 h, davon 
+
+- 30 h Vorlesung 
+- 30 h Seminar
+- 12 h Selbststudium 
 
 ## Angestrebte Lernergebnisse:
 Mathematische Abstraktion und Fertigkeiten sind unverzichtbare Grundlagen wissenschaftlichen Arbeitens im Bereich der Informatik. Durch den Besuch dieser Veranstaltung sollen Studierende ihre mathematisch-abstrakte Analysefähigkeit weiter ausbauen, ihre Sicherheit im Umgang mit mathematischen Methoden mit Relevanz für die Informatik stärken, die Fähigkeit zur selbständigen Einarbeitung in neue mathematische Sachverhalte erhalten und ihre Beurteilungsfähigkeit im Umgang mit mathematisch-abstrakten Themen erhöhen.

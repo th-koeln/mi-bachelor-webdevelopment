@@ -34,7 +34,7 @@ Gesamtaufwand 180 h, davon
 ## Angestrebte Lernergebnisse:
 Die Studierenden kennen die grundlegenden narrativen Modelle in unterschiedlichen Medien und Kontexten.
 
-Sie haben die Fähigkeit zur Entwicklung eigener medienspezifischer Erzählformen und können für diese unter Berücksichtigung zielgruppenspezifischer Bedürfnisse narrativen Content erschaffen. Sie haben die notwendige Fertigkeit zur Analyse, Diskussion und kritischen Betrachtung der in den verschiedenen Medien unterschiedlich verwendeten narrativen Modelle.
+Sie haben die Fähigkeit zur Entwicklung eigener medienspezifischer Erzählformen und können für diese, unter Berücksichtigung zielgruppenspezifischer Bedürfnisse, narrativen Content erschaffen. Sie haben die notwendige Fertigkeit zur Analyse, Diskussion und kritischen Betrachtung der in den verschiedenen Medien unterschiedlich verwendeten narrativen Modelle.
 
 Die Studierenden haben die Entwicklungs- und Methodenkompetenz auf dem Gebiet des Storytelling in unterschiedlichen Medien und Arbeitsumgebungen.
 
@@ -43,16 +43,16 @@ Pragmatisches Ziel ist es, in den unterschiedlichsten Berufsfeldern digitaler Me
 ## Inhalt:
 - Storytelling Grundlagen
 - dramaturgische Erzähl-Muster: Plot-Point-Modell und Heldenreise
-- Anwendung in verschiedenen Kontext wie Film, Computerspiel, Entwicklungsumgebung und Kommunikation
+- Anwendung in verschiedenen Kontexten wie Film, Computerspiel, Entwicklungsumgebung und Kommunikation
 
 ## Studien-/Prüfungsleistungen:
 Projektarbeit und schriftliche Ausarbeitung
 
 ## Medienformen:
-- Beamer-gestützte Vorlesungen (Folien in elektronischer Form); 
+- Beamer-gestützte Vorlesungen (Folien in elektronischer Form)
 - Beispiele aus verschiedenen Medien in elektronischer Form
 - Projektentwicklungstools
-- Projektarbeit in Teams, um die erlernten Methoden und Techniken einzuüben und zu vertiefen;
+- Projektarbeit in Teams, um die erlernten Methoden und Techniken einzuüben und zu vertiefen
 
 ## Literatur:
 - Field, Syd (1987): Drehbuchschreiben für Film und Fernsehen, München

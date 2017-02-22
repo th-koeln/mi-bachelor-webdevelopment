@@ -17,40 +17,44 @@ type: wpm
 parent: WPM
 ---
 
-## Lehrform/SWS: Vorlesung/ 2 SWS, Übung/ 1 SWS, Projekt/ 3 SWS
+## Lehrform/SWS:
 
+6 SWS: Vorlesung 2 SWS; Übung 1 SWS; Projekt 3 SWS
 
-## Arbeitsaufwand: 180 h, davon 45h Vorlesung, 30h Übung, 105 Projekt
-6 ECTS
+## Arbeitsaufwand:
+
+Gesamtaufwand 180 h, davon 
+
+- 45 h Vorlesung 
+- 30 h Übung
+- 105 h Projekt
 
 ## Angestrebte Lernergebnisse:
 Die Studierenden sollen:
--	typische Funktionen von Systemen für rechnergestützte Gruppenarbeit kennen und in Bezug zu Gruppenprozessen, Lernprozessen, Aufgaben und der Organisation setzen können,
--	Anforderungen für neue und existierende Systeme beschreiben und bewerten können,
--	Online Veranstaltungen und Besprechungen planen, durchführen und bewerten können
--	Methoden für die nahtlose Integration von Präsenz- und Onlinephasen beherrschen (z.B. Blended Learning, Vor- und Nachbereitung von Meetings)
+- typische Funktionen von Systemen für rechnergestützte Gruppenarbeit kennen und in Bezug zu Gruppenprozessen, Lernprozessen, Aufgaben und der Organisation setzen können
+- Anforderungen für neue und existierende Systeme beschreiben und bewerten können
+- Online Veranstaltungen und Besprechungen planen, durchführen und bewerten können
+- Methoden für die nahtlose Integration von Präsenz- und Onlinephasen beherrschen (z.B. Blended Learning, Vor- und Nachbereitung von Meetings)
 
 ## Inhalt:
--	Klassifizierung von Systemen für die rechnergestützte Gruppenarbeit
--	Synchrone und asynchrone Kommunikationsformen
--	Effektive Gestaltung von Online-Besprechungen und virtuellen Arbeitsräumen
--	Einsatz von Groupware und Roomware
--	Soziale Regeln für Telearbeit und E-Learning
--	Groupworks Patterns
--	Lerntheorien (z.B. Konstruktivismus, soziale Lerntheorien)
--	Konzeption von Blended Learning Arrangements
--	Planung und Durchführung von Webinaren
--	Planung und Produktion von digitalen Lernmaterialien
+- Klassifizierung von Systemen für die rechnergestützte Gruppenarbeit
+- Synchrone und asynchrone Kommunikationsformen
+- Effektive Gestaltung von Online-Besprechungen und virtuellen Arbeitsräumen
+- Einsatz von Groupware und Roomware
+- Soziale Regeln für Telearbeit und E-Learning
+- Groupworks Patterns
+- Lerntheorien (z.B. Konstruktivismus, soziale Lerntheorien)
+- Konzeption von Blended Learning Arrangements
+- Planung und Durchführung von Webinaren
+- Planung und Produktion von digitalen Lernmaterialien
 
-- 
 ## Studien-/Prüfungsleistungen:
 Planung und Durchführung einer Onlineveranstaltung (ca. 15 Minuten)
 
 ## Medienformen:
--	Beamer-gestützte Vorlesungen (Folien in elektronischer Form)
--	Vertiefende Materialien in elektronischer Form (z.B. Screencasts)
--	Projekte in Kleingruppen, um die erlernten Methoden und Techniken einzuüben und zu vertiefen (Kollaborationsraum mit Videokonferenz und digitalen Arbeitsmitteln
-
+- Beamer-gestützte Vorlesungen (Folien in elektronischer Form)
+- Vertiefende Materialien in elektronischer Form (z.B. Screencasts)
+- Projekte in Kleingruppen, um die erlernten Methoden und Techniken einzuüben und zu vertiefen (Kollaborationsraum mit Videokonferenz und digitalen Arbeitsmitteln
 
 
 ## Literatur:

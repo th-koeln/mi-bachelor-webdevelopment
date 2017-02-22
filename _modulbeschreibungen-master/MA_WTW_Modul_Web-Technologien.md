@@ -22,11 +22,20 @@ schwerpunkt: wtw
 In Modul werden fortgeschrittene Herangehensweisen, Technologien, Konzepte und Implementierungsansätze im Kontext Web-basierter Anwendungen adressiert.
 
 ## Lehrform/SWS: 
-Seminar / Workshop (4)
+Seminar / Workshop 4 SWS
 
 ## Arbeitsaufwand: 
 180 Stunden
 
+~~~
+Bitte Stunden noch aufsplitten
+Beispiel:
+
+Gesamtaufwand 150 h, davon 
+- 40 h Vorlesung 
+- 40 h Projektarbeit  
+- 90 h Selbststudium 
+~~~
 ## Angestrebte Lernergebnisse:
 Die Studierenden sind in der Lage auf Basis eines dokumentierten Konzepts ein Entwicklungsprojekt für eine Web-basierte Anwendung zu strukturieren, das Konzept ggf. zu erweitern, um das Entwicklungsprojekt im Team realisieren zu können
 
@@ -41,7 +50,7 @@ Die Studierenden kennen geeignete Vorgehensmodelle, Dokumentationstechniken, sow
 - CSS Pre- und Postprozessoren
 - Frameworks
 - Performance
-- Namingkonventions und Methodologien (BEM, OOCSS, SMACSS, Atomic Design, MVC, …)
+- Namingkonventions und Methodologien (BEM, OOCSS, SMACSS, Atomic Design, MVC, etc.)
 - Dokumentation & Living Styleguides
 - Testing
 - Kommunikations- und Kollaborationswerkzeuge
