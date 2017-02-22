@@ -1,14 +1,21 @@
 ---
 title: Soll-Zustand/ geplante Veränderungen
-aktueller-bearbeiter: Kristian Fischer
-bearbeiterhistorie: Christian Noss
-date: 20.02.2017
-comment: Präludium "wie hat sich die MI in den letzten Jahren verändert?"
+aktueller-bearbeiter: 
+bearbeiterhistorie: Kristian Fischer
+date: 22.02.2017
+comment: Präludium hinzugefügt: bitte reviewen!
 status: fast vollständig
 reviewed-von:
 ---
 
-Seit der Reakkreditierung der Medieninformatik Studiengänge vor 7 Jahren haben sich sowohl die Berfusbilder der Absolventen als auch der Diskurs über Curricula der Medieninformatik weiterentwickelt.
+Seit der Reakkreditierung der Medieninformatik Studiengänge vor sieben Jahren haben sich sowohl die Berfusbilder der Absolventinnen und Absolventen als auch der Diskurs über Curricula der Medieninformatik weiterentwickelt. Wir sehen vor allem drei Felder, in denen die Perspektive der Medieninformatik erhebliche Relevanz erlangt hat:
+- die Modelle und Methoden der Mensch-Computer-Interaktion (MCI) haben sich nicht zuletzt in der entsprechenden Fachgruppe der Gesellschaft für Informatik (GI) als ein konstituierdens Element des Gebiets "Medieninformatik" herauskristallisiert. 
+- die Entwicklung von Anwendungen im und für das Web hat sich als ein zunehmend eigenständiges Feld der Systementwicklung herauskristallisiert. Während die Wirtschaftsinformatik und die allgemeine Informatik das Web als Plattform für Geschäftsprozesse bzw. als technische Plattform in den Vordergrund stellen, steht in der Medieninformatik das Web selbst als gesellschaftliches und ökonomisches Phänomen im Vordergrund, das durch die Vernetzung von Personen, Diensten, Daten und Dingen ("things") neue technische, soziale und ökonomische Qualitäten hervorruft. 
+- digitale Medien wie audiovisuelle Medien, Visualisierungen oder virtuelle oder angereicherte Welten ("virtual and augmented realities") haben als eines der konstituiereden Felder der Medieninformatik in den letzten Jahren stark an Bedeutung gewonnen.
+In diesen drei Feldern beobachten wir auch, dass ein signifikanter Anteil unserer Absolventen ihre berufliche Zukunft sucht. 
+
+Darüber hinaus hat das Institut für Informatik beschlossen als ZUkunftsfeld den Bereich "Social Computing" zu gestalten. Hierunter werden Methoden, Techniken und Modelle für den Einsatz von oft Web basierten IT Systemen im gesellschaftlicen Kontext subsummiert, also etwa Lernsysteme, Assistenzsysteme oder auch Systeme für die gesellschaftliche und politische Teilhabe.Dieses Feld wird zunächst als Teil der Studiengänge der Medieninformatik aufgebaut.
+
 
 ## Weiterentwicklung des Lehrportfolios des Institut für Informatik
 
