@@ -69,6 +69,21 @@ Der Anteil weiblicher Studierender am Campus Gummersbach schwankt in den letzten
 16,9% der Studierenden am Campus Gummersbach verfügen über eine ausländische Staatsangehörigkeit. Die stärkste Gruppe stellen europäische Ausländer mit knapp 60%, gefolgt von asiatischen und afrikanischen Ausländern mit jeweils 18 %. Die anderen Kontinente spielen eine untergeordnete Rolle. Die Studiendauer ausländischer Studierender ist knapp zwei Semester länger als deutscher Studierender. Die Abschlussnote ist mit 2,4 schlechter als die deutscher Absolventen (2,0).
 Studierende mit einer allgemeinen Hochschulreife benötigen im Mittel ein Semester weniger als Studierende mit einer FH-Reife oder einer fachbezogenen Hochschulreife.
 
+## Eingesetzte Lehrformen
+
+6 SWS Vorlesung, 6 SWS Praktikum, 4 SWS Projekt
+Vorlesung, Praktikum / Projekt, Übung mit kursabhängigen Schwerpunkten
+4 SWS, Vorlesung (2 SWS), Übung (2 SWS)
+Vorlesung 2 SWS, Praktikum 2 SWS
+Vorlesung(1), Seminar/Workshops(3), Projekt(1)
+Seminar
+Angeleitetes, eigenverantwortliches Arbeiten
+Flipped Classroom
+
+~~~
+cn: hier fehlt noch sinnvoller Text
+~~~
+
 ## Studienkonzept Bachelor
 
 Um die Qualifikationsziele des Studiengangs zu erreichen, das Studium sinnvoll in das Lehrportfolio der Fakultät einbetten zu können und um eine größtmögliche Zufriedenheit bei den Studierenden zu erzielen, ist das Studiengangskonzept an mehreren Prinzipien ausgerichtet.
@@ -95,28 +110,12 @@ Um den Studierende fundierte Entwicklungskompetenz zu vermitteln, wird ein Modul
 
 Projektorientierung und forschendes Lernen sind seit der Erstakkreditierung des Studiengangs elementare Bestandteile des Studienkonzepts. Diese Ansätze haben in den letzten Jahren vermehrt Einzug in verschiedene Module erhalten. Um hier die Studierenden einerseits nicht zu überfordern, sie aber aber trotzdem an größere und komplexere Projekte und Fragestellungen heranzuführen, werden die Projektanteile und -gewichte im Studiengang behutsam aufgebaut. Das Module "Einführung in die Medieninformatik" startet im ersten Semester mit einem Projektanteil von 50% (2,5 CP) um die Studierenden initial mit dem Lehrformat "Projekt" im Hochschulkontext vertraut zu machen. Das Gewicht der Projekte wird dann im dritten und vierten Semester auf 5 Creditpoints erhöht. Das Modul "Entwicklungsprojekt" im fünften Semestern ist mit einem Gewicht von 10 Creditpoints ausgestattet und leitet über zum Praxisprojekt (10 CP) und der Bachelorarbeit (12 CP). Das Projektgewicht von 12 Creditpoints wird später, im konsekutiven Masterstudiengang, weiter geführt. 
 
-### Module eines Themenfeldes
-
-Bei 
-
-### Wissenschaftliches Arbeiten
-
-Projektorientierung berücksichtigen
-Projektgrößen sinnvoll aufbauen mehr Wahlmöglichkeiten weniger Prüfungselemente
-Austauschsemester in 5
-Vertiefung
-
-
-### Studienphasen
-
-
-
-### Lehrformen
-
 
 ### Vertiefende Dokumente
 
-- Bachelor Medieninformatik Themen von 2010 bis 2014[^Abschlussarbeitsthemen-bachelor]
+- Themen der Abschlussarbeiten von 2010 bis 2014[^Abschlussarbeitsthemen-bachelor]
+- Studienverlaufsplan Medieninformatik Bachelor[^studienverlaufsplan-bachelor]
+- Modulhandbuch Medieninformatik Bachelor[^modulhandbuch-bachelor]
 
 ## Master
 
@@ -138,3 +137,5 @@ Vertiefung
 
 [^Abschlussarbeitsthemen-bachelor]: <a href="../anhaenge/anschlussarbeiten_2010-2014_.pdf">Themen der Abschlussabeiten des Medieninformatik Bachelor 2010 bis 2014</a>
 [^profil-studienanfaenger-2017]: <a href="../anhaenge/profil-studienanfaenger-2017.xlsx">profil-studienanfaenger-2017.xlsx</a>
+[^studienverlaufsplan-bachelor]: Studienverlaufsplan Medieninformatik Bachelor fehlt
+[^modulhandbuch-bachelor]: Modulhandbuch Medieninformatik Bachelor fehlt

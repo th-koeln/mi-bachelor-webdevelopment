@@ -15,10 +15,12 @@ published: true
 type: pm
 ---
 
-## Lehrform/SWS: Vorlesung und Übung
+## Lehrform/SWS: 
+Vorlesung und Übung
 
 
-## Arbeitsaufwand: 300 h, davon 65h Vorlesung, 65h Übung, 170 h Selbststudium
+## Arbeitsaufwand: 
+300 h, davon 65h Vorlesung, 65h Übung, 170 h Selbststudium
 10 ECTS
 
 

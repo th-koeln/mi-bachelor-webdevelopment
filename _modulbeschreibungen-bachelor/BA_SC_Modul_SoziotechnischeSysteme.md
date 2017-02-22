@@ -16,7 +16,8 @@ type: tm
 parent: SC
 ---
 
-## Lehrform/SWS:  Vorlesung / 2 SWS, Seminar 2 SWS 
+## Lehrform/SWS:
+Vorlesung / 2 SWS, Seminar 2 SWS 
 
 
 ## Arbeitsaufwand: 150 h, davon 45h Vorlesung, 45h Selbststudium, 60h Projekt
