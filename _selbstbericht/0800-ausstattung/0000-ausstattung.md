@@ -138,6 +138,7 @@ reviewed-von:
 | Westenberger, Hartmut<br> https://www.th-koeln.de/personen/hartmut.westenberger | • Industrialisierung von Data Warehousing und Business Intelligence Framework und Wissenskomponenten für die Beratung und Entwicklung von DWH/BI | • Informatik Betriebliche Anwendungssysteme |
 | Winter, Mario<br> https://www.th-koeln.de/personen/mario.winter |                                          | • Softwareentwicklung und Projektmanagement in Medienprojekten<br>•  Modellbasierte Entwicklungsmethoden und Qualitätssicherung |
 
+
 ## Wissenschaftliche Beschäftigte
 
 ### Breiderhoff, Beate
