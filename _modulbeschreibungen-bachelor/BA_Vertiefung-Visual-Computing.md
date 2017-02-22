@@ -55,11 +55,11 @@ Wahlkatalog Game Development:
 
 ## Angestrebte Lernergebnisse:
 Je nach gewählten Vertiefungskursen entwickeln die Studierenden Fähigkeiten zur selbstverantwortlichen Durchführung von Projekten im Bereich Gamedevelopment, dreidimensionaler Darstellung virtueller Szenen, Film- und Fernsehtechnik, sowie Visueller Effekte.
+
 Im Detail:
 
 ### Audiovisuelle Medientechnik
-Die Studierenden sollen durch dieses Modul dazu befähigt werden, auf Basis der technischen Grundlagen der Video- und Fernsehtechnik weitergehende Fragestellungen selbstständig zu erarbeiten und sich so auch zukünftige technische Entwicklungen
-autonom erschließen zu können. 
+Die Studierenden sollen durch dieses Modul dazu befähigt werden, auf Basis der technischen Grundlagen der Video- und Fernsehtechnik weitergehende Fragestellungen selbstständig zu erarbeiten und sich so auch zukünftige technische Entwicklungen autonom erschließen zu können. 
 Neben der Entwicklung und Förderung dieser Fachkompetenz ist die Initiierung der Methodenkompetenz eine wichtige Säule des Vorlesungsmoduls. Unter Methodenkompetenz ist hier die Selbstorganisation im Sinne von wissenschaftlicher Fragestellung an einen Themenkomplex und ein strukturiertes Vorgehen in der Erarbeitung eines Lösungsansatzes zu verstehen. Ziel ist es, das Wissen aus verschiedenen Bereichen, wie Kerninformatik, Internet- und Webtechnologien und benachbarten Wissenschaften mit der in diesem Modul unterrichteten Medientechnologien zu kombinieren und in die Medienproduktion zu integrieren.
 Gerade der Umgang mit Technologien und Methoden aus der Film- und Fernsehproduktion erweitert den Erfahrungshorizont der Studierenden über den bekannten Themenbereich der Kerninformatik hinaus und legt ihnen eine Einarbeitung in informatikfremde Sachverhalte und technologische Problemstellungen und deren Lösungsmethoden nahe.
 Pragmatisches Ziel ist es, in den unterschiedlichsten Berufsfeldern audiovisueller Medien die Entwicklung und den Einsatz digitaler Medientechnik zu beraten, zu planen, durchzuführen oder zu verantworten.
@@ -69,15 +69,15 @@ Die Grundlagen der zwei- und insbesondere der dreidimensionalen Computergraphik 
 
 Den Studierenden wird deutlich, wie der Bogen von den abstrakten, geometrischen und algorithmischen Fakten zu den pragmatischen Gegebenheiten der Computergraphik-Hardware gespannt ist. 
 Sie erkennen die Zusammenhänge zwischen Grundlagenvorlesungen (Mathematik, Algorithmen, Programmierung) und der Gestaltung von Schnittstellen und Oberflächen und werden so für die jeweiligen Inhalte zusätzlich motiviert. 
-Dabei lernen Sie im Kontext der Computergrafik Verfahrensweisen um den algorithmischen Kern eines Problems zu identifizieren und können Algorithmen entwerfen, verifizieren und bzgl. ihres Ressourcenbedarfs bewerten.
+Dabei lernen Sie, im Kontext der Computergrafik, Verfahrensweisen kennen, um den algorithmischen Kern eines Problems zu identifizieren und können Algorithmen entwerfen, verifizieren und bzgl. ihres Ressourcenbedarfs bewerten.
 Sie erwerben die Fähigkeit, aktuelle technologische Entwicklungen im Medieninformatik-Kontext zu bewerten und Trends einzuordnen. 
 
 Nach Abschluss des Moduls besitzen die Studierenden grundlegende Kenntnisse über Architektur und Programmierung moderner Graphikhardware, sowie deren Anwendung in konkreten Problemstellungen und Anwendungskontexten. 
-Am Beispiel von OpenGL und der Rendering-Pipeline lernen die Studierenden Problemstellungen im Anwendungskontext erkennen und sind mit den zugehörigen Lösungsmustern durch praktische Programmierung vertraut.
+Am Beispiel von OpenGL und der Rendering-Pipeline lernen die Studierenden Problemstellungen im Anwendungskontext zu erkennen und sind mit den zugehörigen Lösungsmustern durch praktische Programmierung vertraut.
 
 Das erlernte Wissen und die erlernten Kenntnisse in der Soft- und Grafikhardware-Architektur ermöglicht es erfolgreichen Teilnehmern, anschließend Echtzeit-Visualisierungen mit OpenGL zu implementieren und somit mit einer modernen, plattformunabhängigen API umzugehen, die flexibel an bestehende Anforderungen angepasst werden kann. Zudem haben Sie die Fähigkeit hochparallele Algorithmen auf der Graphikkarte zu entwerfen und auszuführen. 
 
-Dabei beherrschen die Studierenden nach Abschluss des Moduls die Fähigkeit abstrakte Szenen- und Objektbeschreibungen zu erstellen und darzustellen, sowie sich in vorhandenen Quelltext einzuarbeiten und diesen sinnvoll weiter zu entwickeln.. 
+Dabei beherrschen die Studierenden nach Abschluss des Moduls die Fähigkeit abstrakte Szenen- und Objektbeschreibungen zu erstellen und darzustellen, sowie sich in vorhandenen Quelltext einzuarbeiten und diesen sinnvoll weiter zu entwickeln.
 Die Inhalte des Moduls befähigen die Studierenden die grundlegenden Algorithmen und Datenstrukturen der Echtzeit-Computergraphik zu beherrschen. 
 Die Studierenden können ihr erworbenes Können und Wissen zur Implementierung einer eigenen Game/Visualisierungs-Engine einsetzen. Dies zeigen Sie durch Umsetzung eines eigenen Projektes in Kleingruppen, wo sie zusätzlich lernen mündlich überzeugend zu präsentieren, abweichende Positionen zu erkennen und in eine sach- und interessengerechte Lösung zu integrieren. Sie zeigen dadurch, dass Sie in der Lage sind sich selbstständig neues Wissen anzueigenen und zu erkennen, welches Wissen relevant ist, können mediengestalterische Grundkompetenzen anwenden und besitzen aktive Vokabularien zur Beschreibung und Realisierung angemessener Konzeptionen. Zudem können sie die Realisationen bezüglich der Zielsetzungen kritisch diskutieren.
 
@@ -93,7 +93,7 @@ Die Studierenden kennen die grundlegenden Produktionsschritte und Abläufe einer
 
 Sie haben die Fertigkeit, spezifische Fragestellungen der Umsetzung visueller, computerbasierter Effekte und der damit zusammenhängenden Bildbearbeitung zu bearbeiten und fallbezogene individuelle Lösungen zu entwickeln.
 
-Unter Entwicklungs- und Methodenkompetenz auf dem Gebiet der Visual Effects ist die Fähigkeit zu verstehen, eigene und für den jeweiligen Anwendungsfall auch eventuell neue Lösungsansätze zu entwickeln, bei denen die unterschiedlichen Methoden der Visual Effects-Ausführung und Bearbeitung zum Einsatz kommen. Nachdem die Planung, Durchführung und die Bearbeitung von Projekten auf dem Gebiet der Film- und TV-Produktion mit visuellen Effekten in der Regel im kleinen Team erfolgt sind gerade die Softskills der Teamkompetenz und der Organisationskompetenz von großer Wichtigkeit in diesem Modul.
+Unter Entwicklungs- und Methodenkompetenz auf dem Gebiet der Visual Effects ist die Fähigkeit zu verstehen, eigene und für den jeweiligen Anwendungsfall auch eventuell neue Lösungsansätze zu entwickeln, bei denen die unterschiedlichen Methoden der Visual Effects-Ausführung und -Bearbeitung zum Einsatz kommen. Nachdem die Planung, Durchführung und die Bearbeitung von Projekten auf dem Gebiet der Film- und TV-Produktion mit visuellen Effekten in der Regel im kleinen Team erfolgt sind gerade die Softskills der Teamkompetenz und der Organisationskompetenz von großer Wichtigkeit in diesem Modul.
 
 Berufsbilder, die von diesem Modul angesprochen werden, sind zum einen in der Visual-Effects-spezifischen Softwareentwicklung, als auch im Anwendungskontext zu finden: So zum Beispiel in der Planung, Organisation, Durchführung und Verantwortung von VFX-Projekten.
 
@@ -110,7 +110,7 @@ Die Studierenden haben die Möglichkeit ihr Wissen über 3D-Computergrafik, 3D-G
 
 
 Die Inhalte des Moduls befähigen die Studierenden die grundlegenden Algorithmen und Datenstrukturen der Echtzeit-Computergrafik mit der Game-Engine Unity zu beherrschen.
-Das Modul ist daher geeignet das Wissen aus den Modulen „Computergrafik und Animation“, sowie "Cross-Platform Game Development mit Unity 3D" zu vertiefen und zu erweitern. 
+Das Modul ist daher geeignet das Wissen aus den Modulen „Computergrafik und Animation“, sowie ”Cross-Platform Game Development mit Unity 3D” zu vertiefen und zu erweitern. 
 
 Konzepte aus der 3D-Computergrafik und der prozeduralen Generierung werden in diesem sehr praktisch ausgelegten Kurs implementiert und die relevanten Grundlagen vermittelt, die es den Studierenden ermöglichen eigenständig Anforderungen für Projekte mit prozeduralen Techniken zu entwickeln und diese praktisch umzusetzen und kritisch zu evaluieren. 
 
@@ -124,7 +124,7 @@ Nach Abschluss des Moduls besitzen die Studierenden grundlegende Kenntnisse übe
 - HD-Technik
 - Videodatenreduktion
 - Bildwandler
-- Das Optische System der Videokamera
+- Das optische System der Videokamera
 - Signalverarbeitung in der Videokamera
 - Signalaufzeichnung
 - Elektroakustik
@@ -141,7 +141,7 @@ Nach Abschluss des Moduls besitzen die Studierenden grundlegende Kenntnisse übe
 - Shaderprogrammierung 
 - Animation
 - Texturierung
-- Fortgeschrittene Algorithmen (Schatten, Reflexionen, Bump-, Normal-, Parallax-, Relief-Mapping), Globale Beleuchtung, Deferred Shading)
+- Fortgeschrittene Algorithmen (Schatten, Reflexionen, Bump-, Normal-, Parallax-, Relief-Mapping, Globale Beleuchtung, Deferred Shading)
 - Perzeption
 - Grundlagen des Ray Tracings
 
@@ -170,25 +170,24 @@ Nach Abschluss des Moduls besitzen die Studierenden grundlegende Kenntnisse übe
 - Spielmechaniken
 
 ### Prozedurale Generierung virtueller Welten
--	Einführung in die Game-Engine Unity
-   -Grundlagen 3D-Geometrie
-   -Erweiterung des Unity-Editors
-   -Primitive und Mesh-Datenstrukturen
-   -UV-Mapping und Texturierungstechniken/Materialien
-   -Prozedurale Texturgenerierung
-   -Parametrisierung von 3D-Modellen
-   -Kurven und Flächen
-   -Height-Maps
-   -L-Systeme und „Turtle“-Grafik-Renderer
-   -Triangulations-Algorithmen für Polygone
-   -Voxel-Terrain-Generierung
-
+- Einführung in die Game-Engine Unity
+- Primitive und Mesh-Datenstrukturen
+- UV-Mapping und Texturierungstechniken/Materialien
+- Prozedurale Texturgenerierung
+- Parametrisierung von 3D-Modellen
+- Kurven und Flächen
+- Height-Maps
+- L-Systeme und „Turtle“-Grafik-Renderer
+- Triangulations-Algorithmen für Polygone
+- Voxel-Terrain-Generierung
+- Grundlagen 3D-Geometrie
+- Erweiterung des Unity-Editors
 
 ## Studien-/Prüfungsleistungen:
 Teilprüfungen in den jeweiligen Kursen.
 
 ### Audiovisuelle Medientechnik
-Schriftliche Prüfung von 90 Min
+Schriftliche Prüfung von 90 Minuten
 
 ### Computergrafik und Animation
 Die erfolgreiche Teilnahme an den Praktikas ist Voraussetzung für die Klausur (120 Minuten) oder mündliche Prüfung
@@ -242,9 +241,9 @@ Beamergestützte Vorträge, Rechnergestützte Workshops
 
 
 ### Cross-Platform Game Development mit Unity 3D
-- Unity 3D API (https://docs.unity3d.com/ScriptReference/)
-- Unity 3D Manual (https://docs.unity3d.com/Manual/index.html)
-- Unity Tutorials (https://unity3d.com/de/learn/tutorials)
+- Unity 3D API ([https://docs.unity3d.com/ScriptReference/](https://docs.unity3d.com/ScriptReference/))
+- Unity 3D Manual ([https://docs.unity3d.com/Manual/index.html](https://docs.unity3d.com/Manual/index.html))
+- Unity Tutorials ([https://unity3d.com/de/learn/tutorials](https://unity3d.com/de/learn/tutorials))
 - Ian Millington, John Funge,  Artificial Intelligence For Games, Second Edition, CRC Press, 2009
 - Mat Buckland,  Programming Game AI by Example, Wordware Game Developers Library, 2004
 - Steve Rabin et al.,  AI Game Programming Wisdom 1-4, Cengage Learning

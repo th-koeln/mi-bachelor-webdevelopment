@@ -19,7 +19,7 @@ type: vpm
 Einführungen in Konzepte, Techniken und Arbeitsweisen der Web Entwicklung.
 
 ## Lehrform/SWS: 
-6 SWS Vorlesung, 6 SWS Praktikum, 4 SWS Projekt
+18 SWS: Vorlesung 6 SWS, Praktikum 6 SWS, Projekt 4 SWS
 
 ## Lehrveranstaltungen
 - Web Frontend Entwicklung
@@ -29,22 +29,21 @@ Einführungen in Konzepte, Techniken und Arbeitsweisen der Web Entwicklung.
 
 ## Arbeitsaufwand: 
 
-- Web Frontend Entwicklung: Vorlesung, Seminar(50 Stunden); Selbstlernphase (100 Stunden)
+- Web-Frontend Entwicklung: Vorlesung, Seminar(50 Stunden); Selbstlernphase (100 Stunden)
 
 - Serverseitige Frameworks und Dienste: Vorlesung, Seminar(50 Stunden); Selbstlernphase (100 Stunden)
 
 - Internet of Things: Vorlesung, Seminar (50 Stunden); Selbstlernphase (100 Stunden)
 
-- Web Development Projekt: Projekt(150 Stunden)
+- Web Development Projekt: Projekt (150 Stunden)
 
 ## Angestrebte Lernergebnisse:
 Die Studierenden
 - kennen ausgewählte Methoden und Frameworks für die Web Entwicklung im Front-End, im Back-End und in vernetzten Geräten (IoT),
-- können eine Methoden und Technologiewahl für einen Prpojektkontext fachlich begründen,
+- können eine Methoden und Technologiewahl für einen Projektkontext fachlich begründen,
 - können Frameworks und Methoden zur Realisierung von Proof-of-Concepts in einem Projektkontext einsetzen und
 - können die erzielten Ergebnisse fachlich, kritisch einordnen und diskutieren,
-
-um kompetent in Web Entwicklungs Teams mitwirken zu können.
+- um kompetent in Web Entwicklungs Teams mitwirken zu können.
 
 ### Web Frontend Entwicklung:
 Die Studierenden kennen wesentliche Konzepte und Technologien des Web-Frontend Developments und können diese anwenden, um eigenständig im Team Web-Frontends zu konzipieren, realisieren und optimieren.
@@ -70,7 +69,7 @@ Den Teilnehmern steht eine Auswahl an Techniken und Frameworks zur Verfügung, a
 Die StudentenInnen sind in der Lage eine komplexe Anwendung im Web über mehrere Endgeräte hinweg zu planen, zu realisieren und zu dokumentieren. 
 
 ### Internet of Things:
-	
+
 In diesem Modul lernen die Teilnehmer das Gebiet Internet of Things kennen. Dabei liegt ein besonderer Fokus auf der Bedeutung des Web für Applikationen jenseits eines Browsers. Immer mehr Alltagsgegenstände werden mit Technologien angereichert, die eine Dienste-Bereitstellung oder Dienst-Nutzung über das Web ermöglichen (beispielsweise das Steuern von Gegenständen oder das Erfassen von Sensordaten). In diesem Modul werden relevante Konzepte und aktuelle Technologien für das Internet der Dinge diskutiert und in prototypischen Anwendungen erprobt.
 
 Studierende können nach diesem Modul selbstständig Anwendungen für das Internet of Things konzipieren und realisieren, indem Sie
@@ -97,7 +96,7 @@ Studierende können nach diesem Modul selbstständig Anwendungen für das Intern
 ### Serverseitige Frameworks und Dienste:
 
 - NodeJS
-- Services im Web: Amazon WS (AWS), Google Firebase, ….
+- Services im Web: Amazon WS (AWS), Google Firebase
 - NoSQL Datenbanken
 - Web Analyse: Piwik,
 
@@ -115,11 +114,14 @@ Weitere Inhalte sind:
 - Sensoren und Aktoren
 - Frameworks (bspw. NodeRed und Johnny Five)
 - Architekturen und Protokolle (bspw. event-basierte Architekturen und MQTT)
-- Mobile Web und Smartphone Sensoren (bspw. GPS, Beacons)
+- Mobile Web- und Smartphone-Sensoren (bspw. GPS, Beacons)
 
 ## Studien-/Prüfungsleistungen:
 Projektarbeit mit Projektpräsentationsprüfung und Fachgespräch.
 
+~~~
+Hier fehlen noch die Studien-/Prüfungsleistungen zu den einzelnen Teilmodulen
+~~~
 ## Medienformen:
 Beamergestützte Vorträge, Rechnergestützte Workshops
 
@@ -131,3 +133,7 @@ Beamergestützte Vorträge, Rechnergestützte Workshops
 - Saint-Andre: XMPP: THe Definitive Guide, OReilly 2009
 - Roy: RabbitMQ in Depth, Manning 2016
 - Newman: Building Microservices: Designing fine-grained systems, OReilly 2015
+
+~~~
+Hier fehlen noch die Literaturangaben zu den einzelnen Teilmodulen
+~~~
