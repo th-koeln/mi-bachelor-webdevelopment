@@ -91,8 +91,15 @@ Mit dem "Entwicklungsprojekt" im fünften Semester werden zunehmend Fragestellun
 
 Um den Studierende fundierte Entwicklungskompetenz zu vermitteln, wird ein Modulstrang aus dem Informatik Kern verwendet, der ausgehend den Prinzipien der Objektorientierung und einfachen Algorithmen (Algorithmen und Programmierung 1) über komplexere Prinzipien der Algorithmenentwicklung (Algorithmen und Programmierung 2) hin zu Anwendung unterschiedlicher Programmierkonzepte (Paradigmen der Programmierung) und Prinzipien, Methoden und Techniken der modellbasierten Softwareentwicklung (Softwareentwicklung) diese Kompetenz sukzessive auf- und ausbaut.
 
+### Projektorientierung und Aufbau der Projektgrößen
 
-Module eines Schwerpunkts näher zusammen bringen Projektkontexte reduzieren
+Projektorientierung und forschendes Lernen sind seit der Erstakkreditierung des Studiengangs elementare Bestandteile des Studienkonzepts. Diese Ansätze haben in den letzten Jahren vermehrt Einzug in verschiedene Module erhalten. Um hier die Studierenden einerseits nicht zu überfordern, sie aber aber trotzdem an größere und komplexere Projekte und Fragestellungen heranzuführen, werden die Projektanteile und -gewichte im Studiengang behutsam aufgebaut. Das Module "Einführung in die Medieninformatik" startet im ersten Semester mit einem Projektanteil von 50% (2,5 CP) um die Studierenden initial mit dem Lehrformat "Projekt" im Hochschulkontext vertraut zu machen. Das Gewicht der Projekte wird dann im dritten und vierten Semester auf 5 Creditpoints erhöht. Das Modul "Entwicklungsprojekt" im fünften Semestern ist mit einem Gewicht von 10 Creditpoints ausgestattet und leitet über zum Praxisprojekt (10 CP) und der Bachelorarbeit (12 CP). Das Projektgewicht von 12 Creditpoints wird später, im konsekutiven Masterstudiengang, weiter geführt. 
+
+### Module eines Themenfeldes
+
+Bei 
+
+### Wissenschaftliches Arbeiten
 
 Projektorientierung berücksichtigen
 Projektgrößen sinnvoll aufbauen mehr Wahlmöglichkeiten weniger Prüfungselemente
