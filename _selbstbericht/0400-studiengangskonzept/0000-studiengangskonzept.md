@@ -60,22 +60,48 @@ reviewed-von:
 cn: hier bitte die Studiengänge nur beschreiben, also bitte nicht mehr auf veränderungen eingehen, so dass wir diese Texte später weiter benutzen können. Alle Veränderungen bitte im Kapitel "Qualifikationsziele" verankern.
 ~~~
 
-## Studienphasen
+## Zielgruppe
+Das Studienangebot richtet sich primär an Studierende des deutschsprachigen Raumes. Ausländische Studienbewerber werden durch ein etabliertes, durch das Sekretariat für internationale Studierende betreutes Verfahren nach Nachweis der Kenntnisse der deutschen Sprache aufgenommen.
 
-{% include image.html url="bilder/ba-studienphasen.svg" caption="Abbildung: Studienphasen des Bachelorstudiengangs Medieninformatik" %}
+## Bachelor
 
-## Prinzipien
+### Prinzipien
 
 Module eines Schwerpunkts näher zusammen bringen Projektkontexte reduzieren
 Workflow berücksichtigen
 Projektorientierung berücksichtigen
 Projektgrößen sinnvoll aufbauen mehr Wahlmöglichkeiten weniger Prüfungselemente
+Austauschsemester in 5
+Vertiefung
 
 
-~~~
-cn: Grafiken nicht vergessen!
-~~~
+### Studienphasen
+
+{% include image.html url="bilder/ba-studienphasen.svg" caption="Abbildung: Studienphasen des Bachelorstudiengangs Medieninformatik" %}
+
+### Lehrformen
 
 
-![](../anhaenge/bilder/ba-studienphasen.001.jpeg){:class="img-responsive"}
-*Bild 1: Studienphasen des Bachelorstudiengangs Medieninformatik*
+### Vertiefende Dokumente
+
+- Bachelor Medieninformatik Themen von 2010 bis 2014[^Abschlussarbeitsthemen-bachelor]
+
+## Master
+
+### Prinzipien
+
+- Leitfragen
+- Workflow berücksichtigen
+- Säulen
+- Projekt- und Forschungsorientierung
+- arbeitsteilige Projekte
+
+### Studienstruktur
+{% include image.html url="bilder/ma-schwerpunkte.svg" caption="Abbildung: Schwerpunkte Medieninformatik Master" %}
+{% include image.html url="bilder/ma-leitfragen.svg" caption="Abbildung: Leitfragen Medieninformatik Master" %}
+{% include image.html url="bilder/ma-projektfragen.svg" caption="Abbildung: Ausrichtung der Projekte" %}
+
+
+### Lehrformen
+
+[^Abschlussarbeitsthemen-bachelor]: <a href="../anhaenge/anschlussarbeiten_2010-2014_.pdf">Themen der Abschlussabeiten des Medieninformatik Bachelor 2010 bis 2014</a>

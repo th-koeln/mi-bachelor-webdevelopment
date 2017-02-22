@@ -12,6 +12,10 @@ Mit den Medieninformatik Studiengänge bietet die Fakultät für Informatik und 
 
 Die Studiengänge, vor allem der Bachelor, erfreuen sich extrem großer Nachfrage, sowohl von Studierenden als auch von Unternehmen. Beim unabhängigen Bewertungsportal "Studycheck.de" [^Link-studycheckde] wird die Medieninformatik am Campus Gummersbach unter den TOP 5 Studiengängen in diesem Segment gelistet [^Anhang-Snapshot-Bewertungen-von-studycheckde].
 
+~~~
+@gerhard: hättest Du Lust was zu unseren Promotionserfolgen zu schreiben?
+~~~
+
 ## Erfüllung der Auflagen der Reakkreditierung 2010
 
 Der Technischen Hochschule Köln wurden im Rahmen der Reakkreditierung im März 2010 folgende Auflagen der Akkreditierungskommission mitgeteilt.
@@ -91,7 +95,7 @@ cn: Tabelle zeigt nur Zahlen bis 2013. Haben wir da was besseres?
 
 {% include image.html url="tabellen/MI-BA-anzahl-studierende.svg" caption="Tabelle: Daten des Bachelorstudiengangs Medieninformatik" %}
 
-|            | Einschreibungen gesamt | Davon noch im Studium | Davon Abbruch | Davon Abschluss |
+| Semester   | Einschreibungen gesamt | Davon noch im Studium | Davon Abbruch | Davon Abschluss |
 | ---------- | ---------------------- | --------------------- | ------------- | --------------- |
 | WS 2010/11 | 96                     | 28 (29,2%)            | 30 (31,3%)    | 25 (26,0%)      |
 | WS 2011/12 | 141                    | 59 (41,8%)            | 48 (34,0%)    | 15 (10,6%)      |

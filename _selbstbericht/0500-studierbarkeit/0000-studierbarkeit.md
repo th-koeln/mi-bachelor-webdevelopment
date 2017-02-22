@@ -1,6 +1,6 @@
 ---
 title: Studierbarkeit
-aktueller-bearbeiter: Christian Noss
+aktueller-bearbeiter: 
 bearbeiterhistorie: Christian Noss
 date: 18.02.2017
 comment: von Informatik übernommen, Prüfungen müssen nachgezählt werden, da muss auch noch mal rein geschaut werden, Zugangsvoraussetzungen Master fehlen
@@ -94,12 +94,13 @@ Das Masterstudium umfasst 120 ECTS Punkte bei 48 SWS Präsenzzeit, was einer dur
 
 Die Bachelor- und Masterstudiengänge sind durchgängig mit 30 ECTS-Punkten im Semester durchkalkuliert, was einer Arbeitslast von 900 Stunden pro Semester entspricht. Wenn man ein Semester mit 24 Wochen veranschlagt, wobei die Prüfungszeit und Prüfungsvorbereitung mitgerechnet ist, ergibt sich eine Wochenarbeitszeit von 900 h / 24 = 37,5 Stunden. Eine Veranstaltung mit 5 Creditpoints und 4 SWS, 2 SWS Vorlesung + S SWS übung hat in der Regel einen Arbeitsaufwand von 5 x 30 = 150 Stunden. Bei durchschnittlich 18 Semesterwochen entspricht dies einem Anteil von 2 h x 18 = 36 Stunden Vorlesung, 2 h x 18 = 36 Stunden übung, also 72 Stunden Präsenzanteil und 78 Stunden Selbststudium inklusive Klausurvorbereitung und Nachbereitung der Präsenzanteile. Dies entspricht in etwa einer Aufteilung der Gesamtzeit in 50% für Präsenzstudium und in 50 % für Selbststudium.
 
+
 Die Lehrveranstaltungen des Masterstudiengangs sind mit 6 Creditpoints ausgestattet, was bei einem Modul mit 4 SWS einem Verhältnis von 40% für Präsenzstudium und 60 % für Selbststudium entspricht. 
 
 
 ## Leistungspunktesystem
 
-Die Module der beantragten Studiengänge werden mit Creditpoints bewertet, um europaweite Vergleichbarkeit gemäß den Bologna-Richtlinien zu ermöglichen.
+Die Module der beantragten Studiengänge werden mit ECTS-Punkten bewertet, um europaweite Vergleichbarkeit gemäß den Bologna-Richtlinien zu ermöglichen.
 
 ## Prüfungen
 
@@ -109,12 +110,14 @@ Im Masterstudium ist der Schwerpunkt der Prüfungsformen in Richtung mündlicher
 
 ## Studien/Prüfungsordnungen
 
-Die Studien- und Prüfungsordnungen der beantragten Studiengänge sind dem Anhang dieses Berichts beigefügt. Der Studienverlaufsplan entspricht der Studienordnung.
+Die Studien- und Prüfungsordnungen[^pruefungsordnungen-online] der laufenden Studiengänge sind dem Anhang dieses Berichts beigefügt. Sie sind außerdem über die Website der Hochschule abrufbar. Der Studienverlaufsplan entspricht der Studienordnung. Nach Zustimmung der Gutachter zu den in den erläuterten Änderungen im Rahmen der Reakkreditierung werden die überarbeiteten Prüfungsordnungen, bzw. Studienverlaufspläne zeitnah vorgelegt.
 
+## Diploma Supplement
+Das Diploma Supplement der zur Reakkrediterung beantragten Studiengänge ist im Anhang des Dokuments zu finden.
 
 ## Maßnahmen zur Beratung von Studieninteressierten und Studierenden
 
-Die Medieninformatik beteiligt sich ferner jährlich an folgenden Veranstaltungen zur Beratung von Studieninteressierten:
+Die Medieninformatik beteiligt sich an folgenden Veranstaltungen zur Beratung von Studieninteressierten:
 
 Regelmäßig wird im Mai ein „Schnupperstudium“ durchgeführt, an dem rund 150 Schüler, teilweise mit ihren Lehrern teilnehmen, um die Fachhochschule kennen zu lernen.
 
@@ -127,10 +130,10 @@ Dazu kommen Laborführungen für Schülergruppen verschiedener Schulen sowie die
 - dem „Tag der Offenen Tür" des Berufskollegs Dieringhausen (Gummersbach),der „Weiterbildungsmesse Oberberg",
 - sowie die Teilnahme an anderen, unregelmäßig durchgeführten Veranstaltungen zur Studien- und Berufswahl.
 
-Im Rahmen des bundesweiten Informatikjahres wurde am Campus Gummersbach ein „Tag der Informatik" für Studieninteressierte und eine „Informatik Sommerakademie für Schülerinnen (ISAS)" durchgeführt. Studierende und Dozenten gaben Einblicke in die Informatik-Welt und die Studieninteressierten konnten in verschiedenen Workshops und Selbsteinschätzungstests ihre Eignung und ihr Interesse für die Informatik live testen. Mit über 100 Studieninteressierten war die Beteiligung sehr erfreulich, und die Veranstaltungen stießen auf ein positives Echo.
-Das Institut für Informatik beteiligt sich jährlich am „Tag der offenen Tür“ der TH-Köln im September und an Informationsveranstaltungen der umliegenden Gymnasien und anderer weiterführender Schulen, die potenzielle Studienanfängerinnen und Studienanfänger an die Qualifizierung für ein Hochschulstudium heranführen.
-Alle diese Angebote werden sehr gut aufgenommen und sind stark frequentiert.
+Das Institut für Informatik beteiligt sich jährlich am „Tag der offenen Tür“ der TH-Köln im September und an Informationsveranstaltungen der umliegenden Gymnasien und anderer weiterführender Schulen, die potenzielle Studienanfängerinnen und Studienanfänger an die Qualifizierung für ein Hochschulstudium heranführen. Alle diese Angebote werden sehr gut aufgenommen und sind stark frequentiert.
 
+Darüber hinaus bietet die Medieninformatik einige Veranstaltungen (siehe außercurriculare Maßnahmen) wie den jährlichen Showcase an, um hier auch eine Plattform für Studieninteressierte zu schaffen. Diese Angebote werden gut angenommen.  
 
 
 [^int-office]: International Office fehlt
+[^pruefungsordnungen-online]: Link zur online Prüfungsordnung fehlt

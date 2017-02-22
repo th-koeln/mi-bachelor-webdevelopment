@@ -73,19 +73,19 @@ Studienbeginn
 
 ### Profil der Hochschule
 
-Die TH Köln ist die größte Hochschule für angewandte Wissenschaften in Deutschland. Sie betreibt mehrere Standorte in Köln und unterhält jeweils einen eigenen Campus in Leverkusen und Gummersbach. Aufgrund ihrer Größe, der Angebotsvielfalt, ihres Forschungsvolumens und ihrer internationalen Ausrichtung versteht sich als Hochschule neuen Typs mit ausgeprägtem Praxisbezug und anwendungsorientierter Forschung.
+Die TH Köln ist die größte Hochschule für angewandte Wissenschaften in Deutschland. Sie betreibt mehrere Standorte in Köln und unterhält jeweils einen eigenen Campus in Leverkusen und Gummersbach. Aufgrund ihrer Größe, der Angebotsvielfalt, ihres Forschungsvolumens und ihrer internationalen Ausrichtung, versteht sie sich als Hochschule neuen Typs mit ausgeprägtem Praxisbezug und anwendungsorientierter Forschung.
 
 Die TH Köln gehört der UAS7 an, dem Verbund von sieben leistungsfähigen Fachhochschulen in Deutschland. Sie ist zudem Vollmitglied in der European University Association (EUA). Auch Corporate Social Responsibility ist für die Hochschule kein Fremdwort: sie ist als familiengerechte Hochschule zertifiziert und eine nach den europäischen öko-Managementrichtlinien EMAS und ISO 14001 geprüfte umweltorientierte Einrichtung.
 
-Die TH Köln pflegt eine Lehr- und Lernkultur, welche die zunehmende Vielfalt der Studierenden in den Blick nimmt und dazu beiträgt, die Potenziale aller Hochschulangehörigen in den Lernprozess zu integrieren und dabei zu erschließen. Unter dem Begriff „Gute Lehre“ hat die TH Köln einen Perspektivwechsel vom Lehrenden zum Lernenden vollzogen. Das ganze Studium hindurch werden Studierende über Mentoring-, Tutoring- und Blended Learning-Programme begleitet. Flexiblere Studiengangsmodelle und hochschuldidaktische Coaching-Angebote gehören ebenso zum Portfolio wie die Förderung leistungsstarker und sozial engagierter Studierender – vor allem durch die Beteiligung am Deutschlandstipendium.
+Die TH Köln pflegt eine Lehr- und Lernkultur, welche die zunehmende Vielfalt der Studierenden in den Blick nimmt und dazu beiträgt, die Potenziale aller Hochschulangehörigen in den Lernprozess zu integrieren und dabei zu erschließen. Unter dem Begriff „Gute Lehre“ hat die TH Köln einen Perspektivwechsel vom Lehrenden zum Lernenden vollzogen. Das ganze Studium hindurch werden Studierende über Mentoring-, Tutoring- und Blended Learning-Programme begleitet. Flexiblere Studiengangsmodelle und hochschuldidaktische Coaching-Angebote gehören ebenso zum Portfolio wie die Förderung von leistungsstarken und sozial engagierten Studierenden – vor allem durch die Beteiligung am Deutschlandstipendium.
 
 Ihre Programme zur hochschuldidaktischen Differenzierung, ihre Diversity-Konzepte[^Anhang-Diversity-Konzepte] und ihr Programm ProfiL2[^anhang-profil2] für projektorientiertes Lehren und Lernen zählen zu den herausragenden Lehr- und Lernkonzepten in Deutschland. Mithilfe eines systematischen Qualitätsmanagements entwickelt die TH Köln die Kompetenzen in den Bereichen Studium und Lehre, Struktur- und Curriculumentwicklung sowie Hochschuldidaktik permanent weiter.
 
-Die hohe Studierendenzufriedenheit und die breite Anerkennung der Qualität eines an der TH Köln erworbenen Abschlusses sind das Fundament, auf dem das Weiterbildungsportfolio der Hochschule aufbaut. Mit unterschiedlichen Programmen vom Tagesseminar bis hin zum Weiterbildungsstudium ermöglicht sie Wissenserwerb als lebensbegleitendes Lernen. Die TH Köln versteht sich als forschungsorientierte Hochschule für angewandte Wissenschaften. Die Hochschule achtet bei der Auswahl des wissenschaftlichen Personals besonders auf die berufliche Reputation und das ausgeprägte Forschungsinteresse ihrer Lehrenden; sie fördert gezielt Forschungsaktivitäten mit inter- bzw. transdisziplinärem Charakter. Mit diesem innovativen Ansatz möchte sie wichtige und zukunftsweisende Impulse zur gesellschaftlichen Entwicklung setzen. Die TH Köln arbeitet in der Forschung deshalb intensiv mit der Wirtschaft, Non-Profit-Organisationen, öffentlichen Einrichtungen und Verbänden, sowie mit anderen nationalen und internationalen Hochschulen und Wissenschaftseinrichtungen zusammen.
+Die hohe Studierendenzufriedenheit und die breite Anerkennung der Qualität eines an der TH Köln erworbenen Abschlusses, sind das Fundament auf dem das Weiterbildungsportfolio der Hochschule aufbaut. Mit unterschiedlichen Programmen vom Tagesseminar bis hin zum Weiterbildungsstudium ermöglicht sie Wissenserwerb als lebensbegleitendes Lernen. Die TH Köln versteht sich als forschungsorientierte Hochschule für angewandte Wissenschaften. Die Hochschule achtet bei der Auswahl des wissenschaftlichen Personals besonders auf die berufliche Reputation und das ausgeprägte Forschungsinteresse ihrer Lehrenden; sie fördert gezielt Forschungsaktivitäten mit inter- bzw. transdisziplinärem Charakter. Mit diesem innovativen Ansatz möchte sie wichtige und zukunftsweisende Impulse zur gesellschaftlichen Entwicklung setzen. Die TH Köln arbeitet in der Forschung deshalb intensiv mit der Wirtschaft, Non-Profit-Organisationen, öffentlichen Einrichtungen und Verbänden, sowie mit anderen nationalen und internationalen Hochschulen und Wissenschaftseinrichtungen zusammen.
 
-Die Forschungsaktivitäten beschränken sich nicht alleine auf die Kompetenzen der Professorinnen, Professoren und wissenschaftlichen Mitarbeiterinnen und Mitarbeiter. Vor allem über die Masterstudiengänge bringen auch die Studierenden Kompetenzen und Kreativität in die Forschungsprojekte ein. Um dem akademischen Nachwuchs eine weitere wissenschaftliche Karriere zu ermöglichen, bietet die TH Köln verstärkt kooperative Promotionen mit Universitäten an. Als aktives Mitglied der InnovationsAllianz der nordrhein-westfälischen Hochschulen sowie der Patentverwertungsgesellschaft PROvendis engagiert sich die Hochschule beim Wissenstransfer zwischen Hochschulen, Wirtschaft und Gesellschaft.
+Die Forschungsaktivitäten beschränken sich nicht alleine auf die Kompetenzen der Professorinnen, Professoren, wissenschaftlichen Mitarbeiterinnen und Mitarbeitern. Vor allem über die Masterstudiengänge bringen auch die Studierenden ihre Kompetenzen und Kreativität in die Forschungsprojekte ein. Um dem akademischen Nachwuchs eine weitere wissenschaftliche Karriere zu ermöglichen, bietet die TH Köln verstärkt kooperative Promotionen mit Universitäten an. Als aktives Mitglied der InnovationsAllianz der nordrhein-westfälischen Hochschulen sowie der Patentverwertungsgesellschaft PROvendis engagiert sich die Hochschule beim Wissenstransfer zwischen Hochschulen, Wirtschaft und Gesellschaft.
 
-Auch international pflegt die TH Köln enge Beziehungen zu anderen Hochschulen. Sie ist derzeit Partnerin von rund 290 Hochschulen im Ausland und unterstützt über ein breites Angebot von Auslandsaufenthalten und Fördermöglichkeiten die Mobilität der Studierenden. So werden mehrere Masterstudiengänge komplett in englischer Sprache angeboten. Ein Drittel der Studierenden aus dem Ausland kommt aus Übersee: aus Afrika, Amerika, Asien oder Australien.
+Auch international pflegt die TH Köln enge Beziehungen zu anderen Hochschulen. Sie ist derzeit Partnerin von rund 290 Hochschulen im Ausland und unterstützt, über ein breites Angebot von Auslandsaufenthalten und Fördermöglichkeiten, die Mobilität der Studierenden. So werden mehrere Masterstudiengänge komplett in englischer Sprache angeboten. Ein Drittel der Studierenden aus dem Ausland kommt aus Übersee: aus Afrika, Amerika, Asien oder Australien.
 
 ### Lehr- und Forschungsschwerpunkte
 
@@ -93,7 +93,7 @@ Die TH Köln ist eine forschungsaktive und forschungsstarke Hochschule. Sie koop
 
 Klimawandel, knappe Ressourcen, Sicherheit und demographischer Wandel sind einige der großen Herausforderungen der nächsten Jahrzehnte. Die erfahrenen Wissenschaftlerinnen und Wissenschaftler der TH Köln forschen im Rahmen ihrer anwendungsorientierten und interdisziplinären Projekte an Lösungen für diese „Great Challenges“ und leisten einen aktiven Beitrag zur Weiterentwicklung von Wissenschaft, Wirtschaft und Gesellschaft.
 
-Die vielfältigen Forschungsaktivitäten spiegeln sich im Forschungsprofil der TH Köln, bestehend aus 10 thematischen Clustern[^anhang-forschungscluster-th]  wider. Die Cluster dienen als thematische Klammer für die Forschungsaktivitäten in den unterschiedlichen Forschungsstrukturen der Hochschule, wie Forschungsinstitute, Kompetenzplattformen, Forschungsschwerpunkten und Forschungsstellen.
+Die vielfältigen Forschungsaktivitäten spiegeln sich im Forschungsprofil der TH Köln, bestehend aus 10 thematischen Clustern[^anhang-forschungscluster-th]  wider. Die Cluster dienen als thematische Klammer für die Forschungsaktivitäten in den unterschiedlichen Forschungsstrukturen der Hochschule, wie Forschungsinstituten, Kompetenzplattformen, Forschungsschwerpunkten und Forschungsstellen.
 
 ### Zahl und Verteilung der Studierenden
 
@@ -102,7 +102,7 @@ An der TH Köln studieren ca. 23.500 Studierende an 11 Fakultäten. Die Abbildun
 
 ## Einbettung der Studiengänge in die Fakultät
 
-Die Fakultät für Informatik und Ingenieurwissenschaften ist am Standort Gummersbach angesiedelt (Campus Gummersbach) und ist mit derzeit 5200 Studierenden[^studierende-gm-2016] die größte Fakultät der TH Köln. An der Fakultät sind 8 Institute angesiedelt; zum Studienangebot der Fakultät gehören 8 Bachelor- und 6 Masterstudiengänge. Die Medieninformatik Studiengänge werden von der Fakultät für Informatik und Ingenieurwissenschaften ausgerichtet und ist im Institut für Informatik organisatorisch verankert. 
+Die Fakultät für Informatik und Ingenieurwissenschaften ist am Standort Gummersbach angesiedelt (Campus Gummersbach) und ist mit derzeit 5200 Studierenden[^studierende-gm-2016] die größte Fakultät der TH Köln. An der Fakultät sind 8 Institute angesiedelt; zum Studienangebot der Fakultät gehören 8 Bachelor- und 6 Masterstudiengänge. Die Medieninformatik Studiengänge werden von der Fakultät für Informatik und Ingenieurwissenschaften ausgerichtet und sind im Institut für Informatik organisatorisch verankert. 
 
 Das Institut für Informatik betreibt Labore für:
 - Allgemeine Datenverarbeitung (ADV)
@@ -143,6 +143,10 @@ Die Studiengänge wurden auf Basis verschiedener quantitativer und qualitativer 
 Mit den Medieninformatik Studiengänge bietet die Fakultät für Informatik und Ingenieurwissenschaften der TH Köln seit dem Jahr 2000 ein wissenschaftlich fundiertes und praxisorientiertes Informatik-Studienprogramm mit dem Schwerpunkt Medien an. Fachlich und strukturell ist der Bachelor Studiengang und der konsekutive Masterstudiengang auf die Analyse, Konzeption, Realisierung und Adaption von, oft web-basierten Prozessen und Systemen zur Produktion, Bearbeitung und Distribution medienbasierter Informationen sowie interaktiver Systeme ausgerichtet. Den Kern bildet ein Informatikstudium. Hinzu kommt die Vermittlung umfassender, vielschichtiger analytischer wie konstruktiver Medienkompetenzen sowie ökonomischer, technischer und gesellschaftlicher Grundkenntnisse. Darüber hinaus werden zeitgemäße Toolchains, Kollaborations- und Entwicklungsmethoden vermittelt und überwiegend projektorientiert eingeübt.
 
 Die Studiengänge, vor allem der Bachelor, erfreuen sich extrem großer Nachfrage, sowohl von Studierenden als auch von Unternehmen. Beim unabhängigen Bewertungsportal "Studycheck.de" [^Link-studycheckde] wird die Medieninformatik am Campus Gummersbach unter den TOP 5 Studiengängen in diesem Segment gelistet [^Anhang-Snapshot-Bewertungen-von-studycheckde].
+
+~~~
+@gerhard: hättest Du Lust was zu unseren Promotionserfolgen zu schreiben?
+~~~
 
 ## Erfüllung der Auflagen der Reakkreditierung 2010
 
@@ -223,7 +227,7 @@ cn: Tabelle zeigt nur Zahlen bis 2013. Haben wir da was besseres?
 
 {% include image.html url="tabellen/MI-BA-anzahl-studierende.svg" caption="Tabelle: Daten des Bachelorstudiengangs Medieninformatik" %}
 
-| &nbsp; | Einschreibungen gesamt | Davon noch im Studium | Davon Abbruch | Davon Abschluss |
+| Semester   | Einschreibungen gesamt | Davon noch im Studium | Davon Abbruch | Davon Abschluss |
 | ---------- | ---------------------- | --------------------- | ------------- | --------------- |
 | WS 2010/11 | 96                     | 28 (29,2%)            | 30 (31,3%)    | 25 (26,0%)      |
 | WS 2011/12 | 141                    | 59 (41,8%)            | 48 (34,0%)    | 15 (10,6%)      |
@@ -368,9 +372,25 @@ Somit lassen sich die folgenden Defizite im aktuellen Medieninformatik Master St
 
 # Soll-Zustand/ geplante Veränderungen
 
-~~~
-cn: hier wäre noch ein kleines Präludium schön. Wie hat sich die MI in den letzten Jahren verändert und was sind strategische Ziele des Instituts (Computergrafik, Social Computing)
-~~~
+Seit der Reakkreditierung der Medieninformatik Studiengänge vor 7 Jahren haben sich sowohl die Berfusbilder der Absolventen als auch der Diskurs über Curricula der Medieninformatik weiterentwickelt.
+
+## Weiterentwicklung des Lehrportfolios des Institut für Informatik
+
+Im Antrag für die "Anstehende Wiederzuweisung von fünf Professuren im Institut für Informatik"[^antrag-wiederzuweisung] wird der Lehr- und Forschungsbereich "Soziotechnische Systeme" wie folgt argumentiert:
+
+> Die Informatik als wissenschaftliche Disziplin allgemein und auch das Institut für Informatik im Besonderen muss sich der Tatsache stellen, dass der technische und wissenschaftliche Fortschritt auf diesem Fachgebiet nach wie vor rasant ist. Dem versucht das Institut nicht nur durch stetige inhaltliche Weiterentwicklung seiner Studiengänge und Module gerecht zu werden, sondern hier werden auch neue, auf Nachhaltigkeit ausgerichtete Entwicklungen wahrgenommen und bei ausreichender Relevanz in die Überlegungen zur Weiterentwicklung des Angebots einbezogen.
+> Eine solche – aus Sicht des Instituts für Informatik besonders interessante, spannende, wichtige und zukunftsträchtige – zeigt sich aktuell im Themenfeld Soziotechnischer Systeme. Folgende Bereiche sind hier exemplarisch zu nennen:
+> - Assistenzsysteme für Tätigkeiten: sportliches Training, Navigation, Robotik (Staubsaugen, Lebensrettung, schwierige Umgebungen), Autofahren, Büro, Produktionsumgebungen
+> - Assistenzsysteme für Bevölkerungsgruppen: alte Menschen, behinderte Menschen, Kinder , Menschen im Alltag
+> - Kommunikationshilfen: Suchmaschinen, soziale Medien, Sprach-Ein- und Ausgabe, Blindenschrift-Displays und andere spezielle Formen der MCI
+>
+> In all diesen Bereichen zeichnet sich bereits heute eine große, künftig noch stark zunehmende Bedeutung von IT-Systemen ab, zu deren Funktionen nicht nur technisches Wissen, sondern auch Fach- und Methodenwissen aus unterschiedlichen Spezialgebieten innerhalb der Informatik benötigt wird. Um diesen neuen Entwicklungen gerecht zu werden, soll zunächst ein geringer Anteil der Kapazität für dieses neue Themenfeld zur Verfügung gestellt werden. Entsprechende Lehrveranstaltungen können und sollen dann zunächst in Form von Wahlpflichtfächern angeboten werden. Die entsprechenden Voraussetzung im Modulkatalog werden, sofern erforderlich, kurzfristig geschaffen. Pflichtfächer werden dadurch nicht beeinträchtigt.
+>
+> Das Themenfeld „IT für Menschen“ wird auf absehbare Zeit als attraktiv angesehen, sowohl für Forscher als auch für Unternehmen und nicht zuletzt vor allem auch für Studieninteressierte. Wegen der nicht nur technischen Ausrichtung ist aufgrund bisheriger Erfahrungen auch ein signifikanter Anteil weiblicher Studierender zu erwarten. Das Themenfeld bietet darüber hinaus viele Anknüpfungsmöglichkeiten an bereits vorhandene Kompetenzen: Datenbanken, Medieninformatik, Softwaretechnik, Ergonomie, MCI, Kommunikationstechnik, technische Spezialthemen, mobile Systeme und Anwendungen u. v. m.
+>
+> Die starke Durchdringung der Gesellschaft mit leistungsfähigen, zunehmend mobilen, mit umfangreicher Sensorik ausgestatteten Endgeräten, eröffnet auch hier teilweise völlig neue Fragestellungen und Möglichkeiten. In Kombinationen mit den alten und anderen neuen Schwerpunkten eröffnet der Studienbereich „IT für Menschen“ auch neues Forschungsfeld. Mittelfristiges Ziel ist es, hier ein neues Studienangebot zu realisieren, dass auch aus den vom Präsidium für solche Zwecke in Aussicht gestellten neuen Professuren gespeist wird und nicht zu Lasten vorhandener Ressourcen – weder in der Lehreinheit Informatik noch in der Lehreinheit Ingenieurwissenschaften – geht. Das benötigte Know-how ist zum großen Teil bereits vorhanden und soll durch Wahlpflichtangebote in diesem Bereich ergänzt werden.
+
+Das Lehr- und Forschungsbereich "Soziotechnische Systeme" findet sich in den zu akkreditierenden Curricula unter dem Begriff "Social Computing". Dieser Themenkomplex soll im Bachelor Studienprogramm als Vertiefungsmodul und im Master als Schwerpunkt verankert werden.
 
 ## Geplante Veränderungen des Bachelor-Studiengangs gegenüber dem aktuellen Akkreditierungszeitraum
 
@@ -380,6 +400,9 @@ Die im Folgenden dargestellten geplanten Veränderungen des Bachelorstudienprogr
 ~~~
 @volker: wie kann ich unabhängige Links innerhalb des Dokuments erzeugen?
 ~~~
+
+[^antrag-wiederzuweisung]: <a href="../anhaenge/AntragWiederzuweisung_Motivation_2013.pdf">AntragWiederzuweisung_Motivation_2013.pdf</a>
+
 
 ### Verbesserungen des Studienaufbaus
 
@@ -641,6 +664,9 @@ Das folgende Leitbild steht über dem Studiengang Medieninformatik Bachelor:
 
 # Qualifikationsziele Medieninformatik Master
 
+~~~
+@mario: Kannst Du da bitte mal drüber gucken?
+~~~
 
 ## Leitbild Medieninformatik Master
 
@@ -721,7 +747,7 @@ Absolventinnen und Absolventen des Masterstudiengangs Medieninformatik:
 >-   exemplarisches Transcript of Records je Studiengang
 
 ~~~
-cn: irgendwo würde ich gern was zur Haltung schreiben
+@kristian, @gerhard, @mario: kann einer von euch was dazu schreiben? Ich hab keine Peilung, was die da wollen :/
 ~~~
 
 
@@ -780,25 +806,51 @@ cn: irgendwo würde ich gern was zur Haltung schreiben
 cn: hier bitte die Studiengänge nur beschreiben, also bitte nicht mehr auf veränderungen eingehen, so dass wir diese Texte später weiter benutzen können. Alle Veränderungen bitte im Kapitel "Qualifikationsziele" verankern.
 ~~~
 
-## Studienphasen
+## Zielgruppe
+Das Studienangebot richtet sich primär an Studierende des deutschsprachigen Raumes. Ausländische Studienbewerber werden durch ein etabliertes, durch das Sekretariat für internationale Studierende betreutes Verfahren nach Nachweis der Kenntnisse der deutschen Sprache aufgenommen.
 
-{% include image.html url="bilder/ba-studienphasen.svg" caption="Abbildung: Studienphasen des Bachelorstudiengangs Medieninformatik" %}
+## Bachelor
 
-## Prinzipien
+### Prinzipien
 
 Module eines Schwerpunkts näher zusammen bringen Projektkontexte reduzieren
 Workflow berücksichtigen
 Projektorientierung berücksichtigen
 Projektgrößen sinnvoll aufbauen mehr Wahlmöglichkeiten weniger Prüfungselemente
+Austauschsemester in 5
+Vertiefung
 
 
-~~~
-cn: Grafiken nicht vergessen!
-~~~
+### Studienphasen
+
+{% include image.html url="bilder/ba-studienphasen.svg" caption="Abbildung: Studienphasen des Bachelorstudiengangs Medieninformatik" %}
+
+### Lehrformen
 
 
-![](../anhaenge/bilder/ba-studienphasen.001.jpeg){:class="img-responsive"}
-*Bild 1: Studienphasen des Bachelorstudiengangs Medieninformatik*
+### Vertiefende Dokumente
+
+- Bachelor Medieninformatik Themen von 2010 bis 2014[^Abschlussarbeitsthemen-bachelor]
+
+## Master
+
+### Prinzipien
+
+- Leitfragen
+- Workflow berücksichtigen
+- Säulen
+- Projekt- und Forschungsorientierung
+- arbeitsteilige Projekte
+
+### Studienstruktur
+{% include image.html url="bilder/ma-schwerpunkte.svg" caption="Abbildung: Schwerpunkte Medieninformatik Master" %}
+{% include image.html url="bilder/ma-leitfragen.svg" caption="Abbildung: Leitfragen Medieninformatik Master" %}
+{% include image.html url="bilder/ma-projektfragen.svg" caption="Abbildung: Ausrichtung der Projekte" %}
+
+
+### Lehrformen
+
+[^Abschlussarbeitsthemen-bachelor]: <a href="../anhaenge/anschlussarbeiten_2010-2014_.pdf">Themen der Abschlussabeiten des Medieninformatik Bachelor 2010 bis 2014</a>
 
 
 # Studierbarkeit
@@ -889,12 +941,13 @@ Das Masterstudium umfasst 120 ECTS Punkte bei 48 SWS Präsenzzeit, was einer dur
 
 Die Bachelor- und Masterstudiengänge sind durchgängig mit 30 ECTS-Punkten im Semester durchkalkuliert, was einer Arbeitslast von 900 Stunden pro Semester entspricht. Wenn man ein Semester mit 24 Wochen veranschlagt, wobei die Prüfungszeit und Prüfungsvorbereitung mitgerechnet ist, ergibt sich eine Wochenarbeitszeit von 900 h / 24 = 37,5 Stunden. Eine Veranstaltung mit 5 Creditpoints und 4 SWS, 2 SWS Vorlesung + S SWS übung hat in der Regel einen Arbeitsaufwand von 5 x 30 = 150 Stunden. Bei durchschnittlich 18 Semesterwochen entspricht dies einem Anteil von 2 h x 18 = 36 Stunden Vorlesung, 2 h x 18 = 36 Stunden übung, also 72 Stunden Präsenzanteil und 78 Stunden Selbststudium inklusive Klausurvorbereitung und Nachbereitung der Präsenzanteile. Dies entspricht in etwa einer Aufteilung der Gesamtzeit in 50% für Präsenzstudium und in 50 % für Selbststudium.
 
+
 Die Lehrveranstaltungen des Masterstudiengangs sind mit 6 Creditpoints ausgestattet, was bei einem Modul mit 4 SWS einem Verhältnis von 40% für Präsenzstudium und 60 % für Selbststudium entspricht. 
 
 
 ## Leistungspunktesystem
 
-Die Module der beantragten Studiengänge werden mit Creditpoints bewertet, um europaweite Vergleichbarkeit gemäß den Bologna-Richtlinien zu ermöglichen.
+Die Module der beantragten Studiengänge werden mit ECTS-Punkten bewertet, um europaweite Vergleichbarkeit gemäß den Bologna-Richtlinien zu ermöglichen.
 
 ## Prüfungen
 
@@ -904,12 +957,14 @@ Im Masterstudium ist der Schwerpunkt der Prüfungsformen in Richtung mündlicher
 
 ## Studien/Prüfungsordnungen
 
-Die Studien- und Prüfungsordnungen der beantragten Studiengänge sind dem Anhang dieses Berichts beigefügt. Der Studienverlaufsplan entspricht der Studienordnung.
+Die Studien- und Prüfungsordnungen[^pruefungsordnungen-online] der laufenden Studiengänge sind dem Anhang dieses Berichts beigefügt. Sie sind außerdem über die Website der Hochschule abrufbar. Der Studienverlaufsplan entspricht der Studienordnung. Nach Zustimmung der Gutachter zu den in den erläuterten Änderungen im Rahmen der Reakkreditierung werden die überarbeiteten Prüfungsordnungen, bzw. Studienverlaufspläne zeitnah vorgelegt.
 
+## Diploma Supplement
+Das Diploma Supplement der zur Reakkrediterung beantragten Studiengänge ist im Anhang des Dokuments zu finden.
 
 ## Maßnahmen zur Beratung von Studieninteressierten und Studierenden
 
-Die Medieninformatik beteiligt sich ferner jährlich an folgenden Veranstaltungen zur Beratung von Studieninteressierten:
+Die Medieninformatik beteiligt sich an folgenden Veranstaltungen zur Beratung von Studieninteressierten:
 
 Regelmäßig wird im Mai ein „Schnupperstudium“ durchgeführt, an dem rund 150 Schüler, teilweise mit ihren Lehrern teilnehmen, um die Fachhochschule kennen zu lernen.
 
@@ -922,13 +977,13 @@ Dazu kommen Laborführungen für Schülergruppen verschiedener Schulen sowie die
 - dem „Tag der Offenen Tür" des Berufskollegs Dieringhausen (Gummersbach),der „Weiterbildungsmesse Oberberg",
 - sowie die Teilnahme an anderen, unregelmäßig durchgeführten Veranstaltungen zur Studien- und Berufswahl.
 
-Im Rahmen des bundesweiten Informatikjahres wurde am Campus Gummersbach ein „Tag der Informatik" für Studieninteressierte und eine „Informatik Sommerakademie für Schülerinnen (ISAS)" durchgeführt. Studierende und Dozenten gaben Einblicke in die Informatik-Welt und die Studieninteressierten konnten in verschiedenen Workshops und Selbsteinschätzungstests ihre Eignung und ihr Interesse für die Informatik live testen. Mit über 100 Studieninteressierten war die Beteiligung sehr erfreulich, und die Veranstaltungen stießen auf ein positives Echo.
-Das Institut für Informatik beteiligt sich jährlich am „Tag der offenen Tür“ der TH-Köln im September und an Informationsveranstaltungen der umliegenden Gymnasien und anderer weiterführender Schulen, die potenzielle Studienanfängerinnen und Studienanfänger an die Qualifizierung für ein Hochschulstudium heranführen.
-Alle diese Angebote werden sehr gut aufgenommen und sind stark frequentiert.
+Das Institut für Informatik beteiligt sich jährlich am „Tag der offenen Tür“ der TH-Köln im September und an Informationsveranstaltungen der umliegenden Gymnasien und anderer weiterführender Schulen, die potenzielle Studienanfängerinnen und Studienanfänger an die Qualifizierung für ein Hochschulstudium heranführen. Alle diese Angebote werden sehr gut aufgenommen und sind stark frequentiert.
 
+Darüber hinaus bietet die Medieninformatik einige Veranstaltungen (siehe außercurriculare Maßnahmen) wie den jährlichen Showcase an, um hier auch eine Plattform für Studieninteressierte zu schaffen. Diese Angebote werden gut angenommen.  
 
 
 [^int-office]: International Office fehlt
+[^pruefungsordnungen-online]: Link zur online Prüfungsordnung fehlt
 
 # Prüfungssystem
 
@@ -1070,421 +1125,95 @@ Die Studien- und Prüfungsordnungen der laufenden Studiengänge sind dem Anhang 
 
 ## Lehrende in der Medieninformatik
 
-### Prof. Dr. Thomas Bartz-Beielstein
+| Name / Web                               | Forschungsgebiete                        | Lehrgebiete                              |
+| ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
+| Prof. Dr. Thomas Bartz-Beielstein<br>https://www.th-koeln.de/personen/thomas.bartz-beielstein | • CIplus                                 | • Angewandte Mathematik Simulation und Optimierung<br>• Computational Intelligence Evolutionäre Algorithmen |
+| Bente, Stefan<br>https://www.th-koeln.de/personen/stefan.bente | • Softwarearchitektur<br>• Enterprise-Architektur-Management (EAM) | • Softwaretechnik Softwarearchitektur<br>• Anforderungsmanagement |
+| Bertelsmeier, Birgit<br> https://www.th-koeln.de/personen/birgit.bertelsmeier | •   Big Data von Datenbanksystemen über Auswertungstools bis hin zu ethischen Gesichtspunkten<br>•  NoSQL von den Modellen bis hin zu den DB-Systemen und Analysetools <br>• Tuning von DBSen (RDBMS bis NoSQL) und deren (SQL-)Anfragen <br>• Datenschutz rechtliche wie auch (programm-)technische und ethische Aspekte | • Datenbank- und Informationssysteme RDBMS bis NoSQL |
+| Böhmer, Matthias<br> https://www.th-koeln.de/personen/matthias.boehmer | •  Ubiquitous Computing <br>• Context-aware Applications<br>•  Distributed Interactive Systems<br>• Internet of Things<br>•  Mobile Applications and Smartphone Usage | • Mobile und Verteilte Architekturen     |
+| Eisemann, Martin<br> https://www.th-koeln.de/personen/martin.eisemann | • Photorealistische Computergrafik <br>• Bildbasierte Verfahren <br>• Visualisierung und Visual Analytics <br>• Bild- und Videoverarbeitung | • Computergrafik Realistische und Interaktive Bildsynthese, Bildbasierte Computergraphik, Visual Analytics, Gaming Technologies <br>• Theoretische Informatik Grundlagenvorlesungen im Bachelor |
+| Faeskorn-Woyke, Heide<br> https://www.th-koeln.de/personen/heide.faeskorn-woyke | • Data Mining und Datenbankanwendungen im Big Data Umfeld | • Datenbanken und Informationssysteme    |
+| Fischer, Kristian<br>https://www.th-koeln.de/personen/kristian.fischer | • Dienst orientierte Architekturen <br>• Semantische Modellierung digitaler Medien | • Web-basierte Anwendungen und verteilte Systeme<br>• Kooperationssysteme |
+| Giannakopoulos, Fotios<br> https://www.th-koeln.de/personen/fotios.giannakopoulos | &nbsp; | • Theoretische Informatik                |
+| Günther, Holger<br> https://www.th-koeln.de/personen/holger.guenther | &nbsp; | • Projektmanagement                      |
+| Hartmann, Gerhard<br> https://www.th-koeln.de/personen/gerhard.hartmann | • Sustainable Interaction Design<br>• Sustainability as System-Requirements<br>• Designing Worth, Value-related Design | • Mensch-Computer Interaktion<br>•  Entwicklungsprojekt interaktive Systeme<br>• Interaction Design<br>• Naturwissenschaftliche<br>• Grundlagen Digitaler Medien<br>•  Research Methods in Human-Computer Interaction<br>• Design Methodologies |
+| Jochum, Friedbert<br> https://www.th-koeln.de/personen/friedbert.jochum | • Software-Architektur / Systemgestaltung<br>•  Konstruktive Methoden<br>• Konzeptuelle Modellierung<br>•  Informatik und Semiotik | • Fachspezifischer Architekturentwurf<br>• Software-Architektur und Agile Methoden |
+| Karsch, Stefan<br> https://www.th-koeln.de/personen/stefan.karsch | &nbsp; | • Einführung in Betriebssysteme und Rechnerarchitektur<br>• IT Sicherheit |
+| Klocke, Heinrich<br> https://www.th-koeln.de/personen/heinrich.klocke | • Mensch-Computer-Interakton im Bereich SmartHome | • Mensch-Computer Interaktion<br>• Usability Engineering und kognitive Psychologie<br>• Algorithmik<br>•  Künstliche Intelligenz Logische Agenten |
+| Knittel, Friedrich<br> https://www.th-koeln.de/personen/friedrich.knittel | &nbsp; |                                          |
+| Koch, Heribert<br> https://www.th-koeln.de/personen/heribert.koch | &nbsp; |                                          |
+| Köhler, Lutz<br> https://www.th-koeln.de/personen/lutz.koehler | &nbsp; |                                          |
+| Kohls, Christian<br> https://www.th-koeln.de/personen/christian.kohls | &nbsp; | Algorithmen und Programmierung           |
+| Konen, Wolfgang<br> https://www.th-koeln.de/personen/wolfgang.konen | • Computational Intelligence & Data Mining<br>• Bild- und Signalverarbeitung<br>• Optimierung, Simulation, Spieltheorie | • Mathematik<br>• Data Mining            |
+| Kornacher, Hans Hermann<br> https://www.th-koeln.de/personen/hans.kornacher | &nbsp; | • Medientechnik und -produktion<br>• Digitale Animation und Visual Effects in der Film- und Fernsehproduktion |
+| Naujoks, Boris<br> https://www.th-koeln.de/personen/boris.naujoks | • Computational Intelligence<br>• Evolutionäre Algorithmen<br>• Mehrkriterielle Optimierung | • Angewandte Mathematik                  |
+| Noss, Christian<br> https://www.th-koeln.de/personen/christian.noss | &nbsp; | • Kommunikationsdesign<br>• Web-basierte Anwendungen |
+| Stahl, Hans Ludwig<br>https://www.th-koeln.de/personen/hans.stahl | • Netze: Technik, Konzeption, Betrieb, Management, Sicherheit <br>• Outsourcing, ASP, CRM: Konzeption, Betrieb, SLAs, Management, Konzernstrategien<br>• Service Level Monitoring und ITIL-konforme IT-Prozesse bzw. Unterstützung von eTOM<br>• Open Systems: Betrieb, Management, Konsolidierung, Konzernstrategien<br>• Mobile IT / Mobilkommunikation: Technik, Management, Sicherheit, Anwendungen<br>• IT Security Management<br>• IT Risk Management<br>• IT- und Web-Trust-Management | • Theoretische Informatik und Technische Informatik<br>•  Kommunikationstechnik und Netze<br>• Mobile IT Security<br>• IT Compliance and Risk Management Informatik |
+| Victor, Frank<br> https://www.th-koeln.de/personen/frank.victor | &nbsp; | • Algorithmen und Programmierung<br>• Enterprise Architecture Management<br>• Betriebliche Anwendungssysteme<br>• IT Consulting und Management |
+| Westenberger, Hartmut<br> https://www.th-koeln.de/personen/hartmut.westenberger | • Industrialisierung von Data Warehousing und Business Intelligence Framework und Wissenskomponenten für die Beratung und Entwicklung von DWH/BI | • Informatik Betriebliche Anwendungssysteme |
+| Winter, Mario<br> https://www.th-koeln.de/personen/mario.winter | &nbsp; | • Softwareentwicklung und Projektmanagement in Medienprojekten<br>•  Modellbasierte Entwicklungsmethoden und Qualitätssicherung |
 
-* Web: https://www.th-koeln.de/personen/thomas.bartz-beielstein/
-
-- Forschungsgebiete
-  -  CIplus
-- Lehrgebiete:
-  - Angewandte Mathematik Simulation und Optimierung 
-  - Computational Intelligence Evolutionäre Algorithmen
-
-
-### Bente, Stefan
-
-* Web: https://www.th-koeln.de/personen/stefan.bente/
-
-
-* Forschungsgebiete
-  * Softwarearchitektur
-  * Enterprise-Architektur-Management (EAM)
-* Lehrgebiete
-  * Softwaretechnik Softwarearchitektur
-  * Anforderungsmanagement
-
-### Bertelsmeier, Birgit
-
-- Web: https://www.th-koeln.de/personen/birgit.bertelsmeier/
-
-* Forschungsgebiete
-  - Big Data von Datenbanksystemen über Auswertungstools bis hin zu ethischen Gesichtspunkten
-  - NoSQL von den Modellen bis hin zu den DB-Systemen und Analysetools
-  - Tuning von DBSen (RDBMS bis NoSQL) und deren (SQL-)Anfragen
-  - Datenschutz rechtliche wie auch (programm-)technische und ethische Aspekte
-* Lehrgebiete
-  * Datenbank- und Informationssysteme RDBMS bis NoSQL
-
-### Böhmer, Matthias
-
-* Web: https://www.th-koeln.de/personen/matthias.boehmer/
-
-
-* Forschungsgebiete
-  * Ubiquitous Computing
-  * Context-aware Applications
-  * Distributed Interactive Systems
-  * Internet of Things
-  * Mobile Applications and Smartphone Usage
-* Lehrgebiete
-  * Mobile und Verteilte Architekturen
-
-### Eisemann, Martin
-
-- Web: https://www.th-koeln.de/personen/martin.eisemann/
-
-* Forschungsgebiete
-  * Photorealistische Computergrafik
-  * Bildbasierte Verfahren
-  * Visualisierung und Visual Analytics
-  * Bild- und Videoverarbeitung
-
-
-* Lehrgebiete
-  * Computergrafik Realistische und Interaktive Bildsynthese, Bildbasierte Computergraphik, Visual Analytics, Gaming Technologies
-  * Theoretische Informatik Grundlagenvorlesungen im Bachelor
-
-### Faeskorn-Woyke, Heide
-
-* Web: https://www.th-koeln.de/personen/heide.faeskorn-woyke/
-
-
-* Forschungsgebiete
-  * Data Mining und Datenbankanwendungen im Big Data Umfeld
-* Lehrgebiete
-  * Datenbanken und Informationssysteme
-
-### Fischer, Kristian
-
-* Web: https://www.th-koeln.de/personen/kristian.fischer/
-
-
-* Forschungsgebiete
-  * Dienst orientierte Architekturen
-  * Semantische Modellierung digitaler Medien
-
-
-* Lehrgebiete
-  * Web-basierte Anwendungen und verteilte Systeme
-
-
-### Giannakopoulos, Fotios
-
-* Web: https://www.th-koeln.de/personen/fotios.giannakopoulos/
-
-- Forschungsgebiete
-  - **[hier fehlt noch Inhalt]**
-- Lehrgebiete
-  - **[hier fehlt noch Inhalt]**
-
-### Günther, Holger
-
-* Web: https://www.th-koeln.de/personen/holger.guenther/
-
-
-* Forschungsgebiete
-  - **[hier fehlt noch Inhalt]**
-* Lehrgebiete
-  * **[hier fehlt noch Inhalt]**
-
-### Hartmann, Gerhard
-
-* Web: https://www.th-koeln.de/personen/gerhard.hartmann/
-
-
-* Forschungsgebiete
-  * Sustainable Interaction Design
-  * Sustainability as System-Requirements
-  * Designing Worth, Value-related Design
-  
-* Lehrgebiete
-  * Mensch-Computer Interaktion
-  * Entwicklungsprojekt interaktive Systeme
-  * Interaction Design
-  * Naturwissenschaftliche Grundlagen Digitaler Medien
-  * Research Methods in Human-Computer Interaction
-  * Design Methodologies
-
-### Jochum, Friedbert
-
-* Web: https://www.th-koeln.de/personen/friedbert.jochum/
-
-
-* Forschungsgebiete
-  * Software-Architektur / Systemgestaltung
-  * Konstruktive Methoden
-  * Konzeptuelle Modellierung 
-  * Informatik und Semiotik
-
-
-* Lehrgebiete
-  * Fachspezifischer Architekturentwurf
-  * Software-Architektur und Agile Methoden 
-
-
-### Karsch, Stefan
-
-* Web: https://www.th-koeln.de/personen/stefan.karsch/
-* Forschungsgebiete
-  * **[hier fehlt noch Inhalt]**
-* Lehrgebiete
-  * **[hier fehlt noch Inhalt]**
-
-### Klocke, Heinrich
-
-* Web: https://www.th-koeln.de/personen/heinrich.klocke/
-* Forschungsgebiete 
-  * Mensch-Computer-Interakton im Bereich SmartHome.
-* Lehrgebiete
-  * Mensch-Computer Interaktion Usability Engineering und kognitive Psychologie
-  * Algorithmik
-  * Künstliche Intelligenz Logische Agenten
-
-### Knittel, Friedrich
-
-* Web: https://www.th-koeln.de/personen/friedrich.knittel/
-
-
-* Forschungsgebiete
-  * **[hier fehlt noch Inhalt]**
-* Lehrgebiete
-  * **[hier fehlt noch Inhalt]**
-
-### Koch, Heribert
-
-* Web: https://www.th-koeln.de/personen/heribert.koch/
-* Forschungsgebiete
-  - **[hier fehlt noch Inhalt]**
-* Lehrgebiete
-  * **[hier fehlt noch Inhalt]**
-
-### Köhler, Lutz
-
-* Forschungsgebiete
-  * **[hier fehlt noch Inhalt]**
-
-
-* Web: https://www.th-koeln.de/personen/lutz.koehler/
-
-
-* Lehrgebiete
-  * **[hier fehlt noch Inhalt]**
-
-
-### Kohls, Christian
-
-* Web: https://www.th-koeln.de/personen/christian.kohls/
-
-
-* Forschungsgebiete
-  * **[hier fehlt noch Inhalt]**
-* Lehrgebiete
-  * **[hier fehlt noch Inhalt]**
-
-#### Konen, Wolfgang
-
-* Web: https://www.th-koeln.de/personen/wolfgang.konen/
-
-- Forschungsgebiete
-  - Computational Intelligence & Data Mining
-  - Bild- und Signalverarbeitung
-  - Optimierung, Simulation, Spieltheorie
-
-* Lehrgebiete
-  * Mathematik
-  * Data Mining
-
-
-### Kornacher, Hans Hermann
-
-* Forschungsgebiete
-  * **[hier fehlt noch Inhalt]**
-
-
-* Web: https://www.th-koeln.de/personen/hans.kornacher/
-
-
-* Lehrgebiete
-  * Medientechnik und -produktion
-  * Digitale Animation und Visual Effects in der Film- und Fernsehproduktion
-
-
-### Naujoks, Boris
-
-* Web: https://www.th-koeln.de/personen/boris.naujoks/
-
-
-* Forschungsgebiete
-  - Computational Intelligence, Evolutionäre Algorithmen, Mehrkriterielle Optimierung
-
-
-* Lehrgebiete
-  * Angewandte Mathematik Grundlagenveranstaltungen Informatik und Ingenieure
-
-### Noss, Christian
-
-* Forschungsgebiete
-  * **[hier fehlt noch Inhalt]**
-* Web: https://www.th-koeln.de/personen/christian.noss/
-* Lehrgebiete
-  * Kommunikationsdesign
-  * Web-basierte Anwendungen
-
-### Stahl, Hans Ludwig
-
-* Forschungsgebiete
-  * Netze: Technik, Konzeption, Betrieb, Management, Sicherheit
-  * Outsourcing, ASP, CRM: Konzeption, Betrieb, SLAs, Management, Konzernstrategien
-  * Service Level Monitoring und ITIL-konforme IT-Prozesse bzw. Unterstützung von eTOM
-  * Open Systems: Betrieb, Management, Konsolidierung, Konzernstrategien
-  * Mobile IT / Mobilkommunikation: Technik, Management, Sicherheit, Anwendungen
-  * IT Security Management
-  * IT Risk Management
-  * IT- und Web-Trust-Management
-* Web: https://www.th-koeln.de/personen/hans.stahl/
-* Lehrgebiete
-  * Theoretische Informatik und Technische Informatik
-  * Kommunikationstechnik und Netze
-  * Mobile IT Security
-  * IT Compliance and Risk Management Informatik
-
-### Victor, Frank
-
-* Web: https://www.th-koeln.de/personen/frank.victor/
-
-
-* Lehrgebiete
-  * Algorithmen und Programmierung
-  * Enterprise Architecture Management
-  * Betriebliche Anwendungssysteme
-  * IT Consulting 
-  * IT Consulting und Management
-
-### Westenberger, Hartmut
-
-* Forschungsgebiete
-  - Industrialisierung von Data Warehousing und Business Intelligence Framework und Wissenskomponenten für die Beratung und Entwicklung von DWH/BI
-* Web: https://www.th-koeln.de/personen/hartmut.westenberger/
-* Lehrgebiete
-  * Informatik Betriebliche Anwendungssysteme
-
-### Winter, Mario
-
-* Web: https://www.th-koeln.de/personen/mario.winter/
-* Forschungsgebiete
-  - **[hier fehlt noch Inhalt]**
-* Lehrgebiete
-  * Softwareentwicklung und Projektmanagement in Medienprojekten 
-  * Modellbasierte Entwicklungsmethoden und Qualitätssicherung
 
 ## Wissenschaftliche Beschäftigte
 
-### Breiderhoff, Beate
-
-### Breuer, Stefan
-
-### Buderus, Dennis
-
-### Bungart, Johannes-Josef
-
-### Butz, Raphaela
-
-### Chandrasekaran, Sowmya
-
-### Dang, Ngoc-Anh
-
-### Dimitriou, Konstantinos
-
-### Dobrynin, Alexander
-
-### Ferreira Pereira, Jorge Henrique
-
-### Fischbach, Andreas
-
-### Friese, Martina
-
-### Gabriel, Robert
-
-### Gawenda, Damian
-
-### Gellert, Edgar
-
-### Grünloh, Christiane
-
-### Hein, Irina
-
-### Heßland, Marco Paolo
-
-### Hofmeister, Anne
-
-### Holste, Andreas
-
-### Jaeger, Dennis
-
-### Jaspers, Franz-Leonard
-
-### Jung, Christian
-
-### Kasper, Andre
-
-### Krampe, Fabian Reinhard Dietrich
-
-### Krischer, Manuel
-
-### Krumnow, Benjamin
-
-### **Kullack, Sven**
-
-### Linke, Mario
-
-### Moritz, Steffen
-
-### Müller, Sebastian
-
-### Münster, Beate Anna
-
-### Münster, Guido
-
-### Müsse, Uwe
-
-### Neagu, Adrian
-
-### Odenwald, Patrick
-
-### Petersen, David Ferdinand
-
-### Petrisor, Teodora Roxana
-
-### Pham, Quoc Cuong
-
-### Poborski, Uwe
-
-### Rebolledo Coy, Margarita Alejandra
-
-### Reitano, Marco
-
-### Reschke, Daniela
-
-### Riemer, Petra
-
-### Sassmannshausen, Sheree May
-
-### Schäfer, Frank
-
-### Schaefer, Volker
-
-### Scherban, Helmut
-
-### Schewe, Sascha
-
-### Schönthier, Pascal
-
-### Schwede, Marc
-
-### Stork, Jörg
-
-### Stratmann, Marcel
-
-### Strohschein, Jan
-
-### Thill, Markus
-
-### Wagner, Peter
-
-### Zaefferer, Martin
-
-### Zakrevski, Svetlana
-
+* Breiderhoff, Beate
+* Breuer, Stefan
+* Buderus, Dennis
+* Bungart, Johannes-Josef
+* Butz, Raphaela
+* Chandrasekaran, Sowmya
+* Dang, Ngoc-Anh
+* Dimitriou, Konstantinos
+* Dobrynin, Alexander
+* Ferreira Pereira, Jorge Henrique
+* Fischbach, Andreas
+* Friese, Martina
+* Gabriel, Robert
+* Gawenda, Damian
+* Gellert, Edgar
+* Grünloh, Christiane
+* Hein, Irina
+* Heßland, Marco Paolo
+* Hofmeister, Anne
+* Holste, Andreas
+* Jaeger, Dennis
+* Jaspers, Franz-Leonard
+* Jung, Christian
+* Kasper, Andre
+* Krampe, Fabian Reinhard Dietrich
+* Krischer, Manuel
+* Krumnow, Benjamin
+* Kullack, Sven
+* Linke, Mario
+* Moritz, Steffen
+* Müller, Sebastian
+* Münster, Beate Anna
+* Münster, Guido
+* Müsse, Uwe
+* Neagu, Adrian
+* Odenwald, Patrick
+* Petersen, David Ferdinand
+* Petrisor, Teodora Roxana
+* Pham, Quoc Cuong
+* Poborski, Uwe
+* Rebolledo Coy, Margarita Alejandra
+* Reitano, Marco
+* Reschke, Daniela
+* Riemer, Petra
+* Sassmannshausen, Sheree May
+* Schäfer, Frank
+* Schaefer, Volker
+* Scherban, Helmut
+* Schewe, Sascha
+* Schönthier, Pascal
+* Schwede, Marc
+* Stork, Jörg
+* Stratmann, Marcel
+* Strohschein, Jan
+* Thill, Markus
+* Wagner, Peter
+* Zaefferer, Martin
+* Zakrevski, Svetlana
 
 
 # Transparenz und Dokumentation
@@ -1608,11 +1337,9 @@ Die Umsetzung dieser Ziele und die Einbettung in die bestehenden Handlungsfelder
 Folgende Themen sollten noch adressiert werden:
 
 - Entwicklung der Medieninformatik insgesamt
-- Veranstaltungen und Formate: Showcase, Kontaktbörse, Filmfest, Website, Youtube Kanal, Twitter, Facebook
-- Top 5 Studiengang laut https://www.studycheck.de/studium/medieninformatik
-- auf welcher Basis wurde konzipiert: GI Paper, Gruppe Medieninformatik der GI
 - Toolchain
 - Abgleich mit Fakultätsentwicklungsplan?
+
 
 # Inhalte aus dem Antrag, die übrig geblieben sind
 

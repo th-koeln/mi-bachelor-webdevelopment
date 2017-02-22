@@ -162,15 +162,15 @@
 \usepackage[sfdefault,light]{roboto}  %% Option 'sfdefault' only if the base font of the document is to be sans serif
 
 
-\usepackage{titlesec}
+\usepackage[raggedright]{titlesec}
 \titleformat{\chapter}[display]
   {\normalfont\sffamily\mdseries}
-  {\chaptertitlename\ \thechapter}{14pt}{\huge}
+  {\chaptertitlename\ \thechapter}{14pt}{\huge\raggedright}
 \titleformat{\section}
-  {\normalfont\sffamily\mdseries\large\color{m_pink}}
-  {\thesection}{1em}{\large}
+  {\normalfont\sffamily\mdseries\LARGE\color{m_pink}\raggedright}
+  {\thesection}{1em}{\LARGE}
 \titleformat{\subsection}
-  {\normalfont\sffamily\mdseries\large}
+  {\normalfont\sffamily\mdseries\large\raggedright}
   {\thesubsection}{1em}{\large}
 % Zeilenumbruch und Spacing für Absätze
 \titleformat{\paragraph}[hang]
