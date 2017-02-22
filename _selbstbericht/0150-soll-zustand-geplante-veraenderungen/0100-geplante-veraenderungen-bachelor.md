@@ -1,6 +1,6 @@
 ---
 title: Soll-Zustand/ geplante Veränderungen
-aktueller-bearbeiter: 
+aktueller-bearbeiter: Kristian Fischer
 bearbeiterhistorie: Christian Noss
 date: 20.02.2017
 comment: Präludium "wie hat sich die MI in den letzten Jahren verändert?"
@@ -88,7 +88,7 @@ Mit dieser Änderungen sollen folgende bekannte Defizite ausgeglichen werden:
 - Zu großer Sprung der Projektgrößen
 - zu viele „Baustellen“
 - zu starke Fragmentierung von Modulen und der projektorientierten Praxisanteile
-- Übergang in den Spezialisierungsteil vom vierten ins fünfte Fachsemester
+- Übergang in den Spezialisierungsteil vom vierten ins fünfte Fachsemester
 - Übergang ins Abschlussprojekt
 - Zeitproblem beim Einstieg ins Praxisprojekt
 
