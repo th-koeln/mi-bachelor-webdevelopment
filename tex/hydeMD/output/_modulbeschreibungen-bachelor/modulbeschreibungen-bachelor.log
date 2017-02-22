@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.17)  22 FEB 2017 23:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.11.27)  22 FEB 2017 23:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -6,28 +6,28 @@ entering extended mode
 **modulbeschreibungen-bachelor.tex
 (./modulbeschreibungen-bachelor.tex
 LaTeX2e <2016/03/31>
-Babel <3.9r> and hyphenation patterns for 22 language(s) loaded.
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/koma-script/scrbook.cls
+Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
+(/usr/local/texlive/2016/texmf-dist/tex/latex/koma-script/scrbook.cls
 Document Class: scrbook 2016/05/10 v3.20 KOMA-Script document class (book)
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/koma-script/scrkbase.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/koma-script/scrkbase.sty
 Package: scrkbase 2016/05/10 v3.20 KOMA-Script package (KOMA-Script-dependent b
 asics and keyval usage)
 
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/koma-script/scrbase.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/koma-script/scrbase.sty
 Package: scrbase 2016/05/10 v3.20 KOMA-Script package (KOMA-Script-independent 
 basics and keyval usage)
 
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/graphics/keyval.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/koma-script/scrlfile.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/koma-script/scrlfile.sty
 Package: scrlfile 2016/05/10 v3.20 KOMA-Script package (loading files)
 
 Package scrlfile, 2016/05/10 v3.20 KOMA-Script package (loading files)
                   Copyright (C) Markus Kohm
 
-))) (/usr/local/texlive/2016basic/texmf-dist/tex/latex/koma-script/tocbasic.sty
+))) (/usr/local/texlive/2016/texmf-dist/tex/latex/koma-script/tocbasic.sty
 Package: tocbasic 2016/05/10 v3.20 KOMA-Script package (handling toc-files)
 \scr@dte@tocline@numberwidth=\skip41
 \scr@dte@tocline@numbox=\box26
@@ -58,10 +58,11 @@ Package scrbook Info: You've used standard option `10pt'.
 Class scrbook Info: File `scrsize10pt.clo' used to setup font sizes on input li
 ne 2268.
 
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/koma-script/scrsize10pt.clo
+(/usr/local/texlive/2016/texmf-dist/tex/latex/koma-script/scrsize10pt.clo
 File: scrsize10pt.clo 2016/05/10 v3.20 KOMA-Script font size class option (10pt
 )
-) (/usr/local/texlive/2016basic/texmf-dist/tex/latex/koma-script/typearea.sty
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/koma-script/typearea.sty
 Package: typearea 2016/05/10 v3.20 KOMA-Script package (type area)
 
 Package typearea, 2016/05/10 v3.20 KOMA-Script package (type area)
@@ -126,29 +127,29 @@ LaTeX Info: Redefining \textsubscript on input line 4771.
 \c@table=\count88
 Class scrbook Info: Redefining `\numberline' on input line 5776.
 \bibindent=\dimen102
-) (/usr/local/texlive/2016basic/texmf-dist/tex/latex/graphics/color.sty
+) (/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2016/05/09 v1.1c Standard LaTeX Color (DPC)
 
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/graphics-cfg/color.cfg
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 144.
 
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/pdftex-def/pdftex.def
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pdftex-def/pdftex.def
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-(/usr/local/texlive/2016basic/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-(/usr/local/texlive/2016basic/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count89
 ))
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/graphics-cfg/color.cfg
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Package option `html' ignored on input line 216.
@@ -164,71 +165,124 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
-(/Users/jorge/Library/texmf/tex/latex/commonstuff/ngerman.sty v2.5e 1998-07-08
-Package: ngerman 1998/07/08 v2.5e Support for writing german texts (br)
-\grmnU@D=\dimen103
-ngerman -- \language number for naustrian undefined, default 12 used.
-) (/usr/local/texlive/2016basic/texmf-dist/tex/latex/base/inputenc.sty
-Package: inputenc 2015/03/17 v1.2c Input encoding file
-\inpenc@prehook=\toks15
-\inpenc@posthook=\toks16
+(/usr/local/texlive/2016/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+Package: adjustbox 2012/05/21 v1.0 Adjusting TeX boxes (trim, clip, ...)
 
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/ucs/utf8x.def
-File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
-))
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/ucs/ucs.sty
-Package: ucs 2013/05/11 v2.2 UCS: Unicode input support
+(/usr/local/texlive/2016/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/ucs/data/uni-global.def
-File: uni-global.def 2013/05/13 UCS: Unicode global data
+(/usr/local/texlive/2016/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/local/texlive/2016/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks15
+\XKV@tempa@toks=\toks16
 )
-\uc@secondtry=\count90
-\uc@combtoks=\toks17
-\uc@combtoksb=\toks18
-\uc@temptokena=\toks19
-)
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
-
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/base/t1enc.def
-File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
-LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+\XKV@depth=\count90
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/adjustbox/adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/adjustbox/trimclip.sty
+Package: trimclip 2012/05/16 v1.0 Trim and clip general TeX material
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2016/05/09 v1.0r Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/graphics/trig.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/01/02 v1.10 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 96.
 )
-\Gin@req@height=\dimen104
-\Gin@req@width=\dimen105
-) (/usr/local/texlive/2016basic/texmf-dist/tex/latex/oberdiek/grffile.sty
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/collectbox/collectbox.sty
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box28
+)
+\tc@llx=\dimen105
+\tc@lly=\dimen106
+\tc@urx=\dimen107
+\tc@ury=\dimen108
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
+File: tc-pdftex.def 2012/05/13 v1.0 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen109
+\adjbox@Height=\dimen110
+\adjbox@Depth=\dimen111
+\adjbox@Totalheight=\dimen112
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count91
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box29
+\sift@deathcycles=\count92
+\@vwid@loff=\dimen113
+\@vwid@roff=\dimen114
+))
+(/usr/local/texlive/2016/texmf-dist/tex/generic/german/ngerman.sty
+v2.5e 1998-07-08
+Package: ngerman 1998/07/08 v2.5e Support for writing german texts (br)
+\grmnU@D=\dimen115
+ngerman -- \language number for naustrian undefined, default 32 used.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/ucs/utf8x.def
+File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/ucs/ucs.sty
+Package: ucs 2013/05/11 v2.2 UCS: Unicode input support
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/ucs/data/uni-global.def
+File: uni-global.def 2013/05/13 UCS: Unicode global data
+)
+\uc@secondtry=\count93
+\uc@combtoks=\toks19
+\uc@combtoksb=\toks20
+\uc@temptokena=\toks21
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/grffile.sty
 Package: grffile 2016/05/16 v1.17 Extended file name support for graphics (HO)
 
-(/usr/local/texlive/2016basic/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
 )
-(/usr/local/texlive/2016basic/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+(/usr/local/texlive/2016/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 
-(/usr/local/texlive/2016basic/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 
-(/usr/local/texlive/2016basic/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/etexcmds.sty
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 
-(/usr/local/texlive/2016basic/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifluatex.sty
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
@@ -237,7 +291,7 @@ Package etexcmds Info: Could not find \expanded.
 (etexcmds)             that some package has redefined \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 )))
-(/usr/local/texlive/2016basic/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2016/05/10 v0.21 Utility functions of pdfTeX for LuaTeX (HO
 )
 Package pdftexcmds Info: LuaTeX not detected.
@@ -250,53 +304,53 @@ Package grffile Info: Option `extendedchars' is set to `false'.
 Package grffile Info: Option `space' is set to `true'.
 Package grffile Info: \Gin@ii of package `graphicx' fixed on input line 486.
 )
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/float/float.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count91
-\float@exts=\toks20
-\float@box=\box28
-\@float@everytoks=\toks21
-\@floatcapt=\box29
+\c@float@type=\count94
+\float@exts=\toks22
+\float@box=\box30
+\@float@everytoks=\toks23
+\@floatcapt=\box31
 )
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/tools/longtable.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/longtable.sty
 Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
 \LTleft=\skip56
 \LTright=\skip57
 \LTpre=\skip58
 \LTpost=\skip59
-\LTchunksize=\count92
-\LTcapwidth=\dimen106
-\LT@head=\box30
-\LT@firsthead=\box31
-\LT@foot=\box32
-\LT@lastfoot=\box33
-\LT@cols=\count93
-\LT@rows=\count94
-\c@LT@tables=\count95
-\c@LT@chunks=\count96
-\LT@p@ftn=\toks22
+\LTchunksize=\count95
+\LTcapwidth=\dimen116
+\LT@head=\box32
+\LT@firsthead=\box33
+\LT@foot=\box34
+\LT@lastfoot=\box35
+\LT@cols=\count96
+\LT@rows=\count97
+\c@LT@tables=\count98
+\c@LT@chunks=\count99
+\LT@p@ftn=\toks24
 )
-Class scrbook Info: longtable captions redefined on input line 41.
+Class scrbook Info: longtable captions redefined on input line 43.
 
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/booktabs/booktabs.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2016/04/27 v1.618033 publication quality tables
-\heavyrulewidth=\dimen107
-\lightrulewidth=\dimen108
-\cmidrulewidth=\dimen109
-\belowrulesep=\dimen110
-\belowbottomsep=\dimen111
-\aboverulesep=\dimen112
-\abovetopsep=\dimen113
-\cmidrulesep=\dimen114
-\cmidrulekern=\dimen115
-\defaultaddspace=\dimen116
-\@cmidla=\count97
-\@cmidlb=\count98
-\@aboverulesep=\dimen117
-\@belowrulesep=\dimen118
-\@thisruleclass=\count99
-\@lastruleclass=\count100
-\@thisrulewidth=\dimen119
+\heavyrulewidth=\dimen117
+\lightrulewidth=\dimen118
+\cmidrulewidth=\dimen119
+\belowrulesep=\dimen120
+\belowbottomsep=\dimen121
+\aboverulesep=\dimen122
+\abovetopsep=\dimen123
+\cmidrulesep=\dimen124
+\cmidrulekern=\dimen125
+\defaultaddspace=\dimen126
+\@cmidla=\count100
+\@cmidlb=\count101
+\@aboverulesep=\dimen127
+\@belowrulesep=\dimen128
+\@thisruleclass=\count102
+\@lastruleclass=\count103
+\@thisrulewidth=\dimen129
 )
 
 Class scrbook Warning: Usage of package `fancyhdr' together
@@ -304,9 +358,9 @@ Class scrbook Warning: Usage of package `fancyhdr' together
 (scrbook)              I'd suggest to use 
 (scrbook)              package `scrlayer-scrpage'.
 (scrbook)              Nevertheless, using requested
-(scrbook)              package `fancyhdr' on input line 46.
+(scrbook)              package `fancyhdr' on input line 48.
 
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 \fancy@headwidth=\skip60
 \f@ncyO@elh=\skip61
 \f@ncyO@erh=\skip62
@@ -317,10 +371,10 @@ Class scrbook Warning: Usage of package `fancyhdr' together
 \f@ncyO@olf=\skip67
 \f@ncyO@orf=\skip68
 )
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/nomencl/nomencl.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/nomencl/nomencl.sty
 Package: nomencl 2005/09/22 v4.2 Nomenclature package (LN)
-\nomlabelwidth=\dimen120
-\nom@tempdim=\dimen121
+\nomlabelwidth=\dimen130
+\nom@tempdim=\dimen131
 \nomitemsep=\skip69
 )
 \@nomenclaturefile=\write3
@@ -328,56 +382,56 @@ Package: nomencl 2005/09/22 v4.2 Nomenclature package (LN)
 
 
 Writing nomenclature file modulbeschreibungen-bachelor.nlo
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/germbib/bibgerm.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/germbib/bibgerm.sty
 Package: bibgerm 2000/08/18 v0.1 Support for mixed language bibliographies
 
 ** Macros for german `BibTeX'ing added to Style Option `german' 20 Apr 1993 **
 ** idea and languages `german' and `USenglish' implemented by M. Wallmeier **
 ** Modified for LaTeX 2e and german.sty 2.5b by A. Scherer 1 Nov 1995 **
 ** Modified for ngerman.sty and babel.sty by H. Harders 21 August 2000 **)
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/url/url.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/setspace/setspace.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
-(/usr/local/texlive/2016basic/texmf-dist/tex/generic/babel/babel.sty
+(/usr/local/texlive/2016/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2016/04/23 3.9r The Babel package
 
-(/usr/local/texlive/2016basic/texmf-dist/tex/generic/babel-german/ngerman.ldf
+(/usr/local/texlive/2016/texmf-dist/tex/generic/babel-german/ngerman.ldf
 Language: ngerman 2013/12/13 v2.7 German support for babel (new orthography)
 
-(/usr/local/texlive/2016basic/texmf-dist/tex/generic/babel-german/ngermanb.ldf
+(/usr/local/texlive/2016/texmf-dist/tex/generic/babel-german/ngermanb.ldf
 Language: ngermanb 2013/12/13 v2.7 German support for babel (new orthography)
 
-(/usr/local/texlive/2016basic/texmf-dist/tex/generic/babel/babel.def
+(/usr/local/texlive/2016/texmf-dist/tex/generic/babel/babel.def
 File: babel.def 2016/04/23 3.9r Babel common definitions
-\babel@savecnt=\count101
-\U@D=\dimen122
+\babel@savecnt=\count104
+\U@D=\dimen132
 ))))
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/csquotes/csquotes.sty
-Package: csquotes 2017/02/03 v5.2a context-sensitive quotations (JAW)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/csquotes/csquotes.sty
+Package: csquotes 2016/01/31 v5.1g context-sensitive quotations (JAW)
 
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2015/08/02 v2.2a e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count102
+\etb@tempcnta=\count105
 )
-\csq@reset=\count103
-\csq@gtype=\count104
-\csq@glevel=\count105
-\csq@qlevel=\count106
-\csq@maxlvl=\count107
-\csq@tshold=\count108
-\csq@ltx@everypar=\toks23
+\csq@reset=\count106
+\csq@gtype=\count107
+\csq@glevel=\count108
+\csq@qlevel=\count109
+\csq@maxlvl=\count110
+\csq@tshold=\count111
+\csq@ltx@everypar=\toks25
 
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/csquotes/csquotes.def
-File: csquotes.def 2017/02/03 v5.2a csquotes generic definitions (JAW)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/csquotes/csquotes.def
+File: csquotes.def 2016/01/31 v5.1g csquotes generic definitions (JAW)
 )
 Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
 Package csquotes Info: ... configuration file loaded successfully.
 
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/csquotes/csquotes.cfg
+(/usr/local/texlive/2016/texmf-dist/tex/latex/csquotes/csquotes.cfg
 File: csquotes.cfg 
 )
 Package csquotes Info: Option 'babel' depreciated.
@@ -385,65 +439,63 @@ Package csquotes Info: Option 'babel' depreciated.
 Package csquotes Info: Enabling multilingual quotes.
 Package csquotes Info: Redefining alias 'german' -> 'german/quotes'.
 )
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
 Package: fancyvrb 2008/02/07
 
 Style option: `fancyvrb' v2.7a, with DG/SPQR fixes, and firstline=lastline fix 
 <2008/02/07> (tvz)
-\FV@CodeLineNo=\count109
+\FV@CodeLineNo=\count112
 \FV@InFile=\read1
-\FV@TabBox=\box34
-\c@FancyVerbLine=\count110
-\FV@StepNumber=\count111
+\FV@TabBox=\box36
+\c@FancyVerbLine=\count113
+\FV@StepNumber=\count114
 \FV@OutFile=\write4
 )
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/tools/verbatim.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/verbatim.sty
 Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks24
-\verbatim@line=\toks25
+\every@verbatim=\toks26
+\verbatim@line=\toks27
 \verbatim@in@stream=\read2
 )
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/moreverb/moreverb.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/moreverb/moreverb.sty
 Package: moreverb 2008/06/03 v2.3a `more' verbatim facilities
-\tab@position=\count112
-\tab@size=\count113
-\listing@line=\count114
+\tab@position=\count115
+\tab@size=\count116
+\listing@line=\count117
 )
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/listings/listings.sty
-\lst@mode=\count115
-\lst@gtempboxa=\box35
-\lst@token=\toks26
-\lst@length=\count116
-\lst@currlwidth=\dimen123
-\lst@column=\count117
-\lst@pos=\count118
-\lst@lostspace=\dimen124
-\lst@width=\dimen125
-\lst@newlines=\count119
-\lst@lineno=\count120
-\lst@maxwidth=\dimen126
+(/usr/local/texlive/2016/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count118
+\lst@gtempboxa=\box37
+\lst@token=\toks28
+\lst@length=\count119
+\lst@currlwidth=\dimen133
+\lst@column=\count120
+\lst@pos=\count121
+\lst@lostspace=\dimen134
+\lst@width=\dimen135
+\lst@newlines=\count122
+\lst@lineno=\count123
+\lst@maxwidth=\dimen136
 
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/listings/lstmisc.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
-\c@lstnumber=\count121
-\lst@skipnumbers=\count122
-\lst@framebox=\box36
+\c@lstnumber=\count124
+\lst@skipnumbers=\count125
+\lst@framebox=\box38
 )
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/listings/listings.cfg
+(/usr/local/texlive/2016/texmf-dist/tex/latex/listings/listings.cfg
 File: listings.cfg 2015/06/04 1.6 listings configuration
 ))
 Package: listings 2015/06/04 1.6 (Carsten Heinz)
 
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2016/05/05 v6.83n Hypertext links for LaTeX
 
-(/usr/local/texlive/2016basic/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.s
-ty
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
 Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
 
 
-(/usr/local/texlive/2016basic/texmf-dist/tex/generic/oberdiek/hobsub-generic.st
-y
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
 Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
 Package hobsub Info: Skipping package `infwarerr' (already loaded).
@@ -471,19 +523,20 @@ Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
 Package: atbegshi 2016/05/16 v1.17 At begin shipout hook (HO)
 Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
 Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
-) (/usr/local/texlive/2016basic/texmf-dist/tex/latex/oberdiek/auxhook.sty
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/auxhook.sty
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 )
-\@linkdim=\dimen127
-\Hy@linkcounter=\count123
-\Hy@pagecounter=\count124
+\@linkdim=\dimen137
+\Hy@linkcounter=\count126
+\Hy@pagecounter=\count127
 
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/hyperref/pd1enc.def
+(/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2016/05/05 v6.83n Hyperref: PDFDocEncoding definition (HO)
 )
-\Hy@SavedSpaceFactor=\count125
+\Hy@SavedSpaceFactor=\count128
 
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+(/usr/local/texlive/2016/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
 Package hyperref Info: Option `plainpages' set `false' on input line 4322.
@@ -520,12 +573,12 @@ Package hyperref Info: Plain pages OFF on input line 4461.
 Package hyperref Info: Backreferencing OFF on input line 4466.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4691.
-\c@Hy@tempcnt=\count126
+\c@Hy@tempcnt=\count129
 LaTeX Info: Redefining \url on input line 5044.
-\XeTeXLinkMargin=\dimen128
-\Fld@menulength=\count127
-\Field@Width=\dimen129
-\Fld@charsize=\dimen130
+\XeTeXLinkMargin=\dimen138
+\Fld@menulength=\count130
+\Field@Width=\dimen139
+\Fld@charsize=\dimen140
 Package hyperref Info: Hyper figures OFF on input line 6298.
 Package hyperref Info: Link nesting OFF on input line 6303.
 Package hyperref Info: Hyper index ON on input line 6306.
@@ -535,78 +588,79 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6323.
 Package hyperref Info: PDF/A mode OFF on input line 6328.
 LaTeX Info: Redefining \ref on input line 6368.
 LaTeX Info: Redefining \pageref on input line 6372.
-\Hy@abspage=\count128
-\c@Item=\count129
-\c@Hfootnote=\count130
+\Hy@abspage=\count131
+\c@Item=\count132
+\c@Hfootnote=\count133
 )
 
 Package hyperref Message: Driver: hpdftex.
 
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/hyperref/hpdftex.def
+(/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2016/05/05 v6.83n Hyperref driver for pdfTeX
-\Fld@listcount=\count131
-\c@bookmark@seq@number=\count132
+\Fld@listcount=\count134
+\c@bookmark@seq@number=\count135
 
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
 \Hy@SectionHShift=\skip70
-) (/usr/local/texlive/2016basic/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pdfpages/pdfpages.sty
 Package: pdfpages 2016/04/19 v0.5f Insert pages of external PDF documents (AM)
 
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/base/ifthen.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/tools/calc.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count133
-\calc@Bcount=\count134
-\calc@Adimen=\dimen131
-\calc@Bdimen=\dimen132
+\calc@Acount=\count136
+\calc@Bcount=\count137
+\calc@Adimen=\dimen141
+\calc@Bdimen=\dimen142
 \calc@Askip=\skip71
 \calc@Bskip=\skip72
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count135
+\calc@Ccount=\count138
 \calc@Cskip=\skip73
 )
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/eso-pic/eso-pic.sty
 Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
 )
-\AM@pagewidth=\dimen133
-\AM@pageheight=\dimen134
+\AM@pagewidth=\dimen143
+\AM@pageheight=\dimen144
 
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/pdfpages/pppdftex.def
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pdfpages/pppdftex.def
 File: pppdftex.def 2016/04/19 v0.5f Pdfpages driver for pdfTeX (AM)
 )
-\AM@pagebox=\box37
-\AM@global@opts=\toks27
-\AM@toc@title=\toks28
-\c@AM@survey=\count136
-\AM@templatesizebox=\box38
+\AM@pagebox=\box39
+\AM@global@opts=\toks29
+\AM@toc@title=\toks30
+\c@AM@survey=\count139
+\AM@templatesizebox=\box40
 )
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/tools/tabularx.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/tabularx.sty
 Package: tabularx 2016/02/03 v2.11 `tabularx' package (DPC)
 
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/tools/array.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/array.sty
 Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
-\col@sep=\dimen135
-\extrarowheight=\dimen136
-\NC@list=\toks29
+\col@sep=\dimen145
+\extrarowheight=\dimen146
+\NC@list=\toks31
 \extratabsurround=\skip74
 \backup@length=\skip75
 )
-\TX@col@width=\dimen137
-\TX@old@table=\dimen138
-\TX@old@col=\dimen139
-\TX@target=\dimen140
-\TX@delta=\dimen141
-\TX@cols=\count137
-\TX@ftn=\toks30
+\TX@col@width=\dimen147
+\TX@old@table=\dimen148
+\TX@old@col=\dimen149
+\TX@target=\dimen150
+\TX@delta=\dimen151
+\TX@cols=\count140
+\TX@ftn=\toks32
 )
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/base/textcomp.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/textcomp.sty
 Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
 Package textcomp Info: Sub-encoding information:
 (textcomp)               5 = only ISO-Adobe without \textcurrency
@@ -621,7 +675,7 @@ Package textcomp Info: Sub-encoding information:
 (textcomp)             See the documentation for details.
 Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
 
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/base/ts1enc.def
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/ts1enc.def
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 )
 LaTeX Info: Redefining \oldstylenums on input line 334.
@@ -688,43 +742,32 @@ Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
 Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
 Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
 )
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/eurosym/eurosym.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/eurosym/eurosym.sty
 Package: eurosym 1998/08/06 v1.1 European currency symbol ``Euro''
-\@eurobox=\box39
+\@eurobox=\box41
 )
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/roboto/roboto.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/roboto/roboto.sty
 Package: roboto 2015/09/15 (Bob Tennent) Supports Roboto fonts for all LaTeX en
 gines.
 
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/xkeyval/xkeyval.sty
-Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
-
-(/usr/local/texlive/2016basic/texmf-dist/tex/generic/xkeyval/xkeyval.tex
-(/usr/local/texlive/2016basic/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks31
-\XKV@tempa@toks=\toks32
-)
-\XKV@depth=\count138
-File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-))
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/base/fontenc.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 )
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/fontaxes/fontaxes.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/fontaxes/fontaxes.sty
 Package: fontaxes 2014/03/23 v1.0d Font selection axes
 LaTeX Info: Redefining \upshape on input line 29.
 LaTeX Info: Redefining \itshape on input line 31.
 LaTeX Info: Redefining \slshape on input line 33.
 LaTeX Info: Redefining \scshape on input line 37.
 )
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/mweights/mweights.sty
-Package: mweights 2016/12/09 (Bob Tennent) Support package for multiple-weight 
+(/usr/local/texlive/2016/texmf-dist/tex/latex/mweights/mweights.sty
+Package: mweights 2013/07/21 (Bob Tennent) Support package for multiple-weight 
 font packages. 
-LaTeX Info: Redefining \bfseries on input line 21.
+LaTeX Info: Redefining \bfseries on input line 22.
 LaTeX Info: Redefining \mdseries on input line 29.
-LaTeX Info: Redefining \rmfamily on input line 37.
-LaTeX Info: Redefining \sffamily on input line 56.
-LaTeX Info: Redefining \ttfamily on input line 75.
+LaTeX Info: Redefining \rmfamily on input line 36.
+LaTeX Info: Redefining \sffamily on input line 53.
+LaTeX Info: Redefining \ttfamily on input line 70.
 )
 LaTeX Info: Redefining \oldstylenums on input line 188.
 )
@@ -737,19 +780,19 @@ Class scrbook Warning: Usage of package `titlesec' together
 (scrbook)              the extended optional argument of the section
 (scrbook)              commands.
 (scrbook)              Nevertheless, using requested
-(scrbook)              package `titlesec' on input line 168.
+(scrbook)              package `titlesec' on input line 170.
 
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/titlesec/titlesec.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
-\ttl@box=\box40
+\ttl@box=\box42
 \beforetitleunit=\skip76
 \aftertitleunit=\skip77
-\ttl@plus=\dimen142
-\ttl@minus=\dimen143
+\ttl@plus=\dimen152
+\ttl@minus=\dimen153
 \ttl@toksa=\toks33
-\titlewidth=\dimen144
-\titlewidthlast=\dimen145
-\titlewidthfirst=\dimen146
+\titlewidth=\dimen154
+\titlewidthlast=\dimen155
+\titlewidthfirst=\dimen156
 
 
 Package titlesec Warning: Non standard sectioning command detected
@@ -774,37 +817,37 @@ Package titlesec Warning: Non standard sectioning command detected
 )
 
 Package scrbook Warning: Activating an ugly workaround for a missing
-(scrbook)                feature of package `titlesec` on input line 168.
+(scrbook)                feature of package `titlesec` on input line 170.
 
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/base/fontenc.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/base/t1enc.def
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/t1enc.def
 File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 ))
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/caption/caption.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
 
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/caption/caption3.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2016/02/04 v1.7-139 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 67.
-\captionmargin=\dimen147
-\captionmargin@=\dimen148
-\captionwidth=\dimen149
-\caption@tempdima=\dimen150
-\caption@indent=\dimen151
-\caption@parindent=\dimen152
-\caption@hangindent=\dimen153
+\captionmargin=\dimen157
+\captionmargin@=\dimen158
+\captionwidth=\dimen159
+\caption@tempdima=\dimen160
+\caption@indent=\dimen161
+\caption@parindent=\dimen162
+\caption@hangindent=\dimen163
 )
 Package caption Info: KOMA-Script document class.
-\c@ContinuedFloat=\count139
+\c@ContinuedFloat=\count141
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: listings package is loaded.
 Package caption Info: longtable package is loaded.
 
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/caption/ltcaption.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/caption/ltcaption.sty
 Package: ltcaption 2013/06/09 v1.4-94 longtable captions (AR)
 ))
 Package csquotes Info: Checking for multilingual support...
@@ -813,57 +856,54 @@ Package csquotes Info: ... found 'babel' package.
 (./modulbeschreibungen-bachelor.aux (./coversheet.aux) (./content.aux))
 \openout1 = `modulbeschreibungen-bachelor.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 203.
-LaTeX Font Info:    ... okay on input line 203.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 203.
-LaTeX Font Info:    ... okay on input line 203.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 203.
-LaTeX Font Info:    ... okay on input line 203.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 203.
-LaTeX Font Info:    ... okay on input line 203.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 203.
-LaTeX Font Info:    ... okay on input line 203.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 203.
-LaTeX Font Info:    ... okay on input line 203.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 203.
-LaTeX Font Info:    ... okay on input line 203.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 203.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 203.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 205.
+LaTeX Font Info:    ... okay on input line 205.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 205.
+LaTeX Font Info:    ... okay on input line 205.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 205.
+LaTeX Font Info:    ... okay on input line 205.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 205.
+LaTeX Font Info:    ... okay on input line 205.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 205.
+LaTeX Font Info:    ... okay on input line 205.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 205.
+LaTeX Font Info:    ... okay on input line 205.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 205.
+LaTeX Font Info:    ... okay on input line 205.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 205.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 205.
 
 
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/base/ts1cmr.fd
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 203.
+LaTeX Font Info:    ... okay on input line 205.
 LaTeX Font Info:    Try loading font information for T1+Roboto-LF on input line
- 203.
+ 205.
 
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/roboto/T1Roboto-LF.fd
+(/usr/local/texlive/2016/texmf-dist/tex/latex/roboto/T1Roboto-LF.fd
 File: T1Roboto-LF.fd 2015/09/15 (autoinst) Font definitions for T1/Roboto-LF.
 )
 LaTeX Font Info:    Font shape `T1/Roboto-LF/l/n' will be
-(Font)              scaled to size 10.0pt on input line 203.
+(Font)              scaled to size 10.0pt on input line 205.
 
-(/usr/local/texlive/2016basic/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+(/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count140
-\scratchdimen=\dimen154
-\scratchbox=\box41
-\nofMPsegments=\count141
-\nofMParguments=\count142
+\scratchcounter=\count142
+\scratchdimen=\dimen164
+\scratchbox=\box43
+\nofMPsegments=\count143
+\nofMParguments=\count144
 \everyMPshowfont=\toks34
-\MPscratchCnt=\count143
-\MPscratchDim=\dimen155
-\MPnumerator=\count144
-\makeMPintoPDFobject=\count145
+\MPscratchCnt=\count145
+\MPscratchDim=\dimen165
+\MPnumerator=\count146
+\makeMPintoPDFobject=\count147
 \everyMPtoPDFconversion=\toks35
-) (/usr/local/texlive/2016basic/texmf-dist/tex/latex/ucs/ucsencs.def
-File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
-)
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+) (/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/oberdiek/grfext.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 )
 Package grfext Info: Graphics extension search list:
@@ -871,43 +911,46 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+(/usr/local/texlive/2016/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/ucs/ucsencs.def
+File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
+)
 
 bibgerm.sty: (n)german.sty 2.5b detected
 
-\c@lstlisting=\count146
-\AtBeginShipoutBox=\box42
-Package hyperref Info: Link coloring OFF on input line 203.
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/hyperref/nameref.sty
+\c@lstlisting=\count148
+\AtBeginShipoutBox=\box44
+Package hyperref Info: Link coloring OFF on input line 205.
+(/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
-(/usr/local/texlive/2016basic/texmf-dist/tex/generic/oberdiek/gettitlestring.st
-y
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count147
+\c@section@level=\count149
 )
-LaTeX Info: Redefining \ref on input line 203.
-LaTeX Info: Redefining \pageref on input line 203.
-LaTeX Info: Redefining \nameref on input line 203.
- (./modulbeschreibungen-bachelor.out) (./modulbeschreibungen-bachelor.out)
+LaTeX Info: Redefining \ref on input line 205.
+LaTeX Info: Redefining \pageref on input line 205.
+LaTeX Info: Redefining \nameref on input line 205.
+
+(./modulbeschreibungen-bachelor.out) (./modulbeschreibungen-bachelor.out)
 \@outlinefile=\write5
 \openout5 = `modulbeschreibungen-bachelor.out'.
 
 
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/pdflscape.sty
 Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
 
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/graphics/lscape.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/lscape.sty
 Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )
-\c@mv@tabular=\count148
-\c@mv@boldtabular=\count149
+\c@mv@tabular=\count150
+\c@mv@boldtabular=\count151
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 \openout2 = `coversheet.aux'.
@@ -924,34 +967,36 @@ File: ../../../assets/logo_th_koeln.pdf Graphic file (type pdf)
 <use ../../../assets/logo_th_koeln.pdf>
 Package pdftex.def Info: ../../../assets/logo_th_koeln.pdf used on input line 5
 .
-(pdftex.def)             Requested size: 184.37262pt x 99.40785pt.
-LaTeX Font Info:    Font shape `T1/Roboto-LF/l/sc' will be
-(Font)              scaled to size 10.0pt on input line 6.
-LaTeX Font Info:    Font shape `T1/Roboto-LF/l/sc' will be
-(Font)              scaled to size 17.28pt on input line 6.
+(pdftex.def)             Requested size: 102.42993pt x 55.22342pt.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/l/n' will be
+(Font)              scaled to size 14.4pt on input line 8.
 
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/ucs/data/uni-0.def
+(/usr/local/texlive/2016/texmf-dist/tex/latex/ucs/data/uni-0.def
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
 )
-LaTeX Font Info:    Font shape `T1/Roboto-LF/l/sc' will be
-(Font)              scaled to size 14.4pt on input line 8.
 LaTeX Font Info:    Font shape `T1/Roboto-LF/l/n' will be
-(Font)              scaled to size 20.74pt on input line 10.
+(Font)              scaled to size 24.88pt on input line 10.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/ucs/data/uni-32.def
+File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
+)
+LaTeX Font Info:    Font shape `T1/Roboto-LF/l/n' will be
+(Font)              scaled to size 20.74pt on input line 14.
 LaTeX Font Info:    Font shape `T1/Roboto-LF/b/n' will be
-(Font)              scaled to size 20.74pt on input line 10.
+(Font)              scaled to size 20.74pt on input line 14.
 LaTeX Font Info:    Font shape `T1/Roboto-LF/l/n' will be
-(Font)              scaled to size 12.0pt on input line 15.
+(Font)              scaled to size 12.0pt on input line 19.
  [1
 
 
 
 
-{/usr/local/texlive/2016basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <..
-/../../assets/logo_th_koeln.pdf>]) (./modulbeschreibungen-bachelor.toc
+{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <../../.
+./assets/logo_th_koeln.pdf>]) (./modulbeschreibungen-bachelor.toc
 LaTeX Font Info:    Font shape `T1/Roboto-LF/b/n' will be
 (Font)              scaled to size 10.0pt on input line 1.
 
-<../assets/box.pdf, id=169, 598.86235pt x 493.1233pt>
+<../assets/box.pdf, id=168, 598.86235pt x 493.1233pt>
 File: ../assets/box.pdf Graphic file (type pdf)
  <use ../assets/box.pdf>
 Package pdftex.def Info: ../assets/box.pdf used on input line 21.
@@ -969,7 +1014,7 @@ LaTeX Font Info:    Font shape `T1/Roboto-LF/l/n' will be
 
 File: ../assets/box.pdf Graphic file (type pdf)
  <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 213.
+Package pdftex.def Info: ../assets/box.pdf used on input line 215.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
  [3]
 \openout2 = `content.aux'.
@@ -995,7 +1040,7 @@ LaTeX Font Info:    Font shape `T1/Roboto-LF/l/n' will be
 (Font)              scaled to size 17.28pt on input line 5.
 LaTeX Font Info:    Try loading font information for TS1+Roboto-LF on input lin
 e 11.
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/roboto/TS1Roboto-LF.fd
+(/usr/local/texlive/2016/texmf-dist/tex/latex/roboto/TS1Roboto-LF.fd
 File: TS1Roboto-LF.fd 2015/09/15 (autoinst) Font definitions for TS1/Roboto-LF.
 
 )
@@ -1026,14 +1071,14 @@ r-tes Skript, Bei-spiel-lö-sun-gen, Ver-wei-
 
 File: ../assets/box.pdf Graphic file (type pdf)
 <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 87.
+Package pdftex.def Info: ../assets/box.pdf used on input line 80.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
 pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.87   J
-        . Barnes, M. KÃ¶lling, [2
+l.80 \end{itemize}
+                   [2
 
 
 ]
@@ -1048,9 +1093,7 @@ been already used, duplicate ignored
 l.92 \chapter
              {Audiovisuelles [3]
 chapter 3.
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/ucs/data/uni-32.def
-File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
-)
+
 Overfull \hbox (1.87347pt too wide) in paragraph at lines 115--123
 \T1/Roboto-LF/l/n/10 die-ser for-mu-lier-ten Fach-kom-pe-tenz, Me-tho-den-kom-p
 e-tenz und Kom-mu-ni-ka-ti-ons-kom-pe-tenz ste-
@@ -1071,12 +1114,12 @@ s-pe-zi-fi-schen In-hal-te the-ma-ti-siert und in Übungs-
 
 File: ../assets/box.pdf Graphic file (type pdf)
 <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 183.
+Package pdftex.def Info: ../assets/box.pdf used on input line 179.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
  [5]
 File: ../assets/box.pdf Graphic file (type pdf)
  <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 253.
+Package pdftex.def Info: ../assets/box.pdf used on input line 252.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
  [6]
 File: ../assets/box.pdf Graphic file (type pdf)
@@ -1094,12 +1137,17 @@ Package pdftex.def Info: ../assets/box.pdf used on input line 296.
 
 
 ]
+File: ../assets/box.pdf Graphic file (type pdf)
+ <use ../assets/box.pdf>
+Package pdftex.def Info: ../assets/box.pdf used on input line 296.
+(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
+ [9]
 chapter 5.
 File: ../assets/box.pdf Graphic file (type pdf)
 <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 325.
+Package pdftex.def Info: ../assets/box.pdf used on input line 321.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
- [9
+ [10
 
 
 ]
@@ -1107,33 +1155,33 @@ File: ../assets/box.pdf Graphic file (type pdf)
  <use ../assets/box.pdf>
 Package pdftex.def Info: ../assets/box.pdf used on input line 325.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
- [10]
+ [11]
 chapter 6.
 File: ../assets/box.pdf Graphic file (type pdf)
 <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 360.
+Package pdftex.def Info: ../assets/box.pdf used on input line 357.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
- [11
+ [12
 
 
 ]
 File: ../assets/box.pdf Graphic file (type pdf)
  <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 410.
+Package pdftex.def Info: ../assets/box.pdf used on input line 406.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
- [12]
+ [13]
 File: ../assets/box.pdf Graphic file (type pdf)
 
 <use ../assets/box.pdf>
 Package pdftex.def Info: ../assets/box.pdf used on input line 424.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
- [13]
+ [14]
 chapter 7.
 File: ../assets/box.pdf Graphic file (type pdf)
 <use ../assets/box.pdf>
 Package pdftex.def Info: ../assets/box.pdf used on input line 459.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
- [14
+ [15
 
 
 ]
@@ -1141,7 +1189,7 @@ File: ../assets/box.pdf Graphic file (type pdf)
  <use ../assets/box.pdf>
 Package pdftex.def Info: ../assets/box.pdf used on input line 491.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
- [15]
+ [16]
 chapter 8.
 
 Overfull \hbox (0.15753pt too wide) in paragraph at lines 500--503
@@ -1153,7 +1201,7 @@ File: ../assets/box.pdf Graphic file (type pdf)
 <use ../assets/box.pdf>
 Package pdftex.def Info: ../assets/box.pdf used on input line 531.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
- [16
+ [17
 
 
 ]
@@ -1172,7 +1220,7 @@ File: ../assets/box.pdf Graphic file (type pdf)
 <use ../assets/box.pdf>
 Package pdftex.def Info: ../assets/box.pdf used on input line 583.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
- [17]
+ [18]
 Overfull \hbox (19.67053pt too wide) in paragraph at lines 593--595
 []\T1/Roboto-LF/l/n/10 Vossen, G.: Da-ten-mo-del-le, Da-ten-bank-spra-chen, Da-
 ten-bank-ma-na-ge-ment-sys-te-me. Oldenbourg-
@@ -1182,7 +1230,7 @@ File: ../assets/box.pdf Graphic file (type pdf)
 <use ../assets/box.pdf>
 Package pdftex.def Info: ../assets/box.pdf used on input line 597.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
- [18]
+ [19]
 chapter 9.
 
 Overfull \hbox (0.48637pt too wide) in paragraph at lines 612--615
@@ -1200,7 +1248,7 @@ File: ../assets/box.pdf Graphic file (type pdf)
 <use ../assets/box.pdf>
 Package pdftex.def Info: ../assets/box.pdf used on input line 631.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
- [19
+ [20
 
 
 ]
@@ -1209,7 +1257,7 @@ File: ../assets/box.pdf Graphic file (type pdf)
 <use ../assets/box.pdf>
 Package pdftex.def Info: ../assets/box.pdf used on input line 664.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
- [20
+ [21
 
 
 ]
@@ -1220,15 +1268,20 @@ en-fel-dern (wie: Da-ten-mo-del-lie-rung, Pseudo-
 
 File: ../assets/box.pdf Graphic file (type pdf)
 <use ../assets/box.pdf>
+Package pdftex.def Info: ../assets/box.pdf used on input line 705.
+(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
+ [22]
+File: ../assets/box.pdf Graphic file (type pdf)
+ <use ../assets/box.pdf>
 Package pdftex.def Info: ../assets/box.pdf used on input line 707.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
- [21]
+ [23]
 chapter 11.
 File: ../assets/box.pdf Graphic file (type pdf)
 <use ../assets/box.pdf>
 Package pdftex.def Info: ../assets/box.pdf used on input line 742.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
- [22
+ [24
 
 
 ]
@@ -1241,9 +1294,16 @@ File: ../assets/box.pdf Graphic file (type pdf)
 <use ../assets/box.pdf>
 Package pdftex.def Info: ../assets/box.pdf used on input line 761.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
- [23]
+ [25]
 chapter 12.
+File: ../assets/box.pdf Graphic file (type pdf)
+<use ../assets/box.pdf>
+Package pdftex.def Info: ../assets/box.pdf used on input line 791.
+(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
+ [26
 
+
+]
 Overfull \hbox (1.27261pt too wide) in paragraph at lines 791--793
 []\T1/Roboto-LF/l/n/10 um kom-pe-tent am fach-li-chen Dis-kurs über Ei-gen-scha
 f-ten, Aus-wir-kun-gen und Ge-stal-tungs-
@@ -1251,23 +1311,14 @@ f-ten, Aus-wir-kun-gen und Ge-stal-tungs-
 
 File: ../assets/box.pdf Graphic file (type pdf)
 <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 793.
+Package pdftex.def Info: ../assets/box.pdf used on input line 838.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
- [24
-
-
-]
+ [27]
 File: ../assets/box.pdf Graphic file (type pdf)
  <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 841.
-(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
- [25]
-File: ../assets/box.pdf Graphic file (type pdf)
-
-<use ../assets/box.pdf>
 Package pdftex.def Info: ../assets/box.pdf used on input line 851.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
- [26]
+ [28]
 chapter 13.
 
 Overfull \hbox (22.27544pt too wide) in paragraph at lines 868--872
@@ -1285,7 +1336,7 @@ File: ../assets/box.pdf Graphic file (type pdf)
 <use ../assets/box.pdf>
 Package pdftex.def Info: ../assets/box.pdf used on input line 893.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
- [27
+ [29
 
 
 ]
@@ -1298,20 +1349,20 @@ File: ../assets/box.pdf Graphic file (type pdf)
 <use ../assets/box.pdf>
 Package pdftex.def Info: ../assets/box.pdf used on input line 913.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
- [28]
+ [30]
 chapter 14.
 File: ../assets/box.pdf Graphic file (type pdf)
 <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 947.
+Package pdftex.def Info: ../assets/box.pdf used on input line 946.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
- [29
+ [31
 
 
 ]
 LaTeX Font Info:    Try loading font information for T1+cmtt on input line 958.
 
 
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/base/t1cmtt.fd
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -1323,25 +1374,11 @@ File: ../assets/box.pdf Graphic file (type pdf)
 <use ../assets/box.pdf>
 Package pdftex.def Info: ../assets/box.pdf used on input line 972.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
- [30]
+ [32]
 chapter 15.
 File: ../assets/box.pdf Graphic file (type pdf)
 <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 1006.
-(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
- [31
-
-
-]
-File: ../assets/box.pdf Graphic file (type pdf)
- <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 1026.
-(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
- [32]
-chapter 16.
-File: ../assets/box.pdf Graphic file (type pdf)
-<use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 1063.
+Package pdftex.def Info: ../assets/box.pdf used on input line 1004.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
  [33
 
@@ -1349,15 +1386,29 @@ Package pdftex.def Info: ../assets/box.pdf used on input line 1063.
 ]
 File: ../assets/box.pdf Graphic file (type pdf)
  <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 1113.
+Package pdftex.def Info: ../assets/box.pdf used on input line 1026.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
  [34]
+chapter 16.
+File: ../assets/box.pdf Graphic file (type pdf)
+<use ../assets/box.pdf>
+Package pdftex.def Info: ../assets/box.pdf used on input line 1063.
+(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
+ [35
+
+
+]
+File: ../assets/box.pdf Graphic file (type pdf)
+ <use ../assets/box.pdf>
+Package pdftex.def Info: ../assets/box.pdf used on input line 1113.
+(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
+ [36]
 File: ../assets/box.pdf Graphic file (type pdf)
 
 <use ../assets/box.pdf>
 Package pdftex.def Info: ../assets/box.pdf used on input line 1166.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
- [35]
+ [37]
 Overfull \hbox (4.99554pt too wide) in paragraph at lines 1166--1170
 []\T1/Roboto-LF/l/n/10 Rosson, M.B. & Car-roll, J.M.: Usa-bi-li-ty En-gi-nee-ri
 ng. Scenario-Based De-ve-lop-ment of Human-
@@ -1367,38 +1418,38 @@ File: ../assets/box.pdf Graphic file (type pdf)
 <use ../assets/box.pdf>
 Package pdftex.def Info: ../assets/box.pdf used on input line 1176.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
- [36]
+ [38]
 chapter 17.
 File: ../assets/box.pdf Graphic file (type pdf)
 <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 1215.
+Package pdftex.def Info: ../assets/box.pdf used on input line 1212.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
- [37
+ [39
 
 
 ]
 File: ../assets/box.pdf Graphic file (type pdf)
  <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 1269.
+Package pdftex.def Info: ../assets/box.pdf used on input line 1265.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
- [38]
+ [40]
 File: ../assets/box.pdf Graphic file (type pdf)
 
 <use ../assets/box.pdf>
 Package pdftex.def Info: ../assets/box.pdf used on input line 1312.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
- [39]
+ [41]
 File: ../assets/box.pdf Graphic file (type pdf)
  <use ../assets/box.pdf>
 Package pdftex.def Info: ../assets/box.pdf used on input line 1351.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
- [40]
+ [42]
 chapter 18.
 File: ../assets/box.pdf Graphic file (type pdf)
 <use ../assets/box.pdf>
 Package pdftex.def Info: ../assets/box.pdf used on input line 1390.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
- [41
+ [43
 
 
 ]
@@ -1409,32 +1460,18 @@ Overfull \hbox (3.6406pt too wide) in paragraph at lines 1423--1426
 
 File: ../assets/box.pdf Graphic file (type pdf)
 <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 1437.
+Package pdftex.def Info: ../assets/box.pdf used on input line 1435.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
- [42]
+ [44]
 File: ../assets/box.pdf Graphic file (type pdf)
  <use ../assets/box.pdf>
 Package pdftex.def Info: ../assets/box.pdf used on input line 1439.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
- [43]
+ [45]
 chapter 19.
 File: ../assets/box.pdf Graphic file (type pdf)
 <use ../assets/box.pdf>
 Package pdftex.def Info: ../assets/box.pdf used on input line 1473.
-(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
- [44
-
-
-]
-File: ../assets/box.pdf Graphic file (type pdf)
- <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 1478.
-(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
- [45]
-chapter 20.
-File: ../assets/box.pdf Graphic file (type pdf)
-<use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 1519.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
  [46
 
@@ -1442,15 +1479,29 @@ Package pdftex.def Info: ../assets/box.pdf used on input line 1519.
 ]
 File: ../assets/box.pdf Graphic file (type pdf)
  <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 1540.
+Package pdftex.def Info: ../assets/box.pdf used on input line 1478.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
  [47]
+chapter 20.
+File: ../assets/box.pdf Graphic file (type pdf)
+<use ../assets/box.pdf>
+Package pdftex.def Info: ../assets/box.pdf used on input line 1511.
+(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
+ [48
+
+
+]
+File: ../assets/box.pdf Graphic file (type pdf)
+ <use ../assets/box.pdf>
+Package pdftex.def Info: ../assets/box.pdf used on input line 1540.
+(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
+ [49]
 chapter 21.
 File: ../assets/box.pdf Graphic file (type pdf)
 <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 1576.
+Package pdftex.def Info: ../assets/box.pdf used on input line 1573.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
- [48
+ [50
 
 
 ]
@@ -1461,20 +1512,26 @@ Overfull \hbox (4.0565pt too wide) in paragraph at lines 1602--1606
 
 File: ../assets/box.pdf Graphic file (type pdf)
 <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 1633.
+Package pdftex.def Info: ../assets/box.pdf used on input line 1627.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
- [49]
+ [51]
 File: ../assets/box.pdf Graphic file (type pdf)
  <use ../assets/box.pdf>
+Package pdftex.def Info: ../assets/box.pdf used on input line 1679.
+(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
+ [52]
+File: ../assets/box.pdf Graphic file (type pdf)
+
+<use ../assets/box.pdf>
 Package pdftex.def Info: ../assets/box.pdf used on input line 1681.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
- [50]
+ [53]
 chapter 22.
 File: ../assets/box.pdf Graphic file (type pdf)
 <use ../assets/box.pdf>
 Package pdftex.def Info: ../assets/box.pdf used on input line 1716.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
- [51
+ [54
 
 
 ]
@@ -1482,7 +1539,7 @@ File: ../assets/box.pdf Graphic file (type pdf)
  <use ../assets/box.pdf>
 Package pdftex.def Info: ../assets/box.pdf used on input line 1764.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
- [52]
+ [55]
 Overfull \hbox (8.72058pt too wide) in paragraph at lines 1764--1767
 []\T1/Roboto-LF/l/n/10 Flick, U. (2011). Qua-li-ta-ti-ve So-zi-al-for-schung: E
 i-ne Ein-füh-rung. Rein-bek bei Ham-burg: Rowohlt-
@@ -1492,13 +1549,13 @@ File: ../assets/box.pdf Graphic file (type pdf)
 <use ../assets/box.pdf>
 Package pdftex.def Info: ../assets/box.pdf used on input line 1778.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
- [53]
+ [56]
 chapter 23.
 File: ../assets/box.pdf Graphic file (type pdf)
 <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 1805.
+Package pdftex.def Info: ../assets/box.pdf used on input line 1801.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
- [54
+ [57
 
 
 ]
@@ -1506,7 +1563,7 @@ File: ../assets/box.pdf Graphic file (type pdf)
  <use ../assets/box.pdf>
 Package pdftex.def Info: ../assets/box.pdf used on input line 1809.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
- [55]
+ [58]
 chapter 24.
 
 Overfull \hbox (13.64838pt too wide) in paragraph at lines 1830--1840
@@ -1516,27 +1573,7 @@ h-kei-ten und Gren-zen des Gamification-Ansatzes,
 
 File: ../assets/box.pdf Graphic file (type pdf)
 <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 1847.
-(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
- [56
-
-
-]
-File: ../assets/box.pdf Graphic file (type pdf)
- <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 1893.
-(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
- [57]
-File: ../assets/box.pdf Graphic file (type pdf)
-
-<use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 1900.
-(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
- [58]
-chapter 25.
-File: ../assets/box.pdf Graphic file (type pdf)
-<use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 1936.
+Package pdftex.def Info: ../assets/box.pdf used on input line 1841.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
  [59
 
@@ -1544,19 +1581,19 @@ Package pdftex.def Info: ../assets/box.pdf used on input line 1936.
 ]
 File: ../assets/box.pdf Graphic file (type pdf)
  <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 1979.
+Package pdftex.def Info: ../assets/box.pdf used on input line 1889.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
  [60]
 File: ../assets/box.pdf Graphic file (type pdf)
 
 <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 1984.
+Package pdftex.def Info: ../assets/box.pdf used on input line 1900.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
  [61]
-chapter 26.
+chapter 25.
 File: ../assets/box.pdf Graphic file (type pdf)
 <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 2019.
+Package pdftex.def Info: ../assets/box.pdf used on input line 1936.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
  [62
 
@@ -1564,19 +1601,19 @@ Package pdftex.def Info: ../assets/box.pdf used on input line 2019.
 ]
 File: ../assets/box.pdf Graphic file (type pdf)
  <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 2067.
+Package pdftex.def Info: ../assets/box.pdf used on input line 1979.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
  [63]
 File: ../assets/box.pdf Graphic file (type pdf)
 
 <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 2112.
+Package pdftex.def Info: ../assets/box.pdf used on input line 1984.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
  [64]
-chapter 27.
+chapter 26.
 File: ../assets/box.pdf Graphic file (type pdf)
 <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 2145.
+Package pdftex.def Info: ../assets/box.pdf used on input line 2019.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
  [65
 
@@ -1584,21 +1621,46 @@ Package pdftex.def Info: ../assets/box.pdf used on input line 2145.
 ]
 File: ../assets/box.pdf Graphic file (type pdf)
  <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 2193.
+Package pdftex.def Info: ../assets/box.pdf used on input line 2065.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
  [66]
 File: ../assets/box.pdf Graphic file (type pdf)
 
 <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 2242.
+Package pdftex.def Info: ../assets/box.pdf used on input line 2110.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
  [67]
+File: ../assets/box.pdf Graphic file (type pdf)
+ <use ../assets/box.pdf>
+Package pdftex.def Info: ../assets/box.pdf used on input line 2112.
+(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
+ [68]
+chapter 27.
+File: ../assets/box.pdf Graphic file (type pdf)
+<use ../assets/box.pdf>
+Package pdftex.def Info: ../assets/box.pdf used on input line 2145.
+(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
+ [69
+
+
+]
+File: ../assets/box.pdf Graphic file (type pdf)
+ <use ../assets/box.pdf>
+Package pdftex.def Info: ../assets/box.pdf used on input line 2193.
+(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
+ [70]
+File: ../assets/box.pdf Graphic file (type pdf)
+
+<use ../assets/box.pdf>
+Package pdftex.def Info: ../assets/box.pdf used on input line 2242.
+(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
+ [71]
 chapter 28.
 File: ../assets/box.pdf Graphic file (type pdf)
 <use ../assets/box.pdf>
 Package pdftex.def Info: ../assets/box.pdf used on input line 2279.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
- [68
+ [72
 
 
 ]
@@ -1611,12 +1673,12 @@ File: ../assets/box.pdf Graphic file (type pdf)
 <use ../assets/box.pdf>
 Package pdftex.def Info: ../assets/box.pdf used on input line 2327.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
- [69]
+ [73]
 File: ../assets/box.pdf Graphic file (type pdf)
  <use ../assets/box.pdf>
 Package pdftex.def Info: ../assets/box.pdf used on input line 2371.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
- [70]
+ [74]
 Overfull \hbox (3.04929pt too wide) in paragraph at lines 2379--2382
 []\T1/Roboto-LF/l/n/10 Rembold, U. et al.  (1991): Ein-füh-rung in die In-for-m
 a-tik. 2.  Aufl. Han-ser, Mün-chen.                               
@@ -1626,13 +1688,13 @@ File: ../assets/box.pdf Graphic file (type pdf)
 <use ../assets/box.pdf>
 Package pdftex.def Info: ../assets/box.pdf used on input line 2388.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
- [71]
+ [75]
 chapter 29.
 File: ../assets/box.pdf Graphic file (type pdf)
 <use ../assets/box.pdf>
 Package pdftex.def Info: ../assets/box.pdf used on input line 2425.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
- [72
+ [76
 
 
 ]
@@ -1645,12 +1707,12 @@ File: ../assets/box.pdf Graphic file (type pdf)
 <use ../assets/box.pdf>
 Package pdftex.def Info: ../assets/box.pdf used on input line 2471.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
- [73]
+ [77]
 File: ../assets/box.pdf Graphic file (type pdf)
  <use ../assets/box.pdf>
 Package pdftex.def Info: ../assets/box.pdf used on input line 2515.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
- [74]
+ [78]
 Overfull \hbox (3.04929pt too wide) in paragraph at lines 2523--2526
 []\T1/Roboto-LF/l/n/10 Rembold, U. et al.  (1991): Ein-füh-rung in die In-for-m
 a-tik. 2.  Aufl. Han-ser, Mün-chen.                               
@@ -1660,146 +1722,117 @@ File: ../assets/box.pdf Graphic file (type pdf)
 <use ../assets/box.pdf>
 Package pdftex.def Info: ../assets/box.pdf used on input line 2532.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
- [75]
+ [79]
 chapter 30.
 File: ../assets/box.pdf Graphic file (type pdf)
 <use ../assets/box.pdf>
 Package pdftex.def Info: ../assets/box.pdf used on input line 2566.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
- [76
+ [80
 
 
 ]
 File: ../assets/box.pdf Graphic file (type pdf)
  <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 2638.
+Package pdftex.def Info: ../assets/box.pdf used on input line 2628.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
- [77]
+ [81]
 File: ../assets/box.pdf Graphic file (type pdf)
 
 <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 2682.
+Package pdftex.def Info: ../assets/box.pdf used on input line 2680.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
- [78]
-Overfull \hbox (0.43044pt too wide) in paragraph at lines 2682--2684
+ [82]
+Overfull \hbox (0.43044pt too wide) in paragraph at lines 2680--2682
 []\T1/Roboto-LF/l/n/10 Sie er-wer-ben die Fä-hig-keit, ak-tu-el-le tech-no-lo-g
 i-sche Ent-wick-lun-gen im Medieninformatik-Kontext
  []
 
 
-Overfull \hbox (1.68341pt too wide) in paragraph at lines 2703--2707
+Overfull \hbox (1.68341pt too wide) in paragraph at lines 2701--2705
 []\T1/Roboto-LF/l/n/10 Dabei be-herr-schen die Stu-die-ren-den nach Ab-schluss 
 des Mo-duls die Fä-hig-keit ab-strak-te Szenen-
  []
 
 
-Overfull \hbox (1.87347pt too wide) in paragraph at lines 2727--2735
+Overfull \hbox (1.87347pt too wide) in paragraph at lines 2725--2733
 \T1/Roboto-LF/l/n/10 die-ser for-mu-lier-ten Fach-kom-pe-tenz, Me-tho-den-kom-p
 e-tenz und Kom-mu-ni-ka-ti-ons-kom-pe-tenz ste-
  []
 
 File: ../assets/box.pdf Graphic file (type pdf)
 <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 2736.
+Package pdftex.def Info: ../assets/box.pdf used on input line 2734.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
- [79]
+ [83]
 File: ../assets/box.pdf Graphic file (type pdf)
  <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 2789.
+Package pdftex.def Info: ../assets/box.pdf used on input line 2787.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
- [80]
-Overfull \hbox (37.55838pt too wide) in paragraph at lines 2797--2804
+ [84]
+Overfull \hbox (37.55838pt too wide) in paragraph at lines 2795--2802
 \T1/Roboto-LF/l/n/10 Pro-gram-mie-rung zu ver-tie-fen und prak-tisch an-zu-wen-
 den. Durch den Ein-satz von Uni-ty als Crossplatform-
  []
 
 File: ../assets/box.pdf Graphic file (type pdf)
 <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 2840.
-(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
- [81]
-File: ../assets/box.pdf Graphic file (type pdf)
- <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 2887.
-(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
- [82]
-File: ../assets/box.pdf Graphic file (type pdf)
-
-<use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 2943.
-(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
- [83]
-File: ../assets/box.pdf Graphic file (type pdf)
- <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 2995.
-(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
- [84]
-File: ../assets/box.pdf Graphic file (type pdf)
-
-<use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 3040.
+Package pdftex.def Info: ../assets/box.pdf used on input line 2838.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
  [85]
-Overfull \hbox (6.52872pt too wide) in paragraph at lines 3068--3071
+File: ../assets/box.pdf Graphic file (type pdf)
+ <use ../assets/box.pdf>
+Package pdftex.def Info: ../assets/box.pdf used on input line 2885.
+(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
+ [86]
+File: ../assets/box.pdf Graphic file (type pdf)
+
+<use ../assets/box.pdf>
+Package pdftex.def Info: ../assets/box.pdf used on input line 2940.
+(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
+ [87]
+File: ../assets/box.pdf Graphic file (type pdf)
+ <use ../assets/box.pdf>
+Package pdftex.def Info: ../assets/box.pdf used on input line 2992.
+(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
+ [88]
+File: ../assets/box.pdf Graphic file (type pdf)
+
+<use ../assets/box.pdf>
+Package pdftex.def Info: ../assets/box.pdf used on input line 3028.
+(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
+ [89]
+Overfull \hbox (6.52872pt too wide) in paragraph at lines 3065--3068
 []\T1/Roboto-LF/l/n/10 Steven D. Katz, Die Rich-ti-ge Ein-stel-lung, Zwei-tau-s
 end-eins, Frank-furt a.M.1998,ISBN 3-86150-
  []
 
 
-Overfull \hbox (3.21155pt too wide) in paragraph at lines 3074--3077
+Overfull \hbox (3.21155pt too wide) in paragraph at lines 3071--3074
 []\T1/Roboto-LF/l/n/10 Hans Kor-nacher & Man-fred Stross, Do-ku-men-ta-ri-sches
  Vi-deo-fil-men, Au-gus-tus Ver-lag, Augs-
  []
 
 File: ../assets/box.pdf Graphic file (type pdf)
 <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 3097.
-(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
- [86]
-File: ../assets/box.pdf Graphic file (type pdf)
- <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 3143.
-(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
- [87]
-chapter 31.
-File: ../assets/box.pdf Graphic file (type pdf)
-<use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 3177.
-(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
- [88
-
-
-]
-File: ../assets/box.pdf Graphic file (type pdf)
- <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 3231.
-(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
- [89]
-Overfull \hbox (1.18839pt too wide) in paragraph at lines 3240--3248
-\T1/Roboto-LF/l/n/10 mehr All-tags-ge-gen-stän-de wer-den mit Tech-no-lo-gi-en 
-an-ge-rei-chert, die ei-ne Dienste-Bereitstellung
- []
-
-File: ../assets/box.pdf Graphic file (type pdf)
-<use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 3285.
+Package pdftex.def Info: ../assets/box.pdf used on input line 3082.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
  [90]
 File: ../assets/box.pdf Graphic file (type pdf)
  <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 3344.
+Package pdftex.def Info: ../assets/box.pdf used on input line 3138.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
  [91]
 File: ../assets/box.pdf Graphic file (type pdf)
 
 <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 3387.
+Package pdftex.def Info: ../assets/box.pdf used on input line 3140.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
  [92]
-chapter 32.
+chapter 31.
 File: ../assets/box.pdf Graphic file (type pdf)
 <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 3429.
+Package pdftex.def Info: ../assets/box.pdf used on input line 3171.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
  [93
 
@@ -1807,35 +1840,75 @@ Package pdftex.def Info: ../assets/box.pdf used on input line 3429.
 ]
 File: ../assets/box.pdf Graphic file (type pdf)
  <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 3475.
+Package pdftex.def Info: ../assets/box.pdf used on input line 3217.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
  [94]
+Overfull \hbox (1.18839pt too wide) in paragraph at lines 3237--3245
+\T1/Roboto-LF/l/n/10 mehr All-tags-ge-gen-stän-de wer-den mit Tech-no-lo-gi-en 
+an-ge-rei-chert, die ei-ne Dienste-Bereitstellung
+ []
+
+File: ../assets/box.pdf Graphic file (type pdf)
+<use ../assets/box.pdf>
+Package pdftex.def Info: ../assets/box.pdf used on input line 3276.
+(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
+ [95]
+File: ../assets/box.pdf Graphic file (type pdf)
+ <use ../assets/box.pdf>
+Package pdftex.def Info: ../assets/box.pdf used on input line 3334.
+(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
+ [96]
 File: ../assets/box.pdf Graphic file (type pdf)
 
 <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 3489.
+Package pdftex.def Info: ../assets/box.pdf used on input line 3376.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
- [95]
+ [97]
+File: ../assets/box.pdf Graphic file (type pdf)
+ <use ../assets/box.pdf>
+Package pdftex.def Info: ../assets/box.pdf used on input line 3394.
+(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
+ [98]
+chapter 32.
+File: ../assets/box.pdf Graphic file (type pdf)
+<use ../assets/box.pdf>
+Package pdftex.def Info: ../assets/box.pdf used on input line 3436.
+(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
+ [99
+
+
+]
+File: ../assets/box.pdf Graphic file (type pdf)
+ <use ../assets/box.pdf>
+Package pdftex.def Info: ../assets/box.pdf used on input line 3481.
+(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
+ [100]
+File: ../assets/box.pdf Graphic file (type pdf)
+
+<use ../assets/box.pdf>
+Package pdftex.def Info: ../assets/box.pdf used on input line 3496.
+(pdftex.def)             Requested size: 24.28851pt x 20.0pt.
+ [101]
 chapter 33.
 File: ../assets/box.pdf Graphic file (type pdf)
 <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 3516.
+Package pdftex.def Info: ../assets/box.pdf used on input line 3523.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
- [96
+ [102
 
 
 ])
 File: ../assets/box.pdf Graphic file (type pdf)
  <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 216.
+Package pdftex.def Info: ../assets/box.pdf used on input line 218.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
- [97]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 224.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 224.
+ [103]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 226.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 226.
 
 (./modulbeschreibungen-bachelor.aux (./coversheet.aux) (./content.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 224.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 224.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 226.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 226.
 Package rerunfilecheck Info: File `modulbeschreibungen-bachelor.out' has not ch
 anged.
 (rerunfilecheck)             Checksum: 9AF3449178FD0E1F44F68D0FF725E04B;1966.
@@ -1845,24 +1918,23 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 16322 strings out of 494447
- 259023 string characters out of 6166766
- 453291 words of memory out of 5000000
- 19238 multiletter control sequences out of 15000+600000
- 50670 words of font info for 37 fonts, out of 8000000 for 9000
- 319 hyphenation exceptions out of 8191
- 57i,15n,100p,8507b,551s stack positions out of 5000i,500n,10000p,200000b,80000s
- </Users/jorge/Library/texlive/2016basic/texmf-var/fonts/pk/ljfour/jknappen/e
-c/ectt1000.600pk>{/usr/local/texlive/2016basic/texmf-dist/fonts/enc/dvips/robot
-o/rbto_bergpl.enc}{/usr/local/texlive/2016basic/texmf-dist/fonts/enc/dvips/robo
-to/rbto_idpkzy.enc}{/usr/local/texlive/2016basic/texmf-dist/fonts/enc/dvips/rob
-oto/rbto_v5svcm.enc}</usr/local/texlive/2016basic/texmf-dist/fonts/type1/google
-/roboto/Roboto-Bold.pfb></usr/local/texlive/2016basic/texmf-dist/fonts/type1/go
-ogle/roboto/Roboto-Light.pfb>
-Output written on modulbeschreibungen-bachelor.pdf (100 pages, 975792 bytes).
+ 16838 strings out of 493014
+ 266477 string characters out of 6133350
+ 464978 words of memory out of 5000000
+ 19931 multiletter control sequences out of 15000+600000
+ 52292 words of font info for 36 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,15n,100p,8507b,542s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
+{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/roboto/rbto_bergpl.enc}{/us
+r/local/texlive/2016/texmf-dist/fonts/enc/dvips/roboto/rbto_idpkzy.enc}</usr/lo
+cal/texlive/2016/texmf-dist/fonts/type1/google/roboto/Roboto-Bold.pfb></usr/loc
+al/texlive/2016/texmf-dist/fonts/type1/google/roboto/Roboto-Light.pfb></usr/loc
+al/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb>
+Output written on modulbeschreibungen-bachelor.pdf (106 pages, 999986 bytes).
 PDF statistics:
- 713 PDF objects out of 1000 (max. 8388607)
- 553 compressed objects within 6 object streams
- 133 named destinations out of 1000 (max. 500000)
+ 710 PDF objects out of 1000 (max. 8388607)
+ 573 compressed objects within 6 object streams
+ 139 named destinations out of 1000 (max. 500000)
  275 words of extra memory for PDF output out of 10000 (max. 10000000)
 
