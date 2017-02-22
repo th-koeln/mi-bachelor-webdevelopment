@@ -16,10 +16,8 @@ type: tm
 parent: SC
 ---
 
-## Lehrform/SWS: 
-
+## Lehrform/SWS:
 4 SWS: Vorlesung 2 SWS; Seminar 2 SWS
-
 
 ## Arbeitsaufwand:
 Gesamtaufwand 150 h, davon 

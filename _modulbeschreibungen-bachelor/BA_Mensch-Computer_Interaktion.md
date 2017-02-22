@@ -16,10 +16,10 @@ type: pm
 ---
 
 ## Lehrform/SWS:
-
 Vorlesung und Übung
 
 ## Arbeitsaufwand: 
+
 
 Gesamtaufwand 300 h, davon 
 

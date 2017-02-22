@@ -34,69 +34,69 @@
 \contentsline {section}{\numberline {5.2}Geplante Ver\IeC {\"a}nderungen des Bachelor-Studiengangs gegen\IeC {\"u}ber dem aktuellen Akkreditierungszeitraum}{21}{section.5.2}
 \contentsline {subsection}{\numberline {5.2.1}Verbesserungen des Studienaufbaus}{21}{subsection.5.2.1}
 \contentsline {subsection}{\numberline {5.2.2}Verbesserter Aufbau der projektorientierten Module und der Projektgr\IeC {\"o}\IeC {\ss }en}{22}{subsection.5.2.2}
-\contentsline {subsection}{\numberline {5.2.3}Strukturierte M\IeC {\"o}glichkeit zur individuellen Fachvertiefung}{22}{subsection.5.2.3}
-\contentsline {subsection}{\numberline {5.2.4}Weitere \IeC {\"A}nderungen}{23}{subsection.5.2.4}
-\contentsline {section}{\numberline {5.3}Auswirkungen auf die Lehrkapazit\IeC {\"a}t}{24}{section.5.3}
-\contentsline {chapter}{\numberline {6}Geplante Ver\IeC {\"a}nderungen des Master-Studiengangs gegen\IeC {\"u}ber dem aktuellen Akkreditierungszeitraum}{25}{chapter.6}
-\contentsline {section}{\numberline {6.1}Sch\IeC {\"a}rfung des Profils}{25}{section.6.1}
-\contentsline {subsection}{\numberline {6.1.1}Schwerpunkt Social Computing}{26}{subsection.6.1.1}
-\contentsline {subsection}{\numberline {6.1.2}Schwerpunkt Visual Computing}{26}{subsection.6.1.2}
-\contentsline {subsection}{\numberline {6.1.3}Schwerpunkt Human-Computer Interaction}{26}{subsection.6.1.3}
-\contentsline {subsection}{\numberline {6.1.4}Schwerpunkt Weaving the Web}{27}{subsection.6.1.4}
-\contentsline {subsection}{\numberline {6.1.5}Generalistischer Studienverlauf: Multiperspective Product Development}{27}{subsection.6.1.5}
-\contentsline {section}{\numberline {6.2}Erh\IeC {\"o}hung des Anteils an praxisnahen Projekten}{27}{section.6.2}
-\contentsline {section}{\numberline {6.3}Flexibilisierung des dritten Fachsemesters}{28}{section.6.3}
-\contentsline {chapter}{\numberline {7}Qualifikationsziele der Studiengangskonzepte}{29}{chapter.7}
-\contentsline {chapter}{\numberline {8}Qualifikationsziele Medieninformatik Bachelor}{33}{chapter.8}
-\contentsline {section}{\numberline {8.1}Leitbild}{33}{section.8.1}
-\contentsline {chapter}{\numberline {9}Qualifikationsziele Medieninformatik Master}{34}{chapter.9}
-\contentsline {section}{\numberline {9.1}Leitbild Medieninformatik Master}{34}{section.9.1}
-\contentsline {section}{\numberline {9.2}Ziele des zu reakkreditierenden Studiengangs insgesamt}{34}{section.9.2}
-\contentsline {section}{\numberline {9.3}Darstellung der durch das Studium zu erreichenden Lernergebnisse}{35}{section.9.3}
-\contentsline {chapter}{\numberline {10}Konzeptionelle Einordnung des Studiengangs in das Studiensystem}{37}{chapter.10}
-\contentsline {chapter}{\numberline {11}Studiengangskonzept}{39}{chapter.11}
-\contentsline {section}{\numberline {11.1}Zielgruppe}{41}{section.11.1}
-\contentsline {section}{\numberline {11.2}Bachelor}{41}{section.11.2}
-\contentsline {subsection}{\numberline {11.2.1}Prinzipien}{41}{subsection.11.2.1}
-\contentsline {subsection}{\numberline {11.2.2}Studienphasen}{41}{subsection.11.2.2}
-\contentsline {subsection}{\numberline {11.2.3}Lehrformen}{41}{subsection.11.2.3}
-\contentsline {subsection}{\numberline {11.2.4}Vertiefende Dokumente}{41}{subsection.11.2.4}
-\contentsline {section}{\numberline {11.3}Master}{42}{section.11.3}
-\contentsline {subsection}{\numberline {11.3.1}Prinzipien}{42}{subsection.11.3.1}
-\contentsline {subsection}{\numberline {11.3.2}Studienstruktur}{42}{subsection.11.3.2}
-\contentsline {subsection}{\numberline {11.3.3}Lehrformen}{42}{subsection.11.3.3}
-\contentsline {chapter}{\numberline {12}Studierbarkeit}{43}{chapter.12}
-\contentsline {section}{\numberline {12.1}Bachelor Medieninformatik}{45}{section.12.1}
-\contentsline {subsection}{\numberline {12.1.1}Zugangsvoraussetzungen}{45}{subsection.12.1.1}
-\contentsline {subsection}{\numberline {12.1.2}Allgemeine/fachgebundene Hochschulreife, Fachhochschulreife, einschl\IeC {\"a}gige Berufserfahrung}{45}{subsection.12.1.2}
-\contentsline {subsection}{\numberline {12.1.3}Praktika/Berufserfahrung}{45}{subsection.12.1.3}
-\contentsline {subsection}{\numberline {12.1.4}Fremdsprachenkenntnisse, Deutschkenntnisse}{45}{subsection.12.1.4}
-\contentsline {subsection}{\numberline {12.1.5}Eignungsfeststellung}{45}{subsection.12.1.5}
-\contentsline {section}{\numberline {12.2}Master Medieninformatik}{46}{section.12.2}
-\contentsline {section}{\numberline {12.3}Struktur}{46}{section.12.3}
-\contentsline {section}{\numberline {12.4}Arbeitslast}{46}{section.12.4}
-\contentsline {section}{\numberline {12.5}Leistungspunktesystem}{47}{section.12.5}
-\contentsline {section}{\numberline {12.6}Pr\IeC {\"u}fungen}{47}{section.12.6}
-\contentsline {section}{\numberline {12.7}Studien/Pr\IeC {\"u}fungsordnungen}{47}{section.12.7}
-\contentsline {section}{\numberline {12.8}Diploma Supplement}{47}{section.12.8}
-\contentsline {section}{\numberline {12.9}Ma\IeC {\ss }nahmen zur Beratung von Studieninteressierten und Studierenden}{48}{section.12.9}
-\contentsline {chapter}{\numberline {13}Pr\IeC {\"u}fungssystem}{49}{chapter.13}
-\contentsline {section}{\numberline {13.1}Studien/Pr\IeC {\"u}fungsordnungen}{50}{section.13.1}
-\contentsline {chapter}{\numberline {14}Studiengangsbezogene Kooperationen}{51}{chapter.14}
-\contentsline {chapter}{\numberline {15}Ausstattung}{52}{chapter.15}
-\contentsline {section}{\numberline {15.1}Verleih}{53}{section.15.1}
-\contentsline {section}{\numberline {15.2}Nachbearbeitung}{54}{section.15.2}
-\contentsline {section}{\numberline {15.3}Studio}{55}{section.15.3}
-\contentsline {section}{\numberline {15.4}MI-Projektraum}{55}{section.15.4}
-\contentsline {section}{\numberline {15.5}Lehrende in der Medieninformatik}{55}{section.15.5}
-\contentsline {section}{\numberline {15.6}Wissenschaftliche Besch\IeC {\"a}ftigte}{59}{section.15.6}
-\contentsline {chapter}{\numberline {16}Transparenz und Dokumentation}{61}{chapter.16}
-\contentsline {chapter}{\numberline {17}Qualit\IeC {\"a}tssicherung und Weiterentwicklung}{62}{chapter.17}
-\contentsline {section}{\numberline {17.1}Beschreibung des Qualit\IeC {\"a}tssicherungssystems der Studieng\IeC {\"a}nge}{63}{section.17.1}
-\contentsline {section}{\numberline {17.2}Organisatorische Prozesse}{64}{section.17.2}
-\contentsline {chapter}{\numberline {18}Geschlechtergerechtigkeit und Chancengleichheit}{65}{chapter.18}
-\contentsline {section}{\numberline {18.1}Konzepte zur F\IeC {\"o}rderung der Chancengleichheit}{66}{section.18.1}
-\contentsline {section}{\numberline {18.2}Konzept der Hochschule f\IeC {\"u}r Chancengleichheit und Studierende in besonderen Lebenslagen}{66}{section.18.2}
-\contentsline {chapter}{\numberline {19}Backlog}{68}{chapter.19}
-\contentsline {chapter}{\numberline {20}Inhalte aus dem Antrag, die \IeC {\"u}brig geblieben sind}{69}{chapter.20}
-\contentsline {section}{\numberline {20.1}Geplante \IeC {\"A}nderungen des Master-Studiengangs}{70}{section.20.1}
+\contentsline {subsection}{\numberline {5.2.3}Strukturierte M\IeC {\"o}glichkeit zur individuellen Fachvertiefung}{24}{subsection.5.2.3}
+\contentsline {subsection}{\numberline {5.2.4}Weitere \IeC {\"A}nderungen}{25}{subsection.5.2.4}
+\contentsline {section}{\numberline {5.3}Auswirkungen auf die Lehrkapazit\IeC {\"a}t}{26}{section.5.3}
+\contentsline {chapter}{\numberline {6}Geplante Ver\IeC {\"a}nderungen des Master-Studiengangs gegen\IeC {\"u}ber dem aktuellen Akkreditierungszeitraum}{27}{chapter.6}
+\contentsline {section}{\numberline {6.1}Sch\IeC {\"a}rfung des Profils}{27}{section.6.1}
+\contentsline {subsection}{\numberline {6.1.1}Schwerpunkt Social Computing}{28}{subsection.6.1.1}
+\contentsline {subsection}{\numberline {6.1.2}Schwerpunkt Visual Computing}{28}{subsection.6.1.2}
+\contentsline {subsection}{\numberline {6.1.3}Schwerpunkt Human-Computer Interaction}{28}{subsection.6.1.3}
+\contentsline {subsection}{\numberline {6.1.4}Schwerpunkt Weaving the Web}{29}{subsection.6.1.4}
+\contentsline {subsection}{\numberline {6.1.5}Generalistischer Studienverlauf: Multiperspective Product Development}{29}{subsection.6.1.5}
+\contentsline {section}{\numberline {6.2}Erh\IeC {\"o}hung des Anteils an praxisnahen Projekten}{29}{section.6.2}
+\contentsline {section}{\numberline {6.3}Flexibilisierung des dritten Fachsemesters}{30}{section.6.3}
+\contentsline {chapter}{\numberline {7}Qualifikationsziele der Studiengangskonzepte}{31}{chapter.7}
+\contentsline {chapter}{\numberline {8}Qualifikationsziele Medieninformatik Bachelor}{35}{chapter.8}
+\contentsline {section}{\numberline {8.1}Leitbild}{35}{section.8.1}
+\contentsline {chapter}{\numberline {9}Qualifikationsziele Medieninformatik Master}{36}{chapter.9}
+\contentsline {section}{\numberline {9.1}Leitbild Medieninformatik Master}{36}{section.9.1}
+\contentsline {section}{\numberline {9.2}Ziele des zu reakkreditierenden Studiengangs insgesamt}{36}{section.9.2}
+\contentsline {section}{\numberline {9.3}Darstellung der durch das Studium zu erreichenden Lernergebnisse}{37}{section.9.3}
+\contentsline {chapter}{\numberline {10}Konzeptionelle Einordnung des Studiengangs in das Studiensystem}{39}{chapter.10}
+\contentsline {chapter}{\numberline {11}Studiengangskonzept}{41}{chapter.11}
+\contentsline {section}{\numberline {11.1}Zielgruppe}{43}{section.11.1}
+\contentsline {section}{\numberline {11.2}Bachelor}{43}{section.11.2}
+\contentsline {subsection}{\numberline {11.2.1}Prinzipien}{43}{subsection.11.2.1}
+\contentsline {subsection}{\numberline {11.2.2}Studienphasen}{43}{subsection.11.2.2}
+\contentsline {subsection}{\numberline {11.2.3}Lehrformen}{43}{subsection.11.2.3}
+\contentsline {subsection}{\numberline {11.2.4}Vertiefende Dokumente}{43}{subsection.11.2.4}
+\contentsline {section}{\numberline {11.3}Master}{44}{section.11.3}
+\contentsline {subsection}{\numberline {11.3.1}Prinzipien}{44}{subsection.11.3.1}
+\contentsline {subsection}{\numberline {11.3.2}Studienstruktur}{45}{subsection.11.3.2}
+\contentsline {subsection}{\numberline {11.3.3}Lehrformen}{46}{subsection.11.3.3}
+\contentsline {chapter}{\numberline {12}Studierbarkeit}{47}{chapter.12}
+\contentsline {section}{\numberline {12.1}Bachelor Medieninformatik}{49}{section.12.1}
+\contentsline {subsection}{\numberline {12.1.1}Zugangsvoraussetzungen}{49}{subsection.12.1.1}
+\contentsline {subsection}{\numberline {12.1.2}Allgemeine/fachgebundene Hochschulreife, Fachhochschulreife, einschl\IeC {\"a}gige Berufserfahrung}{49}{subsection.12.1.2}
+\contentsline {subsection}{\numberline {12.1.3}Praktika/Berufserfahrung}{49}{subsection.12.1.3}
+\contentsline {subsection}{\numberline {12.1.4}Fremdsprachenkenntnisse, Deutschkenntnisse}{49}{subsection.12.1.4}
+\contentsline {subsection}{\numberline {12.1.5}Eignungsfeststellung}{49}{subsection.12.1.5}
+\contentsline {section}{\numberline {12.2}Master Medieninformatik}{50}{section.12.2}
+\contentsline {section}{\numberline {12.3}Struktur}{50}{section.12.3}
+\contentsline {section}{\numberline {12.4}Arbeitslast}{50}{section.12.4}
+\contentsline {section}{\numberline {12.5}Leistungspunktesystem}{51}{section.12.5}
+\contentsline {section}{\numberline {12.6}Pr\IeC {\"u}fungen}{51}{section.12.6}
+\contentsline {section}{\numberline {12.7}Studien/Pr\IeC {\"u}fungsordnungen}{51}{section.12.7}
+\contentsline {section}{\numberline {12.8}Diploma Supplement}{51}{section.12.8}
+\contentsline {section}{\numberline {12.9}Ma\IeC {\ss }nahmen zur Beratung von Studieninteressierten und Studierenden}{52}{section.12.9}
+\contentsline {chapter}{\numberline {13}Pr\IeC {\"u}fungssystem}{53}{chapter.13}
+\contentsline {section}{\numberline {13.1}Studien/Pr\IeC {\"u}fungsordnungen}{54}{section.13.1}
+\contentsline {chapter}{\numberline {14}Studiengangsbezogene Kooperationen}{55}{chapter.14}
+\contentsline {chapter}{\numberline {15}Ausstattung}{56}{chapter.15}
+\contentsline {section}{\numberline {15.1}Verleih}{57}{section.15.1}
+\contentsline {section}{\numberline {15.2}Nachbearbeitung}{58}{section.15.2}
+\contentsline {section}{\numberline {15.3}Studio}{59}{section.15.3}
+\contentsline {section}{\numberline {15.4}MI-Projektraum}{59}{section.15.4}
+\contentsline {section}{\numberline {15.5}Lehrende in der Medieninformatik}{59}{section.15.5}
+\contentsline {section}{\numberline {15.6}Wissenschaftliche Besch\IeC {\"a}ftigte}{63}{section.15.6}
+\contentsline {chapter}{\numberline {16}Transparenz und Dokumentation}{65}{chapter.16}
+\contentsline {chapter}{\numberline {17}Qualit\IeC {\"a}tssicherung und Weiterentwicklung}{66}{chapter.17}
+\contentsline {section}{\numberline {17.1}Beschreibung des Qualit\IeC {\"a}tssicherungssystems der Studieng\IeC {\"a}nge}{67}{section.17.1}
+\contentsline {section}{\numberline {17.2}Organisatorische Prozesse}{68}{section.17.2}
+\contentsline {chapter}{\numberline {18}Geschlechtergerechtigkeit und Chancengleichheit}{69}{chapter.18}
+\contentsline {section}{\numberline {18.1}Konzepte zur F\IeC {\"o}rderung der Chancengleichheit}{70}{section.18.1}
+\contentsline {section}{\numberline {18.2}Konzept der Hochschule f\IeC {\"u}r Chancengleichheit und Studierende in besonderen Lebenslagen}{70}{section.18.2}
+\contentsline {chapter}{\numberline {19}Backlog}{72}{chapter.19}
+\contentsline {chapter}{\numberline {20}Inhalte aus dem Antrag, die \IeC {\"u}brig geblieben sind}{73}{chapter.20}
+\contentsline {section}{\numberline {20.1}Geplante \IeC {\"A}nderungen des Master-Studiengangs}{74}{section.20.1}

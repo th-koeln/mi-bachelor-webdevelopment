@@ -60,31 +60,62 @@ reviewed-von:
 cn: hier bitte die Studiengänge nur beschreiben, also bitte nicht mehr auf veränderungen eingehen, so dass wir diese Texte später weiter benutzen können. Alle Veränderungen bitte im Kapitel "Qualifikationsziele" verankern.
 ~~~
 
-## Zielgruppe
-Das Studienangebot richtet sich primär an Studierende des deutschsprachigen Raumes. Ausländische Studienbewerber werden durch ein etabliertes, durch das Sekretariat für internationale Studierende betreutes Verfahren nach Nachweis der Kenntnisse der deutschen Sprache aufgenommen.
+## Zielgruppe und Studienform
+Das Studienangebot richtet sich primär an Studierende des deutschsprachigen Raumes. Ausländische Studienbewerber werden durch ein etabliertes, durch das Sekretariat für internationale Studierende betreutes Verfahren nach Nachweis der Kenntnisse der deutschen Sprache aufgenommen. Das Lehrangebot wird in beiden Studiengängen in Form eines klassischen Präsenzstudiums erbracht.
 
-## Bachelor
+## Zusammensetzung der Studierendenschaft
+Die Darstellung des Profils der Studierendenschaft wird hier an der Lehreinheit Informatik beziehungsweise am Campus Gummersbach dargestellt[^profil-studienanfaenger-2017].
+Der Anteil weiblicher Studierender am Campus Gummersbach schwankt in den letzten Jahren um knapp 20%. Weibliche Studierende benötigen im Mittel ein Semester weniger zu einem erfolgreichen Abschluss (Basis: Lehreinheit Informatik) und erzielen dabei eine geringfügig bessere Abschlussnote als die männlichen Studierenden, sodass von einer Chancengleichheit auszugehen ist.
+16,9% der Studierenden am Campus Gummersbach verfügen über eine ausländische Staatsangehörigkeit. Die stärkste Gruppe stellen europäische Ausländer mit knapp 60%, gefolgt von asiatischen und afrikanischen Ausländern mit jeweils 18 %. Die anderen Kontinente spielen eine untergeordnete Rolle. Die Studiendauer ausländischer Studierender ist knapp zwei Semester länger als deutscher Studierender. Die Abschlussnote ist mit 2,4 schlechter als die deutscher Absolventen (2,0).
+Studierende mit einer allgemeinen Hochschulreife benötigen im Mittel ein Semester weniger als Studierende mit einer FH-Reife oder einer fachbezogenen Hochschulreife.
 
-### Prinzipien
+## Eingesetzte Lehrformen
 
-Module eines Schwerpunkts näher zusammen bringen Projektkontexte reduzieren
-Workflow berücksichtigen
-Projektorientierung berücksichtigen
-Projektgrößen sinnvoll aufbauen mehr Wahlmöglichkeiten weniger Prüfungselemente
-Austauschsemester in 5
-Vertiefung
+6 SWS Vorlesung, 6 SWS Praktikum, 4 SWS Projekt
+Vorlesung, Praktikum / Projekt, Übung mit kursabhängigen Schwerpunkten
+4 SWS, Vorlesung (2 SWS), Übung (2 SWS)
+Vorlesung 2 SWS, Praktikum 2 SWS
+Vorlesung(1), Seminar/Workshops(3), Projekt(1)
+Seminar
+Angeleitetes, eigenverantwortliches Arbeiten
+Flipped Classroom
 
+~~~
+cn: hier fehlt noch sinnvoller Text
+~~~
 
-### Studienphasen
+## Studienkonzept Bachelor
+
+Um die Qualifikationsziele des Studiengangs zu erreichen, das Studium sinnvoll in das Lehrportfolio der Fakultät einbetten zu können und um eine größtmögliche Zufriedenheit bei den Studierenden zu erzielen, ist das Studiengangskonzept an mehreren Prinzipien ausgerichtet.
+
+### Studienphasen und -säulen
 
 {% include image.html url="bilder/ba-studienphasen.svg" caption="Abbildung: Studienphasen des Bachelorstudiengangs Medieninformatik" %}
 
-### Lehrformen
+Die organisatorischen und inhaltliche Klammer bilden die drei, aufeinander aufbauenden, Studienphasen: Grundlagen, Vertiefung und Spezialisierung. Die Module innerhalb der Phasen, gliedern sich in zwei Säulen: Informatik Kernmodule und Medieninformatik-spezifische Module. Die Informatik Kernmodule auch von anderen Informatik Studiengängen der Fakultät 10 genutzt. Dadurch werden Synergien erzeugt und alle Informatik Studenten der Fakultät können auf die gleiche Wissensbasis zurückgreifen. Durch die Durchmischung von Studierenden unterschiedlicher Studiengänge können hier unter den Studierenden bereits interdisziplinäre Kontakte geknüpft werden. Ein weiterer Vorteil dieser Konstruktion ist eine gute Durchlässigkeit von Studierenden beim Studiengangswechsel, sofern sie feststellen, dass ein anderer Studiengang am Campus eher ihren Fähigkeiten und Neigungen entspricht. Naturgemäß die Informatik Kernmodule, die zumeist Grundlagencharakter haben, im Grundlagenteil des Studiums verankert.
+
+Um den Studierenden jedoch mit den Herangehensweisen und Perspektiven der Medieninformatik möglichst früh vertraut zu machen und sie bei der Identifikation mit der Domäne zu unterstützen, wir im ersten Semester das Modul "Einführung in die Medieninformatik" mit einem Gewicht von 10 Creditpoints angeboten. Im zweiten Semester übernimmt das Modul "Mensch-Computer Interaktion" mit einem Gewicht von 10 Creditpoints diese Aufgabe. Das Gewicht der Medieninformatik-spezifischen Module nimmt mit jedem Semester zu.
+
+### Sinnvolle Staffelung der Module
+
+Die ersten Modulen des Informatik Kerns bauen vor allem mathematische, algorithmische und und grundlegende Kenntnisse und Fertigkeiten auf. Im Kontrast dazu, werden im Modul "Einführung in die Medieninformatik" vielfältige Perspektiven, Konzepte und Arbeitstechniken der Medieninformatik, quasi im Vorgriff auf der kommende Studium, vorgestellt und in einem Projekt, mit forschendem Charakter, angewendet. Hiermit wird den Studierenden ein Ausblick auf das weitere Studium und die notwendigen Arbeitsweisen und -techniken gegeben.
+
+Im weiteren Studienverlauf sind die Medieninformatik-spezifischen Module an einem groben Workflow der Produktentwicklung: Konzeption, Realisierung und Reflexion ausgerichtet. Die Module "Mensch-Computer Interaktion", "Screendesign" und "Web-Architekturen" vermitteln überwiegend Herangehensweisen, Techniken und Konzepte für die Konzeptionsphase eines Projekts. Das Modul "Audiovisuelles Medienprojekt" adressiert sowohl Themen rund um die Konzeption als auch in Richtung Projektrealisierung und bildet den Übergang zum Vertiefungsmodul im vierten Semester, in dem Realisierungsaspekte im Vordergrund stehen. 
+
+Mit dem "Entwicklungsprojekt" im fünften Semester werden zunehmend Fragestellung und Herangehensweisen zur Reflexion eines Projekts, z.B. als Vorbereitung einer weiteren Projektiteration, fokussiert. 
+
+Um den Studierende fundierte Entwicklungskompetenz zu vermitteln, wird ein Modulstrang aus dem Informatik Kern verwendet, der ausgehend den Prinzipien der Objektorientierung und einfachen Algorithmen (Algorithmen und Programmierung 1) über komplexere Prinzipien der Algorithmenentwicklung (Algorithmen und Programmierung 2) hin zu Anwendung unterschiedlicher Programmierkonzepte (Paradigmen der Programmierung) und Prinzipien, Methoden und Techniken der modellbasierten Softwareentwicklung (Softwareentwicklung) diese Kompetenz sukzessive auf- und ausbaut.
+
+### Projektorientierung und Aufbau der Projektgrößen
+
+Projektorientierung und forschendes Lernen sind seit der Erstakkreditierung des Studiengangs elementare Bestandteile des Studienkonzepts. Diese Ansätze haben in den letzten Jahren vermehrt Einzug in verschiedene Module erhalten. Um hier die Studierenden einerseits nicht zu überfordern, sie aber aber trotzdem an größere und komplexere Projekte und Fragestellungen heranzuführen, werden die Projektanteile und -gewichte im Studiengang behutsam aufgebaut. Das Module "Einführung in die Medieninformatik" startet im ersten Semester mit einem Projektanteil von 50% (2,5 CP) um die Studierenden initial mit dem Lehrformat "Projekt" im Hochschulkontext vertraut zu machen. Das Gewicht der Projekte wird dann im dritten und vierten Semester auf 5 Creditpoints erhöht. Das Modul "Entwicklungsprojekt" im fünften Semestern ist mit einem Gewicht von 10 Creditpoints ausgestattet und leitet über zum Praxisprojekt (10 CP) und der Bachelorarbeit (12 CP). Das Projektgewicht von 12 Creditpoints wird später, im konsekutiven Masterstudiengang, weiter geführt. 
 
 
 ### Vertiefende Dokumente
 
-- Bachelor Medieninformatik Themen von 2010 bis 2014[^Abschlussarbeitsthemen-bachelor]
+- Themen der Abschlussarbeiten von 2010 bis 2014[^Abschlussarbeitsthemen-bachelor]
+- Studienverlaufsplan Medieninformatik Bachelor[^studienverlaufsplan-bachelor]
+- Modulhandbuch Medieninformatik Bachelor[^modulhandbuch-bachelor]
 
 ## Master
 
@@ -105,3 +136,6 @@ Vertiefung
 ### Lehrformen
 
 [^Abschlussarbeitsthemen-bachelor]: <a href="../anhaenge/anschlussarbeiten_2010-2014_.pdf">Themen der Abschlussabeiten des Medieninformatik Bachelor 2010 bis 2014</a>
+[^profil-studienanfaenger-2017]: <a href="../anhaenge/profil-studienanfaenger-2017.xlsx">profil-studienanfaenger-2017.xlsx</a>
+[^studienverlaufsplan-bachelor]: Studienverlaufsplan Medieninformatik Bachelor fehlt
+[^modulhandbuch-bachelor]: Modulhandbuch Medieninformatik Bachelor fehlt

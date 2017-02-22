@@ -5,6 +5,19 @@ namespace HydeMD;
 require 'vendors/yaml.php';
 
 
+/* Helper functions */
+function cmdExists( $cmd ) {
+
+  $whichRetVal = 1;
+  $whichOutput = array();
+  exec( 'which ' . $cmd, $whichOutput, $whichRetVal );
+
+  return $whichRetVal === 0;
+
+}
+
+
+
 class Document {
 
   const FILE = 'FILE';
@@ -63,6 +76,7 @@ class Document {
     $this->loadFileContents();
     $this->replaceYAMLHeaderInFiles();
     $this->fixEmptyTableHeader();
+    $this->preprocessMD();
 
     $this->transpileToLatex();
   }
@@ -93,6 +107,7 @@ class Document {
   }
 
 
+
   private function loadFileContents() {
     foreach( $this->files as $path => &$page ) {
       $page->content = file_get_contents( $path );
@@ -109,6 +124,7 @@ class Document {
       $page->content = preg_replace( "=‐=", "-", $page->content );
     }
   }
+
 
 
   private function replaceYAMLHeaderInFiles() {
@@ -144,6 +160,7 @@ class Document {
   }
 
 
+
   private function fixEmptyTableHeader() {
     foreach( $this->files as $path => &$page ) {
       $page->content = preg_replace( '/\| +?\|/i', '| &nbsp; |', $page->content );
@@ -151,9 +168,102 @@ class Document {
   }
 
 
+
+  private function preprocessMD() {
+
+    $svgsFound = false;
+
+    foreach( $this->files as $path => &$page ) {
+
+      $page->content = preg_replace_callback( '/{%\s*include\s*(.*?)\s*%}/i',
+                                              function($matches) use( &$svgsFound ) {
+
+        $rawAttributes = $matches[1];
+
+        $attrsMatches = array();
+        preg_match_all( '/(\w*)=\"(.*?)"/', $rawAttributes, $attrsMatches );
+
+
+        $attrsAssocArr = array();
+
+        if( count($attrsMatches) > 0 && count($attrsMatches[1]) > 0 ) {
+          for( $i = 0; $i < count( $attrsMatches[1] ); $i++ ) {
+            $match = $attrsMatches[1][$i];
+            $attrsAssocArr[ trim( $match ) ] = trim( $attrsMatches[2][$i] );
+          }
+        }
+
+        /* TODO: handling of special cases */
+
+        if( count( $attrsAssocArr ) === 0 ) {
+          return $matches[0];
+        }
+
+        if( !isset( $attrsAssocArr[ 'url' ] ) ) {
+          return '';
+        }
+        else {
+
+          $relativePathToFileFromScript =
+            dirname( __FILE__ ) . DIRECTORY_SEPARATOR . '../../anhaenge/' . $attrsAssocArr[ 'url' ];
+
+          if( !file_exists( $relativePathToFileFromScript ) ) {
+            /* File was not found, so we are gonna output a warning and skip it */
+            fprint( STDERR, "Included file was not found: " . $attrsAssocArr[ 'url' ] );
+
+            return '';
+          }
+
+          /* path correction -> relative path starting from the content file */
+          $attrsAssocArr[ 'url' ] = '../anhaenge/' . $attrsAssocArr[ 'url' ];
+
+          /* SVG to PDF conversion if a SVG file is found */
+          $attrsAssocArr[ 'url' ] = preg_replace_callback( '/\.svg$/', function($match) use( &$svgsFound, $relativePathToFileFromScript, $attrsAssocArr ) {
+
+            $newExt = $match[0];
+
+            if( cmdExists( 'rsvg-convert' ) ) {
+              $relativePathToFileFromScriptPDF =
+                preg_replace( '/.svg$/', '.pdf', $relativePathToFileFromScript );
+
+              if( !file_exists( $relativePathToFileFromScriptPDF ) ) {
+                shell_exec( 'rsvg-convert -f pdf -o ' .
+                            $relativePathToFileFromScriptPDF . ' ' .
+                            $relativePathToFileFromScript );
+              }
+
+              $newExt = '.pdf';
+            }
+            else {
+              fprintf( STDERR, "Warning: SVG file found: " . $attrsAssocArr[ 'url' ] . "\n" );
+              $svgsFound = true;
+            }
+
+            return $newExt;
+          }, $attrsAssocArr[ 'url' ] );
+        }
+
+        if( !isset( $attrsAssocArr[ 'caption' ] ) ) {
+          $attrsAssocArr[ 'caption' ] = '';
+        }
+
+        return '![' . $attrsAssocArr[ 'caption' ] . '](' . $attrsAssocArr[ 'url' ] . ')';
+      }, $page->content );
+
+    }
+
+    if( $svgsFound ) {
+      fprintf( STDERR, "Please install librsvg for on-the-fly svg2pdf conversion." );
+    }
+
+  }
+
+
+
   public function getSimpleDocumentName() {
     return $this->name;
   }
+
 
 
   private function getTemplates( $templateBaseDir = '' ) {
@@ -208,6 +318,7 @@ class Document {
   }
 
 
+
   public function transpileToLatex() {
 
     if( !is_null( $this->latexContent ) )
@@ -218,10 +329,11 @@ class Document {
     file_put_contents( $tmpDocumentMDFile , strval( $this ) );
 
     /* Using Pandoc to transform the temporary markdown to latex */
-    $pandocOutput = shell_exec( "pandoc " . $tmpDocumentMDFile . " -f markdown -t latex" );
+    $pandocOutput = shell_exec( 'pandoc ' . $tmpDocumentMDFile . ' -f markdown -t latex' );
 
     $this->latexContent = $this->postprocessLatex( $pandocOutput );
   }
+
 
 
   private function postprocessLatex( $latexContent ) {
@@ -234,8 +346,13 @@ class Document {
     $latexContent = str_replace( '{0.07\columnwidth}', '{0.5\columnwidth}', $latexContent );
     $latexContent = str_replace( '{0.06\columnwidth}', '{0.33\columnwidth}', $latexContent );
 
+
+    $latexContent = preg_replace( '/begin{figure}/', 'begin{figure}[htbp]', $latexContent );
+    $latexContent = preg_replace( '/includegraphics/', 'includegraphics[width=\columnwidth]', $latexContent );
+
     return $latexContent;
   }
+
 
 
   public function renderToOutput() {
@@ -259,6 +376,7 @@ class Document {
   }
 
 
+
   private function interpolatePlaceholders( $content ) {
 
     $placeholder = $this->placeholder;
@@ -269,6 +387,7 @@ class Document {
 
     return $content;
   }
+
 
 
   public function __toString() {
@@ -288,15 +407,16 @@ if( isset( $argv ) && count( $argv ) === 1 ) {
 }
 
 
-$whichRetVal = 1;
-$whichOutput = array();
-exec( 'which pandoc', $whichOutput, $whichRetVal );
 
-if( $whichRetVal === 1 ) {
+if( !cmdExists( 'pandoc' )) {
   fprintf( STDERR, "\nPandoc could not be found!" .
                    "Please install Pandoc first and then try again.\n\n" );
   die();
 }
+
+
+/* TODO: Introducing support for recipe-Files, with better conversion instructions */
+
 
 
 /* Preparing placeholders */

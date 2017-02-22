@@ -10,7 +10,7 @@ sprache: deutsch
 zuordnung-zum-curriculum: Medieninformatik Bachelor
 kreditpunkte: 5
 voraussetzungen-nach-pruefungsordnung: keine
-empfohlene-voraussetzungen: Einführung in die Medieninformatik, Grundlagen der BWL
+empfohlene-voraussetzungen: 
 published: true
 type: pm
 ---
