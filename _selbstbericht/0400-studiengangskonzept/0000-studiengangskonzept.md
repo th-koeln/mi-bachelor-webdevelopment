@@ -58,7 +58,7 @@ Zusammen mit dem Praxisprojekt und der Bachelorarbeit stehen somit 60 Creditpoin
 Projektorientierung und forschendes Lernen sind seit der Erstakkreditierung des Studiengangs elementare Bestandteile des Studienkonzepts. Diese Ansätze haben in den letzten Jahren vermehrt Einzug in verschiedene Module erhalten. Um hier die Studierenden einerseits nicht zu überfordern, sie aber aber trotzdem an größere und komplexere Projekte und Fragestellungen heranzuführen, werden die Projektanteile und -gewichte im Studiengang behutsam aufgebaut. Das Module "Einführung in die Medieninformatik" startet im ersten Semester mit einem Projektanteil von 50% (2,5 CP) um die Studierenden initial mit dem Lehrformat "Projekt" im Hochschulkontext vertraut zu machen. Das Gewicht der Projekte wird dann im dritten und vierten Semester auf 5 Creditpoints erhöht. Das Modul "Entwicklungsprojekt" im fünften Semestern ist mit einem Gewicht von 10 Creditpoints ausgestattet und leitet über zum Praxisprojekt (10 CP) und der Bachelorarbeit (12 CP). Das Projektgewicht von 12 Creditpoints wird später, im konsekutiven Masterstudiengang, weiter geführt. 
 
 
-### Vertiefende Dokumente
+### Weiterführende Dokumente
 
 - Themen der Abschlussarbeiten von 2010 bis 2014[^Abschlussarbeitsthemen-bachelor]
 - Studienverlaufsplan Medieninformatik Bachelor[^studienverlaufsplan-bachelor]
@@ -101,7 +101,7 @@ Die Projekte können mit zusätzlichen Lehrveranstaltungen, die auf die jeweilig
 Die inhaltliche Offenheit des dritten Fachsemesters mit drei Wahlpflichtmodulen und einem Projekt ermöglicht den Studierenden ein Auslandssemester, da hier die Anrechnung von Studienleistung problemlos möglich ist. 
 
 
-### Vertiefende Dokumente
+### Weiterführende Dokumente
 
 - Studienverlaufsplan Medieninformatik Master[^studienverlaufsplan-master]
 - Modulhandbuch Medieninformatik Master[^modulhandbuch-master]

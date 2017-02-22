@@ -41,3 +41,17 @@ Absolventinnen und Absolventen des Masterstudiengangs Medieninformatik:
 
 - haben ihre Fähigkeit zum lebenslangen Lernen gefestigt und können sich selbständig und schnell in neue, für die Medieninformatik relevante Theorien, Methoden und Techniken, sowohl aus theoretischer als auch aus technischer Sichtweise, einarbeiten und ihre eigene Rolle im professionellen Kontext hinterfragen und weiterentwickeln.
 
+### Weiterführende Dokumente
+- Website des Medieninformatik Master[^website-master]
+- Ordnungen zum Medieninformatik Master[^ordnungen-master]
+- Studienverlaufsplan Medieninformatik Master[^studienverlaufsplan-master]
+- Modulhandbuch Medieninformatik Master[^modulhandbuch-master]
+- Ziele-Module-Matrix Medieninformatik Master[^ziele-module-master]
+- Beispielzeugnis und Diploma Supplement Medieninformatik Master[^zeugnis-master]
+
+[^studienverlaufsplan-master]: Studienverlaufsplan Medieninformatik Master fehlt
+[^modulhandbuch-master]: Modulhandbuch Medieninformatik Master fehlt
+[^ziele-module-master]: Ziele-Module-Matrix Medieninformatik Master fehlt
+[^website-master]: Website des Medieninformatik Master: <a href="https://www.th-koeln.de/studium/medieninformatik-master_3729.php">https://www.th-koeln.de/studium/medieninformatik-master_3729.php</a>
+[^ordnungen-master]: Ordnungen zum Medieninformatik Master: <href="https://www.th-koeln.de/studium/medieninformatik-master--ordnungen-und-formulare_3724.php">https://www.th-koeln.de/studium/medieninformatik-master--ordnungen-und-formulare_3724.php</a>
+[^zeugnis-master]: Beispielzeugnis und Diploma Supplement Medieninformatik Master: <a href="../anhaenge/ma-zeugnis.pdf">ma-zeugnis.pdf</a>
