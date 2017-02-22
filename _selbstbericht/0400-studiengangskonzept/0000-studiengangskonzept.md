@@ -1,7 +1,7 @@
 ---
 title: Studiengangskonzept
-aktueller-bearbeiter: 
-bearbeiterhistorie: 
+aktueller-bearbeiter: Christian Noss
+bearbeiterhistorie: Christian Noss
 date: 10.02.2017
 comment:
 status: unbearbeitet
