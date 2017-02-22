@@ -5,7 +5,7 @@ bearbeiterhistorie: Christian Noss
 date: 14.02.2017
 comment: erstmal fertig
 status: Peer Review erforderlich
-reviewed-von:
+reviewed-von:Robert Gabriel
 ---
 
 Die Studiengänge wurden auf Basis verschiedener quantitativer und qualitativer Erhebungen analysiert und in einem iterativen Prozess optimiert. An diesem Prozess waren folgende Personengruppen beteiligt:
