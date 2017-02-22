@@ -16,17 +16,19 @@ type: pm
 ---
 
 ## Lehrform/SWS:
-Vorlesung(2), Praktikum(1), Übung(1)
+4 SWS: Vorlesung 2 SWS; Praktikum SWS; Übung 1SWS
 
 ## Arbeitsaufwand:
-Vorlesung: 36 Stunden 
-Praktikum: 18 Stunden 
-Übung: 18 Stunden
-Selbststudium: 78 Stunden
+Gesamtaufwand 150 h, davon 
+
+* 36 h Vorlesung
+* 18 h Praktikum
+* 18 h Übung
+* 78 h Selbststudium
 
 ## Angestrebte Lernergebnisse:
-Unterscheidung zwischen verschiedenen imperativen und deklarativen Programmierparadigmen kennen
-Einordnung der Anwendbarkeit unterschiedlicher Programmierkonzepte
+* Unterscheidung zwischen verschiedenen imperativen und deklarativen Programmierparadigmen kennen
+* Einordnung der Anwendbarkeit unterschiedlicher Programmierkonzepte
 
 ## Inhalt:
 - Grundlagen von Programmiersprachen
@@ -35,13 +37,15 @@ Einordnung der Anwendbarkeit unterschiedlicher Programmierkonzepte
 - funktionale Programmierung
 - Logikprogrammierung
 - Nebenläufigkeit
-- Aspektorientierte Programmierung
+- aspektorientierte Programmierung
 
 ## Studien-/Prüfungsleistungen:
 Klausur sowie erfolgreiche Teilnahme am Praktikum als Prüfungsvorleistung
 
 ## Medienformen:
-Foliensammlung, Skript, Beispiellösungen
+* Foliensammlung
+* Skript
+* Beispiellösungen
 
 ## Literatur:
 - Abelson, Sussman, Struktur und Interpretation von Computer Programmen,Springer-Verlag 2001

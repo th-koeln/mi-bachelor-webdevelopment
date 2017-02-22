@@ -21,9 +21,7 @@ type: pm
 ## Arbeitsaufwand:
 
 ## Angestrebte Lernergebnisse:
-Die Studierenden sollen  
-
-
+Die Studierenden sollen
 
 
 - über ein einheitliches konsistentes Begriffsgebäude bezüglich der Datenbankthematik verfügen,
@@ -34,14 +32,12 @@ Die Studierenden sollen
 
 - komplexere Datenbankanfragen, Datendefinitionen und Datenänderungen über SQL programmieren  können
 
-- eine SQL-Statement tunen können
+- ein SQL-Statement tunen können
 
 - mit dem Transaktionsbegriff, der Mehrbenutzersynchronisation und Verfahren zur Fehlererholung sowie zur Sicherung der Datenintegrität vertraut sein
 
 ## Inhalt:
-Grundbegriffe und Architektur von Datenbanken  
-
-
+* Grundbegriffe und Architektur von Datenbanken  
 
 
 - Ein Vorgehensmodell zur Erstellung eines Datenbanksystems
@@ -62,8 +58,6 @@ Grundbegriffe und Architektur von Datenbanken
 
 
 
-
-
 - Datenmodellierung (Entity Relationship Modell) und Implementierung am Beispiel eines relationalen Datenbanksystems
 
 - Datenbanksprache SQL: DDL, DML, DAL, Integritätsbedingungen und Constraints unter dem jeweils aktuellen SQL-Standard, zur Zeit SQL2013
@@ -74,22 +68,12 @@ Grundbegriffe und Architektur von Datenbanken
 Klausur, deren Voraussetzung das bestandene Praktikum ist, und semesterbegleitende Multiple‐Choice‐Tests mit Punkten für die Klausur
 
 ## Medienformen:
-Folien gestützer Vortrag - aber nur sehr selten  
-
-
-I.d.R. erarbeiten der Theorie anhand von überschaubaren Problemstellungen und deren in der Veranstalltung entwickelten Lösungen - hauptsächliches Vorgehen  
-
-
-Fragen der Studierenden beantworten - sehr erwünscht!  
-
-
-Ilias zur Bereitstellung aller Informationen (Aktuelles, Links, Folien, Praktikums-/Übungsaufgaben, wie auch Lösungen...)  
-
-
-edb, die DB-eLearning-Plattform der FH Köln  
-
-
-DB-Wiki, das Online Lexikon für Datenbank-Themen
+* Folien gestützer Vortrag - aber nur sehr selten  
+* I.d.R. erarbeiten der Theorie anhand von überschaubaren Problemstellungen und deren in der Veranstaltung entwickelten Lösungen - hauptsächliches Vorgehen  
+* Fragen der Studierenden beantworten - sehr erwünscht!  
+* Ilias zur Bereitstellung aller Informationen (Aktuelles, Links, Folien, Praktikums-/Übungsaufgaben, wie auch Lösungen)  
+* edb, die DB-eLearning-Plattform der TH Köln  
+* DB-Wiki, das Online Lexikon für Datenbank-Themen
 
 ## Literatur:
 - Elmasri, R.; Navathe, S. B.: Grundlagen von Datenbanksystemen. Pearson‐Studium. 2009

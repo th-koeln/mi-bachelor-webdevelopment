@@ -19,12 +19,12 @@ type: pm
 Systemprogrammierung am Beispiel von UNIX.
 
 ## Lehrform/SWS: 
-Vorlesung(2), Praktikum(2)
+4 SWS: Vorlesung 2 SWS; Praktikum 2 SWS
 
 ## Arbeitsaufwand: 
-Vorlesung: 36 Stunden
-Praktikum: 36 Stunden
-Selbststudium: 78 Stunden
+- 36 h Vorlesung 
+- 36 h Praktikum
+- 78 h Selbststudium 
 
 ## Angestrebte Lernergebnisse:
 
@@ -44,7 +44,7 @@ Systemprogrammierung am Beispiel von UNIX:
 - Pipes
 - Shared Memory
 - Synchronisationsprimitive für den wechselseitigen Ausschluss
-- Semaphore
+- Semaphoren
 - Nachrichtenwarteschlangen
 - Dateisysteme
 - TCP/IP
@@ -60,6 +60,8 @@ Klausur sowie erfolgreiche Teilnahme am Praktikum als Prüfungsvorleistung.
 Foliensammlung, ausformuliertes Skript, Beispiellösungen
 
 ## Literatur:
-Diverse Fachbücher, u.a.: Tanenbaum, A. S.: „Moderne Betriebssysteme“, Brown, C.: „Programmieren verteilter UNIX-Anwendungen“, Kernighan, B. W., Pike, R.: „Der UNIX-Werkzeugkasten“
-Ehses, E., Köhler, L., Stenzel, H., Victor, F. „Betriebssysteme: Ein Lehrbuch mit Übungen zur Systemprogrammierung in UNIX/Linux“
++ Tanenbaum, A. S.: „Moderne Betriebssysteme“
++ Brown, C.: „Programmieren verteilter UNIX-Anwendungen“
++ Kernighan, B. W., Pike, R.: „Der UNIX-Werkzeugkasten“
++ Ehses, E., Köhler, L., Stenzel, H., Victor, F. „Betriebssysteme: Ein Lehrbuch mit Übungen zur Systemprogrammierung in UNIX/Linux“
 

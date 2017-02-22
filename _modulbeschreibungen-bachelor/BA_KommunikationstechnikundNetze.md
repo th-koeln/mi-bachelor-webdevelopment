@@ -24,11 +24,9 @@ Vorlesung, Praktikum
 Die Studierenden sollen  
 
 
-
-
 - Prinzipien und Grundlagen von technischen Kommunikations­vor­gängen kennen lernen,
 
-- Protokolle als wesentliche Grundlage der KT im Detail verstehen (Internet-Protokolle, Multimedia-Protokolle, TK-Protokolle), ?Dienste?-Begriff verstehen
+- Protokolle als wesentliche Grundlage der Kommunikationstechnik im Detail verstehen (Internet-Protokolle, Multimedia-Protokolle, TK-Protokolle, Dienste)
 
 - Einsatz und Nutzung von Kommunikations­tech­nik praxistypisch kennen lernen,
 
@@ -41,11 +39,9 @@ Grundbegriffe und Grundlagen, Kommunikationssysteme (Modelle, Grundbegriffe), Pr
 
 
 ## Medienformen:
-Vorlesung im Hörsaal (PowerPoint und Beamer)  
-
-
-Praktikum an Rechnern des KTDS-Labors; Ressourcen: Netzanalysesoftware,div. Netzüberwachungssoftware, E-Mail-Server und -Clients, DNS-Server, ggf. weitereServer-Implementierungen
+* Vorlesung im Hörsaal (PowerPoint und Beamer)  
+* Praktikum an Rechnern des KTDS-Labors; Ressourcen: Netzanalysesoftware,div. Netzüberwachungssoftware, E-Mail-Server und -Clients, DNS-Server, ggf. weitereServer-Implementierungen
 
 ## Literatur:
-Wird in der Veranstaltung bekannt gegeben bzw. siehe Homepage (http://www.inf.fh-koeln.de/~stahl).
+* Wird in der Veranstaltung bekannt gegeben
 

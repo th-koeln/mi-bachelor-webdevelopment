@@ -16,37 +16,33 @@ type: pm
 ---
 
 ## Lehrform/SWS: 
-Vorlesung(2), Übung(2)
+4 SWS: Vorlesung 2 SWS; Übung 2 SWS
 
 ## Arbeitsaufwand: 
-Vorlesung: 30 Stunden
-Übung: 30 Stunden
-Selbstlernphase: 60 Stunden
+Gesamtaufwand 120 h, davon 
+
+- 30 h Vorlesung 
+- 30 h Übung
+- 60 h Selbstlernphase 
 
 ## Angestrebte Lernergebnisse:
-Die Studierenden verstehen die wichtigsten Entscheidungsbereiche wirtschaftlichen Handeln und können diese anwenden. Sie können grundlegenden Entscheidungen im Rahmen einer Unternehmensgründung, die Aufgaben der Unternehmensführung wie die Konzeption einer tragfähigen Strategie, und die Aufgaben der Teilbereiche Produktion, Absatz und Marketing sowie Investition und Finanzierung beschreiben und beurteilen. Investitionsentscheidungen können die Studierenden informationsgestützt treffen indem Sie die Kalkulationsverfahren der Investitionsrechnung anwenden und auswerten. Die Veranstaltung bereitet die Studierenden für weitere BWL-Veranstaltungen Ihres Studiums, sowie darauf in ihrem Berufsleben wirtschaftliche Konzepte im Unternehmenskontext anzuwenden vor.
+Die Studierenden verstehen die wichtigsten Entscheidungsbereiche wirtschaftlichen Handeln und können diese anwenden. Sie können grundlegenden Entscheidungen im Rahmen einer Unternehmensgründung, die Aufgaben der Unternehmensführung wie die Konzeption einer tragfähigen Strategie, und die Aufgaben der Teilbereiche Produktion, Absatz und Marketing sowie Investition und Finanzierung beschreiben und beurteilen. Investitionsentscheidungen können die Studierenden informationsgestützt treffen indem Sie die Kalkulationsverfahren der Investitionsrechnung anwenden und auswerten. Die Veranstaltung bereitet die Studierenden für weitere BWL-Veranstaltungen Ihres Studiums, sowie darauf, in ihrem Berufsleben wirtschaftliche Konzepte im Unternehmenskontext anzuwenden, vor.
 
 
 ## Inhalt:
-1.Grundlagen
-
-2.Unternehmensführung 1: Ziele, Planung und Entscheidung
-
-3.Investition und Finanzierung
-
-4.Unternehmensführung 2: Ausführung und Kontrolle
-
-5.Konstitutive Entscheidungen
-
-6.Produktion
-
-7.Absatz und Marketing
+* Grundlagen
+* Unternehmensführung 1: Ziele, Planung und Entscheidung
+* Investition und Finanzierung
+* Unternehmensführung 2: Ausführung und Kontrolle
+* Konstitutive Entscheidungen
+* Produktion
+* Absatz und Marketing
 
 ## Studien-/Prüfungsleistungen:
-Benotete schriftliche Klausur
+schriftliche Klausur
 
 ## Medienformen:
 
 
 ## Literatur:
-Literatur: Wöhe (2016): Einführung in die Allgemeine Betriebswirtschaftslehre, 26. Aufl.
+* Wöhe (2016): Einführung in die Allgemeine Betriebswirtschaftslehre, 26. Aufl.

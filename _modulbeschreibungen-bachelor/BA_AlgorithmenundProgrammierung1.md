@@ -29,7 +29,9 @@ Die Studierenden sollen
 - einfache Algorithmen beurteilen, vorhandene Bibliothekslösungen angemessen einsetzen und einfache Algorithmen selbstständig entwickeln können.
 
 ## Inhalt:
-objektorientierte u. prozedurale Programmierung in C und Java, Algorithmen mit elementaren Datentypen,Rekursion C
+* objektorientierte u. prozedurale Programmierung in C und Java
+* Algorithmen mit elementaren Datentypen
+* Rekursion in C
 
 ## Studien-/Prüfungsleistungen:
 
@@ -38,5 +40,5 @@ objektorientierte u. prozedurale Programmierung in C und Java, Algorithmen mit e
 
 
 ## Literatur:
-Tutorium unter <a href ="http://www.hb02.de/ap1/"> http://www.hb02.de/ap1</a>
+* Tutorium unter <a href ="http://www.hb02.de/ap1/"> http://www.hb02.de/ap1</a>
 

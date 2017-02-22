@@ -21,10 +21,11 @@ type: pm
 ## Arbeitsaufwand:
 
 ## Angestrebte Lernergebnisse:
-Die Studierenden sollen- die Basiskonzepte und Grundlagen der Betriebssysteme und der Rechnerarchitektur kennen und verstehen sowie- ein einheitliches konsistentes Begriffsgebäude zu teilweise aus der persönlichen Praxis bekannten Sachverhalten der IT aufbauen
+Die Studierenden sollen die Basiskonzepte und Grundlagen der Betriebssysteme und der Rechnerarchitektur kennen und verstehen, sowie ein einheitliches konsistentes Begriffsgebäude zu, teilweise aus der persönlichen Praxis bekannten, Sachverhalten der IT aufbauen
 
 ## Inhalt:
-Betriebssysteme aus Nutzersicht : Dateisysteme, Parallele Prozesse, Sicherheit in Betriebssystemen, bei Rechnerkomponenten: grundlegende Architekturen, Darstellung von Daten, interne Bussysteme, Prozessoren, Festplatten, Peripherieschnittstellen, Parallelrechner
+* Betriebssysteme aus Nutzersicht: Dateisysteme, Parallele Prozesse, Sicherheit in Betriebssystemen
+* bei Rechnerkomponenten: grundlegende Architekturen, Darstellung von Daten, interne Bussysteme, Prozessoren, Festplatten, Peripherieschnittstellen, Parallelrechner
 
 ## Studien-/Prüfungsleistungen:
 
@@ -33,5 +34,7 @@ Betriebssysteme aus Nutzersicht : Dateisysteme, Parallele Prozesse, Sicherheit i
 
 
 ## Literatur:
-- Vorlesungsunterlagen: kommentierte Foliensammlung- Tanenbaum: „Rechnerarchitektur“- Tanenbaum: „Modern Operating Systems“
+- Vorlesungsunterlagen: kommentierte Foliensammlung
+- Tanenbaum: „Rechnerarchitektur“
+- Tanenbaum: „Modern Operating Systems“
 

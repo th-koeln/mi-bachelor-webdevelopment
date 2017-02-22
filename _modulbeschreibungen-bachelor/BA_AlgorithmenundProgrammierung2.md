@@ -21,10 +21,13 @@ type: pm
 ## Arbeitsaufwand:
 
 ## Angestrebte Lernergebnisse:
-Die Studierende sollen- Objektorientierung, die Prinzipien der Algorithmenentwicklung und grundlegende Algorithmen verstehen- die Grundstrukturen der Java-Bibliothek anwenden können.
+Die Studierende sollen Objektorientierung, die Prinzipien der Algorithmenentwicklung und grundlegende Algorithmen verstehen und die Grundstrukturen der Java-Bibliothek anwenden können.
 
 ## Inhalt:
-Basisalgorithmen: Suchen u. Sortieren, Datenstrukturen, Dictionaries, Methodik des objektorientierten Programmierens
+* Basisalgorithmen: Suchen u. Sortieren
+* Datenstrukturen
+* Dictionaries
+* Methodik des objektorientierten Programmierens
 
 ## Studien-/Prüfungsleistungen:
 
@@ -33,5 +36,17 @@ Basisalgorithmen: Suchen u. Sortieren, Datenstrukturen, Dictionaries, Methodik d
 
 
 ## Literatur:
-- Vorlesungsunterlagen: Foliensammlung, ausformuliertes Skript, Beispiellösungen- Fachliteratur: Bishop, J.: „Java Lernen“- Sedgewick, R.: „Algorithmen in Java“- Barnes, J., Kölling, M.: „Java Lernen mit BlueJ“, Verweise auf Onlinedokumente
+- Vorlesungsunterlagen: Foliensammlung, ausformuliertes Skript, Beispiellösungen, Verweise auf Onlinedokumente
+
+- J. Bishop
+
+  Java Lernen
+
+- R. Sedgewick
+
+  Algorithmen in Java
+
+- J. Barnes, M. Kölling,
+
+  Java Lernen mit BlueJ
 

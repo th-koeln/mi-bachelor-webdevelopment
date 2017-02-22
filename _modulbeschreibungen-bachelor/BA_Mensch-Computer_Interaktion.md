@@ -15,53 +15,48 @@ published: true
 type: pm
 ---
 
-## Lehrform/SWS: 
+## Lehrform/SWS:
 Vorlesung und Übung
 
-
 ## Arbeitsaufwand: 
-300 h, davon 65h Vorlesung, 65h Übung, 170 h Selbststudium
-10 ECTS
 
 
+Gesamtaufwand 300 h, davon 
+
+* 65h Vorlesung
+* 65h Übung
+* 170 h Selbststudium
 
 ## Angestrebte Lernergebnisse:
-Die Studierenden erwerben Grundkenntnisse in kognitions-, arbeits- und organisations-psychologischen Grundkonzepten und können diese 
-auf Problemstellungen im Kontext der Mensch-Computer Interaktion anwenden. 
-
-Die Studierenden kennen Modelle, Methoden, Arbeits- und Dokumentationstechniken der Mensch-Computer Interaktion, können sie anwenden, 
-kritisch diskutieren und für konkrete Aktivitäten in Entwicklungsprojekten unter Abwägung der Alternativen auswählen. 
-
-Sie kennen relevante internationale Normen und Standards, können sie anwenden und kritisch diskutieren, kennen methodische Ansätze 
-benutzer- oder benutzungsorientierter Entwicklungsprozesse und können diese systematisch und iterativ auf die Konzeption, Realisation, 
-Evaluation und das Redesign von interaktiven Systemen anwenden. 
-
-Zudem kennen sie Konzepte und Vorgehensmodelle für die Integration von Software- und Usability Engineering in einem Gesamtprozess und 
-können diese in Entwicklungsprojekten anwenden. 
-
-Die Studierenden erlangen die Fähigkeit zum fachlichen Diskurs.
+* Die Studierenden erwerben Grundkenntnisse in kognitions-, arbeits- und organisations-psychologischen Grundkonzepten und können diese auf Problemstellungen, im Kontext der Mensch-Computer Interaktion, anwenden. 
+* Die Studierenden kennen Modelle, Methoden, Arbeits- und Dokumentationstechniken der Mensch-Computer Interaktion, können sie anwenden, kritisch diskutieren und für konkrete Aktivitäten in Entwicklungsprojekten unter Abwägung der Alternativen auswählen. 
+* Sie kennen relevante internationale Normen und Standards, können sie anwenden und kritisch diskutieren .
+* Sie kennen methodische Ansätze benutzer- oder benutzungsorientierter Entwicklungsprozesse und können diese systematisch und iterativ auf die Konzeption, Realisation, Evaluation und das Redesign von interaktiven Systemen anwenden. 
+* Zudem kennen sie Konzepte und Vorgehensmodelle für die Integration von Software- und Usability Engineering in einem Gesamtprozess und können diese in Entwicklungsprojekten anwenden. 
+* Die Studierenden erlangen die Fähigkeit zum fachlichen Diskurs.
 
 
 ## Inhalt:
 
--	Kognitionspsychologische Grundlagen
--	Benutzermodellierung
--	Tätigkeitsmodellierung
--	Spezifikationsformen für Nutzungskontexte
--	Spezifikation von Nutzungsanforderungen
--	Interaktionsmodelle
--	Interaktionsmodalitäten und –kodalitäten
--	Vorgehensmodelle (human-centered, usability-engineering, usage-centered design)
--	Design-Prinzipien, -Pattern, -Guidelines, -Styleguides
--	Prototyping und -Sketching
--	Evaluation
+- kognitionspsychologische Grundlagen
+- Benutzermodellierung
+- Tätigkeitsmodellierung
+- Spezifikationsformen für Nutzungskontexte
+- Spezifikation von Nutzungsanforderungen
+- Interaktionsmodelle
+- Interaktionsmodalitäten und –kodalitäten
+- Vorgehensmodelle (human-centered, usability-engineering, usage-centered design)
+- Design-Prinzipien, -Pattern, -Guidelines, -Styleguides
+- Prototyping und Sketching
+- Evaluation
 
-- 
 ## Studien-/Prüfungsleistungen:
-schriftliche Modulprfung
+schriftliche Modulprüfung
 
 ## Medienformen:
-Beamergestützte Vorlesung, Case Studies, Lehrfilme
+* Beamergestützte Vorlesung
+* Case Studies
+* Lehrfilme
 
 ## Literatur:
 - Dix, A.; Finlay, J.; Abowd, G. & Beale, R.: Human-Computer Interaction. Harlow, Pearson, 2004 (3rd ed.),

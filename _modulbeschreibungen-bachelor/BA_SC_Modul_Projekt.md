@@ -16,19 +16,22 @@ type: tm
 parent: SC
 ---
 
-## Lehrform/SWS: 4 SWS Projekt
+## Lehrform/SWS:
 
+4 SWS Projekt
 
-## Arbeitsaufwand: 150 h, davon 150h Projekt 
+## Arbeitsaufwand: 
 
+150h Projekt
 
 ## Angestrebte Lernergebnisse:
+
 TODO
 
 
 ## Inhalt:
 TODO
- 
+
 ## Studien-/Prüfungsleistungen:
 TODO
 

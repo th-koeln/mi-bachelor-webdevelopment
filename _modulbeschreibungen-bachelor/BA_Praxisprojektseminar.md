@@ -19,8 +19,10 @@ type: pm
 Seminar
 
 ## Arbeitsaufwand:
-Seminar: 32 Stunden
-Selbststudium: 118 Stunden
+Gesamtaufwand 150 h, davon 
+
+* 32 h Seminar
+* 118 h Selbststudium
 
 ## Angestrebte Lernergebnisse:
 Die Studierenden  
@@ -34,7 +36,7 @@ Die Studierenden
 - können eigene Projektergebnisse vor einem Fachpublikum in Vortrag und Diskussion darstellen und verteidigen
 
 ## Inhalt:
-Das Praxisprojektseminar besteht aus:
+Das Praxisprojektseminar besteht aus
 
 - Veranstaltungen in denen Techniken wissenschaftlichen Arbeitens vermittelt werden,
 
