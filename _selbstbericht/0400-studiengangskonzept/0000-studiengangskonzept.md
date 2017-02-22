@@ -93,7 +93,7 @@ Um den Studierende fundierte Entwicklungskompetenz zu vermitteln, wird ein Modul
 
 
 Module eines Schwerpunkts näher zusammen bringen Projektkontexte reduzieren
-Workflow berücksichtigen
+
 Projektorientierung berücksichtigen
 Projektgrößen sinnvoll aufbauen mehr Wahlmöglichkeiten weniger Prüfungselemente
 Austauschsemester in 5

@@ -1,9 +1,9 @@
 ---
 title: Soll-Zustand/ geplante Veränderungen
-aktueller-bearbeiter: 
+aktueller-bearbeiter:
 bearbeiterhistorie: Kristian Fischer
 date: 22.02.2017
-comment: Präludium hinzugefügt: bitte reviewen!
+comment: Präludium hinzugefügt bitte reviewen!
 status: fast vollständig
 reviewed-von:
 ---
