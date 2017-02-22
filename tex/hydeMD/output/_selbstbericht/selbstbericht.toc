@@ -35,6 +35,7 @@
 \contentsline {subsection}{\numberline {5.1.2}Verbesserter Aufbau der projektorientierten Module und der Projektgr\IeC {\"o}\IeC {\ss }en}{19}{subsection.5.1.2}
 \contentsline {subsection}{\numberline {5.1.3}Strukturierte M\IeC {\"o}glichkeit zur individuellen Fachvertiefung}{20}{subsection.5.1.3}
 \contentsline {subsection}{\numberline {5.1.4}Weitere \IeC {\"A}nderungen}{20}{subsection.5.1.4}
+\contentsline {section}{\numberline {5.2}Auswirkungen auf die Lehrkapazit\IeC {\"a}t}{21}{section.5.2}
 \contentsline {chapter}{\numberline {6}Geplante Ver\IeC {\"a}nderungen des Master-Studiengangs gegen\IeC {\"u}ber dem aktuellen Akkreditierungszeitraum}{22}{chapter.6}
 \contentsline {section}{\numberline {6.1}Sch\IeC {\"a}rfung des Profils}{22}{section.6.1}
 \contentsline {subsection}{\numberline {6.1.1}Schwerpunkt Social Computing}{23}{subsection.6.1.1}
@@ -56,12 +57,19 @@
 \contentsline {section}{\numberline {11.1}Studienphasen}{37}{section.11.1}
 \contentsline {section}{\numberline {11.2}Prinzipien}{37}{section.11.2}
 \contentsline {chapter}{\numberline {12}Studierbarkeit}{39}{chapter.12}
-\contentsline {section}{\numberline {12.1}Struktur}{42}{section.12.1}
-\contentsline {section}{\numberline {12.2}Arbeitslast}{42}{section.12.2}
-\contentsline {section}{\numberline {12.3}Leistungspunktesystem}{43}{section.12.3}
-\contentsline {section}{\numberline {12.4}Pr\IeC {\"u}fungen}{43}{section.12.4}
-\contentsline {section}{\numberline {12.5}Studien/Pr\IeC {\"u}fungsordnungen}{43}{section.12.5}
-\contentsline {section}{\numberline {12.6}Ma\IeC {\ss }nahmen zur Beratung von Studieninteressierten und Studierenden}{43}{section.12.6}
+\contentsline {section}{\numberline {12.1}Bachelor Medieninformatik}{41}{section.12.1}
+\contentsline {subsection}{\numberline {12.1.1}Zugangsvoraussetzungen}{41}{subsection.12.1.1}
+\contentsline {subsection}{\numberline {12.1.2}Allgemeine/fachgebundene Hochschulreife, Fachhochschulreife, einschl\IeC {\"a}gige Berufserfahrung}{41}{subsection.12.1.2}
+\contentsline {subsection}{\numberline {12.1.3}Praktika/Berufserfahrung}{41}{subsection.12.1.3}
+\contentsline {subsection}{\numberline {12.1.4}Fremdsprachenkenntnisse, Deutschkenntnisse}{41}{subsection.12.1.4}
+\contentsline {subsection}{\numberline {12.1.5}Eignungsfeststellung}{41}{subsection.12.1.5}
+\contentsline {section}{\numberline {12.2}Master Medieninformatik}{42}{section.12.2}
+\contentsline {section}{\numberline {12.3}Struktur}{42}{section.12.3}
+\contentsline {section}{\numberline {12.4}Arbeitslast}{42}{section.12.4}
+\contentsline {section}{\numberline {12.5}Leistungspunktesystem}{43}{section.12.5}
+\contentsline {section}{\numberline {12.6}Pr\IeC {\"u}fungen}{43}{section.12.6}
+\contentsline {section}{\numberline {12.7}Studien/Pr\IeC {\"u}fungsordnungen}{43}{section.12.7}
+\contentsline {section}{\numberline {12.8}Ma\IeC {\ss }nahmen zur Beratung von Studieninteressierten und Studierenden}{43}{section.12.8}
 \contentsline {chapter}{\numberline {13}Pr\IeC {\"u}fungssystem}{45}{chapter.13}
 \contentsline {section}{\numberline {13.1}Studien/Pr\IeC {\"u}fungsordnungen}{46}{section.13.1}
 \contentsline {chapter}{\numberline {14}Studiengangsbezogene Kooperationen}{47}{chapter.14}
@@ -165,13 +173,3 @@
 \contentsline {chapter}{\numberline {19}Backlog}{68}{chapter.19}
 \contentsline {chapter}{\numberline {20}Inhalte aus dem Antrag, die \IeC {\"u}brig geblieben sind}{69}{chapter.20}
 \contentsline {section}{\numberline {20.1}Geplante \IeC {\"A}nderungen des Master-Studiengangs}{70}{section.20.1}
-\contentsline {chapter}{\numberline {21}Ver\IeC {\"a}nderungen des Studienprogramms}{72}{chapter.21}
-\contentsline {section}{\numberline {21.1}Ver\IeC {\"a}nderungen des Bachelorstudienprogramms}{72}{section.21.1}
-\contentsline {section}{\numberline {21.2}Geplante Ver\IeC {\"a}nderungen Bachelor}{72}{section.21.2}
-\contentsline {section}{\numberline {21.3}Synergien innerhalb der Informatik Bachelor Studieng\IeC {\"a}nge}{73}{section.21.3}
-\contentsline {section}{\numberline {21.4}Ver\IeC {\"a}nderungen des Masterstudienprogramms}{73}{section.21.4}
-\contentsline {section}{\numberline {21.5}Geplante Ver\IeC {\"a}nderungen Master}{73}{section.21.5}
-\contentsline {section}{\numberline {21.6}Synergien innerhalb der Informatik Master Studieng\IeC {\"a}nge}{74}{section.21.6}
-\contentsline {section}{\numberline {21.7}\IeC {\"U}bergreifende Ausrichtung}{74}{section.21.7}
-\contentsline {chapter}{\numberline {22}Vereinbarkeit mit der Fakult\IeC {\"a}tsplanung}{76}{chapter.22}
-\contentsline {chapter}{\numberline {23}Zusammenfassung}{77}{chapter.23}
