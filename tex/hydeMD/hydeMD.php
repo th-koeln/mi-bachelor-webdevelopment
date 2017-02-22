@@ -7,14 +7,111 @@ require 'vendors/yaml.php';
 
 /* Helper functions */
 function cmdExists( $cmd ) {
-
   $whichRetVal = 1;
   $whichOutput = array();
   exec( 'which ' . $cmd, $whichOutput, $whichRetVal );
 
   return $whichRetVal === 0;
+}
+
+
+function expandHeadingHierarchy( &$headings, $currHeadingHierarchyLine, $item = null ) {
+
+  if( count( $currHeadingHierarchyLine) === 0 ) {
+    if( !is_null( $item ) ) {
+      $headings[ 'lines' ][] = $item;
+    }
+    return;
+  }
+
+  $heading = array_shift( $currHeadingHierarchyLine );
+
+  if( !isset( $headings[ 'sub' ][ $heading ] ) ) {
+    $headings[ 'sub' ][ $heading ] = array(
+      'sub'   => array(),
+      'lines' => array()
+    );
+  }
+
+  expandHeadingHierarchy( $headings[ 'sub' ][ $heading ], $currHeadingHierarchyLine, $item );
 
 }
+
+
+function removeEmptyHeadingSections( &$headings ) {
+
+  $cnt = 0;
+
+  foreach( $headings[ 'sub' ] as $heading => &$headingInfo ) {
+    $childCnt = removeEmptyHeadingSections( $headingInfo );
+
+    if( $childCnt === 0 ) {
+      unset( $headings[ 'sub' ][ $heading ] );
+    }
+
+    $cnt += $childCnt;
+  }
+
+  $cnt += count( $headings[ 'lines' ] );
+
+  return $cnt;
+}
+
+
+function flattenHeadingHierarchy( $headings ) {
+
+  $lines = array();
+
+  foreach( $headings[ 'sub' ] as $heading => $headingInfo ) {
+    $lines[] = "\n" . $heading . "\n";
+
+    $headingLines = flattenHeadingHierarchy( $headingInfo );
+
+    $lines = array_merge( $lines, $headingLines );
+  }
+
+  $headings[ 'lines' ] = array_map( function( $item ) {
+    return $item . "\n";
+  }, $headings[ 'lines' ] );
+
+  $lines = array_merge( $lines, $headings[ 'lines' ] );
+
+  return $lines;
+}
+
+
+function parseHierarchy( $lines ) {
+
+  $headings = array(
+    'sub'   => array(),
+    'lines' => array()
+  );
+  $currHeadingHierarchyLine = array();
+
+  foreach( $lines as $line ) {
+
+    $match = array();
+
+    if( preg_match( '/^\s*(#+?)(?!#)(.*)/', $line , $match ) ) {
+      $currLvl     = strlen( $match[1] );
+      $currHeading = trim( $match[0] );
+
+      $currHeadingHierarchyLine = array_slice( $currHeadingHierarchyLine, 0, $currLvl - 1 );
+
+      $currHeadingHierarchyLine[] = $currHeading;
+
+      expandHeadingHierarchy( $headings, $currHeadingHierarchyLine );
+
+    }
+    else {
+      expandHeadingHierarchy( $headings, $currHeadingHierarchyLine, $line );
+    }
+  }
+
+  return $headings;
+
+}
+
 
 
 
@@ -250,6 +347,35 @@ class Document {
         return '![' . $attrsAssocArr[ 'caption' ] . '](' . $attrsAssocArr[ 'url' ] . ')';
       }, $page->content );
 
+
+
+      /* page-specific preprocessing */
+      $pageName = $this->getSimpleDocumentName();
+
+      switch( $pageName ) {
+        case 'modulbeschreibungen-bachelor':
+
+          $lines = array_filter( explode( "\n", $page->content ) );
+
+
+          $headingHierarchy = parseHierarchy( $lines );
+
+          removeEmptyHeadingSections( $headingHierarchy );
+
+          /*
+          if(  $path === '../../_modulbeschreibungen-bachelor/BA_Vertiefung-Web_Development.md' ) {
+            var_dump( array_keys( $headingHierarchy[ 'sub' ][ '# Web Development' ][ 'sub' ][ '## Angestrebte Lernergebnisse:' ][ 'sub' ][ '### Internet of Things:' ] ) );
+          }
+          */
+
+          $cleanedLines = flattenHeadingHierarchy( $headingHierarchy );
+
+          $page->content = implode( "\n", $cleanedLines );
+
+          break;
+      }
+
+
     }
 
     if( $svgsFound ) {
@@ -338,17 +464,32 @@ class Document {
 
   private function postprocessLatex( $latexContent ) {
 
-    /* TODO: Clean up; ugly hack */
-    $latexContent = str_replace( '\section', '\chapter', $latexContent );
-    $latexContent = str_replace( '\subsection', '\section', $latexContent );
-    $latexContent = str_replace( '\subsubsection', '\subsection', $latexContent );
+    $pageName = $this->getSimpleDocumentName();
 
-    $latexContent = str_replace( '{0.07\columnwidth}', '{0.5\columnwidth}', $latexContent );
-    $latexContent = str_replace( '{0.06\columnwidth}', '{0.33\columnwidth}', $latexContent );
+    switch( $pageName ) {
+      case 'selbstbericht':
+
+        $latexContent = str_replace( '\section', '\chapter', $latexContent );
+        $latexContent = str_replace( '\subsection', '\section', $latexContent );
+        $latexContent = str_replace( '\subsubsection', '\subsection', $latexContent );
+
+        $latexContent = str_replace( '{0.07\columnwidth}', '{0.5\columnwidth}', $latexContent );
+        $latexContent = str_replace( '{0.06\columnwidth}', '{0.33\columnwidth}', $latexContent );
 
 
-    $latexContent = preg_replace( '/begin{figure}/', 'begin{figure}[htbp]', $latexContent );
-    $latexContent = preg_replace( '/includegraphics/', 'includegraphics[width=\columnwidth]', $latexContent );
+        $latexContent = preg_replace( '/begin{figure}/', 'begin{figure}[htbp]', $latexContent );
+        $latexContent = preg_replace( '/includegraphics/', 'includegraphics[width=\columnwidth]', $latexContent );
+
+        break;
+
+      case 'modulbeschreibungen-bachelor':
+
+        $latexContent = str_replace( '\section', '\chapter', $latexContent );
+        $latexContent = str_replace( '\subsection', '\section*', $latexContent );
+        $latexContent = str_replace( '\subsubsection', '\subsection*', $latexContent );
+
+        break;
+    }
 
     return $latexContent;
   }

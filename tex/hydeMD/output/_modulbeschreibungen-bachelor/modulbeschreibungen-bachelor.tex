@@ -34,6 +34,8 @@
 \usepackage{graphicx}
 \usepackage{grffile}
 
+\usepackage{float}
+
 %Paket für mehrseitige Tabellen
 \usepackage{longtable}
 
@@ -69,7 +71,7 @@
 \setlength\footheight{40pt}
 %\lfoot{\includegraphics[height=40pt]{../assets/box.pdf}}
 \rfoot{\thepage}
-\lfoot{\changefont Modulbeschreibun Bachelor Medieninformatik\\TH Köln // Institut für Informatik\\ \today}
+\lfoot{\changefont Modulbeschreibungen Bachelor Medieninformatik\\TH Köln // Institut für Informatik\\ \today}
 
 
 %\UTF{0192}ndert die Seitennummerierung beim Inhaltsverzeichnis mit eigenem Stil
@@ -134,7 +136,7 @@
 
 %Paket zur Erzeugung von Hyperrefs und PDF Informationen
 \usepackage[pdftex,plainpages=false,pdfpagelabels,
-            pdftitle={ Modulbeschreibun Bachelor Medieninformatik // TH Köln // Institut für Informatik},
+            pdftitle={ Modulbeschreibungen Bachelor Medieninformatik // TH Köln // Institut für Informatik},
             pdfauthor={}
             ]{hyperref}
 
@@ -162,16 +164,21 @@
 \usepackage[sfdefault,light]{roboto}  %% Option 'sfdefault' only if the base font of the document is to be sans serif
 
 
-\usepackage{titlesec}
+\usepackage[raggedright]{titlesec}
 \titleformat{\chapter}[display]
   {\normalfont\sffamily\mdseries}
-  {\chaptertitlename\ \thechapter}{14pt}{\huge}
+  {\chaptertitlename\ \thechapter}{14pt}{\huge\raggedright}
 \titleformat{\section}
-  {\normalfont\sffamily\mdseries\large\color{m_pink}}
-  {\thesection}{1em}{\large}
+  {\normalfont\sffamily\mdseries\LARGE\color{m_pink}\raggedright}
+  {\thesection}{1em}{\LARGE}
 \titleformat{\subsection}
-  {\normalfont\sffamily\mdseries\large}
+  {\normalfont\sffamily\mdseries\large\raggedright}
   {\thesubsection}{1em}{\large}
+% Zeilenumbruch und Spacing für Absätze
+\titleformat{\paragraph}[hang]
+  {\normalfont\normalsize\bfseries}
+  {\theparagraph}{1em}{}
+\titlespacing*{\paragraph}{0pt}{3.25ex plus 1ex minus .2ex}{0.5em}
 
 \usepackage[T1]{fontenc}
 
@@ -195,7 +202,10 @@
 
 \begin{document}
 
-%=== Inhaltsverzeichnis =======================================================
+%=== Deckblatt =======================================================
+\include{coversheet}
+
+%=== Inhaltsverzeichnis ==============================================
 \tableofcontents
 
 %=== Hauptteil =======================================================
