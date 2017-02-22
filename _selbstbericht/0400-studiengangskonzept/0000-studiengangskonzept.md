@@ -86,7 +86,7 @@ cn: hier fehlt noch sinnvoller Text
 
 ## Studienkonzept Bachelor
 
-Um die Qualifikationsziele des Studiengangs zu erreichen, das Studium sinnvoll in das Lehrportfolio der Fakultät einbetten zu können und um eine größtmögliche Zufriedenheit bei den Studierenden zu erzielen, ist das Studiengangskonzept an mehreren Prinzipien ausgerichtet.
+Um die Qualifikationsziele des Studiengangs zu erreichen, das Studium sinnvoll in das Lehrportfolio der Fakultät einbetten zu können und um eine größtmögliche Zufriedenheit bei den Studierenden zu erzielen, ist das Studiengangskonzept wie folgt aufgebaut.
 
 ### Studienphasen und -säulen
 
@@ -126,6 +126,8 @@ Projektorientierung und forschendes Lernen sind seit der Erstakkreditierung des 
 - Modulhandbuch Medieninformatik Bachelor[^modulhandbuch-bachelor]
 
 ## Master
+
+Um die Qualifikationsziele des Studiengangs zu erreichen, das Studium sinnvoll in das Lehrportfolio der Fakultät einbetten zu können und um eine größtmögliche Zufriedenheit bei den Studierenden zu erzielen, ist das Studiengangskonzept an mehreren Prinzipien ausgerichtet.
 
 ### Prinzipien
 
