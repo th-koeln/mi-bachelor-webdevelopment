@@ -8,7 +8,7 @@ status: fast vollständig
 reviewed-von:
 ---
 
-Seit der Reakkreditierung der Medieninformatik Studiengänge vor sieben Jahren haben sich sowohl die Berfusbilder der Absolventen als auch der Diskurs über Curricula der Medieninformatik weiterentwickelt. Wir sehen vor allem drei Felder, in denen die Perspektive der Medieminformatik erhebliche Relevanz erlangt hat:
+Seit der Reakkreditierung der Medieninformatik Studiengänge vor sieben Jahren haben sich sowohl die Berfusbilder der Absolventinnen und Absolventen als auch der Diskurs über Curricula der Medieninformatik weiterentwickelt. Wir sehen vor allem drei Felder, in denen die Perspektive der Medieminformatik erhebliche Relevanz erlangt hat:
 - die Modelle und Methoden der Mensch-Computer-Interaktion (MCI) haben sich nicht zuletzt in der entsprechenden Fachgruppe der Gesellschaft für Informatik (GI) als ein konstituierdens Element des Gebiets "Medieninformatik" herauskristallisiert. 
 - die Entwicklung von Anwendungen im und für das Web hat sich zunehmend als eines Feld der Systementwicklung herauskristallisiert. Während die Wirtschaftsinformatik und die allgemeine Informatik das Web als Plattform für Geschäftsprozesse bzw. als technische Plattform in den Vordergrund stellen, steht in der Medieninformatik das Web selbst als gesellschaftliches und ökonomisches Phänomen im Vordergrund, das durch die Vernetzung von Personen, Diensten, Daten und Dingen ("things") nee technische, soziale und ökonomische Qualitäten hervorruft. 
 - digitale Medien wie audiovisuelle Medien, Visualisierungen, virtuelle oder angereicherte Welten ("virtual and augmented realities") haben als eines der konstituiereden Felder der Medieninformatik in den letzten Jahren stark an Bedeutung gewonnen.
