@@ -5,17 +5,16 @@ bearbeiterhistorie: Kristian Fischer
 date: 22.02.2017
 comment: Präludium hinzugefügt bitte reviewen!
 status: fast vollständig
-reviewed-von: Robert Gabriel
-reviewed-comment: Erste Abbildung hat Legende in der Bildunterschrift, bei der Zweiten ist es in der Abbildung; besser konsistent!?
+reviewed-von:
 ---
 
-Seit der Reakkreditierung der Medieninformatik Studiengänge vor sieben Jahren haben sich sowohl die Berfusbilder der Absolventinnen und Absolventen als auch der Diskurs über Curricula der Medieninformatik weiterentwickelt. Wir sehen vor allem drei Felder, in denen die Perspektive der Medieninformatik erhebliche Relevanz erlangt hat:
-- die Modelle und Methoden der Mensch-Computer-Interaktion (MCI) haben sich nicht zuletzt in der entsprechenden Fachgruppe der Gesellschaft für Informatik (GI) als ein konstituierdens Element des Gebiets "Medieninformatik" herauskristallisiert. 
-- die Entwicklung von Anwendungen im und für das Web hat sich als ein zunehmend eigenständiges Feld der Systementwicklung herauskristallisiert. Während die Wirtschaftsinformatik und die allgemeine Informatik das Web als Plattform für Geschäftsprozesse bzw. als technische Plattform in den Vordergrund stellen, steht in der Medieninformatik das Web selbst als gesellschaftliches und ökonomisches Phänomen im Vordergrund, das durch die Vernetzung von Personen, Diensten, Daten und Dingen ("things") neue technische, soziale und ökonomische Qualitäten hervorruft. 
-- digitale Medien wie audiovisuelle Medien, Visualisierungen oder virtuelle oder angereicherte Welten ("virtual and augmented realities") haben als eines der konstituiereden Felder der Medieninformatik in den letzten Jahren stark an Bedeutung gewonnen.
-In diesen drei Feldern beobachten wir auch, dass ein signifikanter Anteil unserer Absolventen ihre berufliche Zukunft sucht. 
+Seit der Reakkreditierung der Medieninformatik Studiengänge vor sieben Jahren haben sich sowohl die Berufsbilder der Absolventinnen und Absolventen als auch der Diskurs über Curricula der Medieninformatik weiterentwickelt. Wir sehen vor allem drei Felder, in denen die Perspektive der Medieninformatik erhebliche Relevanz erlangt hat:
+- die Modelle und Methoden der Mensch-Computer-Interaktion (MCI) haben sich nicht zuletzt in der entsprechenden Fachgruppe der Gesellschaft für Informatik (GI) als ein konstituierendes Element des Gebiets "Medieninformatik" herauskristallisiert. 
+- die Entwicklung von Anwendungen im und für das Web hat sich als ein zunehmend eigenständiges Feld der Systementwicklung etabliert. Während die Wirtschaftsinformatik und die allgemeine Informatik das Web als Plattform für Geschäftsprozesse bzw. als technische Plattform in den Vordergrund stellen, steht in der Medieninformatik das Web selbst als gesellschaftliches und ökonomisches Phänomen im Vordergrund, das durch die Vernetzung von Personen, Diensten, Daten und Dingen ("things") neue technische, soziale und ökonomische Qualitäten hervorruft. 
+- digitale Medien wie audiovisuelle Medien, Visualisierungen oder virtuelle oder angereicherte Welten ("virtual and augmented realities") haben als eines der konstituierenden Felder der Medieninformatik in den letzten Jahren stark an Bedeutung gewonnen.
+In diesen drei Feldern beobachten wir auch, dass ein signifikanter Anteil unserer Absolventinnen und Absolventen ihre berufliche Zukunft sucht. 
 
-Darüber hinaus hat das Institut für Informatik beschlossen als Zukunftsfeld den Bereich "Social Computing" zu gestalten. Hierunter werden Methoden, Techniken und Modelle für den Einsatz von oft Web basierten IT Systemen im gesellschaftlichen Kontext subsummiert, also etwa Lernsysteme, Assistenzsysteme oder auch Systeme für die gesellschaftliche und politische Teilhabe.Dieses Feld wird zunächst als Teil der Studiengänge der Medieninformatik aufgebaut.
+Darüber hinaus hat das Institut für Informatik beschlossen, als Zukunftsfeld den Bereich "Social Computing" zu gestalten. Hierunter werden Methoden, Techniken und Modelle für den Einsatz von in der Regel Web basierten IT Systemen im gesellschaftlicen Kontext subsummiert, also etwa Lernsysteme, Assistenzsysteme oder auch Systeme für die gesellschaftliche und politische Teilhabe. Dieses Feld wird zunächst als Teil der Studiengänge der Medieninformatik aufgebaut.
 
 
 ## Weiterentwicklung des Lehrportfolios des Institut für Informatik
@@ -23,18 +22,18 @@ Darüber hinaus hat das Institut für Informatik beschlossen als Zukunftsfeld de
 Im Antrag für die "Anstehende Wiederzuweisung von fünf Professuren im Institut für Informatik"[^antrag-wiederzuweisung] wird der Lehr- und Forschungsbereich "Soziotechnische Systeme" wie folgt argumentiert:
 
 > Die Informatik als wissenschaftliche Disziplin allgemein und auch das Institut für Informatik im Besonderen muss sich der Tatsache stellen, dass der technische und wissenschaftliche Fortschritt auf diesem Fachgebiet nach wie vor rasant ist. Dem versucht das Institut nicht nur durch stetige inhaltliche Weiterentwicklung seiner Studiengänge und Module gerecht zu werden, sondern hier werden auch neue, auf Nachhaltigkeit ausgerichtete Entwicklungen wahrgenommen und bei ausreichender Relevanz in die Überlegungen zur Weiterentwicklung des Angebots einbezogen.
-> Eine solche – aus Sicht des Instituts für Informatik besonders interessante, spannende, wichtige und zukunftsträchtige – zeigt sich aktuell im Themenfeld Soziotechnischer Systeme. Folgende Bereiche sind hier exemplarisch zu nennen:
-> - Assistenzsysteme für Tätigkeiten: sportliches Training, Navigation, Robotik (Staubsaugen, Lebensrettung, schwierige Umgebungen), Autofahren, Büro, Produktionsumgebungen
-> - Assistenzsysteme für Bevölkerungsgruppen: alte Menschen, behinderte Menschen, Kinder , Menschen im Alltag
+> Eine solche – aus Sicht des Instituts für Informatik – besonders interessante, spannende, wichtige und zukunftsträchtige Entwicklung  zeigt sich aktuell im Themenfeld Soziotechnischer Systeme. Folgende Bereiche sind hier exemplarisch zu nennen:
+> - Assistenzsysteme für Tätigkeiten: Sportliches Training, Navigation, Robotik (Staubsaugen, Lebensrettung, schwierige Umgebungen), Autofahren, Büro, Produktionsumgebungen
+> - Assistenzsysteme für Bevölkerungsgruppen: alte Menschen, behinderte Menschen, Kinder, Menschen im Alltag
 > - Kommunikationshilfen: Suchmaschinen, soziale Medien, Sprach-Ein- und Ausgabe, Blindenschrift-Displays und andere spezielle Formen der MCI
 >
 > In all diesen Bereichen zeichnet sich bereits heute eine große, künftig noch stark zunehmende Bedeutung von IT-Systemen ab, zu deren Funktionen nicht nur technisches Wissen, sondern auch Fach- und Methodenwissen aus unterschiedlichen Spezialgebieten innerhalb der Informatik benötigt wird. Um diesen neuen Entwicklungen gerecht zu werden, soll zunächst ein geringer Anteil der Kapazität für dieses neue Themenfeld zur Verfügung gestellt werden. Entsprechende Lehrveranstaltungen können und sollen dann zunächst in Form von Wahlpflichtfächern angeboten werden. Die entsprechenden Voraussetzung im Modulkatalog werden, sofern erforderlich, kurzfristig geschaffen. Pflichtfächer werden dadurch nicht beeinträchtigt.
 >
 > Das Themenfeld „IT für Menschen“ wird auf absehbare Zeit als attraktiv angesehen, sowohl für Forscher als auch für Unternehmen und nicht zuletzt vor allem auch für Studieninteressierte. Wegen der nicht nur technischen Ausrichtung ist aufgrund bisheriger Erfahrungen auch ein signifikanter Anteil weiblicher Studierender zu erwarten. Das Themenfeld bietet darüber hinaus viele Anknüpfungsmöglichkeiten an bereits vorhandene Kompetenzen: Datenbanken, Medieninformatik, Softwaretechnik, Ergonomie, MCI, Kommunikationstechnik, technische Spezialthemen, mobile Systeme und Anwendungen u. v. m.
 >
-> Die starke Durchdringung der Gesellschaft mit leistungsfähigen, zunehmend mobilen, mit umfangreicher Sensorik ausgestatteten Endgeräten, eröffnet auch hier teilweise völlig neue Fragestellungen und Möglichkeiten. In Kombinationen mit den alten und anderen neuen Schwerpunkten eröffnet der Studienbereich „IT für Menschen“ auch neues Forschungsfeld. Mittelfristiges Ziel ist es, hier ein neues Studienangebot zu realisieren, dass auch aus den vom Präsidium für solche Zwecke in Aussicht gestellten neuen Professuren gespeist wird und nicht zu Lasten vorhandener Ressourcen – weder in der Lehreinheit Informatik noch in der Lehreinheit Ingenieurwissenschaften – geht. Das benötigte Know-how ist zum großen Teil bereits vorhanden und soll durch Wahlpflichtangebote in diesem Bereich ergänzt werden.
+> Die starke Durchdringung der Gesellschaft mit leistungsfähigen, zunehmend mobilen, mit umfangreicher Sensorik ausgestatteten Endgeräten, eröffnet auch hier teilweise völlig neue Fragestellungen und Möglichkeiten. In Kombinationen mit den bestehenden alten und anderen neuen Schwerpunkten eröffnet der Studienbereich „IT für Menschen“ auch ein neues Forschungsfeld. Mittelfristiges Ziel ist es, hier ein neues Studienangebot zu realisieren, dass auch aus den vom Präsidium für solche Zwecke in Aussicht gestellten neuen Professuren gespeist wird und nicht zu Lasten vorhandener Ressourcen – weder in der Lehreinheit Informatik noch in der Lehreinheit Ingenieurwissenschaften – geht. Das benötigte Know-how ist zum großen Teil bereits vorhanden und soll durch Wahlpflichtangebote in diesem Bereich ergänzt werden.
 
-Der Lehr- und Forschungsbereich "Soziotechnische Systeme" findet sich in den zu akkreditierenden Curricula unter dem Begriff "Social Computing". Dieser Themenkomplex soll im Bachelor Studienprogramm als Vertiefungsmodul und im Master als Schwerpunkt verankert werden.
+Das Lehr- und Forschungsbereich "Soziotechnische Systeme" findet sich in den zu akkreditierenden Curricula unter dem Begriff "Social Computing". Dieser Themenkomplex soll im Bachelor Studienprogramm als Vertiefungsmodul und im Master als Schwerpunkt verankert werden.
 
 ## Geplante Veränderungen des Bachelor-Studiengangs gegenüber dem aktuellen Akkreditierungszeitraum
 
@@ -61,11 +60,11 @@ Mit einer Verbesserung des Studienaufbaus sollen folgende bekannte Defizite ausg
 - zu starke Fragmentierung von Modulen und der projektorientierten Praxisanteile
 - zu viele „Baustellen“
 
-Die starke Projektorientierung wird und wurde insgesamt als positiv bewertet. Jedoch ist die Verteilung der Module mit Projektanteil derzeit nicht optimal. So sind z.B. im dritten Fachsemester momentan 7 Module angesiedelt, von denen vier projektorientiert durchgeführt werden. Hingegen wird im vierten Semester kein projektorientiertes Modul angeboten. Um hier die Aufwände gleichmäßiger zu verteilen wurde die Reihenfolge der Module verändert und Module wurden zusammengelegt.
+Die starke Projektorientierung wird und wurde insgesamt als positiv bewertet. Jedoch ist die Verteilung der Module mit Projektanteil derzeit nicht optimal. So sind z.B. im dritten Fachsemester momentan 7 Module angesiedelt, von denen vier projektorientiert durchgeführt werden. Hingegen wird im vierten Semester kein projektorientiertes Modul angeboten. Um hier die Aufwände gleichmäßiger zu verteilen, wurde die Reihenfolge der Module verändert und Module wurden zusammengelegt.
 
-Beim Studienaufbau wurde versucht die Modulreihenfolge auf einen groben Workflows der Softwareentwicklung auszurichten. Die prägnanteste Auswirkung dieser Maßnahme ist die Verschiebung des Moduls "Mensch-Computer Interaktion" vom vierten ins zweite Semester, um die Studierenden hier frühzeitig mit konzeptionellen Problemen und Fragestellungen wie Tätigkeitsmodellierung oder der Spezifikation von Anforderungen zu konfrontieren und ihnen hierzu entsprechende Grundkenntnisse und Fertigkeiten zu vermitteln, die in den späteren Projekten angewendet und eingeübt werden können.
+Beim Studienaufbau wurde versucht die Modulreihenfolge auf einen groben Workflow der Softwareentwicklung auszurichten. Die prägnanteste Auswirkung dieser Maßnahme ist die Verschiebung des Moduls "Mensch-Computer Interaktion" vom vierten ins zweite Semester, um die Studierenden hier frühzeitig mit konzeptionellen Problemen und Fragestellungen wie Tätigkeitsmodellierung oder die Spezifikation von Anforderungen zu konfrontieren und ihnen hierzu entsprechende Grundkenntnisse und Fertigkeiten zu vermitteln, die in den späteren Projekten angewendet und eingeübt werden können.
 
-Im vierten Semester wurde ein Vertiefungsmodul mit 20 Creditpoints installiert, auf das später noch weiter eingegangen wird. Bezogen auf den Studienaufbau wird hierdurch die Fragmentierung und die vielen Projektkontexte, die schlechtestenfalls mit vielen kleinen Modulen einhergeht, deutlich reduziert. 
+Im vierten Semester wurde ein Vertiefungsmodul mit 20 Creditpoints installiert auf das später noch weiter eingegangen wird. Bezogen auf den Studienaufbau wird hierdurch die Fragmentierung und die vielen Projektkontexte, die schlechtestenfalls mit vielen kleinen Modulen einhergeht, deutlich reduziert. 
 
 
 ### Verbesserter Aufbau der projektorientierten Module und der Projektgrößen
@@ -78,20 +77,20 @@ Hiermit sollen folgende bekannte Defizite ausgeglichen werden:
 - Zu großer Sprung der Projektgrößen
 - zu viele „Baustellen“
 
-Wie bereits beschrieben, wurden die projektorientierten Module gleichmäßiger über den Studienverlauf verteilt und projektorientierte Teilweise zusammen gelegt. Um die Projektgrößen sinnvoll aufzubauen, werden jetzt in den ersten drei Semestern Projekte mit einem Gewicht von max. 2,5 Creditpoints absolviert. Im vierten Semester folgt dann, als Teil des Vertiefungsmoduls, ein Projekt mit einem Gewicht von etwa 5 Creditpoints. Im fünften Semester folgt dann das Entwicklungsprojekt mit einem Gewicht von 10 Creditpoints. Im sechsten Semester liegt dann das Praxisprojekt mit ebenfalls 10 Creditpoints und die Bachelorarbeit mit 12 Creditpoints. Für diejenigen, die dann in Masterstudiengang wechseln wollen, bleibt die Projektgröße dann bei 12 Creditpoints.
+Wie bereits beschrieben, wurden die projektorientierten Module gleichmäßiger über den Studienverlauf verteilt und projektorientierte Module teilweise zusammen gelegt. Um die Projektgrößen sinnvoll aufzubauen, werden jetzt in den ersten drei Semestern Projekte mit einem Gewicht von max. 2,5 Creditpoints absolviert. Im vierten Semester folgt dann, als Teil des Vertiefungsmoduls, ein Projekt mit einem Gewicht von etwa 5 Creditpoints. Im fünften Semester folgt dann das Entwicklungsprojekt mit einem Gewicht von 10 Creditpoints. Im sechsten Semester liegt dann das Praxisprojekt mit ebenfalls 10 Creditpoints und die Bachelorarbeit mit 12 Creditpoints. Für diejenigen, die dann in Masterstudiengang wechseln wollen, bleibt die Projektgröße dann bei 12 Creditpoints.
 
 
 ### Strukturierte Möglichkeit zur individuellen Fachvertiefung
 
 {% include image.html url="bilder/ba-vertiefungen.svg" caption="Abbildung: Zusammenfassung von Modulen aus einem Themenfeld zu Vertiefungsmodulen im  Medieninformatik Bachelor." %}
 
-Mit diesen Änderungen sollen folgende bekannte Defizite ausgeglichen werden:
+Mit dieser Änderungen sollen folgende bekannte Defizite ausgeglichen werden:
 
 - keine Spezialisierung, zu allgemein
-- zu viele verschiedene Module mit unterschiedlichen Regularien
+- Zu viele verschiedene Module mit unterschiedlichen Regularien
 - Fehlende Möglichkeit zur strukturierten Vertiefung
-- zu viele Projektkontexte
-- zu großer Sprung der Projektgrößen
+- Zu viele Projektkontexte
+- Zu großer Sprung der Projektgrößen
 - zu viele „Baustellen“
 - zu starke Fragmentierung von Modulen und der projektorientierten Praxisanteile
 - Übergang in den Spezialisierungsteil vom vierten ins fünfte Fachsemester
@@ -113,7 +112,7 @@ Darüber hinaus wurden weitere Änderungen durchgeführt, um die folgenden Defiz
 
 Das Abschlusssemester wurde in seiner grundsätzlichen Struktur beibehalten, jedoch wurde der Seminarteil das Moduls "Praxisprojekt" ausgelagert und als eigenes Modul installiert. Hiermit wird die Studierbarkeit verbessert, da die zeitliche Kopplung des Praxis- und Seminarteils reduziert wird. Darüber hinaus ist nun das Praxisprojekt mit einem Gewicht von 10 Creditpoints ausgestattet und damit weniger gewichtig, als die Bachelorarbeit, die ein Gewicht von 12 Creditpoints hat.
 
-Das Modul "Paradigmen der Programmierung", das bislang nur im Informatik Bachelor als Pflichtmodul im Curriculum verankert war, wird jetzt ein Pflichtmodul im dritten Fachsemester in der Medieninformatik um den Studierenden bessere Kenntnisse im Bereich verschiedener Programmierkonzepte und deren Anwendung zu vermitteln.
+Das Modul "Paradigmen der Programmierung", das bislang nur im Informatik Bachelor als Pflichtmodul im Curriculum verankert war, wird jetzt ein Pflichtmodul im dritten Fachsemester in der Medieninformatik um die Studierenden bessere Kenntnisse im Bereich verschiedener Programmierkonzepte und deren Anwendung zu vermitteln.
 
 Da web-basierte Architekturen elementarer Bestandteil der Medieninformatik und dediziert in den Studiengangszielen verankert sind, wurde hierzu ein Pflichtmodul installiert, das Inhalte aus den Modulen "Web-basierte Anwendungen 1 & 2" enthält, die alle Studierenden kennen sollten, auch wenn sie sich später in einem anderen Bereich vertiefen möchten.
 
