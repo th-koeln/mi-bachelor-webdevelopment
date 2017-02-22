@@ -60,10 +60,27 @@ reviewed-von:
 cn: hier bitte die Studiengänge nur beschreiben, also bitte nicht mehr auf veränderungen eingehen, so dass wir diese Texte später weiter benutzen können. Alle Veränderungen bitte im Kapitel "Qualifikationsziele" verankern.
 ~~~
 
-## Zielgruppe
-Das Studienangebot richtet sich primär an Studierende des deutschsprachigen Raumes. Ausländische Studienbewerber werden durch ein etabliertes, durch das Sekretariat für internationale Studierende betreutes Verfahren nach Nachweis der Kenntnisse der deutschen Sprache aufgenommen.
+## Zielgruppe und Studienform
+Das Studienangebot richtet sich primär an Studierende des deutschsprachigen Raumes. Ausländische Studienbewerber werden durch ein etabliertes, durch das Sekretariat für internationale Studierende betreutes Verfahren nach Nachweis der Kenntnisse der deutschen Sprache aufgenommen. Das Lehrangebot wird in beiden Studiengängen in Form eines klassischen Präsenzstudiums erbracht.
 
-## Bachelor
+## Zusammensetzung der Studierendenschaft
+Die Darstellung des Profils der Studierendenschaft wird hier an der Lehreinheit Informatik beziehungsweise am Campus Gummersbach dargestellt[^profil-studienanfaenger-2017].
+Der Anteil weiblicher Studierender am Campus Gummersbach schwankt in den letzten Jahren um knapp 20%. Weibliche Studierende benötigen im Mittel ein Semester weniger zu einem erfolgreichen Abschluss (Basis: Lehreinheit Informatik) und erzielen dabei eine geringfügig bessere Abschlussnote als die männlichen Studierenden, sodass von einer Chancengleichheit auszugehen ist.
+16,9% der Studierenden am Campus Gummersbach verfügen über eine ausländische Staatsangehörigkeit. Die stärkste Gruppe stellen europäische Ausländer mit knapp 60%, gefolgt von asiatischen und afrikanischen Ausländern mit jeweils 18 %. Die anderen Kontinente spielen eine untergeordnete Rolle. Die Studiendauer ausländischer Studierender ist knapp zwei Semester länger als deutscher Studierender. Die Abschlussnote ist mit 2,4 schlechter als die deutscher Absolventen (2,0).
+Studierende mit einer allgemeinen Hochschulreife benötigen im Mittel ein Semester weniger als Studierende mit einer FH-Reife oder einer fachbezogenen Hochschulreife.
+
+## Studienkonzept Bachelor
+
+Um die Qualifikationsziele des Studiengangs zu erreichen, das Studium sinnvoll in das Lehrportfolio der Fakultät einbetten zu können und um eine größtmögliche Zufriedenheit bei den Studierenden zu erzielen, ist das Studiengangskonzept an mehreren Prinzipien ausgerichtet.
+
+### Studienphasen und -säulen
+
+{% include image.html url="bilder/ba-studienphasen.svg" caption="Abbildung: Studienphasen des Bachelorstudiengangs Medieninformatik" %}
+
+Die organisatorischen und inhaltliche Klammer bilden die drei, aufeinander aufbauenden, Studienphasen: Grundlagen, Vertiefung und Spezialisierung. Die Module innerhalb der Phasen, gliedern sich in zwei Säulen: Informatik Kernmodule und Medieninformatik-spezifische Module. Die Informatik Kernmodule auch von anderen Informatik Studiengängen der Fakultät 10 genutzt. Dadurch werden Synergien erzeugt und alle Informatik Studenten der Fakultät können auf die gleiche Wissensbasis zurückgreifen. Durch die Durchmischung von Studierenden unterschiedlicher Studiengänge können hier unter den Studierenden bereits interdisziplinäre Kontakte geknüpft werden. Ein weiterer Vorteil dieser Konstruktion ist eine gute Durchlässigkeit von Studierenden beim Studiengangswechsel, sofern sie feststellen, dass ein anderer Studiengang am Campus eher ihren Fähigkeiten und Neigungen entspricht. Naturgemäß die Informatik Kernmodule, die zumeist Grundlagencharakter haben, im Grundlagenteil des Studiums verankert.
+
+Um den Studierenden jedoch mit den Herangehensweisen und Perspektiven der Medieninformatik möglichst früh vertraut zu machen und sie bei der Identifikation mit der Domäne zu unterstützen, wir im ersten Semester das Modul "Einführung in die Medieninformatik" mit einem Gewicht von 10 Creditpoints angeboten. Im zweiten Semester übernimmt das Modul "Mensch-Computer Interaktion" mit einem Gewicht von 10 Creditpoints diese Aufgabe.
+Das Gewicht der Medieninformatik-spezifischen Module nimmt mit jedem Semester zu.
 
 ### Prinzipien
 
@@ -77,7 +94,7 @@ Vertiefung
 
 ### Studienphasen
 
-{% include image.html url="bilder/ba-studienphasen.svg" caption="Abbildung: Studienphasen des Bachelorstudiengangs Medieninformatik" %}
+
 
 ### Lehrformen
 
@@ -105,3 +122,4 @@ Vertiefung
 ### Lehrformen
 
 [^Abschlussarbeitsthemen-bachelor]: <a href="../anhaenge/anschlussarbeiten_2010-2014_.pdf">Themen der Abschlussabeiten des Medieninformatik Bachelor 2010 bis 2014</a>
+[^profil-studienanfaenger-2017]: <a href="../anhaenge/profil-studienanfaenger-2017.xlsx">profil-studienanfaenger-2017.xlsx</a>
