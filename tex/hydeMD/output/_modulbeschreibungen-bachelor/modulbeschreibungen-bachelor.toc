@@ -1,33 +1,33 @@
 \contentsline {chapter}{\numberline {1}Algorithmen und Programmierung 1}{1}{chapter.1}
-\contentsline {chapter}{\numberline {2}Algorithmen und Programmierung 2}{2}{chapter.2}
-\contentsline {chapter}{\numberline {3}Audiovisuelles Medienprojekt}{4}{chapter.3}
-\contentsline {chapter}{\numberline {4}Bachelorarbeit}{8}{chapter.4}
-\contentsline {chapter}{\numberline {5}Bachelor Kolloquium}{10}{chapter.5}
-\contentsline {chapter}{\numberline {6}Betriebssysteme und verteilte Systeme}{12}{chapter.6}
-\contentsline {chapter}{\numberline {7}BWL I - Grundlagen}{15}{chapter.7}
-\contentsline {chapter}{\numberline {8}Datenbanken 1}{17}{chapter.8}
-\contentsline {chapter}{\numberline {9}Einf\IeC {\"u}hrung in Betriebssysteme und Rechnerarchitektur}{20}{chapter.9}
-\contentsline {chapter}{\numberline {10}Einf\IeC {\"u}hrung in die Medieninformatik}{21}{chapter.10}
-\contentsline {chapter}{\numberline {11}Entwicklungsprojekt}{24}{chapter.11}
-\contentsline {chapter}{\numberline {12}Grundlagen des Web}{26}{chapter.12}
-\contentsline {chapter}{\numberline {13}Kommunikationstechnik und Netze}{29}{chapter.13}
-\contentsline {chapter}{\numberline {14}Mathematik 1}{31}{chapter.14}
-\contentsline {chapter}{\numberline {15}Mathematik 2}{33}{chapter.15}
-\contentsline {chapter}{\numberline {16}Mensch-Computer Interaktion}{35}{chapter.16}
-\contentsline {chapter}{\numberline {17}Informatik, Recht und Gesellschaft}{39}{chapter.17}
-\contentsline {chapter}{\numberline {18}Paradigmen der Programmierung}{43}{chapter.18}
-\contentsline {chapter}{\numberline {19}Praxisprojekt}{46}{chapter.19}
-\contentsline {chapter}{\numberline {20}Praxisprojektseminar}{48}{chapter.20}
-\contentsline {chapter}{\numberline {21}Projektmanagement}{50}{chapter.21}
-\contentsline {chapter}{\numberline {22}Empirische Forschungsmethoden in der Informatik}{54}{chapter.22}
-\contentsline {chapter}{\numberline {23}Projekt Social Computing}{57}{chapter.23}
-\contentsline {chapter}{\numberline {24}Gamification}{59}{chapter.24}
-\contentsline {chapter}{\numberline {25}Soziotechnische Systeme}{62}{chapter.25}
-\contentsline {chapter}{\numberline {26}Screendesign}{65}{chapter.26}
-\contentsline {chapter}{\numberline {27}Softwaretechnik}{69}{chapter.27}
-\contentsline {chapter}{\numberline {28}Theoretische Informatik 1}{72}{chapter.28}
-\contentsline {chapter}{\numberline {29}Theoretische Informatik 2}{76}{chapter.29}
-\contentsline {chapter}{\numberline {30}Visual Computing}{80}{chapter.30}
-\contentsline {chapter}{\numberline {31}Web Development}{93}{chapter.31}
-\contentsline {chapter}{\numberline {32}Social Computing}{99}{chapter.32}
-\contentsline {chapter}{\numberline {33}Wahlpflichtmodul}{102}{chapter.33}
+\contentsline {chapter}{\numberline {2}Algorithmen und Programmierung 2}{3}{chapter.2}
+\contentsline {chapter}{\numberline {3}Audiovisuelles Medienprojekt}{5}{chapter.3}
+\contentsline {chapter}{\numberline {4}Bachelorarbeit}{9}{chapter.4}
+\contentsline {chapter}{\numberline {5}Bachelor Kolloquium}{11}{chapter.5}
+\contentsline {chapter}{\numberline {6}Betriebssysteme und verteilte Systeme}{13}{chapter.6}
+\contentsline {chapter}{\numberline {7}BWL I - Grundlagen}{16}{chapter.7}
+\contentsline {chapter}{\numberline {8}Datenbanken 1}{18}{chapter.8}
+\contentsline {chapter}{\numberline {9}Einf\IeC {\"u}hrung in Betriebssysteme und Rechnerarchitektur}{21}{chapter.9}
+\contentsline {chapter}{\numberline {10}Einf\IeC {\"u}hrung in die Medieninformatik}{23}{chapter.10}
+\contentsline {chapter}{\numberline {11}Entwicklungsprojekt}{26}{chapter.11}
+\contentsline {chapter}{\numberline {12}Grundlagen des Web}{29}{chapter.12}
+\contentsline {chapter}{\numberline {13}Kommunikationstechnik und Netze}{32}{chapter.13}
+\contentsline {chapter}{\numberline {14}Mathematik 1}{34}{chapter.14}
+\contentsline {chapter}{\numberline {15}Mathematik 2}{36}{chapter.15}
+\contentsline {chapter}{\numberline {16}Mensch-Computer Interaktion}{39}{chapter.16}
+\contentsline {chapter}{\numberline {17}Informatik, Recht und Gesellschaft}{43}{chapter.17}
+\contentsline {chapter}{\numberline {18}Paradigmen der Programmierung}{48}{chapter.18}
+\contentsline {chapter}{\numberline {19}Praxisprojekt}{51}{chapter.19}
+\contentsline {chapter}{\numberline {20}Praxisprojektseminar}{53}{chapter.20}
+\contentsline {chapter}{\numberline {21}Projektmanagement}{56}{chapter.21}
+\contentsline {chapter}{\numberline {22}Empirische Forschungsmethoden in der Informatik}{60}{chapter.22}
+\contentsline {chapter}{\numberline {23}Projekt Social Computing}{63}{chapter.23}
+\contentsline {chapter}{\numberline {24}Gamification}{65}{chapter.24}
+\contentsline {chapter}{\numberline {25}Soziotechnische Systeme}{68}{chapter.25}
+\contentsline {chapter}{\numberline {26}Screendesign}{71}{chapter.26}
+\contentsline {chapter}{\numberline {27}Softwaretechnik}{75}{chapter.27}
+\contentsline {chapter}{\numberline {28}Theoretische Informatik 1}{79}{chapter.28}
+\contentsline {chapter}{\numberline {29}Theoretische Informatik 2}{83}{chapter.29}
+\contentsline {chapter}{\numberline {30}Visual Computing}{87}{chapter.30}
+\contentsline {chapter}{\numberline {31}Web Development}{100}{chapter.31}
+\contentsline {chapter}{\numberline {32}Social Computing}{106}{chapter.32}
+\contentsline {chapter}{\numberline {33}Wahlpflichtmodul}{109}{chapter.33}

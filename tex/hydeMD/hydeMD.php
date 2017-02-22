@@ -353,35 +353,69 @@ class Document {
       $pageName = $this->getSimpleDocumentName();
 
       switch( $pageName ) {
+
         case 'modulbeschreibungen-bachelor':
 
+          /* Removing sections without content */
           $lines = array_filter( explode( "\n", $page->content ) );
 
-
           $headingHierarchy = parseHierarchy( $lines );
-
           removeEmptyHeadingSections( $headingHierarchy );
-
-          /*
-          if(  $path === '../../_modulbeschreibungen-bachelor/BA_Vertiefung-Web_Development.md' ) {
-            var_dump( array_keys( $headingHierarchy[ 'sub' ][ '# Web Development' ][ 'sub' ][ '## Angestrebte Lernergebnisse:' ][ 'sub' ][ '### Internet of Things:' ] ) );
-          }
-          */
-
           $cleanedLines = flattenHeadingHierarchy( $headingHierarchy );
 
           $page->content = implode( "\n", $cleanedLines );
 
+
+
+          /* Insert metadata table */
+
+          $peopleYamlPath = dirname( __FILE__ ) . DIRECTORY_SEPARATOR . '../../_data/people.yml';
+          $people = \Spyc::YAMLLoad( $peopleYamlPath );
+
+          $tableData = array(
+            'modulverantwortlich'                   => 'Modulverantwortlich',
+            'kuerzel'                               => 'Kürzel',
+            'studiensemester'                       => 'Studiensemester',
+            'sprache'                               => 'Sprache',
+            'zuordnung-zum-curriculum'              => 'Zuordnung zum Curriculum',
+            'kreditpunkte'                          => 'Kreditpunkte',
+            'voraussetzungen-nach-pruefungsordnung' => 'Voraussetzungen nach Prüfungsordnung'
+          );
+
+          foreach( $tableData as $fieldKey => &$fieldValue ) {
+            $fieldValue = array(
+              'title' => $fieldValue,
+              'value' => isset( $page->infos[ $fieldKey ] ) ? $page->infos[ $fieldKey ]: '&nbsp;'
+            );
+          }
+
+          $modulverantwortlich = array_map( 'trim', explode( ',', $tableData['modulverantwortlich']['value'] ) );
+
+          $modulverantwortlich = array_map( function( $mvKuerzel ) use( $people ) {
+            return $people[ $mvKuerzel ][ 'name' ];
+          }, $modulverantwortlich );
+
+
+          $tableData['modulverantwortlich']['value'] = implode( ', ', $modulverantwortlich );
+
+
+          $tableMarkdown  = "| &nbsp; | &nbsp; |\n";
+          $tableMarkdown .= "|:-------|:-------|\n";
+
+          foreach( $tableData as $key => $field ) {
+            $tableMarkdown .= "| " . $field[ 'title' ] . " | " . $field[ 'value' ] . " |\n";
+          }
+
+          $page->content = preg_replace( '/^\s*#(.*?)\n/', "$0\n\n" . $tableMarkdown, $page->content );
+
           break;
       }
-
 
     }
 
     if( $svgsFound ) {
       fprintf( STDERR, "Please install librsvg for on-the-fly svg2pdf conversion." );
     }
-
   }
 
 
