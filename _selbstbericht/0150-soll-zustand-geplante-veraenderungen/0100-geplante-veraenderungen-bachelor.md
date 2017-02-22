@@ -8,9 +8,7 @@ status: fast vollständig
 reviewed-von:
 ---
 
-~~~
-@Gerhard & Kristian: hier wäre noch ein kleines Präludium schön. Wie hat sich die MI in den letzten Jahren verändert. Hättet ihr Lust da was zu schreiben?
-~~~
+Seit der Reakkreditierung der Medieninformatik Studiengänge vor 7 Jahren haben sich sowohl die Berfusbilder der Absolventen als auch der Diskurs über Curricula der Medieninformatik weiterentwickelt.
 
 ## Weiterentwicklung des Lehrportfolios des Institut für Informatik
 
