@@ -31,6 +31,7 @@ Die Schwerpunkte setzen sich aus den folgenden Modulen zusammen:
 |Sicherheit, Privatsphäre und Vertrauen im Netz| IT Sicherheit | Multiperspective Product Development, Weaving the Web|
 |Soziotechnische Entwurfsmuster | - | - |
 |Netzwerk-und Graphentheorie | - | - |
+{: .tab-schwerpunktmodule }
 
 ### Schwerpunkt Visual Computing
 
@@ -39,6 +40,7 @@ Die Schwerpunkte setzen sich aus den folgenden Modulen zusammen:
 |Storytelling und Narrative Strukturen | - | - |
 |Bildbasierte Computergrafik  | - | - |
 |Visualisierung | Visualistik | - |
+{: .tab-schwerpunktmodule }
 
 ### Schwerpunkt Human-Computer Interaction
 
@@ -47,6 +49,7 @@ Die Schwerpunkte setzen sich aus den folgenden Modulen zusammen:
 |Interaction Design | Interaction Design | - |
 |Design Methodologies | - | - |
 |Angewandte Statistik für die Mensch-Computer Interaktion  | - | - |
+{: .tab-schwerpunktmodule }
 
 ### Schwerpunkt Weaving the Web
 
@@ -55,7 +58,7 @@ Die Schwerpunkte setzen sich aus den folgenden Modulen zusammen:
 |Sicherheit, Privatsphäre und Vertrauen im Netz| IT Sicherheit | - |
 |Web Architekturen  | - | - |
 |Web Technologien  | - | - |
-
+{: .tab-schwerpunktmodule }
 
 ### Generalistischer Studienverlauf: Multiperspective Product Development
 
@@ -64,7 +67,7 @@ Die Schwerpunkte setzen sich aus den folgenden Modulen zusammen:
 |Sicherheit, Privatsphäre und Vertrauen im Netz| IT Sicherheit | - |
 |	-  | - | - |
 | Qualitätssicherung für Web-Anwendungen| Entwicklungsmethoden in Medienprojekten und Qualitätssicherung | - |
-
+{: .tab-schwerpunktmodule }
 
 ## Erhöhung des Anteils an praxisnahen Projekten
 

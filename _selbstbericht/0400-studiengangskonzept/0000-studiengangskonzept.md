@@ -9,12 +9,12 @@ reviewed-von:
 ---
 
 ## Zielgruppe und Studienform
-Das Studienangebot richtet sich primär an Studierende des deutschsprachigen Raumes. Ausländische Studienbewerber werden durch ein etabliertes, durch das Sekretariat für internationale Studierende betreutes Verfahren nach Nachweis der Kenntnisse der deutschen Sprache aufgenommen. Das Lehrangebot wird in beiden Studiengängen in Form eines klassischen Präsenzstudiums erbracht.
+Das Studienangebot richtet sich primär an Studierende des deutschsprachigen Raumes. Ausländische Studienbewerber werden durch ein etabliertes, durch das Sekretariat für internationale Studierende betreutes Verfahren nach Nachweis der Kenntnisse der deutschen Sprache aufgenommen. Das Lehrangebot wird in beiden Studiengängen in Form eines klassischen Präsenzstudiums erbracht.
 
 ## Zusammensetzung der Studierendenschaft
 Die Darstellung des Profils der Studierendenschaft wird hier an der Lehreinheit Informatik beziehungsweise am Campus Gummersbach dargestellt[^profil-studienanfaenger-2017].
-Der Anteil weiblicher Studierender am Campus Gummersbach schwankt in den letzten Jahren um knapp 20%. Weibliche Studierende benötigen im Mittel ein Semester weniger zu einem erfolgreichen Abschluss (Basis: Lehreinheit Informatik) und erzielen dabei eine geringfügig bessere Abschlussnote als die männlichen Studierenden, sodass von einer Chancengleichheit auszugehen ist.
-16,9% der Studierenden am Campus Gummersbach verfügen über eine ausländische Staatsangehörigkeit. Die stärkste Gruppe stellen europäische Ausländer mit knapp 60%, gefolgt von asiatischen und afrikanischen Ausländern mit jeweils 18 %. Die anderen Kontinente spielen eine untergeordnete Rolle. Die Studiendauer ausländischer Studierender ist knapp zwei Semester länger als deutscher Studierender. Die Abschlussnote ist mit 2,4 schlechter als die deutscher Absolventen (2,0).
+Der Anteil weiblicher Studierender am Campus Gummersbach schwankt in den letzten Jahren um knapp 20%. Weibliche Studierende benötigen im Mittel ein Semester weniger zu einem erfolgreichen Abschluss (Basis: Lehreinheit Informatik) und erzielen dabei eine geringfügig bessere Abschlussnote als die männlichen Studierenden, sodass von einer Chancengleichheit auszugehen ist.
+16,9% der Studierenden am Campus Gummersbach verfügen über eine ausländische Staatsangehörigkeit. Die stärkste Gruppe stellen europäische Ausländer mit knapp 60%, gefolgt von asiatischen und afrikanischen Ausländern mit jeweils 18 %. Die anderen Kontinente spielen eine untergeordnete Rolle. Die Studiendauer ausländischer Studierender ist knapp zwei Semester länger als deutscher Studierender. Die Abschlussnote ist mit 2,4 schlechter als die deutscher Absolventen (2,0).
 Studierende mit einer allgemeinen Hochschulreife benötigen im Mittel ein Semester weniger als Studierende mit einer FH-Reife oder einer fachbezogenen Hochschulreife.
 
 ## Eingesetzte Lehrformen

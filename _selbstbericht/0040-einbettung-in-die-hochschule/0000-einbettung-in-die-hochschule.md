@@ -1,5 +1,5 @@
 ---
-title: Einbettung des Studienganges in die Hochschule
+title: Einbettung der Studiengänge in die Hochschule
 aktueller-bearbeiter:
 bearbeiterhistorie: Christian Noss
 date: 14.02.2017

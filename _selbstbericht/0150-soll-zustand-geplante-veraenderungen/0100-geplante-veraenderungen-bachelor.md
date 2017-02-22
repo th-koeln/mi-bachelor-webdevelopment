@@ -40,9 +40,6 @@ Das Lehr- und Forschungsbereich "Soziotechnische Systeme" findet sich in den zu 
 
 Die im Folgenden dargestellten geplanten Veränderungen des Bachelorstudienprogramms dienen zur Beseitigung erkannter Schwächen (vgl. Defizite Medieninformatik Bachelor).
 
-~~~
-@volker: wie kann ich unabhängige Links innerhalb des Dokuments erzeugen?
-~~~
 
 [^antrag-wiederzuweisung]: <a href="../anhaenge/AntragWiederzuweisung_Motivation_2013.pdf">AntragWiederzuweisung_Motivation_2013.pdf</a>
 

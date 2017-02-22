@@ -124,6 +124,16 @@
 		@extend .table;
 	}
 	
+	table.tab-schwerpunktmodule{
+		th{
+			width: 40%;
+		}
+		
+		th + th + th{
+			width: 20%;
+		}
+	}
+	
 	.footnotes{
 		border-top: solid 1px #9313ce;
 		padding-bottom: $bfs;
