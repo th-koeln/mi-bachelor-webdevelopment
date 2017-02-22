@@ -3,7 +3,7 @@ title: Studiengangskonzept
 aktueller-bearbeiter: Christian Noss
 bearbeiterhistorie: Christian Noss
 date: 10.02.2017
-comment:
+comment: Lehrformen fehlen
 status: unbearbeitet
 reviewed-von:
 ---
@@ -105,6 +105,14 @@ Im weiteren Studienverlauf sind die Medieninformatik-spezifischen Module an eine
 Mit dem "Entwicklungsprojekt" im fünften Semester werden zunehmend Fragestellung und Herangehensweisen zur Reflexion eines Projekts, z.B. als Vorbereitung einer weiteren Projektiteration, fokussiert. 
 
 Um den Studierende fundierte Entwicklungskompetenz zu vermitteln, wird ein Modulstrang aus dem Informatik Kern verwendet, der ausgehend den Prinzipien der Objektorientierung und einfachen Algorithmen (Algorithmen und Programmierung 1) über komplexere Prinzipien der Algorithmenentwicklung (Algorithmen und Programmierung 2) hin zu Anwendung unterschiedlicher Programmierkonzepte (Paradigmen der Programmierung) und Prinzipien, Methoden und Techniken der modellbasierten Softwareentwicklung (Softwareentwicklung) diese Kompetenz sukzessive auf- und ausbaut.
+
+### Individuelle Vertiefungsmöglichkeiten
+
+Im vierten Semester wird zur Fachvertiefung entsprechen der persönlichen Neigung ein Vertiefungsmodul mit einem Gewicht von 20 Creditpoints angeboten. Hier stehen drei Vertiefungsrichtungen zur Auswahl: Visual Computing, Social Computing und Web-Development. Die Studierenden haben in diesem Modul die Möglichkeit, entsprechend der persönlichen Neigung, ein Themenfeld tief zu durchdringen und damit eine Spezialisierungsrichtung vorzubereiten. Durch das Zusammenfassen mehrerer Module werden im Vertiefungsmodul konsistente Regularien, sowie inhaltliche und organisatorische Zusammenhänge geschaffen.
+
+Das Entwicklungsprojekt im fünften Semester bietet die Möglichkeit zur weiteren Fachvertiefung entsprechend der persönlichen Neigungen. Im gleichen Semester ist Wahlpflichtmodul verankert, bei dem ein Modul aus dem Wahlkatalog der Informatik, oder ein Pflichtmodul eines anderen Informatik Studiengangs der Fakultät gewählt werden kann. 
+
+Zusammen mit dem Praxisprojekt und der Bachelorarbeit stehen somit 60 Creditpoints, also ein Drittel der Studienleistungen, zur individuellen Fachvertiefung zur Verfügung.
 
 ### Projektorientierung und Aufbau der Projektgrößen
 
