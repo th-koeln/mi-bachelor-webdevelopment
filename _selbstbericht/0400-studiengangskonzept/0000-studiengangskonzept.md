@@ -79,10 +79,18 @@ Um die Qualifikationsziele des Studiengangs zu erreichen, das Studium sinnvoll i
 
 Die organisatorischen und inhaltliche Klammer bilden die drei, aufeinander aufbauenden, Studienphasen: Grundlagen, Vertiefung und Spezialisierung. Die Module innerhalb der Phasen, gliedern sich in zwei Säulen: Informatik Kernmodule und Medieninformatik-spezifische Module. Die Informatik Kernmodule auch von anderen Informatik Studiengängen der Fakultät 10 genutzt. Dadurch werden Synergien erzeugt und alle Informatik Studenten der Fakultät können auf die gleiche Wissensbasis zurückgreifen. Durch die Durchmischung von Studierenden unterschiedlicher Studiengänge können hier unter den Studierenden bereits interdisziplinäre Kontakte geknüpft werden. Ein weiterer Vorteil dieser Konstruktion ist eine gute Durchlässigkeit von Studierenden beim Studiengangswechsel, sofern sie feststellen, dass ein anderer Studiengang am Campus eher ihren Fähigkeiten und Neigungen entspricht. Naturgemäß die Informatik Kernmodule, die zumeist Grundlagencharakter haben, im Grundlagenteil des Studiums verankert.
 
-Um den Studierenden jedoch mit den Herangehensweisen und Perspektiven der Medieninformatik möglichst früh vertraut zu machen und sie bei der Identifikation mit der Domäne zu unterstützen, wir im ersten Semester das Modul "Einführung in die Medieninformatik" mit einem Gewicht von 10 Creditpoints angeboten. Im zweiten Semester übernimmt das Modul "Mensch-Computer Interaktion" mit einem Gewicht von 10 Creditpoints diese Aufgabe.
-Das Gewicht der Medieninformatik-spezifischen Module nimmt mit jedem Semester zu.
+Um den Studierenden jedoch mit den Herangehensweisen und Perspektiven der Medieninformatik möglichst früh vertraut zu machen und sie bei der Identifikation mit der Domäne zu unterstützen, wir im ersten Semester das Modul "Einführung in die Medieninformatik" mit einem Gewicht von 10 Creditpoints angeboten. Im zweiten Semester übernimmt das Modul "Mensch-Computer Interaktion" mit einem Gewicht von 10 Creditpoints diese Aufgabe. Das Gewicht der Medieninformatik-spezifischen Module nimmt mit jedem Semester zu.
 
-### Prinzipien
+### Sinnvolle Staffelung der Module
+
+Die ersten Modulen des Informatik Kerns bauen vor allem mathematische, algorithmische und und grundlegende Kenntnisse und Fertigkeiten auf. Im Kontrast dazu, werden im Modul "Einführung in die Medieninformatik" vielfältige Perspektiven, Konzepte und Arbeitstechniken der Medieninformatik, quasi im Vorgriff auf der kommende Studium, vorgestellt und in einem Projekt, mit forschendem Charakter, angewendet. Hiermit wird den Studierenden ein Ausblick auf das weitere Studium und die notwendigen Arbeitsweisen und -techniken gegeben.
+
+Im weiteren Studienverlauf sind die Medieninformatik-spezifischen Module an einem groben Workflow der Produktentwicklung: Konzeption, Realisierung und Reflexion ausgerichtet. Die Module "Mensch-Computer Interaktion", "Screendesign" und "Web-Architekturen" vermitteln überwiegend Herangehensweisen, Techniken und Konzepte für die Konzeptionsphase eines Projekts. Das Modul "Audiovisuelles Medienprojekt" adressiert sowohl Themen rund um die Konzeption als auch in Richtung Projektrealisierung und bildet den Übergang zum Vertiefungsmodul im vierten Semester, in dem Realisierungsaspekte im Vordergrund stehen. 
+
+Mit dem "Entwicklungsprojekt" im fünften Semester werden zunehmend Fragestellung und Herangehensweisen zur Reflexion eines Projekts, z.B. als Vorbereitung einer weiteren Projektiteration, fokussiert. 
+
+Um den Studierende fundierte Entwicklungskompetenz zu vermitteln, wird ein Modulstrang aus dem Informatik Kern verwendet, der ausgehend den Prinzipien der Objektorientierung und einfachen Algorithmen (Algorithmen und Programmierung 1) über komplexere Prinzipien der Algorithmenentwicklung (Algorithmen und Programmierung 2) hin zu Anwendung unterschiedlicher Programmierkonzepte (Paradigmen der Programmierung) und Prinzipien, Methoden und Techniken der modellbasierten Softwareentwicklung (Softwareentwicklung) diese Kompetenz sukzessive auf- und ausbaut.
+
 
 Module eines Schwerpunkts näher zusammen bringen Projektkontexte reduzieren
 Workflow berücksichtigen
