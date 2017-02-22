@@ -1,9 +1,9 @@
 ---
 title: Soll-Zustand/ geplante Veränderungen
-aktueller-bearbeiter: Kristian Fischer
-bearbeiterhistorie: Christian Noss
-date: 20.02.2017
-comment: Präludium "wie hat sich die MI in den letzten Jahren verändert?"
+aktueller-bearbeiter: 
+bearbeiterhistorie: Kristian Fischer
+date: 22.02.2017
+comment: Präludium hinzugefügt: bitte reviewen!
 status: fast vollständig
 reviewed-von:
 ---
