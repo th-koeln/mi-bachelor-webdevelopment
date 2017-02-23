@@ -3,7 +3,8 @@ title: Studiengangsbezogene Kooperationen
 aktueller-bearbeiter: Martin Eisemann
 bearbeiterhistorie: 
 date: 10.02.2017
-comment: Größtenteils aus Selbstbericht von 2009 übernommen Kapitel 4.2 bzw. Reakkreditierung AI/TI/WI 2012
+comment: Größtenteils aus Selbstbericht von 2009 übernommen Kapitel 4.2 bzw. Reakkreditierung AI/TI/WI 2012. Es fehlt noch: Beendete und seit 2009 begonnene Promotionen fehlen, neue Kooperationen seit 2009/2012 fehlen, nicht mehr existierende Kooperationen seit 2009 müssen markiert werden.
+
 status: Initiale Version, Zahlen sind alle noch von 2009 bzw. 2012, International Office per Mail kontaktiert aber noch keine Rückmeldung (telefonisch nicht zu erreichen)
 reviewed-von:
 ---
@@ -120,7 +121,3 @@ me: Haben wir ein Personalhandbuch, welches als Anhang mitgeliefert wird? Moment
 ~~~
 Darüber hinaus findet sich im Personalhandbuch eine Vielzahl von Hinweisen einzelner Kolleginnen und Kollegen darüber, mit welchen Firmen sie kooperieren. Im Rahmen von Abschlussarbeiten und Projektarbeiten finden sich so ein Vielzahl regionaler Firmen bei den Abschlussarbeiten und Projektarbeiten bereits in erfolgreicher Kooperation durchgeführt wurden, so beispielsweise die Cologne Broadcasting Company (CBC), Inovex GmbH, CLAAS, Telexiom AG oder Miltenyi Biotec GmbH.
 Seitens der »Nachwuchsförderung« kooperiert die Fakultät 10 mit zahlreichen Gymnasien und Berufskollegs in der Region.
-
-[^promotionen]: Beendete und seit 2009 begonnene Promotionen fehlen
-[^kooperationen]: neue Kooperationen seit 2009 fehlen
-[^beendete_kooperationen]: nicht mehr existierende Kooperationen seit 2009 müssen markiert werden.
