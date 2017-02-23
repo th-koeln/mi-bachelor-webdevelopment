@@ -18,56 +18,11 @@ Neben den vielfältigen weiterentwickelten Kompetenzen (formale, analytische, me
 
 ## Schwerpunktspezifische Pflichtmodule
 
-* Interaction Design
+- Interaction Design
 
-* Design Methodologies
+- Design Methodologies
 
-* Angewandte Statistik für die Mensch-Computer Interaktion
-
-
-## Lehrveranstaltungen im Projekt:
-
-
-### Vision & Konzept:
-
-~~~
-
-Bitte noch ergänzen
-
-~~~
-
-
-### Entwicklung:
-
-~~~
-
-Bitte noch ergänzen
-
-~~~
-
-
-### Verwertung:
-
-~~~
-
-Bitte noch ergänzen
-
-~~~
-
-~~~
-
-Bitte noch ergänzen
-
-~~~
-
-
-## Empfohlene Wahlpflicht-Module in dem Schwerpunkt:
-
-~~~
-
-Bitte noch ergänzen
-
-~~~
+- Angewandte Statistik für die Mensch-Computer Interaktion
 
 
 
@@ -93,52 +48,11 @@ Der Schwerpunkt „Multi-Perspective Product Development” bereitet die Studier
 
 ## Schwerpunktspezifische Pflichtmodule
 
-<!-- MW: 3 Module mit je 6 cp -->
+- Privatsphäre & Sicherheit im Netz
 
-* Privatsphäre & Sicherheit im Netz
+- Visualisierung
 
-* Visualisierung
-
-* Qualitätssicherung und -management
-
-
-## Lehrveranstaltungen im Projekt:
-
-
-### Vision & Konzept:
-
-Advanced Seminar
-
-
-### Entwicklung:
-
-- Lehrveranstaltungen je nach Schwerpunkt des gewählten Projekts.
-
-
-### Verwertung:
-
-- Lehrveranstaltungen je nach Schwerpunkt des gewählten Projekts.
-
-Gemäß der Zielsetzung des Schwerpunkts „Multi-Perspective Product Development” können die Studierenden der jeweiligen Leitfrage entsprechende Projektmodule aus den anderen, eher spezialisierenden Schwerpunkten im Masterstudiengang Medieninformatik wählen.
-
-
-## Empfohlene Wahlpflicht-Module in dem Schwerpunkt:
-
-- Interaction Design
-
-- Soziotechnische Patterns
-
-- Kooperationssysteme
-
-- Netzwerk- und Graphentheorie
-
-- Logik und semantische Modellierung
-
-- Anforderungsmanagement
-
-- Medienrecht und Medienwirtschaft
-
-- Web-basierte Architekturen
+- Qualitätssicherung und -management
 
 
 
@@ -156,52 +70,11 @@ Ziel ist es, soziale Innovation durch digitale Anwendungen entstehen zu lassen. 
 
 ## Schwerpunktspezifische Pflichtmodule
 
-<!-- MW: 3 Module mit je 6 cp -->
+- Privatsphäre, Vertrauen & Sicherheit im Netz
 
-* Privatsphäre, Vertrauen & Sicherheit im Netz
+- Soziotechnische Entwurfsmuster
 
-* Soziotechnische Entwurfsmuster
-
-* Netzwerk-und Graphentheorie
-
-
-## Lehrveranstaltungen im Projekt:
-
-
-### Vision & Konzept:
-
-- Advanced Seminar
-
-- Planung einer empirischen Studie oder Konzeption eines soziotechnischen Systems
-
-
-### Entwicklung:
-
-- Entwicklungsprojekt soziotechnische Systeme, Beautiful Code 
-
-- Oder: Durchführung einer empirischen Studie
-
-
-### Verwertung:
-
-- Veröffentlichung des Entwicklungsprojekts
-
-- Oder: Veröffentlichung der empirischen Studie
-
-
-## Empfohlene Wahlpflicht-Module in der Studienrichtung:
-
-- Computer Supported Collaborative Learning (CSCL)
-
-- e-Science
-
-- Design Methodologies
-
-- Storytelling
-
-- Sketching User Experience
-
-tbd
+- Netzwerk-und Graphentheorie
 
 
 
@@ -210,9 +83,11 @@ tbd
 
 ## Schwerpunktspezifische Pflichtmodule
 
-* ​
+- Storytelling und Narrative Strukturen
 
-* ​
+- Bildbasierte Computergrafik
+
+- Visualisierung
 
 Der Studienschwerpunkt „Visual Computing” steht an der Schnittstelle von Computergrafik, Computer Vision, Mensch-Maschine-Kommunikation, Bild- und Videoverarbeitung, sowie Visualisierung. 
 
@@ -238,12 +113,6 @@ Zudem müssen folgende drei Projekte im Umfang von jeweils 12 cp belegt werden, 
 
 Weitere 18 CP können aus dem allgemeinen Angebot der Veranstaltungen aller Kurse aus den Masterstudiengängen Medieninformatik und Informatik belegt werden, um der Heterogenität der Medieninformatik und des Visual Computings gerecht zu werden.
 
-~~~
-
-Bitte das Dokument entsprechend der unten aufgeführten Struktur aufbauen.
-
-~~~
-
 
 
 # Weaving the Web
@@ -266,51 +135,11 @@ Der Titel der Studienrichtung, „Weaving the Web” wurde gewählt, da neben de
 
 ## Schwerpunktspezifische Pflichtmodule
 
-~~~
+- Sicherheit, Privatsphäre und Vertrauen im Netz
 
-Bitte noch ergänzen.
-
-~~~
-
-
-## Lehrveranstaltungen im Projekt:
-
-
-### Vision & Konzept:
-
-Advanced Seminar
-
-
-### Entwicklung:
-
-- Projektmanagement
-
-- Beautiful Code
-
-
-### Verwertung:
-
-- Deployment, Kontinuierliche Weiterentwicklung
-
-- Produkt- und Communitymanagement
-
-
-## Module im Schwerpunkt:
-
-- Privatsphäre, Vertrauen & Sicherheit im Netz
-
-- Web-basierte Architekturen
+- Web Architekturen
 
 - Web Technologien
-
-
-## Empfohlene Wahlpflicht-Module in der Studienrichtung:
-
-~~~
-
-Bitte noch ergänzen.
-
-~~~
 
 
 
@@ -2358,12 +2187,12 @@ Mündliche Prüfung
 
 
 
-# Qualitätssicherung für Web-Anwendungen
+# Qualitätssicherung und Qualitätsmanagement
 
 
 
 - Modulverantwortlich: Prof. Dr. Mario Winter
-- Kürzel: WTW-QUS
+- Kürzel: QUS
 - Studiensemester - Wintersemester: 2
 - Studiensemester - Sommersemester: 1
 - Sprache: deutsch, Seminar-Basisliteratur i.d.R. in englischer Sprache
@@ -2375,7 +2204,7 @@ Mündliche Prüfung
 
 ## Kurzbeschreibung
 
-Konstruktive und analytische Qualitätssicherung für die Entwicklung von Rich-Internet-Anwendungen
+Konstruktive und analytische Qualitätssicherung und Qualitätsmanagement für Web-Anwendungen
 
 
 ## Lehrform/SWS:
@@ -2398,7 +2227,7 @@ Konstruktive und analytische Qualitätssicherung für die Entwicklung von Rich-I
 
 ## Angestrebte Lernergebnisse:
 
-Die Studierenden sollen befähigt werden, Ziele, Methoden, Techniken und Werkzeuge sowie organisatorischen Maßnahmen zur begleitenden Qualitätssicherung (QS) und zum Qualitätsmanagement in der Softwareentwicklung nennen, charakterisieren und anwenden zu können,
+Die Studierenden sollen befähigt werden, Ziele, Methoden, Techniken und Werkzeuge sowie organisatorischen Maßnahmen zur begleitenden Qualitätssicherung (QS) und zum Qualitätsmanagement für Web-Anwendungen nennen, charakterisieren und anwenden zu können,
 
 Methoden und Techniken hinsichtlich ihrer theoretischen Fundierung und ihrer Praxistauglichkeit analysieren und bewerten zu können, und ihre Fähigkeit zur selbständigen Weiterbildung festigen, 
 
@@ -2407,7 +2236,7 @@ um die Methoden, Techniken und Werkzeuge zur Qualitätssicherung in eigenen, auc
 
 ## Inhalt:
 
-Das Modul beschreibt Ziele, Methoden, Techniken und Werkzeuge sowie organisatorische Maßnahmen zur begleitenden Qualitätssicherung (QS) in der Entwicklung von Rich-Internet-Anwendungen. Schwerpunkte liegen auf der QS in den frühen Phasen der Konzeption und Spezifikation sowie dem Qualitätsmanagement. Ausführungen zu einschlägigen Normen und Gesetzen runden das Modul ab.
+Das Modul beschreibt Ziele, Methoden, Techniken und Werkzeuge sowie organisatorische Maßnahmen zur begleitenden Qualitätssicherung (QS) in der Entwicklung von Web-Anwendungen. Schwerpunkte liegen auf der QS in den frühen Phasen der Konzeption und Spezifikation sowie dem Qualitätsmanagement. Ausführungen zu einschlägigen Normen und Gesetzen runden das Modul ab.
 
 Inhalte im Einzelnen: 
 
@@ -2441,6 +2270,8 @@ Klausur 60 Minuten
 
 
 ## Literatur:
+
+- S. Wagner: Software Product Quality Control. Springer, Berlin, 2013
 
 - A. Spillner, T. Roßner, M. Winter, T. Linz: Praxiswissen Softwaretest – Testmanagement. 4., vollst. überarbeitete und akt. Auflage, dpunkt.verlag, Heidelberg, 2014
 

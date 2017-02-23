@@ -19,9 +19,31 @@ Der Schwerpunkt „Multi-Perspective Product Development” bereitet die Studier
 
 
 ## Schwerpunktspezifische Pflichtmodule
+<!-- MW: 3 Module mit je 6 cp -->
+* Privatsphäre & Sicherheit im Netz
+* Visualisierung
+* Qualitätssicherung und -management
 
-- Privatsphäre & Sicherheit im Netz
-- Visualisierung
-- Qualitätssicherung und -management
+## Lehrveranstaltungen im Projekt:
 
+Gemäß der Zielsetzung des Schwerpunkts „Multi-Perspective Product Development” können die Studierenden der jeweiligen Leitfrage entsprechende Projektmodule aus den anderen, eher spezialisierenden Schwerpunkten im Masterstudiengang Medieninformatik wählen.
+
+### Vision & Konzept:
+Advanced Seminar
+
+### Entwicklung:
+- Lehrveranstaltungen je nach Schwerpunkt des gewählten Projekts.
+
+### Verwertung:
+- Lehrveranstaltungen je nach Schwerpunkt des gewählten Projekts.
+
+## Empfohlene Wahlpflicht-Module in dem Schwerpunkt:
+- Interaction Design
+- Soziotechnische Patterns
+- Kooperationssysteme
+- Netzwerk- und Graphentheorie
+- Logik und semantische Modellierung
+- Anforderungsmanagement
+- Medienrecht und Medienwirtschaft
+- Web-basierte Architekturen
 

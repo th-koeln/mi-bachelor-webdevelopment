@@ -17,8 +17,7 @@ Dieser Schwerpunkt adressiert Kompetenzen, Fähigkeiten und Fertigkeiten die im 
 Neben den vielfältigen weiterentwickelten Kompetenzen (formale, analytische, methodologische, gestalterische, technologische, etc.) haben sie die Befähigung zum fachlichen Diskurs vertieft und implementieren mit ihrer Kommunikationskompetenz eine wichtige Schnittstelle für die verschiedenen Stakeholder und Gewerke. 
 
 ## Schwerpunktspezifische Pflichtmodule
-
-- Interaction Design
-- Design Methodologies
-- Angewandte Statistik für die Mensch-Computer Interaktion
+* Interaction Design
+* Design Methodologies
+* Angewandte Statistik für die Mensch-Computer Interaktion
 

@@ -25,9 +25,36 @@ Zudem müssen folgende drei Projekte im Umfang von jeweils 12 cp belegt werden, 
 
 Weitere 18 CP können aus dem allgemeinen Angebot der Veranstaltungen aller Kurse aus den Masterstudiengängen Medieninformatik und Informatik belegt werden, um der Heterogenität der Medieninformatik und des Visual Computings gerecht zu werden.
 
+~~~
+Bitte das Dokument entsprechend der unten aufgeführten Struktur aufbauen.
+~~~
+
+
+
+## Zielsetzung:
+
+
+
 ## Schwerpunktspezifische Pflichtmodule
 
-- Storytelling und Narrative Strukturen
-- Bildbasierte Computergrafik
-- Visualisierung
+* ​
+* ​
+
+## Lehrveranstaltungen im Projekt:
+
+
+
+### Vision & Konzept:
+
+
+
+### Entwicklung:
+
+
+
+### Verwertung:
+
+
+
+## Empfohlene Wahlpflicht-Module in dem Schwerpunkt:
 

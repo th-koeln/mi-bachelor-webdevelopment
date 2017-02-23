@@ -23,6 +23,33 @@ Der Titel der Studienrichtung, „Weaving the Web” wurde gewählt, da neben de
 
 ## Schwerpunktspezifische Pflichtmodule
 
-- Sicherheit, Privatsphäre und Vertrauen im Netz
-- Web Architekturen
+~~~
+Bitte noch ergänzen.
+~~~
+
+
+## Lehrveranstaltungen im Projekt:
+
+### Vision & Konzept:
+Advanced Seminar
+
+### Entwicklung:
+- Projektmanagement
+- Beautiful Code
+
+### Verwertung:
+- Deployment, Kontinuierliche Weiterentwicklung
+- Produkt- und Communitymanagement
+
+## Module im Schwerpunkt:
+- Privatsphäre, Vertrauen & Sicherheit im Netz
+- Web-basierte Architekturen
 - Web Technologien
+
+
+## Empfohlene Wahlpflicht-Module in der Studienrichtung:
+
+~~~
+Bitte noch ergänzen.
+~~~
+
