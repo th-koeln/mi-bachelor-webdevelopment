@@ -231,12 +231,12 @@ Somit lassen sich die folgenden Defizite im aktuellen Medieninformatik Master St
 
 
 [^anhang-verbleib-und-studienabbruch]: <a href="../anhaenge/verbleib-und-studienabbruch.pdf">Statistik zum Verbleib- und Studienabbruch</a>
-[^anhang-hep-2020]: <a href="https://www.verwaltung.th-koeln.de/imperia/md/content/verwaltung/broschueren_leitfaeden/hochschulentwicklungsplan2020.pdf">Hochschulentwicklungsplan 2020</a>
-[^Anhang-Pruefungsstatistiken]: <a href="../anhaenge/pruefungsstatistiken.pdf">Bachelorstudiengang Medieninformatik, Prüfungsstatistik 2016</a>
+[^anhang-hep-2020]: <a href="https://www.verwaltung.th-koeln.de/imperia/md/content/verwaltung/broschueren_leitfaeden/hochschulentwicklungsplan2020.pdf">Hochschulentwicklungsplan 2020</a> (abgerufen am 13.02.2017)
+[^Anhang-Pruefungsstatistiken]: <a href="../anhaenge/pruefungsstatistiken.pdf">Bachelorstudiengang Medieninformatik, Prüfungsstatistik 2016</a> 
 [^Anhang-fakultaetsstruktur]: <a href="../anhaenge/Fakultaetsstruktur-Studienangebot-Personal-Haushaltsmittel-Kennzahlen-2014.pdf">Fakultät für Informatik und Ingenieurwissenschaften, Statistik 2013/14</a>
 [^Anhang-INCHER-Studie]: <a href="../anhaenge/INCHER-Studie.pdf">INCHER-Studie 2014</a>
 [^evaluationen-f10]: <a href="../anhaenge/evaluationen-f10.pdf">Studentische Evaluationen Medieninformatik</a>
 [^Anhang-Curriculumsanalye]: fehlt
 [^Anhang-Snapshot-Bewertungen-von-studycheckde]: <a href="../anhaenge/snapshot_2017_02_17_bewertungen_studiengang_medieninformatik_auf_studycheck_._de">Snapshot Bewertungen von studycheck.de</a>
-[^Link-studycheckde]: <a href="http://studycheck.de">http://studycheck.de</a>
-[^profil2]: <a href="https://www.th-koeln.de/mam/downloads/deutsch/hochschule/profil/lehre/profil2_antrag_ministerium.pdf">Profil2 Antrag der TH Köln</a>
+[^Link-studycheckde]: <a href="http://studycheck.de">http://studycheck.de (abgerufen am 17.02.2017)</a>
+[^profil2]: <a href="https://www.th-koeln.de/mam/downloads/deutsch/hochschule/profil/lehre/profil2_antrag_ministerium.pdf">Profil2 Antrag der TH Köln</a> (abgerufen am 15.02.2017)

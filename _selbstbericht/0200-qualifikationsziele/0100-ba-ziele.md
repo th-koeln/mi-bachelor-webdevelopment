@@ -29,6 +29,6 @@ Das folgende Leitbild steht über dem Studiengang Medieninformatik Bachelor:
 [^studienverlaufsplan-bachelor]: Studienverlaufsplan Medieninformatik Bachelor fehlt
 [^modulhandbuch-bachelor]: Modulhandbuch Medieninformatik Bachelor fehlt
 [^ziele-module-bachelor]: Ziele-Module-Matrix Medieninformatik Bachelor: <a href="../anhaenge/Ziele-Module-Matrix-Medieninformatik-Bachelor.pdf">Ziele-Module-Matrix-Medieninformatik-Bachelor.pdf</a>
-[^website-bachelor]: Website des Medieninformatik Bachelor: <a href="https://www.th-koeln.de/studium/medieninformatik-bachelor_2379.php">https://www.th-koeln.de/studium/medieninformatik-bachelor_2379.php</a>
-[^ordnungen-bachelor]: Ordnungen zum Medieninformatik Bachelor: <href="https://www.th-koeln.de/studium/medieninformatik-bachelor--ordnungen-und-formulare_3963.php">https://www.th-koeln.de/studium/medieninformatik-bachelor--ordnungen-und-formulare_3963.php</a>
+[^website-bachelor]: Website des Medieninformatik Bachelor: <a href="https://www.th-koeln.de/studium/medieninformatik-bachelor_2379.php">https://www.th-koeln.de/studium/medieninformatik-bachelor_2379.php (abgerufen am 01.02.2017).</a>
+[^ordnungen-bachelor]: Ordnungen zum Medieninformatik Bachelor: <a href="https://www.th-koeln.de/studium/medieninformatik-bachelor--ordnungen-und-formulare_3963.php">https://www.th-koeln.de/studium/medieninformatik-bachelor--ordnungen-und-formulare_3963.php</a>
 [^zeugnis-bachelor]: Beispielzeugnis und Diploma Supplement Medieninformatik Bachelor: <a href="../anhaenge/ba-zeugnis.pdf">ba-zeugnis.pdf</a>

@@ -115,5 +115,5 @@ Die inhaltliche Offenheit des dritten Fachsemesters mit drei Wahlpflichtmodulen 
 [^studienverlaufsplan-master]: Studienverlaufsplan Medieninformatik Master fehlt
 [^modulhandbuch-master]: Modulhandbuch Medieninformatik Master fehlt
 [^pruefungsordnung-master]: Prüfungsordnung Medieninformatik Master(entwurf): <a href="../anhaenge/MIMPO_Entwurf_ohne_Anm_Sz20170218.pdf">MIMPO_Entwurf_ohne_Anm_Sz20170218.pdf</a>
-[^ziele-module-bachelor]: Ziele-Module-Matrix Medieninformatik Bachelor: <a href="../anhaenge/Ziele-Module-Matrix-Medieninformatik-Bachelor.pdf">Ziele-Module-Matrix-Medieninformatik-Bachelor.pdf</a>
+[^ziele-module-bachelor]: Ziele-Module-Matrix Medieninformatik Bachelor: <a href="../anhaenge/Ziele-Module-Matrix-Medieninformatik-Bachelor.pdf">Ziele-Module-Matrix-Medieninformatik-Bachelor.pdf</a> (abgerufen am 13.02.2017)
 [^ziele-module-master]: Ziele-Module-Matrix Medieninformatik Master fehlt

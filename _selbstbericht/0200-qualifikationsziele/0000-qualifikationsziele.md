@@ -20,36 +20,36 @@ review-comment:
 >
 >  -   Persönlichkeitsentwicklung
 >
->**Leitfragen**
+>  **Leitfragen**
 >
->-   An welcher Stelle sind die jeweils im Kriterium genannten Kompetenz-Bereiche im Studiengang nach dem Verständnis der Hochschule abgebildet?
+>  -   An welcher Stelle sind die jeweils im Kriterium genannten Kompetenz-Bereiche im Studiengang nach dem Verständnis der Hochschule abgebildet?
 >
->-   Wie wurde das angestrebte Kompetenzprofil des Studiengangs (weiter-)entwickelt (Auslöser, Vorgehen, Beteiligungen)?
+>  -   Wie wurde das angestrebte Kompetenzprofil des Studiengangs (weiter-)entwickelt (Auslöser, Vorgehen, Beteiligungen)?
 >
->-   Finden die definierten Kompetenzziele für Absolventen des Studienprogramms die Zustimmung von Lehrenden und Studierenden?
+>  -   Finden die definierten Kompetenzziele für Absolventen des Studienprogramms die Zustimmung von Lehrenden und Studierenden?
 >
->-   Wurde die Stimmigkeit der Lernziele des Studiengangs in den letzten Jahren überprüft? Aus welchen Gründen wurden ggf. Anpassungen vorgenommen?
+>  -   Wurde die Stimmigkeit der Lernziele des Studiengangs in den letzten Jahren überprüft? Aus welchen Gründen wurden ggf. Anpassungen vorgenommen?
 >
->-   Gibt es Auffälligkeiten bei den qualitativen oder quantitativen Daten/Informationen der Hochschule hinsichtlich der Akzeptanz des Kompetenzprofils auf dem Arbeitsmarkt?
+>  -   Gibt es Auffälligkeiten bei den qualitativen oder quantitativen Daten/Informationen der Hochschule hinsichtlich der Akzeptanz des Kompetenzprofils auf dem Arbeitsmarkt?
 >
->**Mögliche Evidenzen**
+>  **Mögliche Evidenzen**
 >
->-   Dokumente/Stellen, wo die Ziele und Lernergebnisse verankert u. veröffentlicht sind, z.B. Ordnungen, Homepage, Diploma Supplement, Studienführer
+>  -   Dokumente/Stellen, wo die Ziele und Lernergebnisse verankert u. veröffentlicht sind, z.B. Ordnungen, Homepage, Diploma Supplement, Studienführer
 >
->-   Interne Unterlagen, aus denen die Einbeziehung der verschiedenen Interessenträger hervorgeht, z.B. Vorgaben, Prozessbeschreibungen, Befragungsergebnisse, Protokolle
+>  -   Interne Unterlagen, aus denen die Einbeziehung der verschiedenen Interessenträger hervorgeht, z.B. Vorgaben, Prozessbeschreibungen, Befragungsergebnisse, Protokolle
 >
->-   Ziele-Module-Matrix
+>  -   Ziele-Module-Matrix
 >
->-   Modulbeschreibungen, wie sie den Lehrenden und Studierenden zur Verfügung stehen
+>  -   Modulbeschreibungen, wie sie den Lehrenden und Studierenden zur Verfügung stehen
 
 
 Die Fachgruppe Medieninformatik innerhalb des Fachbereichs Mensch-Computer-Interaktion der Gesellschaft für Informatik definiert das Lehr-, Forschungs- und Arbeitsgebiet Medieninformatik in ihrem aktuellen Positionspapier[^positionspapier-gi-mci-mi] wie folgt:
 
 > Medieninformatik ist ein Teilgebiet der Informatik. Sie beschäftigt sich mit:
->- der Analyse, Konzeption, Realisierung und Evaluation von interaktiven und multimedialen Mensch-Computer-Systemen sowie Systemen zur computer-mediierten multimedialen Mensch-Mensch-Kommunikation,
+> - der Analyse, Konzeption, Realisierung und Evaluation von interaktiven und multimedialen Mensch-Computer-Systemen sowie Systemen zur computer-mediierten multimedialen Mensch-Mensch-Kommunikation,
 >
->- Methoden und Werkzeugen zur Konzeption, Gestaltung, Produktion, Speicherung und Verteilung digitaler Medien sowie
->- Zielen, Anforderungen und Wirkungen digitaler Medien für Mensch, Umwelt und Gesellschaft.
+> - Methoden und Werkzeugen zur Konzeption, Gestaltung, Produktion, Speicherung und Verteilung digitaler Medien sowie
+> - Zielen, Anforderungen und Wirkungen digitaler Medien für Mensch, Umwelt und Gesellschaft.
 
 
 Darüber hinaus sieht sie fünf charakteristische Merkmale:
@@ -157,5 +157,6 @@ Die Studierenden …
 - können die Realisationen bezüglich der Zielsetzungen kritisch diskutieren.
 
 
-[^gi-empfehlungen]: Gesellschaft für Informatik e.V. (GI): "Empfehlungen für Bachelor- und Masterprogramme im Studienfach Informatik an Hochschulen", unter: <a href="https://www.gi.de/fileadmin/redaktion/empfehlungen/GI-Empfehlungen_Bachelor-Master-Informatik2016.pdf">https://www.gi.de/fileadmin/redaktion/empfehlungen/GI-Empfehlungen_Bachelor-Master-Informatik2016.pdf</a> (abgerufen am 01.02.2017).
-[^positionspapier-gi-mci-mi]: Martin Christof Kindsmüller, Christian Wolters, Andreas M. Heinecke: "Medieninformatik 2016: Was war, was ist, was soll sein?", unter: <a href="http://dl.mensch-und-computer.de/bitstream/handle/123456789/5131/Kindsm%C3%BCller_Wolters_Heinecke_2016.pdf">http://dl.mensch-und-computer.de/bitstream/handle/123456789/5131/Kindsm%C3%BCller_Wolters_Heinecke_2016.pdf</a> (abgerufen am 17.02.2017)
+[^gi-empfehlungen]: Gesellschaft für Informatik e.V. (GI): "Empfehlungen für Bachelor- und Masterprogramme im Studienfach Informatik an Hochschulen", unter: <a href="https://www.gi.de/fileadmin/redaktion/empfehlungen/GI-Empfehlungen_Bachelor-Master-Informatik2016.pdf">https://www.gi.de/fileadmin/redaktion/empfehlungen/GI-Empfehlungen_Bachelor-Master-Informatik2016.pdf (abgerufen am 17.02.2017)</a>
+
+[^positionspapier-gi-mci-mi]: Martin Christof Kindsmüller, Christian Wolters, Andreas M. Heinecke: "Medieninformatik 2016: Was war, was ist, was soll sein?", unter: <a href="http://dl.mensch-und-computer.de/bitstream/handle/123456789/5131/Kindsm%C3%BCller_Wolters_Heinecke_2016.pdf">http://dl.mensch-und-computer.de/bitstream/handle/123456789/5131/Kindsm%C3%BCller_Wolters_Heinecke_2016.pdf</a>
