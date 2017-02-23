@@ -1,6 +1,6 @@
 ---
 title: Prüfungssystem
-aktueller-bearbeiter: 
+aktueller-bearbeiter: Sebastian Müller
 bearbeiterhistorie: 
 date: 10.02.2017
 comment: 
@@ -27,5 +27,5 @@ reviewed-von:
 >-   Statistische Daten zum Studienverlauf, z.B. Durchschnittsnote, Durchfallquote, Anzahl der Wiederholungen
 
 
-## Studien/Prüfungsordnungen
-Die Studien- und Prüfungsordnungen der laufenden Studiengänge sind dem Anhang G dieses Berichts beigefügt. Der Studienverlaufsplan entspricht der Studienordnung. Nach Zu- stimmung der Gutachter zu den in den Abschnitten 1 und 1 erläuterten Änderungen im Rahmen der Reakkreditierung werden die überarbeiteten Prüfungsordnungen zeitnah vorge- legt.
+## Studien/Prüfungsordnungen
+Die Studien- und Prüfungsordnungen der laufenden Studiengänge sind dem Anhang G dieses Berichts beigefügt. Der Studienverlaufsplan entspricht der Studienordnung. Nach Zu- stimmung der Gutachter zu den in den Abschnitten 1 und 1 erläuterten Änderungen im Rahmen der Reakkreditierung werden die überarbeiteten Prüfungsordnungen zeitnah vorge- legt.
