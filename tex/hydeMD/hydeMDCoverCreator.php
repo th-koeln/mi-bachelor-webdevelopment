@@ -41,7 +41,7 @@ if( count( $argv ) > 2 ) {
   $passedPlaceholders = array_filter( explode( ';', $passedPlaceholders ) );
 
   $passedPlaceholders = array_map( function( $placeholderStr ) {
-    return explode( '=', $placeholderStr );
+    return array_map( 'trim', explode( '=', $placeholderStr ) );
   }, $passedPlaceholders );
 
   foreach( $passedPlaceholders as $placeholder ) {
