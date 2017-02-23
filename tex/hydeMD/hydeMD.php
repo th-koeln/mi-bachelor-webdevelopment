@@ -489,12 +489,13 @@ class Document {
             $tableData[ 'type' ][ 'value' ] = $typeMap[ $tableData[ 'type' ][ 'value' ] ];
           }
 
-          $tableMarkdown  = "| &nbsp; | &nbsp; |\n";
-          $tableMarkdown .= "|:-------|:-------|\n";
+          $tableMarkdown = "\n";
 
           foreach( $tableData as $key => $field ) {
-            $tableMarkdown .= "| " . $field[ 'title' ] . " | " . $field[ 'value' ] . " |\n";
+            $tableMarkdown .= "- " . $field[ 'title' ] . ": " . $field[ 'value' ] . "\n";
           }
+
+          $tableMarkdown .= "\n";
 
           $page->content = preg_replace( '/^\s*#(.*?)\n/', "$0\n\n" . $tableMarkdown, $page->content );
 
