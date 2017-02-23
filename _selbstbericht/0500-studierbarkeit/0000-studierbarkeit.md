@@ -2,7 +2,7 @@
 title: Studierbarkeit
 aktueller-bearbeiter: 
 bearbeiterhistorie: Christian Noss, Sebastian Müller
-date: 18.02.2017
+date: 23.02.2017
 comment: von Informatik übernommen, Prüfungen müssen nachgezählt werden, da muss auch noch mal rein geschaut werden, Zugangsvoraussetzungen Master fehlen, kleine Formatierungsfehler korrigiert, aus "FH Köln" "TH Köln" gemacht.
 status: nicht fertig
 reviewed-von:
