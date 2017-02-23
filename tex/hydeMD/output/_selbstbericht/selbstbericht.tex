@@ -40,6 +40,8 @@
 
 %Paket für mehrseitige Tabellen
 \usepackage{longtable}
+\setlength\LTleft{0pt}
+\setlength\LTright{0pt}
 
 \usepackage{booktabs}
 
@@ -73,7 +75,7 @@
 \setlength\footheight{40pt}
 %\lfoot{\includegraphics[height=40pt]{../assets/box.pdf}}
 \rfoot{\thepage}
-\lfoot{\changefont  Medieninformatik\\TH Köln // Institut für Informatik\\ \today}
+\lfoot{\changefont Selbstbericht Medieninformatik\\TH Köln // Institut für Informatik\\ \today}
 
 
 %\UTF{0192}ndert die Seitennummerierung beim Inhaltsverzeichnis mit eigenem Stil
@@ -138,7 +140,7 @@
 
 %Paket zur Erzeugung von Hyperrefs und PDF Informationen
 \usepackage[pdftex,plainpages=false,pdfpagelabels,
-            pdftitle={  Medieninformatik // TH Köln // Institut für Informatik},
+            pdftitle={ Selbstbericht Medieninformatik // TH Köln // Institut für Informatik},
             pdfauthor={}
             ]{hyperref}
 
@@ -169,7 +171,8 @@
 \usepackage[raggedright]{titlesec}
 \titleformat{\chapter}[display]
   {\normalfont\sffamily\mdseries}
-  {\chaptertitlename\ \thechapter}{14pt}{\huge\raggedright}
+  {}{14pt}{\huge\raggedright}
+% {\chaptertitlename\ \thechapter}{14pt}{\huge\raggedright}
 \titleformat{\section}
   {\singlespacing\normalfont\sffamily\mdseries\LARGE\color{m_pink}\raggedright}
   {\thesection}{1em}{\LARGE}
@@ -181,8 +184,6 @@
   {\singlespacing\normalfont\normalsize\bfseries}
   {\theparagraph}{1em}{}
 \titlespacing*{\paragraph}{0pt}{3.25ex plus 1ex minus .2ex}{0.5em}
-
-\usepackage[T1]{fontenc}
 
 
 \usepackage[font=footnotesize]{caption}

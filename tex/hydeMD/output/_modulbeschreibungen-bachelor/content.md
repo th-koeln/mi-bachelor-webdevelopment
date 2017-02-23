@@ -11,31 +11,80 @@
 | Zuordnung zum Curriculum | Medieninformatik Bachelor |
 | Kreditpunkte | 8 |
 | Voraussetzungen nach Prüfungsordnung | keine |
+| Typ | Pflichtmodul |
+
+
+## Lehrform/SWS:
+
+6 SWS: Vorlesung 3 SWS; Übung 1 SWS; Praktikum 2 SWS
+
+
+## Arbeitsaufwand:
+
+Gesamtaufwand 240 h, davon 
+
+- 54 h Vorlesung 
+
+- 36 h Praktikum
+
+- 18 h Übung
+
+- 132 h Selbststudium 
 
 
 ## Angestrebte Lernergebnisse:
 
-Die Studierenden sollen  
+Die Studierenden sollen
 
-- die Prinzipien der Objektorientierung verstanden haben und einfache Softwareeinheiten unter Beachtung dieser Prinzipien erstellen können
+- formale und algorithmische Kompetenzen im Bereich der Software-Entwicklung erlangen. Hierzu gehören insbesondere die Prinzipien der Objektorientierung und die der prozeduralen Programmierung.
 
-- die wichtigsten Eigenschaften der Programmiersprachen C und Java sowie der Java-Entwicklungsumgebung kennen
+- die Kompetenz erlangen, strukturierte und unstrukturierte Problemstellungen zu analysieren, Lösungen modellbasiert zu entwickeln sowie prozedural und objektorientiert umzusetzen.
 
-- einfache Algorithmen beurteilen, vorhandene Bibliothekslösungen angemessen einsetzen und einfache Algorithmen selbstständig entwickeln können.
+- Systementwürfe evaluieren und bewerten können, insbesondere sollen sie die Arbeitsweise, die Randbedingungen und den Komplexitätsgrad von einfachen Algorithmen verstehen.
+
+- die Fähigkeit erlernen, algorithmische Entwurfsmuster zu erkennen und anzuwenden
 
 
 ## Inhalt:
 
-* objektorientierte u. prozedurale Programmierung in C und Java
+* Prozedurale Programmierung am Beispiel von C.
 
-* Algorithmen mit elementaren Datentypen
+* Objektorientierte Programmierung am Beispiel von Java.
 
-* Rekursion in C
+* Kontroll- und Datenstrukturen.
+
+* Modularisierungskonzepte.
+
+* Typkonzepte.
+
+* Grundmuster der objektorientierten Programmierung.
+
+* Elementare Algorithmen und Aufwandsschätzung.
+
+* Entwicklungsumgebungen.
+
+
+## Studien-/Prüfungsleistungen:
+
+Klausur sowie erfolgreiche Teilnahme am Praktikum als Prüfungsvorleistung
+
+
+## Medienformen:
+
+- Beamer-gestützte Vorlesungen (Folien in elektronischer Form) 
+
+- Praktikum an Rechnern des Labors
 
 
 ## Literatur:
 
-* Tutorium unter <a href ="http://www.hb02.de/ap1/"> http://www.hb02.de/ap1</a>
+* Vorlesungsunterlagen: Foliensammlung, ausformuliertes Skript, Beispiellösungen, Übungsklausuren mit Lösungen
+
+* Fachliteratur: Diverse C-Bücher, u.a.: Kernighan, B.W., Ritchie, D.M.: „Programmieren in C“
+
+* Diverse Java-Bücher, u.a.: Bishop, J.: „Java Lernen“
+
+* Sedgewick, R.: „Algorithmen in Java“
 
 
 
@@ -51,6 +100,25 @@ Die Studierenden sollen
 | Zuordnung zum Curriculum | Medieninformatik Bachelor |
 | Kreditpunkte | 7 |
 | Voraussetzungen nach Prüfungsordnung | Keine über die Zulassungsvorrausetzungen hinausgehenden Vorraussetzungen |
+| Typ | Pflichtmodul |
+
+
+## Lehrform/SWS:
+
+6 SWS: Vorlesung 3 SWS; Übung 1 SWS; Praktikum 2 SWS
+
+
+## Arbeitsaufwand:
+
+Gesamtaufwand 210 h, davon 
+
+- 54 h Vorlesung 
+
+- 36 h Praktikum
+
+- 18 h Übung
+
+- 102 h Selbststudium 
 
 
 ## Angestrebte Lernergebnisse:
@@ -69,21 +137,27 @@ Die Studierende sollen Objektorientierung, die Prinzipien der Algorithmenentwick
 * Methodik des objektorientierten Programmierens
 
 
+## Studien-/Prüfungsleistungen:
+
+Klausur sowie erfolgreiche Teilnahme am Praktikum als Prüfungsvorleistung
+
+
+## Medienformen:
+
+* Beamer-gestützte Vorlesungen (Folien in elektronischer Form) 
+
+* Praktikum an Rechnern des Labors
+
+
 ## Literatur:
 
-- Vorlesungsunterlagen: Foliensammlung, ausformuliertes Skript, Beispiellösungen, Verweise auf Onlinedokumente
+- Vorlesungsunterlagen: Foliensammlung, ausformuliertes Skript, Beispiellösungen
 
-- J. Bishop
+- Fachliteratur: Bishop, J.: „Java Lernen“
 
-  Java Lernen
+- Sedgewick, R.: „Algorithmen in Java“
 
-- R. Sedgewick
-
-  Algorithmen in Java
-
-- J. Barnes, M. Kölling,
-
-  Java Lernen mit BlueJ
+- Barnes, J., Kölling, M.: „Java Lernen mit BlueJ“, Verweise auf Onlinedokumente
 
 
 
@@ -99,6 +173,7 @@ Die Studierende sollen Objektorientierung, die Prinzipien der Algorithmenentwick
 | Zuordnung zum Curriculum | Bachelor Medieninformatik – Pflichtbereich |
 | Kreditpunkte | 5 |
 | Voraussetzungen nach Prüfungsordnung | Keine über die Zulassungsbedingungen hinausgehenden Voraussetzungen |
+| Typ | Pflichtmodul |
 
 
 ## Lehrform/SWS:
@@ -108,18 +183,18 @@ Die Studierende sollen Objektorientierung, die Prinzipien der Algorithmenentwick
 
 ## Arbeitsaufwand:
 
-Gesamtaufwand 150 h, davon 
+Gesamtaufwand 150 h, davon
 
-- 36 h Vorlesung 
+- 36 h Vorlesung
 
-- 36 h Projektarbeit  
+- 36 h Projektarbeit
 
-- 78 h Selbststudium 
+- 78 h Selbststudium
 
 
 ## Angestrebte Lernergebnisse:
 
-Die praktische Umsetzung des Vorlesungsstoffes, die Kommunikation und Zusammenarbeit im Team über Themenbereiche dieses Faches und die Präsentation von eigenen Projekten und Untersuchungsergebnissen sind die Lernziele des Moduls „Audiovisuelles Medienprojekt“. Neben dieser formulierten Fachkompetenz, Methodenkompetenz und Kommunikationskompetenz stehen gerade die sogenannten Softskills Teamfähigkeit und Kommunikationsfähigkeit im Focus der Ausbildung in diesem Modul. 
+Die praktische Umsetzung des Vorlesungsstoffes, die Kommunikation und Zusammenarbeit im Team über Themenbereiche dieses Faches und die Präsentation von eigenen Projekten und Untersuchungsergebnissen sind die Lernziele des Moduls „Audiovisuelles Medienprojekt“. Neben dieser formulierten Fachkompetenz, Methodenkompetenz und Kommunikationskompetenz stehen gerade die sogenannten Softskills Teamfähigkeit und Kommunikationsfähigkeit im Focus der Ausbildung in diesem Modul.
 
 Um mit der sich hieraus entwickelnden erhöhten Komplexität der Fragestellungen kompetent umgehen zu können, wird in diesem Modul inhaltlich auf die technischen Grundlagen der audiovisuellen Produktion besonders eingegangen. Die thematische Gewichtung der Inhalte ist im Hinblick auf die Vermittlung der Befähigung ausgerichtet, selbstständig in der audiovisuellen Produktion auftretende Problemstellungen lösen zu können und die verwendeten technischen Werkzeuge, wie Videokamera, Tonaufnahmegeräte und Schnittsysteme technisch richtig und gestalterisch aussagekräftig einzusetzen. Über diese Methodenkompetenz hinaus wird in Filmanalysen und einer kritischen Betrachtung medialer Ereignisse die Fähigkeit zur Reflexion vermittelt. Dabei spielt die Begründung der Auswahl bestimmter Medientechnologien und deren Einsatz in der Medienproduktion eine wichtige Rolle.
 
@@ -158,7 +233,7 @@ Projektarbeit und schriftliche Ausarbeitung
 
 ## Medienformen:
 
-- Beamer-gestützte Vorlesungen (Folien in elektronischer Form); 
+- Beamer-gestützte Vorlesungen (Folien in elektronischer Form)
 
 - Beispiele aus verschiedenen Medien in elektronischer Form
 
@@ -167,43 +242,21 @@ Projektarbeit und schriftliche Ausarbeitung
 
 ## Literatur:
 
-- James Monaco, Film verstehen
+- James Monaco, Film verstehen, Rowolth Taschenbuch Verlag Hamburg, 1980, ISBN 3-499-162717
 
-  Rowolth Taschenbuch Verlag Hamburg, 1980, 
+- Syd Field, Drehbuchschreiben für Film und Fernsehen, München 2003, ISBN 354836473X
 
-  ISBN 3-499-162717
+- Steven D. Katz, Die Richtige Einstellung, Zweitausendeins, Frankfurt a.M.1998,ISBN 3-86150-229-1
 
-- Syd Field, Drehbuchschreiben für Film und Fernsehen, 
+- David Lewis Yewdall, Practical Art of Motion Picture Sound, Focal Press, USA 2003, ISBN 0-240-80525-9
 
-  München 2003, ISBN 354836473X
+- Hans Kornacher & Manfred Stross, Dokumentarisches Videofilmen, Augustus Verlag, Augsburg, 1992, ISBN 3-8043-5474-2
 
-- Steven D. Katz, Die Richtige Einstellung
+- Hans Beller Hg., Handbuch der Filmmontage, München: TR-Verlagsunion, 1993, ISBN 3-8058-2357-6
 
-  Zweitausendeins, Frankfurt a.M.1998,ISBN 3-86150-229-1
+- Karel Reisz, Gavin Millar, Geschichte und Technik der Filmmontage, München: Filmlandpresse, 1988, ISBN 3-88690-071-1
 
-- David Lewis Yewdall, Practical Art of Motion Picture Sound
-
-  Focal Press, USA 2003, ISBN 0-240-80525-9
-
-- Hans Kornacher & Manfred Stross, 
-
-  Dokumentarisches Videofilmen
-
-  Augustus Verlag, Augsburg, 1992, ISBN 3-8043-5474-2
-
-- Hans Beller Hg., Handbuch der Filmmontage, 
-
-  München: TR-Verlagsunion, 1993, ISBN 3-8058-2357-6 
-
-- Karel Reisz, Gavin Millar, 
-
-  Geschichte und Technik der Filmmontage, 
-
-  München: Filmlandpresse, 1988, ISBN 3-88690-071-1
-
-- Chris Vogler, 
-
-  Die Reise des Drehbuchschreibens, Verlag Zweitausendeins
+- Chris Vogler, Die Reise des Drehbuchschreibens, Verlag Zweitausendeins
 
 
 
@@ -219,6 +272,7 @@ Projektarbeit und schriftliche Ausarbeitung
 | Zuordnung zum Curriculum | Medieninformatik Bachelor |
 | Kreditpunkte | 12 |
 | Voraussetzungen nach Prüfungsordnung | alle Modulprüfungen außer Bachelorarbeit und Kolloquium bestanden |
+| Typ | Pflichtmodul |
 
 
 ## Lehrform/SWS:
@@ -254,6 +308,7 @@ Selbstständiges wissenschaftliches, fachpraktisches und gestalterisches Bearbei
 | Zuordnung zum Curriculum | Medieninformatik Bachelor |
 | Kreditpunkte | 3 |
 | Voraussetzungen nach Prüfungsordnung | alle Modulprüfungen außer Bachelor Kolloquium bestanden |
+| Typ | Pflichtmodul |
 
 
 ## Lehrform/SWS:
@@ -294,6 +349,7 @@ mündliche Prüfung, Vortrag
 | Zuordnung zum Curriculum | Medieninformatik Bachelor |
 | Kreditpunkte | 5 |
 | Voraussetzungen nach Prüfungsordnung | keine |
+| Typ | Pflichtmodul |
 
 
 ## Kurzbeschreibung
@@ -307,6 +363,8 @@ Systemprogrammierung am Beispiel von UNIX.
 
 
 ## Arbeitsaufwand:
+
+Gesamtaufwand 150 h, davon 
 
 - 36 h Vorlesung 
 
@@ -395,6 +453,7 @@ Foliensammlung, ausformuliertes Skript, Beispiellösungen
 | Zuordnung zum Curriculum | Medieninformatik Bachelor |
 | Kreditpunkte | 5 |
 | Voraussetzungen nach Prüfungsordnung | keine |
+| Typ | Pflichtmodul |
 
 
 ## Lehrform/SWS:
@@ -458,6 +517,25 @@ schriftliche Klausur
 | Zuordnung zum Curriculum | Medieninformatik Bachelor |
 | Kreditpunkte | 5 |
 | Voraussetzungen nach Prüfungsordnung | Klausurteilnahme nur bei bestandenem DBS1-Praktikum |
+| Typ | Pflichtmodul |
+
+
+## Lehrform/SWS:
+
+5 SWS: Vorlesung 2 SWS; Übung 1 SWS; Praktikum 1 SWS
+
+
+## Arbeitsaufwand:
+
+Gesamtaufwand 150 h, davon 
+
+- 36 h Vorlesung 
+
+- 18 h Praktikum
+
+- 18 h Übung
+
+- 78 h Selbststudium 
 
 
 ## Angestrebte Lernergebnisse:
@@ -548,6 +626,23 @@ Klausur, deren Voraussetzung das bestandene Praktikum ist, und semesterbegleiten
 | Zuordnung zum Curriculum | Medieninformatik Bachelor |
 | Kreditpunkte | 5 |
 | Voraussetzungen nach Prüfungsordnung | Erfolgreiche Modulprüfungen in den Modulen des Grundstudiums |
+| Typ | Pflichtmodul |
+
+
+## Lehrform/SWS:
+
+4 SWS: Vorlesung 2 SWS; Übung 2 SWS
+
+
+## Arbeitsaufwand:
+
+Gesamtaufwand 150 h, davon 
+
+- 36 h Vorlesung 
+
+- 36 h Übung
+
+- 78 h Selbststudium 
 
 
 ## Angestrebte Lernergebnisse:
@@ -560,6 +655,11 @@ Die Studierenden sollen die Basiskonzepte und Grundlagen der Betriebssysteme und
 * Betriebssysteme aus Nutzersicht: Dateisysteme, Parallele Prozesse, Sicherheit in Betriebssystemen
 
 * bei Rechnerkomponenten: grundlegende Architekturen, Darstellung von Daten, interne Bussysteme, Prozessoren, Festplatten, Peripherieschnittstellen, Parallelrechner
+
+
+## Studien-/Prüfungsleistungen:
+
+Schriftliche Prüfung, zuvor erfolgreiche Teilnahme am Praktikum als Prüfungsvorleistung
 
 
 ## Literatur:
@@ -584,6 +684,7 @@ Die Studierenden sollen die Basiskonzepte und Grundlagen der Betriebssysteme und
 | Zuordnung zum Curriculum | Medieninformatik Bachelor |
 | Kreditpunkte | 5 |
 | Voraussetzungen nach Prüfungsordnung | Keine |
+| Typ | Pflichtmodul |
 
 
 ## Lehrform/SWS:
@@ -650,6 +751,7 @@ mündliche Prüfung, Projektpräsentation, schriftliche Ausarbeitung
 | Zuordnung zum Curriculum | Medieninformatik Bachelor |
 | Kreditpunkte | 10 |
 | Voraussetzungen nach Prüfungsordnung | Schwerpunktmodul |
+| Typ | Pflichtmodul |
 
 
 ## Lehrform/SWS:
@@ -696,6 +798,7 @@ Die Projektergebnis, bestehend aus Prototyp und Dokumentation,  geht mit 80% in 
 | Zuordnung zum Curriculum | Medieninformatik Bachelor |
 | Kreditpunkte | 5 |
 | Voraussetzungen nach Prüfungsordnung | keine |
+| Typ | Pflichtmodul |
 
 
 ## Kurzbeschreibung
@@ -710,7 +813,13 @@ In der Veranstaltung werden wesentliche Grundideen, Interaktionsprinzipien, Cont
 
 ## Arbeitsaufwand:
 
-150 Stunden
+Gesamtaufwand 150 h, davon 
+
+- 36 h Vorlesung 
+
+- 36 h Seminar
+
+- 78 h Selbststudium 
 
 
 ## Angestrebte Lernergebnisse:
@@ -781,6 +890,7 @@ Mündliche Prüfung
 | Zuordnung zum Curriculum | Medieninformatik Bachelor |
 | Kreditpunkte | 5 |
 | Voraussetzungen nach Prüfungsordnung | Kenntnisse aus dem Grundstudium. |
+| Typ | Pflichtmodul |
 
 
 ## Lehrform/SWS:
@@ -831,11 +941,25 @@ Grundbegriffe und Grundlagen, Kommunikationssysteme (Modelle, Grundbegriffe), Pr
 | Zuordnung zum Curriculum | Medieninformatik Bachelor |
 | Kreditpunkte | 7 |
 | Voraussetzungen nach Prüfungsordnung | &nbsp; |
+| Typ | Pflichtmodul |
 
 
 ## Lehrform/SWS:
 
 6 SWS: Vorlesung  3 SWS; Praktikum 1 SWS; Übung 2 SWS
+
+
+## Arbeitsaufwand:
+
+Gesamtaufwand 210 h, davon 
+
+- 54 h Vorlesung 
+
+- 18 h Praktikum
+
+- 36 h Übung
+
+- 102 h Selbststudium 
 
 
 ## Angestrebte Lernergebnisse:
@@ -889,11 +1013,25 @@ Klausur (60 min) sowie erfolgreiche Teilnahme am Praktikum als Zulassungsvorauss
 | Zuordnung zum Curriculum | Medieninformatik Bachelor |
 | Kreditpunkte | 8 |
 | Voraussetzungen nach Prüfungsordnung | Keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden. Der vorherige Besuch von Mathematik I ist sinnvoll, aber keine zwingende Voraussetzung. |
+| Typ | Pflichtmodul |
 
 
 ## Lehrform/SWS:
 
 6 SWS: Vorlesung  3 SWS; Praktikum 1 SWS; Übung 2 SWS
+
+
+## Arbeitsaufwand:
+
+Gesamtaufwand 240 h, davon 
+
+- 54 h Vorlesung 
+
+- 18 h Praktikum
+
+- 36 h Übung
+
+- 132 h Selbststudium 
 
 
 ## Angestrebte Lernergebnisse:
@@ -939,6 +1077,7 @@ Klausur (60 min) sowie erfolgreiche Teilnahme am Praktikum als Zulassungsvorauss
 | Zuordnung zum Curriculum | Medieninformatik Bachelor |
 | Kreditpunkte | 10 |
 | Voraussetzungen nach Prüfungsordnung | keine |
+| Typ | Pflichtmodul |
 
 
 ## Lehrform/SWS:
@@ -1063,6 +1202,7 @@ schriftliche Modulprüfung
 | Zuordnung zum Curriculum | Medieninformatik Bachelor |
 | Kreditpunkte | 5 |
 | Voraussetzungen nach Prüfungsordnung | keine |
+| Typ | Pflichtmodul |
 
 
 ## Lehrform/SWS:
@@ -1087,17 +1227,13 @@ Informatikerinnen und Informatiker analysieren und konstruieren sozio-technische
 
 Die Studierenden sollen befähigt werden
 
-* die unterschiedlichen Wechselwirkungen zwischen Informatik-Systemen und ihrem Einsatzumfeld zu erkennen und zu bewerten, 
+* ethische und rechtliche Aspekte des Einsatzes von Informatik-Systemen zu charakterisieren und 
 
-* ethische und rechtliche Aspekte des Einsatzes von Informatik-Systemen zu charakterisieren 
+* ein kritisches Bewusstsein für die aktuellen Fragen des wechselseitigen Einflusses von Informatik und Gesellschaft zu entwickeln sowie 
 
-* ein kritisches Bewusstsein für die aktuellen Fragen des wechselseitigen Einflusses von Informatik und Gesellschaft zu entwickeln.
+* die Grundbegriffe des deutschen Privatrechts zu verstehen und sich im dazugehörigen Gesetzeswerk zu orientieren, 
 
-* die Grundbegriffe des deutschen Privatrechts zu verstehen
-
-* sich im dazugehörigen Gesetzeswerk zu orientieren 
-
-* und insbesondere im Bereich des Vertragsrechts selbständige Lösungsvorschläge zu erarbeiten.
+* um die unterschiedlichen Wechselwirkungen zwischen Informatik-Systemen und ihrem Einsatzumfeld erkennen und bewerten und insbesondere im Bereich des Vertragsrechts selbständige Lösungsvorschläge erarbeiten zu können.
 
 
 ## Inhalt:
@@ -1216,6 +1352,7 @@ Beamergestützte Vorträge
 | Zuordnung zum Curriculum | Medieninformatik Bachelor |
 | Kreditpunkte | 5 |
 | Voraussetzungen nach Prüfungsordnung | Keine über die Zulassungsvorrausetzungen hinausgehenden Vorraussetzungen |
+| Typ | Pflichtmodul |
 
 
 ## Lehrform/SWS:
@@ -1300,6 +1437,7 @@ Klausur sowie erfolgreiche Teilnahme am Praktikum als Prüfungsvorleistung
 | Zuordnung zum Curriculum | Medieninformatik Bachelor |
 | Kreditpunkte | 10 |
 | Voraussetzungen nach Prüfungsordnung | alle Modulprüfungen außer Praxisprojekt, Bachelorarbeit und Kolloquium bestanden |
+| Typ | Pflichtmodul |
 
 
 ## Lehrform/SWS:
@@ -1344,6 +1482,7 @@ Schriftliche Ausarbeitung, Projektdokumentation
 | Zuordnung zum Curriculum | Medieninformatik Bachelor |
 | Kreditpunkte | 5 |
 | Voraussetzungen nach Prüfungsordnung | alle Modulprüfungen außer Bachelorarbeit und Kolloquium bestanden |
+| Typ | Pflichtmodul |
 
 
 ## Lehrform/SWS:
@@ -1407,6 +1546,7 @@ Seminarvortrag zur Praxisprojektarbeit
 | Zuordnung zum Curriculum | Medieninformatik Bachelor |
 | Kreditpunkte | 5 |
 | Voraussetzungen nach Prüfungsordnung | Zulassungsbedingung - Abgeschlossenes Grundstudium; Sonst keine besonderen Voraussetzungen; |
+| Typ | Pflichtmodul |
 
 
 ## Kurzbeschreibung:
@@ -1512,310 +1652,6 @@ Damit die Studierenden die vorgestellten Methoden und Techniken zum Management v
 
 
 
-# Empirische Forschungsmethoden in der Informatik
-
-
-| &nbsp; | &nbsp; |
-|:-------|:-------|
-| Modulverantwortlich | Prof. Dr. Christian Kohls |
-| Kürzel | &nbsp; |
-| Studiensemester | 4 |
-| Sprache | deutsch |
-| Zuordnung zum Curriculum | Medieninformatik Bachelor |
-| Kreditpunkte | 5 |
-| Voraussetzungen nach Prüfungsordnung |  |
-
-
-## Lehrform/SWS:
-
-4 SWS: Vorlesung 2 SWS; Seminar 2 SWS
-
-
-## Arbeitsaufwand:
-
-Gesamtaufwand 150 h, davon 
-
-- 30 h Vorlesung 
-
-- 75 h Seminar
-
-- 45 h Selbststudium 
-
-
-## Angestrebte Lernergebnisse:
-
-Die Studierenden sollen 
-
-* die unterschiedlichen Herangehensweisen quantitativer und qualitativer Forschungsmethoden verstehen. Darüber hinaus sollen 
-
-* ausgewählte quantitative und qualitative Methoden angewendet werden können. 
-
-* in der Lage sein, einfache Forschungsdesigns zu entwickeln und nach wissenschaftlichen Standards durchzuführen. 
-
-
-## Inhalt:
-
-Wissenschaftstheoretische Grundlagen
-
-- Induktion, Deduktion, Abduktion
-
-- Unterschied zwischen quantitativer und qualitativer Forschung
-
-- Interviews gestalten, durchführen und auswerten
-
-- Beobachtung
-
-- Ethnographische Methoden
-
-- Hypothesengewinnung und Theoriebildung
-
-- Experimental-Designs
-
-- Statistische Verfahren für quantitative Forschung
-
-- Aussagekraft der Ergebnisse (statistische Signifikanz, interne und externe Valididät)
-
-
-## Studien-/Prüfungsleistungen:
-
-Abschlusspräsentation und schriftliche Ausarbeitung
-
-
-## Medienformen:
-
--	Beamer-gestützte Vorlesungen (Folien in elektronischer Form)
-
--	Screencasts und Handouts
-
-
-## Literatur:
-
-- Döring, N. & Bortz, J. (2015). Forschungsmethoden und Evaluation: Für Human- und Sozialwissenschaftler. Berlin [u.a.]: Springer.
-
-- Flick, U. (2011). Qualitative Sozialforschung: Eine Einführung. Reinbek bei Hamburg: Rowohlt-Taschenbuch-Verl. 
-
-- Popper, K. R. (1972). The logic of scientific discovery. London: Hutchinson.
-
-- Schnädelbach, H. (2002). Erkenntnistheorie zur Einführung. Zur Einführung, 268. Hamburg: Junius.
-
-- Westermann, R. (2000). Wissenschaftstheorie und Experimentalmethodik: Ein Lehrbuch zur psychologischen Methodenlehre. Göttingen [u.a.]: Hogrefe, Verl. für Psychologie.
-
-
-
-# Projekt Social Computing
-
-
-| &nbsp; | &nbsp; |
-|:-------|:-------|
-| Modulverantwortlich | Prof. Dr. Christian Kohls |
-| Kürzel | &nbsp; |
-| Studiensemester | 4 |
-| Sprache | deutsch |
-| Zuordnung zum Curriculum | Medieninformatik Bachelor |
-| Kreditpunkte | 5 |
-| Voraussetzungen nach Prüfungsordnung |  |
-
-
-## Lehrform/SWS:
-
-4 SWS Projekt
-
-
-## Arbeitsaufwand:
-
-150h Projekt
-
-
-## Angestrebte Lernergebnisse:
-
-TODO
-
-
-## Inhalt:
-
-TODO
-
-
-## Studien-/Prüfungsleistungen:
-
-TODO
-
-
-## Medienformen:
-
-TODO
-
-
-## Literatur:
-
-TODO
-
-
-
-# Gamification
-
-
-| &nbsp; | &nbsp; |
-|:-------|:-------|
-| Modulverantwortlich | Prof. Dr. Christian Kohls |
-| Kürzel | &nbsp; |
-| Studiensemester | 4 |
-| Sprache | deutsch |
-| Zuordnung zum Curriculum | Medieninformatik Bachelor |
-| Kreditpunkte | 5 |
-| Voraussetzungen nach Prüfungsordnung |  |
-
-
-## Lehrform/SWS:
-
-4 SWS: Vorlesung 1 SWS; Projekt 3 SWS
-
-
-## Arbeitsaufwand: 150 h, davon 30h Vorlesung, 90h Projekt
-
-Gesamtaufwand 150 h, davon 
-
-- 30 h Vorlesung 
-
-- 90 h Projekt
-
-
-## Angestrebte Lernergebnisse:
-
-Die Studierenden sollen in der Lage sein, die Möglichkeiten und Grenzen des Gamification-Ansatzes, sowohl für die analoge als auch die digitale Welt, einordnen zu können. Die verschiedenen Stufen der Gamification sollen verstanden und die Maßnahmen in Gestaltungsprozessen eingesetzt werden. Die Studierenden sollen die psychologischen Grundlagen verstehen und die gesellschaftlichen Implikationen bewerten können. Die Analyse von Regeln und Prozessen und daraus abgeleitete Gamification-Maßnahmen sowie die Entwicklung von Serious Games sollen praktisch umgesetzt werden, z.B. für Lernanwendungen, Online-Communities oder soziale Dienste.
-
-
-## Inhalt:
-
-- Grundelemente der Gamification
-
-- Stufen der Gamification
-
-- Ludifikation
-
-- Historische Grundlagen
-
-- Psychologische Grundlagen
-
-- Gesellschaftliche Einordnung
-
-- Einsatzgebiete
-
-- Planung und Realisierung von Gamification
-
-- Gestaltungregeln
-
-- Serious Games
-
-
-## Studien-/Prüfungsleistungen:
-
-Projektausarbeitung
-
-
-## Medienformen:
-
-- Folien
-
-- Beispielmedien
-
-- Arbeit im Innovationsraum mit digitalen Whiteboards, Spiel-Arcarde, Tablets und Gestaltungsmaterialien
-
-
-## Literatur:
-
-- DeKoven, B., & MIT Press. (2013). The well-played game: A player's philosophy. Cambridge: The MIT Press. 
-
-- Fullerton, T., Swain, C., & Hoffman, S. (2008). Game design workshop: A playcentric approach to creating innovative games. Amsterdam: Elsevier Morgan Kaufmann. 
-
-- Koster, R. (2013). Theory of Fun for Game Design. Sebastopol: O'Reilly. 
-
-- Salen, K., & Zimmerman, E. (2007). Rules of play: Game design fundamentals. Cambridge, Mass. [u.a.: The MIT Press. 
-
-
-
-# Soziotechnische Systeme
-
-
-| &nbsp; | &nbsp; |
-|:-------|:-------|
-| Modulverantwortlich | Prof. Dr. Christian Kohls |
-| Kürzel | &nbsp; |
-| Studiensemester | 4 |
-| Sprache | deutsch |
-| Zuordnung zum Curriculum | Medieninformatik Bachelor |
-| Kreditpunkte | 5 |
-| Voraussetzungen nach Prüfungsordnung |  |
-
-
-## Lehrform/SWS:
-
-4 SWS: Vorlesung 2 SWS; Seminar 2 SWS
-
-
-## Arbeitsaufwand:
-
-Gesamtaufwand 150 h, davon 
-
-- 45 h Vorlesung 
-
-- 60 h Projekt
-
-- 45h Selbststudium 
-
-
-## Angestrebte Lernergebnisse:
-
-Die Studierenden sollen das komplexe Wechselspiel zwischen informationstechnischen Systemen und gesellschaftlichen Normen und Prozessen verstehen, analysieren und einordnen können. Sie sollen in der Lage sein, Systeme nach ethischen, psychologischen und soziologischen Kriterien zu gestalten und die Auswirkungen einschätzen zu können. Die grundlegenden Modelle der verschiedenen Disziplinen sollen bekannt und verstanden werden.
-
-
-## Inhalt:
-
-* Modelle der Sozioinformatik
-
-- E-Learning
-
-- Soziale und technische Systeme
-
-- Gestaltungsprinzipien für soziotechnische Systeme
-
-- Technikgenese und Ko-Evolution
-
-- Computerethische Grundlagen
-
-- Psychologische Grundlagen
-
-- Soziologische Grundlagen
-
-- Digitale Technologien für soziale Dienste
-
-- Digitale Technologien in Organisationen
-
-- Digitale Technologien in der Gesellschaft
-
-- E-Goverment
-
-
-## Studien-/Prüfungsleistungen:
-
-Abschlusspräsentation
-
-
-## Medienformen:
-
-- Beamer-gestützte Vorlesungen (Folien in elektronischer Form)
-
-- Screencasts und Handouts
-
-
-## Literatur:
-
-- Kienle, A., Kunau, G.  (2014). Informatik und Gesellschaft. Eine sozio-technische Perspektive. München: Oldenbourg Wissenschaftsverlag.
-
-- Zweig, K. A., In Neuser, W., In Pipek, V., In Rohde, M., & In Scholtes, I. (2014). Socioinformatics: The social impact of interactions between humans and IT.
-
-
-
 # Screendesign
 
 
@@ -1828,6 +1664,7 @@ Abschlusspräsentation
 | Zuordnung zum Curriculum | Medieninformatik Bachelor |
 | Kreditpunkte | 5 |
 | Voraussetzungen nach Prüfungsordnung | keine |
+| Typ | Pflichtmodul |
 
 
 ## Lehrform/SWS:
@@ -1952,11 +1789,12 @@ Beamergestützte Vorträge, Rechnergestützte  Workshops
 | Zuordnung zum Curriculum | Medieninformatik Bachelor, 4. Semester , Pflichtfach |
 | Kreditpunkte | 5 |
 | Voraussetzungen nach Prüfungsordnung | Keine über die Zulassungsbedingungen hinausgehenden Voraussetzungen |
+| Typ | Pflichtmodul |
 
 
 ## Kurzbeschreibung:
 
-Prinzipien, Methoden und Techniken der modellbasierten methodische objektorientierte Softwareentwicklung
+Prinzipien, Methoden und Techniken der modellbasierten methodischen objektorientierten Softwareentwicklung
 
 
 ## Lehrform/SWS:
@@ -1985,12 +1823,12 @@ Die Studierenden sollen befähigt werden,
 
 - gegebene Modelle zu interpretieren, zu analysieren und zu bewerten, 
 
--  komplexe Systeme zu analysieren, im Team zu entwerfen und dabei im Rahmen methodischer Vorgehensweisen Techniken und Werkzeuge der objektorientierten Modellierung und Softwareentwicklung in den Aktivitäten Anforderungsermittlung, Softwarespezifizierung und Entwurf einzusetzen.
+-  um komplexe Systeme zu analysieren, im Team zu entwerfen und dabei im Rahmen methodischer Vorgehensweisen Techniken und Werkzeuge der objektorientierten Modellierung und Softwareentwicklung in den Aktivitäten Anforderungsermittlung, Softwarespezifizierung und Entwurf einzusetzen.
 
 
 ## Inhalt:
 
-Die Vorlesung gibt zunächst einen Überblick über das Gesamtgebiet Softwaretechnik und behandelt dann ausschließlich grundlegende „Informatikaspekte” der objektorientierten Softwareentwicklung. Als wesentliche Grundlage werden die wichtigsten Elemente der Unified Modelling Language (UML) vorgestellt und anhand kleinerer Beispiele erläutert. Danach werden typische Aktivitäten der Softwareentwicklung besprochen, wobei die UML als Modellierungssprache benutzt wird. Im Praktikum werden die Anwendung der Modellierungselemente und die Durchführung der Aktivitäten in Gruppenarbeit vertieft.  
+Die Vorlesung skizziert zunächst das Gesamtgebiet Softwaretechnik und behandelt dann ausschließlich grundlegende „Informatikaspekte” der objektorientierten Softwareentwicklung. Als wesentliche Grundlage werden die wichtigsten Elemente der Unified Modelling Language (UML) vorgestellt und anhand kleinerer Beispiele erläutert. Danach werden typische Aktivitäten der Softwareentwicklung besprochen, wobei die UML als Modellierungssprache benutzt wird. Im Praktikum werden die Anwendung der Modellierungselemente und die Durchführung der Aktivitäten in Gruppenarbeit vertieft.  
 
 Das Modul gliedert sich in folgende Inhalte: 
 
@@ -2010,7 +1848,7 @@ Klausur 120 Minuten
 
 ## Medienformen:
 
-- Übungen
+- Flipped-Classroom mit Diskussion und Übungen als Einzel- und Kleinstgrupen
 
 - e-Vorlesungen (Video-Clips und Folien in elektronischer Form zum Selbststudium);
 
@@ -2051,6 +1889,7 @@ Klausur 120 Minuten
 | Zuordnung zum Curriculum | Medieninformatik Bachelor |
 | Kreditpunkte | 5 |
 | Voraussetzungen nach Prüfungsordnung | Einfache Kenntnisse der naiven Mengenlehre, wie sie in der Schule vermittelt und bei der mathematischen Begriffsbildung verwendet werden. |
+| Typ | Pflichtmodul |
 
 
 ## Lehrform/SWS:
@@ -2163,6 +2002,7 @@ Vorlesung mit Übung
 | Zuordnung zum Curriculum | Medieninformatik Bachelor |
 | Kreditpunkte | 5 |
 | Voraussetzungen nach Prüfungsordnung | Einfache Kenntnisse der naiven Mengenlehre, wie sie in der Schule vermittelt und bei der mathematischen Begriffsbildung verwendet werden. |
+| Typ | Pflichtmodul |
 
 
 ## Lehrform/SWS:
@@ -2275,6 +2115,7 @@ Vorlesung und praktische Übungen
 | Zuordnung zum Curriculum | Medieninformatik Bachelor |
 | Kreditpunkte | 20 |
 | Voraussetzungen nach Prüfungsordnung | keine |
+| Typ | Vertiefungsmodul |
 
 
 ## Kurzbeschreibung
@@ -2685,6 +2526,7 @@ Beamergestützte Vorträge, Rechnergestützte Workshops
 | Zuordnung zum Curriculum | Medieninformatik Bachelor |
 | Kreditpunkte | 20 |
 | Voraussetzungen nach Prüfungsordnung | keine |
+| Typ | Vertiefungsmodul |
 
 
 ## Kurzbeschreibung
@@ -2889,6 +2731,7 @@ Hier fehlen noch die Literaturangaben zu den einzelnen Teilmodulen
 | Zuordnung zum Curriculum | Medieninformatik Bachelor |
 | Kreditpunkte | 20 |
 | Voraussetzungen nach Prüfungsordnung | keine |
+| Typ | Vertiefungsmodul |
 
 
 ## Kurzbeschreibung
@@ -2978,6 +2821,7 @@ siehe jeweilige Kursbeschreibung
 | Zuordnung zum Curriculum | Medieninformatik Bachelor |
 | Kreditpunkte | 5 |
 | Voraussetzungen nach Prüfungsordnung | keine |
+| Typ | Pflichtmodul |
 
 
 ## Lehrform/SWS:

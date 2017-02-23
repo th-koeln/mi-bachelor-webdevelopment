@@ -171,7 +171,9 @@ class Document {
 
     $this->fetchFiles();
     $this->loadFileContents();
-    $this->replaceYAMLHeaderInFiles();
+    $this->parseYAMLHeader();
+    /* We now have all the infos needed, to be able to filter files */
+    $this->filterFiles();
     $this->fixEmptyTableHeader();
     $this->preprocessMD();
 
@@ -223,8 +225,27 @@ class Document {
   }
 
 
+  private function filterFiles() {
 
-  private function replaceYAMLHeaderInFiles() {
+    foreach( $this->files as $path => $page ) {
+
+      switch( $this->getSimpleDocumentName() ) {
+
+        case 'modulbeschreibungen-bachelor':
+          if( isset( $page->infos[ 'type' ] ) &&
+              $page->infos[ 'type' ] === 'tm' ) {
+
+            unset( $this->files[ $path ] );
+          }
+          break;
+
+      }
+
+    }
+  }
+
+
+  private function parseYAMLHeader() {
     foreach( $this->files as $path => &$page ) {
 
       $firstReplacement = true;
@@ -372,6 +393,11 @@ class Document {
           $peopleYamlPath = dirname( __FILE__ ) . DIRECTORY_SEPARATOR . '../../_data/people.yml';
           $people = \Spyc::YAMLLoad( $peopleYamlPath );
 
+          $typeMap = array(
+            'pm'  => 'Pflichtmodul',
+            'vpm' => 'Vertiefungsmodul'
+          );
+
           $tableData = array(
             'modulverantwortlich'                   => 'Modulverantwortlich',
             'kuerzel'                               => 'Kürzel',
@@ -379,7 +405,8 @@ class Document {
             'sprache'                               => 'Sprache',
             'zuordnung-zum-curriculum'              => 'Zuordnung zum Curriculum',
             'kreditpunkte'                          => 'Kreditpunkte',
-            'voraussetzungen-nach-pruefungsordnung' => 'Voraussetzungen nach Prüfungsordnung'
+            'voraussetzungen-nach-pruefungsordnung' => 'Voraussetzungen nach Prüfungsordnung',
+            'type'                                  => 'Typ'
           );
 
           foreach( $tableData as $fieldKey => &$fieldValue ) {
@@ -389,14 +416,19 @@ class Document {
             );
           }
 
-          $modulverantwortlich = array_map( 'trim', explode( ',', $tableData['modulverantwortlich']['value'] ) );
+          /* Shorthand symbol mapping */
+          $modulverantwortlich = array_map( 'trim', explode( ',', $tableData[ 'modulverantwortlich' ][ 'value' ] ) );
 
           $modulverantwortlich = array_map( function( $mvKuerzel ) use( $people ) {
             return $people[ $mvKuerzel ][ 'name' ];
           }, $modulverantwortlich );
 
+          $tableData[ 'modulverantwortlich' ][ 'value' ] = implode( ', ', $modulverantwortlich );
 
-          $tableData['modulverantwortlich']['value'] = implode( ', ', $modulverantwortlich );
+          /* Module type shorthand symbol mapping */
+          if( isset( $typeMap[ $tableData[ 'type' ][ 'value' ] ] ) ) {
+            $tableData[ 'type' ][ 'value' ] = $typeMap[ $tableData[ 'type' ][ 'value' ] ];
+          }
 
 
           $tableMarkdown  = "| &nbsp; | &nbsp; |\n";
