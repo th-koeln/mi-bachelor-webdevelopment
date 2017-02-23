@@ -1,6 +1,6 @@
 ---
 title: Geschlechtergerechtigkeit und Chancengleichheit
-aktueller-bearbeiter: 
+aktueller-bearbeiter: Sebastian Müller
 bearbeiterhistorie: Christian Noss
 date: 17.02.2017
 comment: alles von Websience geklaut … danke! Fußnoten müssen noch gescheit gesetzt werden
