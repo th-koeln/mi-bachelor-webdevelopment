@@ -30,15 +30,17 @@
 \usepackage[utf8x]{inputenc}
 
 \usepackage{tocloft}
-\newcommand{\listfootnotesname}{Auflistung aller Fußnoten}% 'List of Footnotes' title
+\newcommand{\listfootnotesname}{Fußnoten}% 'Fußnoten' title
 \newlistof{footnotes}{fnt}{\listfootnotesname}% New 'List of...' for footnotes
 \let\oldfootnote\footnote % Save the old \footnote{...} command
 \renewcommand\footnote[1]{% Redefine the new footnote to also add 'List of Footnote' entries.
     \refstepcounter{footnotes}% Add and step a reference to the footnote/counter.
     \oldfootnote{#1}% Make a regular footnote.
-    \addcontentsline{fnt}{footnotes}{\protect
-\numberline{\thefootnotes}#1}% Add the 'List of...' entry.
+    \addcontentsline{fnt}{footnotes}{\protect\numberline{\thefootnotes}#1}% Add the 'List of...' entry.
 }
+
+\newcommand{\listattachmentsname}{Anhang}% 'Anhang' title
+\newlistof{attachments}{att}{\listattachmentsname}% New 'List of...' for attachments
 
 %Paket das die Ausgabefonts definiert
 \usepackage[T1]{fontenc}
@@ -187,8 +189,8 @@
   {}{14pt}{\huge\raggedright}
 % {\chaptertitlename\ \thechapter}{14pt}{\huge\raggedright}
 \titleformat{\section}
-  {\singlespacing\normalfont\sffamily\mdseries\large\color{m_pink}\raggedright}
-  {\thesection}{1em}{\large}
+  {\singlespacing\normalfont\sffamily\mdseries\Large\color{m_pink}\raggedright}
+  {\thesection}{1em}{\Large}
 \titleformat{\subsection}
   {\singlespacing\normalfont\sffamily\mdseries\large\raggedright}
   {\thesubsection}{1em}{\large}
@@ -201,7 +203,7 @@
 
 \usepackage[font=footnotesize]{caption}
 
-\setenumerate{label=(\roman*),itemsep=3pt,topsep=3pt}
+
 % Footer definieren
 \makeatletter
 \def\footrule{{
@@ -231,11 +233,98 @@
 
 \include{content}
 
+<<<<<<< HEAD
 \begin{sloppypar}
 \begin{flushleft}
+=======
+
+\newpage
+
+>>>>>>> hydeMD: Konvertierung von url- in href-Steuerzeichen und Escaping
 \listoffootnotes
 \end{flushleft}
 \end{sloppypar}
+
+
+\newpage
+
+\listofattachments
+
+\begin{enumerate}
+\item{Educational Diversity Konzept: \href{https://www.th-koeln.de/hochschule/educational-diversity\_5710.php}{https://www.th-koeln.de/hochschule/educational-diversity\_5710.php} } 
+\item{Profil2 Seite: \href{https://www.th-koeln.de/hochschule/profil\_5676.php}{https://www.th-koeln.de/hochschule/profil\_5676.php} } 
+\item{Forschungscluster: \href{https://www.th-koeln.de/forschung/cluster\_2734.php}{https://www.th-koeln.de/forschung/cluster\_2734.php} } 
+\item{\href{anhaenge/Studentenzahlen\_WS-2016\_(01.12.2016).pdf}{anhaenge/Studentenzahlen\_WS-2016\_(01.12.2016).pdf} } 
+\item{Statistik zum Verbleib- und Studienabbruch: \href{anhaenge/verbleib-und-studienabbruch.pdf}{anhaenge/verbleib-und-studienabbruch.pdf} } 
+\item{Hochschulentwicklungsplan 2020: \href{https://www.verwaltung.th-koeln.de/imperia/md/content/verwaltung/broschueren\_leitfaeden/hochschulentwicklungsplan2020.pdf}{https://www.verwaltung.th-koeln.de/imperia/md/content/verwaltung/broschueren\_leitfaeden/hochschulentwicklungsplan2020.pdf} } 
+\item{Ulrich Heublein et al.: Studienbereichsspezifische Qualitätssicherung im Bachelorstudium - Befragung der Fakultäts- und Fachbereichsleitungen zum Thema Studienerfolg und Studienabbruch. Forum Hochschule, 3/2015: \href{http://www.dzhw.eu/pdf/pub\_fh/fh-201503.pdf}{http://www.dzhw.eu/pdf/pub\_fh/fh-201503.pdf} } 
+\item{Bachelorstudiengang Medieninformatik, Prüfungsstatistik 2016: \href{anhaenge/pruefungsstatistiken.pdf}{anhaenge/pruefungsstatistiken.pdf} } 
+\item{Fakultät für Informatik und Ingenieurwissenschaften, Statistik 2013/14: \href{anhaenge/Fakultaetsstruktur-Studienangebot-Personal-Haushaltsmittel-Kennzahlen-2014.pdf}{anhaenge/Fakultaetsstruktur-Studienangebot-Personal-Haushaltsmittel-Kennzahlen-2014.pdf} } 
+\item{INCHER-Studie 2014: \href{anhaenge/INCHER-Studie.pdf}{anhaenge/INCHER-Studie.pdf} } 
+\item{Studentische Evaluationen Medieninformatik: \href{anhaenge/evaluationen-f10.pdf}{anhaenge/evaluationen-f10.pdf} } 
+\item{Snapshot Bewertungen von studycheck.de: \href{anhaenge/snapshot\_2017\_02\_17\_bewertungen\_studiengang\_medieninformatik\_auf\_studycheck\_.\_de}{anhaenge/snapshot\_2017\_02\_17\_bewertungen\_studiengang\_medieninformatik\_auf\_studycheck\_.\_de} } 
+\item{http://studycheck.de (abgerufen am 17.02.2017): \href{http://studycheck.de}{http://studycheck.de} } 
+\item{Profil2 Antrag der TH Köln: \href{https://www.th-koeln.de/mam/downloads/deutsch/hochschule/profil/lehre/profil2\_antrag\_ministerium.pdf}{https://www.th-koeln.de/mam/downloads/deutsch/hochschule/profil/lehre/profil2\_antrag\_ministerium.pdf} } 
+\item{\href{anhaenge/AntragWiederzuweisung\_Motivation\_2013.pdf}{anhaenge/AntragWiederzuweisung\_Motivation\_2013.pdf} } 
+\item{\href{https://www.gi.de/fileadmin/redaktion/empfehlungen/GI-Empfehlungen\_Bachelor-Master-Informatik2016.pdf}{https://www.gi.de/fileadmin/redaktion/empfehlungen/GI-Empfehlungen\_Bachelor-Master-Informatik2016.pdf} } 
+\item{\href{http://dl.mensch-und-computer.de/bitstream/handle/123456789/5131/Kindsm\%C3\%BCller\_Wolters\_Heinecke\_2016.pdf}{http://dl.mensch-und-computer.de/bitstream/handle/123456789/5131/Kindsm\%C3\%BCller\_Wolters\_Heinecke\_2016.pdf} } 
+\item{\href{https://www.th-koeln.de/studium/medieninformatik-bachelor\_2379.php}{https://www.th-koeln.de/studium/medieninformatik-bachelor\_2379.php} } 
+\item{\href{https://www.th-koeln.de/studium/medieninformatik-bachelor--ordnungen-und-formulare\_3963.php}{https://www.th-koeln.de/studium/medieninformatik-bachelor--ordnungen-und-formulare\_3963.php} } 
+\item{\href{anhaenge/abschlussarbeiten\_2010-2014\_.pdf}{anhaenge/abschlussarbeiten\_2010-2014\_.pdf} } 
+\item{\href{anhaenge/ba-studienverlaufsplan.pdf}{anhaenge/ba-studienverlaufsplan.pdf} } 
+\item{\href{anhaenge/ba-modulhandbuch.pdf}{anhaenge/ba-modulhandbuch.pdf} } 
+\item{\href{anhaenge/Ziele-Module-Matrix-Medieninformatik-Bachelor.pdf}{anhaenge/Ziele-Module-Matrix-Medieninformatik-Bachelor.pdf} } 
+\item{\href{anhaenge/ba-zeugnis.pdf}{anhaenge/ba-zeugnis.pdf} } 
+\item{\href{anhaenge/profil-studienanfaenger-2017.xlsx}{anhaenge/profil-studienanfaenger-2017.xlsx} } 
+\item{\href{https://www.th-koeln.de/studium/medieninformatik-master\_3729.php}{https://www.th-koeln.de/studium/medieninformatik-master\_3729.php} } 
+\item{\href{https://www.th-koeln.de/studium/medieninformatik-master--ordnungen-und-formulare\_3724.php}{https://www.th-koeln.de/studium/medieninformatik-master--ordnungen-und-formulare\_3724.php} } 
+\item{\href{anhaenge/ma-zeugnis.pdf}{anhaenge/ma-zeugnis.pdf} } 
+\item{\href{https://www.th-koeln.de/studium/medieninformatik-master\_3729.php}{https://www.th-koeln.de/studium/medieninformatik-master\_3729.php} } 
+\item{\href{https://www.th-koeln.de/studium/medieninformatik-master--ordnungen-und-formulare\_3724.php}{https://www.th-koeln.de/studium/medieninformatik-master--ordnungen-und-formulare\_3724.php} } 
+\item{\href{anhaenge/Master ma-studienverlaufsplaene.pdf}{anhaenge/Master ma-studienverlaufsplaene.pdf} } 
+\item{\href{anhaenge/Ziele-Module-Matrix-Medieninformatik-Master.pdf}{anhaenge/Ziele-Module-Matrix-Medieninformatik-Master.pdf} } 
+\item{\href{anhaenge/ma-zeugnis.pdf}{anhaenge/ma-zeugnis.pdf} } 
+\item{\href{anhaenge/abschlussarbeiten\_2010-2014\_.pdf}{anhaenge/abschlussarbeiten\_2010-2014\_.pdf} } 
+\item{\href{anhaenge/profil-studienanfaenger-2017.xlsx}{anhaenge/profil-studienanfaenger-2017.xlsx} } 
+\item{Homepage Profil2 Projektbörse: \href{http://projektboerse-profil2.th-koeln.de/}{http://projektboerse-profil2.th-koeln.de/} } 
+\item{\href{anhaenge/Master ma-studienverlaufsplaene.pdf}{anhaenge/Master ma-studienverlaufsplaene.pdf} } 
+\item{\href{anhaenge/ma-zeugnis.pdf}{anhaenge/ma-zeugnis.pdf} } 
+\item{\href{anhaenge/MIMPO\_Entwurf\_ohne\_Anm\_Sz20170218.pdf}{anhaenge/MIMPO\_Entwurf\_ohne\_Anm\_Sz20170218.pdf} } 
+\item{\href{anhaenge/Ziele-Module-Matrix-Medieninformatik-Bachelor.pdf}{anhaenge/Ziele-Module-Matrix-Medieninformatik-Bachelor.pdf} } 
+\item{\href{anhaenge/Ziele-Module-Matrix-Medieninformatik-Master.pdf}{anhaenge/Ziele-Module-Matrix-Medieninformatik-Master.pdf} } 
+\item{\href{http://fb-mci.gi.de/mensch-computer-interaktion-mci/fachgruppen/medieninformatik.html}{http://fb-mci.gi.de/mensch-computer-interaktion-mci/fachgruppen/medieninformatik.html} } 
+\item{\href{https://www.th-koeln.de/internationales/international-office\_1986.php}{https://www.th-koeln.de/internationales/international-office\_1986.php} } 
+\item{\href{https://www.th-koeln.de/studium/medieninformatik-bachelor--ordnungen-und-formulare\_3963.php}{https://www.th-koeln.de/studium/medieninformatik-bachelor--ordnungen-und-formulare\_3963.php} } 
+\item{\href{anhaenge/MIMPO\_Entwurf\_ohne\_Anm\_Sz20170218.pdf}{anhaenge/MIMPO\_Entwurf\_ohne\_Anm\_Sz20170218.pdf} } 
+\item{\href{anhaenge/Prozessbeschreibung\_PruefungsprozessUeberblick.pdf}{anhaenge/Prozessbeschreibung\_PruefungsprozessUeberblick.pdf} } 
+\item{\href{anhaenge/Prozessbeschreibung\_Pruefungsordnungsprozess.pdf}{anhaenge/Prozessbeschreibung\_Pruefungsordnungsprozess.pdf} } 
+\item{\href{anhaenge/Prozessbeschreibung\_Pruefungplanung.pdf}{anhaenge/Prozessbeschreibung\_Pruefungplanung.pdf} } 
+\item{\href{anhaenge/Prozessbeschreibung\_Pruefungdurchfuehren.pdf}{anhaenge/Prozessbeschreibung\_Pruefungdurchfuehren.pdf} } 
+\item{\href{anhaenge/Prozessbeschreibung\_vonPruefungzuruecktreten.pdf}{anhaenge/Prozessbeschreibung\_vonPruefungzuruecktreten.pdf} } 
+\item{\href{anhaenge/Prozessbeschreibung\_EinspruchPruefungsergebnisse.pdf}{anhaenge/Prozessbeschreibung\_EinspruchPruefungsergebnisse.pdf} } 
+\item{\href{https://www.th-koeln.de/studium/medieninformatik-bachelor--ordnungen-und-formulare\_3963.php}{https://www.th-koeln.de/studium/medieninformatik-bachelor--ordnungen-und-formulare\_3963.php} } 
+\item{\href{anhaenge/ba-studienverlaufsplan.pdf}{anhaenge/ba-studienverlaufsplan.pdf} } 
+\item{\href{anhaenge/ba-modulhandbuch.pdf}{anhaenge/ba-modulhandbuch.pdf} } 
+\item{\href{anhaenge/MIMPO\_Entwurf\_ohne\_Anm\_Sz20170218.pdf}{anhaenge/MIMPO\_Entwurf\_ohne\_Anm\_Sz20170218.pdf} } 
+\item{\href{anhaenge/pruefungsplan\_mi.pdf}{anhaenge/pruefungsplan\_mi.pdf} } 
+\item{pruefungsstatistiken.pdf: \href{anhaenge/pruefungsplan\_mi.pdf}{anhaenge/pruefungsplan\_mi.pdf} } 
+\item{\href{anhaenge/ba-pruefungen-fehlversuche-und-ruecktritte.pdf}{anhaenge/ba-pruefungen-fehlversuche-und-ruecktritte.pdf} } 
+\item{\href{anhaenge/Prozessbeschreibung\_PruefungsprozessUeberblick.pdf}{anhaenge/Prozessbeschreibung\_PruefungsprozessUeberblick.pdf} } 
+\item{\href{anhaenge/Prozessbeschreibung\_Pruefungsordnungsprozess.pdf}{anhaenge/Prozessbeschreibung\_Pruefungsordnungsprozess.pdf} } 
+\item{\href{anhaenge/Prozessbeschreibung\_Pruefungplanung.pdf}{anhaenge/Prozessbeschreibung\_Pruefungplanung.pdf} } 
+\item{\href{anhaenge/Prozessbeschreibung\_Pruefungdurchfuehren.pdf}{anhaenge/Prozessbeschreibung\_Pruefungdurchfuehren.pdf} } 
+\item{\href{anhaenge/Prozessbeschreibung\_vonPruefungzuruecktreten.pdf}{anhaenge/Prozessbeschreibung\_vonPruefungzuruecktreten.pdf} } 
+\item{\href{anhaenge/Prozessbeschreibung\_EinspruchPruefungsergebnisse.pdf}{anhaenge/Prozessbeschreibung\_EinspruchPruefungsergebnisse.pdf} } 
+\item{\href{anhaenge/Prozessbeschreibung-Absolventenzufriedenheit.pdf}{anhaenge/Prozessbeschreibung-Absolventenzufriedenheit.pdf} } 
+\item{\href{anhaenge/Prozessbeschreibung-Evaluationsprozesse.pdf}{anhaenge/Prozessbeschreibung-Evaluationsprozesse.pdf} } 
+\item{\href{anhaenge/Prozessbeschreibung-Partnerzufriedenheit.pdf}{anhaenge/Prozessbeschreibung-Partnerzufriedenheit.pdf} } 
+\item{\href{anhaenge/Prozessbeschreibung-Rankings.pdf}{anhaenge/Prozessbeschreibung-Rankings.pdf} } 
+\item{\href{anhaenge/Prozessbeschreibung-Studierendenzufriedenheit.pdf}{anhaenge/Prozessbeschreibung-Studierendenzufriedenheit.pdf} } 
+\item{\href{http://www.fh-koeln.de/mam/downloads/deutsch/hochschule/profil/gleichstellung/gleichstellungskonzept.pdf}{http://www.fh-koeln.de/mam/downloads/deutsch/hochschule/profil/gleichstellung/gleichstellungskonzept.pdf} } 
+\item{\href{https://www.th-koeln.de/hochschule/educational-diversity\_5710.php}{https://www.th-koeln.de/hochschule/educational-diversity\_5710.php} } 
+\item{\href{https://www.th-koeln.de/hochschule/familienfreundlichkeit\_3759.php}{https://www.th-koeln.de/hochschule/familienfreundlichkeit\_3759.php} } 
+
+\end{enumerate}
 
 %=== Schlussteil =====================================================
 %%Seitennummerierung für den Anhang

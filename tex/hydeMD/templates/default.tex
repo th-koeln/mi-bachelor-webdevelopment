@@ -30,15 +30,17 @@
 \usepackage[utf8x]{inputenc}
 
 \usepackage{tocloft}
-\newcommand{\listfootnotesname}{Auflistung aller Fußnoten}% 'List of Footnotes' title
+\newcommand{\listfootnotesname}{Fußnoten}% 'Fußnoten' title
 \newlistof{footnotes}{fnt}{\listfootnotesname}% New 'List of...' for footnotes
 \let\oldfootnote\footnote % Save the old \footnote{...} command
 \renewcommand\footnote[1]{% Redefine the new footnote to also add 'List of Footnote' entries.
     \refstepcounter{footnotes}% Add and step a reference to the footnote/counter.
     \oldfootnote{#1}% Make a regular footnote.
-    \addcontentsline{fnt}{footnotes}{\protect
-\numberline{\thefootnotes}#1}% Add the 'List of...' entry.
+    \addcontentsline{fnt}{footnotes}{\protect\numberline{\thefootnotes}#1}% Add the 'List of...' entry.
 }
+
+\newcommand{\listattachmentsname}{Anhang}% 'Anhang' title
+\newlistof{attachments}{att}{\listattachmentsname}% New 'List of...' for attachments
 
 %Paket das die Ausgabefonts definiert
 \usepackage[T1]{fontenc}
@@ -231,11 +233,26 @@
 
 \include{content}
 
+<<<<<<< HEAD
 \begin{sloppypar}
 \begin{flushleft}
+=======
+
+\newpage
+
+>>>>>>> hydeMD: Konvertierung von url- in href-Steuerzeichen und Escaping
 \listoffootnotes
 \end{flushleft}
 \end{sloppypar}
+
+
+\newpage
+
+\listofattachments
+
+\begin{enumerate}
+<| attachmentsList |>
+\end{enumerate}
 
 %=== Schlussteil =====================================================
 %%Seitennummerierung für den Anhang

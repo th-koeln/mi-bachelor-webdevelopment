@@ -134,6 +134,7 @@ class Document {
   private $outputPath;
   private $latexContent = null;
   private $files        = array();
+  private $attachments  = array();
 
   private $recipe;
 
@@ -305,6 +306,8 @@ class Document {
 
     $svgsFound = false;
 
+    $attachmentsCollector = array();
+
     foreach( $this->files as $path => &$page ) {
 
       $page->content = preg_replace_callback( '/{%\s*include\s*(.*?)\s*%}/i',
@@ -385,7 +388,7 @@ class Document {
 
       /* Replacing anchor-tags */
       $page->content = preg_replace_callback( '/<\s*a\s*(.*)\s*>(.*)<\s*\/s*a\s*>/',
-        function( $matches ) {
+        function( $matches ) use( &$attachmentsCollector ) {
 
           $attrsMatches = array();
           preg_match_all( '/(\w*)=\"(.*?)"/', $matches[1], $attrsMatches );
@@ -400,7 +403,15 @@ class Document {
           }
 
           if( isset( $attrsAssocArr[ 'href' ] ) ) {
-            return '[' . $matches[ 2 ] . '](' . $attrsAssocArr[ 'href' ] . ')';
+
+            $link = array(
+              'href'  => $attrsAssocArr[ 'href' ] ,
+              'title' => $matches[2]
+            );
+
+            $attachmentsCollector[] = $link;
+
+            return '[' . $link[ 'title' ] . '](' . $link[ 'href' ] . ')';
           }
 
           return $matches[2];
@@ -507,6 +518,43 @@ class Document {
     if( $svgsFound ) {
       fprintf( STDERR, "Please install librsvg for on-the-fly svg2png conversion." );
     }
+
+    $this->attachments = $attachmentsCollector;
+    $this->prepareAttachments();
+
+  }
+
+
+  private function prepareAttachments() {
+    $attachments = $this->attachments;
+
+    if( count( $attachments ) === 0 ) {
+      $this->placeholder[ 'attachmentsList' ] = '';
+      return;
+    }
+
+    $attachmentsLatex = '';
+
+    foreach( $attachments as $attachment ) {
+
+      $title = preg_replace_callback( '/([_%])/', function( $matches ) {
+        return '\\' . $matches[1];
+      } , $attachment[ 'title' ] );
+      $href  = preg_replace_callback( '/([_%])/', function( $matches ) {
+        return '\\' . $matches[1];
+      }, $attachment[ 'href' ] );
+
+      $href = str_replace( '../anhaenge', 'anhaenge', $href );
+
+      if( strpos( $href, $title ) !== False ) {
+        $attachmentsLatex[] = "\item{\\href{" . $href . "}{" . $href . "} } \n";
+      }
+      else {
+        $attachmentsLatex[] = "\item{" . $title . ": \\href{" . $href . "}{" . $href . "} } \n";
+      }
+    }
+
+    $this->placeholder[ 'attachmentsList' ] = implode( '', $attachmentsLatex );
   }
 
 
@@ -624,7 +672,7 @@ class Document {
 
       foreach( $this->recipe[ 'postprocessLatex' ][ 'replace' ] as $replaceSet ) {
         if( !is_array( $replaceSet ) && count( $replaceSet ) !== 2 ) {
-          fprintf( STDERR, "Skiping replace instruction: Index " . ( $replaceActionCnt + 1 ) );
+          fprintf( STDERR, "Skipping replace instruction: Index " . ( $replaceActionCnt + 1 ) );
           continue;
         }
 
@@ -634,6 +682,18 @@ class Document {
       }
 
     }
+
+
+    $latexContent = preg_replace_callback( "/\\\\url\\{(.*?)\\}/", function( $matches ) {
+
+      $url = $matches[1];
+
+      $url = preg_replace_callback( '/\\\\{0,2}([_%])/', function( $symMatches ) {
+        return '\\' . $symMatches[1];
+      }, $url );
+
+      return '\href{' . $url . '}{' . $url . '}';
+    }, $latexContent );
 
     return $latexContent;
   }
@@ -666,7 +726,7 @@ class Document {
 
     $placeholder = $this->placeholder;
 
-    $content = preg_replace_callback( '/\<\|\s*(.*?)\s*\|\>/', function( $matches ) use($placeholder) {
+    $content = preg_replace_callback( '/\<\|\s*(.*?)\s*\|\>/', function( $matches ) use( $placeholder ) {
       return isset( $placeholder[ $matches[1] ] ) ? $placeholder[ $matches[1] ]: '';
     }, $content );
 
