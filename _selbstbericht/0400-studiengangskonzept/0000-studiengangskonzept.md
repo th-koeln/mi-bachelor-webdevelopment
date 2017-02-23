@@ -1,7 +1,7 @@
 ---
 title: Studiengangskonzept
-aktueller-bearbeiter: Kristian Fischer
-bearbeiterhistorie: Christian Noss
+aktueller-bearbeiter: 
+bearbeiterhistorie: Kristian Fischer
 date: 22.02.2017
 comment: hier könnten noch was zum Thema wissenschaftliches Arbeiten stehen
 status: Peer Review erforderlich
