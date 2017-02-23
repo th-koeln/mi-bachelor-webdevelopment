@@ -73,6 +73,8 @@ Wissenschaftliches Arbeiten wird beginnend im ersten Semester in der Veranstaltu
 
 Der viersemestrige Masterstudiengang baut konsekutiv auf das Bachelorprogramm auf. Im Gegensatz zum Bachelorstudium, sind hier Einschreibungen im Sommer- und Wintersemester möglich. Dies führt zu unterschiedlichen Studienverlaufplänen in Abhängigkeit des Einschreibesemesters.
 
+Aufgrund der bereits oben betonten Notwendigkeit einer professionellen Differenzierung und Profilschärfung strukturiert sich der Masterstudiengang Medieninformatik neben dem gemeinsamen Grundlagenstudium und der starken Projektorientierung in mehrere Studienschwerpunkte.
+
 ### Studienschwerpunkte
 
 {% include image.html url="bilder/ma-schwerpunkte.svg" caption="Abbildung: Studienschwerpunkte des Masterprogramms" %}

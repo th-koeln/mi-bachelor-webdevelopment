@@ -23,22 +23,30 @@ reviewed-von:
 >-   Kooperationsverträge, Regeln für interne/externe Kooperationen
 
 ## Hochschulinterne Zusammenarbeit
-~~~
-me: Ist das folgende noch aktuell?
-~~~
 
 ### Fakultätsübergreifende Zusammenarbeit
-Innerhalb der Hochschule wird eine enge Kooperation mit einigen in Köln angesiedelten Fakultäten gepflegt. Zu nennen sind hier vor allem die Bereiche Design, Photoingenieurwesen, Wirtschaft, Informationswissenschaften und Sozialwissenschaften.
-Mit der „Köln International School of Design“ als interne Einrichtung der „Fakultät für Kulturwissenschaften“ (Fakultät 02) und der „Fakultät für angewandte Sozialwissenschaften“ (Fakultät 01) werden gemeinsame Lehrveranstaltungen durchgeführt.
-Das Modul „Wissensmanagement“ des Masterstudiengangs bspw. wird von der „Fakultät für Wirtschaftswissenschaften“ der Fachhochschule Köln (Fakultät 04) importiert.
+Innerhalb der Hochschule wird eine enge Kooperation mit einigen in Köln angesiedelten Fakultäten gepflegt. Zu nennen sind hier vor allem die Bereiche Design, Informations-, Medien- und Elektrotechnik, Wirtschafts- und Rechtswissenschaften, Informations- und Kommunikationswissenschaften sowie angewandte Sozialwissenschaften.
+
+Mit der „Köln International School of Design“ als interne Einrichtung der „Fakultät für Kulturwissenschaften“ (Fakultät 02) und der „Fakultät für angewandte Sozialwissenschaften“ (Fakultät 01) werden gemeinsame Lehrveranstaltungen durchgeführt. Das Modul „Wissensmanagement“ des Masterstudiengangs bspw. wurde bereits mehrfach von der „Fakultät für Wirtschafts- und Rechtswissenschaften“ der Fachhochschule Köln (Fakultät 04) importiert. 
+
+~~~
+MW: Muss noch von CK und CN ergänzt und präzisiert werden
+~~~
+Die Errichtung eines kooperativen Studiengangs eScience ist geplant.
+
+Ein gemeinsamer Studiengang "Code University" mit der Fakultät für Informations-, Medien- und Elektrotechnik sowie der KISD ist beantragt, der sich u.A. aus Inhalten der zu reakkreditierenden Studiengänge speist und mit dem entsprechende Synergien geschöpft werden sollen.
+
 Das Institut für Informatik und das Institut für Automation & IT sind ferner im Forschungsschwerpunkt COSA (s Kap. 5.1.3.3) synergetisch verbunden.
 
 ### Fakultätsinterne Zusammenarbeit
 Innerhalb der Fakultät sind die Institute „Betriebswirtschaftliches Institut Gummersbach (BIG)“ und das „Institut für Distance Learning & Further Education (IDF)“ mit verschiedenen Modulen in die Bachelor- und Masterstudiengängen involviert.
 
-Innerhalb der Fakultät 10 für Informatik und Ingenieurwissenschaften besteht naturgemäß in der Lehre, Forschung und Entwicklung eine enge Zusammenarbeit mit den in Gummersbach angesiedelten ingenieurwissenschaftlichen Instituten. Dies drückt sich in einer Vielzahl von gemeinsamen Projekten, betreuten Abschlussarbeiten sowie einem fachübergreifenden Lehrexport und Import zwischen den beiden Lehreinheiten aus.
+Innerhalb der Fakultät 10 für Informatik und Ingenieurwissenschaften besteht naturgemäß in der Lehre, Forschung und Entwicklung eine enge Zusammenarbeit mit den in Gummersbach angesiedelten ingenieurwissenschaftlichen Instituten und Forschungsschwerpunkten. Dies drückt sich in einer Vielzahl von gemeinsamen Projekten, betreuten Abschlussarbeiten sowie einem fachübergreifenden Lehrexport und Import zwischen den beiden Lehreinheiten aus.
 
 ## Externe Kooperation mit Hochschulen und Firmen
+
+### Kooperationen mit nationalen Hochschulen
+Seit mehreren Jahren besteht im Rahmen von Promotionsvorhaben eine einge Kooperation mit der Universität Paderborn, s-lab, Prof.Dr. Gregor Engels. Es werden regelmäßig Lehrveranstaltungen von promovierenden Mitarbeitern durchgeführt. Weitere Kooperationen insbesondere im Bereich der Qualitätssicherung bestehen mit der Hochschule Bremen, Prof. Dr. Andreas Spillner, und der Hochschule Bremerhaven, Prof. Dr. Karin Vosseberg. Im Bereich Forschendes und Projektbasiertes Lehren und Lernen besteht eine Kooperation mit der Univeresität Köln, Dr. Dirk Rohr.
 
 ### Kooperationen mit internationalen Hochschulen
 Erste Kooperationsprojekte mit ausländischen Hochschulen datieren auf den Beginn der 80-iger Jahre. Damals wurde eine Kooperation (Erasmus-Kontrakt) mit der École Centrale de Lille abgeschlossen. Diese Kooperation existiert noch heute und regelt den Austausch auf Sokrates- und ERASMUS-Ebene von Professoren und insbesondere Studierenden.
@@ -46,7 +54,7 @@ Erste Kooperationsprojekte mit ausländischen Hochschulen datieren auf den Begin
 Unter den gleichen formalen Bedingungen existiert seit vielen Jahren eine Kooperation mit der Université Blaise Pascal in Clermont-Ferrand und der École pour l’Informatique et les Techniques Avancées à Paris (ÉPITA). Mit ÉPITA findet ein regelmäßiger Studierenden und Dozentenaustausch statt. 
 
 ~~~
-me: Zahlen müssen aktualisiert werden
+me: Zahlen müssen noch aktualisiert werden
 ~~~
 Seit 1994 existiert die Partnerschaft mit der staatlichen Universität für das Verkehrswesen in Moskau (Moskowskij Gosudarstwennyi Universitet Putej Soobschtschenija – kurz MIIT). Bisher wurden über 20 russische Studierende und Doktoranden i.d.R. in 1-jährigen Studien-, Praxis- und Forschungsaufenthalte durch die Fakultät betreut. Umgekehrt sind bisher ca. 10 deutsche Studierende und wissenschaftliche Mitarbeiter an die russische Partnerhochschule zwecks Durchführung von Studien- und Forschungsprojekten bzw. Kurzzeitdozenturen gegangen.
 
