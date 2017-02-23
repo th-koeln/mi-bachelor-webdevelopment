@@ -359,7 +359,7 @@ class Document {
                 preg_replace( '/.svg$/', '.png', $relativePathToFileFromScript );
 
               if( !file_exists( $relativePathToFileFromScriptPNG ) ) {
-                shell_exec( 'rsvg-convert -d 300 -p 300 -z 2.5 -f png -o ' .
+                shell_exec( 'rsvg-convert -d 300 -p 300 -w 2000 -f png -o ' .
                             $relativePathToFileFromScriptPNG . ' ' .
                             $relativePathToFileFromScript );
               }
