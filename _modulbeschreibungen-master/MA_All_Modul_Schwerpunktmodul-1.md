@@ -18,10 +18,10 @@ type: spmw
 
 ## Kurzbeschreibung
 
-## Lehrform/SWS: 
+## Lehrform/SWS:
 
 
-## Arbeitsaufwand: 
+## Arbeitsaufwand:
 180 Stunden
 
 ## Angestrebte Lernergebnisse:

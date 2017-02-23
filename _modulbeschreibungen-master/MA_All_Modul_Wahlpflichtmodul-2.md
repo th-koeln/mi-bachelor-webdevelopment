@@ -1,5 +1,5 @@
 ---
-title: Wahlpflichtmodul
+title: Wahlpflichtmodul 2
 modulverantwortlich: all
 modulniveau: n/a
 kuerzel: WPM
@@ -18,9 +18,9 @@ type: pm
 
 ## Kurzbeschreibung
 
-## Lehrform/SWS: 
+## Lehrform/SWS:
 
-## Arbeitsaufwand: 
+## Arbeitsaufwand:
 180 Stunden
 
 ## Angestrebte Lernergebnisse:

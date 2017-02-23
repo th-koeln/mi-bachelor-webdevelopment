@@ -25,16 +25,16 @@ schwerpunkt: hci
 
 ## Arbeitsaufwand:
 
-Gesamtaufwand 180 h, davon 
+Gesamtaufwand 180 h, davon
 
-- 45 h Vorlesung 
+- 45 h Vorlesung
 - 30 h Übung
 - 105 h Projekt
 
 
 
 ## Angestrebte Lernergebnisse:
-Ziel ist vor allem, die Benutzerperspektive im Entwicklungsprozess interaktiver Systeme zu berücksichtigen, nicht von der Technologie sondern von menschlichen Erfordernissen auszugehen und eine entsprechende Interaktionsmodellierung und –gestaltung erreichen zu können. Dabei wird besonderer Wert auf den Auf- bzw. Ausbau von Entwurfskompetenz („reflection in action“, „conversation with the material“) gelegt, die das systematische Entwickeln von Gestaltungsalternativen, deren Bewertung, der Synthese gefundener Qualitäten in kohärenten und konsistenten Systementwürfen und den systematischen, konstruktiven Umgang mit trade-offs und ein insgesamt iteratives Vorgehen beinhaltet. 
+Ziel ist vor allem, die Benutzerperspektive im Entwicklungsprozess interaktiver Systeme zu berücksichtigen, nicht von der Technologie sondern von menschlichen Erfordernissen auszugehen und eine entsprechende Interaktionsmodellierung und –gestaltung erreichen zu können. Dabei wird besonderer Wert auf den Auf- bzw. Ausbau von Entwurfskompetenz („reflection in action“, „conversation with the material“) gelegt, die das systematische Entwickeln von Gestaltungsalternativen, deren Bewertung, der Synthese gefundener Qualitäten in kohärenten und konsistenten Systementwürfen und den systematischen, konstruktiven Umgang mit trade-offs und ein insgesamt iteratives Vorgehen beinhaltet.
 Die Studierenden haben konzeptionelles Design (Conceptual Design) verstanden, können es souverän anwenden und als Vorgehen kritisch einordnen, um aufgabenangemessene und aus Benutzersicht angenehme Technologienutzung zu gestalten. Die Studierenden haben den Ansatz „Designing for Life” verstanden und wissen, wie sie dies methodisch umsetzen können.
 
 ## Inhalt:
@@ -58,7 +58,7 @@ schriftliche Ausarbeitung und Designartefakte
 
 
 ## Literatur:
-- Winograd, Terry (ed.), Bringing Design to Software, Addison Wesley, 1996, ISBN: 0-201-85491-0 
+- Winograd, Terry (ed.), Bringing Design to Software, Addison Wesley, 1996, ISBN: 0-201-85491-0
 - Courage, Cathrine; Baxter, Kathy, „Understanding Your Users“. A practical guide to user requirements. Methods, Tools, & Techniques, Kaufman Morgan Publishers, Elsevier, 2005, ISBN: 1-55860-935-0
 - Dix, Allan; Filay, Janet; Abowd Gregory D.; Beale, Russel, Human-Computer Interaction, 3rd. edition, Pearson Prentice Hall, 2004, ISBN: 0130-461091
 - Preece, Jenny; Rogers, Yvonne; Sharp, Helen, Interaction Design, beyond human-computer interaction, John Wiley & Sons, Inc., New York, ISBN: 0-471-49278-7
