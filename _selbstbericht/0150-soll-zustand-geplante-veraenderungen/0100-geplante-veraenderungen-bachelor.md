@@ -5,7 +5,7 @@ bearbeiterhistorie: Kristian Fischer, danach von Hans reviewed;
 date: 22.02.2017
 comment: Präludium hinzugefügt bitte reviewen!Text von Hans reviewed!
 status: fast vollständig
-reviewed-von:
+reviewed-von: Robert Gabriel
 ---
 
 Seit der Reakkreditierung der Medieninformatik Studiengänge vor sieben Jahren haben sich sowohl die Berufsbilder der Absolventinnen und Absolventen als auch der Diskurs über Curricula der Medieninformatik weiterentwickelt. Wir sehen vor allem drei Felder, in denen die Perspektive der Medieninformatik erhebliche Relevanz erlangt hat:
@@ -53,7 +53,7 @@ Die im Folgenden dargestellten geplanten Veränderungen des Bachelorstudienprogr
 Mit einer Verbesserung des Studienaufbaus sollen folgende bekannte Defizite ausgeglichen werden:
 
 - Überladenes drittes Fachsemester
-- Zu viele Projektkontexte
+- zu viele Projektkontexte
 - zu starke Fragmentierung von Modulen und der projektorientierten Praxisanteile
 - zu viele „Baustellen“
 
@@ -70,8 +70,8 @@ Im vierten Semester wurde ein Vertiefungsmodul mit 20 Creditpoints installiert a
 
 Hiermit sollen folgende bekannte Defizite ausgeglichen werden:
 
-- Zu viele Projektkontexte
-- Zu großer Sprung der Projektgrößen
+- zu viele Projektkontexte
+- zu großer Sprung der Projektgrößen
 - zu viele „Baustellen“
 
 Wie bereits beschrieben, wurden die projektorientierten Module gleichmäßiger über den Studienverlauf verteilt und projektorientierte Module teilweise zusammen gelegt. Um die Projektgrößen sinnvoll aufzubauen, werden jetzt in den ersten drei Semestern Projekte mit einem Gewicht von max. 2,5 Creditpoints absolviert. Im vierten Semester folgt dann, als Teil des Vertiefungsmoduls, ein Projekt mit einem Gewicht von etwa 5 Creditpoints. Im fünften Semester folgt dann das Entwicklungsprojekt mit einem Gewicht von 10 Creditpoints. Im sechsten Semester liegt dann das Praxisprojekt mit ebenfalls 10 Creditpoints und die Bachelorarbeit mit 12 Creditpoints. Für diejenigen, die dann in Masterstudiengang wechseln wollen, bleibt die Projektgröße dann bei 12 Creditpoints.
@@ -84,10 +84,10 @@ Wie bereits beschrieben, wurden die projektorientierten Module gleichmäßiger �
 Mit dieser Änderungen sollen folgende bekannte Defizite ausgeglichen werden:
 
 - keine Spezialisierung, zu allgemein
-- Zu viele verschiedene Module mit unterschiedlichen Regularien
-- Fehlende Möglichkeit zur strukturierten Vertiefung
-- Zu viele Projektkontexte
-- Zu großer Sprung der Projektgrößen
+- zu viele verschiedene Module mit unterschiedlichen Regularien
+- fehlende Möglichkeit zur strukturierten Vertiefung
+- zu viele Projektkontexte
+- zu großer Sprung der Projektgrößen
 - zu viele „Baustellen“
 - zu starke Fragmentierung von Modulen und der projektorientierten Praxisanteile
 - Übergang in den Spezialisierungsteil vom vierten ins fünfte Fachsemester
