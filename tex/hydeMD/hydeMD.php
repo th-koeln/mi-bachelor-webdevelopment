@@ -135,12 +135,16 @@ class Document {
   private $latexContent = null;
   private $files        = array();
 
+  private $recipe;
+
   /**
    * Creating a page for preparation before passing it to pandoc
    *
    * @param array $recipe All infos needed to fetch in all markdown files and processing them
    */
-  function __construct( $recipe ) {
+  function __construct( $recipe = array() ) {
+
+    $this->recipe = $recipe;
 
     if( !isset( $recipe[ 'srcPath' ] ) ) {
       fprintf( STDERR, "\nCan't find the 'srcPath' property in the given recipe!\n\n" );
@@ -485,7 +489,6 @@ class Document {
             $tableData[ 'type' ][ 'value' ] = $typeMap[ $tableData[ 'type' ][ 'value' ] ];
           }
 
-
           $tableMarkdown  = "| &nbsp; | &nbsp; |\n";
           $tableMarkdown .= "|:-------|:-------|\n";
 
@@ -609,32 +612,26 @@ class Document {
 
   private function postprocessLatex( $latexContent ) {
 
-    $pageName = $this->getSimpleDocumentName();
+    if( !isset( $this->recipe[ 'postprocessLatex' ] ) ) {
+      return $latexContent;
+    }
 
-    switch( $pageName ) {
-      case 'selbstbericht':
+    /* Replace instructions */
+    if( isset( $this->recipe[ 'postprocessLatex' ][ 'replace' ] ) ) {
 
-        $latexContent = str_replace( '\section', '\chapter', $latexContent );
-        $latexContent = str_replace( '\subsection', '\section', $latexContent );
-        $latexContent = str_replace( '\subsubsection', '\subsection', $latexContent );
+      $replaceActionCnt = 0;
 
-        $latexContent = str_replace( '{0.07\columnwidth}', '{0.5\columnwidth}', $latexContent );
-        $latexContent = str_replace( '{0.06\columnwidth}', '{0.33\columnwidth}', $latexContent );
+      foreach( $this->recipe[ 'postprocessLatex' ][ 'replace' ] as $replaceSet ) {
+        if( !is_array( $replaceSet ) && count( $replaceSet ) !== 2 ) {
+          fprintf( STDERR, "Skiping replace instruction: Index " . ( $replaceActionCnt + 1 ) );
+          continue;
+        }
 
+        $latexContent = preg_replace( $replaceSet[0], $replaceSet[1], $latexContent );
 
-        $latexContent = preg_replace( '/begin{figure}/', 'begin{figure}[htbp]', $latexContent );
-        $latexContent = preg_replace( '/includegraphics/', 'includegraphics[width=\columnwidth]', $latexContent );
+        $replaceActionCnt++;
+      }
 
-        break;
-
-      case 'modulbeschreibungen-bachelor':
-      case 'modulbeschreibungen-master':
-
-        $latexContent = str_replace( '\section', '\chapter', $latexContent );
-        $latexContent = str_replace( '\subsection', '\section*', $latexContent );
-        $latexContent = str_replace( '\subsubsection', '\subsection*', $latexContent );
-
-        break;
     }
 
     return $latexContent;

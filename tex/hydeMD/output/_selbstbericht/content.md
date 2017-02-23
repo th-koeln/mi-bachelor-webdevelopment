@@ -280,13 +280,16 @@ Die Unzufriedenheit bei der Bewertung der Studien- und Prüfungsorganisation in 
 
 Die folgenden Ausführungen beruhen auf der Datenerhebung zum 22.09.2016 für den Zeitraum Wintersemester 2011 bis Wintersemester 2015[^Anhang-Pruefungsstatistiken][^Anhang-fakultaetsstruktur] und fokussieren die derzeit eingeschriebenen Studenten, erfolgreiche Abschlüsse und Studienfachabbrecher.
 
-Zur Bewertung der Auslastung kann wie folgt Stellung genommen werden: Gemessen an den planmäßigen 63 Studierendenplätzen (WS13/14) werden seit drei Studienjahren im Rahmen der strategischen Fakultätsplanung und des Hochschulentwicklungsplans 2020 mehr als 200% Überlast aufgenommen. Mit den Abbrecherquoten im Bachelorstudiengang bewegt sich die Medieninformatik im breiten Mittelfeld von Informatikstudiengängen im Allgemeinen[^DZHW-Studie2015]; sehr erfreulich ist die für den Masterstudiengang Medieninformatik die geringe Abbrecherquote. In Verbindung mit der bedauerlich hohen, für ingenieur- und naturwissenschaftliche Studiengänge, insbesondere im Bachelor-Bereich jedoch leider inhärenten Abbrecherquote (durchschnittlich geschätzte Schwundquote in der Informatik an Fachhochschulen ist 39%[^DZHW-Studie2015]), zeigt sich hier ein deutliches noch zu hebendes Optimierungspotential. Erfreulich ist hier die mit 27% recht hohe Frauenquote im Bachelorstudiengang Medieninformatik. Die durchschnittliche Frauenquote in der Lehreinheit Informatik liegt bei 22%. In der Fakultät 10 liegt sie bei 20%.
+Zur Bewertung der Auslastung kann wie folgt Stellung genommen werden: Gemessen an den planmäßigen 63 Studierendenplätzen (WS13/14) werden seit drei Studienjahren im Rahmen der strategischen Fakultätsplanung und des Hochschulentwicklungsplans 2020 mehr als 200% Überlast aufgenommen. Mit den Abbrecherquoten im Bachelorstudiengang bewegt sich die Medieninformatik im breiten Mittelfeld von Informatikstudiengängen im Allgemeinen[^DZHW-Studie2015]; sehr erfreulich ist für den Masterstudiengang Medieninformatik die geringe Abbrecherquote. In Verbindung mit der bedauerlich hohen, für ingenieur- und naturwissenschaftliche Studiengänge, insbesondere im Bachelor-Bereich jedoch leider inhärenten Abbrecherquote (durchschnittlich geschätzte Schwundquote in der Informatik an Fachhochschulen ist 39%[^DZHW-Studie2015]), zeigt sich hier ein deutliches noch zu hebendes Optimierungspotential. Erfreulich ist hier die mit 27% recht hohe Frauenquote im Bachelorstudiengang Medieninformatik. Die durchschnittliche Frauenquote in der Lehreinheit Informatik liegt bei 22%. In der Fakultät 10 liegt sie bei 20%.
 
 Die Prüfungserfolge sind bzgl. des Bachelor- und Masterstudiengangs zu differenzieren.
 
 Im Bachelorstudiengang Medieninformatik zeigt sich bei den Prüfungserfolgen des „neuen“ im Vergleich zum „alten“ Studiengang (BPO2 vs. BPO3, s. Anhang Pruefungsstatistiken [^Anhang-Pruefungsstatistiken]) ein früherer Prüfungserfolg. Auch in höheren Semestern werden die Prüfungen früher absolviert und mit weniger Fehlversuchen bestanden. In erster Näherung findet man in den ersten beiden Semestern eine Gleichverteilung der Noten innerhalb des Notenspektrums, die sich in den höheren Semestern zu einer deutlichen Verbesserung hin verschiebt. Hier mögen zwei Faktoren von Bedeutung sein: Zum einen der deutlich höhere Anteil an medien(informatik)spezifischen Modulen und zum anderen kann gemutmaßt werden, dass sich hier die Abbrecherzahlen positiv auswirken. Die Abschluss- und die Endnoten setzen diesen Trend der Verbesserung des Notendurchschnitts fort.
 
 Im Masterstudium wirkt sich die im Rahmen der Reakkreditierung weggefallene Zulassungsvoraussetzung eines Mindest-Notenschnittes nicht wesentlich auf die Verteilung der Prüfungsergebnisse aus. Auch hier ist weiterhin das gesamte Notenspektrum abgedeckt, ebenso wie bei den Ergebnissen der Master Thesen.
+~~~
+mw: haben wir für den MAster eine Prüfungsstatistik?
+~~~
 
 
 ### Rückschlüsse aus informellen Gesprächen und Kommentaren
@@ -727,14 +730,14 @@ Die Studierenden …
 
 Das folgende Leitbild steht über dem Studiengang Medieninformatik Bachelor:
 
-*Der Studiengang soll die Absolventinnen und Absolventen befähigen, in interdisziplinären Teams digitale Prozesse und Systeme zur Produktion, Bearbeitung und Distribution medienbasierter Informationen aus informatischer, ökonomischer und sozialer Perspektive zu analysieren, konzipieren, adaptieren, realisieren und zu dokumentieren.*
+*Der Studiengang soll die Absolventinnen und Absolventen befähigen, in interdisziplinären Teams digitale Prozesse und Systeme zur Produktion, Bearbeitung und Distribution medienbasierter Informationen aus informatischer, ökonomischer und sozialer Perspektive zu analysieren, konzipieren, adaptieren, realisieren und dokumentieren.*
 
 
 ## Ziele des zu reakkreditierenden Studiengangs insgesamt
 
-Mit dem 6-semestrigen Bachelorstudiengang Medieninformatik sollen die Absolventinnen und Absolventen fachliche Qualifikation, Kompetenz, Fertigkeiten und Fähigkeiten im Hinblick auf die verantwortliche, sowie menschen- und medienadäquate Umsetzung von Konzepten und Verfahren aus der Informatik erlangen. Sie verfügen über tiefgehendes Verständnis um informatikspezifische Probleme und Aufgaben, wie sie in interdisziplinären medienrelevanten Softwareprojekten typisch sind, auf fachlicher Ebene diskutieren und fundierte Entscheidungen getroffen zu können. Die Absolventinnen und Absolventen sollen in der Lage sein, eigen- oder fremdformulierte Problemstellungen in Aufgabenstellungen zu überführen, Zielsetzungen auf unterschiedlichen Hierarchieebenen zu formulieren und diese Zielsetzungen mit den Konzepten, Vorgehensmodellen, Methoden und Arbeitstechniken der Informatik strukturiert und systematisch in Teams zu bearbeiten, Handlungs- und Lösungs-Alternativen kritisch zu diskutieren und begründet Abwägungen zu treffen, Ergebnisse kritisch sowie in Hinblick auf die Zielsetzungen zu bewerten und weitere Perspektiven aufzuzeigen.
+Mit dem 6-semestrigen Bachelorstudiengang Medieninformatik sollen die Absolventinnen und Absolventen fachliche Qualifikation, Kompetenz, Fertigkeiten und Fähigkeiten im Hinblick auf die verantwortliche, sowie menschen- und medienadäquate Umsetzung von Konzepten und Verfahren aus der Informatik erlangen. Sie verfügen über tiefgehendes Verständnis um informatikspezifische Probleme und Aufgaben, wie sie in interdisziplinären medienrelevanten Softwareprojekten typisch sind, auf fachlicher Ebene diskutieren und fundierte Entscheidungen treffen zu können. Die Absolventinnen und Absolventen sollen in der Lage sein, eigen- oder fremdformulierte Problemstellungen in Aufgabenstellungen zu überführen, Zielsetzungen auf unterschiedlichen Hierarchieebenen zu formulieren und diese Zielsetzungen mit den Konzepten, Vorgehensmodellen, Methoden und Arbeitstechniken der Informatik strukturiert und systematisch in Teams zu bearbeiten, Handlungs- und Lösungs-Alternativen kritisch zu diskutieren und begründet Abwägungen zu treffen, Ergebnisse kritisch sowie in Hinblick auf die Zielsetzungen zu bewerten und weitere Perspektiven aufzuzeigen.
 
-Die Fähigkeit, konstruktiv in einem interdisziplinären Team zu arbeiten, eigenen Beiträge oder die anderer Teammitglieder fachlich kritisch zu würdigen und im Projekt zu berücksichtigen, stellt eine wichtige soziale, methodische und fachliche Qualifikation dar, die durch den Studienabschluss erreicht werden soll. Kommunikations- und Präsentationskompetenzen sind für die berufliche Praxis gerade wegen der Interdisziplinarität und Arbeitsteiligkeit vieler Softwareprojekte mit medialer Ausrichtung von besonderer Bedeutung. 
+Die Fähigkeit, konstruktiv in einem interdisziplinären Team zu arbeiten, eigenen Beiträge oder die anderer Teammitglieder fachlich kritisch zu würdigen und im Projekt zu berücksichtigen, stellt eine wichtige soziale, methodische und fachliche Qualifikation dar, die durch den Studienabschluss erreicht werden soll. Kommunikations- und Präsentationskompetenzen sind für die berufliche Praxis, gerade wegen der Interdisziplinarität und Arbeitsteiligkeit vieler Softwareprojekte mit medialer Ausrichtung, von besonderer Bedeutung. 
 
 ## Darstellung der durch das Studium zu erreichenden Lernergebnisse
 
@@ -745,21 +748,21 @@ Absolventinnen und Absolventen des Bachelorstudiengangs Medieninformatik:
 
 - haben im Rahmen des Studiums  fachliches und fachübergreifendes Wissen der Informatik und der Medieninformatik erlangt und ihre Fähigkeit zur Abstraktion und Modellierung sowie zum Operieren in formalen Welten mit methodischen und analytischen Ansätzen erlernt. Sie haben ein Verständnis für anwendbare Techniken und Methoden in der Wertschöpfungskette aus Medienkonzeption, -produktion, -bearbeitung, -distribution und -nutzung und für deren Grenzen entwickelt.
 
-- sind dazu befähigt, im Team Problemstellungen aus neuen und in der Entwicklung begriffenen Bereichen der Medieninformatik grundlagenbasiert, systemanalytisch und multiperspektivisch zu analysieren, zu formulieren, zu formalisieren und zu lösen, sowie solche Lösungen kritisch zu evaluieren. Sie haben dafür ein kritisches Bewusstsein über die neueren Erkenntnisse und Entwicklungen in der Informatik und insbesondere der Medieninformatik entwickelt und kennen nicht-technische Auswirkungen ihrer praktischen Tätigkeit auf und innerhalb von sozio-technischen Systemen. Dazu gehört auch die Fähigkeit zur Einarbeitung in informatikfremde Sachverhalte und technologische Problemlösungsmethoden.
+- sind dazu befähigt, im Team Problemstellungen aus neuen und sich in der Entwicklung befindenen Bereichen der Medieninformatik grundlagenbasiert, systemanalytisch und multiperspektivisch zu analysieren, zu formulieren, zu formalisieren und zu lösen, sowie solche Lösungen kritisch zu evaluieren. Sie haben dafür ein kritisches Bewusstsein über die neueren Erkenntnisse und Entwicklungen in der Informatik und insbesondere der Medieninformatik entwickelt und kennen nicht-technische Auswirkungen ihrer praktischen Tätigkeit auf und innerhalb von sozio-technischen Systemen. Dazu gehört auch die Fähigkeit zur Einarbeitung in informatikfremde Sachverhalte und technologische Problemlösungsmethoden.
 
-- erarbeiteten sich Medienkompetenzen in wichtigen Kernfächern und können Konzeptionen und Informationen bezüglich ihrer Struktur, Nutzung und ihres Managements modellieren, unter Berücksichtigung fachlicher, organisatorischer, sozialer und kultureller Kontexte sowie Vorgaben und Regeln, angemessene Gestaltungsziele formulieren, sowie Konzeptionen im Kontext etablierter fachlicher Theorien und Konzepte einordnen, analysieren, diskutieren und bewerten.
+- erarbeiteten sich Medienkompetenzen in wichtigen Kernfächern und können Konzeptionen und Informationen, bezüglich ihrer Struktur, Nutzung und ihres Managements, modellieren, unter Berücksichtigung fachlicher, organisatorischer, sozialer und kultureller Kontexte sowie Vorgaben und Regeln, angemessene Gestaltungsziele formulieren, sowie Konzeptionen im Kontext etablierter fachlicher Theorien und Konzepte einordnen, analysieren, diskutieren und bewerten.
 
 - haben anhand praxisnaher Projekte und Fallstudien die Kompetenz erworben, eigenverantwortlich und professionell Projekte im Umfeld der Medieninformatik durchführen zu können und sowie die Fähigkeit zur effektiven und effizienten Kommunikation und zur Teamarbeit erlangt. Sie erwerben Wissen bezüglich der Rahmenbedingungen von Software-gestützen Systemen und Prozessen.  Sie haben dabei ihre Fähigkeit zum methodischen und systematischen Vorgehen, der Auswahl und der Durchführung von Arbeits- und Dokumentationstechniken erlangt und sind fähig Methoden, Konzepte und Techniken bei der Problemlösung auszuwählen, anzuwenden und deren Anwendung zu begründen.
 
 - wurden an Probleme und Fragestellungen der Medieninformatik herangeführt und können auch Problemstellungen, Technologien und wissenschaftliche Erkenntnisse im Umfeld der Medieninformatik erkennen und in ihrem Arbeitsumfeld einbeziehen sowie selbst wissenschaftlich arbeiten und Beiträge zur Weiterentwicklung der Medieninformatik als Disziplin leisten.
 
-- haben ihre Fähigkeit zum lebenslangen Lernen aufgebaut und können sich selbständig in neue, für die Medieninformatik relevante Theorien, Methoden und Techniken, sowohl aus theoretischer als auch aus technischer Sichtweise, einarbeiten und ihre eigene Rolle im professionellen Kontext hinterfragen und weiterentwickeln.
+- haben ihre Fähigkeit zum lebenslangen Lernen aufgebaut und können sich selbständig in neue, für die Medieninformatik relevante, Theorien, Methoden und Techniken, sowohl aus theoretischer als auch aus technischer Sichtweise, einarbeiten und ihre eigene Rolle im professionellen Kontext hinterfragen und weiterentwickeln.
 
 
 
 ### Weiterführende Dokumente
-- Website des Medieninformatik Bachelor: [https://www.th-koeln.de/studium/medieninformatik-bachelor_2379.php](https://www.th-koeln.de/studium/medieninformatik-bachelor_2379.php)
-- Ordnungen zum Medieninformatik Bachelor: [https://www.th-koeln.de/studium/medieninformatik-bachelor--ordnungen-und-formulare_3963.php](https://www.th-koeln.de/studium/medieninformatik-bachelor--ordnungen-und-formulare_3963.php)
+- Website des Medieninformatik Bachelor: [https://www.th-koeln.de/studium/medieninformatik-bachelor_2379.php](https://www.th-koeln.de/studium/medieninformatik-bachelor_2379.php) (abgerufen am 23.02.2017)
+- Ordnungen zum Medieninformatik Bachelor: [https://www.th-koeln.de/studium/medieninformatik-bachelor--ordnungen-und-formulare_3963.php](https://www.th-koeln.de/studium/medieninformatik-bachelor--ordnungen-und-formulare_3963.php) (abgerufen am 23.02.2017)
 - Themen der Abschlussabeiten des Medieninformatik Bachelor 2010 bis 2014: [abschlussarbeiten_2010-2014_.pdf](../anhaenge/abschlussarbeiten_2010-2014_.pdf)
 - Studienverlaufsplan Medieninformatik Bachelor: [ba-studienverlaufsplan.pdf](../anhaenge/ba-studienverlaufsplan.pdf)
 - Modulhandbuch Medieninformatik Bachelor: [ba-modulhandbuch.pdf](../anhaenge/ba-modulhandbuch.pdf)
@@ -1172,13 +1175,22 @@ sm: hier stimmt noch was mit den Abschnitten nicht. Welche Abschnitte sind gemei
 ~~~
 me: Ist das folgende noch aktuell?
 ~~~
-Mit der „Köln International School of Design“ als interne Einrichtung der „Fakultät für Kulturwissenschaften“ (Fakultät 02) und der „Fakultät für angewandte Sozialwissenschaften“ (Fakultät 01) werden gemeinsame Lehrveranstaltungen durchgeführt.
 
+### Fakultätsübergreifende Zusammenarbeit
+Innerhalb der Hochschule wird eine enge Kooperation mit einigen in Köln angesiedelten Fakultäten gepflegt. Zu nennen sind hier vor allem die Bereiche Design, Photoingenieurwesen, Wirtschaft, Informationswissenschaften und Sozialwissenschaften.
+Mit der „Köln International School of Design“ als interne Einrichtung der „Fakultät für Kulturwissenschaften“ (Fakultät 02) und der „Fakultät für angewandte Sozialwissenschaften“ (Fakultät 01) werden gemeinsame Lehrveranstaltungen durchgeführt.
+Das Modul „Wissensmanagement“ des Masterstudiengangs bspw. wird von der „Fakultät für Wirtschaftswissenschaften“ der Fachhochschule Köln (Fakultät 04) importiert.
+Das Institut für Informatik und das Institut für Automation & IT sind ferner im Forschungsschwerpunkt COSA (s Kap. 5.1.3.3) synergetisch verbunden.
+Es besteht ein kontinuierlicher Austausch mit dem Institut für Tropentechnologie der Fachhochschule Köln: Jährlich wird von Herrn Prof. Dr. Jacksons Roehrig das Wahlpflichtfach „GIS Geografische Informationssysteme“ angeboten.
+
+### Fakultätsinterne Zusammenarbeit
 Innerhalb der Fakultät sind die Institute „Betriebswirtschaftliches Institut Gummersbach (BIG)“ und das „Institut für Distance Learning & Further Education (IDF)“ mit verschiedenen Modulen in die Bachelor- und Masterstudiengängen involviert.
 
 Innerhalb der Fakultät 10 für Informatik und Ingenieurwissenschaften besteht naturgemäß in der Lehre, Forschung und Entwicklung eine enge Zusammenarbeit mit den in Gummersbach angesiedelten ingenieurwissenschaftlichen Instituten. Dies drückt sich in einer Vielzahl von gemeinsamen Projekten, betreuten Abschlussarbeiten sowie einem fachübergreifenden Lehrexport und Import zwischen den beiden Lehreinheiten aus.
 
 ## Externe Kooperation mit Hochschulen und Firmen
+
+### Kooperationen mit internationalen Hochschulen
 Erste Kooperationsprojekte mit ausländischen Hochschulen datieren auf den Beginn der 80-iger Jahre. Damals wurde eine Kooperation (Erasmus-Kontrakt) mit der École Centrale de Lille abgeschlossen. Diese Kooperation existiert noch heute und regelt den Austausch auf Sokrates- und ERASMUS-Ebene von Professoren und insbesondere Studierenden.
 
 Unter den gleichen formalen Bedingungen existiert seit vielen Jahren eine Kooperation mit der Université Blaise Pascal in Clermont-Ferrand und der École pour l’Informatique et les Techniques Avancées à Paris (ÉPITA). Mit ÉPITA findet ein regelmäßiger Studierenden und Dozentenaustausch statt; so war Herr Prof. Hartmann (ehem. Plaßmann) im Jahr 2006 im Rahmen einer Kurzzeitdozentur an der ÉPITA. Regelmässig studieren ERASMUS-Studierenden von ÉPITA am Campus Gummersbach.
@@ -1207,35 +1219,60 @@ Mit der UEM (Universidad Europea de Madrid) wird das ERASMUS-Abkommen genutzt, u
 Weitere Hochschulen, mit denen Erasmuskontrakte existieren bzw. Studierende in beiden Richtungen ausgetauscht wurden, sind:
 
 ~~~
-me: Gibt es da noch weitere?
+me: Gibt es da noch weitere? Ab Istanbul Universitesi entstammen die dem Reakkreditierungsbericht der AI/WI/TI, aber die sollten ja eigentlich für alle Informatikstudiengänge gelten
 ~~~
- - Oyonnax - Ecole Supérieure de Plasturgie - F OYONNAX
- - Gdansk - Politechnika Gdanska - PL GDANSK02
- - Krosno - Panstwowa Wyzsza Szkola Zawadowa w Krosnie - PL KROSNO01
- - Horw - Fachhochschule Zentralschweiz Hochschule für Technik und Architektur Luzern (HTA) - CH HORW02
- - Alcalá de Henares - Universidad de Alcalá - E ALCAL-H01
- - Istanbul - Istanbul Teknik Üniversitesi - TR ISTANBU04
+ - Oyonnax, Frankreich, Ecole Supérieure de Plasturgie - F OYONNAX
+ - Gdansk, Polen, Politechnika Gdanska - PL GDANSK02
+ - Krosno, Polen, Państwowa Wyższa Szkoła Zawodowa w Krośnie - PL KROSNO01
+ - Luzern, Schweiz, Horw - Fachhochschule Zentralschweiz Hochschule für Technik und Architektur Luzern (HTA) - CH HORW02
+ - Alcalá de Henares, Spanien - Universidad de Alcalá - E ALCAL-H01
+ - Istanbul, Türkai, Istanbul Teknik Üniversitesi - TR ISTANBU04
+ - Istanbul, Türkei - Istanbul Universitesi - TR ISTANBU03
+ - Tampere, Finnland, Tampereen Yliopisto - SF TAMPERE01
+ - Graz, Österreich, CAMPUS 02 Fachhochschule der Wirtschaft - A GRAZ10
+ - Wels, Österreich, Fachhochschule Oberösterreich - A WELS01
+ - Wien, Österreich, Fachhochschule Technikum Wien - A WIEN20
+ - Iași, Rumänien, Universitatea 'Alexandru Ioan Cuza' - RO IASI02
+ - Cluj-Napoca, Rumänien, Universitatea 'Babes-Bolyai' din Cluj-Napoca - RO CLUJNAP01
+ - Delémont, Schweiz, HES-SO Haute École Spécialisée de Suisse Occidentale - CH DELEMON02
+ - Luzern, Schweiz, Hochschule Luzern - CH LUZERN14
+ - Tessin, Schweiz, Scuola universitaria professionale della Svizzera italiana (SUPSI) - CH LUGANO02
+ - Burgos, Spanien, Universidad de Burgos - E BURGOS01
+ - Madrid, Spanien, Universidad Europea de Madrid - E MADRID18
+ - Huelva, Spanien, Universidad de Huelva - E HUELVA01
+ - Valencia, Spanien, Universidad de Valencia - E VALENCI01
+
+Weitere Hochschulen mit denen Kooperationen bestehen sind:
+  - Kobe, Japan, Kobe Institut
+  - Leiden, Niederlande, Universiteit Leiden
+  - Amman, Jordanien, GJU (German Jordanian University)
+  - Monterey, Mexiko, Tec de Monterrey
 
 ~~~
 me: Wo bekommen wir aktuelle Zahlen her?
 ~~~
 Insgesamt absolvieren durchschnittlich 10 Studenten Praktika (Praxissemester) im Ausland, durch Erasmus–Programme werden ca. 20 Studenten jährlich unterstützt, die entweder nach Gummersbach kommen oder ein Semester im Ausland verbringen. Mit den oben angegebenen Hochschulen bestehen Erasmus-Kontakte und andere Partnerschaftsabkommen, um dem Austausch einen formalen Rahmen zu geben.
 
+### Firmen Kooperationen
 Das "IT-Forum Oberberg e.V." ist eine Initiative und ein Zusammenschluss interessierter - vorwiegend Oberbergischer- Unternehmen und Gewerbetreibender der IT-Branche (IT-Anbieter und -Nachfrager), der Industrie- und Handelskammer zu Köln - Zweigstelle Oberberg, sowie Bildungsträgern wie der Technischen Hochschule Köln - Campus Gummersbach und dem Berufskolleg des Oberbergischen Kreises. Es hat mittlerweile 56 Mitglieder und veranstaltet regelmäßig Leistungsschauen, an denen sich das Institut für Informatik beteiligt.
 
 Seit 2002 besteht ein Kooperationsvertrag mit dem Kreiskrankenhaus Gummersbach, der vom Rektor Prof. Dr. Metzner und dem Geschäftsführer des Kreiskrankenhauses, Hr. Finklenburg, im Beisein der lokalen Presse unterzeichnet wurde. Gegenstand dieser
 Zusammenarbeit sind sowohl Themen der Medizininformatik als auch der Wirtschaftsinformatik. Als Beispiele seien genannt: Prozessmodellierung und -optimierung, Entwicklung eines Patiententracking-Systems, Entwicklung eines Portals, Unterstützung bei
 der Einführung eines Arzt-Informationssystems und die Entwicklung von PDA-Anwendungen für den medizinischen Bereich. Das Ergebnis dieser Arbeiten ist in (Bärwolff, Victor, Hüsken "IT-Systeme in der Medizin", Vieweg Verlag, Wiesbaden, 2006, 1. Auflage) dokumentiert.
 
+Zu anderen Hochschulen oder Institutionen bestehen im Bereich der Informatik Verbindungen. Für die Medieninformatik von besonderer Bedeutung sind die Verbindungen zur Kunsthochschule für Medien in Köln, zum Frauenhofer Institut in Schloss Birlinghofen, und zu
+einigen Firmen aus dem RTL Firmenverbund sowie zum WDR. Seit 2005 lobt RTL jährlich drei RTL-Preise aus, mit denen drei Abschlussarbeiten aus den Studiengängen der Medieninformatik prämiert werden.
+
+~~~
+me: Hat hier noch wer weitere Firmen?
+~~~
+Die Bachelorarbeiten und Master-Thesen werden auf praktische Themenstellungen mit Forschungsbezug aus Unternehmen oder auf Aufgabenstellungen aus den Forschungsaktivitäten am Institut für Informatik ausgerichtet. Hier kann auch eine langjährige Zusammenarbeit mit rheinischen Unternehmen wie der Telekom, Vodavone, der Deutschen Post, Bayer Leverkusen und Kölner Unternehmen wie RTL, dem WDR, dem LMR, der Nuro-Media GmbH oder Metafusion verwiesen werden, bei denen eine Vielzahl von Abschlussarbeiten aus dem Bachelor und Masterstudiengang Medieninformatik stattgefunden haben. Zudem wurde eine Vielzahl von Projekt- und Abschlussarbeiten bei dem Broadcast Center Europe (BCE) in Luxemburg, einem Mitglied der RTL-Gruppe, durchgeführt.
+
 ~~~
 me: Haben wir ein Personalhandbuch, welches als Anhang mitgeliefert wird? Momentan sehe ich noch keines
 ~~~
-Darüber hinaus findet sich im Personalhandbuch eine Vielzahl von Hinweisen einzelner Kolleginnen und Kollegen darüber, mit welchen Firmen sie kooperieren. Seitens der »Nachwuchsförderung« kooperiert die Fakultät 10 mit zahlreichen Gymnasien
-und Berufskollegs in der Region.
-
-[^promotionen]: Beendete und seit 2009 begonnene Promotionen fehlen
-[^kooperationen]: neue Kooperationen seit 2009 fehlen
-[^beendete_kooperationen]: nicht mehr existierende Kooperationen seit 2009 müssen markiert werden.
+Darüber hinaus findet sich im Personalhandbuch eine Vielzahl von Hinweisen einzelner Kolleginnen und Kollegen darüber, mit welchen Firmen sie kooperieren. Im Rahmen von Abschlussarbeiten und Projektarbeiten finden sich so ein Vielzahl regionaler Firmen bei den Abschlussarbeiten und Projektarbeiten bereits in erfolgreicher Kooperation durchgeführt wurden, so beispielsweise die Cologne Broadcasting Company (CBC), Inovex GmbH, CLAAS, Telexiom AG oder Miltenyi Biotec GmbH.
+Seitens der »Nachwuchsförderung« kooperiert die Fakultät 10 mit zahlreichen Gymnasien und Berufskollegs in der Region.
 
 
 # Ausstattung

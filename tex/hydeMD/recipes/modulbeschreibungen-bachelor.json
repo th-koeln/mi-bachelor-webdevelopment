@@ -3,5 +3,13 @@
 
 	"placeholder": {
 		"title": "Modulbeschreibungen Bachelor"
+	},
+
+	"postprocessLatex": {
+		"replace": [
+			[ "/\\\\section/"       , "\\\\chapter" ],
+        	[ "/\\\\subsection/"    , "\\\\section*" ],
+        	[ "/\\\\subsubsection/" , "\\\\subsection*" ]
+		]
 	}
 }

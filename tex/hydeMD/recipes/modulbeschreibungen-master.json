@@ -3,5 +3,13 @@
 
 	"placeholder": {
 		"title": "Modulbeschreibungen Master"
+	},
+
+	"postprocessLatex": {
+		"replace": [
+			[ "/\\\\section/"       , "\\\\chapter" ],
+        	[ "/\\\\subsection/"    , "\\\\section*" ],
+        	[ "/\\\\subsubsection/" , "\\\\subsection*" ]
+		]
 	}
 }
