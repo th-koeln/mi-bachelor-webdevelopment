@@ -52,7 +52,7 @@ Absolventinnen und Absolventen des Masterstudiengangs Medieninformatik:
 [^studienverlaufsplan-master]: Studienverlaufsplan Medieninformatik Master fehlt
 [^modulhandbuch-master]: Modulhandbuch Medieninformatik Master fehlt
 [^ziele-module-master]: Ziele-Module-Matrix Medieninformatik Master fehlt
-[^website-master]: Website des Medieninformatik Master: <a href="https://www.th-koeln.de/studium/medieninformatik-master_3729.php">https://www.th-koeln.de/studium/medieninformatik-master_3729.php (abgerufen am 14.02.2017)</a>
-[^ordnungen-master]: Ordnungen zum Medieninformatik Master: <a href="https://www.th-koeln.de/studium/medieninformatik-master--ordnungen-und-formulare_3724.php">https://www.th-koeln.de/studium/medieninformatik-master--ordnungen-und-formulare_3724.php (abgerufen am 14.02.2017)</a>
-[^zeugnis-master]: Beispielzeugnis und Diploma Supplement Medieninformatik Master: <a href="../anhaenge/ma-zeugnis.pdf">ma-zeugnis.pdf</a>
+[^website-master]: <a href="https://www.th-koeln.de/studium/medieninformatik-master_3729.php">Website des Medieninformatik Master</a> (abgerufen am 14.02.2017)
+[^ordnungen-master]: <a href="https://www.th-koeln.de/studium/medieninformatik-master--ordnungen-und-formulare_3724.php">Ordnungen zum Medieninformatik Master</a> (abgerufen am 14.02.2017)
+[^zeugnis-master]: <a href="../anhaenge/ma-zeugnis.pdf">Beispielzeugnis und Diploma Supplement Medieninformatik Master</a>
 
