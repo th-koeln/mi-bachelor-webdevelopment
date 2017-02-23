@@ -111,6 +111,8 @@ Wie oben dargelegt dient die Weiterentwicklung im Wesentlichen einer Profilschä
 
 In der folgenden Abbildung sind im linken Teil semesterweise die Pflichtmodule des aktuellen Curriculums dargestellt. Der rechte Teil zeigt die Module des zukünftigen Curriculums, wobei aus Gründen der Übersichtlichkeit keine Aufteilung nach Semestern vorgenommen wurde. Blau gefärbt sind die Kern-Module, Magenta die mindestens einem Schwerpunkt zugeordneten Module, Grün die Projektmodule und grau die Wahlpflich-Module. Die Pfeile zeigen die Weiterführung der Module des aktuellen Curriculums an.
 
+
+
 {% include image.html url="bilder/ma-mpo3-mpo4.png" caption="Abbildung: Module des Masterstudiengangs Medieninformatik. Links das aktuelle und rechts das zukünftige Curriculum." %}
 
 Erforderliche Module im aktuellen Curriculum (Pflichtmodule)
