@@ -228,7 +228,7 @@ cn: Tabelle zeigt nur Zahlen bis 2013. Haben wir da was besseres?
 @Volker: da müsstest Du bitte noch mal eine Tabelle draus machen. Sprechen wir Mittwoch drüber. 
 ~~~
 
-![Tabelle: Daten des Bachelorstudiengangs Medieninformatik](../anhaenge/tabellen/MI-BA-anzahl-studierende.png)
+![Tabelle: Daten des Bachelorstudiengangs Medieninformatik](../anhaenge/tabellen/MI-BA-anzahl-studierende.pdf)
 
 | Semester   | Einschreibungen gesamt | Davon noch im Studium | Davon Abbruch | Davon Abschluss |
 | ---------- | ---------------------- | --------------------- | ------------- | --------------- |
@@ -408,7 +408,7 @@ Die im Folgenden dargestellten geplanten Veränderungen des Bachelorstudienprogr
 ### Verbesserungen des Studienaufbaus
 
 
-![Abbildung: Geplante Veränderungen des Bachelorstudiengangs Medieninformatik. Links das aktuelle und rechts das zu akkreditierende Curriculum. Die lila hinterlegten Module werden gestrichen, die grün hinterlegten in Vertiefungsmodulen zusammengefasst, die orange hinterlegten Module wurden neu angeordnet und die gelben Module wurden neu integriert.](../anhaenge/bilder/ba-veraenderungen-studienverlaufsplan.png)
+![Abbildung: Geplante Veränderungen des Bachelorstudiengangs Medieninformatik. Links das aktuelle und rechts das zu akkreditierende Curriculum. Die lila hinterlegten Module werden gestrichen, die grün hinterlegten in Vertiefungsmodulen zusammengefasst, die orange hinterlegten Module wurden neu angeordnet und die gelben Module wurden neu integriert.](../anhaenge/bilder/ba-veraenderungen-studienverlaufsplan.pdf)
 
 
 Mit einer Verbesserung des Studienaufbaus sollen folgende bekannte Defizite ausgeglichen werden:
@@ -427,7 +427,7 @@ Im vierten Semester wurde ein Vertiefungsmodul mit 20 Creditpoints installiert a
 
 ### Verbesserter Aufbau der projektorientierten Module und der Projektgrößen
 
-![Abbildung: Veränderter Aufbau der Projektanteile des Bachelorstudiengangs Medieninformatik. Links das aktuelle und rechts das zu akkreditierende Curriculum.](../anhaenge/bilder/ba-projektanteile.png)
+![Abbildung: Veränderter Aufbau der Projektanteile des Bachelorstudiengangs Medieninformatik. Links das aktuelle und rechts das zu akkreditierende Curriculum.](../anhaenge/bilder/ba-projektanteile.pdf)
 
 Hiermit sollen folgende bekannte Defizite ausgeglichen werden:
 
@@ -440,7 +440,7 @@ Wie bereits beschrieben, wurden die projektorientierten Module gleichmäßiger �
 
 ### Strukturierte Möglichkeit zur individuellen Fachvertiefung
 
-![Abbildung: Zusammenfassung von Modulen aus einem Themenfeld zu Vertiefungsmodulen im  Medieninformatik Bachelor.](../anhaenge/bilder/ba-vertiefungen.png)
+![Abbildung: Zusammenfassung von Modulen aus einem Themenfeld zu Vertiefungsmodulen im  Medieninformatik Bachelor.](../anhaenge/bilder/ba-vertiefungen.pdf)
 
 Mit dieser Änderungen sollen folgende bekannte Defizite ausgeglichen werden:
 
@@ -890,7 +890,7 @@ Um die Qualifikationsziele des sechssemestrigen Studiengangs zu erreichen, das S
 
 ### Studienphasen und -säulen
 
-![Abbildung: Studienphasen des Bachelorstudiengangs Medieninformatik](../anhaenge/bilder/ba-studienphasen.png)
+![Abbildung: Studienphasen des Bachelorstudiengangs Medieninformatik](../anhaenge/bilder/ba-studienphasen.pdf)
 
 Die organisatorischen und inhaltliche Klammer bilden die drei, aufeinander aufbauenden, Studienphasen: Grundlagen, Vertiefung und Spezialisierung. Die Module innerhalb der Phasen, gliedern sich in zwei Säulen: Informatik Kernmodule und Medieninformatik-spezifische Module. Die Informatik Kernmodule auch von anderen Informatik Studiengängen der Fakultät 10 genutzt. Dadurch werden Synergien erzeugt und alle Informatik Studenten der Fakultät können auf die gleiche Wissensbasis zurückgreifen. Durch die Durchmischung von Studierenden unterschiedlicher Studiengänge können hier unter den Studierenden bereits interdisziplinäre Kontakte geknüpft werden. Ein weiterer Vorteil dieser Konstruktion ist eine gute Durchlässigkeit von Studierenden beim Studiengangswechsel, sofern sie feststellen, dass ein anderer Studiengang am Campus eher ihren Fähigkeiten und Neigungen entspricht. Naturgemäß die Informatik Kernmodule, die zumeist Grundlagencharakter haben, im Grundlagenteil des Studiums verankert.
 
@@ -898,7 +898,7 @@ Um den Studierenden jedoch mit den Herangehensweisen und Perspektiven der Medien
 
 ### Sinnvolle Staffelung der Module
 
-![Abbildung: Studienverlaufsplan des Bachelorstudiengangs Medieninformatik](../anhaenge/bilder/ba-verlaufsplan.png)
+![Abbildung: Studienverlaufsplan des Bachelorstudiengangs Medieninformatik](../anhaenge/bilder/ba-verlaufsplan.pdf)
 
 Die ersten Modulen des Informatik Kerns bauen vor allem mathematische, algorithmische und und grundlegende Kenntnisse und Fertigkeiten auf. Im Kontrast dazu, werden im Modul "Einführung in die Medieninformatik" vielfältige Perspektiven, Konzepte und Arbeitstechniken der Medieninformatik, quasi im Vorgriff auf der kommende Studium, vorgestellt und in einem Projekt, mit forschendem Charakter, angewendet. Hiermit wird den Studierenden ein Ausblick auf das weitere Studium und die notwendigen Arbeitsweisen und -techniken gegeben.
 
@@ -993,7 +993,7 @@ Der Titel der Studienrichtung, „Weaving the Web” wurde gewählt, da neben de
 
 ### Studienphasen und -säulen
 
-![Abbildung: Struktur der ersten drei Studiensemester des Masterprogramms bei Studienstart im Wintersemester](../anhaenge/bilder/ma-struktur.png)
+![Abbildung: Struktur der ersten drei Studiensemester des Masterprogramms bei Studienstart im Wintersemester](../anhaenge/bilder/ma-struktur.pdf)
 
 Jedes der ersten drei Fachsemester steht unter einer übergreifenden Leitfrage. Diese Fragen sind, ähnlich wie im Bachelorprogramm, am groben Ablauf der Produktentwicklung ausgerichtet: "Vision & Konzept", "Entwicklung" und "Assessment/Evaluation, Forschung und Verwertung". Die Leitfragen sind vor allem für die Projekte relevant. Das vierte Fachsemester wird komplett von der Masterthesis ausgefüllt.
 
