@@ -22,6 +22,8 @@ reviewed-von:
 ~~~
 me: Ist das folgende noch aktuell?
 ~~~
+
+### Fakultätsübergreifende Zusammenarbeit
 Innerhalb der Hochschule wird eine enge Kooperation mit einigen in Köln angesiedelten Fakultäten gepflegt. Zu nennen sind hier vor allem die Bereiche Design, Photoingenieurwesen, Wirtschaft, Informationswissenschaften und Sozialwissenschaften.
 Mit der „Köln International School of Design“ als interne Einrichtung der „Fakultät für Kulturwissenschaften“ (Fakultät 02) und der „Fakultät für angewandte Sozialwissenschaften“ (Fakultät 01) werden gemeinsame Lehrveranstaltungen durchgeführt.
 Das Modul „Wissensmanagement“ des Masterstudiengangs bspw. wird von der „Fakultät für Wirtschaftswissenschaften“ der Fachhochschule Köln (Fakultät 04) importiert.
