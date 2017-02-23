@@ -56,6 +56,11 @@ layout: default
 	</div>
 </section>
 
-
-
-
+{% for member in sorted_people %}
+{% include /functions/collect-courses.html dozent=member %}
+{% assign ws = false %}
+### {{ member[1].name}}<br>
+- {{module_ws}}<br>
+- {{module_ss}}<br>
+<br>
+{% endfor %}

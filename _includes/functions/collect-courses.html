@@ -1,18 +1,18 @@
-<!-- Daten übernehmen -->
+{% comment %}  Daten übernehmen {% endcomment %} 
 {% assign dozent = include.dozent %}
 
-<!-- Leeres Array für Module deklarieren -->
+{% comment %}  Leeres Array für Module deklarieren {% endcomment %} 
 {% assign module_ss = "" | split:"|"  %}
 {% assign module_ws = "" | split:"|"  %}
 
-<!-- Modulbeschreibungen Bachelor auslesen und durch iterieren-->
+{% comment %}  Modulbeschreibungen Bachelor auslesen und durch iterieren{% endcomment %} 
 {% assign module = (site.modulbeschreibungen-bachelor) %}
 {% for modul in module %}
 
-<!-- Wenn dies ein Modul des aktuellen Dozenten ist, dann selbiges speichern -->
+{% comment %}  Wenn dies ein Modul des aktuellen Dozenten ist, dann selbiges speichern {% endcomment %} 
 {% if(modul.modulverantwortlich contains dozent[0]) %}
 
-<!-- Liegt das Modul im Sommersemester oder Wintersemester? -->
+{% comment %}  Liegt das Modul im Sommersemester oder Wintersemester? {% endcomment %} 
 {% assign value = modul.studiensemester | modulo:2 %}
 
 {% if value == 0 %}
@@ -39,14 +39,14 @@
 {% endfor %}
 
 
-<!-- Modulbeschreibungen Master auslesen und durch iterieren-->
+{% comment %}  Modulbeschreibungen Master auslesen und durch iterieren{% endcomment %} 
 {% assign module_master = (site.modulbeschreibungen-master) %}
 {% for modul in module_master %}
 
-<!-- Wenn dies ein Modul des aktuellen Dozenten ist, dann selbiges speichern -->
+{% comment %}  Wenn dies ein Modul des aktuellen Dozenten ist, dann selbiges speichern {% endcomment %} 
 {% if(modul.modulverantwortlich contains dozent[0]) %}
 
-<!-- Liegt das Modul im Sommersemester oder Wintersemester? -->
+{% comment %}  Liegt das Modul im Sommersemester oder Wintersemester? {% endcomment %} 
 {% assign value = modul.studiensemester-ws | modulo:2 %}
 
 {% if value == 0 %}
@@ -75,6 +75,6 @@
 {% endfor %}
 
 
-<!-- Ausgabe vorbereiten -->
+{% comment %}  Ausgabe vorbereiten {% endcomment %} 
 {% assign module_ss = module_ss | join: '<br>' %}
 {% assign module_ws = module_ws | join: '<br>' %}
