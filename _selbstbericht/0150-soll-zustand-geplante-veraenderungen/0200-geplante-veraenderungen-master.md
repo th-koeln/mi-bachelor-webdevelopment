@@ -1,10 +1,10 @@
 ---
 title: Geplante Veränderungen des Master-Studiengangs gegenüber dem aktuellen Akkreditierungszeitraum
-aktueller-bearbeiter: Mario Winter
-bearbeiterhistorie: Christian Noss
+aktueller-bearbeiter: 
+bearbeiterhistorie: Christian Noss, MW 23.2.17
 date: 17.02.2017
 comment: Schwerpunktmodule und deren Herkunft nicht komplett
-status: Unvollständig, Peer Review erforderlich
+status: Review erforderlich
 reviewed-von: Robert Gabriel
 ---
 
