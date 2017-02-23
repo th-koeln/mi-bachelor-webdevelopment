@@ -8,7 +8,6 @@ status: fertig
 reviewed-von: HK
 ---
 
-
 ## Beschreibung des Qualitätssicherungssystems der Studiengänge
 
 Der Senat der TH Köln hat am 12. Dezember 2013 die Ordnung für die Evaluation von Studium und Lehre in ihrer dritten Fassung verabschiedet, die den Verfahrensablauf und die Verfahrensschritte von Evaluationsverfahren an der TH Köln regelt. Die TH Köln verfügt mit dem Hochschulreferat 4 Qualitätsmanagement über eine zentrale Organisationseinheit für die Entwicklung und Durchführung von Evaluationsverfahren. Zudem hat der Fachausschuss des Studiengangs einen Qualitätsbeauftragten benannt, der als interner Ansprechpartner für die zentral organisierten Evaluationen und Studierendenbefragungen fungiert und neben dem Vorsitzenden des Fachausschusses direkter Ansprechpartner für die Umsetzung von Qualitätsverbesserungsmaßnahmen ist.

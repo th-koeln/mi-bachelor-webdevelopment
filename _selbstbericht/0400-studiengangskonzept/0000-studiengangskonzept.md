@@ -21,13 +21,13 @@ Studierende mit einer allgemeinen Hochschulreife benötigen im Mittel ein Semest
 
 Die Lehrinhalte und Veranstaltungsformen orientieren sich an den Notwendigkeiten des jeweiligen Moduls, so dass neben Vorlesung und Praktika eine Reihe anderer Lehrformen, wie seminaristischer Unterricht, Flipped Classroom und Workshops zum Einsatz kommen. Die Medieninformatik Studiengänge sind von einer starken Projektorientierung geprägt. Hierbei sind sowohl die Projekt- als auch die Teamgrößen sehr unterschiedlich. Die Projektgrößen gehen von 2,5 bis 12 Creditpoints und die Teamgrößen von 2er bis zu 9er Teams.
 
-## Studienkonzept Bachelor
+## Studienkonzept Medieninformatik Bachelor
 
 Um die Qualifikationsziele des sechssemestrigen Studiengangs zu erreichen, das Studium sinnvoll in das Lehrportfolio der Fakultät einbetten zu können und um eine größtmögliche Zufriedenheit bei den Studierenden zu erzielen, ist das Studiengangskonzept wie folgt aufgebaut.
 
 ### Studienphasen und -säulen
 
-{% include image.html url="bilder/ba-studienphasen.svg" caption="Abbildung: Studienphasen des Bachelorstudiengangs Medieninformatik" %}
+{% include image.html url="bilder/ba-studienphasen.svg" caption=" Studienphasen des Bachelorstudiengangs Medieninformatik" %}
 
 Die organisatorischen und inhaltliche Klammer bilden die drei, aufeinander aufbauenden, Studienphasen: Grundlagen, Vertiefung und Spezialisierung. Die Module innerhalb der Phasen, gliedern sich in zwei Säulen: Informatik Kernmodule und Medieninformatik-spezifische Module. Die Informatik Kernmodule auch von anderen Informatik Studiengängen der Fakultät 10 genutzt. Dadurch werden Synergien erzeugt und alle Informatik Studenten der Fakultät können auf die gleiche Wissensbasis zurückgreifen. Durch die Durchmischung von Studierenden unterschiedlicher Studiengänge können hier unter den Studierenden bereits interdisziplinäre Kontakte geknüpft werden. Ein weiterer Vorteil dieser Konstruktion ist eine gute Durchlässigkeit von Studierenden beim Studiengangswechsel, sofern sie feststellen, dass ein anderer Studiengang am Campus eher ihren Fähigkeiten und Neigungen entspricht. Naturgemäß die Informatik Kernmodule, die zumeist Grundlagencharakter haben, im Grundlagenteil des Studiums verankert.
 
@@ -35,7 +35,7 @@ Um den Studierenden jedoch mit den Herangehensweisen und Perspektiven der Medien
 
 ### Sinnvolle Staffelung der Module
 
-{% include image.html url="bilder/ba-verlaufsplan.svg" caption="Abbildung: Studienverlaufsplan des Bachelorstudiengangs Medieninformatik" %}
+{% include image.html url="bilder/ba-verlaufsplan.svg" caption=" Studienverlaufsplan des Bachelorstudiengangs Medieninformatik" %}
 
 Die ersten Modulen des Informatik Kerns bauen vor allem mathematische, algorithmische und und grundlegende Kenntnisse und Fertigkeiten auf. Im Kontrast dazu, werden im Modul "Einführung in die Medieninformatik" vielfältige Perspektiven, Konzepte und Arbeitstechniken der Medieninformatik, quasi im Vorgriff auf der kommende Studium, vorgestellt und in einem Projekt, mit forschendem Charakter, angewendet. Hiermit wird den Studierenden ein Ausblick auf das weitere Studium und die notwendigen Arbeitsweisen und -techniken gegeben.
 
@@ -64,12 +64,13 @@ Wissenschaftliches Arbeiten wird beginnend im ersten Semester in der Veranstaltu
 
 ### Weiterführende Dokumente
 
-- Themen der Abschlussarbeiten von 2010 bis 2014[^Abschlussarbeitsthemen-bachelor]
-- Studienverlaufsplan Medieninformatik Bachelor[^studienverlaufsplan-bachelor]
-- Modulhandbuch Medieninformatik Bachelor[^modulhandbuch-bachelor]
-- Ziele-Module-Matrix Medieninformatik Bachelor[^ziele-module-bachelor]
+- Themen der Abschlussabeiten des Medieninformatik Bachelor 2010 bis 2014: <a href="../anhaenge/ba-abschlussarbeiten_2010-2014_.pdf">ba-abschlussarbeiten_2010-2014_.pdf</a>
+- Studienverlaufsplan Medieninformatik Bachelor: <a href="../anhaenge/ba-studienverlaufsplan.pdf">ba-studienverlaufsplan.pdf</a>
+- Modulhandbuch Medieninformatik Bachelor: <a href="../anhaenge/ba-modulhandbuch.pdf">ba-modulhandbuch.pdf</a>
+- Ziele-Module-Matrix Medieninformatik Bachelor: <a href="../anhaenge/ba-Ziele-Module-Matrix-Medieninformatik-Bachelor.pdf">ba-Ziele-Module-Matrix-Medieninformatik-Bachelor.pdf</a>
+- Beispielzeugnis und Diploma Supplement Medieninformatik Bachelor: <a href="../anhaenge/ba-zeugnis.pdf">ba-zeugnis.pdf</a>
 
-## Master
+## Studienkonzept Medieninformatik  Master
 
 Der viersemestrige Masterstudiengang baut konsekutiv auf das Bachelorprogramm auf. Im Gegensatz zum Bachelorstudium, sind hier Einschreibungen im Sommer- und Wintersemester möglich. Dies führt zu unterschiedlichen Studienverlaufplänen in Abhängigkeit des Einschreibesemesters.
 
@@ -77,7 +78,7 @@ Aufgrund der bereits oben betonten Notwendigkeit einer professionellen Differenz
 
 ### Studienschwerpunkte
 
-{% include image.html url="bilder/ma-schwerpunkte.svg" caption="Abbildung: Studienschwerpunkte des Masterprogramms" %}
+{% include image.html url="bilder/ma-schwerpunkte.svg" caption=" Studienschwerpunkte des Masterprogramms" %}
 
 
 Zur individuellen Schwerpunktbildung bietet des Masterprogramm vier Möglichkeiten, die alle auf den im Bachelor gelegten Themenbieten aufbauen: Human-Computer Interaction, Social Computing, Visual Computing und Weaving the Web. Für Studierende, die ein generalistisch geprägtes Studium bevorzugen wird der Studienpfad "Multiperspective Product Development" angeboten, der sich aus ausgewählten Modulen der anderen Schwerpunkte und des Wahlplichtkatalogs speist. Dieser wird aus organisatorischen Gründen auch als Schwerpunkt aufgeführt.
@@ -129,12 +130,12 @@ Als charakterisierende Merkmale für die Entwicklung von Produkten und Diensten 
 
 - die konsequente Anwendung agiler Vorgehensmodelle sowie die Nutzung des Wissens und des kreativen Potentials von Nutzern durch Community Managenent. 
 
-Der Titel der Studienrichtung, „Weaving the Web” wurde gewählt, da neben dem klassischen Software Engineering vor allem auch die Integration eigener Produkte und Dienste in das Web thematisiert wird.
+Der Titel des Schwerpunkts „Weaving the Web” wurde gewählt, da neben dem klassischen Software Engineering vor allem auch die Integration eigener Produkte und Dienste in das Web thematisiert wird.
 
  
 ### Studienphasen und -säulen
 
-{% include image.html url="bilder/ma-struktur.svg" caption="Abbildung: Struktur der ersten drei Studiensemester des Masterprogramms bei Studienstart im Wintersemester" %}
+{% include image.html url="bilder/ma-struktur.svg" caption=" Struktur der ersten drei Studiensemester des Masterprogramms bei Studienstart im Wintersemester" %}
 
 Jedes der ersten drei Fachsemester steht unter einer übergreifenden Leitfrage. Diese Fragen sind, ähnlich wie im Bachelorprogramm, am groben Ablauf der Produktentwicklung ausgerichtet: "Vision & Konzept", "Entwicklung" und "Assessment/Evaluation, Forschung und Verwertung". Die Leitfragen sind vor allem für die Projekte relevant. Das vierte Fachsemester wird komplett von der Masterthesis ausgefüllt.
 
@@ -163,20 +164,12 @@ Die inhaltliche Offenheit des dritten Fachsemesters mit drei Wahlpflichtmodulen 
 
 ### Weiterführende Dokumente
 
-- Studienverlaufsplan Medieninformatik Master[^studienverlaufsplan-master]
-- Modulhandbuch Medieninformatik Master[^modulhandbuch-master]
-- Prüfungsordnung Medieninformatik Master(entwurf)[^pruefungsordnung-master]
-- Ziele-Module-Matrix Medieninformatik Master[^ziele-module-master]
+- Studienverlaufsplan Medieninformatik Master: <a href="../anhaenge/ma-studienverlaufsplaene.pdf">ma-studienverlaufsplaene.pdf</a>
+- Modulhandbuch Medieninformatik Master: <a href="../anhaenge/ma-modulhandbuch.pdf">ma-modulhandbuch.pdf</a>
+- Prüfungsordnung Medieninformatik Master(entwurf): <a href="../anhaenge/ma-MIMPO_Entwurf_20170218.pdf">ma-MIMPO_Entwurf_20170218.pdf</a>
+- Ziele-Module-Matrix Medieninformatik Master: <a href="../anhaenge/ma-Ziele-Module-Matrix-Medieninformatik-Master.pdf">ma-Ziele-Module-Matrix-Medieninformatik-Master.pdf</a>
+- Beispielzeugnis und Diploma Supplement Medieninformatik Master: <a href="../anhaenge/ma-zeugnis.pdf">ma-zeugnis.pdf</a>
 
-[^Abschlussarbeitsthemen-bachelor]: Themen der Abschlussabeiten des Medieninformatik Bachelor 2010 bis 2014: <a href="../anhaenge/abschlussarbeiten_2010-2014_.pdf">abschlussarbeiten_2010-2014_.pdf</a>
 [^profil-studienanfaenger-2017]: Profil der Studienanfänger: <a href="../anhaenge/profil-studienanfaenger-2017.xlsx">profil-studienanfaenger-2017.xlsx</a>
 [^profil2_projektboerse]: Profil<sup 2 /sup> Projektbörse: <a href="http://projektboerse-profil2.th-koeln.de/">Homepage Profil2 Projektbörse</a>
-[^studienverlaufsplan-bachelor]: Studienverlaufsplan Medieninformatik Bachelor fehlt
-[^modulhandbuch-bachelor]: Modulhandbuch Medieninformatik Bachelor fehlt
-[^studienverlaufsplan-master]: Studienverlaufsplan Medieninformatik : <a href="../anhaenge/Master ma-studienverlaufsplaene.pdf">Master ma-studienverlaufsplaene.pdf</a>
-- Beispielzeugnis und Diploma Supplement Medieninformatik Master: <a href="../anhaenge/ma-zeugnis.pdf">zeugnis.pdf</a>
-[^modulhandbuch-master]: Modulhandbuch Medieninformatik Master fehlt
-[^pruefungsordnung-master]: Prüfungsordnung Medieninformatik Master(entwurf): <a href="../anhaenge/MIMPO_Entwurf_ohne_Anm_Sz20170218.pdf">MIMPO_Entwurf_ohne_Anm_Sz20170218.pdf</a>
-[^ziele-module-bachelor]: Ziele-Module-Matrix Medieninformatik Bachelor: <a href="../anhaenge/Ziele-Module-Matrix-Medieninformatik-Bachelor.pdf">Ziele-Module-Matrix-Medieninformatik-Bachelor.pdf</a> (abgerufen am 13.02.2017)
-[^ziele-module-master]: Ziele-Module-Matrix Medieninformatik Master: <a href="../anhaenge/Ziele-Module-Matrix-Medieninformatik-Master.pdf">Ziele-Module-Matrix-Medieninformatik-Master.pdf</a>
 [^fachgruppe-gi-hci]: Fachbereich Mensch-Computer-Interaktion (MCI)/ Fachgruppe Medieninformatik: <a href="http://fb-mci.gi.de/mensch-computer-interaktion-mci/fachgruppen/medieninformatik.html">http://fb-mci.gi.de/mensch-computer-interaktion-mci/fachgruppen/medieninformatik.html</a>

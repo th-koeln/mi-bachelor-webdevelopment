@@ -1,18 +1,18 @@
 ---
 title: Ist-Zustand
-aktueller-bearbeiter: Gerhard Hartmann
+aktueller-bearbeiter:
 bearbeiterhistorie: Christian Noss
 date: 14.02.2017
-comment: Schon gar nicht schlecht, ein paar Schlussfolgerungen, Anhänge und Belege fehlen (siehe Kommentare)
-status: Unvollständig
+comment: 
+status: fertig
 reviewed-von: Robert Gabriel, HK
 ---
 
 Mit den Studiengängen der Medieninformatik bietet die Fakultät für Informatik und Ingenieurwissenschaften der TH Köln seit dem Jahr 2000 ein wissenschaftlich fundiertes und praxisorientiertes Informatik-Studienprogramm mit dem Schwerpunkt Medien an. Beide Studiengänge wurden bereits 2004 akkreditiert und 2010 reakkreditiert und gehören damit zu den ersten erfolgreich akkreditierten Studiengängen der TH Köln. 
 
-Fachlich und strukturell sind sowohl der Bachelor-Studiengang als auch der konsekutive Master-Studiengang auf die Analyse, Konzeption, Realisierung und Adaption von oft web-basierten Prozessen und Systemen zur Produktion, Bearbeitung und Distribution medienbasierter Informationen sowie entsprechender interaktiver Systeme ausgerichtet. Den Kern bildet ein Informatikstudium. Hinzu kommt die Vermittlung umfassender, vielschichtiger analytischer wie konstruktiver Medienkompetenzen sowie ökonomischer, technischer und gesellschaftlicher Grundkenntnisse. Darüber hinaus werden zeitgemäße Werkzeuge und Werkzeugketten, Kollaborations- und Entwicklungsmethoden vermittelt und überwiegend projektorientiert eingeübt.
+Fachlich und strukturell sind sowohl der Bachelorstudiengang als auch der konsekutive Master-Studiengang auf die Analyse, Konzeption, Realisierung und Adaption von oft web-basierten Prozessen und Systemen zur Produktion, Bearbeitung und Distribution medienbasierter Informationen sowie entsprechender interaktiver Systeme ausgerichtet. Den Kern bildet ein Informatikstudium. Hinzu kommt die Vermittlung umfassender, vielschichtiger analytischer wie konstruktiver Medienkompetenzen sowie ökonomischer, technischer und gesellschaftlicher Grundkenntnisse. Darüber hinaus werden zeitgemäße Werkzeuge und Werkzeugketten, Kollaborations- und Entwicklungsmethoden vermittelt und überwiegend projektorientiert eingeübt.
 
-Die Studiengänge, vor allem der Bachelor-Studiengang, erfreuen sich großer Nachfrage, sowohl von Studierenden als auch von Unternehmen. Beim unabhängigen Bewertungsportal "Studycheck.de" [^Link-studycheckde] wird die Medieninformatik am Campus Gummersbach unter den TOP 5 Studiengängen in diesem Segment gelistet [^Anhang-Snapshot-Bewertungen-von-studycheckde].
+Die Studiengänge, vor allem der Bachelorstudiengang, erfreuen sich großer Nachfrage, sowohl von Studierenden als auch von Unternehmen. Beim unabhängigen Bewertungsportal "Studycheck.de" [^Link-studycheckde] wird die Medieninformatik am Campus Gummersbach unter den TOP 5 Studiengängen in diesem Segment gelistet [^Anhang-Snapshot-Bewertungen-von-studycheckde].
 
 Mittlerweile haben etwa 15 Absolventen des Masterstudienganges Medieninformatik ein Promotionstudium abgeschlossen bzw. sind gerade im Begriff, diese anzuschliessen. Die Promotionsverfahren fanden bzw. finden an deutschen (Münster, Paderborn, Tübingen) aber auch an europäischen (Schweden, Norwegen, Niederlande, Spanien, UK) Universitäten statt und decken fachlich ein breites Spektrum ab.
 
@@ -27,7 +27,7 @@ Der Technischen Hochschule Köln wurden im Rahmen der Reakkreditierung im März 
 > 1. Die Prüfungsorganisation muss gewährleisten, dass studienzeitverlängernde Effekte beim Übergang vom Grund- zum Hauptstudium vermieden werden.
 > 2. Eine Beschreibung des Moduls Abschlussarbeit muss erstellt werden.
 
-Die Auflagen für den Bachelor-Studiengang Medieninformatik wurden von der Fachhochschule Köln folgendermaßen erfüllt:
+Die Auflagen für den Bachelorstudiengang Medieninformatik wurden von der Fachhochschule Köln folgendermaßen erfüllt:
 
 - zu 1: In §17 (3) der Bachelorprüfungsordnung wurde der folgende Passus ersatzlos gestrichen: Zu den Modulprüfungen des Hauptstudiums (Teil 1), mit Ausnahme des Moduls "Netzbasierte Anwendungen", wird zugelassen, wer die Zwischenprüfung mit einer beliebigen Ausnahme bestanden hat. Zu den Modulprüfungen des Hauptstudiums (Teil 2) wird zugelassen, wer die Zwischenprüfung ohne Ausnahme bestanden hat. Somit gibt es keine der Prüfungsorganisation anzulastenden studienzeitverlängernden Effekte beim Übergang vom Grund- zum Hauptstudium mehr.
 - zu 2: Die Beschreibung des Moduls Abschlussarbeit wurde vorgelegt.
@@ -142,14 +142,11 @@ Die Prüfungserfolge sind bzgl. des Bachelor- und Masterstudiengangs zu differen
 Im Bachelorstudiengang Medieninformatik zeigt sich bei den Prüfungserfolgen des „neuen“ im Vergleich zum „alten“ Studiengang (BPO2 vs. BPO3, s. Anhang Pruefungsstatistiken [^Anhang-Pruefungsstatistiken]) ein früherer Prüfungserfolg. Auch in höheren Semestern werden die Prüfungen früher absolviert und mit weniger Fehlversuchen bestanden. In erster Näherung findet man in den ersten beiden Semestern eine Gleichverteilung der Noten innerhalb des Notenspektrums, die sich in den höheren Semestern zu einer deutlichen Verbesserung hin verschiebt. Hier mögen zwei Faktoren von Bedeutung sein: Zum einen der deutlich höhere Anteil an medien(informatik)spezifischen Modulen und zum anderen kann gemutmaßt werden, dass sich hier die Abbrecherzahlen positiv auswirken. Die Abschluss- und die Endnoten setzen diesen Trend der Verbesserung des Notendurchschnitts fort.
 
 Im Masterstudium wirkt sich die im Rahmen der Reakkreditierung weggefallene Zulassungsvoraussetzung eines Mindest-Notenschnittes nicht wesentlich auf die Verteilung der Prüfungsergebnisse aus. Auch hier ist weiterhin das gesamte Notenspektrum abgedeckt, ebenso wie bei den Ergebnissen der Master Thesen.
-~~~
-mw: haben wir für den MAster eine Prüfungsstatistik?
-~~~
 
 
 ### Rückschlüsse aus informellen Gesprächen und Kommentaren
 
->  … anstrengend und fordernd, aber macht viel Spaß … 
+*  … anstrengend und fordernd, aber macht viel Spaß … *
 
 Aus verschiedenen Einzel- und Gruppengesprächen im Team der Studiengangsbetreiber, Gesprächen mit Studierenden und Alumni, Kommentaren von Feedbackrunden sowie Online-Foren lassen sich eine Reihe von Stärken und Schwächen ableiten. 
 
