@@ -30,11 +30,14 @@ Das Modul „Wissensmanagement“ des Masterstudiengangs bspw. wird von der „F
 Das Institut für Informatik und das Institut für Automation & IT sind ferner im Forschungsschwerpunkt COSA (s Kap. 5.1.3.3) synergetisch verbunden.
 Es besteht ein kontinuierlicher Austausch mit dem Institut für Tropentechnologie der Fachhochschule Köln: Jährlich wird von Herrn Prof. Dr. Jacksons Roehrig das Wahlpflichtfach „GIS Geografische Informationssysteme“ angeboten.
 
+### Fakultätsinterne Zusammenarbeit
 Innerhalb der Fakultät sind die Institute „Betriebswirtschaftliches Institut Gummersbach (BIG)“ und das „Institut für Distance Learning & Further Education (IDF)“ mit verschiedenen Modulen in die Bachelor- und Masterstudiengängen involviert.
 
 Innerhalb der Fakultät 10 für Informatik und Ingenieurwissenschaften besteht naturgemäß in der Lehre, Forschung und Entwicklung eine enge Zusammenarbeit mit den in Gummersbach angesiedelten ingenieurwissenschaftlichen Instituten. Dies drückt sich in einer Vielzahl von gemeinsamen Projekten, betreuten Abschlussarbeiten sowie einem fachübergreifenden Lehrexport und Import zwischen den beiden Lehreinheiten aus.
 
 ## Externe Kooperation mit Hochschulen und Firmen
+
+### Kooperationen mit internationalen Hochschulen
 Erste Kooperationsprojekte mit ausländischen Hochschulen datieren auf den Beginn der 80-iger Jahre. Damals wurde eine Kooperation (Erasmus-Kontrakt) mit der École Centrale de Lille abgeschlossen. Diese Kooperation existiert noch heute und regelt den Austausch auf Sokrates- und ERASMUS-Ebene von Professoren und insbesondere Studierenden.
 
 Unter den gleichen formalen Bedingungen existiert seit vielen Jahren eine Kooperation mit der Université Blaise Pascal in Clermont-Ferrand und der École pour l’Informatique et les Techniques Avancées à Paris (ÉPITA). Mit ÉPITA findet ein regelmäßiger Studierenden und Dozentenaustausch statt; so war Herr Prof. Hartmann (ehem. Plaßmann) im Jahr 2006 im Rahmen einer Kurzzeitdozentur an der ÉPITA. Regelmässig studieren ERASMUS-Studierenden von ÉPITA am Campus Gummersbach.
@@ -97,6 +100,7 @@ me: Wo bekommen wir aktuelle Zahlen her?
 ~~~
 Insgesamt absolvieren durchschnittlich 10 Studenten Praktika (Praxissemester) im Ausland, durch Erasmus–Programme werden ca. 20 Studenten jährlich unterstützt, die entweder nach Gummersbach kommen oder ein Semester im Ausland verbringen. Mit den oben angegebenen Hochschulen bestehen Erasmus-Kontakte und andere Partnerschaftsabkommen, um dem Austausch einen formalen Rahmen zu geben.
 
+### Firmen Kooperationen
 Das "IT-Forum Oberberg e.V." ist eine Initiative und ein Zusammenschluss interessierter - vorwiegend Oberbergischer- Unternehmen und Gewerbetreibender der IT-Branche (IT-Anbieter und -Nachfrager), der Industrie- und Handelskammer zu Köln - Zweigstelle Oberberg, sowie Bildungsträgern wie der Technischen Hochschule Köln - Campus Gummersbach und dem Berufskolleg des Oberbergischen Kreises. Es hat mittlerweile 56 Mitglieder und veranstaltet regelmäßig Leistungsschauen, an denen sich das Institut für Informatik beteiligt.
 
 Seit 2002 besteht ein Kooperationsvertrag mit dem Kreiskrankenhaus Gummersbach, der vom Rektor Prof. Dr. Metzner und dem Geschäftsführer des Kreiskrankenhauses, Hr. Finklenburg, im Beisein der lokalen Presse unterzeichnet wurde. Gegenstand dieser
