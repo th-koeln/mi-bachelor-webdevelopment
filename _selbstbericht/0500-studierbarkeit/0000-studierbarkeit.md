@@ -62,11 +62,8 @@ reviewed-von:
 ## Bachelor Medieninformatik
 
 ### Zugangsvoraussetzungen
-Als Voraussetzung für die Aufnahme eines Bachelorstudiums Medieninformatik wird die Fachhochschulreife oder eine als gleichwertig anerkannte Vorbildung gefordert. Für die nächste Einschreibephase wurde darüber hinaus eine Zulassungsbeschränkung für alle Informatik Bachelorstudiengänge vereinbart.
+Als Voraussetzung für die Aufnahme eines Bachelorstudiums Medieninformatik wird die Fachhochschulreife oder eine als gleichwertig anerkannte Vorbildung gefordert. Für die nächste Einschreibephase wurde, aufgrund der großen Nachfrage, eine ortliche Zulassungsbeschränkung für alle Informatik Bachelorstudiengänge der Fakultät vereinbart.
 
-~~~
-cn: wie wird das denn korrekt formuliert?
-~~~
 
 ### Allgemeine/fachgebundene Hochschulreife, Fachhochschulreife, einschlägige Berufserfahrung
 Voraussetzung für den Zugang zum Bachelorstudium ist die Fachhochschulreife oder eine als gleichwertig anerkannte Vorbildung.
@@ -110,7 +107,7 @@ Im Masterstudium ist der Schwerpunkt der Prüfungsformen in Richtung mündlicher
 
 ## Studien/Prüfungsordnungen
 
-Die Studien- und Prüfungsordnungen[^pruefungsordnungen-online] der laufenden Studiengänge sind dem Anhang dieses Berichts beigefügt. Sie sind außerdem über die Website der Hochschule abrufbar. Der Studienverlaufsplan entspricht der Studienordnung. Nach Zustimmung der Gutachter zu den in den erläuterten Änderungen im Rahmen der Reakkreditierung werden die überarbeiteten Prüfungsordnungen, bzw. Studienverlaufspläne zeitnah vorgelegt.
+Die Studien- und Prüfungsordnungen[^pruefungsordnung-bachelor][^pruefungsordnung-master] der laufenden Studiengänge sind dem Anhang dieses Berichts beigefügt. Sie sind außerdem über die Website der Hochschule abrufbar. Der Studienverlaufsplan entspricht der Studienordnung. Nach Zustimmung der Gutachter zu den in den erläuterten Änderungen im Rahmen der Reakkreditierung werden die überarbeiteten Prüfungsordnungen, bzw. Studienverlaufspläne zeitnah vorgelegt.
 
 ## Diploma Supplement
 Das Diploma Supplement der zur Reakkrediterung beantragten Studiengänge ist im Anhang des Dokuments zu finden.
@@ -135,5 +132,6 @@ Das Institut für Informatik beteiligt sich jährlich am „Tag der offenen Tür
 Darüber hinaus bietet die Medieninformatik einige Veranstaltungen (siehe außercurriculare Maßnahmen) wie den jährlichen Showcase an, um hier auch eine Plattform für Studieninteressierte zu schaffen. Diese Angebote werden gut angenommen.  
 
 
-[^int-office]: International Office fehlt
-[^pruefungsordnungen-online]: Link zur online Prüfungsordnung fehlt
+[^int-office]: International Office: <a href="https://www.th-koeln.de/internationales/international-office_1986.php">https://www.th-koeln.de/internationales/international-office_1986.php</a>
+[^pruefungsordnung-bachelor]: Prüfungsordnung Medieninformatik Bachelor: <a href="https://www.th-koeln.de/studium/medieninformatik-bachelor--ordnungen-und-formulare_3963.php">https://www.th-koeln.de/studium/medieninformatik-bachelor--ordnungen-und-formulare_3963.php</a>
+[^pruefungsordnung-master]: Prüfungsordnung Medieninformatik Master (Entwurf): <a href="../anhaenge/MIMPO_Entwurf_ohne_Anm_Sz20170218.pdf">MIMPO_Entwurf_ohne_Anm_Sz20170218.pdf</a>

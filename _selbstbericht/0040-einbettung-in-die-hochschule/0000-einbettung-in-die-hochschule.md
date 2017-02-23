@@ -3,10 +3,10 @@ title: Einbettung der Studiengänge in die Hochschule
 aktueller-bearbeiter:
 bearbeiterhistorie: Christian Noss
 date: 14.02.2017
-comment: Inhaltlich ok, Abbildung Verteilung der Studierenden fehlt.
-status: Peer Review erforderlich
+comment: 
+status: fertig
 reviewed-von: Robert Gabriel
-review-comment: Abschnitt 2.1.2 in dem einen Satz hat "Sicherheit" keinen Objektbereich, daher finde ich das unklar.
+review-comment: 
 ---
 
 ## Kurzüberblick über die Struktur der Hochschule
@@ -35,11 +35,6 @@ Klimawandel, knappe Ressourcen, Sicherheit und demographischer Wandel sind einig
 
 Die vielfältigen Forschungsaktivitäten spiegeln sich im Forschungsprofil der TH Köln, bestehend aus 10 thematischen Clustern[^anhang-forschungscluster-th]  wider. Die Cluster dienen als thematische Klammer für die Forschungsaktivitäten in den unterschiedlichen Forschungsstrukturen der Hochschule, wie Forschungsinstituten, Kompetenzplattformen, Forschungsschwerpunkten und Forschungsstellen.
 
-### Zahl und Verteilung der Studierenden
-
-An der TH Köln studieren ca. 23.500 Studierende an 11 Fakultäten. Die Abbildung[^abbildung-verteilung-der-studierenden] zeigt die Verteilung der Studierenden.
-
-
 ## Einbettung der Studiengänge in die Fakultät
 
 Die Fakultät für Informatik und Ingenieurwissenschaften ist am Standort Gummersbach angesiedelt (Campus Gummersbach) und ist mit derzeit 5200 Studierenden[^studierende-gm-2016] die größte Fakultät der TH Köln. An der Fakultät sind 8 Institute angesiedelt; zum Studienangebot der Fakultät gehören 8 Bachelor- und 6 Masterstudiengänge. Die Medieninformatik Studiengänge werden von der Fakultät für Informatik und Ingenieurwissenschaften ausgerichtet und sind im Institut für Informatik organisatorisch verankert. 
@@ -58,5 +53,4 @@ Das Institut für Informatik betreibt Labore für:
 [^Anhang-Diversity-Konzepte]: <a href="https://www.th-koeln.de/hochschule/educational-diversity_5710.php">Educational Diversity Kobnzept</a> (abgerufen am 20.02.2017)
 [^anhang-profil2]: <a href="https://www.th-koeln.de/hochschule/profil_5676.php">Profil2 Seite</a> (abgerufen am 20.02.2017)
 [^anhang-forschungscluster-th]: <a href="https://www.th-koeln.de/forschung/cluster_2734.php">Forschungscluster</a> (abgerufen am 20.02.2017)
-[^abbildung-verteilung-der-studierenden]: Abbildung Verteilung der Studierenden
 [^studierende-gm-2016]: <a href="../anhaenge/Studentenzahlen_WS-2016_(01.12.2016).pdf">Studentenzahlen_WS-2016_(01.12.2016).pdf</a>

@@ -4,8 +4,8 @@ aktueller-bearbeiter:
 bearbeiterhistorie: Sebastian Müller
 date: 23.02.2017
 comment: Korrektur kleiner Formatfehler, Anmerkung unten beachten 
-status: Sebastian Müller
-reviewed-von:
+status: fertig
+reviewed-von: Sebastian Müller
 ---
 
 >Die Prüfungen dienen der Feststellung, ob die formulierten Qualifikationsziele erreicht wurden. Sie sind modulbezogen sowie wissens- und kompetenzorientiert. Jedes Modul schließt in der Regel mit einer das gesamte Modul umfassenden Prüfung ab. Der Nachteilsausgleich für behinderte Studierende hinsichtlich zeitlicher und formaler Vorgaben im Studium sowie bei allen abschließenden oder studienbegleitenden Leistungsnachweisen ist sichergestellt. Die Prüfungsordnung wurde einer Rechtsprüfung unterzogen.

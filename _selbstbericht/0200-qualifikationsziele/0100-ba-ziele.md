@@ -4,7 +4,7 @@ aktueller-bearbeiter:
 bearbeiterhistorie: Christian Noss
 date: 18.02.2017
 comment: durch cn komplettiert. Da müsste aber noch mal jemand drauf schauen
-status: weiteres Review erforderlich
+status: fertig
 reviewed-von: Robert Gabriel, Volker Schaefer
 review-comment: Ist alles schlüssig und nachvollziehbar.
 ---

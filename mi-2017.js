@@ -111,7 +111,9 @@ more.func = (function(){
 })();
 
 
+var urlParams = new URLSearchParams(window.location.search);
+if(!urlParams.has('media')){
+	more.func.init();
+	tabs.func.init();	
+}
 
-
-more.func.init();
-tabs.func.init();

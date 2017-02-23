@@ -43,8 +43,7 @@ Für die Umsetzung der Chancengleichheit von Männern und Frauen hat die Hochsch
 
 Die Umsetzung dieser Ziele und die Einbettung in die bestehenden Handlungsfelder der Hochschule werden in der amtlichen Mitteilung[^gleichstellungskonzept] näher erläutert. Der TH Köln ist es ein besonderes Anliegen, mit den umgesetzten Maßnahmen die Selbstverständlichkeit von Beruf und Familie bzw. Studium und Familie zu unterstreichen und damit eine Kulturveränderung innerhalb der Hochschule zu bewirken, denn damit werden indirekt Karrierehemmnisse von Frauen abgebaut.
 
-
 [^gleichstellungskonzept]: <a href="http://www.fh-koeln.de/mam/downloads/deutsch/hochschule/profil/gleichstellung/gleichstellungskonzept.pdf">Gleichstellungskonzept der Technischen Hochschule Köln<a> (abgerufen am 23.02.2017)
 [^educational-diversity]: <a href="https://www.th-koeln.de/hochschule/educational-diversity_5710.php">Programm Educational Diversity der Technischen Hochschule Köln<a> (abgerufen am 23.02.2017)
-[^family-matters]: <a href="https://www.th-koeln.de/hochschule/familienfreundlichkeit_3759.php"> Profilseite zu Family Matters auf der Website der TH Köln<a> 	(abgerufen am 23.02.2017)
+[^family-matters]: <a href="https://www.th-koeln.de/hochschule/familienfreundlichkeit_3759.php"> Profilseite zu Family Matters auf der Website der TH Köln<a> (abgerufen am 23.02.2017)
 

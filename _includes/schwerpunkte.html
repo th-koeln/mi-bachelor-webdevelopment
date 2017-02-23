@@ -28,17 +28,18 @@
 
 <section class="section">
 	<div class="container">
-	    <h1 class="title is-1">Modulbeschreibungen {{schwerpunkt.title}}</h1>
+	    <h1 class="title is-1">Studienverlaufsplan</h1>
+	    <h2 class="subtitle is-3">Schwerpunkt {{schwerpunkt.title}}</h2>
 	</div>
 </section>
 
 <section class="section">
 	<div class="container">    
 		
-		<div class="content" id="{{schwerpunkt.id}}">
+		<div class="content is-non-print" id="{{schwerpunkt.id}}">
 			{{schwerpunkt.content}}
 	    </div> 
-		<div class="tabs is-tab-navigation">
+		<div class="tabs is-tab-navigation is-non-print">
 			<ul>
 	        {% for startsemester in alle_startsemester %}
 	        
@@ -64,7 +65,9 @@
 					{% assign semester_id = "studiensemester-ss" %}
 					{% assign semester_name = "Sommersemester" %}
 				{% endif %}
-
+			
+			<h2 class="subtitle is-3 is-print">Start im {{semester_name}}</h2>
+			
 			<table class="table is-tab-content is-{{startsemester}}" id="{{startsemester}}-{{schwerpunkt.kuerzel}}">
 				<thead>
 					<tr>
