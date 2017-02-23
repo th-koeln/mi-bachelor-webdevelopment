@@ -4,6 +4,7 @@ namespace HydeMD;
 
 require 'vendors/yaml.php';
 
+define( 'DS', DIRECTORY_SEPARATOR );
 
 /* Helper functions */
 function cmdExists( $cmd ) {
@@ -137,13 +138,16 @@ class Document {
   /**
    * Creating a page for preparation before passing it to pandoc
    *
-   * @param string $path Path to a markdown file or a directory containing markdown files
-   * @param array  $placeholder     Array with placeholder values
+   * @param array $recipe All infos needed to fetch in all markdown files and processing them
    */
-  function __construct( $path            = '.',
-                        $placeholder     = array() ) {
+  function __construct( $recipe ) {
 
-    if( !file_exists( $path ) ) {
+    if( !isset( $recipe[ 'srcPath' ] ) ) {
+      fprintf( STDERR, "\nCan't find the 'srcPath' property in the given recipe!\n\n" );
+      die();
+    }
+
+    if( !file_exists( $recipe[ 'srcPath' ] ) ) {
       fprintf( STDERR, "\nCan't find file or directory!\n\n" );
       die();
     }
@@ -151,9 +155,14 @@ class Document {
     $this->contentFilename    .= '.' . self::TEXEXT;
     $this->coversheetFilename .= '.' . self::TEXEXT;
 
+    $placeholder = isset( $recipe[ 'placeholder' ] ) &&
+                   is_array( $recipe[ 'placeholder' ] )
+                    ? $recipe[ 'placeholder' ]:
+                      array();
+
     $this->placeholder = $placeholder;
 
-    $this->path = $path;
+    $this->path = $recipe[ 'srcPath' ];
     $this->type = is_dir( $this->path ) ? self::DIR: self::FILE;
 
     /* Extract simple page name */
@@ -161,7 +170,7 @@ class Document {
     $this->name = trim( $this->name, '-_/' );
 
     /* Preparing the Output-Path */
-    $this->outputPath = '.' . DIRECTORY_SEPARATOR . 'output' . DIRECTORY_SEPARATOR . '_' . $this->name;
+    $this->outputPath = '.' . DS . 'output' . DS . '_' . $this->name;
 
     $this->base = (object) array(
       'contentFilename'    => $this->contentFilename,
@@ -324,7 +333,7 @@ class Document {
         else {
 
           $relativePathToFileFromScript =
-            dirname( __FILE__ ) . DIRECTORY_SEPARATOR . '../../anhaenge/' . $attrsAssocArr[ 'url' ];
+            dirname( __FILE__ ) . DS . '../../anhaenge/' . $attrsAssocArr[ 'url' ];
 
           if( !file_exists( $relativePathToFileFromScript ) ) {
             /* File was not found, so we are gonna output a warning and skip it */
@@ -370,6 +379,29 @@ class Document {
       }, $page->content );
 
 
+      /* Replacing anchor-tags */
+      $page->content = preg_replace_callback( '/<\s*a\s*(.*)\s*>(.*)<\s*\/s*a\s*>/',
+        function( $matches ) {
+
+          $attrsMatches = array();
+          preg_match_all( '/(\w*)=\"(.*?)"/', $matches[1], $attrsMatches );
+
+          $attrsAssocArr = array();
+
+          if( count($attrsMatches) > 0 && count($attrsMatches[1]) > 0 ) {
+            for( $i = 0; $i < count( $attrsMatches[1] ); $i++ ) {
+              $match = $attrsMatches[1][$i];
+              $attrsAssocArr[ trim( $match ) ] = trim( $attrsMatches[2][$i] );
+            }
+          }
+
+          if( isset( $attrsAssocArr[ 'href' ] ) ) {
+            return '[' . $matches[ 2 ] . '](' . $attrsAssocArr[ 'href' ] . ')';
+          }
+
+          return $matches[2];
+        }, $page->content );
+
 
       /* page-specific preprocessing */
       $pageName = $this->getSimpleDocumentName();
@@ -397,7 +429,7 @@ class Document {
             break;
           }
 
-          $peopleYamlPath = dirname( __FILE__ ) . DIRECTORY_SEPARATOR . '../../_data/people.yml';
+          $peopleYamlPath = dirname( __FILE__ ) . DS . '../../_data/people.yml';
           $people = \Spyc::YAMLLoad( $peopleYamlPath );
 
           $typeMap = array(
@@ -510,23 +542,23 @@ class Document {
     $templateName = $this->getSimpleDocumentName();
 
     $scriptDir   = dirname( __FILE__ );
-    $templateDir = $scriptDir . DIRECTORY_SEPARATOR . 'templates';
+    $templateDir = $scriptDir . DS . 'templates';
 
-    $coversheetBasePath = $templateDir . DIRECTORY_SEPARATOR . 'coversheet';
+    $coversheetBasePath = $templateDir . DS . 'coversheet';
     $mainBasePath       = $templateDir;
 
     $templateFilePaths = array(
       'coversheet' => (object) array(
         'srcBasePath' => $coversheetBasePath,
-        'srcPath'     => $coversheetBasePath . DIRECTORY_SEPARATOR . $templateName . '.' . self::TEXEXT,
-        'destPath'    => $this->outputPath . DIRECTORY_SEPARATOR . $this->coversheetFilename,
+        'srcPath'     => $coversheetBasePath . DS . $templateName . '.' . self::TEXEXT,
+        'destPath'    => $this->outputPath . DS . $this->coversheetFilename,
         'content'     => ''
       ),
 
       'main'       => (object) array(
         'srcBasePath' => $mainBasePath,
-        'srcPath'     => $mainBasePath . DIRECTORY_SEPARATOR . $templateName . '.' . self::TEXEXT,
-        'destPath'    => $this->outputPath . DIRECTORY_SEPARATOR . $this->base->mainFilename,
+        'srcPath'     => $mainBasePath . DS . $templateName . '.' . self::TEXEXT,
+        'destPath'    => $this->outputPath . DS . $this->base->mainFilename,
         'content'     => ''
       )
     );
@@ -538,7 +570,7 @@ class Document {
       if( !file_exists( $path) ) {
         /* Falling back to the default template */
         $templateName = 'default';
-        $path = $template->srcBasePath . DIRECTORY_SEPARATOR . $templateName . '.' . self::TEXEXT;
+        $path = $template->srcBasePath . DS . $templateName . '.' . self::TEXEXT;
 
         if( !file_exists( $path ) ) {
           fprintf( STDERR, "Couldn't find the default template! Exiting now!" );
@@ -622,11 +654,11 @@ class Document {
     }
 
     /* Creating the content latex file */
-    $outputPathContent = $this->outputPath . DIRECTORY_SEPARATOR . $this->base->contentFilename;
+    $outputPathContent = $this->outputPath . DS . $this->base->contentFilename;
     file_put_contents( $outputPathContent , $this->latexContent );
 
     /* Also keeping the md file */
-    file_put_contents( $this->outputPath . DIRECTORY_SEPARATOR . 'content.md', strval( $this ));
+    file_put_contents( $this->outputPath . DS . 'content.md', strval( $this ));
 
   }
 
@@ -657,7 +689,7 @@ class Document {
 
 
 if( isset( $argv ) && count( $argv ) === 1 ) {
-  fprintf( STDERR, "\nUsage: php hydeMD.php [Input] [Placeholder: key1:var1;key2:var2;...]\n\n\n" );
+  fprintf( STDERR, "\nUsage: php hydeMD.php [Recipe-Name]\n\n\n" );
   die();
 }
 
@@ -670,32 +702,20 @@ if( !cmdExists( 'pandoc' )) {
 }
 
 
-/* TODO: Introducing support for recipe-Files, with better conversion instructions */
 
+$recipeName = $argv[1];
+$recipeName = preg_replace( '/\.json\s*$/', '', $recipeName );
+$recipePath = dirname( __FILE__ ) . DS . $recipeName . '.json';
 
-
-/* Preparing placeholders */
-$placeholder = array(
-  'title' => ''
-);
-
-if( isset( $argv ) && count( $argv ) > 2 ) {
-
-  $passedPlaceholders = explode( '#', $argv[2] );
-  $passedPlaceholders = array_map( function($pair) {
-    return array_map( 'trim', explode( ':', $pair ) );
-  }, $passedPlaceholders );
-
-  foreach( $passedPlaceholders as $passedPlaceholder ) {
-    if( count( $passedPlaceholder ) === 2 ) {
-      $placeholder[ $passedPlaceholder[0] ] = $passedPlaceholder[1];
-    }
-  }
-
+if( !file_exists( $recipePath ) ) {
+  fprintf( STDERR, "Couldn't find recipe: " . $recipeName . ".json. Exiting now!\n" );
+  die();
 }
 
+$recipe = file_get_contents( $recipePath );
+$recipe = json_decode( $recipe, true );
 
-$doc = new Document( $argv[1], $placeholder );
+$doc = new Document( $recipe );
 
 $doc->renderToOutput();
 

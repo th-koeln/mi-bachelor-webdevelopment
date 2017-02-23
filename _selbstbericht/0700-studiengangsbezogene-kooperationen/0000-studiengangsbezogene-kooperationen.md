@@ -1,11 +1,11 @@
 ---
 title: Studiengangsbezogene Kooperationen
 aktueller-bearbeiter: Martin Eisemann
-bearbeiterhistorie: 
+bearbeiterhistorie:
 date: 10.02.2017
-comment: Größtenteils aus Selbstbericht von 2009 übernommen Kapitel 4.2 bzw. Reakkreditierung AI/TI/WI 2012. Es fehlt noch: Beendete und seit 2009 begonnene Promotionen fehlen, neue Kooperationen seit 2009/2012 fehlen, nicht mehr existierende Kooperationen seit 2009 müssen markiert werden.
+comment: "Größtenteils aus Selbstbericht von 2009 übernommen Kapitel 4.2 bzw. Reakkreditierung AI/TI/WI 2012. Es fehlt noch: Beendete und seit 2009 begonnene Promotionen fehlen, neue Kooperationen seit 2009/2012 fehlen, nicht mehr existierende Kooperationen seit 2009 müssen markiert werden."
 
-status: Initiale Version, Zahlen sind alle noch von 2009 bzw. 2012, International Office per Mail kontaktiert aber noch keine Rückmeldung (telefonisch nicht zu erreichen)
+status: "Initiale Version, Zahlen sind alle noch von 2009 bzw. 2012, International Office per Mail kontaktiert aber noch keine Rückmeldung (telefonisch nicht zu erreichen)"
 reviewed-von:
 ---
 
@@ -95,7 +95,7 @@ Weitere Hochschulen mit denen Kooperationen bestehen sind:
   - Leiden, Niederlande, Universiteit Leiden
   - Amman, Jordanien, GJU (German Jordanian University)
   - Monterey, Mexiko, Tec de Monterrey
-  
+
 ~~~
 me: Wo bekommen wir aktuelle Zahlen her?
 ~~~
@@ -114,7 +114,7 @@ einigen Firmen aus dem RTL Firmenverbund sowie zum WDR. Seit 2005 lobt RTL jähr
 ~~~
 me: Hat hier noch wer weitere Firmen?
 ~~~
-Die Bachelorarbeiten und Master-Thesen werden auf praktische Themenstellungen mit Forschungsbezug aus Unternehmen oder auf Aufgabenstellungen aus den Forschungsaktivitäten am Institut für Informatik ausgerichtet. Hier kann auch eine langjährige Zusammenarbeit mit rheinischen Unternehmen wie der Telekom, Vodavone, der Deutschen Post, Bayer Leverkusen und Kölner Unternehmen wie RTL, dem WDR, dem LMR, der Nuro-Media GmbH oder Metafusion verwiesen werden, bei denen eine Vielzahl von Abschlussarbeiten aus dem Bachelor und Masterstudiengang Medieninformatik stattgefunden haben. Zudem wurde eine Vielzahl von Projekt- und Abschlussarbeiten bei dem Broadcast Center Europe (BCE) in Luxemburg, einem Mitglied der RTL-Gruppe, durchgeführt. 
+Die Bachelorarbeiten und Master-Thesen werden auf praktische Themenstellungen mit Forschungsbezug aus Unternehmen oder auf Aufgabenstellungen aus den Forschungsaktivitäten am Institut für Informatik ausgerichtet. Hier kann auch eine langjährige Zusammenarbeit mit rheinischen Unternehmen wie der Telekom, Vodavone, der Deutschen Post, Bayer Leverkusen und Kölner Unternehmen wie RTL, dem WDR, dem LMR, der Nuro-Media GmbH oder Metafusion verwiesen werden, bei denen eine Vielzahl von Abschlussarbeiten aus dem Bachelor und Masterstudiengang Medieninformatik stattgefunden haben. Zudem wurde eine Vielzahl von Projekt- und Abschlussarbeiten bei dem Broadcast Center Europe (BCE) in Luxemburg, einem Mitglied der RTL-Gruppe, durchgeführt.
 
 ~~~
 me: Haben wir ein Personalhandbuch, welches als Anhang mitgeliefert wird? Momentan sehe ich noch keines

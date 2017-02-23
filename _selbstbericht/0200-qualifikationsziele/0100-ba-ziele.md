@@ -6,7 +6,7 @@ date: 18.02.2017
 comment: durch cn komplettiert. Da müsste aber noch mal jemand drauf schauen
 status: weiteres Review erforderlich
 reviewed-von: Robert Gabriel, Volker Schaefer
-review-comment: vs: Ist alles schlüssig und nachvollziehbar.
+review-comment: Ist alles schlüssig und nachvollziehbar.
 ---
 
 ## Leitbild
@@ -45,7 +45,7 @@ Absolventinnen und Absolventen des Bachelorstudiengangs Medieninformatik:
 
 ### Weiterführende Dokumente
 - Website des Medieninformatik Bachelor: <a href="https://www.th-koeln.de/studium/medieninformatik-bachelor_2379.php">https://www.th-koeln.de/studium/medieninformatik-bachelor_2379.php</a> (abgerufen am 23.02.2017)
-- Ordnungen zum Medieninformatik Bachelor: <a href="https://www.th-koeln.de/studium/medieninformatik-bachelor--ordnungen-und-formulare_3963.php">https://www.th-koeln.de/studium/medieninformatik-bachelor--ordnungen-und-formulare_3963.php</a>
+- Ordnungen zum Medieninformatik Bachelor: <a href="https://www.th-koeln.de/studium/medieninformatik-bachelor--ordnungen-und-formulare_3963.php">https://www.th-koeln.de/studium/medieninformatik-bachelor--ordnungen-und-formulare_3963.php</a> (abgerufen am 23.02.2017)
 - Themen der Abschlussabeiten des Medieninformatik Bachelor 2010 bis 2014: <a href="../anhaenge/abschlussarbeiten_2010-2014_.pdf">abschlussarbeiten_2010-2014_.pdf</a>
 - Studienverlaufsplan Medieninformatik Bachelor: <a href="../anhaenge/ba-studienverlaufsplan.pdf">ba-studienverlaufsplan.pdf</a>
 - Modulhandbuch Medieninformatik Bachelor: <a href="../anhaenge/ba-modulhandbuch.pdf">ba-modulhandbuch.pdf</a>
