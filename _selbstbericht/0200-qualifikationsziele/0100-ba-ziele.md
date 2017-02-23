@@ -6,7 +6,7 @@ date: 18.02.2017
 comment: durch cn komplettiert. Da müsste aber noch mal jemand drauf schauen
 status: weiteres Review erforderlich
 reviewed-von: Robert Gabriel, Volker Schaefer
-review-comment: vs: Ist alles schlüssig und nachvollziehbar.
+review-comment: Ist alles schlüssig und nachvollziehbar.
 ---
 
 ## Leitbild
