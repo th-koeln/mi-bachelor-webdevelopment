@@ -22,7 +22,11 @@ reviewed-von:
 ~~~
 me: Ist das folgende noch aktuell?
 ~~~
+Innerhalb der Hochschule wird eine enge Kooperation mit einigen in Köln angesiedelten Fakultäten gepflegt. Zu nennen sind hier vor allem die Bereiche Design, Photoingenieurwesen, Wirtschaft, Informationswissenschaften und Sozialwissenschaften.
 Mit der „Köln International School of Design“ als interne Einrichtung der „Fakultät für Kulturwissenschaften“ (Fakultät 02) und der „Fakultät für angewandte Sozialwissenschaften“ (Fakultät 01) werden gemeinsame Lehrveranstaltungen durchgeführt.
+Das Modul „Wissensmanagement“ des Masterstudiengangs bspw. wird von der „Fakultät für Wirtschaftswissenschaften“ der Fachhochschule Köln (Fakultät 04) importiert.
+Das Institut für Informatik und das Institut für Automation & IT sind ferner im Forschungsschwerpunkt COSA (s Kap. 5.1.3.3) synergetisch verbunden.
+Es besteht ein kontinuierlicher Austausch mit dem Institut für Tropentechnologie der Fachhochschule Köln: Jährlich wird von Herrn Prof. Dr. Jacksons Roehrig das Wahlpflichtfach „GIS Geografische Informationssysteme“ angeboten.
 
 Innerhalb der Fakultät sind die Institute „Betriebswirtschaftliches Institut Gummersbach (BIG)“ und das „Institut für Distance Learning & Further Education (IDF)“ mit verschiedenen Modulen in die Bachelor- und Masterstudiengängen involviert.
 
@@ -57,15 +61,35 @@ Mit der UEM (Universidad Europea de Madrid) wird das ERASMUS-Abkommen genutzt, u
 Weitere Hochschulen, mit denen Erasmuskontrakte existieren bzw. Studierende in beiden Richtungen ausgetauscht wurden, sind:
 
 ~~~
-me: Gibt es da noch weitere?
+me: Gibt es da noch weitere? Ab Istanbul Universitesi entstammen die dem Reakkreditierungsbericht der AI/WI/TI, aber die sollten ja eigentlich für alle Informatikstudiengänge gelten
 ~~~
- - Oyonnax - Ecole Supérieure de Plasturgie - F OYONNAX
- - Gdansk - Politechnika Gdanska - PL GDANSK02
- - Krosno - Panstwowa Wyzsza Szkola Zawadowa w Krosnie - PL KROSNO01
- - Horw - Fachhochschule Zentralschweiz Hochschule für Technik und Architektur Luzern (HTA) - CH HORW02
- - Alcalá de Henares - Universidad de Alcalá - E ALCAL-H01
- - Istanbul - Istanbul Teknik Üniversitesi - TR ISTANBU04
+ - Oyonnax, Frankreich, Ecole Supérieure de Plasturgie - F OYONNAX
+ - Gdansk, Polen, Politechnika Gdanska - PL GDANSK02
+ - Krosno, Polen, Państwowa Wyższa Szkoła Zawodowa w Krośnie - PL KROSNO01
+ - Luzern, Schweiz, Horw - Fachhochschule Zentralschweiz Hochschule für Technik und Architektur Luzern (HTA) - CH HORW02
+ - Alcalá de Henares, Spanien - Universidad de Alcalá - E ALCAL-H01
+ - Istanbul, Türkai, Istanbul Teknik Üniversitesi - TR ISTANBU04
+ - Istanbul, Türkei - Istanbul Universitesi - TR ISTANBU03
+ - Tampere, Finnland, Tampereen Yliopisto - SF TAMPERE01
+ - Graz, Österreich, CAMPUS 02 Fachhochschule der Wirtschaft - A GRAZ10
+ - Wels, Österreich, Fachhochschule Oberösterreich - A WELS01
+ - Wien, Österreich, Fachhochschule Technikum Wien - A WIEN20
+ - Iași, Rumänien, Universitatea 'Alexandru Ioan Cuza' - RO IASI02
+ - Cluj-Napoca, Rumänien, Universitatea 'Babes-Bolyai' din Cluj-Napoca - RO CLUJNAP01
+ - Delémont, Schweiz, HES-SO Haute École Spécialisée de Suisse Occidentale - CH DELEMON02
+ - Luzern, Schweiz, Hochschule Luzern - CH LUZERN14
+ - Tessin, Schweiz, Scuola universitaria professionale della Svizzera italiana (SUPSI) - CH LUGANO02
+ - Burgos, Spanien, Universidad de Burgos - E BURGOS01
+ - Madrid, Spanien, Universidad Europea de Madrid - E MADRID18
+ - Huelva, Spanien, Universidad de Huelva - E HUELVA01
+ - Valencia, Spanien, Universidad de Valencia - E VALENCI01
 
+Weitere Hochschulen mit denen Kooperationen bestehen sind:
+  - Kobe, Japan, Kobe Institut
+  - Leiden, Niederlande, Universiteit Leiden
+  - Amman, Jordanien, GJU (German Jordanian University)
+  - Monterey, Mexiko, Tec de Monterrey
+  
 ~~~
 me: Wo bekommen wir aktuelle Zahlen her?
 ~~~
@@ -77,11 +101,19 @@ Seit 2002 besteht ein Kooperationsvertrag mit dem Kreiskrankenhaus Gummersbach, 
 Zusammenarbeit sind sowohl Themen der Medizininformatik als auch der Wirtschaftsinformatik. Als Beispiele seien genannt: Prozessmodellierung und -optimierung, Entwicklung eines Patiententracking-Systems, Entwicklung eines Portals, Unterstützung bei
 der Einführung eines Arzt-Informationssystems und die Entwicklung von PDA-Anwendungen für den medizinischen Bereich. Das Ergebnis dieser Arbeiten ist in (Bärwolff, Victor, Hüsken "IT-Systeme in der Medizin", Vieweg Verlag, Wiesbaden, 2006, 1. Auflage) dokumentiert.
 
+Zu anderen Hochschulen oder Institutionen bestehen im Bereich der Informatik Verbindungen. Für die Medieninformatik von besonderer Bedeutung sind die Verbindungen zur Kunsthochschule für Medien in Köln, zum Frauenhofer Institut in Schloss Birlinghofen, und zu
+einigen Firmen aus dem RTL Firmenverbund sowie zum WDR. Seit 2005 lobt RTL jährlich drei RTL-Preise aus, mit denen drei Abschlussarbeiten aus den Studiengängen der Medieninformatik prämiert werden.
+
+~~~
+me: Hat hier noch wer weitere Firmen?
+~~~
+Die Bachelorarbeiten und Master-Thesen werden auf praktische Themenstellungen mit Forschungsbezug aus Unternehmen oder auf Aufgabenstellungen aus den Forschungsaktivitäten am Institut für Informatik ausgerichtet. Hier kann auch eine langjährige Zusammenarbeit mit rheinischen Unternehmen wie der Telekom, Vodavone, der Deutschen Post, Bayer Leverkusen und Kölner Unternehmen wie RTL, dem WDR, dem LMR, der Nuro-Media GmbH oder Metafusion verwiesen werden, bei denen eine Vielzahl von Abschlussarbeiten aus dem Bachelor und Masterstudiengang Medieninformatik stattgefunden haben. Zudem wurde eine Vielzahl von Projekt- und Abschlussarbeiten bei dem Broadcast Center Europe (BCE) in Luxemburg, einem Mitglied der RTL-Gruppe, durchgeführt. 
+
 ~~~
 me: Haben wir ein Personalhandbuch, welches als Anhang mitgeliefert wird? Momentan sehe ich noch keines
 ~~~
-Darüber hinaus findet sich im Personalhandbuch eine Vielzahl von Hinweisen einzelner Kolleginnen und Kollegen darüber, mit welchen Firmen sie kooperieren. Seitens der »Nachwuchsförderung« kooperiert die Fakultät 10 mit zahlreichen Gymnasien
-und Berufskollegs in der Region.
+Darüber hinaus findet sich im Personalhandbuch eine Vielzahl von Hinweisen einzelner Kolleginnen und Kollegen darüber, mit welchen Firmen sie kooperieren. Im Rahmen von Abschlussarbeiten und Projektarbeiten finden sich so ein Vielzahl regionaler Firmen bei den Abschlussarbeiten und Projektarbeiten bereits in erfolgreicher Kooperation durchgeführt wurden, so beispielsweise die Cologne Broadcasting Company (CBC), Inovex GmbH, CLAAS, Telexiom AG oder Miltenyi Biotec GmbH.
+Seitens der »Nachwuchsförderung« kooperiert die Fakultät 10 mit zahlreichen Gymnasien und Berufskollegs in der Region.
 
 [^promotionen]: Beendete und seit 2009 begonnene Promotionen fehlen
 [^kooperationen]: neue Kooperationen seit 2009 fehlen
