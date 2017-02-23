@@ -9,7 +9,7 @@ kurzbeschreibung: In der Studienrichtung "Weaving the Web" wird die Entwicklung 
 
 ## Zielsetzung:
 
-In der Studienrichtung „Weaving the Web” wird die Entwicklung von Produkten und Diensten im Web in den Mittelpunkt gestellt. Dabei wird der gesamte Lebenszyklus von der Erarbeitung einer Vision, der eigentlichen Software Entwicklung bis hin zu der Verwertung als Produkt und/oder Publikation adressiert. 
+Im Studienschwerpunkt „Weaving the Web” wird die Entwicklung von Produkten und Diensten im Web in den Mittelpunkt gestellt. Dabei wird der gesamte Lebenszyklus von der Erarbeitung einer Vision, der eigentlichen Software Entwicklung bis hin zu der Verwertung als Produkt und/oder Publikation adressiert. 
 
 Als charakterisierende Merkmale für die Entwicklung von Produkten und Diensten im Web stehen:
 
