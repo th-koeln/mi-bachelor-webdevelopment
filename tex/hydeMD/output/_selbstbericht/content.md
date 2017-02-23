@@ -513,7 +513,7 @@ Die Schwerpunkte setzen sich aus den folgenden Modulen zusammen:
 |:---|:---|:---|
 |Interaction Design | Interaction Design | - |
 |Design Methodologies | - | - |
-|Angewandte Statistik für die Mensch-Computer Interaktion  | - | - |
+|Angewandte Statistik für die Mensch-Computer Interaktion  | Naturwissenschaftliche Grundlagen digitaler Medien | - |
 
 
 ### Schwerpunkt Weaving the Web
@@ -555,41 +555,53 @@ Im dritten Fachsemester sind neben dem Projekt drei Wahlmodule vorgesehen, die i
 Durch die offene Gestaltung des dritten Fachsemesters eignet sich selbiges gut für ein Auslandssemester, da hier die Anerkennung von Modulen sehr leicht fallen sollte. 
 
 
+## Auswirkungen auf die Lehrkapazität
+
+Erforderliche Module im aktuellen Curriculum (Pflichtmodule)
+- Spezielle Gebiete der Mathematik
+- Interaction Design
+- Advanced Seminar
+- Themen zu Medien und Gesellschaft
+- Medienrezeption
+- Informations- und Prozessmanagement
+- Logik und semantische Modellierung
+- Visualistik
+- Projektmanagement
+- IT-Sicherheit
+- Entwicklungsmethoden in Medienprojekten und Qualitätssicherung
+- Kooperationssysteme
+- Spezielle Gebiete der BWL
+- Naturwissenschaftliche Grundlagen digitaler Medien
+- Projekt
+- Wahlpflichtfach A
+- Wahlpflichtfach B 
+- Wahlpflichtfach C 
+- Wahlpflichtfach D
+
+Erforderliche Module im zukünftigen Curriculum (Pflichtmodule, auch der Schwerpunkte)
+- Computerethik
+- Research Methods
+- Spezielle Gebiete der Mathematik
+- Interaction Design
+- Design Methodologies
+- Angewandte Statistik für die Mensch-Computer Interaktion
+- Sicherheit, Privatsphäre und Vertrauen im Netz
+- Qualitätssicherung für Web-Anwendungen
+- Storytelling und Narrative Strukturen
+- Bildbasierte Computergrafik
+- Visualisierung
+- Web Architekturen
+- Web Technologien
+- Projektarbeit - Vision und Konzept
+- Projektarbeit - Entwicklung
+- Projektarbeit - Assessment/Evaluation, Forschung und Verwertung 
+- Netzwerk-und Graphentheorie
+- Soziotechnische Entwurfsmuster
+
+
+
+
 # Qualifikationsziele der Studiengangskonzepte
-
-
->  Das Studiengangskonzept orientiert sich an Qualifikationszielen. Diese umfassen fachliche und überfachliche Aspekte und beziehen sich insbesondere auf die Bereiche
->
->  -   wissenschaftliche oder künstlerische Befähigung,
->
->  -   Befähigung, eine qualifizierte Erwerbstätigkeit aufzunehmen,
->
->  -   Befähigung zum gesellschaftlichen Engagement
->
->  -   Persönlichkeitsentwicklung
->
->  **Leitfragen**
->
->  -   An welcher Stelle sind die jeweils im Kriterium genannten Kompetenz-Bereiche im Studiengang nach dem Verständnis der Hochschule abgebildet?
->
->  -   Wie wurde das angestrebte Kompetenzprofil des Studiengangs (weiter-)entwickelt (Auslöser, Vorgehen, Beteiligungen)?
->
->  -   Finden die definierten Kompetenzziele für Absolventen des Studienprogramms die Zustimmung von Lehrenden und Studierenden?
->
->  -   Wurde die Stimmigkeit der Lernziele des Studiengangs in den letzten Jahren überprüft? Aus welchen Gründen wurden ggf. Anpassungen vorgenommen?
->
->  -   Gibt es Auffälligkeiten bei den qualitativen oder quantitativen Daten/Informationen der Hochschule hinsichtlich der Akzeptanz des Kompetenzprofils auf dem Arbeitsmarkt?
->
->  **Mögliche Evidenzen**
->
->  -   Dokumente/Stellen, wo die Ziele und Lernergebnisse verankert u. veröffentlicht sind, z.B. Ordnungen, Homepage, Diploma Supplement, Studienführer
->
->  -   Interne Unterlagen, aus denen die Einbeziehung der verschiedenen Interessenträger hervorgeht, z.B. Vorgaben, Prozessbeschreibungen, Befragungsergebnisse, Protokolle
->
->  -   Ziele-Module-Matrix
->
->  -   Modulbeschreibungen, wie sie den Lehrenden und Studierenden zur Verfügung stehen
-
 
 Die Fachgruppe Medieninformatik innerhalb des Fachbereichs Mensch-Computer-Interaktion der Gesellschaft für Informatik definiert das Lehr-, Forschungs- und Arbeitsgebiet Medieninformatik in ihrem aktuellen Positionspapier[^positionspapier-gi-mci-mi] wie folgt:
 
@@ -924,6 +936,9 @@ Der viersemestrige Masterstudiengang baut konsekutiv auf das Bachelorprogramm au
 
 ### Studienschwerpunkte
 
+![Abbildung: Studienschwerpunkte des Masterprogramms](../anhaenge/bilder/ma-schwerpunkte.png)
+
+
 Zur individuellen Schwerpunktbildung bietet des Masterprogramm vier Möglichkeiten, die alle auf den im Bachelor gelegten Themenbieten aufbauen: Human-Computer Interaction, Social Computing, Visual Computing und Weaving the Web. Für Studierende, die ein generalistisch geprägtes Studium bevorzugen wird der Studienpfad "Multiperspective Product Development" angeboten, der sich aus ausgewählten Modulen der anderen Schwerpunkte und des Wahlplichtkatalogs speist. Dieser wird aus organisatorischen Gründen auch als Schwerpunkt aufgeführt.
 
 #### Mensch-Computer Interaktion
@@ -976,7 +991,6 @@ Als charakterisierende Merkmale für die Entwicklung von Produkten und Diensten 
 Der Titel der Studienrichtung, „Weaving the Web” wurde gewählt, da neben dem klassischen Software Engineering vor allem auch die Integration eigener Produkte und Dienste in das Web thematisiert wird.
 
  
-
 ### Studienphasen und -säulen
 
 ![Abbildung: Struktur der ersten drei Studiensemester des Masterprogramms bei Studienstart im Wintersemester](../anhaenge/bilder/ma-struktur.png)
@@ -1156,25 +1170,6 @@ Darüber hinaus bietet die Medieninformatik einige Veranstaltungen (siehe außer
 
 # Prüfungssystem
 
->Die Prüfungen dienen der Feststellung, ob die formulierten Qualifikationsziele erreicht wurden. Sie sind modulbezogen sowie wissens- und kompetenzorientiert. Jedes Modul schließt in der Regel mit einer das gesamte Modul umfassenden Prüfung ab. Der Nachteilsausgleich für behinderte Studierende hinsichtlich zeitlicher und formaler Vorgaben im Studium sowie bei allen abschließenden oder studienbegleitenden Leistungsnachweisen ist sichergestellt. Die Prüfungsordnung wurde einer Rechtsprüfung unterzogen.
->
->**Leitfragen**
->
->-   Welche der eingesetzten Prüfungsformen stufen die Lehrenden und die für den Studiengang Verantwortlichen als besonders geeignet zur Erfassung erreichter Lernergebnisse ein? Welche Lernergebnisse lassen sich aus Sicht der Lehrenden und der für den Studiengang Verantwortlichen nur schwer überprüfen?
->
->-   Wie werden die Bewertungskriterien für Studierende und Lehrende transparent gemacht?
->
->**Mögliche Evidenzen**
->
->-   Prüfungsrelevante Regelungen
->
->-   Einschlägige Ergebnisse aus internen Befragungen und Evaluationen mit Blick auf die Prüfungsorganisation und die Lernergebnisorientierung der Prüfungen
->
->-   Beispielhafte Prüfungspläne (einschließlich Prüfungstermine)
->
->-   Statistische Daten zum Studienverlauf, z.B. Durchschnittsnote, Durchfallquote, Anzahl der Wiederholungen
-
-
 ## Prüfungsprozesse
 
 Der Campus Gummersbach der TH Köln hat ganzheitliches Qualitäts-Management-System nach ISO 9001:2008 umgesetzt. Die beschriebenen Prozesse sind verbindlich für alle Mitarbeiterinnen und Mitarbeiter. Die Prozessbeschreibung beinhaltet die Vorgehensweisen, Teilprozesse, Schnistellen, mitgeltenden Informationen, Zuständigkeiten und Verantwortlichkeiten für die einzelnen Prozesse. Darüber sind auch alle prüfungsrelvanten Prozesse abgebildet. Die folgenden Prozessdokumentationen können diesbezüglich eingesehen werden.
@@ -1211,6 +1206,7 @@ Zur Analyse der Prüfungserfolge und der Lernergebnisorientierung liegen eine Re
 
 - Analyse der Prüfungsteilnahme: [pruefungsstatistiken.pdf](../anhaenge/pruefungsplan_mi.pdf)
 - Tabelle über Fehlversuche und Rücktritte: [ba-pruefungen-fehlversuche-und-ruecktritte.pdf](../anhaenge/ba-pruefungen-fehlversuche-und-ruecktritte.pdf)
+
 
 # Studiengangsbezogene Kooperationen
 
@@ -1331,6 +1327,11 @@ Seitens der »Nachwuchsförderung« kooperiert die Fakultät 10 mit zahlreichen 
 # Ausstattung
 
 >Die adäquate Durchführung des Studiengangs ist hinsichtlich der qualitativen und quantitativen personellen, sächlichen und räumlichen Ausstattung gesichert. Dabei werden Verflechtungen mit anderen Studiengängen berücksichtigt. Maßnahmen zur Personalentwicklung und -qualifizierung sind vorhanden.
+
+Das Kompetenzteam Hochschuldidaktik der TH Köln bietet für alle Lehrenden hochschuldidaktische Fort- und Weiterbildungen in vielfältiger Form an. Um die Lern- und Lehrkultur stetig weiter zu entwickeln wurden eine Vielzahl von Programmen (z.B. Profil-Hoch-Zwei, Exzellente Lehre, Come in-Commit, etc.) entwickelt, die fest in den Hochschulalltag integriert sind. Details zu den vielfältigen Aktivitäten und Ressourcen finden sich beschrieben unter: https://www.th-koeln.de/hochschule/lehr--und-lernkultur_6277.php.
+
+
+
 >
 >**Leitfragen**
 >
@@ -1371,9 +1372,9 @@ Seitens der »Nachwuchsförderung« kooperiert die Fakultät 10 mit zahlreichen 
 ## Verleih
 
 - 12 x Audiovisuelle Produktionssets, bestehend aus jeweils
-  * P2 Panasonic HD Kamera
-  * Sachtler Kamerastativ
-  * Sennheiser Richtmikrofon und mobilen Audiomischer
+ P2 Panasonic HD Kamera
+ Sachtler Kamerastativ
+ Sennheiser Richtmikrofon und mobilen Audiomischer
 * 4 x kompakte Panasonic HD Kameras
 * 1 x Canon EOS 5D Mark III mit verschiedenen Wechselobjektiven:
 * 1 x GoPro Hero 3 Black Edition
@@ -1401,99 +1402,87 @@ Seitens der »Nachwuchsförderung« kooperiert die Fakultät 10 mit zahlreichen 
 
 ## Lehrende in der Medieninformatik
 
-**Prof. Dr. Thomas Bartz-Beielstein**
-- Angewandte Mathematik Simulation und Optimierung
-- Computational Intelligence Evolutionäre Algorithmen
+### Prof. Dr. Birgit Bertelsmeier
+- Bachelor: Datenbanken 1
 
-| Name / Web                               | Forschungsgebiete                        | Lehrgebiete                              |
-| ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
-| Prof. Dr. Thomas Bartz-Beielstein<br>https://www.th-koeln.de/personen/thomas.bartz-beielstein | • CIplus                                 | • Angewandte Mathematik Simulation und Optimierung<br>• Computational Intelligence Evolutionäre Algorithmen |
-| Prof. Dr. Bente, Stefan<br>https://www.th-koeln.de/personen/stefan.bente | • Softwarearchitektur<br>• Enterprise-Architektur-Management (EAM) | • Softwaretechnik Softwarearchitektur<br>• Anforderungsmanagement |
-| Prof. Dr. Bertelsmeier, Birgit<br> https://www.th-koeln.de/personen/birgit.bertelsmeier | •   Big Data von Datenbanksystemen über Auswertungstools bis hin zu ethischen Gesichtspunkten<br>•  NoSQL von den Modellen bis hin zu den DB-Systemen und Analysetools <br>• Tuning von DBSen (RDBMS bis NoSQL) und deren (SQL-)Anfragen <br>• Datenschutz rechtliche wie auch (programm-)technische und ethische Aspekte | • Datenbank- und Informationssysteme RDBMS bis NoSQL |
-| Prof. Dr. Böhmer, Matthias<br> https://www.th-koeln.de/personen/matthias.boehmer | •  Ubiquitous Computing <br>• Context-aware Applications<br>•  Distributed Interactive Systems<br>• Internet of Things<br>•  Mobile Applications and Smartphone Usage | • Mobile und Verteilte Architekturen     |
-| Prof. Dr. Eisemann, Martin<br> https://www.th-koeln.de/personen/martin.eisemann | • Photorealistische Computergrafik <br>• Bildbasierte Verfahren <br>• Visualisierung und Visual Analytics <br>• Bild- und Videoverarbeitung | • Computergrafik Realistische und Interaktive Bildsynthese, Bildbasierte Computergraphik, Visual Analytics, Gaming Technologies <br>• Theoretische Informatik Grundlagenvorlesungen im Bachelor |
-| Prof. Dr. Faeskorn-Woyke, Heide<br> https://www.th-koeln.de/personen/heide.faeskorn-woyke | • Data Mining und Datenbankanwendungen im Big Data Umfeld | • Datenbanken und Informationssysteme    |
-| Prof. Dr. Prof. Dr. Fischer, Kristian<br>https://www.th-koeln.de/personen/kristian.fischer | • Dienst orientierte Architekturen <br>• Semantische Modellierung digitaler Medien | • Web-basierte Anwendungen und verteilte Systeme<br>• Kooperationssysteme |
-| Prof. Dr. Giannakopoulos, Fotios<br> https://www.th-koeln.de/personen/fotios.giannakopoulos | &nbsp; | • Theoretische Informatik                |
-| Prof. Dr. Günther, Holger<br> https://www.th-koeln.de/personen/holger.guenther | &nbsp; | • Projektmanagement                      |
-| Prof. Dr. Hartmann, Gerhard<br> https://www.th-koeln.de/personen/gerhard.hartmann | • Sustainable Interaction Design<br>• Sustainability as System-Requirements<br>• Designing Worth, Value-related Design | • Mensch-Computer Interaktion<br>•  Entwicklungsprojekt interaktive Systeme<br>• Interaction Design<br>• Naturwissenschaftliche<br>• Grundlagen Digitaler Medien<br>•  Research Methods in Human-Computer Interaction<br>• Design Methodologies |
-| Prof. Dr. Jochum, Friedbert<br> https://www.th-koeln.de/personen/friedbert.jochum | • Software-Architektur / Systemgestaltung<br>•  Konstruktive Methoden<br>• Konzeptuelle Modellierung<br>•  Informatik und Semiotik | • Fachspezifischer Architekturentwurf<br>• Software-Architektur und Agile Methoden |
-| Prof. Dr. Karsch, Stefan<br> https://www.th-koeln.de/personen/stefan.karsch | &nbsp; | • Einführung in Betriebssysteme und Rechnerarchitektur<br>• IT Sicherheit |
-| Prof. Dr. Klocke, Heinrich<br> https://www.th-koeln.de/personen/heinrich.klocke | • Mensch-Computer-Interakton im Bereich SmartHome | • Mensch-Computer Interaktion<br>• Usability Engineering und kognitive Psychologie<br>• Algorithmik<br>•  Künstliche Intelligenz Logische Agenten |
-| Prof. Dr. Knittel, Friedrich<br> https://www.th-koeln.de/personen/friedrich.knittel | &nbsp; |                                          |
-| Prof. Dr. Koch, Heribert<br> https://www.th-koeln.de/personen/heribert.koch | &nbsp; |                                          |
-| Prof. Dr. Köhler, Lutz<br> https://www.th-koeln.de/personen/lutz.koehler | &nbsp; |                                          |
-| Prof. Dr. Kohls, Christian<br> https://www.th-koeln.de/personen/christian.kohls | &nbsp; | Algorithmen und Programmierung           |
-| Prof. Dr. Konen, Wolfgang<br> https://www.th-koeln.de/personen/wolfgang.konen | • Computational Intelligence & Data Mining<br>• Bild- und Signalverarbeitung<br>• Optimierung, Simulation, Spieltheorie | • Mathematik<br>• Data Mining            |
-| Prof. Kornacher, Hans Hermann<br> https://www.th-koeln.de/personen/hans.kornacher | • Digitale Bildbearbeitung in der Film- und Fernsehproduktion<br>• Storytelling und Narrative Strukturen<br>• Persona- und Charakterentwicklung | • Medientechnik und -produktion<br> • Storytelling und Narrative Strukturen<br>• Digitale Animation und Visual Effects in der Film- und Fernsehproduktion |
-| Prof. Dr. Naujoks, Boris<br> https://www.th-koeln.de/personen/boris.naujoks | • Computational Intelligence<br>• Evolutionäre Algorithmen<br>• Mehrkriterielle Optimierung | • Angewandte Mathematik                  |
-| Prof. Noss, Christian<br> https://www.th-koeln.de/personen/christian.noss | &nbsp; | • Kommunikationsdesign<br>• Web-basierte Anwendungen |
-| Prof. Dr. Stahl, Hans Ludwig<br>https://www.th-koeln.de/personen/hans.stahl | • Netze: Technik, Konzeption, Betrieb, Management, Sicherheit <br>• Outsourcing, ASP, CRM: Konzeption, Betrieb, SLAs, Management, Konzernstrategien<br>• Service Level Monitoring und ITIL-konforme IT-Prozesse bzw. Unterstützung von eTOM<br>• Open Systems: Betrieb, Management, Konsolidierung, Konzernstrategien<br>• Mobile IT / Mobilkommunikation: Technik, Management, Sicherheit, Anwendungen<br>• IT Security Management<br>• IT Risk Management<br>• IT- und Web-Trust-Management | • Theoretische Informatik und Technische Informatik<br>•  Kommunikationstechnik und Netze<br>• Mobile IT Security<br>• IT Compliance and Risk Management Informatik |
-| Prof. Dr. Victor, Frank<br> https://www.th-koeln.de/personen/frank.victor | &nbsp; | • Algorithmen und Programmierung<br>• Enterprise Architecture Management<br>• Betriebliche Anwendungssysteme<br>• IT Consulting und Management |
-| Prof. Dr. Westenberger, Hartmut<br> https://www.th-koeln.de/personen/hartmut.westenberger | • Industrialisierung von Data Warehousing und Business Intelligence Framework und Wissenskomponenten für die Beratung und Entwicklung von DWH/BI | • Informatik Betriebliche Anwendungssysteme |
-| Prof. Dr. Winter, Mario<br> https://www.th-koeln.de/personen/mario.winter | •  Modellbasierte Entwicklungsmethoden und Qualitätssicherung<br> • Softwaretest<br> • Projektorientiertes und Forschendes Lehren und Lernen | • Softwareentwicklung und Projektmanagement in Medienprojekten<br> • Informatik und Gesellschaft<br> • Softwaretechnik <br> • Modellierung von Anwendungssystemen |
+### Prof. Dr. Boris Naujoks
+- Master: Spezielle Gebiete der Mathematik
 
+### Prof. Dr. Christian Kohls
+- Bachelor: Paradigmen der Programmierung
+- Bachelor: Algorithmen und Programmierung 2
+- Bachelor: Social Computing 
+- Master: Computerethik
+- Master: Soziotechnische Entwurfsmuster
 
-## Wissenschaftliche Beschäftigte
+### Prof. Christian Noss
+- Bachelor: Screendesign
+- Bachelor: Web Development
+- Bachelor: Praxisprojektseminar
+- Master: Web Technologien
 
-* Breiderhoff, Beate
-* Breuer, Stefan
-* Buderus, Dennis
-* Bungart, Johannes-Josef
-* Butz, Raphaela
-* Chandrasekaran, Sowmya
-* Dang, Ngoc-Anh
-* Dimitriou, Konstantinos
-* Dobrynin, Alexander
-* Ferreira Pereira, Jorge Henrique
-* Fischbach, Andreas
-* Friese, Martina
-* Gabriel, Robert
-* Gawenda, Damian
-* Gellert, Edgar
-* Grünloh, Christiane
-* Hein, Irina
-* Heßland, Marco Paolo
-* Hofmeister, Anne
-* Holste, Andreas
-* Jaeger, Dennis
-* Jaspers, Franz-Leonard
-* Jung, Christian
-* Kasper, Andre
-* Krampe, Fabian Reinhard Dietrich
-* Krischer, Manuel
-* Krumnow, Benjamin
-* Kullack, Sven
-* Linke, Mario
-* Moritz, Steffen
-* Müller, Sebastian
-* Münster, Beate Anna
-* Münster, Guido
-* Müsse, Uwe
-* Neagu, Adrian
-* Odenwald, Patrick
-* Petersen, David Ferdinand
-* Petrisor, Teodora Roxana
-* Pham, Quoc Cuong
-* Poborski, Uwe
-* Rebolledo Coy, Margarita Alejandra
-* Reitano, Marco
-* Reschke, Daniela
-* Riemer, Petra
-* Sassmannshausen, Sheree May
-* Schäfer, Frank
-* Schaefer, Volker
-* Scherban, Helmut
-* Schewe, Sascha
-* Schönthier, Pascal
-* Schwede, Marc
-* Stork, Jörg
-* Stratmann, Marcel
-* Strohschein, Jan
-* Thill, Markus
-* Wagner, Peter
-* Zaefferer, Martin
-* Zakrevski, Svetlana
+### Prof. Dr. Frank Victor
+- Bachelor: Algorithmen und Programmierung 1
+
+### Prof. Dr. Gerhard Hartmann
+- Bachelor: Mensch-Computer Interaktion
+- Master: Design Methodologies
+- Master: Interaction Design
+- Master: Research Methods
+- Master: Angewandte Statistik für die Mensch-Computer Interaktion
+
+### Prof. Dr. Heide Faeskorn-Woyke
+- Bachelor: Datenbanken 1
+
+### Prof. Dr. Holger Günther
+- Bachelor: Projektmanagement
+
+### Prof. Hans Kornacher
+- Bachelor: Audiovisuelles Medienprojekt
+- Bachelor: Visual Computing 
+- Master: Storytelling und Narrative Strukturen
+
+### Prof. Dr. Hans L. Stahl
+- Bachelor: Kommunikationstechnik und Netze
+
+### Prof. Dr. Kristian Fischer
+- Bachelor: Grundlagen des Web
+- Bachelor: Web Development
+- Master: Web Architekturen
+- Master: Netzwerk-und Graphentheorie
+
+### Prof. Dr. Lutz Köhler
+- Bachelor: Betriebssysteme und verteilte Systeme
+
+### Prof. Dr. Matthias Böhmer
+- Bachelor: Betriebssysteme und verteilte Systeme
+
+### Prof. Dr. Martin Eisemann
+- Bachelor: Theoretische Informatik 1
+- Bachelor: Theoretische Informatik 2
+- Bachelor: Visual Computing 
+- Master: Bildbasierte Computergrafik
+- Master: Visualisierung
+
+### Prof. Dr. Monika Engelen
+- Bachelor: BWL I - Grundlagen
+
+### Prof. Dr. Mario Winter
+- Bachelor: Informatik, Recht und Gesellschaft
+- Bachelor: Projektmanagement
+- Bachelor: Softwaretechnik
+- Master: Qualitätssicherung und Qualitätsmanagement
+
+### Prof. Dr. Stefan Karsch
+- Bachelor: Einführung in Betriebssysteme und Rechnerarchitektur
+- Master: Sicherheit, Privatsphäre und Vertrauen im Netz
+
+### Prof. Dr. Wolfgang Konen
+- Bachelor: Mathematik 1
+- Bachelor: Mathematik 2
+- Master: Spezielle Gebiete der Mathematik
+
+Alle Lehrenden des Instituts für Informatik finden Sie auf der Website der TH Köln unter [http://bit.ly/2mpcbWN](http://bit.ly/2mbFEYc)
 
 
 # Transparenz und Dokumentation
@@ -1585,15 +1574,15 @@ Die vereinbarten Qualitätsziele wurden an quantifizierbaren Kenngrößen oder b
 
 Die TH Köln betrachtet Gleichstellung und Chancengleichheit der Geschlechter als Querschnittsaufgaben. Dabei wird Gleichstellung als integrierter Bestandteil von Lehre und Forschung verstanden, auf die Vereinbarkeit von Studium und Familie beziehungsweise Beruf und Familie geachtet sowie für eine ausgewogene Beteiligung von Männern und Frauen an den Entscheidungsstrukturen in Lehre, Forschung und Verwaltung gesorgt. Darüber hinaus wird der Anteil der Frauen bei den Professuren, Mitarbeiterstellen und den Studierenden in denjenigen Fächern, in denen sie unterrepräsentiert sind, kontinuierlich erhöht.
 
-Es wird die Aufstellung und Einhaltung der Frauenförderpläne kontrolliert. Des Weiteren werden bei einem "Girl’s Day" spezielle Veranstaltungen für interessierte Frauen bezüglich der Informatikstudiengänge angeboten. Alle Konzepte und Maßnahmen für Geschlechtergerechtigkeit und Chancengleichheit finden auf die zu akkreditierenden Studiengänge Anwendung.
+Es wird die Aufstellung und Einhaltung der Frauenförderpläne kontrolliert. Des Weiteren werden bei einem „Girl’s Day“ spezielle Veranstaltungen für interessierte Frauen, bezüglich der Informatikstudiengänge, angeboten. Alle Konzepte und Maßnahmen für Geschlechtergerechtigkeit und Chancengleichheit finden auf die zu akkreditierenden Studiengänge Anwendung.
 
-Fernerhin hat die TH Köln das Audit familiengerechte Hochschule[^family-matters] der "berufundfamilie gemeinnützigen GmbH" erfolgreich durchgeführt. Im Rahmen der Auditierung wurden der Bestand familienorientierter Maßnahmen begutachtet und weiterführende Zielvorgaben zur Verwirklichung familiengerechter Studienbedingungen sowie einer familienbewussten Personalpolitik definiert. Die Hochschule ist in 2015 erfolgreich re-auditiert worden.
+Fernerhin hat die TH Köln das Audit familiengerechte Hochschule[^family-matters] der „berufundfamilie gemeinnützigen GmbH” erfolgreich durchgeführt. Im Rahmen der Auditierung wurden der Bestand familienorientierter Maßnahmen begutachtet und weiterführende Zielvorgaben zur Verwirklichung familiengerechter Studienbedingungen sowie einer familienbewussten Personalpolitik definiert. Die Hochschule ist in 2015 erfolgreich re-auditiert worden.
 
 ## Konzepte zur Förderung der Chancengleichheit
 
 Die Konzepte zur Förderung der Chancengleichheit gelten insbesondere für Studierende in besonderen Lebenslagen (z.B. Studierende mit Kind), für Studierende mit Beeinträchtigung oder für Studierende mit spezifischem sozialem Hintergrund.
 
-Die TH Köln versteht sich als familiengerechte Hochschule und bietet verschiedene Beratungsangebote und Serviceleistungen für studierende Eltern an, um die Vereinbarkeit von Studium/Beruf und Familie besser zu ermöglichen. Im Herbst 2009 wurde das Programm "Educational Diversity" der TH Köln aufgesetzt. Die Grundidee von Educational Diversity ist die Umsetzung einer gelebten, die Unterschiedlichkeit der Studierenden als kreatives Potenzial begreifenden Lehr- und Lerncommunity. Alle Akteure stehen im direkten Kontakt miteinander und werden durch eine webbasierte Lehr- und Lerncommunity unterstützt.
+Die TH Köln versteht sich als familiengerechte Hochschule und bietet verschiedene Beratungsangebote und Serviceleistungen für studierende Eltern an, um die Vereinbarkeit von Studium/Beruf und Familie besser zu ermöglichen. Im Herbst 2009 wurde das Programm „Educational Diversity” der TH Köln aufgesetzt. Die Grundidee von Educational Diversity ist die Umsetzung einer gelebten, die Unterschiedlichkeit der Studierenden als kreatives Potenzial begreifenden, Lehr- und Lerncommunity. Alle Akteure stehen im direkten Kontakt miteinander und werden durch eine webbasierte Lehr- und Lerncommunity unterstützt.
 
 Das Programm „Educational Diversity“[^educational-diversity] der TH Köln hat zum Ziel, die Verschiedenartigkeit der Studierenden zu erkennen und durch hochschuldidaktische Differenzierung das Potenzial jedes/jeder einzelnen Studierenden optimal zu fördern. Auch die Dozent und Dozentinnen der Informatikstudiengänge beteiligen sich an diesen Programmen.
 
@@ -1605,11 +1594,11 @@ Für die Umsetzung der Chancengleichheit von Männern und Frauen hat die Hochsch
 3. Die Verbesserung der Vereinbarkeit von Studium bzw. Beruf und Familie.
 4. Die Umsetzung bzw. Unterstützung genderbezogener Projekte in Lehre und Forschung.
 
-Die Umsetzung dieser Ziele und die Einbettung in die bestehenden Handlungsfelder der Hochschule werden in der amtlichen Mitteilung[^gleichstellungskonzept] näher erläutert. Der TH Köln ist es ein besonderes Anliegen, mit den umgesetzten Maßnahmen die Selbstverständlichkeit von Beruf und Familie bzw. Studium und Familie zu unterstreichen und damit eine Kulturveränderung innerhalb der Hochschule zu bewirken, denn damit werden indirekt Karrierehemmnisse von Frauen abgebaut.
+Die Umsetzung dieser Ziele und die Einbettung in die bestehenden Handlungsfelder der Hochschule werden in der amtlichen Mitteilung[^gleichstellungskonzept] näher erläutert. Der TH Köln ist es ein besonderes Anliegen, mit den umgesetzten Maßnahmen die Vereinbarkeit von Beruf und Familie bzw. Studium und Familie zu unterstreichen und damit eine Kulturveränderung innerhalb der Hochschule zu bewirken, denn damit werden indirekt Karrierehemmnisse von Frauen abgebaut.
 
-[^gleichstellungskonzept]: <a href="http://www.fh-koeln.de/mam/downloads/deutsch/hochschule/profil/gleichstellung/gleichstellungskonzept.pdf">Gleichstellungskonzept der Technischen Hochschule Köln<a> (abgerufen am 23.02.2017)
-[^educational-diversity]: <a href="https://www.th-koeln.de/hochschule/educational-diversity_5710.php">Programm Educational Diversity der Technischen Hochschule Köln<a> (abgerufen am 23.02.2017)
-[^family-matters]: <a href="https://www.th-koeln.de/hochschule/familienfreundlichkeit_3759.php"> Profilseite zu Family Matters auf der Website der TH Köln<a> (abgerufen am 23.02.2017)
+[^gleichstellungskonzept]: Gleichstellungskonzept der Technischen Hochschule Köln: [http://www.fh-koeln.de/mam/downloads/deutsch/hochschule/profil/gleichstellung/gleichstellungskonzept.pdf](http://www.fh-koeln.de/mam/downloads/deutsch/hochschule/profil/gleichstellung/gleichstellungskonzept.pdf) (abgerufen am 23.02.2017)
+[^educational-diversity]: Programm Educational Diversity der Technischen Hochschule Köln: [https://www.th-koeln.de/hochschule/educational-diversity_5710.php](https://www.th-koeln.de/hochschule/educational-diversity_5710.php) (abgerufen am 23.02.2017)
+[^family-matters]: Profilseite zu Family Matters auf der Website der TH Köln: [https://www.th-koeln.de/hochschule/familienfreundlichkeit_3759.php](https://www.th-koeln.de/hochschule/familienfreundlichkeit_3759.php) (abgerufen am 23.02.2017)
 
 
 
