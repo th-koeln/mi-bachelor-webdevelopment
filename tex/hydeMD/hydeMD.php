@@ -684,6 +684,7 @@ class Document {
     }
 
 
+    /* \url to \href */
     $latexContent = preg_replace_callback( "/\\\\url\\{(.*?)\\}/", function( $matches ) {
 
       $url = $matches[1];
@@ -693,6 +694,12 @@ class Document {
       }, $url );
 
       return '\href{' . $url . '}{' . $url . '}';
+    }, $latexContent );
+
+
+    /* \tightlist */
+    $latexContent = preg_replace_callback( '/\\\begin{\\s*itemize\\s*}(.*?)\\\item/is', function( $matches ) {
+      return "\\begin{itemize}\n\\tightlist\n\\item";
     }, $latexContent );
 
     return $latexContent;
