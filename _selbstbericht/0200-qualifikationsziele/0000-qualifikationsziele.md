@@ -3,9 +3,10 @@ title: Qualifikationsziele der Studiengangskonzepte
 aktueller-bearbeiter: 
 bearbeiterhistorie: Christian Noss
 date: 17.02.2017
-comment:
+comment: Links der Fußnoten noch nicht klickbar formatiert, wie in anderen Abschnitten
 status: Peer Review erforderlich
-reviewed-von:
+reviewed-von: Robert Gabriel
+review-comment: Links der Fußnoten noch nicht klickbar formatiert, wie in anderen Abschnitten
 ---
 
 
@@ -58,7 +59,7 @@ Darüber hinaus sieht sie fünf charakteristische Merkmale:
 > - Medieninformatik arbeitet interdisziplinär.
 > - Medieninformatik arbeitet forschungs- und anwendungsorientiert.
 
-Aus diesen Definitionen und den Erfahrungen der Beteiligten Studiengangsverantwortlichen lässt sich ableiten, dass Medieninformatik ein anspruchsvolles, fassettenreiches Betätigungsfeld mit ausgeprägter Interdisziplinarität ist. Das breite Spektrum an erforderlichen kognitiven, sozialen und fachlichen Kompetenzen, Fertigkeiten und Kenntnissen lässt sich kaum mit der nötigen Tiefe in einem einzigen Ausbildungsprofil zusammenführen. Mit zunehmender Komplexität der zu entwickelnden Systeme und zunehmenden Anforderungen an die Qualität dieser Systeme aber auch aufgrund der wachsenden Bedeutung von Software für innovative Produkte und Dienstleistungen in unserer Gesellschaft zeigt sich daher immer mehr die Notwendigkeit einer professionellen Differenzierung. Um eine möglichst beständige, von aktuellen technologischen Trends weitgehend unabhängiges Medieninformatik-Curriculum bieten zu können, orientieren sich die Inhalte der Medieninformatik Studiengänge weitgehend an Grundlagen, ohne jedoch den Praxisbezug in Form von Fallstudien und Projekten zu vernachlässigen.
+Aus diesen Definitionen und den Erfahrungen der beteiligten Studiengangsverantwortlichen lässt sich ableiten, dass Medieninformatik ein anspruchsvolles, facettenreiches Betätigungsfeld mit ausgeprägter Interdisziplinarität ist. Das breite Spektrum an erforderlichen kognitiven, sozialen und fachlichen Kompetenzen, Fertigkeiten und Kenntnissen lässt sich kaum mit der nötigen Tiefe in einem einzigen Ausbildungsprofil zusammenführen. Mit zunehmender Komplexität der zu entwickelnden Systeme und zunehmenden Anforderungen an die Qualität dieser Systeme, aber auch aufgrund der wachsenden Bedeutung von Software für innovative Produkte und Dienstleistungen in unserer Gesellschaft, zeigt sich daher immer mehr die Notwendigkeit einer professionellen Differenzierung. Um eine möglichst beständige, von aktuellen technologischen Trends weitgehend unabhängiges Medieninformatik-Curriculum bieten zu können, orientieren sich die Inhalte der Medieninformatik Studiengänge weitgehend an Grundlagen, ohne jedoch den Praxisbezug in Form von Fallstudien und Projekten zu vernachlässigen.
 
 Die wesentliche Basis für die Entwicklung und Ausgestaltung relevanter Kompetenzen bildeten einerseits, soweit sie noch Bestand haben, die bestehenden Bereiche und Kompetenzziele das aktuellen Curriculums und andererseits die aktuellen "Empfehlungen für Bachelor- und Masterprogramme im Studienfach Informatik an Hochschulen" [^gi-empfehlungen] der Gesellschaft für Informatik. Hier werden folgende Kompetenzbereiche vorgeschlagen:
 
@@ -68,7 +69,7 @@ Die wesentliche Basis für die Entwicklung und Ausgestaltung relevanter Kompeten
 
 **Technologische Kompetenzen:** Digitaltechnik und Rechnerorganisation, Betriebssysteme, Datenbanken und Informationssysteme, Rechnernetze und verteilte Systeme, IT-Sicherheit
 
-**Fachübergreifende Kompetenzen:** Gesellschaftliche und berufsethische Aspekte von Informatiksystemen im Anwendungskontext, Ökonomische und ökologische Aspekte von Informatiksystemen im Anwendungskontext, Rechtliche Aspekte von Informatiksystemen im Anwendungskontext
+**Fachübergreifende Kompetenzen:** Gesellschaftliche und berufsethische Aspekte von Informatiksystemen im Anwendungskontext, ökonomische und ökologische Aspekte von Informatiksystemen im Anwendungskontext, rechtliche Aspekte von Informatiksystemen im Anwendungskontext
 
 **Soziale Kompetenzen und Selbstkompetenzen:** Kooperationsmanagement, Diversity- und Konfliktmanagement, Organisationsentwicklung
 
