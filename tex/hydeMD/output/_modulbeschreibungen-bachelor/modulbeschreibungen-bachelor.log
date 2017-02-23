@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.17)  23 FEB 2017 00:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.17)  23 FEB 2017 09:31
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -804,13 +804,6 @@ Package titlesec Warning: Non standard sectioning command detected
 Package scrbook Warning: Activating an ugly workaround for a missing
 (scrbook)                feature of package `titlesec` on input line 172.
 
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
-
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/base/t1enc.def
-File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
-LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
-))
 (/usr/local/texlive/2016basic/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
 
@@ -841,36 +834,36 @@ Package csquotes Info: ... found 'babel' package.
 (./modulbeschreibungen-bachelor.aux (./coversheet.aux) (./content.aux))
 \openout1 = `modulbeschreibungen-bachelor.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 207.
-LaTeX Font Info:    ... okay on input line 207.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 207.
-LaTeX Font Info:    ... okay on input line 207.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 207.
-LaTeX Font Info:    ... okay on input line 207.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 207.
-LaTeX Font Info:    ... okay on input line 207.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 207.
-LaTeX Font Info:    ... okay on input line 207.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 207.
-LaTeX Font Info:    ... okay on input line 207.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 207.
-LaTeX Font Info:    ... okay on input line 207.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 207.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 207.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 206.
+LaTeX Font Info:    ... okay on input line 206.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 206.
+LaTeX Font Info:    ... okay on input line 206.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 206.
+LaTeX Font Info:    ... okay on input line 206.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 206.
+LaTeX Font Info:    ... okay on input line 206.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 206.
+LaTeX Font Info:    ... okay on input line 206.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 206.
+LaTeX Font Info:    ... okay on input line 206.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 206.
+LaTeX Font Info:    ... okay on input line 206.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 206.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 206.
 
 
 (/usr/local/texlive/2016basic/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 207.
+LaTeX Font Info:    ... okay on input line 206.
 LaTeX Font Info:    Try loading font information for T1+Roboto-LF on input line
- 207.
+ 206.
 
 (/usr/local/texlive/2016basic/texmf-dist/tex/latex/roboto/T1Roboto-LF.fd
 File: T1Roboto-LF.fd 2015/09/15 (autoinst) Font definitions for T1/Roboto-LF.
 )
 LaTeX Font Info:    Font shape `T1/Roboto-LF/l/n' will be
-(Font)              scaled to size 10.0pt on input line 207.
+(Font)              scaled to size 10.0pt on input line 206.
 
 (/usr/local/texlive/2016basic/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -906,7 +899,7 @@ bibgerm.sty: (n)german.sty 2.5b detected
 
 \c@lstlisting=\count146
 \AtBeginShipoutBox=\box43
-Package hyperref Info: Link coloring OFF on input line 207.
+Package hyperref Info: Link coloring OFF on input line 206.
 (/usr/local/texlive/2016basic/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
@@ -916,9 +909,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count147
 )
-LaTeX Info: Redefining \ref on input line 207.
-LaTeX Info: Redefining \pageref on input line 207.
-LaTeX Info: Redefining \nameref on input line 207.
+LaTeX Info: Redefining \ref on input line 206.
+LaTeX Info: Redefining \pageref on input line 206.
+LaTeX Info: Redefining \nameref on input line 206.
  (./modulbeschreibungen-bachelor.out) (./modulbeschreibungen-bachelor.out)
 \@outlinefile=\write5
 \openout5 = `modulbeschreibungen-bachelor.out'.
@@ -1013,7 +1006,7 @@ Overfull \hbox (1.05296pt too wide) detected at line 33
 
 File: ../assets/box.pdf Graphic file (type pdf)
  <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 217.
+Package pdftex.def Info: ../assets/box.pdf used on input line 216.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
  [3]
 \openout2 = `content.aux'.
@@ -2915,23 +2908,23 @@ Package pdftex.def Info: ../assets/box.pdf used on input line 4541.
 ])
 File: ../assets/box.pdf Graphic file (type pdf)
  <use ../assets/box.pdf>
-Package pdftex.def Info: ../assets/box.pdf used on input line 220.
+Package pdftex.def Info: ../assets/box.pdf used on input line 219.
 (pdftex.def)             Requested size: 24.28851pt x 20.0pt.
  [110]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 228.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 228.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 227.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 227.
 
 (./modulbeschreibungen-bachelor.aux (./coversheet.aux) (./content.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 228.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 228.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 227.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 227.
 Package rerunfilecheck Info: File `modulbeschreibungen-bachelor.out' has not ch
 anged.
 (rerunfilecheck)             Checksum: 9AF3449178FD0E1F44F68D0FF725E04B;1966.
  ) 
 Here is how much of TeX's memory you used:
- 16837 strings out of 494447
- 266918 string characters out of 6166766
- 461972 words of memory out of 5000000
+ 16833 strings out of 494447
+ 266658 string characters out of 6166766
+ 461935 words of memory out of 5000000
  19689 multiletter control sequences out of 15000+600000
  52292 words of font info for 36 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
@@ -2942,7 +2935,7 @@ o/rbto_bergpl.enc}{/usr/local/texlive/2016basic/texmf-dist/fonts/enc/dvips/robo
 to/rbto_idpkzy.enc}</usr/local/texlive/2016basic/texmf-dist/fonts/type1/google/
 roboto/Roboto-Bold.pfb></usr/local/texlive/2016basic/texmf-dist/fonts/type1/goo
 gle/roboto/Roboto-Light.pfb>
-Output written on modulbeschreibungen-bachelor.pdf (113 pages, 993103 bytes).
+Output written on modulbeschreibungen-bachelor.pdf (113 pages, 992397 bytes).
 PDF statistics:
  821 PDF objects out of 1000 (max. 8388607)
  636 compressed objects within 7 object streams
