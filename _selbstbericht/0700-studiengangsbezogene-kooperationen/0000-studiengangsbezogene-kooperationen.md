@@ -30,9 +30,11 @@ Innerhalb der Hochschule wird eine enge Kooperation mit einigen in Köln angesie
 Mit der „Köln International School of Design“ als interne Einrichtung der „Fakultät für Kulturwissenschaften“ (Fakultät 02) und der „Fakultät für angewandte Sozialwissenschaften“ (Fakultät 01) werden gemeinsame Lehrveranstaltungen durchgeführt. Das Modul „Wissensmanagement“ des Masterstudiengangs bspw. wurde bereits mehrfach von der „Fakultät für Wirtschafts- und Rechtswissenschaften“ der Fachhochschule Köln (Fakultät 04) importiert. 
 
 ~~~
-MW: Muss noch von Christian Kohls ergänzt und präzisiert werden
+MW: Muss noch von CK und CN ergänzt und präzisiert werden
 ~~~
 Die Errichtung eines kooperativen Studiengangs eScience ist geplant.
+
+Ein gemeinsamer Studiengang "Code University" mit der Fakultät für Informations-, Medien- und Elektrotechnik sowie der KISD ist beantragt, der sich u.A. aus Inhalten der zu reakkreditierenden Studiengänge speist und mit dem entsprechende Synergien geschöpft werden sollen.
 
 Das Institut für Informatik und das Institut für Automation & IT sind ferner im Forschungsschwerpunkt COSA (s Kap. 5.1.3.3) synergetisch verbunden.
 
