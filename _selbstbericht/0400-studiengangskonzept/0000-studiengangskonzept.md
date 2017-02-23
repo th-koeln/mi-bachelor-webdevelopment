@@ -98,7 +98,13 @@ Jedes der ersten drei Fachsemester hat ein dezidiertes Projekt, das auf die jewe
 - Sensibilisierung für professionelle Ergebnissicherung
 - Skalierbarkeit von Projekten auf verschiedene Teams in Abhängigkeit von der jeweiligen Projektphase
 
-Die Projekte können mit zusätzlichen Lehrveranstaltungen, die auf die jeweilige Leitfrage einzahlen, angereichert werden.  
+Die Projekte können mit zusätzlichen Lehrveranstaltungen, die auf die jeweilige Leitfrage einzahlen, angereichert werden. 
+
+
+### Wissenschaftliches Arbeiten
+
+Die Fortsetzung des Masterstudiengang durch ein Promotionsstudium ist eine Möglichkeit, die von einer erheblichen Anzahl unserer Absolventen wahrgenommen wird. Um dafür die erforderlichen Kompetenzen im wissenschaftlichen Arbeiten zu erreichen aber auch um Interesse am wissenschaftlichen Arbeiten zu wecken, wird dieses Thema im Master konsequent verfolgt. Neben expliziten, auf Vermittlung von Methodenwissen ausgelegten Modulen wie "Research Methods" und "Computer Ethik" wird vor allem in den Schwerpunktprojekten wiisenschaftliches Arbeiten gefordert. Im Projektteil "Vision und Konzept" wird im Rahmen der Veranstaltung "Advanced Seminar" wird Aquisition, Bewertung und Erschließung des aktuellen Forschungsstandes aus wissenschaftlicher Literatur thematisiert. Im Projektteil "Umsetzug" wird eine kritische Diskussion der eingesetzten Methoden und Architekturen praktiziert. Im Projektteil "Verwertung" wird auch die Publikation der Ergebnisse auf Konferenzen, Workshops, oder in sozialen Medien wit github angestrebt.
+
 
 ### Internationalisierung
 
