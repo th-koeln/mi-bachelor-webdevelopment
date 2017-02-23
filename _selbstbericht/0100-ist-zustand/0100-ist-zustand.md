@@ -138,7 +138,7 @@ Dieser Prozess ist zeitaufwändig und wird von den meisten Studierenden untersch
 
 ### Bewertung von Ergebnissen aus Evaluationen
 
-Hier kann auf Erstsemesterbefragungen und regelmäßig semesterweise durchgeführte Evaluationen der Lehrveranstaltungen verwiesen werden. Die Auswertung der Evaluationen erfolgt zentral durch die Hochschulverwaltung; ein integriertes Qualitätsmanagement nach DIN/ISO 9001 ist an der Fakultät 10 etabliert. In den Ergebnissen[^evaluationen-f10] zeigt sich grundsätzlich bei den Bachelorstudierenden ein etwas geringeres Zufriedenheitsmaß als bei den Masterstudierenden. Dies lässt sich mit Verweis auf die allgemein hohen Abbruchquoten in grundständigen Informatikstudiengängen ggf. so interpretieren, dass die Unzufriedenheit nicht allein durch die Studienangebotsseite verursacht ist. Dennoch lassen sich deutliche Verbesserungspotentiale identifizieren, etwa bzgl. der Einführung neuer Lehr- und Lernformate, Koordination der Praktika, Bereitstellung von studentischen Arbeitsräumen, Gastvorträgen, Exkursionen und Workshops.
+Hier kann auf Erstsemesterbefragungen und regelmäßig semesterweise durchgeführte Evaluationen der Lehrveranstaltungen verwiesen werden. Die Auswertung der Evaluationen erfolgt zentral durch das Hochschulreferat 4 *Qualitätsmanagement*. Darüber hinaus ist an der Fakultät 10 ein integriertes Qualitätsmanagement nach DIN/ISO 9001 etabliert. In den Ergebnissen[^evaluationen-f10] zeigt sich grundsätzlich bei den Bachelorstudierenden ein etwas geringeres Zufriedenheitsmaß als bei den Masterstudierenden. Dies lässt sich mit Verweis auf die allgemein hohen Abbruchquoten in grundständigen Informatikstudiengängen ggf. so interpretieren, dass die Unzufriedenheit nicht allein durch die Studienangebotsseite verursacht ist. Dennoch lassen sich deutliche Verbesserungspotentiale identifizieren, etwa bzgl. der Einführung neuer Lehr- und Lernformate, Koordination der Praktika, Bereitstellung von studentischen Arbeitsräumen, Gastvorträgen, Exkursionen und Workshops.
 
 Der 2013 zu verzeichnende Rückgang der Zufriedenheit bzgl. des Lehrangebotes im Master lässt sich nach unseren Analysen und Gesprächen mit Studierenden u.A. als Auswirkung des ersten, im Informatik-Master durchgeführten Projekt-Semesters interpretieren. Die dort durchgeführten „Guided Projects“ zeigen einen starken Praxisbezug und eine klare, mit den Methoden des (oft agilen) Projektmanagements gestaltete Ablaufstruktur. Diese auf den Arbeitsmarkt ausgerichtete Herangehensweise wird auch von vielen Studierenden im Medieninformatik Master gewünscht.
 
@@ -148,18 +148,7 @@ Die Unzufriedenheit bei der Bewertung der Studien- und Prüfungsorganisation in 
 
 Die folgenden Ausführungen beruhen auf der Datenerhebung zum 22.09.2016 für den Zeitraum Wintersemester 2011 bis Wintersemester 2015[^Anhang-Pruefungsstatistiken][^Anhang-fakultaetsstruktur] und fokussieren die derzeit eingeschriebenen Studenten, erfolgreiche Abschlüsse und Studienfachabbrecher.
 
-Zur Bewertung der Auslastung kann wie folgt Stellung genommen werden: Gemessen an den planmäßigen 63 Studierendenplätzen (WS13/14) werden seit drei Studienjahren im Rahmen der strategischen Fakultätsplanung und des Hochschulentwicklungsplans 2020 mehr als 200% Überlast aufgenommen. Mit den Abbrecherquoten im Bachelorstudiengang bewegt sich die Medieninformatik im breiten Mittelfeld von Informatikstudiengängen im Allgemeinen; 
-~~~
-cn: gibt es zu "im breiten Mittelfeld von Informatikstudiengängen" zahlen?
-~~~
-
-sehr erfreulich ist die für den Masterstudiengang Medieninformatik die geringe Abbrecherquote. In Verbindung mit der bedauerlich hohen, für ingenieur- und naturwissenschaftliche Studiengänge, insbesondere im Bachelor-Bereich jedoch leider inhärenten Abbrecherquote (durchschnittlich geschätzte Schwundquote in der Informatik an Fachhochschulen ist 39%), 
-
-~~~
-cn: wo kommt diese Zahl her (durchschnittlich geschätzte Schwundquote in der Informatik an Fachhochschulen ist 39%)?
-~~~
-
-zeigt sich hier ein deutliches noch zu hebendes Optimierungspotential. Erfreulich ist hier die mit 27% recht hohe Frauenquote im Bachelorstudiengang Medieninformatik. Die durchschnittliche Frauenquote in der Lehreinheit Informatik liegt bei 22%. In der Fakultät 10 liegt sie bei 20%.
+Zur Bewertung der Auslastung kann wie folgt Stellung genommen werden: Gemessen an den planmäßigen 63 Studierendenplätzen (WS13/14) werden seit drei Studienjahren im Rahmen der strategischen Fakultätsplanung und des Hochschulentwicklungsplans 2020 mehr als 200% Überlast aufgenommen. Mit den Abbrecherquoten im Bachelorstudiengang bewegt sich die Medieninformatik im breiten Mittelfeld von Informatikstudiengängen im Allgemeinen[^DZHW-Studie2015]; sehr erfreulich ist die für den Masterstudiengang Medieninformatik die geringe Abbrecherquote. In Verbindung mit der bedauerlich hohen, für ingenieur- und naturwissenschaftliche Studiengänge, insbesondere im Bachelor-Bereich jedoch leider inhärenten Abbrecherquote (durchschnittlich geschätzte Schwundquote in der Informatik an Fachhochschulen ist 39%[^DZHW-Studie2015]), zeigt sich hier ein deutliches noch zu hebendes Optimierungspotential. Erfreulich ist hier die mit 27% recht hohe Frauenquote im Bachelorstudiengang Medieninformatik. Die durchschnittliche Frauenquote in der Lehreinheit Informatik liegt bei 22%. In der Fakultät 10 liegt sie bei 20%.
 
 Die Prüfungserfolge sind bzgl. des Bachelor- und Masterstudiengangs zu differenzieren.
 
@@ -232,6 +221,7 @@ Somit lassen sich die folgenden Defizite im aktuellen Medieninformatik Master St
 
 [^anhang-verbleib-und-studienabbruch]: <a href="../anhaenge/verbleib-und-studienabbruch.pdf">Statistik zum Verbleib- und Studienabbruch</a>
 [^anhang-hep-2020]: <a href="https://www.verwaltung.th-koeln.de/imperia/md/content/verwaltung/broschueren_leitfaeden/hochschulentwicklungsplan2020.pdf">Hochschulentwicklungsplan 2020</a> (abgerufen am 13.02.2017)
+[^DZHW-Studie2015]: <a href="http://www.dzhw.eu/pdf/pub_fh/fh-201503.pdf">Ulrich Heublein et al.: Studienbereichsspezifische Qualitätssicherung im Bachelorstudium - Befragung der Fakultäts- und Fachbereichsleitungen zum Thema Studienerfolg und Studienabbruch. Forum Hochschule, 3/2015</a> (abgerufen am 13.02.2017)
 [^Anhang-Pruefungsstatistiken]: <a href="../anhaenge/pruefungsstatistiken.pdf">Bachelorstudiengang Medieninformatik, Prüfungsstatistik 2016</a> 
 [^Anhang-fakultaetsstruktur]: <a href="../anhaenge/Fakultaetsstruktur-Studienangebot-Personal-Haushaltsmittel-Kennzahlen-2014.pdf">Fakultät für Informatik und Ingenieurwissenschaften, Statistik 2013/14</a>
 [^Anhang-INCHER-Studie]: <a href="../anhaenge/INCHER-Studie.pdf">INCHER-Studie 2014</a>
