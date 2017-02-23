@@ -1,9 +1,9 @@
 ---
 title: Studierbarkeit
-aktueller-bearbeiter: Sebastian Müller
-bearbeiterhistorie: Christian Noss
+aktueller-bearbeiter: 
+bearbeiterhistorie: Christian Noss, Sebastian Müller
 date: 18.02.2017
-comment: von Informatik übernommen, Prüfungen müssen nachgezählt werden, da muss auch noch mal rein geschaut werden, Zugangsvoraussetzungen Master fehlen
+comment: von Informatik übernommen, Prüfungen müssen nachgezählt werden, da muss auch noch mal rein geschaut werden, Zugangsvoraussetzungen Master fehlen, kleine Formatierungsfehler korrigiert, aus "FH Köln" "TH Köln" gemacht.
 status: nicht fertig
 reviewed-von:
 ---
@@ -12,7 +12,7 @@ reviewed-von:
 >
 >-   die Berücksichtigung der erwarteten Eingangsqualifikationen,
 >-   eine geeignete Studienplangestaltung
->-   die auf Plausibilität hin überprüfte (bzw. im Falle der Erstakkreditierung nach Er-fahrungswerten geschätzte) Angabe der studentischen Arbeitsbelastung,
+>-   die auf Plausibilität hin überprüfte (bzw. im Falle der Erstakkreditierung nach Erfahrungswerten geschätzte) Angabe der studentischen Arbeitsbelastung,
 >-   eine adäquate und belastungsangemessene Prüfungsdichte und -organisation,
 >-   entsprechende Betreuungsangebote sowie
 >-   eine fachliche und überfachliche Studienberatung.
@@ -25,7 +25,7 @@ reviewed-von:
 >
 >-   Ggf.: Wie wurde reagiert, wenn die Zugangsregelungen diesen Zweck aus Sicht der für den Studiengang Verantwortlichen nicht erfüllt haben?
 >
->-   Wie schätzen die für den Studiengang Verantwortlichen und daran Beteiligten\ – einschließlich der Studierenden – die studentische Arbeitsbelastung ein? Welche Probleme treten auf? Was wird zu deren Lösung unternommen?
+>-   Wie schätzen die für den Studiengang Verantwortlichen und daran Beteiligten – einschließlich der Studierenden – die studentische Arbeitsbelastung ein? Welche Probleme treten auf? Was wird zu deren Lösung unternommen?
 >
 >-   Sind hinsichtlich des Studienabschlusses in der vorgesehenen Zeit in den vergangenen Jahren Probleme aufgetreten? Wenn ja, welche? Wie wurden sie behandelt?
 >
@@ -53,7 +53,7 @@ reviewed-von:
 >
 >-   Dokumente aus dem täglichen Gebrauch an der Hochschule, aus denen das vorhandene Beratungs- und Betreuungskonzept hervorgeht
 >
->-   (statistische) Daten zu Studienverläufen
+>-   (Statistische) Daten zu Studienverläufen
 >
 >-   Ggf. Daten zur (Auslands-)Mobilität von Studierenden und zu Praxiseinsätzen von Studierenden
 >
@@ -75,7 +75,7 @@ Voraussetzung für den Zugang zum Bachelorstudium ist die Fachhochschulreife ode
 keine
 
 ### Fremdsprachenkenntnisse, Deutschkenntnisse
-Fremdsprachenkenntnisse, die über das Maß der durch den schulischen Abschluss gegebenen Fremdsprachenkenntnisse hinausgehen, sind nicht gefordert. Die Deutschkenntnisse ausländischer Studierender werden i.d.R. durch Ablegen der Deutschen Sprachprüfung für den Hochschulzugang (DSH II) oder eine äquivalente Prüfung nachgewiesen; für nähere Informationen sowie Einzelfallregelungen ist das International Office der FH Köln zuständig[^int-office].
+Fremdsprachenkenntnisse, die über das Maß der durch den schulischen Abschluss gegebenen Fremdsprachenkenntnisse hinausgehen, sind nicht gefordert. Die Deutschkenntnisse ausländischer Studierender werden i.d.R. durch Ablegen der Deutschen Sprachprüfung für den Hochschulzugang (DSH II) oder eine äquivalente Prüfung nachgewiesen; für nähere Informationen sowie Einzelfallregelungen ist das International Office der TH Köln zuständig[^int-office].
 
 ### Eignungsfeststellung
 Keine
@@ -92,7 +92,7 @@ Das Masterstudium umfasst 120 ECTS Punkte bei 48 SWS Präsenzzeit, was einer dur
 
 ## Arbeitslast
 
-Die Bachelor- und Masterstudiengänge sind durchgängig mit 30 ECTS-Punkten im Semester durchkalkuliert, was einer Arbeitslast von 900 Stunden pro Semester entspricht. Wenn man ein Semester mit 24 Wochen veranschlagt, wobei die Prüfungszeit und Prüfungsvorbereitung mitgerechnet ist, ergibt sich eine Wochenarbeitszeit von 900 h / 24 = 37,5 Stunden. Eine Veranstaltung mit 5 Creditpoints und 4 SWS, 2 SWS Vorlesung + S SWS übung hat in der Regel einen Arbeitsaufwand von 5 x 30 = 150 Stunden. Bei durchschnittlich 18 Semesterwochen entspricht dies einem Anteil von 2 h x 18 = 36 Stunden Vorlesung, 2 h x 18 = 36 Stunden übung, also 72 Stunden Präsenzanteil und 78 Stunden Selbststudium inklusive Klausurvorbereitung und Nachbereitung der Präsenzanteile. Dies entspricht in etwa einer Aufteilung der Gesamtzeit in 50% für Präsenzstudium und in 50 % für Selbststudium.
+Die Bachelor- und Masterstudiengänge sind durchgängig mit 30 ECTS-Punkten im Semester durchkalkuliert, was einer Arbeitslast von 900 Stunden pro Semester entspricht. Wenn man ein Semester mit 24 Wochen veranschlagt, wobei die Prüfungszeit und Prüfungsvorbereitung mitgerechnet ist, ergibt sich eine Wochenarbeitszeit von 900 h / 24 = 37,5 Stunden. Eine Veranstaltung mit 5 Creditpoints und 4 SWS, 2 SWS Vorlesung + 2 SWS übung hat in der Regel einen Arbeitsaufwand von 5 x 30 = 150 Stunden. Bei durchschnittlich 18 Semesterwochen entspricht dies einem Anteil von 2 h x 18 = 36 Stunden Vorlesung, 2 h x 18 = 36 Stunden Übung, also 72 Stunden Präsenzanteil und 78 Stunden Selbststudium inklusive Klausurvorbereitung und Nachbereitung der Präsenzanteile. Dies entspricht in etwa einer Aufteilung der Gesamtzeit in 50% für Präsenzstudium und in 50 % für Selbststudium.
 
 
 Die Lehrveranstaltungen des Masterstudiengangs sind mit 6 Creditpoints ausgestattet, was bei einem Modul mit 4 SWS einem Verhältnis von 40% für Präsenzstudium und 60 % für Selbststudium entspricht. 
