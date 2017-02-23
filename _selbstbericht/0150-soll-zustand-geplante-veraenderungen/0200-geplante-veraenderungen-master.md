@@ -47,7 +47,7 @@ Die Schwerpunkte setzen sich aus den folgenden Modulen zusammen:
 |:---|:---|:---|
 |Interaction Design | Interaction Design | - |
 |Design Methodologies | - | - |
-|Angewandte Statistik für die Mensch-Computer Interaktion  | - | - |
+|Angewandte Statistik für die Mensch-Computer Interaktion  | Naturwissenschaftliche Grundlagen digitaler Medien | - |
 
 
 ### Schwerpunkt Weaving the Web
@@ -87,3 +87,49 @@ Die Mitarbeit der Studierenden in Projekten trägt überdies zum Ausbau der Fors
 Im dritten Fachsemester sind neben dem Projekt drei Wahlmodule vorgesehen, die im Gegensatz zum bisherigen Curriculum, an keinerlei weitere Regularien gebunden sind. Im aktuellen Curriculum werden die Wahlpflichtmodule in vier Kategorien eingeteilt und pro Kategorie muss ein Modul belegt werden. Die Kategorisierung der Wahlmodule führt jedoch nicht selten dazu, dass den Studierenden keine oder nur sehr wenige Optionen offen stehen. Im neuen Curriculum können als Wahlmodule alle Module des Medieninformatik- und des Informatik-Masterstudiengangs gewählt werden.
 
 Durch die offene Gestaltung des dritten Fachsemesters eignet sich selbiges gut für ein Auslandssemester, da hier die Anerkennung von Modulen sehr leicht fallen sollte. 
+
+
+## Auswirkungen auf die Lehrkapazität
+
+Erforderliche Module im aktuellen Curriculum (Pflichtmodule)
+- Spezielle Gebiete der Mathematik
+- Interaction Design
+- Advanced Seminar
+- Themen zu Medien und Gesellschaft
+- Medienrezeption
+- Informations- und Prozessmanagement
+- Logik und semantische Modellierung
+- Visualistik
+- Projektmanagement
+- IT-Sicherheit
+- Entwicklungsmethoden in Medienprojekten und Qualitätssicherung
+- Kooperationssysteme
+- Spezielle Gebiete der BWL
+- Naturwissenschaftliche Grundlagen digitaler Medien
+- Projekt
+- Wahlpflichtfach A
+- Wahlpflichtfach B 
+- Wahlpflichtfach C 
+- Wahlpflichtfach D
+
+Erforderliche Module im zukünftigen Curriculum (Pflichtmodule, auch der Schwerpunkte)
+- Computerethik
+- Research Methods
+- Spezielle Gebiete der Mathematik
+- Interaction Design
+- Design Methodologies
+- Angewandte Statistik für die Mensch-Computer Interaktion
+- Sicherheit, Privatsphäre und Vertrauen im Netz
+- Qualitätssicherung für Web-Anwendungen
+- Storytelling und Narrative Strukturen
+- Bildbasierte Computergrafik
+- Visualisierung
+- Web Architekturen
+- Web Technologien
+- Projektarbeit - Vision und Konzept
+- Projektarbeit - Entwicklung
+- Projektarbeit - Assessment/Evaluation, Forschung und Verwertung 
+- Netzwerk-und Graphentheorie
+- Soziotechnische Entwurfsmuster
+
+

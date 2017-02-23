@@ -75,6 +75,9 @@ Der viersemestrige Masterstudiengang baut konsekutiv auf das Bachelorprogramm au
 
 ### Studienschwerpunkte
 
+{% include image.html url="bilder/ma-schwerpunkte.svg" caption="Abbildung: Studienschwerpunkte des Masterprogramms" %}
+
+
 Zur individuellen Schwerpunktbildung bietet des Masterprogramm vier Möglichkeiten, die alle auf den im Bachelor gelegten Themenbieten aufbauen: Human-Computer Interaction, Social Computing, Visual Computing und Weaving the Web. Für Studierende, die ein generalistisch geprägtes Studium bevorzugen wird der Studienpfad "Multiperspective Product Development" angeboten, der sich aus ausgewählten Modulen der anderen Schwerpunkte und des Wahlplichtkatalogs speist. Dieser wird aus organisatorischen Gründen auch als Schwerpunkt aufgeführt.
 
 #### Mensch-Computer Interaktion
@@ -127,7 +130,6 @@ Als charakterisierende Merkmale für die Entwicklung von Produkten und Diensten 
 Der Titel der Studienrichtung, „Weaving the Web” wurde gewählt, da neben dem klassischen Software Engineering vor allem auch die Integration eigener Produkte und Dienste in das Web thematisiert wird.
 
  
-
 ### Studienphasen und -säulen
 
 {% include image.html url="bilder/ma-struktur.svg" caption="Abbildung: Struktur der ersten drei Studiensemester des Masterprogramms bei Studienstart im Wintersemester" %}
