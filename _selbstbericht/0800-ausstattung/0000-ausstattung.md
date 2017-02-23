@@ -9,6 +9,11 @@ reviewed-von:
 ---
 
 >Die adäquate Durchführung des Studiengangs ist hinsichtlich der qualitativen und quantitativen personellen, sächlichen und räumlichen Ausstattung gesichert. Dabei werden Verflechtungen mit anderen Studiengängen berücksichtigt. Maßnahmen zur Personalentwicklung und -qualifizierung sind vorhanden.
+
+Das Kompetenzteam Hochschuldidaktik der TH Köln bietet für alle Lehrenden hochschuldidaktische Fort- und Weiterbildungen in vielfältiger Form an. Um die Lern- und Lehrkultur stetig weiter zu entwickeln wurden eine Vielzahl von Programmen (z.B. Profil-Hoch-Zwei, Exzellente Lehre, Come in-Commit, etc.) entwickelt, die fest in den Hochschulalltag integriert sind. Details zu den vielfältigen Aktivitäten und Ressourcen finden sich beschrieben unter: https://www.th-koeln.de/hochschule/lehr--und-lernkultur_6277.php.
+
+
+
 >
 >**Leitfragen**
 >
