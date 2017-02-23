@@ -102,7 +102,7 @@ An der TH Köln studieren ca. 23.500 Studierende an 11 Fakultäten. Die Abbildun
 
 ## Einbettung der Studiengänge in die Fakultät
 
-Die Fakultät für Informatik und Ingenieurwissenschaften ist am Standort Gummersbach angesiedelt (Campus Gummersbach) und ist mit derzeit 5200 Studierenden[^studierende-gm-2016] die größte Fakultät der TH Köln. An der Fakultät sind 8 Institute angesiedelt; zum Studienangebot der Fakultät gehören 8 Bachelor- und 6 Masterstudiengänge. Die Medieninformatik Studiengänge werden von der Fakultät für Informatik und Ingenieurwissenschaften ausgerichtet und sind im Institut für Informatik organisatorisch verankert. 
+Die Fakultät für Informatik und Ingenieurwissenschaften ist am Standort Gummersbach angesiedelt (Campus Gummersbach) und ist mit derzeit 5200 Studierenden[^studierende-gm-2016] die größte Fakultät der TH Köln. An der Fakultät sind 8 Institute angesiedelt; zum Studienangebot der Fakultät gehören 8 Bachelor- und 6 Masterstudiengänge. Die Medieninformatik Studiengänge werden von der Fakultät für Informatik und Ingenieurwissenschaften ausgerichtet und sind im Institut für Informatik organisatorisch verankert.
 
 Das Institut für Informatik betreibt Labore für:
 - Allgemeine Datenverarbeitung (ADV)
@@ -115,7 +115,7 @@ Das Institut für Informatik betreibt Labore für:
 
 
 
-[^Anhang-Diversity-Konzepte]: [Educational Diversity Kobnzept](https://www.th-koeln.de/hochschule/educational-diversity_5710.php) (abgerufen am 20.02.2017)
+[^Anhang-Diversity-Konzepte]: [Educational Diversity Konzept](https://www.th-koeln.de/hochschule/educational-diversity_5710.php) (abgerufen am 20.02.2017)
 [^anhang-profil2]: [Profil2 Seite](https://www.th-koeln.de/hochschule/profil_5676.php) (abgerufen am 20.02.2017)
 [^anhang-forschungscluster-th]: [Forschungscluster](https://www.th-koeln.de/forschung/cluster_2734.php) (abgerufen am 20.02.2017)
 [^abbildung-verteilung-der-studierenden]: Abbildung Verteilung der Studierenden
@@ -807,19 +807,14 @@ Absolventinnen und Absolventen des Masterstudiengangs Medieninformatik:
 - haben ihre Fähigkeit zum lebenslangen Lernen gefestigt und können sich selbständig und schnell in neue, für die Medieninformatik relevante Theorien, Methoden und Techniken, sowohl aus theoretischer als auch aus technischer Sichtweise, einarbeiten und ihre eigene Rolle im professionellen Kontext hinterfragen und weiterentwickeln.
 
 ### Weiterführende Dokumente
-- Website des Medieninformatik Master[^website-master]
-- Ordnungen zum Medieninformatik Master[^ordnungen-master]
-- Studienverlaufsplan Medieninformatik Master[^studienverlaufsplan-master]
-- Modulhandbuch Medieninformatik Master[^modulhandbuch-master]
-- Ziele-Module-Matrix Medieninformatik Master[^ziele-module-master]
-- Beispielzeugnis und Diploma Supplement Medieninformatik Master[^zeugnis-master]
+- Website des Medieninformatik Master: [https://www.th-koeln.de/studium/medieninformatik-master_3729.php](https://www.th-koeln.de/studium/medieninformatik-master_3729.php)
+- Ordnungen zum Medieninformatik Master: [https://www.th-koeln.de/studium/medieninformatik-master--ordnungen-und-formulare_3724.php](https://www.th-koeln.de/studium/medieninformatik-master--ordnungen-und-formulare_3724.php)
+- Studienverlaufsplan Medieninformatik Master fehlt
+- Modulhandbuch Medieninformatik Master fehlt
+- Ziele-Module-Matrix Medieninformatik Master fehlt
+- Beispielzeugnis und Diploma Supplement Medieninformatik Master: [zeugnis.pdf](../anhaenge/ma-zeugnis.pdf)
 
-[^studienverlaufsplan-master]: Studienverlaufsplan Medieninformatik Master fehlt
-[^modulhandbuch-master]: Modulhandbuch Medieninformatik Master fehlt
-[^ziele-module-master]: Ziele-Module-Matrix Medieninformatik Master fehlt
-[^website-master]: [Website des Medieninformatik Master](https://www.th-koeln.de/studium/medieninformatik-master_3729.php) (abgerufen am 14.02.2017)
-[^ordnungen-master]: [Ordnungen zum Medieninformatik Master](https://www.th-koeln.de/studium/medieninformatik-master--ordnungen-und-formulare_3724.php) (abgerufen am 14.02.2017)
-[^zeugnis-master]: [Beispielzeugnis und Diploma Supplement Medieninformatik Master](../anhaenge/ma-zeugnis.pdf)
+
 
 
 
@@ -943,22 +938,68 @@ Der viersemestrige Masterstudiengang baut konsekutiv auf das Bachelorprogramm au
 
 ### Studienschwerpunkte
 
-![Abbildung: Schwerpunkte Medieninformatik Master](../anhaenge/bilder/ma-schwerpunkte.pdf)
-
 Zur individuellen Schwerpunktbildung bietet des Masterprogramm vier Möglichkeiten, die alle auf den im Bachelor gelegten Themenbieten aufbauen: Human-Computer Interaction, Social Computing, Visual Computing und Weaving the Web. Für Studierende, die ein generalistisch geprägtes Studium bevorzugen wird der Studienpfad "Multiperspective Product Development" angeboten, der sich aus ausgewählten Modulen der anderen Schwerpunkte und des Wahlplichtkatalogs speist. Dieser wird aus organisatorischen Gründen auch als Schwerpunkt aufgeführt.
 
+#### Mensch-Computer Interaktion
+Medieninformatik und Mensch-Computer Interaktion stehen in vielerlei Hinsicht in einem engen Zusammenhang. So beinhaltet etwa der Fachbereich „Mensch-Computer Interaktion“ der GI e.V. die Fachgruppe „Medieninformatik“[^fachgruppe-gi-hci].
+Im Zusammenhang mit der „third wave of HCI“ (Susan Bødker, 2006 und 2016) wird die aktuelle Bedeutung der Disziplin der Mensch-Computer Interaktion für die Gestaltung interaktiver System und insbesondere ihre Rolle für die Medieninformatik deutlich. Nach Bødker besteht eine aktuelle Herausforderung der 3rd wave of HCI insbesondere darin, dass sich die Trennlinie von Technologienutzung zwischen beruflichem/gewerblichem und privatem Bereich mehr und mehr auflöst. Medieninformatik befasst sich insbesondere mit interaktiven und multimedialen Systemen in gewerblichen und privaten Nutzungskontexten und adressiert demnach die Herausforderungen der 3rd wave of HCI.
+
+Dieser Schwerpunkt adressiert Kompetenzen, Fähigkeiten und Fertigkeiten die im Zusammenhang mit der Leitung und dem Management von Entwicklungsprojekten innovativer, interaktiver Systeme stehen. Dies umfasst die Nutzungskontexte in verschiedensten Anwendungsbereichen kritisch zu analysieren, Problemfelder zu identifizieren, Anforderungen zu spezifizieren, angemessene Vorgehen zur Lösungsentwicklung zu konzipieren und Gestaltungslösungen zu entwickeln und zu evaluieren. Absolventen dieses Schwerpunktes arbeiten als UX-Architects, Interaction Designer oder in Positionen mit ähnlichen Rollenbezeichnungen in Unternehmen/Institutionen und sind zentrale Entscheidungsträger, wenn es um die Entwicklung interaktiver Systeme aus Nutzungs -oder Nutzerperspektive geht. 
+
+Neben den vielfältigen weiterentwickelten Kompetenzen (formale, analytische, methodologische, gestalterische, technologische, etc.) haben sie die Befähigung zum fachlichen Diskurs vertieft und implementieren mit ihrer Kommunikationskompetenz eine wichtige Schnittstelle für die verschiedenen Stakeholder und Gewerke.
+
+#### Multi-Perspective Product Development
+
+Der Schwerpunkt „Multi-Perspective Product Development” bereitet die Studierenden auf die, für viele Projekte der Medieninformatik, typische Heterogenität vor, welche von der methodologischen über die technologische bis hin zur soziotechnischen Komponente reicht. Chakterisierende Merkmale solcher Projekte sind:
+
+- Berücksichtigung von und Kommunikation mit Stakeholdern mit jeweils eigenen Perspektiven, die durch ihre Fachsprache, Methoden und Techniken sowie entsprechende Fähigkeiten, Verantwortlichkeiten und Kompetenzen definiert werden.
+- Heterogene soziale, technologische und ökonomische Rahmenbedingungen wie z.B. 
+- die Anwendung von unterschiedlichen, agilen bis hin zu „schwergewichtigen” Vorgehensmodellen,
+- lokale Zusammenarbeit in kleinen Teams bis hin zu dezentraler Zusammenarbeit in großen, international und interdisziplinär aufgestellten Teams,
+- ein breites Spektrum der Projektgegenstände von kleinen, nativen Apps für mobile Geräte bis hin zu großen, geschäftskritischen, internationalisierbaren und responsiven Web-Anwendungen,
+- ein breites Spektrum der Projektkontexte von kleinen Inhouse-Projekten bis hin zu großen, organisationsübergreifenden internationalen Projekten.
+
+#### Social Computing
+
+Im Schwerpunkt „Social Computing“ werden die Wechselwirkungen zwischen Gesellschaft und Informatik in den Mittelpunkt gestellt. Rechnersysteme und Netzwerke werden von Menschen intentional gestaltet, ausgerichtet an gesellschaftlichen Normen, Prozessen und Bedürfnissen. Gleichzeitig beeinflussen IT-Systeme diese gesellschaftlichen Normen und verändern Prozesse in allen Lebensbereichen. Die verantwortungsbewusste Konzeption und Realisierung von soziotechnischen Systemen (z.B. Social Software, Online Communities, e-Health, e-Government und e-Learning Angebote) sowie die empirische Evaluation existierender Systeme sind zentrale Ziele. Lösungen sollen unter ganzheitlichen Gesichtspunkten entwickelt werden. Verschiedene Wertvorstellungen und Interessen unterschiedlicher Stakeholder müssen identifiziert und berücksichtig werden. 
+
+Der Schwerpunkt verbindet daher Theorien, Modelle und Methodik der Human- und Sozialwissenschaften mit anwendungsorientierter Informatik. Studierende sollen in der Lage sein, computergestützte Systeme nach ethischen, politischen, sozialen und psychologischen Kriterien bewerten, planen und umsetzen zu können. 
+
+Ziel ist es, soziale Innovation durch digitale Anwendungen entstehen zu lassen. Neben den empirischen Methoden werden Designmethoden vermittelt, sowohl auf der konzeptionellen als auch auf der softwaretechnischen Implementierungsebene, um robuste, sichere und flexible Systeme zu gestalten. 
+
+
+#### Visual Computing
+Der Studienschwerpunkt „Visual Computing” steht an der Schnittstelle von Computergrafik, Computer Vision, Mensch-Maschine-Kommunikation, Bild- und Videoverarbeitung, sowie Visualisierung. 
+
+Ziel des Studienschwerpunktes Visual Computing ist es, den Studierenden ein solides Fundament bildbasierter und bildgebender Verfahren zu vermitteln, indem die Entwicklung praktischer Algorithmen und Programme anhand ihrer theoretischen Grundlagen erlernt wird. Zusätzlich sollen die Studierenden in die Lage versetzt werden, die entwickelten Applikationen zu bewerten, zu präsentieren und auf ihre ethischen Konsequenzen hin zu prüfen.
+
+Die hohe Interdisziplinarität ist ein Innovationsfaktor und bietet Schlüsseltechnologien zur Lösung aktueller Problemstellungen in der Informatik, wie z.B. Virtual Engineering, Visual Analytics, Virtual- und Augmented Reality, Medizintechnik, Robotik, Animation und Bildsynthese. Anwendungen des Visual Computing finden sich in den verschiedensten Bereichen, z.B. in der Unterhaltungsindustrie (Visuelle Effekte, Computerspiele, Filmindustrie, 360° und 3D Videos), der Medizin (medizinische Bildverarbeitung, digitale Operationsplanung), der Automobilindustrie (Fahrerassistenzsysteme), der industriellen Fertigung (visuelle Qualitätskontrolle), der Internettechnologien und Mobilgeräte (Remote Rendering, Multimediale Datenbanken, Augmented Reality Anwendungen) und der digitalen Fotografie.
+
+#### Weaving the Web
+
+Im Studienschwerpunkt „Weaving the Web” wird die Entwicklung von Produkten und Diensten im Web in den Mittelpunkt gestellt. Dabei wird der gesamte Lebenszyklus von der Erarbeitung einer Vision, der eigentlichen Software Entwicklung bis hin zu der Verwertung als Produkt und/oder Publikation adressiert. 
+
+Als charakterisierende Merkmale für die Entwicklung von Produkten und Diensten im Web stehen:
+
+- die Einbettung in ein Netz von Prozessen und Informationsflüssen, die Dienste, Informationen, Personen und Geräte im Web zusammenfassen,
+
+- der Fokus auf Offenheit, sowohl bei den verwendeten Technologien, Frameworks und Plattformen als auch die Haltung in der Kommunikation im Team und gegenüber der Community und
+
+- die konsequente Anwendung agiler Vorgehensmodelle sowie die Nutzung des Wissens und des kreativen Potentials von Nutzern durch Community Managenent. 
+
+Der Titel der Studienrichtung, „Weaving the Web” wurde gewählt, da neben dem klassischen Software Engineering vor allem auch die Integration eigener Produkte und Dienste in das Web thematisiert wird.
+
+ 
 
 ### Studienphasen und -säulen
 
-![Abbildung: Elemente des Masterprogramms bei Studienstart im Wintersemester](../anhaenge/bilder/ma-saeulen.pdf)
+![Abbildung: Struktur der ersten drei Studiensemester des Masterprogramms bei Studienstart im Wintersemester](../anhaenge/bilder/ma-struktur.pdf)
 
 Jedes der ersten drei Fachsemester steht unter einer übergreifenden Leitfrage. Diese Fragen sind, ähnlich wie im Bachelorprogramm, am groben Ablauf der Produktentwicklung ausgerichtet: "Vision & Konzept", "Entwicklung" und "Assessment/Evaluation, Forschung und Verwertung". Die Leitfragen sind vor allem für die Projekte relevant. Das vierte Fachsemester wird komplett von der Masterthesis ausgefüllt.
 
 Die ersten beiden Studiensemester setzen sich aus drei strukturierenden Elementen zusammen: Kernmodule, Schwerpunktmodule und Projekt. Die Kernmodule "Spezielle Gebiete der Mathematik", "Computerethik" und "Research Methods" sind für alle Studierende des Studienprogramms verbindlich, wogegen die Schwerpunktmodule abhängig vom jeweiligen Schwerpunkt sind. 
 
 Im dritten Semester können die Studierenden drei Module aus dem Katalog aller Module der Informatik Masterstudiengänge der Fakultät wählen und damit ihre Studieninhalte entsprechend ihres Schwerpunkts und der persönlichen Neigung ausprägen. 
-
-![Abbildung: Struktur der ersten drei Studiensemester des Masterprogramms bei Studienstart im Wintersemester](../anhaenge/bilder/ma-struktur.pdf)
 
 Jedes der ersten drei Fachsemester hat ein dezidiertes Projekt, das auf die jeweilige Leitfrage ausgerichtet ist. An den Projekten können Studierende aus den verschiedenen Schwerpunkten teilnehmen, um hier eine Fragestellung gezielt aus verschiedenen Perspektiven zu beleuchten. Der Grundgedanke ist, dass in jedem Semester nur die Phase der entsprechenden Leitfrage durchlaufen und so abgeschlossen und aufbereitet wird, das im nächsten Semester oder zu einem späteren Zeitpunkt eine anderes Team auf den Ergebnissen aufsetzen kann. Diese Herangehensweise hat folgende Vorteile:
 - Bearbeitung von komplexen (Forschungs-) Fragestellungen 
@@ -995,7 +1036,7 @@ Die inhaltliche Offenheit des dritten Fachsemesters mit drei Wahlpflichtmodulen 
 [^pruefungsordnung-master]: Prüfungsordnung Medieninformatik Master(entwurf): [MIMPO_Entwurf_ohne_Anm_Sz20170218.pdf](../anhaenge/MIMPO_Entwurf_ohne_Anm_Sz20170218.pdf)
 [^ziele-module-bachelor]: Ziele-Module-Matrix Medieninformatik Bachelor: [Ziele-Module-Matrix-Medieninformatik-Bachelor.pdf](../anhaenge/Ziele-Module-Matrix-Medieninformatik-Bachelor.pdf) (abgerufen am 13.02.2017)
 [^ziele-module-master]: Ziele-Module-Matrix Medieninformatik Master fehlt
-
+[^fachgruppe-gi-hci]: Fachbereich Mensch-Computer-Interaktion (MCI)/ Fachgruppe Medieninformatik: [http://fb-mci.gi.de/mensch-computer-interaktion-mci/fachgruppen/medieninformatik.html](http://fb-mci.gi.de/mensch-computer-interaktion-mci/fachgruppen/medieninformatik.html)
 
 # Studierbarkeit
 
@@ -1151,13 +1192,42 @@ Darüber hinaus bietet die Medieninformatik einige Veranstaltungen (siehe außer
 >-   Statistische Daten zum Studienverlauf, z.B. Durchschnittsnote, Durchfallquote, Anzahl der Wiederholungen
 
 
+## Prüfungsprozesse
+
+Der Campus Gummersbach der TH Köln hat ganzheitliches Qualitäts-Management-System nach ISO 9001:2008 umgesetzt. Die beschriebenen Prozesse sind verbindlich für alle Mitarbeiterinnen und Mitarbeiter. Die Prozessbeschreibung beinhaltet die Vorgehensweisen, Teilprozesse, Schnistellen, mitgeltenden Informationen, Zuständigkeiten und Verantwortlichkeiten für die einzelnen Prozesse. Darüber sind auch alle prüfungsrelvanten Prozesse abgebildet. Die folgenden Prozessdokumentationen können diesbezüglich eingesehen werden.
+
+- Überblick über den Prüfungsprozess: [Prozessbeschreibung_PruefungsprozessUeberblick.pdf](../anhaenge/Prozessbeschreibung_PruefungsprozessUeberblick.pdf)
+- Prüfungsordnungsprozess: [Prozessbeschreibung_Pruefungsordnungsprozess.pdf](../anhaenge/Prozessbeschreibung_Pruefungsordnungsprozess.pdf)
+- Prozess zu Prüfungsplanung: [Prozessbeschreibung_Pruefungplanung.pdf](../anhaenge/Prozessbeschreibung_Pruefungplanung.pdf)
+- Prozess zu Prüfunungsdurchführung: [Prozessbeschreibung_Pruefungdurchfuehren.pdf](../anhaenge/Prozessbeschreibung_Pruefungdurchfuehren.pdf)
+- Prozess beim Rücktritt von Prüfungen: [Prozessbeschreibung_vonPruefungzuruecktreten.pdf](../anhaenge/Prozessbeschreibung_vonPruefungzuruecktreten.pdf)
+- Prozess beim Einspruch gegen Prüfungsergebnisse: [Prozessbeschreibung_EinspruchPruefungsergebnisse.pdf](../anhaenge/Prozessbeschreibung_EinspruchPruefungsergebnisse.pdf)
+
+
 ## Studien/Prüfungsordnungen
-Die Studien- und Prüfungsordnungen der laufenden Studiengänge sind dem Anhang G dieses Berichts beigefügt. Der Studienverlaufsplan entspricht der Studienordnung. Nach Zustimmung der Gutachter zu den in den Abschnitten 1 und 1 erläuterten Änderungen im Rahmen der Reakkreditierung werden die überarbeiteten Prüfungsordnungen zeitnah vorgelegt.
 
-~~~
-sm: hier stimmt noch was mit den Abschnitten nicht. Welche Abschnitte sind gemeint?
-~~~
+Die Prüfungsordnungen regeln das Studium und die Prüfungen in den Studiengängen Medieninformatik Bachelor und Medieninformatik Master an der TH Köln. Auf der Grundlage dieser Prüfungsordnungen erstellt die TH Köln einen Studienverlaufsplan und ein Modulhandbuch. Der Studienverlaufsplan dient als Empfehlung an die Studierenden für einen sachgerechten Aufbau des Studiums. Das Modulhandbuch beschreibt Inhalt und Aufbau des Studiums unter Berücksichtigung der wissenschaftlichen und hochschuldidaktischen Entwicklung und der Anforderungen der beruflichen Praxis. Die Prüfungsordnungen und Studienverlaufspläne werden über die Website der TH Köln zugänglich gemacht.
 
+- Prüfungsordnung Medieninformatik Bachelor: [https://www.th-koeln.de/studium/medieninformatik-bachelor--ordnungen-und-formulare_3963.php](https://www.th-koeln.de/studium/medieninformatik-bachelor--ordnungen-und-formulare_3963.php)
+- Studienverlaufsplan Medieninformatik Bachelor: [ba-studienverlaufsplan.pdf](../anhaenge/ba-studienverlaufsplan.pdf)
+- Modulhandbuch Medieninformatik Bachelor: [ba-modulhandbuch.pdf](../anhaenge/ba-modulhandbuch.pdf)
+
+- Prüfungsordnung Medieninformatik Master (Entwurf): [MIMPO_Entwurf_ohne_Anm_Sz20170218.pdf](../anhaenge/MIMPO_Entwurf_ohne_Anm_Sz20170218.pdf)
+- Studienverlaufsplan Medieninformatik Master fehlt
+- Modulhandbuch Medieninformatik Master fehlt
+
+## Prüfungsplanung
+
+Die Prüfungsplanung wird über das Hochschulplanungssystem abgebildet. 
+
+- Beispielhafter Prüfungsplan: [pruefungsplan_mi.pdf](../anhaenge/pruefungsplan_mi.pdf)
+
+## Prüfungsstatistiken
+
+Zur Analyse der Prüfungserfolge und der Lernergebnisorientierung liegen eine Reihe von statistischen Daten vor. Eine wesentliche Analyse auf Basis dieser Daten ist die Überprüfung der Studierbarkeit. Als Indikator für eine gute Studierbarkeit, kann die Anzahl der abgelegten Prüfungen im vorgesehenen Fachsemester des Moduls angesehen werden. Ziel ist es, dass die Studierenden Prüfungen möglichst im selben Semester ablegen, in dem das Modul im Studienverlaufsplan verortet ist. Gelingt dies nicht, so kann ein Studienabschluss innerhalb der Regelstudienzeit nur schwer realisiert werden.
+
+- Analyse der Prüfungsteilnahme: [pruefungsstatistiken.pdf](../anhaenge/pruefungsplan_mi.pdf)
+- Tabelle über Fehlversuche und Rücktritte: [ba-pruefungen-fehlversuche-und-ruecktritte.pdf](../anhaenge/ba-pruefungen-fehlversuche-und-ruecktritte.pdf)
 
 # Studiengangsbezogene Kooperationen
 
