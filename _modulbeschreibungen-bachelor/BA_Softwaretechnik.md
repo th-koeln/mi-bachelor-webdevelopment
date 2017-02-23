@@ -16,7 +16,7 @@ type: pm
 ---
 
 ## Kurzbeschreibung:
-Prinzipien, Methoden und Techniken der modellbasierten methodische objektorientierte Softwareentwicklung
+Prinzipien, Methoden und Techniken der modellbasierten methodischen objektorientierten Softwareentwicklung
 
 ## Lehrform/SWS: 
 4 SWS: Vorlesung 2 SWS; Parktikum 2 SWS
@@ -34,11 +34,11 @@ Gesamtaufwand 150 h, davon
 Die Studierenden sollen befähigt werden, 
 - zu abstrahieren, Modelle zu entwickeln, Unterschiede zwischen Modell und Realität zu beurteilen sowie 
 - gegebene Modelle zu interpretieren, zu analysieren und zu bewerten, 
--  komplexe Systeme zu analysieren, im Team zu entwerfen und dabei im Rahmen methodischer Vorgehensweisen Techniken und Werkzeuge der objektorientierten Modellierung und Softwareentwicklung in den Aktivitäten Anforderungsermittlung, Softwarespezifizierung und Entwurf einzusetzen.
+-  um komplexe Systeme zu analysieren, im Team zu entwerfen und dabei im Rahmen methodischer Vorgehensweisen Techniken und Werkzeuge der objektorientierten Modellierung und Softwareentwicklung in den Aktivitäten Anforderungsermittlung, Softwarespezifizierung und Entwurf einzusetzen.
 
 ## Inhalt:
 
-Die Vorlesung gibt zunächst einen Überblick über das Gesamtgebiet Softwaretechnik und behandelt dann ausschließlich grundlegende „Informatikaspekte” der objektorientierten Softwareentwicklung. Als wesentliche Grundlage werden die wichtigsten Elemente der Unified Modelling Language (UML) vorgestellt und anhand kleinerer Beispiele erläutert. Danach werden typische Aktivitäten der Softwareentwicklung besprochen, wobei die UML als Modellierungssprache benutzt wird. Im Praktikum werden die Anwendung der Modellierungselemente und die Durchführung der Aktivitäten in Gruppenarbeit vertieft.  
+Die Vorlesung skizziert zunächst das Gesamtgebiet Softwaretechnik und behandelt dann ausschließlich grundlegende „Informatikaspekte” der objektorientierten Softwareentwicklung. Als wesentliche Grundlage werden die wichtigsten Elemente der Unified Modelling Language (UML) vorgestellt und anhand kleinerer Beispiele erläutert. Danach werden typische Aktivitäten der Softwareentwicklung besprochen, wobei die UML als Modellierungssprache benutzt wird. Im Praktikum werden die Anwendung der Modellierungselemente und die Durchführung der Aktivitäten in Gruppenarbeit vertieft.  
 
 Das Modul gliedert sich in folgende Inhalte: 
 - (10%) Softwareentwicklung im Überblick (Komplexität großer Software, Kernaktivitäten und unterstützende Aktivitäten); 
@@ -51,7 +51,7 @@ Das Modul gliedert sich in folgende Inhalte:
 Klausur 120 Minuten
 
 ## Medienformen:
-- Übungen
+- Flipped-Classroom mit Diskussion und Übungen als Einzel- und Kleinstgrupen
 - e-Vorlesungen (Video-Clips und Folien in elektronischer Form zum Selbststudium);
 - Vertiefende Materialien in elektronischer Form (z.B. SWEBOK)
 - Praktika in Kleingruppen, um die erlernten Modelle und Methoden einzuüben und zu vertiefen (Seminarraum, Rechnerlabor); In den Praktika werden Modellierungs- und Entwicklungswerkzeuge eingesetzt.
