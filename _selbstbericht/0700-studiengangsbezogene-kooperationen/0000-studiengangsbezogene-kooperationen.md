@@ -106,14 +106,10 @@ Durch zwei jährlich stattfindenden Veranstaltungen im Studiengang Medieninforma
 - Bei dem jeweils zu Eginn des Wintersemresters stattfindenden "Medieninformatik Showcase" werden herausagende studentische Projektarbeiten präsentiert und es wird über keynotes und Diskussionsveranstaltungen der Kontakt zu Unternehmen gepflegt.
 - Bei der jeweils zum Ende des Wintersemesters stattfindenden "Medieninformatik Projektbörse" stellen ausgewählte Unternehmen Kopperationsmöglichkeiten dar und es entstehen in der REgel zunächst durch die gemeinsame Betreuung von Abschlussarbeiten so immer wieder neue Kontakte.
 
-Das "IT-Forum Oberberg e.V." ist eine Initiative und ein Zusammenschluss interessierter - vorwiegend Oberbergischer- Unternehmen und Gewerbetreibender der IT-Branche (IT-Anbieter und -Nachfrager), der Industrie- und Handelskammer zu Köln - Zweigstelle Oberberg, sowie Bildungsträgern wie der Technischen Hochschule Köln - Campus Gummersbach und dem Berufskolleg des Oberbergischen Kreises. Es hat mittlerweile 56 Mitglieder und veranstaltet regelmäßig Leistungsschauen, an denen sich das Institut für Informatik beteiligt.
-
-Seit 2002 besteht ein Kooperationsvertrag mit dem Kreiskrankenhaus Gummersbach, der vom Rektor Prof. Dr. Metzner und dem Geschäftsführer des Kreiskrankenhauses, Hr. Finklenburg, im Beisein der lokalen Presse unterzeichnet wurde. Gegenstand dieser
-Zusammenarbeit sind sowohl Themen der Medizininformatik als auch der Wirtschaftsinformatik. Als Beispiele seien genannt: Prozessmodellierung und -optimierung, Entwicklung eines Patiententracking-Systems, Entwicklung eines Portals, Unterstützung bei
-der Einführung eines Arzt-Informationssystems und die Entwicklung von PDA-Anwendungen für den medizinischen Bereich. Das Ergebnis dieser Arbeiten ist in (Bärwolff, Victor, Hüsken "IT-Systeme in der Medizin", Vieweg Verlag, Wiesbaden, 2006, 1. Auflage) dokumentiert.
-
 Zu anderen Hochschulen oder Institutionen bestehen im Bereich der Informatik Verbindungen. Für die Medieninformatik von besonderer Bedeutung sind die Verbindungen zur Kunsthochschule für Medien in Köln, zum Frauenhofer Institut in Schloss Birlinghofen, und zu
 einigen Firmen aus dem RTL Firmenverbund sowie zum WDR. Seit 2005 lobt das Cologne Broadcasting Center der RTL Gruppe (CBC) jährlich den CBC-Preis aus, mit denen drei Abschlussarbeiten aus den Studiengängen der Medieninformatik prämiert werden.
+
+Das "IT-Forum Oberberg e.V." ist eine Initiative und ein Zusammenschluss interessierter - vorwiegend Oberbergischer- Unternehmen und Gewerbetreibender der IT-Branche (IT-Anbieter und -Nachfrager), der Industrie- und Handelskammer zu Köln - Zweigstelle Oberberg, sowie Bildungsträgern wie der Technischen Hochschule Köln - Campus Gummersbach und dem Berufskolleg des Oberbergischen Kreises. Es hat mittlerweile 56 Mitglieder und veranstaltet regelmäßig Leistungsschauen, an denen sich das Institut für Informatik beteiligt.
 
 ~~~
 me: Hat hier noch wer weitere Firmen?
