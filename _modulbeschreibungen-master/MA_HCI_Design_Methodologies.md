@@ -14,7 +14,7 @@ voraussetzungen-nach-pruefungsordnung:
 empfohlene-voraussetzungen: 
 published: true
 type: spm
-parent: SPM2
+parent: SPM1
 schwerpunkt: hci
 ---
 

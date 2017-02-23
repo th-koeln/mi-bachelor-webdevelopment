@@ -88,18 +88,13 @@ Das jährlich durchgeführte Medieninformatik-Filmfest dient zur Stärkung der I
 
 ### Beurteilung des Studienerfolgs auf der Basis von Absolventenbefragungen und Verbleibstudien
 
-Die folgenden Ausführungen beruhen auf der Datenerhebung[^anhang-verbleib-und-studienabbruch] zum 01.12.2015 für den Zeitraum 2011 bis 2015 und fokussieren die derzeit eingeschriebenen Studierenden, erfolgreiche Abschlüsse und Studienfachabbrecher im Medieninformatik-Bachelor.
+Die folgenden Ausführungen beruhen auf den Erhebungen der Studiernendenzahlen am Campus Gummersbach innerhalb des letzten Akkreditierungszeitraums und der Datenerhebung[^anhang-verbleib-und-studienabbruch] zum 01.12.2015 für den Zeitraum 2011 bis 2015 und fokussieren die derzeit eingeschriebenen Studierenden, erfolgreiche Abschlüsse und Studienfachabbrecher im Medieninformatik-Bachelor.
 
 
-{% include image.html url="tabellen/MI-BA-anzahl-studierende.svg" caption="Tabelle: Daten des Bachelorstudiengangs Medieninformatik" %}
+{% include image.html url="bilder/ba-anfaengerzahlen.svg" caption="Studienanfänger im Bachelorstudiengang Medieninformatik" %}
 
-| Semester   | Einschreibungen gesamt | Davon noch im Studium | Davon Abbruch | Davon Abschluss |
-| ---------- | ---------------------- | --------------------- | ------------- | --------------- |
-| WS 2010/11 | 96                     | 28 (29,2%)            | 30 (31,3%)    | 25 (26,0%)      |
-| WS 2011/12 | 141                    | 59 (41,8%)            | 48 (34,0%)    | 15 (10,6%)      |
-| WS 2012/13 | 144                    | 78 (54,2%)            | 42 (29,2%)    | 2 (1,4%)        |
 
-Die in Tabelle 1 dargestellten Zahlen zeigen einen stetig wachsenden Zulauf für den Bachelorstudiengang Medieninformatik, der ursprünglich für 63 Studierende ausgelegt wurde. Erfreulicherweise ist, trotz der im Rahmen der Fakultätsentwicklung und des Hochschulentwicklungsplans 2020[^anhang-hep-2020] steigenden Anfängerzahlen, eine gleichbleibende Abbrecherquote um die 30% zu erkennen. Die Zahlen zeigen leider auch eine niedrige Quote an Absolventen in Regelstudienzeit, die jedoch im Mittel aller Studiengänge der Fakultät 10 liegt. Nach den vorliegenden Prüfungsstatistiken (vgl. Prüfungsstatistiken [^Anhang-Pruefungsstatistiken]) ist mit einem proportionalen Anstieg der Absolventen zu rechnen.
+Die Zahlen zeigen einen stetig wachsenden Zulauf für den Bachelorstudiengang Medieninformatik, der ursprünglich für 63 Studierende ausgelegt wurde. Erfreulicherweise ist aus den letzten vorliegenden Zahlen von 2014, trotz der im Rahmen der Fakultätsentwicklung und des Hochschulentwicklungsplans 2020[^anhang-hep-2020] steigenden Anfängerzahlen, eine gleichbleibende Abbrecherquote um die 30%. Die Zahlen zeigen leider auch eine niedrige Quote an Absolventen in Regelstudienzeit, die jedoch im Mittel aller Studiengänge der Fakultät 10 liegt. Nach den vorliegenden Prüfungsstatistiken (vgl. Prüfungsstatistiken [^Anhang-Pruefungsstatistiken]) ist mit einem proportionalen Anstieg der Absolventen zu rechnen.
 
 Die im Rahmen der letzten Reakkreditierung eingebrachten Änderungen können hinsichtlich der Quote der Studienabbrecher bereits als recht erfolgreich bewertet werden. Vor allem die Auflösung der strikten, durch Zulassungsvoraussetzungen in der Prüfungsordnung verankerte Trennung von Grund- und Hauptstudium hat die Dauer des Fachstudiums definitiv verkürzt. Auch die Einführung des Moduls „Einführung in die Medieninformatik“ (EMI) erweist sich als sinnvoll und notwendig, um den Studierenden früh die Perspektiven und fachlichen Aspekte der Medieninformatik näher zu bringen.
 

@@ -15,8 +15,8 @@ voraussetzungen-nach-pruefungsordnung:
 empfohlene-voraussetzungen: Basismodul Mensch-Computer Interaktion, so wie durch die GI e.V. publiziert
 published: true
 type: spm
-parent: SPM1
-schwerpunkt: hci
+parent: SPM2
+schwerpunkt: hci, mpd
 ---
 
 ## Lehrform/SWS:

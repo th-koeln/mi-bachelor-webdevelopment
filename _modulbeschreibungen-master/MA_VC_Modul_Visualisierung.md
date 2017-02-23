@@ -15,7 +15,7 @@ empfohlene-voraussetzungen: Web-basierte Anwendungen 1 (aus dem Bachelor) bzw. K
 published: true
 type: spm
 parent: SPM3
-schwerpunkt: vc, mpd
+schwerpunkt: vc
 ---
 
 ## Kurzbeschreibung
