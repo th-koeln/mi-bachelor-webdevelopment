@@ -7,3 +7,5 @@
 *.fnt
 *.lof
 *.synctex.gz(busy)
+*.exp
+*.att

@@ -55,7 +55,7 @@ Zusammen mit dem Praxisprojekt und der Bachelorarbeit stehen somit 60 Creditpoin
 
 ### Projektorientierung und Aufbau der Projektgrößen
 
-Projektorientierung und forschendes Lernen sind seit der Erstakkreditierung des Studiengangs elementare Bestandteile des Studienkonzepts. Diese Ansätze haben in den letzten Jahren vermehrt Einzug in verschiedene Module erhalten. Um hier die Studierenden einerseits nicht zu überfordern, sie aber aber trotzdem an größere und komplexere Projekte und Fragestellungen heranzuführen, werden die Projektanteile und -gewichte im Studiengang behutsam aufgebaut. Das Module "Einführung in die Medieninformatik" startet im ersten Semester mit einem Projektanteil von 50% (2,5 CP) um die Studierenden initial mit dem Lehrformat "Projekt" im Hochschulkontext vertraut zu machen. Das Gewicht der Projekte wird dann im dritten und vierten Semester auf 5 Creditpoints erhöht. Das Modul "Entwicklungsprojekt" im fünften Semestern ist mit einem Gewicht von 10 Creditpoints ausgestattet und leitet über zum Praxisprojekt (10 CP) und der Bachelorarbeit (12 CP). Das Projektgewicht von 12 Creditpoints wird später, im konsekutiven Masterstudiengang, weiter geführt. 
+Projektorientierung und forschendes Lernen sind seit der Erstakkreditierung des Studiengangs elementare Bestandteile des Studienkonzepts. Diese Ansätze haben in den letzten Jahren vermehrt Einzug in verschiedene Module erhalten. Um hier die Studierenden einerseits nicht zu überfordern, sie aber aber trotzdem an größere und komplexere Projekte und Fragestellungen heranzuführen, werden die Projektanteile und -gewichte im Studiengang behutsam aufgebaut. Das Module "Einführung in die Medieninformatik" startet im ersten Semester mit einem Projektanteil von 50% (2,5 CP) um die Studierenden initial mit dem Lehrformat "Projekt" im Hochschulkontext vertraut zu machen. Das Gewicht der Projekte wird dann im dritten und vierten Semester auf 5 Creditpoints erhöht. Das Modul "Entwicklungsprojekt" im fünften Semestern ist mit einem Gewicht von 10 Creditpoints ausgestattet und leitet über zum Praxisprojekt (10 CP) und der Bachelorarbeit (12 CP). Das Projektgewicht von 12 Creditpoints wird später, im konsekutiven Masterstudiengang, weiter geführt. Ausgewählte Projekte können über die Profil2-Projektbörse[^profil2_projektboerse] auch für Studierende anderer Fakultäten zugänglich gemacht werden.
 
 ### Wissenschaftliches Arbeiten
 
@@ -170,11 +170,13 @@ Die inhaltliche Offenheit des dritten Fachsemesters mit drei Wahlpflichtmodulen 
 
 [^Abschlussarbeitsthemen-bachelor]: Themen der Abschlussabeiten des Medieninformatik Bachelor 2010 bis 2014: <a href="../anhaenge/abschlussarbeiten_2010-2014_.pdf">abschlussarbeiten_2010-2014_.pdf</a>
 [^profil-studienanfaenger-2017]: Profil der Studienanfänger: <a href="../anhaenge/profil-studienanfaenger-2017.xlsx">profil-studienanfaenger-2017.xlsx</a>
+[^profil2_projektboerse]: Profil<sup 2 /sup> Projektbörse: <a href="http://projektboerse-profil2.th-koeln.de/">Homepage Profil2 Projektbörse</a>
 [^studienverlaufsplan-bachelor]: Studienverlaufsplan Medieninformatik Bachelor fehlt
 [^modulhandbuch-bachelor]: Modulhandbuch Medieninformatik Bachelor fehlt
-[^studienverlaufsplan-master]: Studienverlaufsplan Medieninformatik Master fehlt
+[^studienverlaufsplan-master]: Studienverlaufsplan Medieninformatik : <a href="../anhaenge/Master ma-studienverlaufsplaene.pdf">Master ma-studienverlaufsplaene.pdf</a>
+- Beispielzeugnis und Diploma Supplement Medieninformatik Master: <a href="../anhaenge/ma-zeugnis.pdf">zeugnis.pdf</a>
 [^modulhandbuch-master]: Modulhandbuch Medieninformatik Master fehlt
 [^pruefungsordnung-master]: Prüfungsordnung Medieninformatik Master(entwurf): <a href="../anhaenge/MIMPO_Entwurf_ohne_Anm_Sz20170218.pdf">MIMPO_Entwurf_ohne_Anm_Sz20170218.pdf</a>
 [^ziele-module-bachelor]: Ziele-Module-Matrix Medieninformatik Bachelor: <a href="../anhaenge/Ziele-Module-Matrix-Medieninformatik-Bachelor.pdf">Ziele-Module-Matrix-Medieninformatik-Bachelor.pdf</a> (abgerufen am 13.02.2017)
-[^ziele-module-master]: Ziele-Module-Matrix Medieninformatik Master fehlt
+[^ziele-module-master]: Ziele-Module-Matrix Medieninformatik Master: <a href="../anhaenge/Ziele-Module-Matrix-Medieninformatik-Master.pdf">Ziele-Module-Matrix-Medieninformatik-Master.pdf</a>
 [^fachgruppe-gi-hci]: Fachbereich Mensch-Computer-Interaktion (MCI)/ Fachgruppe Medieninformatik: <a href="http://fb-mci.gi.de/mensch-computer-interaktion-mci/fachgruppen/medieninformatik.html">http://fb-mci.gi.de/mensch-computer-interaktion-mci/fachgruppen/medieninformatik.html</a>

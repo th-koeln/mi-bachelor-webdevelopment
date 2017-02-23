@@ -469,7 +469,11 @@ Lediglich das Vertiefungsmodul "Social Computing" ist nicht kapazitätsneutral, 
 
 # Geplante Veränderungen des Master-Studiengangs gegenüber dem aktuellen Akkreditierungszeitraum
 
-Die im Folgenden dargestellten geplanten Veränderungen des Masterstudienprogramms dienen zur Beseitigung erkannter Schwächen (vgl. Defizite Medieninformatik Master). Grundsätzlich wurde die Basisgröße der Module von fünf auf sechs Creditpoints erhöht. Module haben also stets ein Gewicht von sechs Creditpoints oder einem Vielfachen davon. Zum einen, um auch im Master die einzelnen Fachsemester weniger stark zu fragmentieren, zum anderen, um mit dem Informatik Masterstudiengang, der ebenfalls am Campus Gummersbach angeboten wird Module und Projekte teilen zu können. 
+Die im Folgenden dargestellten geplanten Veränderungen des Masterstudienprogramms dienen zur Beseitigung erkannter Schwächen (vgl. Defizite Medieninformatik Master). 
+
+## Einheitliches Modulraster 6 CP
+
+Grundsätzlich wurde die Basisgröße der Module von fünf auf sechs Creditpoints erhöht. Module haben also stets ein Gewicht von sechs Creditpoints oder einem Vielfachen davon. Dies spiegelt hauptsächlich den für viele Module auf Master-Niveau erhöhten Selbststudienanteil wider. Darüber hinaus werden durch diese Maßnahme auch strukturelle bzw. organisatorische Schwächen beseitigt. Zum einen werden auch im Master die einzelnen Fachsemester weniger stark fragmentiert, zum anderen werden Synergien zu dem Masterstudiengang *Informatik* ermöglicht, der ebenfalls am Campus Gummersbach angeboten wird, indem Module und Projekte studiengangsübergreifend angeboten werden können. 
 
 ## Schärfung des Profils
 
@@ -479,9 +483,21 @@ Mit der Profilschärfung sollen folgende bekannte Defizite ausgeglichen werden:
 - Fehlende Profilschärfung und sichtbarer Praxisbezug
 - Fehlende Möglichkeiten zur fachlichen Vertiefung
 
-Der Medieninformatik Masterstudiengang war bislang generalistisch geprägt. Im Zuge der Reakkreditierung ist hier eine Veränderung dahingehend geplant, dass Studierenden die Möglichkeit gegeben werden soll, sich in bestimmten Bereichen zu spezialisieren. Dafür werden Studienschwerpunkte geschaffen. Trotzdem soll weiterhin ein generalistischer Studienverlauf möglich sein.
+Der Medieninformatik Masterstudiengang erschien bislang eher generalistisch geprägt. Im Zuge der Reakkreditierung soll den Studierenden die Möglichkeit gegeben werden, sich in bestimmten Bereichen zu spezialisieren. Dafür werden bestimmte Module in Studienschwerpunkte geclustert.
 
-Aufbauend auf den thematischen Gebieten des Bachelorstudiengangs, die sich dort unter anderem in den Vertiefungsmodulen manifestieren, und ausgerichtet auf die Strategie des Instituts für Informatik, werden folgende Schwerpunkte angeboten: "Social Computing", "Visual Computing", "Weaving the Web" und "Human-Computer Interaction". Zur Abbildung eines generalistischen Studienverlaufs wird der Pseudo-Schwerpunkt "Multiperspective Product Development" angeboten, der sich aus ausgewählten Modulen der anderen Schwerpunkte und des Wahlpflichtkatalogs speist. Die Module der Schwerpunkte setzen sich zum großen Teil aus bestehenden Modulen des Pflicht- und Wahlbereichs zusammen. Für die Schwerpunkte "Visual Computing" und "Social Computing" wurden einige neue Module erarbeitet, da hier, in Einklang mit der inhaltlichen Strategie des Instituts, neue Themengebiete erschlossen oder verbreitert werden sollen.
+Den gemeinsamen Rahmen des zukünftigen Curriculums bilden drei Kern-Module und drei Projekte. Die Kern-Module sind
+
+- Spezielle Gebiete dder Mathematik,
+- Research Methods,
+- Computerethik.
+
+Die drei Projekte widmen sich jeweils einem für Projekte der Medieninformatik relevanten übergeordneten Fragestellung:
+
+- Projekt 1: Vision und Konzeption
+- Projekt 2: Entwicklung
+- Projekt 3: Forschung, Evaluation/Assessment, Verwertung
+
+Aufbauend auf den thematischen Gebieten des Bachelorstudiengangs, die sich dort unter anderem in den Vertiefungsmodulen manifestieren, und ausgerichtet auf die oben skizzierte Fortentwicklung des Fachgebietes *Medieninformatik* sowie die Strategie des Instituts für Informatik, werden folgende Schwerpunkte angeboten: "Social Computing", "Visual Computing", "Weaving the Web" und "Human-Computer Interaction". Einen wie bislang eher generalistischen Studienverlauf ermöglicht der Pseudo-Schwerpunkt "Multiperspective Product Development", der sich aus ausgewählten Modulen der anderen Schwerpunkte und des Wahlpflichtkatalogs speist. Die Module der Schwerpunkte sind sich zum großen Teil eine Fortführung bestehender Module des Pflicht- und Wahlbereichs des aktuellen Curriculums. Für die Schwerpunkte "Visual Computing" und "Social Computing" wurden einige neue Module erarbeitet, da hier, in Einklang mit der inhaltlichen Strategie des Instituts, neue Themengebiete erschlossen oder verbreitert werden sollen.
 
 Die Schwerpunkte setzen sich aus den folgenden Modulen zusammen:
 
@@ -534,12 +550,20 @@ Die Mitarbeit der Studierenden in Projekten trägt überdies zum Ausbau der Fors
 - Geringe internationale Ausrichtung
 - zu wenig Wahlmöglichkeiten
 
-Im dritten Fachsemester sind neben dem Projekt drei Wahlmodule vorgesehen, die im Gegensatz zum bisherigen Curriculum, an keinerlei weitere Regularien gebunden sind. Im aktuellen Curriculum werden die Wahlpflichtmodule in vier Kategorien eingeteilt und pro Kategorie muss ein Modul belegt werden. Die Kategorisierung der Wahlmodule führt jedoch nicht selten dazu, dass den Studierenden keine oder nur sehr wenige Optionen offen stehen. Im neuen Curriculum können als Wahlmodule alle Module des Medieninformatik- und des Informatik-Masterstudiengangs gewählt werden.
+Im dritten Fachsemester sind neben dem Projekt drei Wahlmodule vorgesehen, die - im Gegensatz zum bisherigen Curriculum - an keinerlei weitere Regularien gebunden sind. Im aktuellen Curriculum werden die Wahlpflichtmodule in vier Kategorien eingeteilt und pro Kategorie muss ein Modul belegt werden. Die Kategorisierung der Wahlmodule führt jedoch nicht selten dazu, dass den Studierenden keine oder nur sehr wenige Optionen offen stehen. Im neuen Curriculum können als Wahlmodule alle Module des Medieninformatik- und des Informatik-Masterstudiengangs gewählt werden.
 
 Durch die offene Gestaltung des dritten Fachsemesters eignet sich selbiges gut für ein Auslandssemester, da hier die Anerkennung von Modulen sehr leicht fallen sollte. 
 
 
 ## Auswirkungen auf die Lehrkapazität
+
+Wie oben dargelegt dient die Weiterentwicklung im Wesentlichen einer Profilschärfung des Masterstudiengangs Medieninformatik. Die eingeführten Studienschwerpunkte basieren dabei auf den bereits vorhandenen Modulen des Studiengangs. Die neu hinzugekommenen Module werden in der Regel von neuberufenen Professoren durchgeführt und wurden z.T. bereits als Wahlpflichtfächer im bisherigen Curriculum angeboten. Die Projekte werden Schwerpunkt- und Studiengangsübergreifend angeboten und können von allen Professorinnen und Professoren des Instituts für Informatik betreut werden. Die Auswirkungen auf die Lehrkapazität sind auch hier in einem vertretbaren Rahmen von zusätzlich ca. 25 SWS und werden größtenteils durch den bereits erfolgten Kapazitätsaufbau des Instituts für Informatik der Fakultät 10 sowie zum kleinen Teil durch Lehraufträge aufgefangen.
+
+In der folgenden Abbildung sind im linken Teil semesterweise die Pflichtmodule des aktuellen Curriculums dargestellt. Der rechte Teil zeigt die Module des zukünftigen Curriculums, wobei aus Gründen der Übersichtlichkeit keine Aufteilung nach Semestern vorgenommen wurde. Blau gefärbt sind die Kern-Module, Magenta die mindestens einem Schwerpunkt zugeordneten Module, Grün die Projektmodule und grau die Wahlpflich-Module. Die Pfeile zeigen die Weiterführung der Module des aktuellen Curriculums an.
+
+
+
+![Abbildung: Module des Masterstudiengangs Medieninformatik. Links das aktuelle und rechts das zukünftige Curriculum.](../anhaenge/bilder/ma-mpo3-mpo4.png)
 
 Erforderliche Module im aktuellen Curriculum (Pflichtmodule)
 - Spezielle Gebiete der Mathematik
@@ -566,11 +590,13 @@ Erforderliche Module im zukünftigen Curriculum (Pflichtmodule, auch der Schwerp
 - Computerethik
 - Research Methods
 - Spezielle Gebiete der Mathematik
+- Netzwerk-und Graphentheorie
+- Soziotechnische Entwurfsmuster
 - Interaction Design
 - Design Methodologies
 - Angewandte Statistik für die Mensch-Computer Interaktion
 - Sicherheit, Privatsphäre und Vertrauen im Netz
-- Qualitätssicherung für Web-Anwendungen
+- Qualitätssicherung und -management
 - Storytelling und Narrative Strukturen
 - Bildbasierte Computergrafik
 - Visualisierung
@@ -579,8 +605,6 @@ Erforderliche Module im zukünftigen Curriculum (Pflichtmodule, auch der Schwerp
 - Projektarbeit - Vision und Konzept
 - Projektarbeit - Entwicklung
 - Projektarbeit - Assessment/Evaluation, Forschung und Verwertung 
-- Netzwerk-und Graphentheorie
-- Soziotechnische Entwurfsmuster
 
 
 
@@ -753,9 +777,6 @@ Absolventinnen und Absolventen des Bachelorstudiengangs Medieninformatik:
 
 # Qualifikationsziele Medieninformatik Master
 
-~~~
-@mario: Kannst Du da bitte mal drüber gucken?
-~~~
 
 ## Leitbild Medieninformatik Master
 
@@ -800,21 +821,18 @@ Absolventinnen und Absolventen des Masterstudiengangs Medieninformatik:
 
 # Konzeptionelle Einordnung des Studiengangs in das Studiensystem
 
->  Der Studiengang entspricht
->
->  \(1) den Anforderungen des Qualifikationsrahmens für deutsche
->  Hochschulabschlüsse vom 21.04.2005 in der jeweils gültigen Fassung,
->
->  \(2) den Anforderungen der Ländergemeinsamen Strukturvorgaben für die
->  Akkreditierung von Bachelor- und Masterstudiengängen vom 10.10.2003 in
->  der jeweils gültigen Fassung,
->
->  \(3) landesspezifischen Strukturvorgaben für die Akkreditierung von
->  Bachelor- und Masterstudiengängen,
->
->  \(4) der verbindlichen Auslegung und Zusammenfassung von (1) bis (3)
->  durch den Akkreditierungsrat.
->  
+Beide zu reakkreditierende Studiengänge entsprechen weiterhin
+
+1. den Anforderungen des Qualifikationsrahmens für deutsche Hochschulabschlüsse vom 21.04.2005 in der jeweils gültigen Fassung,
+
+2. den Anforderungen der Ländergemeinsamen Strukturvorgaben für die Akkreditierung von Bachelor- und Masterstudiengängen vom 10.10.2003 in der jeweils gültigen Fassung,
+
+3. den landesspezifischen Strukturvorgaben für die Akkreditierung von Bachelor- und Masterstudiengängen,
+
+4. der verbindlichen Auslegung und Zusammenfassung von (1.) bis (3.) durch den Akkreditierungsrat.
+
+Darüber hinaus wurden bei der Überarbeitung der Studiengänge die aktuellen Empfehlungen für Bachelor- und Masterprogramme im Studienfach Informatik (Stand: 01.07.2016) der Gesellschaft für Informatik zugrunde gelegt.
+  
 >**Leitfragen**
 >
 >-   Inwieweit sehen die für den Studiengang Verantwortlichen die im Kriterium genannten Anforderungen (insbesondere ländergemeinsame und ggf. landesspezifische Strukturvorgaben) eingehalten? Wo sieht die Hochschule Abweichungen und wie sind diese begründet?
@@ -843,10 +861,13 @@ Absolventinnen und Absolventen des Masterstudiengangs Medieninformatik:
 >
 >-   exemplarisches Transcript of Records je Studiengang
 
-~~~
-@kristian, @gerhard, @mario: kann einer von euch was dazu schreiben? Ich hab keine Peilung, was die da wollen :/
-~~~
-
+### Weiterführende Dokumente
+- Website des Medieninformatik Master: [https://www.th-koeln.de/studium/medieninformatik-master_3729.php](https://www.th-koeln.de/studium/medieninformatik-master_3729.php)
+- Ordnungen zum Medieninformatik Master: [https://www.th-koeln.de/studium/medieninformatik-master--ordnungen-und-formulare_3724.php](https://www.th-koeln.de/studium/medieninformatik-master--ordnungen-und-formulare_3724.php)
+- Studienverlaufsplan Medieninformatik : [Master ma-studienverlaufsplaene.pdf](../anhaenge/Master ma-studienverlaufsplaene.pdf)
+- Modulhandbuch Medieninformatik Master fehlt
+- Ziele-Module-Matrix Medieninformatik Master: [Ziele-Module-Matrix-Medieninformatik-Master.pdf](../anhaenge/Ziele-Module-Matrix-Medieninformatik-Master.pdf)
+- Beispielzeugnis und Diploma Supplement Medieninformatik Master: [zeugnis.pdf](../anhaenge/ma-zeugnis.pdf)
 
 
 # Studiengangskonzept
@@ -898,7 +919,7 @@ Zusammen mit dem Praxisprojekt und der Bachelorarbeit stehen somit 60 Creditpoin
 
 ### Projektorientierung und Aufbau der Projektgrößen
 
-Projektorientierung und forschendes Lernen sind seit der Erstakkreditierung des Studiengangs elementare Bestandteile des Studienkonzepts. Diese Ansätze haben in den letzten Jahren vermehrt Einzug in verschiedene Module erhalten. Um hier die Studierenden einerseits nicht zu überfordern, sie aber aber trotzdem an größere und komplexere Projekte und Fragestellungen heranzuführen, werden die Projektanteile und -gewichte im Studiengang behutsam aufgebaut. Das Module "Einführung in die Medieninformatik" startet im ersten Semester mit einem Projektanteil von 50% (2,5 CP) um die Studierenden initial mit dem Lehrformat "Projekt" im Hochschulkontext vertraut zu machen. Das Gewicht der Projekte wird dann im dritten und vierten Semester auf 5 Creditpoints erhöht. Das Modul "Entwicklungsprojekt" im fünften Semestern ist mit einem Gewicht von 10 Creditpoints ausgestattet und leitet über zum Praxisprojekt (10 CP) und der Bachelorarbeit (12 CP). Das Projektgewicht von 12 Creditpoints wird später, im konsekutiven Masterstudiengang, weiter geführt. 
+Projektorientierung und forschendes Lernen sind seit der Erstakkreditierung des Studiengangs elementare Bestandteile des Studienkonzepts. Diese Ansätze haben in den letzten Jahren vermehrt Einzug in verschiedene Module erhalten. Um hier die Studierenden einerseits nicht zu überfordern, sie aber aber trotzdem an größere und komplexere Projekte und Fragestellungen heranzuführen, werden die Projektanteile und -gewichte im Studiengang behutsam aufgebaut. Das Module "Einführung in die Medieninformatik" startet im ersten Semester mit einem Projektanteil von 50% (2,5 CP) um die Studierenden initial mit dem Lehrformat "Projekt" im Hochschulkontext vertraut zu machen. Das Gewicht der Projekte wird dann im dritten und vierten Semester auf 5 Creditpoints erhöht. Das Modul "Entwicklungsprojekt" im fünften Semestern ist mit einem Gewicht von 10 Creditpoints ausgestattet und leitet über zum Praxisprojekt (10 CP) und der Bachelorarbeit (12 CP). Das Projektgewicht von 12 Creditpoints wird später, im konsekutiven Masterstudiengang, weiter geführt. Ausgewählte Projekte können über die Profil2-Projektbörse[^profil2_projektboerse] auch für Studierende anderer Fakultäten zugänglich gemacht werden.
 
 ### Wissenschaftliches Arbeiten
 
@@ -915,6 +936,8 @@ Wissenschaftliches Arbeiten wird beginnend im ersten Semester in der Veranstaltu
 ## Master
 
 Der viersemestrige Masterstudiengang baut konsekutiv auf das Bachelorprogramm auf. Im Gegensatz zum Bachelorstudium, sind hier Einschreibungen im Sommer- und Wintersemester möglich. Dies führt zu unterschiedlichen Studienverlaufplänen in Abhängigkeit des Einschreibesemesters.
+
+Aufgrund der bereits oben betonten Notwendigkeit einer professionellen Differenzierung und Profilschärfung strukturiert sich der Masterstudiengang Medieninformatik neben dem gemeinsamen Grundlagenstudium und der starken Projektorientierung in mehrere Studienschwerpunkte.
 
 ### Studienschwerpunkte
 
@@ -1011,14 +1034,17 @@ Die inhaltliche Offenheit des dritten Fachsemesters mit drei Wahlpflichtmodulen 
 
 [^Abschlussarbeitsthemen-bachelor]: Themen der Abschlussabeiten des Medieninformatik Bachelor 2010 bis 2014: [abschlussarbeiten_2010-2014_.pdf](../anhaenge/abschlussarbeiten_2010-2014_.pdf)
 [^profil-studienanfaenger-2017]: Profil der Studienanfänger: [profil-studienanfaenger-2017.xlsx](../anhaenge/profil-studienanfaenger-2017.xlsx)
+[^profil2_projektboerse]: Profil<sup 2 /sup> Projektbörse: [Homepage Profil2 Projektbörse](http://projektboerse-profil2.th-koeln.de/)
 [^studienverlaufsplan-bachelor]: Studienverlaufsplan Medieninformatik Bachelor fehlt
 [^modulhandbuch-bachelor]: Modulhandbuch Medieninformatik Bachelor fehlt
-[^studienverlaufsplan-master]: Studienverlaufsplan Medieninformatik Master fehlt
+[^studienverlaufsplan-master]: Studienverlaufsplan Medieninformatik : [Master ma-studienverlaufsplaene.pdf](../anhaenge/Master ma-studienverlaufsplaene.pdf)
+- Beispielzeugnis und Diploma Supplement Medieninformatik Master: [zeugnis.pdf](../anhaenge/ma-zeugnis.pdf)
 [^modulhandbuch-master]: Modulhandbuch Medieninformatik Master fehlt
 [^pruefungsordnung-master]: Prüfungsordnung Medieninformatik Master(entwurf): [MIMPO_Entwurf_ohne_Anm_Sz20170218.pdf](../anhaenge/MIMPO_Entwurf_ohne_Anm_Sz20170218.pdf)
 [^ziele-module-bachelor]: Ziele-Module-Matrix Medieninformatik Bachelor: [Ziele-Module-Matrix-Medieninformatik-Bachelor.pdf](../anhaenge/Ziele-Module-Matrix-Medieninformatik-Bachelor.pdf) (abgerufen am 13.02.2017)
-[^ziele-module-master]: Ziele-Module-Matrix Medieninformatik Master fehlt
+[^ziele-module-master]: Ziele-Module-Matrix Medieninformatik Master: [Ziele-Module-Matrix-Medieninformatik-Master.pdf](../anhaenge/Ziele-Module-Matrix-Medieninformatik-Master.pdf)
 [^fachgruppe-gi-hci]: Fachbereich Mensch-Computer-Interaktion (MCI)/ Fachgruppe Medieninformatik: [http://fb-mci.gi.de/mensch-computer-interaktion-mci/fachgruppen/medieninformatik.html](http://fb-mci.gi.de/mensch-computer-interaktion-mci/fachgruppen/medieninformatik.html)
+
 
 # Studierbarkeit
 
@@ -1093,8 +1119,16 @@ Keine
 
 ## Master Medieninformatik
 
-Als Voraussetzung für die Aufnahme des Studiums wird ein Bachelor oder Diplom- Abschluss einer deutschen Fachhochschule oder Universität in Informatik oder ein gleichwertiger Abschluss gefordert.
-Liegt ein anderer Hochschulabschluss vor, so können die Voraussetzungen für das Studium auch durch eine einschlägige Berufspraxis von in der Regel mindestens zwei Jahren in einem für die Medieninformatik relevanten Tätigkeitsfeld erbracht werden. Bei Vorliegen eines anderen Hochschulabschlusses als oben festgelegt, müssen durch die Berufspraxis Qualifikationen in Informatik erworben worden sein, die den Qualifikationen eines Bachelorabsolventen in Informatik äquivalent sind. Eine vom Prüfungsausschuss benannte Kommission, bestehend aus zwei Professoren oder Professorinnen der Fakultät für Informatik und Ingenieurwissenschaften, entscheidet, ob bei dem Bewerber oder der Bewerberin die für die Aufnahme des Studiums notwendigen fachlichen Qualifikationen vorliegen.
+Die Einschreibung zum Studium erfolgt studienschwerpunktbezogen. 
+
+### Zugangsvoraussetzungen
+
+Als Voraussetzung für die Aufnahme des Studiums wird der erfolgreiche Abschluss eines Hochschulstudiums in einem Studiengang der Informatik mit dem Mindestabschlussgrad „Bachelor of Science“ oder eines anderen einschlägigen Studiengangs gefordert. Ein Studiengang gilt als einschlägig, wenn dieser Studiengang Informatik-Inhalte von mindestens 75 ECTS beinhaltet. Die Entscheidung über die Einschlägigkeit trifft im Zweifel der Prüfungsausschuss. 
+
+Studienbewerberinnen und -bewerber, die die Qualifikation nach Absatz 1 besitzen und zusätzlich Kenntnisse und Fähigkeiten auf andere Weise als durch ein Studium erworben haben, sind nach dem Ergebnis der Einstufungsprüfung gem. § 49 Abs. 12 45 HG in einem entsprechenden Abschnitt des Studienganges zum Studium zuzulassen, soweit nicht Regelungen über die Vergabe von Studienplätzen entgegenstehen. Das Nähere regelt die Einstufungsprüfungsordnung der Technischen Hochschule Köln.
+
+### Fremdsprachenkenntnisse, Deutschkenntnisse
+Fremdsprachenkenntnisse, die über das Maß der durch den schulischen Abschluss gegebenen Fremdsprachenkenntnisse hinausgehen, sind nicht gefordert. Die Deutschkenntnisse ausländischer Studierender werden i.d.R. durch Ablegen der Deutschen Sprachprüfung für den Hochschulzugang (DSH II) oder eine äquivalente Prüfung nachgewiesen; für nähere Informationen sowie Einzelfallregelungen ist das International Office der TH Köln zuständig[^int-office].
 
 ## Struktur
 Im Anhang K sind die Studienverlaufspläne der einzelnen Studiengänge enthalten, für die eine Akkreditierung beantragt wird. Das Studium umfasst im Bachelor jeweils insgesamt 180 ECTS Punkte und 144 Semesterwochenstunden Semesterwochenstunden. Dies entspricht durchschnittlich 24 SWS je Semester. Die Inhalte der Module sind in dem entsprechenden Modulhandbuch dargestellt.
@@ -1150,6 +1184,7 @@ Darüber hinaus bietet die Medieninformatik einige Veranstaltungen (siehe außer
 [^pruefungsordnung-bachelor]: Prüfungsordnung Medieninformatik Bachelor: [https://www.th-koeln.de/studium/medieninformatik-bachelor--ordnungen-und-formulare_3963.php](https://www.th-koeln.de/studium/medieninformatik-bachelor--ordnungen-und-formulare_3963.php)
 [^pruefungsordnung-master]: Prüfungsordnung Medieninformatik Master (Entwurf): [MIMPO_Entwurf_ohne_Anm_Sz20170218.pdf](../anhaenge/MIMPO_Entwurf_ohne_Anm_Sz20170218.pdf)
 
+
 # Prüfungssystem
 
 ## Prüfungsprozesse
@@ -1203,22 +1238,30 @@ Zur Analyse der Prüfungserfolge und der Lernergebnisorientierung liegen eine Re
 >-   Kooperationsverträge, Regeln für interne/externe Kooperationen
 
 ## Hochschulinterne Zusammenarbeit
-~~~
-me: Ist das folgende noch aktuell?
-~~~
 
 ### Fakultätsübergreifende Zusammenarbeit
-Innerhalb der Hochschule wird eine enge Kooperation mit einigen in Köln angesiedelten Fakultäten gepflegt. Zu nennen sind hier vor allem die Bereiche Design, Photoingenieurwesen, Wirtschaft, Informationswissenschaften und Sozialwissenschaften.
-Mit der „Köln International School of Design“ als interne Einrichtung der „Fakultät für Kulturwissenschaften“ (Fakultät 02) und der „Fakultät für angewandte Sozialwissenschaften“ (Fakultät 01) werden gemeinsame Lehrveranstaltungen durchgeführt.
-Das Modul „Wissensmanagement“ des Masterstudiengangs bspw. wird von der „Fakultät für Wirtschaftswissenschaften“ der Fachhochschule Köln (Fakultät 04) importiert.
+Innerhalb der Hochschule wird eine enge Kooperation mit einigen in Köln angesiedelten Fakultäten gepflegt. Zu nennen sind hier vor allem die Bereiche Design, Informations-, Medien- und Elektrotechnik, Wirtschafts- und Rechtswissenschaften, Informations- und Kommunikationswissenschaften sowie angewandte Sozialwissenschaften.
+
+Mit der „Köln International School of Design“ als interne Einrichtung der „Fakultät für Kulturwissenschaften“ (Fakultät 02) und der „Fakultät für angewandte Sozialwissenschaften“ (Fakultät 01) werden gemeinsame Lehrveranstaltungen durchgeführt. Das Modul „Wissensmanagement“ des Masterstudiengangs bspw. wurde bereits mehrfach von der „Fakultät für Wirtschafts- und Rechtswissenschaften“ der Fachhochschule Köln (Fakultät 04) importiert. 
+
+~~~
+MW: Muss noch von CK und CN ergänzt und präzisiert werden
+~~~
+Die Errichtung eines kooperativen Studiengangs eScience ist geplant.
+
+Ein gemeinsamer Studiengang "Code University" mit der Fakultät für Informations-, Medien- und Elektrotechnik sowie der KISD ist beantragt, der sich u.A. aus Inhalten der zu reakkreditierenden Studiengänge speist und mit dem entsprechende Synergien geschöpft werden sollen.
+
 Das Institut für Informatik und das Institut für Automation & IT sind ferner im Forschungsschwerpunkt COSA (s Kap. 5.1.3.3) synergetisch verbunden.
 
 ### Fakultätsinterne Zusammenarbeit
 Innerhalb der Fakultät sind die Institute „Betriebswirtschaftliches Institut Gummersbach (BIG)“ und das „Institut für Distance Learning & Further Education (IDF)“ mit verschiedenen Modulen in die Bachelor- und Masterstudiengängen involviert.
 
-Innerhalb der Fakultät 10 für Informatik und Ingenieurwissenschaften besteht naturgemäß in der Lehre, Forschung und Entwicklung eine enge Zusammenarbeit mit den in Gummersbach angesiedelten ingenieurwissenschaftlichen Instituten. Dies drückt sich in einer Vielzahl von gemeinsamen Projekten, betreuten Abschlussarbeiten sowie einem fachübergreifenden Lehrexport und Import zwischen den beiden Lehreinheiten aus.
+Innerhalb der Fakultät 10 für Informatik und Ingenieurwissenschaften besteht naturgemäß in der Lehre, Forschung und Entwicklung eine enge Zusammenarbeit mit den in Gummersbach angesiedelten ingenieurwissenschaftlichen Instituten und Forschungsschwerpunkten. Dies drückt sich in einer Vielzahl von gemeinsamen Projekten, betreuten Abschlussarbeiten sowie einem fachübergreifenden Lehrexport und Import zwischen den beiden Lehreinheiten aus.
 
 ## Externe Kooperation mit Hochschulen und Firmen
+
+### Kooperationen mit nationalen Hochschulen
+Seit mehreren Jahren besteht im Rahmen von Promotionsvorhaben eine einge Kooperation mit der Universität Paderborn, s-lab, Prof.Dr. Gregor Engels. Es werden regelmäßig Lehrveranstaltungen von promovierenden Mitarbeitern durchgeführt. Weitere Kooperationen insbesondere im Bereich der Qualitätssicherung bestehen mit der Hochschule Bremen, Prof. Dr. Andreas Spillner, und der Hochschule Bremerhaven, Prof. Dr. Karin Vosseberg. Im Bereich Forschendes und Projektbasiertes Lehren und Lernen besteht eine Kooperation mit der Univeresität Köln, Dr. Dirk Rohr.
 
 ### Kooperationen mit internationalen Hochschulen
 Erste Kooperationsprojekte mit ausländischen Hochschulen datieren auf den Beginn der 80-iger Jahre. Damals wurde eine Kooperation (Erasmus-Kontrakt) mit der École Centrale de Lille abgeschlossen. Diese Kooperation existiert noch heute und regelt den Austausch auf Sokrates- und ERASMUS-Ebene von Professoren und insbesondere Studierenden.
@@ -1226,7 +1269,7 @@ Erste Kooperationsprojekte mit ausländischen Hochschulen datieren auf den Begin
 Unter den gleichen formalen Bedingungen existiert seit vielen Jahren eine Kooperation mit der Université Blaise Pascal in Clermont-Ferrand und der École pour l’Informatique et les Techniques Avancées à Paris (ÉPITA). Mit ÉPITA findet ein regelmäßiger Studierenden und Dozentenaustausch statt. 
 
 ~~~
-me: Zahlen müssen aktualisiert werden
+me: Zahlen müssen noch aktualisiert werden
 ~~~
 Seit 1994 existiert die Partnerschaft mit der staatlichen Universität für das Verkehrswesen in Moskau (Moskowskij Gosudarstwennyi Universitet Putej Soobschtschenija – kurz MIIT). Bisher wurden über 20 russische Studierende und Doktoranden i.d.R. in 1-jährigen Studien-, Praxis- und Forschungsaufenthalte durch die Fakultät betreut. Umgekehrt sind bisher ca. 10 deutsche Studierende und wissenschaftliche Mitarbeiter an die russische Partnerhochschule zwecks Durchführung von Studien- und Forschungsprojekten bzw. Kurzzeitdozenturen gegangen.
 
@@ -1467,54 +1510,7 @@ Das Kompetenzteam Hochschuldidaktik der TH Köln bietet für alle Lehrenden hoch
 Alle Lehrenden des Instituts für Informatik finden Sie auf der Website der TH Köln unter [http://bit.ly/2mpcbWN](http://bit.ly/2mbFEYc)
 
 
-# Transparenz und Dokumentation
-
->Studiengang, Studienverlauf, Prüfungsanforderungen und Zugangsvoraussetzungen ein-schließlich der Nachteilsausgleichsregelungen für Studierende mit Behinderung sind dokumentiert und veröffentlicht.
->
->**Leitfragen**
->
->-   Wie wird sichergestellt, dass inländische und ausländische Studierende ihre Rechte und Pflichten kennen?
->
->-   Wer hat die Entscheidungsbefugnis über welche Dokumente?
->
->**Mögliche Evidenzen**
->
->-   Vorlage aller relevanten Regelungen zu Studienverlauf, Zugang, Studienabschluss, Prüfungen, Qualitätssicherung etc., mit Angabe zum Status der Verbindlichkeit
->
->-   Verweis auf die Stelle, an der diese veröffentlicht sind, z.B. Webseiten
-
-# Qualitätssicherung und Weiterentwicklung
-
-
->Ergebnisse des hochschulinternen Qualitätsmanagements werden bei den Weiterentwicklungen des Studienganges berücksichtigt. Dabei berücksichtigt die Hochschule Evaluationsergebnisse, Untersuchungen der studentischen Arbeitsbelastung, des Studienerfolgs und des Absolventenverbleibs.
->
->**Leitfragen**
->
->-   Welche Maßnahmen zur Qualitätsverbesserung in und von Studiengängen sind in den zurückliegenden Jahren ergriffen worden?
->
->-   Welche Elemente der internen Qualitätskontrolle erweisen sich als besonders nützlich für kontinuierliche Verbesserungen in einem Studiengang?
->
->-   Inwieweit findet der Aspekt „Lernergebnisorientierung“ bei der Konzeption und in der Praxis der Qualitätssicherungsinstrumente für einen Studiengang Berücksichtigung?
->
->-   Wie bewerten Studierende die interne Qualitätskontrolle und -entwicklung ihrer Studiengänge hinsichtlich
->
->    -   ihrer Beteiligung?
->
->    -   der Auswirkungen auf ihr Studium?
->
->-   Wie bewerten Lehrende und die Leitungsebenen die interne Qualitätskontrolle und -entwicklung ihrer Studiengänge hinsichtlich
->
->    -   ihrer Beteiligung?
->
->    -   der Unterstützung bei der Lösung von Problemen und Verbesserungen in der Lehre?
->
->**Mögliche Evidenzen**
->
->-   Interne Regelwerke zum Qualitätsmanagement (Evaluationsordnungen u.ä.)
->
->-   Exemplarisches Informationsmaterial über das Qualitätsmanagement und seine Ergebnisse, das die Hochschule regelmäßig für die Kommunikation nach innen und außen nutzt (z. B. Link zu spezifischen Webseiten, Berichte, Flyer)
->
->-   Quantitative und qualitative Daten aus Befragungen, Statistiken zum Studienverlauf, Absolventenzahlen und -verbleib u.ä.
+# Transparenz, Dokumentation, Qualitätssicherung und Weiterentwicklung
 
 
 ## Beschreibung des Qualitätssicherungssystems der Studiengänge
@@ -1539,6 +1535,20 @@ Auf Basis des Fakultätsentwicklungsplans 2010-2015 wurde ein Qualitäts-Managem
 - Standortentwicklung und Infrastruktur
 
 Die vereinbarten Qualitätsziele wurden an quantifizierbaren Kenngrößen oder beschlossenen Maßnahmen orientiert. Die Verbesserungsmaßnahmen und -programme werden jährlich in einer Management-Review evaluiert. Als zentrales Dokument des Qualitäts-Management-Systems wurde das QM-Handbuch für unsere Mitarbeiter und Mitarbeiterinnen, Studierenden und Forschungspartner angefertigt. Dafür verlieh der TÜV Rheinland nach umfangreicher Prüfung (Audit) das Zertifikat mit der Klassifizierung "Premium" für ein besonders hochwertiges System.
+
+## Beispielhafte Prozessdokumentionen
+- Überblick über den Prüfungsprozess: [Prozessbeschreibung_PruefungsprozessUeberblick.pdf](../anhaenge/Prozessbeschreibung_PruefungsprozessUeberblick.pdf)
+- Prüfungsordnungsprozess: [Prozessbeschreibung_Pruefungsordnungsprozess.pdf](../anhaenge/Prozessbeschreibung_Pruefungsordnungsprozess.pdf)
+- Prozess zur Prüfungsplanung: [Prozessbeschreibung_Pruefungplanung.pdf](../anhaenge/Prozessbeschreibung_Pruefungplanung.pdf)
+- Prozess zur Prüfunungsdurchführung: [Prozessbeschreibung_Pruefungdurchfuehren.pdf](../anhaenge/Prozessbeschreibung_Pruefungdurchfuehren.pdf)
+- Prozess beim Rücktritt von Prüfungen: [Prozessbeschreibung_vonPruefungzuruecktreten.pdf](../anhaenge/Prozessbeschreibung_vonPruefungzuruecktreten.pdf)
+- Prozess beim Einspruch gegen Prüfungsergebnisse: [Prozessbeschreibung_EinspruchPruefungsergebnisse.pdf](../anhaenge/Prozessbeschreibung_EinspruchPruefungsergebnisse.pdf)
+- Prozess Absolventenzufriedenheit: [Prozessbeschreibung-Absolventenzufriedenheit.pdf](../anhaenge/Prozessbeschreibung-Absolventenzufriedenheit.pdf)
+- Prozess Evaluationsprozesse: [Prozessbeschreibung-Evaluationsprozesse.pdf](../anhaenge/Prozessbeschreibung-Evaluationsprozesse.pdf)
+- Prozess Partnerzufriedenheit: [Prozessbeschreibung-Partnerzufriedenheit.pdf](../anhaenge/Prozessbeschreibung-Partnerzufriedenheit.pdf)
+- Prozess Rankings: [Prozessbeschreibung-Rankings.pdf](../anhaenge/Prozessbeschreibung-Rankings.pdf)
+- Prozess Studierendenzufriedenheit: [Prozessbeschreibung-Studierendenzufriedenheit.pdf](../anhaenge/Prozessbeschreibung-Studierendenzufriedenheit.pdf)
+
 
 
 # Geschlechtergerechtigkeit und Chancengleichheit
