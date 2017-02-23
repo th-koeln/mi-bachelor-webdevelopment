@@ -1,12 +1,12 @@
 ---
 title: Qualifikationsziele der Studiengangskonzepte
-aktueller-bearbeiter: 
+aktueller-bearbeiter:
 bearbeiterhistorie: Christian Noss
 date: 17.02.2017
-comment: 
+comment:
 status: fertig
 reviewed-von: Robert Gabriel
-review-comment: 
+review-comment:
 ---
 
 
@@ -19,7 +19,7 @@ review-comment:
 >  -   Befähigung zum gesellschaftlichen Engagement
 >
 >  -   Persönlichkeitsentwicklung
->  
+>
 >**Leitfragen**
 >
 >-   An welcher Stelle sind die jeweils im Kriterium genannten Kompetenz-Bereiche im Studiengang nach dem Verständnis der Hochschule abgebildet?
@@ -78,7 +78,7 @@ Die wesentliche Basis für die Entwicklung und Ausgestaltung relevanter Kompeten
 Diese wurden für die Medieninformatik um den Kompetenzbereich **Medienkompetenz** mit den Gebieten Medienrezeption, Medienkonzeption, Medientechnik und Mediengestaltung ergänzt.
 
 
-Medieninformatiker analysieren, konzipieren, realisieren und adaptieren in interdisziplinären Teams oft web-basierte Prozesse und Systeme zur Produktion, Bearbeitung und Distribution medienbasierter Informationen aus informatischen, ökonomischen und sozialen Perspektiven; ggf. betreiben sie diese Systeme auch. 
+Medieninformatiker analysieren, konzipieren, realisieren und adaptieren in interdisziplinären Teams oft web-basierte Prozesse und Systeme zur Produktion, Bearbeitung und Distribution medienbasierter Informationen aus informatischen, ökonomischen und sozialen Perspektiven; ggf. betreiben sie diese Systeme auch.
 
 ## Kompetenzbereiche, Ziele und Lernergebnisse
 
@@ -87,20 +87,22 @@ Zugehörig zu den Kompetenzbereichen wurden die folgenden Ziele und Lernergebnis
 ### Formale, algorithmische, mathematische Kompetenzen
 
 Die Studierenden …
- -können Probleme und Anforderungen exakt beschreiben, um diese in geeigneten Datenstrukturen und effizienten Algorithmen umzusetzen.
-- kennen Vorgehensweisen und Werkzeuge, um Probleme und Sachverhalte zu abstrahieren und zu modellieren (logische und algebraische Kalküle, graphentheoretische Notationen, formale Sprachen und Automaten sowie spezielle Kalküle wie Petri-Netze oder die Prozessalgebra CSP) 
+
+- können Probleme und Anforderungen exakt beschreiben, um diese in geeigneten Datenstrukturen und effizienten Algorithmen umzusetzen.
+- kennen Vorgehensweisen und Werkzeuge, um Probleme und Sachverhalte zu abstrahieren und zu modellieren (logische und algebraische Kalküle, graphentheoretische Notationen, formale Sprachen und Automaten sowie spezielle Kalküle wie Petri-Netze oder die Prozessalgebra CSP)
 - kennen Verfahrensweisen um den algorithmischen Kern eines Problems zu identifizieren und können Algorithmen entwerfen, verifizieren und bzgl. ihres Ressourcenbedarfs bewerten.
 - können Lösungen angemessenen fachlich kommunizieren, bewerten und im Rahmen von kooperativen Arbeitszusammenhängen nutzen.
 
 ### Analyse-, Entwurfs-, Realisierungs- und Projektmanagement-Kompetenzen
 
 Die Studierenden …
+
 - haben die Fähigkeit, mit Aufgabenstellern und zukünftigen Systemnutzern zu kommunizieren und zu kooperieren und sich schnell in neue Anwendungskontexte einzuarbeiten.
 - können bekannte Problemstellungen im Anwendungskontext erkennen und sind mit den zugehörigen Lösungsmustern vertraut.
 - erkennen Inkonsistenzen und können mit unklaren Anforderungen umgehen.
 - können komplexe Domänen modellieren und große Anwendungsprobleme durch geeignete Schnittstellen in Teilprobleme zerlegen.
 - haben solide Kenntnisse in der Software-Architektur um Systeme aus Hard- und Software zu konstruieren, welche die Anforderungen vollständig erfüllen.
-- können Mensch-Technik-Schnittstellen anwendungsgerecht und ergonomisch gestalten. 
+- können Mensch-Technik-Schnittstellen anwendungsgerecht und ergonomisch gestalten.
 - berücksichtigen beim Entwurf die Umsetzung nichtfunktionaler Anforderungen, wie Sicherheit, Performanz, Skalierbarkeit, Wartbarkeit, Erweiterbarkeit und Zuverlässigkeit.
 - beherrschen gängige Programmierparadigmen und moderne Entwicklungsmethoden um professionell größere Programmsysteme zu erstellen und sorgfältig testen zu können.
 - haben die Fähigkeit sich in vorhandenen Quelltext einzuarbeiten und diesen sinnvoll weiter zu entwickeln.
@@ -111,39 +113,44 @@ Die Studierenden …
 ### Technologische Kompetenzen
 
 Die Studierenden …
+
 - haben Kenntnisse über moderne Betriebssysteme, Rechnerarchitekturen und Rechnernetze sowie deren Anwendung in konkreten Problemstellungen und Anwendungskontexten.
-- sind in der Lage die Infrastruktur für verteilte Systeme unter Nutzung von Middleware zu entwerfen. 
-- beherrschend den Prozess vom Datenbankentwurf bis zum Betrieb des datenbankgestützten Anwendungssystems sowie Datenanalyse und Grundlagen des maschinellen Lernens. 
+- sind in der Lage die Infrastruktur für verteilte Systeme unter Nutzung von Middleware zu entwerfen.
+- beherrschend den Prozess vom Datenbankentwurf bis zum Betrieb des datenbankgestützten Anwendungssystems sowie Datenanalyse und Grundlagen des maschinellen Lernens.
 - haben fundierte Kenntnisse zu Sicherheitsmaßnahmen und -mechanismen.
 
 
 ### Fachübergreifende Kompetenzen
 
 Die Studierenden …
-- sind in der Lage, Aufgaben in verschiedenen Anwendungsfeldern unter gegebenen technischen, ökonomischen, ökologischen und sozialen Randbedingungen mit den Mitteln der Informatik zu bearbeiten und entsprechende Systeme zu entwickeln. 
+
+- sind in der Lage, Aufgaben in verschiedenen Anwendungsfeldern unter gegebenen technischen, ökonomischen, ökologischen und sozialen Randbedingungen mit den Mitteln der Informatik zu bearbeiten und entsprechende Systeme zu entwickeln.
 - verfügen über betriebswirtschaftliche Grundkenntnisse, da die Planung, Entwicklung und Nutzung aller Informatiksysteme unter wirtschaftlichen Rahmenbedingungen stattfinden.
-- haben juristische Grundkenntnisse um rechtsverbindliche Dokumente wie Rahmenvereinbarungen, projektspezifische Verträge, Lizenz- oder Nutzungsverträge aushandeln zu können. Darüber hinaus können sie die gesetzliche Basis von Sicherheitsaspekten, als auch Fragen des Urheberrechts und der Produkthaftung berücksichtigen. 
+- haben juristische Grundkenntnisse um rechtsverbindliche Dokumente wie Rahmenvereinbarungen, projektspezifische Verträge, Lizenz- oder Nutzungsverträge aushandeln zu können. Darüber hinaus können sie die gesetzliche Basis von Sicherheitsaspekten, als auch Fragen des Urheberrechts und der Produkthaftung berücksichtigen.
 - haben einen Einblick in berufsethische Rahmenbedingungen erhalten und können die Auswirkungen ihrer Arbeit auf die zukünftigen Nutzer sowie auf die Gesellschaft in ihren sozialen, wirtschaftlichen, arbeitsorganisatorischen, psychologischen und rechtlichen Aspekten einschätzen.
 
 
 ### Soziale Kompetenzen und Selbstkompetenzen
 
 Die Studierenden …
+
 - verfügen über kommunikative Kompetenzen, um ihre Ideen und Lösungsvorschläge schriftlich oder mündlich überzeugend zu präsentieren, abweichende Positionen zu erkennen und in eine sach- und interessengerechte Lösung zu integrieren – und zwar auch dann, wenn die informatische Sprech- und Denkweisen dem Kommunikationspartner nicht geläufig sind.
 - kennen ihre berufliche Rolle, die damit verbundenen Erwartungen und ggf. vorhandene Rollenkonflikte in Kommunikationssituationen und können zur Konfliktlösung beitragen. Dazu sind auch Kenntnisse im Konfliktmanagement erforderlich, um in kontroversen Diskussionen zielorientiert zu argumentieren und mit Kritik sachlich umzugehen. Vorhandene Missverständnisse zwischen Gesprächspartnern müssen frühzeitig erkannt und abgebaut werden können.
 
 ### Methoden- und Transferkompetenz
 
 Die Studierenden …
+
 - sind in der Lage sich selbstständig neues Wissen anzueigenen und zu erkennen, welches Wissen relevant ist.
 - haben die Kompetenz zum wissenschaftlichen Arbeiten.
 - können (Informatik-)systeme mit systematischen Verfahren empirisch evaluieren.
-- sind in der Lage, neue informatische Methoden in eine oft historisch gewachsene betriebliche Praxis einzuführen. 
+- sind in der Lage, neue informatische Methoden in eine oft historisch gewachsene betriebliche Praxis einzuführen.
 - haben die Fähigkeit, einen existierenden Anwendungskontext zu analysieren, zu bewerten und aktuelle problemadäquate informatische Methoden auf diesen Kontext zu übertragen, sowie den derart neu generierten Anwendungskontext zu evaluieren.
 
 ### Medienkompetenz
 
 Die Studierenden …
+
 - können eine Perspektive der Medienkonzeption einnehmen, haben eine mediengestalterische Grundkompetenz entwickelt und sind in der Lage, bzgl. der Kommunikationsziele eine geeignete Medienauswahl zu treffen.
 - können organisationale, soziale, gestalterische und kulturelle Kontexte, Vorgaben und Regeln erschließen, analysieren, definieren und unter Berücksichtigung weiterer fachlicher Perspektiven angemessene Gestaltungsziele formulieren.
 - kennen die Gestaltungsdimensionen von Medien und besitzen aktive Vokabularien zur Beschreibung und Realisierung angemessener Konzeptionen.
