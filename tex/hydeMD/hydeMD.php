@@ -547,10 +547,12 @@ class Document {
       $href = str_replace( '../anhaenge', 'anhaenge', $href );
 
       if( strpos( $href, $title ) !== False ) {
-        $attachmentsLatex[] = "\item{\\href{" . $href . "}{" . $href . "} } \n";
+        //$attachmentsLatex[] = "\item{\\href{" . $href . "}{" . $href . "} } \n";
+        $attachmentsLatex[] = "\item{\\url{" . $href . "}} \n";
       }
       else {
-        $attachmentsLatex[] = "\item{" . $title . ": \\href{" . $href . "}{" . $href . "} } \n";
+        //$attachmentsLatex[] = "\item{" . $title . ": \\href{" . $href . "}{" . $href . "} } \n";
+        $attachmentsLatex[] = "\item{" . $title . ": \\url{" . $href . "} } \n";
       }
     }
 
@@ -693,9 +695,9 @@ class Document {
         return '\\' . $symMatches[1];
       }, $url );
 
-      return '\href{' . $url . '}{' . $url . '}';
+      //return '\href{' . $url . '}{' . $url . '}';
+      return '\url{'.$url.'}';
     }, $latexContent );
-
 
     /* \tightlist */
     $latexContent = preg_replace_callback( '/\\\begin{\\s*itemize\\s*}(.*?)\\\item/is', function( $matches ) {

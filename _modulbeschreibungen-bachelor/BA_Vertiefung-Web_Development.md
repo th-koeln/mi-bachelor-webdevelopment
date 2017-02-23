@@ -119,9 +119,6 @@ Weitere Inhalte sind:
 ## Studien-/Prüfungsleistungen:
 Projektarbeit mit Projektpräsentationsprüfung und Fachgespräch.
 
-~~~
-Hier fehlen noch die Studien-/Prüfungsleistungen zu den einzelnen Teilmodulen
-~~~
 ## Medienformen:
 Beamergestützte Vorträge, Rechnergestützte Workshops
 
@@ -133,7 +130,3 @@ Beamergestützte Vorträge, Rechnergestützte Workshops
 - Saint-Andre: XMPP: THe Definitive Guide, OReilly 2009
 - Roy: RabbitMQ in Depth, Manning 2016
 - Newman: Building Microservices: Designing fine-grained systems, OReilly 2015
-
-~~~
-Hier fehlen noch die Literaturangaben zu den einzelnen Teilmodulen
-~~~

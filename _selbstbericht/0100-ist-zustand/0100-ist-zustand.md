@@ -146,7 +146,7 @@ Im Masterstudium wirkt sich die im Rahmen der Reakkreditierung weggefallene Zula
 
 ### Rückschlüsse aus informellen Gesprächen und Kommentaren
 
-*  … anstrengend und fordernd, aber macht viel Spaß … *
+*… anstrengend und fordernd, aber macht viel Spaß …*
 
 Aus verschiedenen Einzel- und Gruppengesprächen im Team der Studiengangsbetreiber, Gesprächen mit Studierenden und Alumni, Kommentaren von Feedbackrunden sowie Online-Foren lassen sich eine Reihe von Stärken und Schwächen ableiten. 
 
