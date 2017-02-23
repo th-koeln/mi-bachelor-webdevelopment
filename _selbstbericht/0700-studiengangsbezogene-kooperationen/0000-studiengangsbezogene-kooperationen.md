@@ -2,8 +2,11 @@
 title: Studiengangsbezogene Kooperationen
 aktueller-bearbeiter: 
 bearbeiterhistorie: Martin Eisemann, Kristian Fischer
-date: 10.02.2017
-comment: "Größtenteils aus Selbstbericht von 2009 übernommen Kapitel 4.2 bzw. Reakkreditierung AI/TI/WI 2012. Es fehlt noch: Beendete und seit 2009 begonnene Promotionen fehlen, neue Kooperationen seit 2009/2012 fehlen, nicht mehr existierende Kooperationen seit 2009 müssen markiert werden."
+date: 23.02.2017
+comment: "Größtenteils aus Selbstbericht von 2009 übernommen Kapitel 4.2 bzw. Reakkreditierung AI/TI/WI 2012. Es fehlt noch: Beendete und seit 2009 begonnene Promotionen fehlen, neue Kooperationen seit 2009/2012 fehlen, nicht mehr existierende Kooperationen seit 2009 müssen markiert werden.
+
+KF: habe mir die Freiheit genommen ein paar arg folkloristische Statements zu löschen. Es müsste aber nochmals vielleicht mi der Internationalisierungsbeauftragten Heide durchgegangen werden was es neu gibt.
+Habe einen Text über MI spezifische Veranstaltungen hinzugefügt"
 
 status: "Initiale Version, Zahlen sind alle noch von 2009 bzw. 2012, International Office per Mail kontaktiert aber noch keine Rückmeldung (telefonisch nicht zu erreichen)"
 reviewed-von:
