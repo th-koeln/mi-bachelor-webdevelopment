@@ -1,6 +1,6 @@
 ---
 title: Qualitätssicherung und Weiterentwicklung
-aktueller-bearbeiter: 
+aktueller-bearbeiter: Sebastian Müller
 bearbeiterhistorie: Christian Noss
 date: 18.02.2017
 comment: fast alles von Websience geklaut … danke!
