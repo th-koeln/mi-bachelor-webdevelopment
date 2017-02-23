@@ -36,11 +36,11 @@ Die Prüfungsordnungen regeln das Studium und die Prüfungen in den Studiengä
 
 Die Prüfungsplanung wird über das Hochschulplanungssystem abgebildet. 
 
-- Beispielhafter Prüfungsplan: <a href="../anhaenge/pruefungsplan_mi.pdf">pruefungsplan_mi.pdf</a>
+- Beispielhafter Prüfungsplan: <a href="../anhaenge/ba-pruefungsplan_mi.pdf">ba-pruefungsplan_mi.pdf</a>
 
 ## Prüfungsstatistiken
 
 Zur Analyse der Prüfungserfolge und der Lernergebnisorientierung liegen eine Reihe von statistischen Daten vor. Eine wesentliche Analyse auf Basis dieser Daten ist die Überprüfung der Studierbarkeit. Als Indikator für eine gute Studierbarkeit, kann die Anzahl der abgelegten Prüfungen im vorgesehenen Fachsemester des Moduls angesehen werden. Ziel ist es, dass die Studierenden Prüfungen möglichst im selben Semester ablegen, in dem das Modul im Studienverlaufsplan verortet ist. Gelingt dies nicht, so kann ein Studienabschluss innerhalb der Regelstudienzeit nur schwer realisiert werden.
 
-- Analyse der Prüfungsteilnahme: <a href="../anhaenge/pruefungsplan_mi.pdf">pruefungsstatistiken.pdf</a>
+- Analyse der Prüfungsteilnahme: <a href="../anhaenge/ba-pruefungsplan_mi.pdf">ba-pruefungsstatistiken.pdf</a>
 - Tabelle über Fehlversuche und Rücktritte: <a href="../anhaenge/ba-pruefungen-fehlversuche-und-ruecktritte.pdf">ba-pruefungen-fehlversuche-und-ruecktritte.pdf</a>

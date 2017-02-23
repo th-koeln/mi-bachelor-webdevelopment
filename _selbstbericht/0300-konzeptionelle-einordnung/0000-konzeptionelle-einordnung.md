@@ -21,9 +21,13 @@ Beide zu reakkreditierende Studiengänge entsprechen weiterhin
 Darüber hinaus wurden bei der Überarbeitung der Studiengänge die aktuellen Empfehlungen für Bachelor- und Masterprogramme im Studienfach Informatik (Stand: 01.07.2016) der Gesellschaft für Informatik zugrunde gelegt.
 
 ## Weiterführende Dokumente
+- Studienverlaufsplan Medieninformatik Bachelor: <a href="../anhaenge/ba-studienverlaufsplan.pdf">ba-studienverlaufsplan.pdf</a>
+- Modulhandbuch Medieninformatik Bachelor: <a href="../anhaenge/ba-modulhandbuch.pdf">ba-modulhandbuch.pdf</a>
+- Ziele-Module-Matrix Medieninformatik Bachelor: <a href="../anhaenge/ba-Ziele-Module-Matrix-Medieninformatik-Bachelor.pdf">ba-Ziele-Module-Matrix-Medieninformatik-Bachelor.pdf</a>
+- Beispielzeugnis und Diploma Supplement Medieninformatik Bachelor: <a href="../anhaenge/ba-zeugnis.pdf">ba-zeugnis.pdf</a>
 - Website des Medieninformatik Master: <a href="https://www.th-koeln.de/studium/medieninformatik-master_3729.php">https://www.th-koeln.de/studium/medieninformatik-master_3729.php</a>
 - Ordnungen zum Medieninformatik Master: <a href="https://www.th-koeln.de/studium/medieninformatik-master--ordnungen-und-formulare_3724.php">https://www.th-koeln.de/studium/medieninformatik-master--ordnungen-und-formulare_3724.php</a>
-- Studienverlaufsplan Medieninformatik Master: <a href="../anhaenge/Master ma-studienverlaufsplaene.pdf">Master ma-studienverlaufsplaene.pdf</a>
+- Studienverlaufsplan Medieninformatik Master: <a href="../anhaenge/ma-studienverlaufsplaene.pdf">ma-studienverlaufsplaene.pdf</a>
 - Modulhandbuch Medieninformatik Master fehlt
-- Ziele-Module-Matrix Medieninformatik Master: <a href="../anhaenge/Ziele-Module-Matrix-Medieninformatik-Master.pdf">Ziele-Module-Matrix-Medieninformatik-Master.pdf</a>
-- Beispielzeugnis und Diploma Supplement Medieninformatik Master: <a href="../anhaenge/ma-zeugnis.pdf">zeugnis.pdf</a>
+- Ziele-Module-Matrix Medieninformatik Master: <a href="../anhaenge/ma-Ziele-Module-Matrix-Medieninformatik-Master.pdf">ma-Ziele-Module-Matrix-Medieninformatik-Master.pdf</a>
+- Beispielzeugnis und Diploma Supplement Medieninformatik Master: <a href="../anhaenge/ma-zeugnis.pdf">ma-zeugnis.pdf</a>

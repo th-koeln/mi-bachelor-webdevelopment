@@ -206,14 +206,14 @@ Somit lassen sich die folgenden Defizite im aktuellen Medieninformatik Master St
 - zu wenig Wahlmöglichkeiten
 
 
-[^anhang-verbleib-und-studienabbruch]: <a href="../anhaenge/verbleib-und-studienabbruch.pdf">Statistik zum Verbleib- und Studienabbruch</a>
-[^anhang-hep-2020]: <a href="https://www.verwaltung.th-koeln.de/imperia/md/content/verwaltung/broschueren_leitfaeden/hochschulentwicklungsplan2020.pdf">Hochschulentwicklungsplan 2020</a> (abgerufen am 13.02.2017)
-[^DZHW-Studie2015]: <a href="http://www.dzhw.eu/pdf/pub_fh/fh-201503.pdf">Ulrich Heublein et al.: Studienbereichsspezifische Qualitätssicherung im Bachelorstudium - Befragung der Fakultäts- und Fachbereichsleitungen zum Thema Studienerfolg und Studienabbruch. Forum Hochschule, 3/2015</a> (abgerufen am 13.02.2017)
-[^Anhang-Pruefungsstatistiken]: <a href="../anhaenge/pruefungsstatistiken.pdf">Bachelorstudiengang Medieninformatik, Prüfungsstatistik 2016</a> 
-[^Anhang-fakultaetsstruktur]: <a href="../anhaenge/Fakultaetsstruktur-Studienangebot-Personal-Haushaltsmittel-Kennzahlen-2014.pdf">Fakultät für Informatik und Ingenieurwissenschaften, Statistik 2013/14</a>
-[^Anhang-INCHER-Studie]: <a href="../anhaenge/INCHER-Studie.pdf">INCHER-Studie 2014</a>
-[^evaluationen-f10]: <a href="../anhaenge/evaluationen-f10.pdf">Studentische Evaluationen Medieninformatik</a>
+[^anhang-verbleib-und-studienabbruch]: Statistik zum Verbleib- und Studienabbruch: <a href="../anhaenge/stat-verbleib-und-studienabbruch.pdf">stat-verbleib-und-studienabbruch.pdf</a>
+[^anhang-hep-2020]: Hochschulentwicklungsplan 2020: <a href="https://www.verwaltung.th-koeln.de/imperia/md/content/verwaltung/broschueren_leitfaeden/hochschulentwicklungsplan2020.pdf">https://www.verwaltung.th-koeln.de/imperia/md/content/verwaltung/broschueren_leitfaeden/hochschulentwicklungsplan2020.pdf</a> (abgerufen am 13.02.2017)
+[^DZHW-Studie2015]: Ulrich Heublein et al.: Studienbereichsspezifische Qualitätssicherung im Bachelorstudium - Befragung der Fakultäts- und Fachbereichsleitungen zum Thema Studienerfolg und Studienabbruch. Forum Hochschule, 3/2015 <a href="http://www.dzhw.eu/pdf/pub_fh/fh-201503.pdf">http://www.dzhw.eu/pdf/pub_fh/fh-201503.pd</a> (abgerufen am 13.02.2017)
+[^Anhang-Pruefungsstatistiken]: Bachelorstudiengang Medieninformatik, Prüfungsstatistik 2016: <a href="../anhaenge/ba-pruefungsstatistiken.pdf">ba-pruefungsstatistiken.pdf</a> 
+[^Anhang-fakultaetsstruktur]: Fakultät für Informatik und Ingenieurwissenschaften, Statistik 2013/14: <a href="../anhaenge/fak-Fakultaetsstruktur-Studienangebot-Personal-Haushaltsmittel-Kennzahlen-2014.pdf">fak-Fakultaetsstruktur-Studienangebot-Personal-Haushaltsmittel-Kennzahlen-2014.pdf</a>
+[^Anhang-INCHER-Studie]: INCHER-Studie 2014: <a href="../anhaenge/studie-INCHER-Studie.pdf">studie-INCHER-Studie.pdf</a>
+[^evaluationen-f10]: Studentische Evaluationen Medieninformatik: <a href="../anhaenge/eva-evaluationen-f10.pdf">eva-evaluationen-f10.pdf</a>
 [^Anhang-Curriculumsanalye]: fehlt
-[^Anhang-Snapshot-Bewertungen-von-studycheckde]: <a href="../anhaenge/snapshot_2017_02_17_bewertungen_studiengang_medieninformatik_auf_studycheck_._de">Snapshot Bewertungen von studycheck.de</a>
-[^Link-studycheckde]: <a href="http://studycheck.de">http://studycheck.de (abgerufen am 17.02.2017)</a>
-[^profil2]: <a href="https://www.th-koeln.de/mam/downloads/deutsch/hochschule/profil/lehre/profil2_antrag_ministerium.pdf">Profil2 Antrag der TH Köln</a> (abgerufen am 15.02.2017)
+[^Anhang-Snapshot-Bewertungen-von-studycheckde]: Snapshot Bewertungen von studycheck.de: <a href="../anhaenge/eva-snapshot_2017_02_17_bewertungen_studiengang_medieninformatik_auf_studycheck_._de">eva-snapshot_2017_02_17_bewertungen_studiengang_medieninformatik_auf_studycheck_._de</a>
+[^Link-studycheckde]: <a href="http://studycheck.de">http://studycheck.de</a> (abgerufen am 17.02.2017)
+[^profil2]: Profil2 Antrag der TH Köln: <a href="https://www.th-koeln.de/mam/downloads/deutsch/hochschule/profil/lehre/profil2_antrag_ministerium.pdf">https://www.th-koeln.de/mam/downloads/deutsch/hochschule/profil/lehre/profil2_antrag_ministerium.pdf</a> (abgerufen am 15.02.2017)

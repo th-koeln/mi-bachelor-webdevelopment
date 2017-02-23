@@ -53,4 +53,4 @@ Das Institut für Informatik betreibt Labore für:
 [^Anhang-Diversity-Konzepte]: <a href="https://www.th-koeln.de/hochschule/educational-diversity_5710.php">Educational Diversity Konzept</a> (abgerufen am 20.02.2017)
 [^anhang-profil2]: <a href="https://www.th-koeln.de/hochschule/profil_5676.php">Profil2 Seite</a> (abgerufen am 20.02.2017)
 [^anhang-forschungscluster-th]: <a href="https://www.th-koeln.de/forschung/cluster_2734.php">Forschungscluster</a> (abgerufen am 20.02.2017)
-[^studierende-gm-2016]: <a href="../anhaenge/Studentenzahlen_WS-2016_(01.12.2016).pdf">Studentenzahlen_WS-2016_(01.12.2016).pdf</a>
+[^studierende-gm-2016]: <a href="../anhaenge/stat-Studentenzahlen_WS-2016_(01.12.2016).pdf">stat-Studentenzahlen_WS-2016_(01.12.2016).pdf</a>

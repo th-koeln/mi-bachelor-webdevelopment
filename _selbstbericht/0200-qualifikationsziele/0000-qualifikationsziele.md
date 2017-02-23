@@ -161,12 +161,12 @@ Absolventinnen und Absolventen des Bachelorstudiengangs Medieninformatik:
 ### Weiterführende Dokumente
 - Website des Medieninformatik Bachelor: <a href="https://www.th-koeln.de/studium/medieninformatik-bachelor_2379.php">https://www.th-koeln.de/studium/medieninformatik-bachelor_2379.php</a>
 - Ordnungen zum Medieninformatik Bachelor: <a href="https://www.th-koeln.de/studium/medieninformatik-bachelor--ordnungen-und-formulare_3963.php">https://www.th-koeln.de/studium/medieninformatik-bachelor--ordnungen-und-formulare_3963.php</a> (abgerufen am 23.02.2017)
-- Themen der Abschlussabeiten des Medieninformatik Bachelor 2010 bis 2014: <a href="../anhaenge/abschlussarbeiten_2010-2014_.pdf">abschlussarbeiten_2010-2014_.pdf</a>
+- Themen der Abschlussabeiten des Medieninformatik Bachelor 2010 bis 2014: <a href="../anhaenge/ba-abschlussarbeiten_2010-2014_.pdf">ba-abschlussarbeiten_2010-2014_.pdf</a>
 - Studienverlaufsplan Medieninformatik Bachelor: <a href="../anhaenge/ba-studienverlaufsplan.pdf">ba-studienverlaufsplan.pdf</a>
 - Modulhandbuch Medieninformatik Bachelor: <a href="../anhaenge/ba-modulhandbuch.pdf">ba-modulhandbuch.pdf</a>
--  Ziele-Module-Matrix Medieninformatik Bachelor: <a href="../anhaenge/Ziele-Module-Matrix-Medieninformatik-Bachelor.pdf">Ziele-Module-Matrix-Medieninformatik-Bachelor.pdf</a>
+-  Ziele-Module-Matrix Medieninformatik Bachelor: <a href="../anhaenge/ba-Ziele-Module-Matrix-Medieninformatik-Bachelor.pdf">ba-Ziele-Module-Matrix-Medieninformatik-Bachelor.pdf</a>
 - Beispielzeugnis und Diploma Supplement Medieninformatik Bachelor: <a href="../anhaenge/ba-zeugnis.pdf">ba-zeugnis.pdf</a>
-- Profil der Studienanfänger: <a href="../anhaenge/profil-studienanfaenger-2017.xlsx">profil-studienanfaenger-2017.xlsx</a>
+- Profil der Studienanfänger: <a href="../anhaenge/stat-profil-studienanfaenger-2017">stat-profil-studienanfaenger-2017</a>
 
 
 ## Qualifikationsziele Medieninformatik Master
@@ -203,10 +203,11 @@ Absolventinnen und Absolventen des Masterstudiengangs Medieninformatik:
 ### Weiterführende Dokumente
 - Website des Medieninformatik Master: <a href="https://www.th-koeln.de/studium/medieninformatik-master_3729.php">https://www.th-koeln.de/studium/medieninformatik-master_3729.php</a>
 - Ordnungen zum Medieninformatik Master: <a href="https://www.th-koeln.de/studium/medieninformatik-master--ordnungen-und-formulare_3724.php">https://www.th-koeln.de/studium/medieninformatik-master--ordnungen-und-formulare_3724.php</a>
-- Studienverlaufsplan Medieninformatik Master fehlt
-- Modulhandbuch Medieninformatik Master fehlt
-- Ziele-Module-Matrix Medieninformatik Master fehlt
-- Beispielzeugnis und Diploma Supplement Medieninformatik Master: <a href="../anhaenge/ma-zeugnis.pdf">zeugnis.pdf</a>
+- Studienverlaufsplan Medieninformatik Master: <a href="../anhaenge/ma-studienverlaufsplaene.pdf">ma-studienverlaufsplaene.pdf</a>
+- Modulhandbuch Medieninformatik Master: <a href="../anhaenge/ma-modulhandbuch.pdf">ma-modulhandbuch.pdf</a>
+- Prüfungsordnung Medieninformatik Master(entwurf): <a href="../anhaenge/ma-MIMPO_Entwurf_20170218.pdf">ma-MIMPO_Entwurf_20170218.pdf</a>
+- Ziele-Module-Matrix Medieninformatik Master: <a href="../anhaenge/ma-Ziele-Module-Matrix-Medieninformatik-Master.pdf">ma-Ziele-Module-Matrix-Medieninformatik-Master.pdf</a>
+- Beispielzeugnis und Diploma Supplement Medieninformatik Master: <a href="../anhaenge/ma-zeugnis.pdf">ma-zeugnis.pdf</a>
 
 
 [^gi-empfehlungen]: Gesellschaft für Informatik e.V. (GI): "Empfehlungen für Bachelor- und Masterprogramme im Studienfach Informatik an Hochschulen", unter: <a href="https://www.gi.de/fileadmin/redaktion/empfehlungen/GI-Empfehlungen_Bachelor-Master-Informatik2016.pdf">https://www.gi.de/fileadmin/redaktion/empfehlungen/GI-Empfehlungen_Bachelor-Master-Informatik2016.pdf</a> (abgerufen am 17.02.2017) 
