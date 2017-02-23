@@ -3,8 +3,8 @@ title: Studiengangsbezogene Kooperationen
 aktueller-bearbeiter: Martin Eisemann
 bearbeiterhistorie: 
 date: 10.02.2017
-comment: Größtenteils aus Selbstbericht von 2009 übernommen Kapitel 4.2
-status: Initiale Version, Zahlen sind alle noch von 2009
+comment: Größtenteils aus Selbstbericht von 2009 übernommen Kapitel 4.2 bzw. Reakkreditierung AI/TI/WI 2012
+status: Initiale Version, Zahlen sind alle noch von 2009 bzw. 2012, International Office per Mail kontaktiert aber noch keine Rückmeldung (telefonisch nicht zu erreichen)
 reviewed-von:
 ---
 
