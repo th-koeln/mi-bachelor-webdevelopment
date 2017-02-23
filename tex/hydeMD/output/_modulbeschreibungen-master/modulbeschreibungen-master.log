@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.17)  23 FEB 2017 11:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.17)  23 FEB 2017 12:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -985,17 +985,7 @@ LaTeX Font Info:    Font shape `T1/Roboto-LF/l/n' will be
 
 
 
- <../assets/box.pdf>]
-Overfull \hbox (1.15097pt too wide) detected at line 34
- []\T1/Roboto-LF/b/n/10 100
- []
-
-
-Overfull \hbox (0.95497pt too wide) detected at line 35
- []\T1/Roboto-LF/b/n/10 103
- []
-
-)
+ <../assets/box.pdf>])
 \tf@toc=\write6
 \openout6 = `modulbeschreibungen-master.toc'.
 
@@ -2446,16 +2436,12 @@ Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 227.
 Package rerunfilecheck Info: File `modulbeschreibungen-master.out' has not chan
 ged.
 (rerunfilecheck)             Checksum: D12DA4A9B2CFB177A0AF457B53B25C9C;2330.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 16836 strings out of 494447
- 266925 string characters out of 6166766
- 462420 words of memory out of 5000000
- 19704 multiletter control sequences out of 15000+600000
+ 16794 strings out of 494447
+ 266061 string characters out of 6166766
+ 461313 words of memory out of 5000000
+ 19662 multiletter control sequences out of 15000+600000
  57488 words of font info for 38 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
  57i,15n,100p,8505b,551s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2465,7 +2451,7 @@ ec/ectt1000.600pk>{/usr/local/texlive/2016basic/texmf-dist/fonts/enc/dvips/robo
 to/rbto_idpkzy.enc}</usr/local/texlive/2016basic/texmf-dist/fonts/type1/google/
 roboto/Roboto-Bold.pfb></usr/local/texlive/2016basic/texmf-dist/fonts/type1/goo
 gle/roboto/Roboto-Light.pfb>
-Output written on modulbeschreibungen-master.pdf (102 pages, 973494 bytes).
+Output written on modulbeschreibungen-master.pdf (102 pages, 973495 bytes).
 PDF statistics:
  771 PDF objects out of 1000 (max. 8388607)
  596 compressed objects within 6 object streams

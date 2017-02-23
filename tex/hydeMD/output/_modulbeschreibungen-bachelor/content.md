@@ -8,7 +8,6 @@
 | Kürzel | AP1 |
 | Studiensemester | 1 |
 | Sprache | deutsch |
-| Zuordnung zum Curriculum | Medieninformatik Bachelor |
 | Kreditpunkte | 8 |
 | Voraussetzungen nach Prüfungsordnung | keine |
 | Typ | Pflichtmodul |
@@ -21,15 +20,15 @@
 
 ## Arbeitsaufwand:
 
-Gesamtaufwand 240 h, davon
+Gesamtaufwand 240 h, davon 
 
-- 54 h Vorlesung
+- 54 h Vorlesung 
 
 - 36 h Praktikum
 
 - 18 h Übung
 
-- 132 h Selbststudium
+- 132 h Selbststudium 
 
 
 ## Angestrebte Lernergebnisse:
@@ -71,7 +70,7 @@ Klausur sowie erfolgreiche Teilnahme am Praktikum als Prüfungsvorleistung
 
 ## Medienformen:
 
-- Beamer-gestützte Vorlesungen (Folien in elektronischer Form)
+- Beamer-gestützte Vorlesungen (Folien in elektronischer Form) 
 
 - Praktikum an Rechnern des Labors
 
@@ -97,7 +96,6 @@ Klausur sowie erfolgreiche Teilnahme am Praktikum als Prüfungsvorleistung
 | Kürzel | AP2 |
 | Studiensemester | 2 |
 | Sprache | deutsch |
-| Zuordnung zum Curriculum | Medieninformatik Bachelor |
 | Kreditpunkte | 7 |
 | Voraussetzungen nach Prüfungsordnung | Keine über die Zulassungsvorrausetzungen hinausgehenden Vorraussetzungen |
 | Typ | Pflichtmodul |
@@ -110,15 +108,15 @@ Klausur sowie erfolgreiche Teilnahme am Praktikum als Prüfungsvorleistung
 
 ## Arbeitsaufwand:
 
-Gesamtaufwand 210 h, davon
+Gesamtaufwand 210 h, davon 
 
-- 54 h Vorlesung
+- 54 h Vorlesung 
 
 - 36 h Praktikum
 
 - 18 h Übung
 
-- 102 h Selbststudium
+- 102 h Selbststudium 
 
 
 ## Angestrebte Lernergebnisse:
@@ -144,7 +142,7 @@ Klausur sowie erfolgreiche Teilnahme am Praktikum als Prüfungsvorleistung
 
 ## Medienformen:
 
-* Beamer-gestützte Vorlesungen (Folien in elektronischer Form)
+* Beamer-gestützte Vorlesungen (Folien in elektronischer Form) 
 
 * Praktikum an Rechnern des Labors
 
@@ -170,7 +168,6 @@ Klausur sowie erfolgreiche Teilnahme am Praktikum als Prüfungsvorleistung
 | Kürzel | AVM |
 | Studiensemester | 3 |
 | Sprache | deutsch |
-| Zuordnung zum Curriculum | Bachelor Medieninformatik – Pflichtbereich |
 | Kreditpunkte | 5 |
 | Voraussetzungen nach Prüfungsordnung | Keine über die Zulassungsbedingungen hinausgehenden Voraussetzungen |
 | Typ | Pflichtmodul |
@@ -269,7 +266,6 @@ Projektarbeit und schriftliche Ausarbeitung
 | Kürzel | BA |
 | Studiensemester | 6 |
 | Sprache | deutsch |
-| Zuordnung zum Curriculum | Medieninformatik Bachelor |
 | Kreditpunkte | 12 |
 | Voraussetzungen nach Prüfungsordnung | alle Modulprüfungen außer Bachelorarbeit und Kolloquium bestanden |
 | Typ | Pflichtmodul |
@@ -305,7 +301,6 @@ Selbstständiges wissenschaftliches, fachpraktisches und gestalterisches Bearbei
 | Kürzel | BK |
 | Studiensemester | 6 |
 | Sprache | deutsch |
-| Zuordnung zum Curriculum | Medieninformatik Bachelor |
 | Kreditpunkte | 3 |
 | Voraussetzungen nach Prüfungsordnung | alle Modulprüfungen außer Bachelor Kolloquium bestanden |
 | Typ | Pflichtmodul |
@@ -346,7 +341,6 @@ mündliche Prüfung, Vortrag
 | Kürzel | BS1 |
 | Studiensemester | 4 |
 | Sprache | deutsch |
-| Zuordnung zum Curriculum | Medieninformatik Bachelor |
 | Kreditpunkte | 5 |
 | Voraussetzungen nach Prüfungsordnung | keine |
 | Typ | Pflichtmodul |
@@ -364,13 +358,13 @@ Systemprogrammierung am Beispiel von UNIX.
 
 ## Arbeitsaufwand:
 
-Gesamtaufwand 150 h, davon
+Gesamtaufwand 150 h, davon 
 
-- 36 h Vorlesung
+- 36 h Vorlesung 
 
 - 36 h Praktikum
 
-- 78 h Selbststudium
+- 78 h Selbststudium 
 
 
 ## Angestrebte Lernergebnisse:
@@ -386,7 +380,7 @@ Die Studierenden sollen:
 
 ## Inhalt:
 
-Systemprogrammierung am Beispiel von UNIX:
+Systemprogrammierung am Beispiel von UNIX: 
 
 - Shell-Programmierung
 
@@ -450,7 +444,6 @@ Foliensammlung, ausformuliertes Skript, Beispiellösungen
 | Kürzel | BWL1 |
 | Studiensemester | 5 |
 | Sprache | deutsch |
-| Zuordnung zum Curriculum | Medieninformatik Bachelor |
 | Kreditpunkte | 5 |
 | Voraussetzungen nach Prüfungsordnung | keine |
 | Typ | Pflichtmodul |
@@ -463,13 +456,13 @@ Foliensammlung, ausformuliertes Skript, Beispiellösungen
 
 ## Arbeitsaufwand:
 
-Gesamtaufwand 120 h, davon
+Gesamtaufwand 120 h, davon 
 
-- 30 h Vorlesung
+- 30 h Vorlesung 
 
 - 30 h Übung
 
-- 60 h Selbstlernphase
+- 60 h Selbstlernphase 
 
 
 ## Angestrebte Lernergebnisse:
@@ -514,7 +507,6 @@ schriftliche Klausur
 | Kürzel | DB1 |
 | Studiensemester | 3 |
 | Sprache | Deutsch |
-| Zuordnung zum Curriculum | Medieninformatik Bachelor |
 | Kreditpunkte | 5 |
 | Voraussetzungen nach Prüfungsordnung | Klausurteilnahme nur bei bestandenem DBS1-Praktikum |
 | Typ | Pflichtmodul |
@@ -527,15 +519,15 @@ schriftliche Klausur
 
 ## Arbeitsaufwand:
 
-Gesamtaufwand 150 h, davon
+Gesamtaufwand 150 h, davon 
 
-- 36 h Vorlesung
+- 36 h Vorlesung 
 
 - 18 h Praktikum
 
 - 18 h Übung
 
-- 78 h Selbststudium
+- 78 h Selbststudium 
 
 
 ## Angestrebte Lernergebnisse:
@@ -557,7 +549,7 @@ Die Studierenden sollen
 
 ## Inhalt:
 
-* Grundbegriffe und Architektur von Datenbanken
+* Grundbegriffe und Architektur von Datenbanken  
 
 - Ein Vorgehensmodell zur Erstellung eines Datenbanksystems
 
@@ -587,15 +579,15 @@ Klausur, deren Voraussetzung das bestandene Praktikum ist, und semesterbegleiten
 
 ## Medienformen:
 
-* Folien gestützer Vortrag - aber nur sehr selten
+* Folien gestützer Vortrag - aber nur sehr selten  
 
-* I.d.R. erarbeiten der Theorie anhand von überschaubaren Problemstellungen und deren in der Veranstaltung entwickelten Lösungen - hauptsächliches Vorgehen
+* I.d.R. erarbeiten der Theorie anhand von überschaubaren Problemstellungen und deren in der Veranstaltung entwickelten Lösungen - hauptsächliches Vorgehen  
 
-* Fragen der Studierenden beantworten - sehr erwünscht!
+* Fragen der Studierenden beantworten - sehr erwünscht!  
 
-* Ilias zur Bereitstellung aller Informationen (Aktuelles, Links, Folien, Praktikums-/Übungsaufgaben, wie auch Lösungen)
+* Ilias zur Bereitstellung aller Informationen (Aktuelles, Links, Folien, Praktikums-/Übungsaufgaben, wie auch Lösungen)  
 
-* edb, die DB-eLearning-Plattform der TH Köln
+* edb, die DB-eLearning-Plattform der TH Köln  
 
 * DB-Wiki, das Online Lexikon für Datenbank-Themen
 
@@ -623,7 +615,6 @@ Klausur, deren Voraussetzung das bestandene Praktikum ist, und semesterbegleiten
 | Kürzel | EBR |
 | Studiensemester | 1 |
 | Sprache | deutsch |
-| Zuordnung zum Curriculum | Medieninformatik Bachelor |
 | Kreditpunkte | 5 |
 | Voraussetzungen nach Prüfungsordnung | Erfolgreiche Modulprüfungen in den Modulen des Grundstudiums |
 | Typ | Pflichtmodul |
@@ -636,13 +627,13 @@ Klausur, deren Voraussetzung das bestandene Praktikum ist, und semesterbegleiten
 
 ## Arbeitsaufwand:
 
-Gesamtaufwand 150 h, davon
+Gesamtaufwand 150 h, davon 
 
-- 36 h Vorlesung
+- 36 h Vorlesung 
 
 - 36 h Übung
 
-- 78 h Selbststudium
+- 78 h Selbststudium 
 
 
 ## Angestrebte Lernergebnisse:
@@ -681,7 +672,6 @@ Schriftliche Prüfung, zuvor erfolgreiche Teilnahme am Praktikum als Prüfungsvo
 | Kürzel | EMI |
 | Studiensemester | 1 |
 | Sprache | Deutsch |
-| Zuordnung zum Curriculum | Medieninformatik Bachelor |
 | Kreditpunkte | 5 |
 | Voraussetzungen nach Prüfungsordnung | Keine |
 | Typ | Pflichtmodul |
@@ -699,7 +689,7 @@ Vorlesung mit eingebetteten Übungselementen
 
 ## Angestrebte Lernergebnisse:
 
-Die Studierenden können die inhaltlichen Ausrichtungen und die Zielsetzungen der Lehr- und Anwendungsdisziplin Medieninformatik benennen und gegenüber verwandten oder ähnlichen Disziplinen abgrenzen.
+Die Studierenden können die inhaltlichen Ausrichtungen und die Zielsetzungen der Lehr- und Anwendungsdisziplin Medieninformatik benennen und gegenüber verwandten oder ähnlichen Disziplinen abgrenzen. 
 
 Die Studierenden kennen Grundkonzepte der Informatik (z.B. Anforderungen) sowie audiovisueller und interaktiver Medientechnologien, kennen architekturelle Alternativen interaktiver Systeme und kennen Gestaltungsdimensionen für deren Informations- und Kommunikationsinhalte. Die Studierenden sind sensibilisiert für Modellierungs- und Entwicklungsaufgaben von medienbasierten Software-Systemen zur Unterstützung menschlichen Handelns in betrieblichen und privaten Kontexten.
 
@@ -735,7 +725,7 @@ mündliche Prüfung, Projektpräsentation, schriftliche Ausarbeitung
 
 * Michael Herczeg: Einführung in die Medieninformatik, Oldenbourg Verlag, 2006, ISBN: 3-486-581-031
 
-* Chris Rupp et al: Requirements-Engineering und -Management: Aus der Praxis von klassisch bis agil, Carl Hanser Verlag; 6-te Auflage, 2014, ISBN-10: 3446438939
+* Chris Rupp et al: Requirements-Engineering und -Management: Aus der Praxis von klassisch bis agil, Carl Hanser Verlag; 6-te Auflage, 2014, ISBN-10: 3446438939 
 
 
 
@@ -748,7 +738,6 @@ mündliche Prüfung, Projektpräsentation, schriftliche Ausarbeitung
 | Kürzel | EPM |
 | Studiensemester | 5 |
 | Sprache | deutsch |
-| Zuordnung zum Curriculum | Medieninformatik Bachelor |
 | Kreditpunkte | 10 |
 | Voraussetzungen nach Prüfungsordnung | Schwerpunktmodul |
 | Typ | Pflichtmodul |
@@ -775,7 +764,7 @@ Die Studierenden sollen darüberhinaus lernen, die Vorgehensweise und die Ergebn
 
 Die Projekte werden in Teams durchgeführt. Zunächst werden von den Teams zwei Module aus den ersten vier Fachsemestern gewählt, welche die fachlichen Perspektiven für die Vertiefung bestimmen. In Absprache mit den Lehrenden werden dann Projektziele festgelegt.
 
-Aus dem Methoden- und Technikkatalog (siehe Vorlesungen zu den Lehrbereichen) wird in Absprache mit den Lehrenden eine Auswahl der einzusetzenden Entwicklungstechniken und -methoden sowie der einzuhaltenden Entwicklungsmodelle getroffen und Qualitätssicherungsmaßnahmen und das Prozessmanagement definiert.
+Aus dem Methoden- und Technikkatalog (siehe Vorlesungen zu den Lehrbereichen) wird in Absprache mit den Lehrenden eine Auswahl der einzusetzenden Entwicklungstechniken und -methoden sowie der einzuhaltenden Entwicklungsmodelle getroffen und Qualitätssicherungsmaßnahmen und das Prozessmanagement definiert. 
 
 Die Lehrenden bieten dann während der Projektdurchführung Beratung bzgl. des adäquaten Einsatzes der gewählten Methoden und Techniken. Zwischenstände des Projektes werden zu definierten Meilensteinen von den Projektteams präsentiert. Die Präsentation der Projektergebnisse findet in einem Plenum mit kritischer Diskussion der Methoden und Ergebnisse statt.
 
@@ -795,7 +784,6 @@ Die Projektergebnis, bestehend aus Prototyp und Dokumentation,  geht mit 80% in 
 | Kürzel | GW |
 | Studiensemester | 3 |
 | Sprache | deutsch |
-| Zuordnung zum Curriculum | Medieninformatik Bachelor |
 | Kreditpunkte | 5 |
 | Voraussetzungen nach Prüfungsordnung | keine |
 | Typ | Pflichtmodul |
@@ -813,20 +801,20 @@ In der Veranstaltung werden wesentliche Grundideen, Interaktionsprinzipien, Cont
 
 ## Arbeitsaufwand:
 
-Gesamtaufwand 150 h, davon
+Gesamtaufwand 150 h, davon 
 
-- 36 h Vorlesung
+- 36 h Vorlesung 
 
 - 36 h Seminar
 
-- 78 h Selbststudium
+- 78 h Selbststudium 
 
 
 ## Angestrebte Lernergebnisse:
 
-Die Studierenden
+Die Studierenden 
 
-- kennen wesentliche Grundideen, Interaktionsprinzipien, Contentarchitekturen und Sicherheitsmechanismen, die das Web als Medium konstituieren und
+- kennen wesentliche Grundideen, Interaktionsprinzipien, Contentarchitekturen und Sicherheitsmechanismen, die das Web als Medium konstituieren und 
 
 - können moderne Webanwendungen auf der Basis von Fachbegriffen analysieren und einordnen
 
@@ -841,13 +829,13 @@ Die Studierenden
 
 - Interaktionsformen: Synchrone Interaktion auf der Basis von REST, asynchrone Interaktion mit Publish/Subscribe
 
-- Fallstudien: Cloudservices für verteilte Anwendungen - z.B. Amazon Web Services, Google Firebase
+- Fallstudien: Cloudservices für verteilte Anwendungen - z.B. Amazon Web Services, Google Firebase 
 
 - Ausgewählte Sicherheitsmechanismen im Web
 
 - Inhaltsarchitekturen: XML, JSON, Microformate, RDFa
 
-Die Inhalte werden als Vorlesung vermittelt. In dem begleitenden Seminar werden die Konzepte mittels Fallstudien anwendungsbezogen analysiert und diskutiert.
+Die Inhalte werden als Vorlesung vermittelt. In dem begleitenden Seminar werden die Konzepte mittels Fallstudien anwendungsbezogen analysiert und diskutiert. 
 
 
 ## Studien-/Prüfungsleistungen:
@@ -887,7 +875,6 @@ Mündliche Prüfung
 | Kürzel | KTN |
 | Studiensemester | 3 |
 | Sprache | Deutsch |
-| Zuordnung zum Curriculum | Medieninformatik Bachelor |
 | Kreditpunkte | 5 |
 | Voraussetzungen nach Prüfungsordnung | Kenntnisse aus dem Grundstudium. |
 | Typ | Pflichtmodul |
@@ -900,7 +887,7 @@ Vorlesung, Praktikum
 
 ## Angestrebte Lernergebnisse:
 
-Die Studierenden sollen
+Die Studierenden sollen  
 
 - Prinzipien und Grundlagen von technischen Kommunikations­vor­gängen kennen lernen,
 
@@ -918,7 +905,7 @@ Grundbegriffe und Grundlagen, Kommunikationssysteme (Modelle, Grundbegriffe), Pr
 
 ## Medienformen:
 
-* Vorlesung im Hörsaal (PowerPoint und Beamer)
+* Vorlesung im Hörsaal (PowerPoint und Beamer)  
 
 * Praktikum an Rechnern des KTDS-Labors; Ressourcen: Netzanalysesoftware,div. Netzüberwachungssoftware, E-Mail-Server und -Clients, DNS-Server, ggf. weitereServer-Implementierungen
 
@@ -938,7 +925,6 @@ Grundbegriffe und Grundlagen, Kommunikationssysteme (Modelle, Grundbegriffe), Pr
 | Kürzel | MA1 |
 | Studiensemester | 1 |
 | Sprache | deutsch |
-| Zuordnung zum Curriculum | Medieninformatik Bachelor |
 | Kreditpunkte | 7 |
 | Voraussetzungen nach Prüfungsordnung | &nbsp; |
 | Typ | Pflichtmodul |
@@ -951,15 +937,15 @@ Grundbegriffe und Grundlagen, Kommunikationssysteme (Modelle, Grundbegriffe), Pr
 
 ## Arbeitsaufwand:
 
-Gesamtaufwand 210 h, davon
+Gesamtaufwand 210 h, davon 
 
-- 54 h Vorlesung
+- 54 h Vorlesung 
 
 - 18 h Praktikum
 
 - 36 h Übung
 
-- 102 h Selbststudium
+- 102 h Selbststudium 
 
 
 ## Angestrebte Lernergebnisse:
@@ -1010,7 +996,6 @@ Klausur (60 min) sowie erfolgreiche Teilnahme am Praktikum als Zulassungsvorauss
 | Kürzel | MA2 |
 | Studiensemester | 2 |
 | Sprache | deutsch |
-| Zuordnung zum Curriculum | Medieninformatik Bachelor |
 | Kreditpunkte | 8 |
 | Voraussetzungen nach Prüfungsordnung | Keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden. Der vorherige Besuch von Mathematik I ist sinnvoll, aber keine zwingende Voraussetzung. |
 | Typ | Pflichtmodul |
@@ -1023,15 +1008,15 @@ Klausur (60 min) sowie erfolgreiche Teilnahme am Praktikum als Zulassungsvorauss
 
 ## Arbeitsaufwand:
 
-Gesamtaufwand 240 h, davon
+Gesamtaufwand 240 h, davon 
 
-- 54 h Vorlesung
+- 54 h Vorlesung 
 
 - 18 h Praktikum
 
 - 36 h Übung
 
-- 132 h Selbststudium
+- 132 h Selbststudium 
 
 
 ## Angestrebte Lernergebnisse:
@@ -1041,13 +1026,13 @@ Die Studierenden sollen die Fähigkeiten zur Analyse realer oder geplanter Syste
 
 ## Inhalt:
 
-* Mehrdimensionale Differenzialrechnung,
+* Mehrdimensionale Differenzialrechnung, 
 
-* Graphentheorie,
+* Graphentheorie, 
 
-* Kombinatorik, Wahrscheinlichkeitsrechnung und Statistik,
+* Kombinatorik, Wahrscheinlichkeitsrechnung und Statistik, 
 
-* Komplexe Zahlen,
+* Komplexe Zahlen, 
 
 * Differentialgleichungen.
 
@@ -1061,7 +1046,7 @@ Klausur (60 min) sowie erfolgreiche Teilnahme am Praktikum als Zulassungsvorauss
 
 * s. Literaturliste auf der Homepage [www.gm.fh-koeln.de/~konen](www.gm.fh-koeln.de/~konen)
 
-* Skript unter [www.gm.fh-koeln.de/~konen/Mathe2-SS](www.gm.fh-koeln.de/~konen/Mathe2-SS )
+* Skript unter [www.gm.fh-koeln.de/~konen/Mathe2-SS](www.gm.fh-koeln.de/~konen/Mathe2-SS ) 
 
 
 
@@ -1074,7 +1059,6 @@ Klausur (60 min) sowie erfolgreiche Teilnahme am Praktikum als Zulassungsvorauss
 | Kürzel | MCI |
 | Studiensemester | 2 |
 | Sprache | deutsch |
-| Zuordnung zum Curriculum | Medieninformatik Bachelor |
 | Kreditpunkte | 10 |
 | Voraussetzungen nach Prüfungsordnung | keine |
 | Typ | Pflichtmodul |
@@ -1087,7 +1071,7 @@ Vorlesung und Übung
 
 ## Arbeitsaufwand:
 
-Gesamtaufwand 300 h, davon
+Gesamtaufwand 300 h, davon 
 
 * 65h Vorlesung
 
@@ -1098,15 +1082,15 @@ Gesamtaufwand 300 h, davon
 
 ## Angestrebte Lernergebnisse:
 
-* Die Studierenden erwerben Grundkenntnisse in kognitions-, arbeits- und organisations-psychologischen Grundkonzepten und können diese auf Problemstellungen, im Kontext der Mensch-Computer Interaktion, anwenden.
+* Die Studierenden erwerben Grundkenntnisse in kognitions-, arbeits- und organisations-psychologischen Grundkonzepten und können diese auf Problemstellungen, im Kontext der Mensch-Computer Interaktion, anwenden. 
 
-* Die Studierenden kennen Modelle, Methoden, Arbeits- und Dokumentationstechniken der Mensch-Computer Interaktion, können sie anwenden, kritisch diskutieren und für konkrete Aktivitäten in Entwicklungsprojekten unter Abwägung der Alternativen auswählen.
+* Die Studierenden kennen Modelle, Methoden, Arbeits- und Dokumentationstechniken der Mensch-Computer Interaktion, können sie anwenden, kritisch diskutieren und für konkrete Aktivitäten in Entwicklungsprojekten unter Abwägung der Alternativen auswählen. 
 
 * Sie kennen relevante internationale Normen und Standards, können sie anwenden und kritisch diskutieren .
 
-* Sie kennen methodische Ansätze benutzer- oder benutzungsorientierter Entwicklungsprozesse und können diese systematisch und iterativ auf die Konzeption, Realisation, Evaluation und das Redesign von interaktiven Systemen anwenden.
+* Sie kennen methodische Ansätze benutzer- oder benutzungsorientierter Entwicklungsprozesse und können diese systematisch und iterativ auf die Konzeption, Realisation, Evaluation und das Redesign von interaktiven Systemen anwenden. 
 
-* Zudem kennen sie Konzepte und Vorgehensmodelle für die Integration von Software- und Usability Engineering in einem Gesamtprozess und können diese in Entwicklungsprojekten anwenden.
+* Zudem kennen sie Konzepte und Vorgehensmodelle für die Integration von Software- und Usability Engineering in einem Gesamtprozess und können diese in Entwicklungsprojekten anwenden. 
 
 * Die Studierenden erlangen die Fähigkeit zum fachlichen Diskurs.
 
@@ -1199,7 +1183,6 @@ schriftliche Modulprüfung
 | Kürzel | IRG |
 | Studiensemester | 5 |
 | Sprache | deutsch |
-| Zuordnung zum Curriculum | Medieninformatik Bachelor |
 | Kreditpunkte | 5 |
 | Voraussetzungen nach Prüfungsordnung | keine |
 | Typ | Pflichtmodul |
@@ -1223,15 +1206,15 @@ Gesamtaufwand: 150 h, davon
 
 ## Angestrebte Lernergebnisse:
 
-Informatikerinnen und Informatiker analysieren und konstruieren sozio-technische Systeme und entwickeln dabei semiotische Artefakte wie z.B. Spezifikationen, Programme und Handbücher. Die entwickelten Systeme bilden einerseits soziale Wirklichkeit in vielfältiger Form ab und ändern andererseits diese Wirklichkeit durch ihren Einsatz.
+Informatikerinnen und Informatiker analysieren und konstruieren sozio-technische Systeme und entwickeln dabei semiotische Artefakte wie z.B. Spezifikationen, Programme und Handbücher. Die entwickelten Systeme bilden einerseits soziale Wirklichkeit in vielfältiger Form ab und ändern andererseits diese Wirklichkeit durch ihren Einsatz. 
 
 Die Studierenden sollen befähigt werden
 
-* ethische und rechtliche Aspekte des Einsatzes von Informatik-Systemen zu charakterisieren und
+* ethische und rechtliche Aspekte des Einsatzes von Informatik-Systemen zu charakterisieren und 
 
-* ein kritisches Bewusstsein für die aktuellen Fragen des wechselseitigen Einflusses von Informatik und Gesellschaft zu entwickeln sowie
+* ein kritisches Bewusstsein für die aktuellen Fragen des wechselseitigen Einflusses von Informatik und Gesellschaft zu entwickeln sowie 
 
-* die Grundbegriffe des deutschen Privatrechts zu verstehen und sich im dazugehörigen Gesetzeswerk zu orientieren,
+* die Grundbegriffe des deutschen Privatrechts zu verstehen und sich im dazugehörigen Gesetzeswerk zu orientieren, 
 
 * um die unterschiedlichen Wechselwirkungen zwischen Informatik-Systemen und ihrem Einsatzumfeld erkennen und bewerten und insbesondere im Bereich des Vertragsrechts selbständige Lösungsvorschläge erarbeiten zu können.
 
@@ -1249,7 +1232,7 @@ Die Wechselwirkungen zwischen den von Informatikern entwickelten Systemen und ih
 
 - Systemgestaltung und Verantwortung der Informatik.
 
-Beispielhafte Inhalte:
+Beispielhafte Inhalte: 
 
 - Geschichte der Informatik
 
@@ -1276,11 +1259,11 @@ Beispielhafte Inhalte:
 
 ### Recht
 
-* Einführung in das deutsche Privatrecht, insbesondere in das BGB.
+* Einführung in das deutsche Privatrecht, insbesondere in das BGB. 
 
-* Schwerpunkt im Schuldrecht, hier insbesondere im Vertragsrecht.
+* Schwerpunkt im Schuldrecht, hier insbesondere im Vertragsrecht. 
 
-* Besondere Aspekte des Verbraucherschutzes und der inhaltlichen Gestaltung von Verträgen.
+* Besondere Aspekte des Verbraucherschutzes und der inhaltlichen Gestaltung von Verträgen. 
 
 * Im Allgemeinen Teil des BGB wird auf den Vertragsschluss, die Willenerklärung als rechtsgeschäftliches Gestaltungsmittel und die allgemeinen Anforderungen an die Vertragspartner eingegangen.
 
@@ -1349,7 +1332,6 @@ Beamergestützte Vorträge
 | Kürzel | PP |
 | Studiensemester | 3 |
 | Sprache | deutsch |
-| Zuordnung zum Curriculum | Medieninformatik Bachelor |
 | Kreditpunkte | 5 |
 | Voraussetzungen nach Prüfungsordnung | Keine über die Zulassungsvorrausetzungen hinausgehenden Vorraussetzungen |
 | Typ | Pflichtmodul |
@@ -1362,7 +1344,7 @@ Beamergestützte Vorträge
 
 ## Arbeitsaufwand:
 
-Gesamtaufwand 150 h, davon
+Gesamtaufwand 150 h, davon 
 
 * 36 h Vorlesung
 
@@ -1434,7 +1416,6 @@ Klausur sowie erfolgreiche Teilnahme am Praktikum als Prüfungsvorleistung
 | Kürzel | PP |
 | Studiensemester | 6 |
 | Sprache | deutsch |
-| Zuordnung zum Curriculum | Medieninformatik Bachelor |
 | Kreditpunkte | 10 |
 | Voraussetzungen nach Prüfungsordnung | alle Modulprüfungen außer Praxisprojekt, Bachelorarbeit und Kolloquium bestanden |
 | Typ | Pflichtmodul |
@@ -1452,7 +1433,7 @@ Angeleitetes, eigenverantwortliches Arbeiten
 
 ## Angestrebte Lernergebnisse:
 
-Die Studierenden
+Die Studierenden 
 
 - können Methoden und Techniken, die sie im Studium erlernt haben, in realitätsnahen Projekten weitgehend selbstständig anwenden
 
@@ -1479,7 +1460,6 @@ Schriftliche Ausarbeitung, Projektdokumentation
 | Kürzel | PPS |
 | Studiensemester | 6 |
 | Sprache | deutsch |
-| Zuordnung zum Curriculum | Medieninformatik Bachelor |
 | Kreditpunkte | 5 |
 | Voraussetzungen nach Prüfungsordnung | alle Modulprüfungen außer Bachelorarbeit und Kolloquium bestanden |
 | Typ | Pflichtmodul |
@@ -1492,7 +1472,7 @@ Seminar
 
 ## Arbeitsaufwand:
 
-Gesamtaufwand 150 h, davon
+Gesamtaufwand 150 h, davon 
 
 * 32 h Seminar
 
@@ -1501,7 +1481,7 @@ Gesamtaufwand 150 h, davon
 
 ## Angestrebte Lernergebnisse:
 
-Die Studierenden
+Die Studierenden  
 
 - kennen Techniken wissenschaftlichen Arbeitens
 
@@ -1543,7 +1523,6 @@ Seminarvortrag zur Praxisprojektarbeit
 | Kürzel | PM |
 | Studiensemester | 5 |
 | Sprache | deutsch |
-| Zuordnung zum Curriculum | Medieninformatik Bachelor |
 | Kreditpunkte | 5 |
 | Voraussetzungen nach Prüfungsordnung | Zulassungsbedingung - Abgeschlossenes Grundstudium; Sonst keine besonderen Voraussetzungen; |
 | Typ | Pflichtmodul |
@@ -1561,7 +1540,7 @@ Managementaspekte der professionellen Entwicklung großer Softwaresysteme
 
 ## Arbeitsaufwand:
 
-Gesamtaufwand 150 h, davon
+Gesamtaufwand 150 h, davon 
 
 * 36 h Vorlesung
 
@@ -1574,7 +1553,7 @@ Gesamtaufwand 150 h, davon
 
 ## Angestrebte Lernergebnisse:
 
-Die Studierenden sollen befähigt werden,
+Die Studierenden sollen befähigt werden, 
 
 - die grundlegenden Aufgaben des Projektmanagements, insb. in IT-Projekten, zu charakterisieren und durchzuführen
 
@@ -1587,9 +1566,9 @@ Die Studierenden sollen befähigt werden,
 
 ## Inhalt:
 
-Das Modul befasst sich mit den Managementaspekten der professionellen Entwicklung großer Softwaresysteme.
+Das Modul befasst sich mit den Managementaspekten der professionellen Entwicklung großer Softwaresysteme. 
 
-Der Vorlesungsteil des Moduls gliedert sich in folgende Kapitel:
+Der Vorlesungsteil des Moduls gliedert sich in folgende Kapitel: 
 
 - Überblick – Warum Projektmanagement?
 
@@ -1661,7 +1640,6 @@ Damit die Studierenden die vorgestellten Methoden und Techniken zum Management v
 | Kürzel | SD |
 | Studiensemester | 3 |
 | Sprache | deutsch |
-| Zuordnung zum Curriculum | Medieninformatik Bachelor |
 | Kreditpunkte | 5 |
 | Voraussetzungen nach Prüfungsordnung | keine |
 | Typ | Pflichtmodul |
@@ -1674,13 +1652,13 @@ Damit die Studierenden die vorgestellten Methoden und Techniken zum Management v
 
 ## Arbeitsaufwand:
 
-Gesamtaufwand 150 h, davon
+Gesamtaufwand 150 h, davon 
 
-- 40 h Seminar
+- 40 h Seminar 
 
-- 80 h Projektarbeit
+- 80 h Projektarbeit  
 
-- 30 h Selbststudium
+- 30 h Selbststudium 
 
 
 ## Angestrebte Lernergebnisse:
@@ -1701,7 +1679,7 @@ Die Studierenden können in einem gegebenen Gestaltungskontext, unter Berücksic
 
 - Axis Map & Semantisches Differential
 
-- Kommunikationsmodelle
+- Kommunikationsmodelle 
 
 - Visuelle Wahrnehmung
 
@@ -1734,7 +1712,7 @@ Die Studierenden können in einem gegebenen Gestaltungskontext, unter Berücksic
 
 - Layoutentwicklung für verschiedene Endgeräte
 
-- Flow & Transition
+- Flow & Transition 
 
 - Typographie & Textsatz
 
@@ -1786,7 +1764,6 @@ Beamergestützte Vorträge, Rechnergestützte  Workshops
 | Kürzel | ST1 |
 | Studiensemester | 4 |
 | Sprache | deutsch |
-| Zuordnung zum Curriculum | Medieninformatik Bachelor, 4. Semester , Pflichtfach |
 | Kreditpunkte | 5 |
 | Voraussetzungen nach Prüfungsordnung | Keine über die Zulassungsbedingungen hinausgehenden Voraussetzungen |
 | Typ | Pflichtmodul |
@@ -1806,33 +1783,33 @@ max. 15 Studierende/Praktikumsgruppe;
 
 ## Arbeitsaufwand:
 
-Gesamtaufwand 150 h, davon
+Gesamtaufwand 150 h, davon 
 
-- 36 h Vorlesung
+- 36 h Vorlesung 
 
 - 36 h Praktikum
 
-- 78 h Selbststudium
+- 78 h Selbststudium 
 
 
 ## Angestrebte Lernergebnisse:
 
-Die Studierenden sollen befähigt werden,
+Die Studierenden sollen befähigt werden, 
 
-- zu abstrahieren, Modelle zu entwickeln, Unterschiede zwischen Modell und Realität zu beurteilen sowie
+- zu abstrahieren, Modelle zu entwickeln, Unterschiede zwischen Modell und Realität zu beurteilen sowie 
 
-- gegebene Modelle zu interpretieren, zu analysieren und zu bewerten,
+- gegebene Modelle zu interpretieren, zu analysieren und zu bewerten, 
 
 -  um komplexe Systeme zu analysieren, im Team zu entwerfen und dabei im Rahmen methodischer Vorgehensweisen Techniken und Werkzeuge der objektorientierten Modellierung und Softwareentwicklung in den Aktivitäten Anforderungsermittlung, Softwarespezifizierung und Entwurf einzusetzen.
 
 
 ## Inhalt:
 
-Die Vorlesung skizziert zunächst das Gesamtgebiet Softwaretechnik und behandelt dann ausschließlich grundlegende „Informatikaspekte” der objektorientierten Softwareentwicklung. Als wesentliche Grundlage werden die wichtigsten Elemente der Unified Modelling Language (UML) vorgestellt und anhand kleinerer Beispiele erläutert. Danach werden typische Aktivitäten der Softwareentwicklung besprochen, wobei die UML als Modellierungssprache benutzt wird. Im Praktikum werden die Anwendung der Modellierungselemente und die Durchführung der Aktivitäten in Gruppenarbeit vertieft.
+Die Vorlesung skizziert zunächst das Gesamtgebiet Softwaretechnik und behandelt dann ausschließlich grundlegende „Informatikaspekte” der objektorientierten Softwareentwicklung. Als wesentliche Grundlage werden die wichtigsten Elemente der Unified Modelling Language (UML) vorgestellt und anhand kleinerer Beispiele erläutert. Danach werden typische Aktivitäten der Softwareentwicklung besprochen, wobei die UML als Modellierungssprache benutzt wird. Im Praktikum werden die Anwendung der Modellierungselemente und die Durchführung der Aktivitäten in Gruppenarbeit vertieft.  
 
-Das Modul gliedert sich in folgende Inhalte:
+Das Modul gliedert sich in folgende Inhalte: 
 
-- (10%) Softwareentwicklung im Überblick (Komplexität großer Software, Kernaktivitäten und unterstützende Aktivitäten);
+- (10%) Softwareentwicklung im Überblick (Komplexität großer Software, Kernaktivitäten und unterstützende Aktivitäten); 
 
 - (30%) Die Modellierungssprache UML (Strukturmodellierung mit Objekt- und Klassendiagrammen, Funktionsmodellierung mit Anwendungsfalldiagrammen, Verhaltensmodellierung mit Sequenz-, Kommunikations- und Zustandsdiagrammen);
 
@@ -1886,7 +1863,6 @@ Klausur 120 Minuten
 | Kürzel | TI1 |
 | Studiensemester | 1 |
 | Sprache | deutsch |
-| Zuordnung zum Curriculum | Medieninformatik Bachelor |
 | Kreditpunkte | 5 |
 | Voraussetzungen nach Prüfungsordnung | Einfache Kenntnisse der naiven Mengenlehre, wie sie in der Schule vermittelt und bei der mathematischen Begriffsbildung verwendet werden. |
 | Typ | Pflichtmodul |
@@ -1905,7 +1881,7 @@ Gesamtaufwand 150 h, davon
 
 - 50h Übung (inkl. Vor- und Nachbearbeitung)
 
-- 50h Selbstlernphase
+- 50h Selbstlernphase 
 
 
 ## Angestrebte Lernergebnisse:
@@ -1923,7 +1899,7 @@ Gesamtaufwand 150 h, davon
 
 ## Inhalt:
 
-Dieses Grundlagenfach zur Informatik erstreckt sich über zwei Semester (Theoretische Informatik 1 und Theoretische Informatik 2).
+Dieses Grundlagenfach zur Informatik erstreckt sich über zwei Semester (Theoretische Informatik 1 und Theoretische Informatik 2).  
 
 - Grundlagen: Mengen, Relationen, Graphen, Polynome; Zahlensysteme, Zahlendarstellung, Numerische Aspekte; Codierung, Informationstheorie
 
@@ -1999,7 +1975,6 @@ Vorlesung mit Übung
 | Kürzel | TI2 |
 | Studiensemester | 2 |
 | Sprache | deutsch |
-| Zuordnung zum Curriculum | Medieninformatik Bachelor |
 | Kreditpunkte | 5 |
 | Voraussetzungen nach Prüfungsordnung | Einfache Kenntnisse der naiven Mengenlehre, wie sie in der Schule vermittelt und bei der mathematischen Begriffsbildung verwendet werden. |
 | Typ | Pflichtmodul |
@@ -2018,7 +1993,7 @@ Gesamtaufwand 150 h, davon
 
 - 50h Übung (inkl. Vor- und Nachbearbeitung)
 
-- 50h Selbstlernphase
+- 50h Selbstlernphase 
 
 
 ## Angestrebte Lernergebnisse:
@@ -2112,7 +2087,6 @@ Vorlesung und praktische Übungen
 | Kürzel | VC |
 | Studiensemester | 4 |
 | Sprache | deutsch |
-| Zuordnung zum Curriculum | Medieninformatik Bachelor |
 | Kreditpunkte | 20 |
 | Voraussetzungen nach Prüfungsordnung | keine |
 | Typ | Vertiefungsmodul |
@@ -2181,7 +2155,7 @@ Wahlkatalog Game Development:
 
 ### Audiovisuelle Medientechnik
 
-Die Studierenden sollen durch dieses Modul dazu befähigt werden, auf Basis der technischen Grundlagen der Video- und Fernsehtechnik weitergehende Fragestellungen selbstständig zu erarbeiten und sich so auch zukünftige technische Entwicklungen autonom erschließen zu können.
+Die Studierenden sollen durch dieses Modul dazu befähigt werden, auf Basis der technischen Grundlagen der Video- und Fernsehtechnik weitergehende Fragestellungen selbstständig zu erarbeiten und sich so auch zukünftige technische Entwicklungen autonom erschließen zu können. 
 
 Neben der Entwicklung und Förderung dieser Fachkompetenz ist die Initiierung der Methodenkompetenz eine wichtige Säule des Vorlesungsmoduls. Unter Methodenkompetenz ist hier die Selbstorganisation im Sinne von wissenschaftlicher Fragestellung an einen Themenkomplex und ein strukturiertes Vorgehen in der Erarbeitung eines Lösungsansatzes zu verstehen. Ziel ist es, das Wissen aus verschiedenen Bereichen, wie Kerninformatik, Internet- und Webtechnologien und benachbarten Wissenschaften mit der in diesem Modul unterrichteten Medientechnologien zu kombinieren und in die Medienproduktion zu integrieren.
 
@@ -2194,23 +2168,23 @@ Pragmatisches Ziel ist es, in den unterschiedlichsten Berufsfeldern audiovisuell
 
 Die Grundlagen der zwei- und insbesondere der dreidimensionalen Computergraphik und Animation stellen ein hervorragendes Paradigma zur Vermittlung zentraler Inhalte und Kompetenzen der Medieninformatik dar.
 
-Den Studierenden wird deutlich, wie der Bogen von den abstrakten, geometrischen und algorithmischen Fakten zu den pragmatischen Gegebenheiten der Computergraphik-Hardware gespannt ist.
+Den Studierenden wird deutlich, wie der Bogen von den abstrakten, geometrischen und algorithmischen Fakten zu den pragmatischen Gegebenheiten der Computergraphik-Hardware gespannt ist. 
 
-Sie erkennen die Zusammenhänge zwischen Grundlagenvorlesungen (Mathematik, Algorithmen, Programmierung) und der Gestaltung von Schnittstellen und Oberflächen und werden so für die jeweiligen Inhalte zusätzlich motiviert.
+Sie erkennen die Zusammenhänge zwischen Grundlagenvorlesungen (Mathematik, Algorithmen, Programmierung) und der Gestaltung von Schnittstellen und Oberflächen und werden so für die jeweiligen Inhalte zusätzlich motiviert. 
 
 Dabei lernen Sie, im Kontext der Computergrafik, Verfahrensweisen kennen, um den algorithmischen Kern eines Problems zu identifizieren und können Algorithmen entwerfen, verifizieren und bzgl. ihres Ressourcenbedarfs bewerten.
 
-Sie erwerben die Fähigkeit, aktuelle technologische Entwicklungen im Medieninformatik-Kontext zu bewerten und Trends einzuordnen.
+Sie erwerben die Fähigkeit, aktuelle technologische Entwicklungen im Medieninformatik-Kontext zu bewerten und Trends einzuordnen. 
 
-Nach Abschluss des Moduls besitzen die Studierenden grundlegende Kenntnisse über Architektur und Programmierung moderner Graphikhardware, sowie deren Anwendung in konkreten Problemstellungen und Anwendungskontexten.
+Nach Abschluss des Moduls besitzen die Studierenden grundlegende Kenntnisse über Architektur und Programmierung moderner Graphikhardware, sowie deren Anwendung in konkreten Problemstellungen und Anwendungskontexten. 
 
 Am Beispiel von OpenGL und der Rendering-Pipeline lernen die Studierenden Problemstellungen im Anwendungskontext zu erkennen und sind mit den zugehörigen Lösungsmustern durch praktische Programmierung vertraut.
 
-Das erlernte Wissen und die erlernten Kenntnisse in der Soft- und Grafikhardware-Architektur ermöglicht es erfolgreichen Teilnehmern, anschließend Echtzeit-Visualisierungen mit OpenGL zu implementieren und somit mit einer modernen, plattformunabhängigen API umzugehen, die flexibel an bestehende Anforderungen angepasst werden kann. Zudem haben Sie die Fähigkeit hochparallele Algorithmen auf der Graphikkarte zu entwerfen und auszuführen.
+Das erlernte Wissen und die erlernten Kenntnisse in der Soft- und Grafikhardware-Architektur ermöglicht es erfolgreichen Teilnehmern, anschließend Echtzeit-Visualisierungen mit OpenGL zu implementieren und somit mit einer modernen, plattformunabhängigen API umzugehen, die flexibel an bestehende Anforderungen angepasst werden kann. Zudem haben Sie die Fähigkeit hochparallele Algorithmen auf der Graphikkarte zu entwerfen und auszuführen. 
 
 Dabei beherrschen die Studierenden nach Abschluss des Moduls die Fähigkeit abstrakte Szenen- und Objektbeschreibungen zu erstellen und darzustellen, sowie sich in vorhandenen Quelltext einzuarbeiten und diesen sinnvoll weiter zu entwickeln.
 
-Die Inhalte des Moduls befähigen die Studierenden die grundlegenden Algorithmen und Datenstrukturen der Echtzeit-Computergraphik zu beherrschen.
+Die Inhalte des Moduls befähigen die Studierenden die grundlegenden Algorithmen und Datenstrukturen der Echtzeit-Computergraphik zu beherrschen. 
 
 Die Studierenden können ihr erworbenes Können und Wissen zur Implementierung einer eigenen Game/Visualisierungs-Engine einsetzen. Dies zeigen Sie durch Umsetzung eines eigenen Projektes in Kleingruppen, wo sie zusätzlich lernen mündlich überzeugend zu präsentieren, abweichende Positionen zu erkennen und in eine sach- und interessengerechte Lösung zu integrieren. Sie zeigen dadurch, dass Sie in der Lage sind sich selbstständig neues Wissen anzueigenen und zu erkennen, welches Wissen relevant ist, können mediengestalterische Grundkompetenzen anwenden und besitzen aktive Vokabularien zur Beschreibung und Realisierung angemessener Konzeptionen. Zudem können sie die Realisationen bezüglich der Zielsetzungen kritisch diskutieren.
 
@@ -2246,15 +2220,15 @@ Die Kursteilnehmer sammeln im Rahmen ihres eigenständig entwickelten Projektes 
 
 ### Prozedurale Generierung virtueller Welten
 
-Die Studierenden haben die Möglichkeit ihr Wissen über 3D-Computergrafik, 3D-Geometrie und Programmierung zu vertiefen und praktisch anzuwenden. Durch den Einsatz von Unity als Crossplatform-Game-Development-Tool können die Studierenden ihre Erfahrung mit einer aktuellen Game-Engine und der dazugehörigen Entwicklungsumgebung vertiefen und werden befähigt diese um Funktionalitäten zu erweitern.
+Die Studierenden haben die Möglichkeit ihr Wissen über 3D-Computergrafik, 3D-Geometrie und Programmierung zu vertiefen und praktisch anzuwenden. Durch den Einsatz von Unity als Crossplatform-Game-Development-Tool können die Studierenden ihre Erfahrung mit einer aktuellen Game-Engine und der dazugehörigen Entwicklungsumgebung vertiefen und werden befähigt diese um Funktionalitäten zu erweitern. 
 
 Die Inhalte des Moduls befähigen die Studierenden die grundlegenden Algorithmen und Datenstrukturen der Echtzeit-Computergrafik mit der Game-Engine Unity zu beherrschen.
 
-Das Modul ist daher geeignet das Wissen aus den Modulen „Computergrafik und Animation“, sowie ”Cross-Platform Game Development mit Unity 3D” zu vertiefen und zu erweitern.
+Das Modul ist daher geeignet das Wissen aus den Modulen „Computergrafik und Animation“, sowie ”Cross-Platform Game Development mit Unity 3D” zu vertiefen und zu erweitern. 
 
-Konzepte aus der 3D-Computergrafik und der prozeduralen Generierung werden in diesem sehr praktisch ausgelegten Kurs implementiert und die relevanten Grundlagen vermittelt, die es den Studierenden ermöglichen eigenständig Anforderungen für Projekte mit prozeduralen Techniken zu entwickeln und diese praktisch umzusetzen und kritisch zu evaluieren.
+Konzepte aus der 3D-Computergrafik und der prozeduralen Generierung werden in diesem sehr praktisch ausgelegten Kurs implementiert und die relevanten Grundlagen vermittelt, die es den Studierenden ermöglichen eigenständig Anforderungen für Projekte mit prozeduralen Techniken zu entwickeln und diese praktisch umzusetzen und kritisch zu evaluieren. 
 
-Nach Abschluss des Moduls besitzen die Studierenden grundlegende Kenntnisse über verschiedene Techniken der prozeduralen Generierung zur Erstellung von 3D Content für Visualisierungen, Simulationen und Spiele, sowie die Fähigkeiten diese einzusetzen, sowie selbst zu entwickeln.
+Nach Abschluss des Moduls besitzen die Studierenden grundlegende Kenntnisse über verschiedene Techniken der prozeduralen Generierung zur Erstellung von 3D Content für Visualisierungen, Simulationen und Spiele, sowie die Fähigkeiten diese einzusetzen, sowie selbst zu entwickeln. 
 
 Je nach gewählten Vertiefungskursen entwickeln die Studierenden Fähigkeiten zur selbstverantwortlichen Durchführung von Projekten im Bereich Gamedevelopment, dreidimensionaler Darstellung virtueller Szenen, Film- und Fernsehtechnik, sowie Visueller Effekte.
 
@@ -2291,19 +2265,19 @@ Im Detail:
 
 ### Computergrafik und Animation
 
-- Graphikhardware,
+- Graphikhardware, 
 
 - OpenGL
 
-- Transformationen und homogene Koordinaten
+- Transformationen und homogene Koordinaten 
 
 - Interpolation
 
-- Kameramodelle
+- Kameramodelle 
 
-- Clipping
+- Clipping 
 
-- Shaderprogrammierung
+- Shaderprogrammierung 
 
 - Animation
 
@@ -2510,7 +2484,7 @@ Beamergestützte Vorträge, Rechnergestützte Workshops
 
 - Ryan Watkins, "Procedural Content Generation for Unity Game Development", Packt Publishing
 
-- Dale Green, "Procedural Content Generation for C++ Game Development", Packt Publishing
+- Dale Green, "Procedural Content Generation for C++ Game Development", Packt Publishing 
 
 
 
@@ -2523,7 +2497,6 @@ Beamergestützte Vorträge, Rechnergestützte Workshops
 | Kürzel | WD |
 | Studiensemester | 4 |
 | Sprache | deutsch |
-| Zuordnung zum Curriculum | Medieninformatik Bachelor |
 | Kreditpunkte | 20 |
 | Voraussetzungen nach Prüfungsordnung | keine |
 | Typ | Vertiefungsmodul |
@@ -2577,11 +2550,11 @@ Die Studierenden kennen das Zusammenspiel von server- und clientseitigen Kompone
 
 ### Serverseitige Frameworks und Dienste:
 
-Die Studentinnen und Studenten kennen
+Die Studentinnen und Studenten kennen 
 
 - wesentliche Frameworks, Dienste und Werkzeuge für die serverseitige Entwicklung von Web Anwendungen
 
-- können ausgewählte Frameworks, Dienste und Tools in einem Projektkontext anwenden.
+- können ausgewählte Frameworks, Dienste und Tools in einem Projektkontext anwenden. 
 
 Die Kompetenz zur systematischen Entwicklung von Systemen in einem arbeitsteiligen Team wird eingeübt und vertieft. Kenntnisse aus den anderen Modulen der Vertiefung werden vertieft und verknüpft und im Rahmen eines konkreten Projektauftrags angewendet.
 
@@ -2589,7 +2562,7 @@ Die Studierenden sind in der Lage ein Projektbriefing zu durchdringen und daraus
 
 Den Teilnehmern steht eine Auswahl an Techniken und Frameworks zur Verfügung, aus dem sie die passenden Ansätze begründet auswählen und anwenden können.
 
-Die StudentenInnen sind in der Lage eine komplexe Anwendung im Web über mehrere Endgeräte hinweg zu planen, zu realisieren und zu dokumentieren.
+Die StudentenInnen sind in der Lage eine komplexe Anwendung im Web über mehrere Endgeräte hinweg zu planen, zu realisieren und zu dokumentieren. 
 
 
 ### Internet of Things:
@@ -2634,7 +2607,7 @@ Die Studierenden
 
 - Media Types
 
-- CSS Frameworks
+- CSS Frameworks 
 
 - CSS Preprozessoren
 
@@ -2660,7 +2633,7 @@ Ausgewählte Tools sollen tiefgreifend erarbeitet werden und in einem Projektkon
 
 ### Internet of Things:
 
-Zu Begin des Moduls findet eine Einführung durch den Dozenten statt. Danach werden in seminaristischem Unterricht verschiedene aktuelle und relevante Technologie des Internet of Things vermittelt, demonstriert und erprobt (bspw. Raspberry Pi, Arduino, MQTT, Node-Red, Johnny Five, AndroidThings). Diese werden in Teams zur Entwicklung eines eigenen IoT-Prototypen eingesetzt.
+Zu Begin des Moduls findet eine Einführung durch den Dozenten statt. Danach werden in seminaristischem Unterricht verschiedene aktuelle und relevante Technologie des Internet of Things vermittelt, demonstriert und erprobt (bspw. Raspberry Pi, Arduino, MQTT, Node-Red, Johnny Five, AndroidThings). Diese werden in Teams zur Entwicklung eines eigenen IoT-Prototypen eingesetzt. 
 
 Weitere Inhalte sind:
 
@@ -2728,7 +2701,6 @@ Hier fehlen noch die Literaturangaben zu den einzelnen Teilmodulen
 | Kürzel | SC |
 | Studiensemester | 4 |
 | Sprache | deutsch |
-| Zuordnung zum Curriculum | Medieninformatik Bachelor |
 | Kreditpunkte | 20 |
 | Voraussetzungen nach Prüfungsordnung | keine |
 | Typ | Vertiefungsmodul |
@@ -2736,11 +2708,11 @@ Hier fehlen noch die Literaturangaben zu den einzelnen Teilmodulen
 
 ## Kurzbeschreibung
 
-In der Vertiefung „Social Computing” werden die Wechselwirkungen zwischen Gesellschaft und Informatik in den Mittelpunkt gestellt. Rechnersysteme und Netzwerke werden von Menschen intentional gestaltet, ausgerichtet an gesellschaftlichen Normen, Prozessen und Bedürfnissen. Gleichzeitig beeinflussen IT-Systeme diese gesellschaftlichen Normen und verändern Prozesse in allen Lebensbereichen. Die verantwortungsbewusste Konzeption und Realisierung von soziotechnischen Systemen (z.B. Social Software, Online Communities, e-Health, e-Government und e-Learning Angebote) sowie die empirische Evaluation existierender Systeme sind zentrale Ziele. Lösungen sollen unter ganzheitlichen Gesichtspunkten entwickelt werden. Verschiedene Wertvorstellungen und Interessen unterschiedlicher Stakeholder müssen identifiziert und berücksichtig werden.
+In der Vertiefung „Social Computing” werden die Wechselwirkungen zwischen Gesellschaft und Informatik in den Mittelpunkt gestellt. Rechnersysteme und Netzwerke werden von Menschen intentional gestaltet, ausgerichtet an gesellschaftlichen Normen, Prozessen und Bedürfnissen. Gleichzeitig beeinflussen IT-Systeme diese gesellschaftlichen Normen und verändern Prozesse in allen Lebensbereichen. Die verantwortungsbewusste Konzeption und Realisierung von soziotechnischen Systemen (z.B. Social Software, Online Communities, e-Health, e-Government und e-Learning Angebote) sowie die empirische Evaluation existierender Systeme sind zentrale Ziele. Lösungen sollen unter ganzheitlichen Gesichtspunkten entwickelt werden. Verschiedene Wertvorstellungen und Interessen unterschiedlicher Stakeholder müssen identifiziert und berücksichtig werden. 
 
-Der Schwerpunkt verbindet daher Theorien, Modelle und Methodik der Human- und Sozialwissenschaften mit anwendungsorientierter Informatik. Studierende sollen in der Lage sein, computergestützte Systeme nach ethischen, politischen, sozialen und psychologischen Kriterien zu bewerten, zu planen und umsetzen zu können.
+Der Schwerpunkt verbindet daher Theorien, Modelle und Methodik der Human- und Sozialwissenschaften mit anwendungsorientierter Informatik. Studierende sollen in der Lage sein, computergestützte Systeme nach ethischen, politischen, sozialen und psychologischen Kriterien zu bewerten, zu planen und umsetzen zu können. 
 
-Ziel ist es, soziale Innovation durch digitale Anwendungen entstehen zu lassen. Neben den empirischen Methoden werden Designmethoden vermittelt, sowohl auf der konzeptionellen als auch auf der softwaretechnischen Implementierungsebene, um robuste, sichere und flexible Systeme zu gestalten.
+Ziel ist es, soziale Innovation durch digitale Anwendungen entstehen zu lassen. Neben den empirischen Methoden werden Designmethoden vermittelt, sowohl auf der konzeptionellen als auch auf der softwaretechnischen Implementierungsebene, um robuste, sichere und flexible Systeme zu gestalten. 
 
 Das Modul ist aus vier Teilbereichen aufgebaut, von denen zwei verpflichtend sind und zwei weitere aus einem Wahlkatalog gewählt werden können.
 
@@ -2818,7 +2790,6 @@ siehe jeweilige Kursbeschreibung
 | Kürzel | WPF |
 | Studiensemester | 5 |
 | Sprache | deutsch |
-| Zuordnung zum Curriculum | Medieninformatik Bachelor |
 | Kreditpunkte | 5 |
 | Voraussetzungen nach Prüfungsordnung | keine |
 | Typ | Pflichtmodul |
