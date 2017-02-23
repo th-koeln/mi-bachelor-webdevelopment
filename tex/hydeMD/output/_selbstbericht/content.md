@@ -214,18 +214,13 @@ Das jährlich durchgeführte Medieninformatik-Filmfest dient zur Stärkung der I
 
 ### Beurteilung des Studienerfolgs auf der Basis von Absolventenbefragungen und Verbleibstudien
 
-Die folgenden Ausführungen beruhen auf der Datenerhebung[^anhang-verbleib-und-studienabbruch] zum 01.12.2015 für den Zeitraum 2011 bis 2015 und fokussieren die derzeit eingeschriebenen Studierenden, erfolgreiche Abschlüsse und Studienfachabbrecher im Medieninformatik-Bachelor.
+Die folgenden Ausführungen beruhen auf den Erhebungen der Studiernendenzahlen am Campus Gummersbach innerhalb des letzten Akkreditierungszeitraums und der Datenerhebung[^anhang-verbleib-und-studienabbruch] zum 01.12.2015 für den Zeitraum 2011 bis 2015 und fokussieren die derzeit eingeschriebenen Studierenden, erfolgreiche Abschlüsse und Studienfachabbrecher im Medieninformatik-Bachelor.
 
 
-![Tabelle: Daten des Bachelorstudiengangs Medieninformatik](../anhaenge/tabellen/MI-BA-anzahl-studierende.png)
+![Studienanfänger im Bachelorstudiengang Medieninformatik](../anhaenge/bilder/ba-anfaengerzahlen.png)
 
-| Semester   | Einschreibungen gesamt | Davon noch im Studium | Davon Abbruch | Davon Abschluss |
-| ---------- | ---------------------- | --------------------- | ------------- | --------------- |
-| WS 2010/11 | 96                     | 28 (29,2%)            | 30 (31,3%)    | 25 (26,0%)      |
-| WS 2011/12 | 141                    | 59 (41,8%)            | 48 (34,0%)    | 15 (10,6%)      |
-| WS 2012/13 | 144                    | 78 (54,2%)            | 42 (29,2%)    | 2 (1,4%)        |
 
-Die in Tabelle 1 dargestellten Zahlen zeigen einen stetig wachsenden Zulauf für den Bachelorstudiengang Medieninformatik, der ursprünglich für 63 Studierende ausgelegt wurde. Erfreulicherweise ist, trotz der im Rahmen der Fakultätsentwicklung und des Hochschulentwicklungsplans 2020[^anhang-hep-2020] steigenden Anfängerzahlen, eine gleichbleibende Abbrecherquote um die 30% zu erkennen. Die Zahlen zeigen leider auch eine niedrige Quote an Absolventen in Regelstudienzeit, die jedoch im Mittel aller Studiengänge der Fakultät 10 liegt. Nach den vorliegenden Prüfungsstatistiken (vgl. Prüfungsstatistiken [^Anhang-Pruefungsstatistiken]) ist mit einem proportionalen Anstieg der Absolventen zu rechnen.
+Die Zahlen zeigen einen stetig wachsenden Zulauf für den Bachelorstudiengang Medieninformatik, der ursprünglich für 63 Studierende ausgelegt wurde. Erfreulicherweise ist aus den letzten vorliegenden Zahlen von 2014, trotz der im Rahmen der Fakultätsentwicklung und des Hochschulentwicklungsplans 2020[^anhang-hep-2020] steigenden Anfängerzahlen, eine gleichbleibende Abbrecherquote um die 30%. Die Zahlen zeigen leider auch eine niedrige Quote an Absolventen in Regelstudienzeit, die jedoch im Mittel aller Studiengänge der Fakultät 10 liegt. Nach den vorliegenden Prüfungsstatistiken (vgl. Prüfungsstatistiken [^Anhang-Pruefungsstatistiken]) ist mit einem proportionalen Anstieg der Absolventen zu rechnen.
 
 Die im Rahmen der letzten Reakkreditierung eingebrachten Änderungen können hinsichtlich der Quote der Studienabbrecher bereits als recht erfolgreich bewertet werden. Vor allem die Auflösung der strikten, durch Zulassungsvoraussetzungen in der Prüfungsordnung verankerte Trennung von Grund- und Hauptstudium hat die Dauer des Fachstudiums definitiv verkürzt. Auch die Einführung des Moduls „Einführung in die Medieninformatik“ (EMI) erweist sich als sinnvoll und notwendig, um den Studierenden früh die Perspektiven und fachlichen Aspekte der Medieninformatik näher zu bringen.
 
@@ -491,47 +486,36 @@ Aufbauend auf den thematischen Gebieten des Bachelorstudiengangs, die sich dort 
 Die Schwerpunkte setzen sich aus den folgenden Modulen zusammen:
 
 ### Schwerpunkt Social Computing
-
-| Modul | hervorgegangen aus | enthalten in folgenden Schwerpunkten |
-|:---|:---|:---|
-|Sicherheit, Privatsphäre und Vertrauen im Netz| IT Sicherheit | Multiperspective Product Development, Weaving the Web|
-|Soziotechnische Entwurfsmuster | - | - |
-|Netzwerk-und Graphentheorie | - | - |
+- Sicherheit, Privatsphäre und Vertrauen im Netz
+- Soziotechnische Entwurfsmuster
+-  Netzwerk-und Graphentheorie
 
 ### Schwerpunkt Visual Computing
 
-| Modul | hervorgegangen aus | enthalten in folgenden Schwerpunkten |
-|:---|:---|:---|
-|Storytelling und Narrative Strukturen | - | - |
-|Bildbasierte Computergrafik  | - | - |
-|Visualisierung | Visualistik | - |
+- Storytelling und Narrative Strukturen
+- Bildbasierte Computergrafik
+- Visualisierung
 
 
 ### Schwerpunkt Human-Computer Interaction
 
-| Modul | hervorgegangen aus | enthalten in folgenden Schwerpunkten |
-|:---|:---|:---|
-|Interaction Design | Interaction Design | - |
-|Design Methodologies | - | - |
-|Angewandte Statistik für die Mensch-Computer Interaktion  | Naturwissenschaftliche Grundlagen digitaler Medien | - |
+- Interaction Design
+- Design Methodologies
+- Angewandte Statistik für die Mensch-Computer Interaktion
 
 
 ### Schwerpunkt Weaving the Web
 
-| Modul | hervorgegangen aus | enthalten in folgenden Schwerpunkten |
-|:---|:---|:---|
-|Sicherheit, Privatsphäre und Vertrauen im Netz| IT Sicherheit | - |
-|Web Architekturen  | - | - |
-|Web Technologien  | - | - |
+- Sicherheit, Privatsphäre und Vertrauen im Netz
+- Web Architekturen
+- Web Technologien
 
 
 ### Generalistischer Studienverlauf: Multiperspective Product Development
 
-| Modul | hervorgegangen aus | enthalten in folgenden Schwerpunkten |
-|:---|:---|:---|
-|Sicherheit, Privatsphäre und Vertrauen im Netz| IT Sicherheit | - |
-|	-  | - | - |
-| Qualitätssicherung für Web-Anwendungen| Entwicklungsmethoden in Medienprojekten und Qualitätssicherung | - |
+- Sicherheit, Privatsphäre und Vertrauen im Netz
+- Interaction Design
+- Qualitätssicherung für Web-Anwendungen
 
 
 ## Erhöhung des Anteils an praxisnahen Projekten
@@ -716,9 +700,7 @@ Die Studierenden …
 - kennen die Gestaltungsdimensionen von Medien und besitzen aktive Vokabularien zur Beschreibung und Realisierung angemessener Konzeptionen.
 - können die Realisationen bezüglich der Zielsetzungen kritisch diskutieren.
 
-
-[^gi-empfehlungen]: Gesellschaft für Informatik e.V. (GI): "Empfehlungen für Bachelor- und Masterprogramme im Studienfach Informatik an Hochschulen", unter: [https://www.gi.de/fileadmin/redaktion/empfehlungen/GI-Empfehlungen_Bachelor-Master-Informatik2016.pdf (abgerufen am 17.02.2017)](https://www.gi.de/fileadmin/redaktion/empfehlungen/GI-Empfehlungen_Bachelor-Master-Informatik2016.pdf)
-
+[^gi-empfehlungen]: Gesellschaft für Informatik e.V. (GI): "Empfehlungen für Bachelor- und Masterprogramme im Studienfach Informatik an Hochschulen", unter: [https://www.gi.de/fileadmin/redaktion/empfehlungen/GI-Empfehlungen_Bachelor-Master-Informatik2016.pdf](https://www.gi.de/fileadmin/redaktion/empfehlungen/GI-Empfehlungen_Bachelor-Master-Informatik2016.pdf) (abgerufen am 17.02.2017) 
 [^positionspapier-gi-mci-mi]: Martin Christof Kindsmüller, Christian Wolters, Andreas M. Heinecke: "Medieninformatik 2016: Was war, was ist, was soll sein?", unter: [http://dl.mensch-und-computer.de/bitstream/handle/123456789/5131/Kindsm%C3%BCller_Wolters_Heinecke_2016.pdf](http://dl.mensch-und-computer.de/bitstream/handle/123456789/5131/Kindsm%C3%BCller_Wolters_Heinecke_2016.pdf)
 
 
@@ -759,7 +741,7 @@ Absolventinnen und Absolventen des Bachelorstudiengangs Medieninformatik:
 
 
 ### Weiterführende Dokumente
-- Website des Medieninformatik Bachelor: [https://www.th-koeln.de/studium/medieninformatik-bachelor_2379.php](https://www.th-koeln.de/studium/medieninformatik-bachelor_2379.php) (abgerufen am 23.02.2017)
+- Website des Medieninformatik Bachelor: [https://www.th-koeln.de/studium/medieninformatik-bachelor_2379.php](https://www.th-koeln.de/studium/medieninformatik-bachelor_2379.php)
 - Ordnungen zum Medieninformatik Bachelor: [https://www.th-koeln.de/studium/medieninformatik-bachelor--ordnungen-und-formulare_3963.php](https://www.th-koeln.de/studium/medieninformatik-bachelor--ordnungen-und-formulare_3963.php) (abgerufen am 23.02.2017)
 - Themen der Abschlussabeiten des Medieninformatik Bachelor 2010 bis 2014: [abschlussarbeiten_2010-2014_.pdf](../anhaenge/abschlussarbeiten_2010-2014_.pdf)
 - Studienverlaufsplan Medieninformatik Bachelor: [ba-studienverlaufsplan.pdf](../anhaenge/ba-studienverlaufsplan.pdf)
@@ -1230,7 +1212,6 @@ Innerhalb der Hochschule wird eine enge Kooperation mit einigen in Köln angesie
 Mit der „Köln International School of Design“ als interne Einrichtung der „Fakultät für Kulturwissenschaften“ (Fakultät 02) und der „Fakultät für angewandte Sozialwissenschaften“ (Fakultät 01) werden gemeinsame Lehrveranstaltungen durchgeführt.
 Das Modul „Wissensmanagement“ des Masterstudiengangs bspw. wird von der „Fakultät für Wirtschaftswissenschaften“ der Fachhochschule Köln (Fakultät 04) importiert.
 Das Institut für Informatik und das Institut für Automation & IT sind ferner im Forschungsschwerpunkt COSA (s Kap. 5.1.3.3) synergetisch verbunden.
-Es besteht ein kontinuierlicher Austausch mit dem Institut für Tropentechnologie der Fachhochschule Köln: Jährlich wird von Herrn Prof. Dr. Jacksons Roehrig das Wahlpflichtfach „GIS Geografische Informationssysteme“ angeboten.
 
 ### Fakultätsinterne Zusammenarbeit
 Innerhalb der Fakultät sind die Institute „Betriebswirtschaftliches Institut Gummersbach (BIG)“ und das „Institut für Distance Learning & Further Education (IDF)“ mit verschiedenen Modulen in die Bachelor- und Masterstudiengängen involviert.
@@ -1242,7 +1223,7 @@ Innerhalb der Fakultät 10 für Informatik und Ingenieurwissenschaften besteht n
 ### Kooperationen mit internationalen Hochschulen
 Erste Kooperationsprojekte mit ausländischen Hochschulen datieren auf den Beginn der 80-iger Jahre. Damals wurde eine Kooperation (Erasmus-Kontrakt) mit der École Centrale de Lille abgeschlossen. Diese Kooperation existiert noch heute und regelt den Austausch auf Sokrates- und ERASMUS-Ebene von Professoren und insbesondere Studierenden.
 
-Unter den gleichen formalen Bedingungen existiert seit vielen Jahren eine Kooperation mit der Université Blaise Pascal in Clermont-Ferrand und der École pour l’Informatique et les Techniques Avancées à Paris (ÉPITA). Mit ÉPITA findet ein regelmäßiger Studierenden und Dozentenaustausch statt; so war Herr Prof. Hartmann (ehem. Plaßmann) im Jahr 2006 im Rahmen einer Kurzzeitdozentur an der ÉPITA. Regelmässig studieren ERASMUS-Studierenden von ÉPITA am Campus Gummersbach.
+Unter den gleichen formalen Bedingungen existiert seit vielen Jahren eine Kooperation mit der Université Blaise Pascal in Clermont-Ferrand und der École pour l’Informatique et les Techniques Avancées à Paris (ÉPITA). Mit ÉPITA findet ein regelmäßiger Studierenden und Dozentenaustausch statt. 
 
 ~~~
 me: Zahlen müssen aktualisiert werden
@@ -1303,14 +1284,15 @@ me: Wo bekommen wir aktuelle Zahlen her?
 Insgesamt absolvieren durchschnittlich 10 Studenten Praktika (Praxissemester) im Ausland, durch Erasmus–Programme werden ca. 20 Studenten jährlich unterstützt, die entweder nach Gummersbach kommen oder ein Semester im Ausland verbringen. Mit den oben angegebenen Hochschulen bestehen Erasmus-Kontakte und andere Partnerschaftsabkommen, um dem Austausch einen formalen Rahmen zu geben.
 
 ### Firmen Kooperationen
-Das "IT-Forum Oberberg e.V." ist eine Initiative und ein Zusammenschluss interessierter - vorwiegend Oberbergischer- Unternehmen und Gewerbetreibender der IT-Branche (IT-Anbieter und -Nachfrager), der Industrie- und Handelskammer zu Köln - Zweigstelle Oberberg, sowie Bildungsträgern wie der Technischen Hochschule Köln - Campus Gummersbach und dem Berufskolleg des Oberbergischen Kreises. Es hat mittlerweile 56 Mitglieder und veranstaltet regelmäßig Leistungsschauen, an denen sich das Institut für Informatik beteiligt.
 
-Seit 2002 besteht ein Kooperationsvertrag mit dem Kreiskrankenhaus Gummersbach, der vom Rektor Prof. Dr. Metzner und dem Geschäftsführer des Kreiskrankenhauses, Hr. Finklenburg, im Beisein der lokalen Presse unterzeichnet wurde. Gegenstand dieser
-Zusammenarbeit sind sowohl Themen der Medizininformatik als auch der Wirtschaftsinformatik. Als Beispiele seien genannt: Prozessmodellierung und -optimierung, Entwicklung eines Patiententracking-Systems, Entwicklung eines Portals, Unterstützung bei
-der Einführung eines Arzt-Informationssystems und die Entwicklung von PDA-Anwendungen für den medizinischen Bereich. Das Ergebnis dieser Arbeiten ist in (Bärwolff, Victor, Hüsken "IT-Systeme in der Medizin", Vieweg Verlag, Wiesbaden, 2006, 1. Auflage) dokumentiert.
+Durch zwei jährlich stattfindenden Veranstaltungen im Studiengang Medieninformatikwerden immer wieder neue Kontakte zu Unternehmen und Institutionen geknüpft:
+- Bei dem jeweils zu Eginn des Wintersemresters stattfindenden "Medieninformatik Showcase" werden herausagende studentische Projektarbeiten präsentiert und es wird über keynotes und Diskussionsveranstaltungen der Kontakt zu Unternehmen gepflegt.
+- Bei der jeweils zum Ende des Wintersemesters stattfindenden "Medieninformatik Projektbörse" stellen ausgewählte Unternehmen Kopperationsmöglichkeiten dar und es entstehen in der REgel zunächst durch die gemeinsame Betreuung von Abschlussarbeiten so immer wieder neue Kontakte.
 
 Zu anderen Hochschulen oder Institutionen bestehen im Bereich der Informatik Verbindungen. Für die Medieninformatik von besonderer Bedeutung sind die Verbindungen zur Kunsthochschule für Medien in Köln, zum Frauenhofer Institut in Schloss Birlinghofen, und zu
-einigen Firmen aus dem RTL Firmenverbund sowie zum WDR. Seit 2005 lobt RTL jährlich drei RTL-Preise aus, mit denen drei Abschlussarbeiten aus den Studiengängen der Medieninformatik prämiert werden.
+einigen Firmen aus dem RTL Firmenverbund sowie zum WDR. Seit 2005 lobt das Cologne Broadcasting Center der RTL Gruppe (CBC) jährlich den CBC-Preis aus, mit denen drei Abschlussarbeiten aus den Studiengängen der Medieninformatik prämiert werden.
+
+Das "IT-Forum Oberberg e.V." ist eine Initiative und ein Zusammenschluss interessierter - vorwiegend Oberbergischer- Unternehmen und Gewerbetreibender der IT-Branche (IT-Anbieter und -Nachfrager), der Industrie- und Handelskammer zu Köln - Zweigstelle Oberberg, sowie Bildungsträgern wie der Technischen Hochschule Köln - Campus Gummersbach und dem Berufskolleg des Oberbergischen Kreises. Es hat mittlerweile 56 Mitglieder und veranstaltet regelmäßig Leistungsschauen, an denen sich das Institut für Informatik beteiligt.
 
 ~~~
 me: Hat hier noch wer weitere Firmen?

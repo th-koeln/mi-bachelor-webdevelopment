@@ -25,47 +25,36 @@ Aufbauend auf den thematischen Gebieten des Bachelorstudiengangs, die sich dort 
 Die Schwerpunkte setzen sich aus den folgenden Modulen zusammen:
 
 ### Schwerpunkt Social Computing
-
-| Modul | hervorgegangen aus | enthalten in folgenden Schwerpunkten |
-|:---|:---|:---|
-|Sicherheit, Privatsphäre und Vertrauen im Netz| IT Sicherheit | Multiperspective Product Development, Weaving the Web|
-|Soziotechnische Entwurfsmuster | - | - |
-|Netzwerk-und Graphentheorie | - | - |
+- Sicherheit, Privatsphäre und Vertrauen im Netz
+- Soziotechnische Entwurfsmuster
+-  Netzwerk-und Graphentheorie
 
 ### Schwerpunkt Visual Computing
 
-| Modul | hervorgegangen aus | enthalten in folgenden Schwerpunkten |
-|:---|:---|:---|
-|Storytelling und Narrative Strukturen | - | - |
-|Bildbasierte Computergrafik  | - | - |
-|Visualisierung | Visualistik | - |
+- Storytelling und Narrative Strukturen
+- Bildbasierte Computergrafik
+- Visualisierung
 
 
 ### Schwerpunkt Human-Computer Interaction
 
-| Modul | hervorgegangen aus | enthalten in folgenden Schwerpunkten |
-|:---|:---|:---|
-|Interaction Design | Interaction Design | - |
-|Design Methodologies | - | - |
-|Angewandte Statistik für die Mensch-Computer Interaktion  | Naturwissenschaftliche Grundlagen digitaler Medien | - |
+- Interaction Design
+- Design Methodologies
+- Angewandte Statistik für die Mensch-Computer Interaktion
 
 
 ### Schwerpunkt Weaving the Web
 
-| Modul | hervorgegangen aus | enthalten in folgenden Schwerpunkten |
-|:---|:---|:---|
-|Sicherheit, Privatsphäre und Vertrauen im Netz| IT Sicherheit | - |
-|Web Architekturen  | - | - |
-|Web Technologien  | - | - |
+- Sicherheit, Privatsphäre und Vertrauen im Netz
+- Web Architekturen
+- Web Technologien
 
 
 ### Generalistischer Studienverlauf: Multiperspective Product Development
 
-| Modul | hervorgegangen aus | enthalten in folgenden Schwerpunkten |
-|:---|:---|:---|
-|Sicherheit, Privatsphäre und Vertrauen im Netz| IT Sicherheit | - |
-|	-  | - | - |
-| Qualitätssicherung für Web-Anwendungen| Entwicklungsmethoden in Medienprojekten und Qualitätssicherung | - |
+- Sicherheit, Privatsphäre und Vertrauen im Netz
+- Interaction Design
+- Qualitätssicherung für Web-Anwendungen
 
 
 ## Erhöhung des Anteils an praxisnahen Projekten

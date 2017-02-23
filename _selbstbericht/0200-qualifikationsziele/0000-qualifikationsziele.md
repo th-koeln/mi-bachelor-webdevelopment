@@ -122,7 +122,5 @@ Die Studierenden …
 - kennen die Gestaltungsdimensionen von Medien und besitzen aktive Vokabularien zur Beschreibung und Realisierung angemessener Konzeptionen.
 - können die Realisationen bezüglich der Zielsetzungen kritisch diskutieren.
 
-
-[^gi-empfehlungen]: Gesellschaft für Informatik e.V. (GI): "Empfehlungen für Bachelor- und Masterprogramme im Studienfach Informatik an Hochschulen", unter: <a href="https://www.gi.de/fileadmin/redaktion/empfehlungen/GI-Empfehlungen_Bachelor-Master-Informatik2016.pdf">https://www.gi.de/fileadmin/redaktion/empfehlungen/GI-Empfehlungen_Bachelor-Master-Informatik2016.pdf (abgerufen am 17.02.2017)</a>
-
+[^gi-empfehlungen]: Gesellschaft für Informatik e.V. (GI): "Empfehlungen für Bachelor- und Masterprogramme im Studienfach Informatik an Hochschulen", unter: <a href="https://www.gi.de/fileadmin/redaktion/empfehlungen/GI-Empfehlungen_Bachelor-Master-Informatik2016.pdf">https://www.gi.de/fileadmin/redaktion/empfehlungen/GI-Empfehlungen_Bachelor-Master-Informatik2016.pdf</a> (abgerufen am 17.02.2017) 
 [^positionspapier-gi-mci-mi]: Martin Christof Kindsmüller, Christian Wolters, Andreas M. Heinecke: "Medieninformatik 2016: Was war, was ist, was soll sein?", unter: <a href="http://dl.mensch-und-computer.de/bitstream/handle/123456789/5131/Kindsm%C3%BCller_Wolters_Heinecke_2016.pdf">http://dl.mensch-und-computer.de/bitstream/handle/123456789/5131/Kindsm%C3%BCller_Wolters_Heinecke_2016.pdf</a>

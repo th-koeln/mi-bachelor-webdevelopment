@@ -180,25 +180,28 @@
 
 
 \usepackage[raggedright]{titlesec}
-\titleformat{\chapter}[display]
+\titleformat{\chapter}
   {\normalfont\sffamily\mdseries}
-  {}{14pt}{\huge\raggedright}
+  {}{1px}{\huge\raggedright}
+  \titlespacing*{\chapter}{0cm}{0pt}{0pt}[0pt]
 % {\chaptertitlename\ \thechapter}{14pt}{\huge\raggedright}
 \titleformat{\section}
-  {\singlespacing\normalfont\sffamily\mdseries\LARGE\color{m_pink}\raggedright}
-  {\thesection}{1em}{\LARGE}
+  {\singlespacing\normalfont\sffamily\mdseries\large\color{m_pink}\raggedright}
+  {\thesection}{1em}{\large}
+  \titlespacing*{\section}{0pt}{0pt}{-\topskip/2}[0pt]
 \titleformat{\subsection}
   {\singlespacing\normalfont\sffamily\mdseries\large\raggedright}
   {\thesubsection}{1em}{\large}
-% Zeilenumbruch und Spacing für Absätze
+% Zeilenumbruch und Spacing fÃŒr AbsÃ€tze
 \titleformat{\paragraph}[hang]
   {\singlespacing\normalfont\normalsize\bfseries}
-  {\theparagraph}{1em}{}
+  {\theparagraph}{1pt}{}
 \titlespacing*{\paragraph}{0pt}{3.25ex plus 1ex minus .2ex}{0.5em}
-
 
 \usepackage[font=footnotesize]{caption}
 
+\usepackage{enumitem}
+\setlist{leftmargin=1em}
 
 % Footer definieren
 \makeatletter

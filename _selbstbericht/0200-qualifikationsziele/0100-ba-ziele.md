@@ -44,7 +44,7 @@ Absolventinnen und Absolventen des Bachelorstudiengangs Medieninformatik:
 
 
 ### Weiterführende Dokumente
-- Website des Medieninformatik Bachelor: <a href="https://www.th-koeln.de/studium/medieninformatik-bachelor_2379.php">https://www.th-koeln.de/studium/medieninformatik-bachelor_2379.php</a> (abgerufen am 23.02.2017)
+- Website des Medieninformatik Bachelor: <a href="https://www.th-koeln.de/studium/medieninformatik-bachelor_2379.php">https://www.th-koeln.de/studium/medieninformatik-bachelor_2379.php</a>
 - Ordnungen zum Medieninformatik Bachelor: <a href="https://www.th-koeln.de/studium/medieninformatik-bachelor--ordnungen-und-formulare_3963.php">https://www.th-koeln.de/studium/medieninformatik-bachelor--ordnungen-und-formulare_3963.php</a> (abgerufen am 23.02.2017)
 - Themen der Abschlussabeiten des Medieninformatik Bachelor 2010 bis 2014: <a href="../anhaenge/abschlussarbeiten_2010-2014_.pdf">abschlussarbeiten_2010-2014_.pdf</a>
 - Studienverlaufsplan Medieninformatik Bachelor: <a href="../anhaenge/ba-studienverlaufsplan.pdf">ba-studienverlaufsplan.pdf</a>
