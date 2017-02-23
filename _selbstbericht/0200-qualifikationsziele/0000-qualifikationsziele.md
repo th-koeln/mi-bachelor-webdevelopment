@@ -5,7 +5,7 @@ bearbeiterhistorie: Christian Noss
 date: 17.02.2017
 comment:
 status: fertig
-reviewed-von: Robert Gabriel
+reviewed-von: Robert Gabriel, HK
 review-comment:
 ---
 
@@ -69,7 +69,7 @@ Die wesentliche Basis für die Entwicklung und Ausgestaltung relevanter Kompeten
 
 **Technologische Kompetenzen:** Digitaltechnik und Rechnerorganisation, Betriebssysteme, Datenbanken und Informationssysteme, Rechnernetze und verteilte Systeme, IT-Sicherheit
 
-**Fachübergreifende Kompetenzen:** Gesellschaftliche und berufsethische Aspekte von Informatiksystemen im Anwendungskontext, ökonomische und ökologische Aspekte von Informatiksystemen im Anwendungskontext, rechtliche Aspekte von Informatiksystemen im Anwendungskontext
+**Fachübergreifende Kompetenzen:** Gesellschaftliche und berufsethische Aspekte von Informatiksystemen im Anwendungskontext, ökonomische und ökologische Aspekte von Informatiksystemen im Anwendungskontext, rechtliche Aspekte von Informatiksystemen im Anwendungskontext
 
 **Soziale Kompetenzen und Selbstkompetenzen:** Kooperationsmanagement, Diversity- und Konfliktmanagement, Organisationsentwicklung
 
