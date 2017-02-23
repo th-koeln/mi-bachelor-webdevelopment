@@ -40,7 +40,7 @@ Innerhalb der Fakultät 10 für Informatik und Ingenieurwissenschaften besteht n
 ### Kooperationen mit internationalen Hochschulen
 Erste Kooperationsprojekte mit ausländischen Hochschulen datieren auf den Beginn der 80-iger Jahre. Damals wurde eine Kooperation (Erasmus-Kontrakt) mit der École Centrale de Lille abgeschlossen. Diese Kooperation existiert noch heute und regelt den Austausch auf Sokrates- und ERASMUS-Ebene von Professoren und insbesondere Studierenden.
 
-Unter den gleichen formalen Bedingungen existiert seit vielen Jahren eine Kooperation mit der Université Blaise Pascal in Clermont-Ferrand und der École pour l’Informatique et les Techniques Avancées à Paris (ÉPITA). Mit ÉPITA findet ein regelmäßiger Studierenden und Dozentenaustausch statt; so war Herr Prof. Hartmann (ehem. Plaßmann) im Jahr 2006 im Rahmen einer Kurzzeitdozentur an der ÉPITA. Regelmässig studieren ERASMUS-Studierenden von ÉPITA am Campus Gummersbach.
+Unter den gleichen formalen Bedingungen existiert seit vielen Jahren eine Kooperation mit der Université Blaise Pascal in Clermont-Ferrand und der École pour l’Informatique et les Techniques Avancées à Paris (ÉPITA). Mit ÉPITA findet ein regelmäßiger Studierenden und Dozentenaustausch statt. 
 
 ~~~
 me: Zahlen müssen aktualisiert werden
@@ -101,6 +101,11 @@ me: Wo bekommen wir aktuelle Zahlen her?
 Insgesamt absolvieren durchschnittlich 10 Studenten Praktika (Praxissemester) im Ausland, durch Erasmus–Programme werden ca. 20 Studenten jährlich unterstützt, die entweder nach Gummersbach kommen oder ein Semester im Ausland verbringen. Mit den oben angegebenen Hochschulen bestehen Erasmus-Kontakte und andere Partnerschaftsabkommen, um dem Austausch einen formalen Rahmen zu geben.
 
 ### Firmen Kooperationen
+
+Durch zwei jährlich stattfindenden Veranstaltungen im Studiengang Medieninformatikwerden immer wieder neue Kontakte zu Unternehmen und Institutionen geknüpft:
+- Bei dem jeweils zu Eginn des Wintersemresters stattfindenden "Medieninformatik Showcase" werden herausagende studentische Projektarbeiten präsentiert und es wird über keynotes und Diskussionsveranstaltungen der Kontakt zu Unternehmen gepflegt.
+- Bei der jeweils zum Ende des Wintersemesters stattfindenden "Medieninformatik Projektbörse" stellen ausgewählte Unternehmen Kopperationsmöglichkeiten dar und es entstehen in der REgel zunächst durch die gemeinsame Betreuung von Abschlussarbeiten so immer wieder neue Kontakte.
+
 Das "IT-Forum Oberberg e.V." ist eine Initiative und ein Zusammenschluss interessierter - vorwiegend Oberbergischer- Unternehmen und Gewerbetreibender der IT-Branche (IT-Anbieter und -Nachfrager), der Industrie- und Handelskammer zu Köln - Zweigstelle Oberberg, sowie Bildungsträgern wie der Technischen Hochschule Köln - Campus Gummersbach und dem Berufskolleg des Oberbergischen Kreises. Es hat mittlerweile 56 Mitglieder und veranstaltet regelmäßig Leistungsschauen, an denen sich das Institut für Informatik beteiligt.
 
 Seit 2002 besteht ein Kooperationsvertrag mit dem Kreiskrankenhaus Gummersbach, der vom Rektor Prof. Dr. Metzner und dem Geschäftsführer des Kreiskrankenhauses, Hr. Finklenburg, im Beisein der lokalen Presse unterzeichnet wurde. Gegenstand dieser
@@ -108,7 +113,7 @@ Zusammenarbeit sind sowohl Themen der Medizininformatik als auch der Wirtschafts
 der Einführung eines Arzt-Informationssystems und die Entwicklung von PDA-Anwendungen für den medizinischen Bereich. Das Ergebnis dieser Arbeiten ist in (Bärwolff, Victor, Hüsken "IT-Systeme in der Medizin", Vieweg Verlag, Wiesbaden, 2006, 1. Auflage) dokumentiert.
 
 Zu anderen Hochschulen oder Institutionen bestehen im Bereich der Informatik Verbindungen. Für die Medieninformatik von besonderer Bedeutung sind die Verbindungen zur Kunsthochschule für Medien in Köln, zum Frauenhofer Institut in Schloss Birlinghofen, und zu
-einigen Firmen aus dem RTL Firmenverbund sowie zum WDR. Seit 2005 lobt RTL jährlich drei RTL-Preise aus, mit denen drei Abschlussarbeiten aus den Studiengängen der Medieninformatik prämiert werden.
+einigen Firmen aus dem RTL Firmenverbund sowie zum WDR. Seit 2005 lobt das Cologne Broadcasting Center der RTL Gruppe (CBC) jährlich den CBC-Preis aus, mit denen drei Abschlussarbeiten aus den Studiengängen der Medieninformatik prämiert werden.
 
 ~~~
 me: Hat hier noch wer weitere Firmen?
