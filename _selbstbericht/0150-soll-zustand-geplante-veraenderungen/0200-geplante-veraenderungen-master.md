@@ -5,7 +5,7 @@ bearbeiterhistorie: Christian Noss
 date: 17.02.2017
 comment: Schwerpunktmodule und deren Herkunft nicht komplett
 status: Unvollständig, Peer Review erforderlich
-reviewed-von:
+reviewed-von: Robert Gabriel
 ---
 
 Die im Folgenden dargestellten geplanten Veränderungen des Masterstudienprogramms dienen zur Beseitigung erkannter Schwächen (vgl. Defizite Medieninformatik Master). Grundsätzlich wurde die Basisgröße der Module von fünf auf sechs Creditpoints erhöht. Module haben also stets ein Gewicht von sechs Creditpoints oder einem Vielfachen davon. Zum einen, um auch im Master die einzelnen Fachsemester weniger stark zu fragmentieren, zum anderen, um mit dem Informatik Masterstudiengang, der ebenfalls am Campus Gummersbach angeboten wird Module und Projekte teilen zu können. 
