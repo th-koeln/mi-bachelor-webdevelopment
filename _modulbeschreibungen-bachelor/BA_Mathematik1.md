@@ -17,7 +17,15 @@ type: pm
 
 ## Arbeitsaufwand:
 
+Gesamtaufwand 210 h, davon 
+
+- 54 h Vorlesung 
+- 18 h Praktikum
+- 36 h Übung
+- 102 h Selbststudium 
+
 ## Angestrebte Lernergebnisse:
+
 Die Studierenden sollen die Fähigkeiten zur Analyse realer oder geplanter Systeme entwickeln, indem sie praktische Aufgabenstellungen aus dem Informatik-Umfeld in mathematische Strukturen abstrahieren und lernen, selbstständig  die Modellfindung und die Ergebnisbeurteilung vorzunehmen. Dabei sollen die Anwendungsbezüge der Mathematik deutlich werden, z.B. die Bedeutung funktionaler Beziehungen für kontinuierliche Zusammenhänge, die lineare Algebra z.B als Grundlage der grafischen Datenverarbeitung und die Analysis zur Verarbeitung von Signalen und zur Lösung von mathematischen Modellen.
 
 

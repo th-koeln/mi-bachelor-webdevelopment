@@ -186,7 +186,7 @@ Mit Beginn des Wintersemesters 11/12 wurde das mehrstufige MentoRing4Excellence�
 
 Für Studienanfänger und Mentoren bedeutet das Mentoring ein Gewinn. Die Studienanfänger finden leichter ins Studium und schneller Kontakte. Die Mentoren erhalten neue Impulse für den eigenen Studienkontext und entwickeln/stärken die eigene Kommunikations- und Beratungskompetenz. Das Mentoringprogramm wird evaluiert.
 
-Besonders engagierte, leistungs- und kommunikationsbereite Studierende, die sich als Mentoren bewährt haben, können sich für das „Leadership Development Program“ bewerben. Im Rahmen dieses studienbegleitenden Qualifizierungsprogramms werden den Studierenden externe Führungskräfte als Mentoren zur Seite gestellt, so dass sie in Gesprächen, in Projektmitarbeit und durch Einbindung in berufsrelevante Netzwerke von deren langjähriger Berufs- und Lebenserfahrung profitieren können. Das Programm beginnt mit einer individuellen Potenzialanalyse und umfasst mehrere Trainingseinheiten zur Entwicklung relevanter Führungsfähigkeiten.
+Besonders engagierte, leistungs- und kommunikationsbereite Studierende, die sich als Mentoren bewährt haben, können sich für das „Leadership Development Program“ bewerben. Im Rahmen dieses studienbegleitenden Qualifizierungsprogramms werden den Studierenden externe Führungskräfte als Mentoren zur Seite gestellt, sodass sie in Gesprächen, in Projektmitarbeit und durch Einbindung in berufsrelevante Netzwerke von deren langjähriger Berufs- und Lebenserfahrung profitieren können. Das Programm beginnt mit einer individuellen Potenzialanalyse und umfasst mehrere Trainingseinheiten zur Entwicklung relevanter Führungsfähigkeiten.
 
 #### Medieninformatik Mentor
 
@@ -210,7 +210,7 @@ Der jährlich vom Labor für Medieninformatik durchgeführte Wettbewerb "Die bes
 
 #### Medieninformatik Kontaktbörse
 
-Die bereits beschriebe, einmal im Semester durchgeführte, Medieninformatik Kontaktbörse dient zur Erleichterung des Übergangs in das Abschlusssemester, zur Herstellung von Kontakten zu potentiellen Kooperationspartnern, und zum Geben von Ideen und Inspiration zu Themen für die Abschlussarbeit.
+Die bereits beschriebene, einmal im Semester durchgeführte, Medieninformatik Kontaktbörse dient zur Erleichterung des Übergangs in das Abschlusssemester, zur Herstellung von Kontakten zu potentiellen Kooperationspartnern, und zum Geben von Ideen und Inspiration zu Themen für die Abschlussarbeit.
 
 #### Medieninformatik-Filmfest
 
@@ -270,7 +270,7 @@ Dieser Prozess ist zeitaufwändig und wird von den meisten Studierenden untersch
 
 ### Bewertung von Ergebnissen aus Evaluationen
 
-Hier kann auf Erstsemesterbefragungen und regelmäßig semesterweise durchgeführte Evaluationen der Lehrveranstaltungen verwiesen werden. Die Auswertung der Evaluationen erfolgt zentral durch die Hochschulverwaltung; ein integriertes Qualitätsmanagement nach DIN/ISO 9001 ist an der Fakultät 10 etabliert. In den Ergebnissen[^evaluationen-f10] zeigt sich grundsätzlich bei den Bachelorstudierenden ein etwas geringeres Zufriedenheitsmaß als bei den Masterstudierenden. Dies lässt sich mit Verweis auf die allgemein hohen Abbruchquoten in grundständigen Informatikstudiengängen ggf. so interpretieren, dass die Unzufriedenheit nicht allein durch die Studienangebotsseite verursacht ist. Dennoch lassen sich deutliche Verbesserungspotentiale identifizieren, etwa bzgl. der Einführung neuer Lehr-Lernformate, Koordination der Praktika, Bereitstellung von studentischen Arbeitsräumen, Gastvorträgen, Exkursionen und Workshops.
+Hier kann auf Erstsemesterbefragungen und regelmäßig semesterweise durchgeführte Evaluationen der Lehrveranstaltungen verwiesen werden. Die Auswertung der Evaluationen erfolgt zentral durch die Hochschulverwaltung; ein integriertes Qualitätsmanagement nach DIN/ISO 9001 ist an der Fakultät 10 etabliert. In den Ergebnissen[^evaluationen-f10] zeigt sich grundsätzlich bei den Bachelorstudierenden ein etwas geringeres Zufriedenheitsmaß als bei den Masterstudierenden. Dies lässt sich mit Verweis auf die allgemein hohen Abbruchquoten in grundständigen Informatikstudiengängen ggf. so interpretieren, dass die Unzufriedenheit nicht allein durch die Studienangebotsseite verursacht ist. Dennoch lassen sich deutliche Verbesserungspotentiale identifizieren, etwa bzgl. der Einführung neuer Lehr- und Lernformate, Koordination der Praktika, Bereitstellung von studentischen Arbeitsräumen, Gastvorträgen, Exkursionen und Workshops.
 
 Der 2013 zu verzeichnende Rückgang der Zufriedenheit bzgl. des Lehrangebotes im Master lässt sich nach unseren Analysen und Gesprächen mit Studierenden u.A. als Auswirkung des ersten, im Informatik-Master durchgeführten Projekt-Semesters interpretieren. Die dort durchgeführten „Guided Projects“ zeigen einen starken Praxisbezug und eine klare, mit den Methoden des (oft agilen) Projektmanagements gestaltete Ablaufstruktur. Diese auf den Arbeitsmarkt ausgerichtete Herangehensweise wird auch von vielen Studierenden im Medieninformatik Master gewünscht.
 
@@ -304,7 +304,7 @@ Im Masterstudium wirkt die sich die, im Rahmen der Reakkreditierung weggefallene
 
 >  … anstrengend und fordernd, aber macht viel Spaß … 
 
-Aus verschiedenen Einzel- und Gruppengesprächen im Team der Studiengangsbetreiber sowie mit Studierenden und Alumni, als auch aus Kommentaren aus Feedbackrunden und Online-Foren lassen sich eine Reihe von Stärken und Schwächen ableiten. 
+Aus verschiedenen Einzel- und Gruppengesprächen im Team der Studiengangsbetreiber, Gesprächen mit Studierenden und Alumni, Kommentaren von Feedbackrunden sowie Online-Foren lassen sich eine Reihe von Stärken und Schwächen ableiten. 
 
 Der Studienaufbau des Bachelorstudiengangs wird überwiegend als positiv und gut durchdacht bewertet. Die Lehrveranstaltungen werden in Summe als gut organisiert und vorbereitet, interessant, aber auch als sehr sehr anspruchsvoll beschrieben. Der Umfang des Studiums wird zuweilen als "vom Umfang überwältigend" bezeichnet. Diese Einschätzung wird von Alumni jedoch dahingehend ergänzt, dass nach dem Einstieg ins Berufsleben die Wichtigkeit und Relevanz der einzelnen Module offenbar wurde und sie sich mit dem Studium sehr gut Beruf platzieren konnten und in bestimmten Berufszweigen sehr flexibel einsetzbar sind. Das Verhältnis der allgemeinen Informatik Anteile und der medieninformatik-spezifischen Module wird gut bewertet.
 
@@ -312,7 +312,7 @@ Durchweg sehr positiv wird die gute und intensive Betreuung durch das Lehrperson
 
 Auch sehr positiv wird die gute und moderne Ausstattung der Medieninformatik und der Bibliothek, als auch der recht ausgewogene quantitative Verhältnis von Frauen und Männern bewertet.
 
-Als problematisch wird, bezogen auf den Bachelorstudiengang, vor allem die starke Fragmentierung der Module sowie der zugehörigen Praxisanteile gesehen, so dass die Situation, vor allem im dritten Fachsemester, als "zu voll" oder mit "zu viele Baustellen" beschrieben wird. Dieses Problem wurde auch im Rahmen der Analysen zu Profil2 Antrag der Hochschule identifiziert [^profil2]. Derzeit wird dieser Problematik bereits mit der sequentiellen Anordnung einiger Module begegnet. Dabei werden zwei parallel laufende Module nacheinander, dafür aber mit halber Laufzeit und doppelter SWS Anzahl angeboten, so dass sich die Studierenden auf weniger Module zur gleichen Zeit konzentrieren können. Diese Herangehensweise wurde ebenfalls im Rahmen von Profil2 als Maßnahme vorgeschlagen[^profil2]. Viele Studierende wünschen sich die Möglichkeit der Fachvertiefung. Das Problem wird häufig mit "man kratzt alles nur an und dann kommt schon das nächste Thema" beschrieben. Gerade bei den Implementierungs-affinen Studierenden, aber auch bei den Lehrenden wird häufig der Wunsch nach mehr Unterstützung im Bereich Programmierung gennant. Dies gilt vor allem für komplexere und größere Projekte. 
+Als problematisch wird, bezogen auf den Bachelorstudiengang, vor allem die starke Fragmentierung der Module sowie der zugehörigen Praxisanteile gesehen, sodass die Situation, vor allem im dritten Fachsemester, als "zu voll" oder mit "zu viele Baustellen" beschrieben wird. Dieses Problem wurde auch im Rahmen der Analysen zu Profil2 Antrag der Hochschule identifiziert [^profil2]. Derzeit wird dieser Problematik bereits mit der sequentiellen Anordnung einiger Module begegnet. Dabei werden zwei parallel laufende Module nacheinander, dafür aber mit halber Laufzeit und doppelter SWS Anzahl angeboten, so dass sich die Studierenden auf weniger Module zur gleichen Zeit konzentrieren können. Diese Herangehensweise wurde ebenfalls im Rahmen von Profil2 als Maßnahme vorgeschlagen[^profil2]. Viele Studierende wünschen sich die Möglichkeit der Fachvertiefung. Das Problem wird häufig mit "man kratzt alles nur an und dann kommt schon das nächste Thema" beschrieben. Gerade bei den Implementierungs-affinen Studierenden, aber auch bei den Lehrenden wird häufig der Wunsch nach mehr Unterstützung im Bereich Programmierung genannt. Dies gilt vor allem für komplexere und größere Projekte. 
 Derzeit fehlt im Bachelorprogramm ein Modul, dass die Studierenden auf die rechtlichen Fragestellung in der (Medien-)informatik vorbereitet. Dieses Defizit wurde in verschiedenen Feedbackrunden adressiert.
 
 Bezogen auf den Master wird immer wieder die fehlende oder unzureichende Praxisorientierung als Problem genannt. Auch hier fehlt den Studierenden die Möglichkeit zur Fachvertiefung entsprechend der persönlichen Neigung. 
@@ -323,7 +323,7 @@ Aus den Bewertungen der Daten, Evaluationen und Feedbacks lassen sich folgende P
 
 #### Medieninformatik Bachelor
 
-Als Indikator für eine gute Studierbarkeit, kann die Anzahl der abgelegten Prüfungen im vorgesehenen Fachsemester des Moduls angesehen werden. Ziel ist es, dass die Studierenden Prüfungen möglichst im selben Semester ablegen, in dem das Modul im Studienverlaufsplan verortet ist. Gelingt dies nicht, so kann ein Studienabschluss innerhalb der Regelstudienzeit fast nicht mehr realisiert werden. Ab dem dritten Studiensemester werden Prüfungen zunehmend verspätet abgelegt (vgl. Pruefungsstatistiken[^Anhang-Pruefungsstatistiken]). Feedbacks, Befragungen und Curriculumsanalyse[^Anhang-Curriculumsanalye] zeigen, dass in diesem Semester die Anzahl der unterschiedlichen Module am höchsten ist und viele Module Praxisanteile in Projektform haben, so dass sich die Studierenden in verschiedene Fachdisziplinen, Modulregularien und Projektkontexte eindenken und vielen Teamkonstellationen organisieren müssen. Darüberhinaus sind im dritten Semester bei vielen Modulen Prüfungsvorleistungen (Teilnahmeschein) notwendig.
+Als Indikator für eine gute Studierbarkeit, kann die Anzahl der abgelegten Prüfungen im vorgesehenen Fachsemester des Moduls angesehen werden. Ziel ist es, dass die Studierenden Prüfungen möglichst im selben Semester ablegen, in dem das Modul im Studienverlaufsplan verortet ist. Gelingt dies nicht, so kann ein Studienabschluss innerhalb der Regelstudienzeit fast nicht mehr realisiert werden. Ab dem dritten Studiensemester werden Prüfungen zunehmend verspätet abgelegt (vgl. Pruefungsstatistiken[^Anhang-Pruefungsstatistiken]). Feedbacks, Befragungen und Curriculumsanalyse[^Anhang-Curriculumsanalye] zeigen, dass in diesem Semester die Anzahl der unterschiedlichen Module am höchsten ist und viele Module Praxisanteile in Projektform haben, sodass sich die Studierenden in verschiedene Fachdisziplinen, Modulregularien und Projektkontexte eindenken und vielen Teamkonstellationen organisieren müssen. Darüberhinaus sind im dritten Semester bei vielen Modulen Prüfungsvorleistungen (Teilnahmeschein) notwendig.
 
 Ein weiteres Problem bildet offenbar das große Projekt im fünften Semester (Entwicklungsprojekt interaktive Systeme). Nachdem die Studierenden in den vorangegangen Semestern nur mit Projektgrößen von maximal 2,5 Creditpoints konfrontiert wurden, stehen sie im fünften Semester einem Projekt der vierfachen Größe gegenüber. Dies scheint viele zu überfordern, so dass sie entweder erst dann das Projekt beginnen, wenn sie keine parallelen Veranstaltungen haben, oder das Projekt vorzeitig abbrechen.
 
@@ -350,7 +350,7 @@ Somit lassen sich die folgenden Defizite im aktuellen Medieninformatik Bachelor 
 
 Beim Medieninformatik Master leiten sich die erkannten Defizite im Wesentlichen aus Feedbacks und persönlichen Gesprächen mit Studierenden, Bachelor Absolventen und Dozenten ab. Die fehlende Möglichkeit zur fachlichen Vertiefung und der geringe Anteil an praxisnaher Projekte werden als wesentliche Defizite wahrgenommen und führen schlussendlich auch dazu, dass viele potenzielle Studieninteressierte an andere Studiengänge, zumeist außerhalb der TH Köln, mit stärkerer Profilierung und Praxisbezug verloren gehen.
 
-Der Medieninformatik Master sieht derzeit zwar verschiedene Wahlmodule vor, diese sind aber stark fragmentiert und reglementiert, so dass hier häufig keine echte Wahl durch die Studierenden getroffen werden kann. Hinzu kommt, dass die Informatik Masterstudiengänge der Fakultät 10 sich sehr stark auseinander entwickelt haben, so dass Synergien, auch bei den angebotenen Wahlpflichtfächern und Projekten nur schwer genutzt werden können.
+Der Medieninformatik Master sieht derzeit zwar verschiedene Wahlmodule vor, diese sind aber stark fragmentiert und reglementiert, so dass hier häufig keine echte Wahl durch die Studierenden getroffen werden kann. Hinzu kommt, dass sich die Informatik Masterstudiengänge der Fakultät 10 sehr stark auseinander entwickelt haben, sodass Synergien, auch bei den angebotenen Wahlpflichtfächern und Projekten nur schwer genutzt werden können.
 
 Somit lassen sich die folgenden Defizite im aktuellen Medieninformatik Master Studiengang zusammenfassen:
 
@@ -421,7 +421,7 @@ Die im Folgenden dargestellten geplanten Veränderungen des Bachelorstudienprogr
 Mit einer Verbesserung des Studienaufbaus sollen folgende bekannte Defizite ausgeglichen werden:
 
 - Überladenes drittes Fachsemester
-- Zu viele Projektkontexte
+- zu viele Projektkontexte
 - zu starke Fragmentierung von Modulen und der projektorientierten Praxisanteile
 - zu viele „Baustellen“
 
@@ -438,8 +438,8 @@ Im vierten Semester wurde ein Vertiefungsmodul mit 20 Creditpoints installiert a
 
 Hiermit sollen folgende bekannte Defizite ausgeglichen werden:
 
-- Zu viele Projektkontexte
-- Zu großer Sprung der Projektgrößen
+- zu viele Projektkontexte
+- zu großer Sprung der Projektgrößen
 - zu viele „Baustellen“
 
 Wie bereits beschrieben, wurden die projektorientierten Module gleichmäßiger über den Studienverlauf verteilt und projektorientierte Module teilweise zusammen gelegt. Um die Projektgrößen sinnvoll aufzubauen, werden jetzt in den ersten drei Semestern Projekte mit einem Gewicht von max. 2,5 Creditpoints absolviert. Im vierten Semester folgt dann, als Teil des Vertiefungsmoduls, ein Projekt mit einem Gewicht von etwa 5 Creditpoints. Im fünften Semester folgt dann das Entwicklungsprojekt mit einem Gewicht von 10 Creditpoints. Im sechsten Semester liegt dann das Praxisprojekt mit ebenfalls 10 Creditpoints und die Bachelorarbeit mit 12 Creditpoints. Für diejenigen, die dann in Masterstudiengang wechseln wollen, bleibt die Projektgröße dann bei 12 Creditpoints.
@@ -452,10 +452,10 @@ Wie bereits beschrieben, wurden die projektorientierten Module gleichmäßiger �
 Mit dieser Änderungen sollen folgende bekannte Defizite ausgeglichen werden:
 
 - keine Spezialisierung, zu allgemein
-- Zu viele verschiedene Module mit unterschiedlichen Regularien
-- Fehlende Möglichkeit zur strukturierten Vertiefung
-- Zu viele Projektkontexte
-- Zu großer Sprung der Projektgrößen
+- zu viele verschiedene Module mit unterschiedlichen Regularien
+- fehlende Möglichkeit zur strukturierten Vertiefung
+- zu viele Projektkontexte
+- zu großer Sprung der Projektgrößen
 - zu viele „Baustellen“
 - zu starke Fragmentierung von Modulen und der projektorientierten Praxisanteile
 - Übergang in den Spezialisierungsteil vom vierten ins fünfte Fachsemester
@@ -588,7 +588,7 @@ Durch die offene Gestaltung des dritten Fachsemesters eignet sich selbiges gut f
 >  -   Befähigung zum gesellschaftlichen Engagement
 >
 >  -   Persönlichkeitsentwicklung
->  
+>
 >**Leitfragen**
 >
 >-   An welcher Stelle sind die jeweils im Kriterium genannten Kompetenz-Bereiche im Studiengang nach dem Verständnis der Hochschule abgebildet?
@@ -628,9 +628,9 @@ Darüber hinaus sieht sie fünf charakteristische Merkmale:
 > - Medieninformatik arbeitet interdisziplinär.
 > - Medieninformatik arbeitet forschungs- und anwendungsorientiert.
 
-Aus diesen Definitionen und den Erfahrungen der Beteiligten Studiengangsverantwortlichen lässt sich ableiten, dass Medieninformatik ein anspruchsvolles, fassettenreiches Betätigungsfeld mit ausgeprägter Interdisziplinarität ist. Das breite Spektrum an erforderlichen kognitiven, sozialen und fachlichen Kompetenzen, Fertigkeiten und Kenntnissen lässt sich kaum mit der nötigen Tiefe in einem einzigen Ausbildungsprofil zusammenführen. Mit zunehmender Komplexität der zu entwickelnden Systeme und zunehmenden Anforderungen an die Qualität dieser Systeme aber auch aufgrund der wachsenden Bedeutung von Software für innovative Produkte und Dienstleistungen in unserer Gesellschaft zeigt sich daher immer mehr die Notwendigkeit einer professionellen Differenzierung. Um eine möglichst beständige, von aktuellen technologischen Trends weitgehend unabhängiges Medieninformatik-Curriculum bieten zu können, orientieren sich die Inhalte der Medieninformatik Studiengänge weitgehend an Grundlagen, ohne jedoch den Praxisbezug in Form von Fallstudien und Projekten zu vernachlässigen.
+Aus diesen Definitionen und den Erfahrungen der beteiligten Studiengangsverantwortlichen lässt sich ableiten, dass Medieninformatik ein anspruchsvolles, facettenreiches Betätigungsfeld mit ausgeprägter Interdisziplinarität ist. Das breite Spektrum an erforderlichen kognitiven, sozialen und fachlichen Kompetenzen, Fertigkeiten und Kenntnissen lässt sich kaum mit der nötigen Tiefe in einem einzigen Ausbildungsprofil zusammenführen. Mit zunehmender Komplexität der zu entwickelnden Systeme und zunehmenden Anforderungen an die Qualität dieser Systeme, aber auch aufgrund der wachsenden Bedeutung von Software für innovative Produkte und Dienstleistungen in unserer Gesellschaft, zeigt sich daher immer mehr die Notwendigkeit einer professionellen Differenzierung. Um eine möglichst beständige, von aktuellen technologischen Trends weitgehend unabhängiges Medieninformatik-Curriculum bieten zu können, orientieren sich die Inhalte der Medieninformatik Studiengänge weitgehend an Grundlagen, ohne jedoch den Praxisbezug in Form von Fallstudien und Projekten zu vernachlässigen.
 
-Die wesentliche Basis für die Entwicklung und Ausgestaltung relevanter Kompetenzen bildeten einerseits, soweit sie noch Bestand haben, die bestehenden Bereiche und Kompetenzziele das aktuellen Curriculums und andererseits die aktuellen "Empfehlungen für Bachelor- und Masterprogramme im Studienfach Informatik an Hochschulen" [^gi-empfehlungen] der Gesellschaft für Informatik. Hier werden folgende Kompetenzbereiche vorgeschlagen:
+Die wesentliche Basis für die Entwicklung und Ausgestaltung relevanter Kompetenzen bildeten einerseits, soweit sie noch Bestand haben, die bestehenden Bereiche und Kompetenzziele das aktuellen Curriculums und andererseits die aktuellen "Empfehlungen für Bachelor- und Masterprogramme im Studienfach Informatik an Hochschulen" [^gi-empfehlungen] der Gesellschaft für Informatik. Hier werden folgende Kompetenzbereiche vorgeschlagen und mit exemplarischen Inhalten verknüpft:
 
 **Formale, algorithmische, mathematische Kompetenzen:** Diskrete Strukturen, Logik und Algebra, Analysis und Numerik, Wahrscheinlichkeitstheorie und Statistik, Formale Sprachen und Automaten, Modellierung, Algorithmen und Datenstrukturen
 
@@ -638,7 +638,7 @@ Die wesentliche Basis für die Entwicklung und Ausgestaltung relevanter Kompeten
 
 **Technologische Kompetenzen:** Digitaltechnik und Rechnerorganisation, Betriebssysteme, Datenbanken und Informationssysteme, Rechnernetze und verteilte Systeme, IT-Sicherheit
 
-**Fachübergreifende Kompetenzen:** Gesellschaftliche und berufsethische Aspekte von Informatiksystemen im Anwendungskontext, Ökonomische und ökologische Aspekte von Informatiksystemen im Anwendungskontext, Rechtliche Aspekte von Informatiksystemen im Anwendungskontext
+**Fachübergreifende Kompetenzen:** Gesellschaftliche und berufsethische Aspekte von Informatiksystemen im Anwendungskontext, ökonomische und ökologische Aspekte von Informatiksystemen im Anwendungskontext, rechtliche Aspekte von Informatiksystemen im Anwendungskontext
 
 **Soziale Kompetenzen und Selbstkompetenzen:** Kooperationsmanagement, Diversity- und Konfliktmanagement, Organisationsentwicklung
 
@@ -647,17 +647,88 @@ Die wesentliche Basis für die Entwicklung und Ausgestaltung relevanter Kompeten
 Diese wurden für die Medieninformatik um den Kompetenzbereich **Medienkompetenz** mit den Gebieten Medienrezeption, Medienkonzeption, Medientechnik und Mediengestaltung ergänzt.
 
 
-Medieninformatiker analysieren, konzipieren, realisieren und adaptieren in interdisziplinären Teams oft web-basierte Prozesse und Systeme zur Produktion, Bearbeitung und Distribution medienbasierter Informationen aus informatischen, ökonomischen und sozialen Perspektiven; ggf. betreiben sie diese Systeme auch. 
+Medieninformatiker analysieren, konzipieren, realisieren und adaptieren in interdisziplinären Teams oft web-basierte Prozesse und Systeme zur Produktion, Bearbeitung und Distribution medienbasierter Informationen aus informatischen, ökonomischen und sozialen Perspektiven; ggf. betreiben sie diese Systeme auch.
 
-Aus diesen Kompetenzen wurden die folgenden Ziele und Lernergebnisse abgeleitet:
+## Kompetenzbereiche, Ziele und Lernergebnisse
 
-{% include kompetenzmatrix.html %}
+Zugehörig zu den Kompetenzbereichen wurden die folgenden Ziele und Lernergebnisse abgeleitet, die als Basis für die Ausrichtung und Einteilung der einzelnen Module in beiden Studiengängen verwendet werden:
 
-Diese Kompetenzmatrix bildet die Basis für die Ausrichtung und Einteilung der einzelnen Module in beiden Studiengängen.
+### Formale, algorithmische, mathematische Kompetenzen
+
+Die Studierenden …
+
+- können Probleme und Anforderungen exakt beschreiben, um diese in geeigneten Datenstrukturen und effizienten Algorithmen umzusetzen.
+- kennen Vorgehensweisen und Werkzeuge, um Probleme und Sachverhalte zu abstrahieren und zu modellieren (logische und algebraische Kalküle, graphentheoretische Notationen, formale Sprachen und Automaten sowie spezielle Kalküle wie Petri-Netze oder die Prozessalgebra CSP)
+- kennen Verfahrensweisen um den algorithmischen Kern eines Problems zu identifizieren und können Algorithmen entwerfen, verifizieren und bzgl. ihres Ressourcenbedarfs bewerten.
+- können Lösungen angemessenen fachlich kommunizieren, bewerten und im Rahmen von kooperativen Arbeitszusammenhängen nutzen.
+
+### Analyse-, Entwurfs-, Realisierungs- und Projektmanagement-Kompetenzen
+
+Die Studierenden …
+
+- haben die Fähigkeit, mit Aufgabenstellern und zukünftigen Systemnutzern zu kommunizieren und zu kooperieren und sich schnell in neue Anwendungskontexte einzuarbeiten.
+- können bekannte Problemstellungen im Anwendungskontext erkennen und sind mit den zugehörigen Lösungsmustern vertraut.
+- erkennen Inkonsistenzen und können mit unklaren Anforderungen umgehen.
+- können komplexe Domänen modellieren und große Anwendungsprobleme durch geeignete Schnittstellen in Teilprobleme zerlegen.
+- haben solide Kenntnisse in der Software-Architektur um Systeme aus Hard- und Software zu konstruieren, welche die Anforderungen vollständig erfüllen.
+- können Mensch-Technik-Schnittstellen anwendungsgerecht und ergonomisch gestalten.
+- berücksichtigen beim Entwurf die Umsetzung nichtfunktionaler Anforderungen, wie Sicherheit, Performanz, Skalierbarkeit, Wartbarkeit, Erweiterbarkeit und Zuverlässigkeit.
+- beherrschen gängige Programmierparadigmen und moderne Entwicklungsmethoden um professionell größere Programmsysteme zu erstellen und sorgfältig testen zu können.
+- haben die Fähigkeit sich in vorhandenen Quelltext einzuarbeiten und diesen sinnvoll weiter zu entwickeln.
+- haben Kenntnisse über Konfigurations-, Change-, Release- und Deployment-Management.
+- können Arbeitsprozesse gestalten und insbesondere die eigene und anderer Personen Arbeit organisieren, sie sind teamfähig und in der Lage sich konstruktiv mit Konzepten und Lösungsvorschlägen auseinander zu setzen.
+- haben gelernt, auch unter begrenzten Ressourcen Lösungen zu erarbeiten, die allgemein anerkannten Qualitätsstandards genügen und von allen Beteiligten akzeptiert werden.
+
+### Technologische Kompetenzen
+
+Die Studierenden …
+
+- haben Kenntnisse über moderne Betriebssysteme, Rechnerarchitekturen und Rechnernetze sowie deren Anwendung in konkreten Problemstellungen und Anwendungskontexten.
+- sind in der Lage die Infrastruktur für verteilte Systeme unter Nutzung von Middleware zu entwerfen.
+- beherrschend den Prozess vom Datenbankentwurf bis zum Betrieb des datenbankgestützten Anwendungssystems sowie Datenanalyse und Grundlagen des maschinellen Lernens.
+- haben fundierte Kenntnisse zu Sicherheitsmaßnahmen und -mechanismen.
 
 
-[^gi-empfehlungen]: Gesellschaft für Informatik e.V. (GI): "Empfehlungen für Bachelor- und Masterprogramme im Studienfach Informatik an Hochschulen", unter: https://www.gi.de/fileadmin/redaktion/empfehlungen/GI-Empfehlungen_Bachelor-Master-Informatik2016.pdf (abgerufen am 01.02.2017).
-[^positionspapier-gi-mci-mi]: Martin Christof Kindsmüller, Christian Wolters, Andreas M. Heinecke: "Medieninformatik 2016: Was war, was ist, was soll sein?", unter: http://dl.mensch-und-computer.de/bitstream/handle/123456789/5131/Kindsm%C3%BCller_Wolters_Heinecke_2016.pdf (abgerufen am 17.02.2017)
+### Fachübergreifende Kompetenzen
+
+Die Studierenden …
+
+- sind in der Lage, Aufgaben in verschiedenen Anwendungsfeldern unter gegebenen technischen, ökonomischen, ökologischen und sozialen Randbedingungen mit den Mitteln der Informatik zu bearbeiten und entsprechende Systeme zu entwickeln.
+- verfügen über betriebswirtschaftliche Grundkenntnisse, da die Planung, Entwicklung und Nutzung aller Informatiksysteme unter wirtschaftlichen Rahmenbedingungen stattfinden.
+- haben juristische Grundkenntnisse um rechtsverbindliche Dokumente wie Rahmenvereinbarungen, projektspezifische Verträge, Lizenz- oder Nutzungsverträge aushandeln zu können. Darüber hinaus können sie die gesetzliche Basis von Sicherheitsaspekten, als auch Fragen des Urheberrechts und der Produkthaftung berücksichtigen.
+- haben einen Einblick in berufsethische Rahmenbedingungen erhalten und können die Auswirkungen ihrer Arbeit auf die zukünftigen Nutzer sowie auf die Gesellschaft in ihren sozialen, wirtschaftlichen, arbeitsorganisatorischen, psychologischen und rechtlichen Aspekten einschätzen.
+
+
+### Soziale Kompetenzen und Selbstkompetenzen
+
+Die Studierenden …
+
+- verfügen über kommunikative Kompetenzen, um ihre Ideen und Lösungsvorschläge schriftlich oder mündlich überzeugend zu präsentieren, abweichende Positionen zu erkennen und in eine sach- und interessengerechte Lösung zu integrieren – und zwar auch dann, wenn die informatische Sprech- und Denkweisen dem Kommunikationspartner nicht geläufig sind.
+- kennen ihre berufliche Rolle, die damit verbundenen Erwartungen und ggf. vorhandene Rollenkonflikte in Kommunikationssituationen und können zur Konfliktlösung beitragen. Dazu sind auch Kenntnisse im Konfliktmanagement erforderlich, um in kontroversen Diskussionen zielorientiert zu argumentieren und mit Kritik sachlich umzugehen. Vorhandene Missverständnisse zwischen Gesprächspartnern müssen frühzeitig erkannt und abgebaut werden können.
+
+### Methoden- und Transferkompetenz
+
+Die Studierenden …
+
+- sind in der Lage sich selbstständig neues Wissen anzueigenen und zu erkennen, welches Wissen relevant ist.
+- haben die Kompetenz zum wissenschaftlichen Arbeiten.
+- können (Informatik-)systeme mit systematischen Verfahren empirisch evaluieren.
+- sind in der Lage, neue informatische Methoden in eine oft historisch gewachsene betriebliche Praxis einzuführen.
+- haben die Fähigkeit, einen existierenden Anwendungskontext zu analysieren, zu bewerten und aktuelle problemadäquate informatische Methoden auf diesen Kontext zu übertragen, sowie den derart neu generierten Anwendungskontext zu evaluieren.
+
+### Medienkompetenz
+
+Die Studierenden …
+
+- können eine Perspektive der Medienkonzeption einnehmen, haben eine mediengestalterische Grundkompetenz entwickelt und sind in der Lage, bzgl. der Kommunikationsziele eine geeignete Medienauswahl zu treffen.
+- können organisationale, soziale, gestalterische und kulturelle Kontexte, Vorgaben und Regeln erschließen, analysieren, definieren und unter Berücksichtigung weiterer fachlicher Perspektiven angemessene Gestaltungsziele formulieren.
+- kennen die Gestaltungsdimensionen von Medien und besitzen aktive Vokabularien zur Beschreibung und Realisierung angemessener Konzeptionen.
+- können die Realisationen bezüglich der Zielsetzungen kritisch diskutieren.
+
+
+[^gi-empfehlungen]: Gesellschaft für Informatik e.V. (GI): "Empfehlungen für Bachelor- und Masterprogramme im Studienfach Informatik an Hochschulen", unter: <a href="https://www.gi.de/fileadmin/redaktion/empfehlungen/GI-Empfehlungen_Bachelor-Master-Informatik2016.pdf">https://www.gi.de/fileadmin/redaktion/empfehlungen/GI-Empfehlungen_Bachelor-Master-Informatik2016.pdf</a> (abgerufen am 01.02.2017).
+[^positionspapier-gi-mci-mi]: Martin Christof Kindsmüller, Christian Wolters, Andreas M. Heinecke: "Medieninformatik 2016: Was war, was ist, was soll sein?", unter: <a href="http://dl.mensch-und-computer.de/bitstream/handle/123456789/5131/Kindsm%C3%BCller_Wolters_Heinecke_2016.pdf">http://dl.mensch-und-computer.de/bitstream/handle/123456789/5131/Kindsm%C3%BCller_Wolters_Heinecke_2016.pdf</a> (abgerufen am 17.02.2017)
+
 
 # Qualifikationsziele Medieninformatik Bachelor
 
@@ -684,6 +755,7 @@ Das folgende Leitbild steht über dem Studiengang Medieninformatik Bachelor:
 [^website-bachelor]: Website des Medieninformatik Bachelor: <a href="https://www.th-koeln.de/studium/medieninformatik-bachelor_2379.php">https://www.th-koeln.de/studium/medieninformatik-bachelor_2379.php</a>
 [^ordnungen-bachelor]: Ordnungen zum Medieninformatik Bachelor: <href="https://www.th-koeln.de/studium/medieninformatik-bachelor--ordnungen-und-formulare_3963.php">https://www.th-koeln.de/studium/medieninformatik-bachelor--ordnungen-und-formulare_3963.php</a>
 [^zeugnis-bachelor]: Beispielzeugnis und Diploma Supplement Medieninformatik Bachelor: <a href="../anhaenge/ba-zeugnis.pdf">ba-zeugnis.pdf</a>
+
 
 # Qualifikationsziele Medieninformatik Master
 

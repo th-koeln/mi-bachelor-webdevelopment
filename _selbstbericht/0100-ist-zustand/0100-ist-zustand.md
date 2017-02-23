@@ -5,7 +5,7 @@ bearbeiterhistorie: Christian Noss
 date: 14.02.2017
 comment: Schon gar nicht schlecht, ein paar Schlussfolgerungen, Anhänge und Belege fehlen (siehe Kommentare)
 status: Unvollständig
-reviewed-von: Robert Gabriel
+reviewed-von: Robert Gabriel, HK
 ---
 
 Mit den Studiengängen der Medieninformatik bietet die Fakultät für Informatik und Ingenieurwissenschaften der TH Köln seit dem Jahr 2000 ein wissenschaftlich fundiertes und praxisorientiertes Informatik-Studienprogramm mit dem Schwerpunkt Medien an. Beide Studiengänge wurden bereits 2004 akkreditiert und 2010 reakkreditiert und gehören damit zu den ersten erfolgreich akkreditierten Studiengängen der TH Köln. 
@@ -111,9 +111,9 @@ Die in Tabelle 1 dargestellten Zahlen zeigen einen stetig wachsenden Zulauf für
 ~~~
 Die im Rahmen der letzten Reakkreditierung eingebrachten Änderungen können hinsichtlich der Quote der Studienabbrecher bereits als recht erfolgreich bewertet werden. Vor allem die Auflösung der strikten, durch Zulassungsvoraussetzungen in der Prüfungsordnung verankerte Trennung von Grund- und Hauptstudium hat die Dauer des Fachstudiums definitiv verkürzt. Auch die Einführung des Moduls „Einführung in die Medieninformatik“ (EMI) erweist sich als sinnvoll und notwendig, um den Studierenden früh die Perspektiven und fachlichen Aspekte der Medieninformatik näher zu bringen.
 
-Aus der INCHER-Studie von 2014[^Anhang-INCHER-Studie] geht für alle Studiengänge in NRW hervor: wer während des Studiums ein Firmenpraktikum absolviert, schließt das Studium etwas seltener in der Regelstudienzeit ab (54 Prozent vs. 60 Prozent). Ähnlich ist die Tendenz ist zwischen denjenigen, die ihr Studium hauptsächlich durch Erwerbsarbeit finanzierten und den übrigen Absolventinnen und Absolventen zu erkennen: Wenn das Studium durch eigene Erwerbsarbeit finanziert wurde, wird es ebenfalls seltener in der Regelstudienzeit abgeschlossen (50 Prozent vs. 57 Prozent).
+Aus der INCHER-Studie von 2014[^Anhang-INCHER-Studie] geht für alle Studiengänge in NRW hervor: Wer während des Studiums ein Firmenpraktikum absolviert, schließt das Studium etwas seltener in der Regelstudienzeit ab (54 Prozent vs. 60 Prozent). Ähnlich ist eine Tendenz zwischen denjenigen, die ihr Studium hauptsächlich durch Erwerbsarbeit finanzierten und den übrigen Absolventinnen und Absolventen zu erkennen: Wenn das Studium durch eigene Erwerbsarbeit finanziert wurde, wird es ebenfalls seltener in der Regelstudienzeit abgeschlossen (50 Prozent vs. 57 Prozent).
 
-Schlussfolgerungen über die Studienqualität sind auf Grundlage der verfügbaren Daten nur bedingt möglich. Als Ausgangspunkt für die, im Rahmen der Reakkreditierung zu anzustrebenden Änderungen, wurden daher zusätzlich folgende Quellen mit einbezogen:
+Schlussfolgerungen über die Studienqualität sind auf Grundlage der verfügbaren Daten nur bedingt möglich. Als Ausgangspunkt für die, im Rahmen der Reakkreditierung anzustrebenden Änderungen, wurden daher zusätzlich folgende Quellen mit einbezogen:
 
 - Studentische Rückmeldungen aus den, im Rahmen des Medieninformatik Showcase stattfindenden Feedbackrunden
 - Persönliche Gespräche mit Studierenden, Alumni und Kooperationspartnern
@@ -148,7 +148,7 @@ Die Unzufriedenheit bei der Bewertung der Studien- und Prüfungsorganisation in 
 
 Die folgenden Ausführungen beruhen auf der Datenerhebung zum 22.09.2016 für den Zeitraum Wintersemester 2011 bis Wintersemester 2015[^Anhang-Pruefungsstatistiken][^Anhang-fakultaetsstruktur] und fokussieren die derzeit eingeschriebenen Studenten, erfolgreiche Abschlüsse und Studienfachabbrecher.
 
-Zur Bewertung der Auslastung kann wie folgt Stellung genommen werden: gemessen an den planmäßigen 63 Studierendenplätzen (WS13/14) werden seit drei Studienjahren im Rahmen der strategischen Fakultätsplanung und des Hochschulentwicklungsplans 2020 mehr als 200% Überlast aufgenommen. Mit den Abbrecherquoten im Bachelorstudiengang bewegt sich die Medieninformatik im breiten Mittelfeld von Informatikstudiengängen im Allgemeinen; 
+Zur Bewertung der Auslastung kann wie folgt Stellung genommen werden: Gemessen an den planmäßigen 63 Studierendenplätzen (WS13/14) werden seit drei Studienjahren im Rahmen der strategischen Fakultätsplanung und des Hochschulentwicklungsplans 2020 mehr als 200% Überlast aufgenommen. Mit den Abbrecherquoten im Bachelorstudiengang bewegt sich die Medieninformatik im breiten Mittelfeld von Informatikstudiengängen im Allgemeinen; 
 ~~~
 cn: gibt es zu "im breiten Mittelfeld von Informatikstudiengängen" zahlen?
 ~~~
@@ -163,9 +163,9 @@ zeigt sich hier ein deutliches noch zu hebendes Optimierungspotential. Erfreulic
 
 Die Prüfungserfolge sind bzgl. des Bachelor- und Masterstudiengangs zu differenzieren.
 
-Im Bachelorstudiengang Medieninformatik zeigt sich bei den Prüfungserfolgen des „neuen“ im Vergleich zum „alten“ Studiengang (BPO2 vs. BPO3, s. Anhang Pruefungsstatistiken [^Anhang-Pruefungsstatistiken]) ein früherer Prüfungserfolg. Auch in höheren Semestern werden die Prüfungen früher absolviert und mit weniger Fehlversuchen bestanden. In erster Näherung findet man den ersten beiden Semestern eine Gleichverteilung der Noten innerhalb des Notenspektrums, die sich in den höheren Semestern zu einer deutlichen Verbesserung hin verschiebt. Hier mögen zwei Faktoren von Bedeutung sein: zum einen der deutlich höhere Anteil an medien(informatik)spezifischen Modulen und zum anderen kann gemutmaßt werden, dass sich hier die Abbrecherzahlen positiv auswirken. Die Abschluss- und die Endnoten setzen diesen Trend der Verbesserung des Notendurchschnitts fort.
+Im Bachelorstudiengang Medieninformatik zeigt sich bei den Prüfungserfolgen des „neuen“ im Vergleich zum „alten“ Studiengang (BPO2 vs. BPO3, s. Anhang Pruefungsstatistiken [^Anhang-Pruefungsstatistiken]) ein früherer Prüfungserfolg. Auch in höheren Semestern werden die Prüfungen früher absolviert und mit weniger Fehlversuchen bestanden. In erster Näherung findet man in den ersten beiden Semestern eine Gleichverteilung der Noten innerhalb des Notenspektrums, die sich in den höheren Semestern zu einer deutlichen Verbesserung hin verschiebt. Hier mögen zwei Faktoren von Bedeutung sein: Zum einen der deutlich höhere Anteil an medien(informatik)spezifischen Modulen und zum anderen kann gemutmaßt werden, dass sich hier die Abbrecherzahlen positiv auswirken. Die Abschluss- und die Endnoten setzen diesen Trend der Verbesserung des Notendurchschnitts fort.
 
-Im Masterstudium wirkt die sich die, im Rahmen der Reakkreditierung weggefallene Zulassungsvoraussetzung eines Mindest-Notenschnittes nicht wesentlich auf die Verteilung der Prüfungsergebnisse aus. Auch hier ist weiterhin das gesamte Notenspektrum abgedeckt, ebenso wie bei den Ergebnissen der Master Thesen.
+Im Masterstudium wirkt sich die im Rahmen der Reakkreditierung weggefallene Zulassungsvoraussetzung eines Mindest-Notenschnittes nicht wesentlich auf die Verteilung der Prüfungsergebnisse aus. Auch hier ist weiterhin das gesamte Notenspektrum abgedeckt, ebenso wie bei den Ergebnissen der Master Thesen.
 
 
 ### Rückschlüsse aus informellen Gesprächen und Kommentaren
@@ -174,14 +174,14 @@ Im Masterstudium wirkt die sich die, im Rahmen der Reakkreditierung weggefallene
 
 Aus verschiedenen Einzel- und Gruppengesprächen im Team der Studiengangsbetreiber, Gesprächen mit Studierenden und Alumni, Kommentaren von Feedbackrunden sowie Online-Foren lassen sich eine Reihe von Stärken und Schwächen ableiten. 
 
-Der Studienaufbau des Bachelorstudiengangs wird überwiegend als positiv und gut durchdacht bewertet. Die Lehrveranstaltungen werden in Summe als gut organisiert und vorbereitet, interessant, aber auch als sehr sehr anspruchsvoll beschrieben. Der Umfang des Studiums wird zuweilen als "vom Umfang überwältigend" bezeichnet. Diese Einschätzung wird von Alumni jedoch dahingehend ergänzt, dass nach dem Einstieg ins Berufsleben die Wichtigkeit und Relevanz der einzelnen Module offenbar wurde und sie sich mit dem Studium sehr gut Beruf platzieren konnten und in bestimmten Berufszweigen sehr flexibel einsetzbar sind. Das Verhältnis der allgemeinen Informatik Anteile und der medieninformatik-spezifischen Module wird gut bewertet.
+Der Studienaufbau des Bachelorstudiengangs wird überwiegend als positiv und gut durchdacht bewertet. Die Lehrveranstaltungen werden in Summe als gut organisiert und vorbereitet, interessant, aber auch als sehr sehr anspruchsvoll beschrieben. Der Umfang des Studiums wird zuweilen als "vom Umfang überwältigend" bezeichnet. Diese Einschätzung wird von Alumni jedoch dahingehend ergänzt, dass nach dem Einstieg ins Berufsleben die Wichtigkeit und Relevanz der einzelnen Module offenbar wurde, sie sich mit dem Studium sehr gut im Beruf platzieren konnten und in bestimmten Berufszweigen sehr flexibel einsetzbar sind. Das Verhältnis der allgemeinen Informatik Anteile und der medieninformatik-spezifischen Module wird gut bewertet.
 
 Durchweg sehr positiv wird die gute und intensive Betreuung durch das Lehrpersonal beschrieben: "Die Dozenten sind super hilfreich …". Dies gilt auch für die vielen praktischen Projekte und Gruppenarbeiten. Auch die Offenheit für eigene Ideen und die Gruppengröße bei den Praxisanteilen wird sehr positiv bewertet. Das Mentoring-Programm wird ebenfalls als sehr hilfreich wahrgenommen.
 
 Auch sehr positiv wird die gute und moderne Ausstattung der Medieninformatik und der Bibliothek, als auch der recht ausgewogene quantitative Verhältnis von Frauen und Männern bewertet.
 
-Als problematisch wird, bezogen auf den Bachelorstudiengang, vor allem die starke Fragmentierung der Module sowie der zugehörigen Praxisanteile gesehen, sodass die Situation, vor allem im dritten Fachsemester, als "zu voll" oder mit "zu viele Baustellen" beschrieben wird. Dieses Problem wurde auch im Rahmen der Analysen zu Profil2 Antrag der Hochschule identifiziert [^profil2]. Derzeit wird dieser Problematik bereits mit der sequentiellen Anordnung einiger Module begegnet. Dabei werden zwei parallel laufende Module nacheinander, dafür aber mit halber Laufzeit und doppelter SWS Anzahl angeboten, so dass sich die Studierenden auf weniger Module zur gleichen Zeit konzentrieren können. Diese Herangehensweise wurde ebenfalls im Rahmen von Profil2 als Maßnahme vorgeschlagen[^profil2]. Viele Studierende wünschen sich die Möglichkeit der Fachvertiefung. Das Problem wird häufig mit "man kratzt alles nur an und dann kommt schon das nächste Thema" beschrieben. Gerade bei den Implementierungs-affinen Studierenden, aber auch bei den Lehrenden wird häufig der Wunsch nach mehr Unterstützung im Bereich Programmierung genannt. Dies gilt vor allem für komplexere und größere Projekte. 
-Derzeit fehlt im Bachelorprogramm ein Modul, dass die Studierenden auf die rechtlichen Fragestellung in der (Medien-)informatik vorbereitet. Dieses Defizit wurde in verschiedenen Feedbackrunden adressiert.
+Als problematisch wird, bezogen auf den Bachelorstudiengang, vor allem die starke Fragmentierung der Module sowie der zugehörigen Praxisanteile gesehen, sodass die Situation, vor allem im dritten Fachsemester, als "zu voll" oder mit "zu viele Baustellen" beschrieben wird. Dieses Problem wurde auch im Rahmen der Analysen zum Profil2 Antrag der Hochschule identifiziert [^profil2]. Derzeit wird dieser Problematik bereits mit der sequentiellen Anordnung einiger Module begegnet. Dabei werden zwei parallel laufende Module nacheinander, dafür aber mit halber Laufzeit und doppelter SWS Anzahl angeboten, so dass sich die Studierenden auf weniger Module zur gleichen Zeit konzentrieren können. Diese Herangehensweise wurde ebenfalls im Rahmen von Profil2 als Maßnahme vorgeschlagen[^profil2]. Viele Studierende wünschen sich die Möglichkeit der Fachvertiefung. Das Problem wird häufig mit "man kratzt alles nur an und dann kommt schon das nächste Thema" beschrieben. Gerade bei den Implementierungs-affinen Studierenden, aber auch bei den Lehrenden wird häufig der Wunsch nach mehr Unterstützung im Bereich Programmierung genannt. Dies gilt vor allem für komplexere und größere Projekte. 
+Derzeit fehlt im Bachelorprogramm ein Modul, dass die Studierenden auf die rechtlichen Fragestellung in der (Medien-)Informatik vorbereitet. Dieses Defizit wurde in verschiedenen Feedbackrunden adressiert.
 
 Bezogen auf den Master wird immer wieder die fehlende oder unzureichende Praxisorientierung als Problem genannt. Auch hier fehlt den Studierenden die Möglichkeit zur Fachvertiefung entsprechend der persönlichen Neigung. 
 
@@ -195,7 +195,7 @@ Als Indikator für eine gute Studierbarkeit, kann die Anzahl der abgelegten Prü
 
 Ein weiteres Problem bildet offenbar das große Projekt im fünften Semester (Entwicklungsprojekt interaktive Systeme). Nachdem die Studierenden in den vorangegangen Semestern nur mit Projektgrößen von maximal 2,5 Creditpoints konfrontiert wurden, stehen sie im fünften Semester einem Projekt der vierfachen Größe gegenüber. Dies scheint viele zu überfordern, so dass sie entweder erst dann das Projekt beginnen, wenn sie keine parallelen Veranstaltungen haben, oder das Projekt vorzeitig abbrechen.
 
-Die Probleme beim Übergang ins Abschlusssemester wurden bereits beschrieben. Vor allem in Feedbacks und persönlichen Gesprächen wird ein weiteres Defizit häufig genannt: die fehlende Möglichkeit sich in einem thematischen Bereich zu vertiefen.
+Die Probleme beim Übergang ins Abschlusssemester wurden bereits beschrieben. Vor allem in Feedbacks und persönlichen Gesprächen wird ein weiteres Defizit häufig genannt: Die fehlende Möglichkeit sich in einem thematischen Bereich zu vertiefen.
 
 Somit lassen sich die folgenden Defizite im aktuellen Medieninformatik Bachelor Studiengang zusammenfassen:
 
@@ -231,12 +231,12 @@ Somit lassen sich die folgenden Defizite im aktuellen Medieninformatik Master St
 
 
 [^anhang-verbleib-und-studienabbruch]: <a href="../anhaenge/verbleib-und-studienabbruch.pdf">Statistik zum Verbleib- und Studienabbruch</a>
-[^anhang-hep-2020]: <a href="https://www.verwaltung.th-koeln.de/imperia/md/content/verwaltung/broschueren_leitfaeden/hochschulentwicklungsplan2020.pdf">Hochschulentwicklungsplan 2020</a>
-[^Anhang-Pruefungsstatistiken]: <a href="../anhaenge/pruefungsstatistiken.pdf">Bachelorstudiengang Medieninformatik, Prüfungsstatistik 2016</a>
+[^anhang-hep-2020]: <a href="https://www.verwaltung.th-koeln.de/imperia/md/content/verwaltung/broschueren_leitfaeden/hochschulentwicklungsplan2020.pdf">Hochschulentwicklungsplan 2020</a> (abgerufen am 13.02.2017)
+[^Anhang-Pruefungsstatistiken]: <a href="../anhaenge/pruefungsstatistiken.pdf">Bachelorstudiengang Medieninformatik, Prüfungsstatistik 2016</a> 
 [^Anhang-fakultaetsstruktur]: <a href="../anhaenge/Fakultaetsstruktur-Studienangebot-Personal-Haushaltsmittel-Kennzahlen-2014.pdf">Fakultät für Informatik und Ingenieurwissenschaften, Statistik 2013/14</a>
 [^Anhang-INCHER-Studie]: <a href="../anhaenge/INCHER-Studie.pdf">INCHER-Studie 2014</a>
 [^evaluationen-f10]: <a href="../anhaenge/evaluationen-f10.pdf">Studentische Evaluationen Medieninformatik</a>
 [^Anhang-Curriculumsanalye]: fehlt
 [^Anhang-Snapshot-Bewertungen-von-studycheckde]: <a href="../anhaenge/snapshot_2017_02_17_bewertungen_studiengang_medieninformatik_auf_studycheck_._de">Snapshot Bewertungen von studycheck.de</a>
-[^Link-studycheckde]: <a href="http://studycheck.de">http://studycheck.de</a>
-[^profil2]: <a href="https://www.th-koeln.de/mam/downloads/deutsch/hochschule/profil/lehre/profil2_antrag_ministerium.pdf">Profil2 Antrag der TH Köln</a>
+[^Link-studycheckde]: <a href="http://studycheck.de">http://studycheck.de (abgerufen am 17.02.2017)</a>
+[^profil2]: <a href="https://www.th-koeln.de/mam/downloads/deutsch/hochschule/profil/lehre/profil2_antrag_ministerium.pdf">Profil2 Antrag der TH Köln</a> (abgerufen am 15.02.2017)

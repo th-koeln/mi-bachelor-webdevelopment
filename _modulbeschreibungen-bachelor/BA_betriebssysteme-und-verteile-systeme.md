@@ -22,6 +22,8 @@ Systemprogrammierung am Beispiel von UNIX.
 4 SWS: Vorlesung 2 SWS; Praktikum 2 SWS
 
 ## Arbeitsaufwand: 
+Gesamtaufwand 150 h, davon 
+
 - 36 h Vorlesung 
 - 36 h Praktikum
 - 78 h Selbststudium 

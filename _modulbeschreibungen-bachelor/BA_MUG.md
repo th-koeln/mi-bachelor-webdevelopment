@@ -30,12 +30,10 @@ Informatikerinnen und Informatiker analysieren und konstruieren sozio-technische
 
 Die Studierenden sollen befähigt werden
 
-* die unterschiedlichen Wechselwirkungen zwischen Informatik-Systemen und ihrem Einsatzumfeld zu erkennen und zu bewerten, 
-* ethische und rechtliche Aspekte des Einsatzes von Informatik-Systemen zu charakterisieren 
-* ein kritisches Bewusstsein für die aktuellen Fragen des wechselseitigen Einflusses von Informatik und Gesellschaft zu entwickeln.
-* die Grundbegriffe des deutschen Privatrechts zu verstehen
-* sich im dazugehörigen Gesetzeswerk zu orientieren 
-* und insbesondere im Bereich des Vertragsrechts selbständige Lösungsvorschläge zu erarbeiten.
+* ethische und rechtliche Aspekte des Einsatzes von Informatik-Systemen zu charakterisieren und 
+* ein kritisches Bewusstsein für die aktuellen Fragen des wechselseitigen Einflusses von Informatik und Gesellschaft zu entwickeln sowie 
+* die Grundbegriffe des deutschen Privatrechts zu verstehen und sich im dazugehörigen Gesetzeswerk zu orientieren, 
+* um die unterschiedlichen Wechselwirkungen zwischen Informatik-Systemen und ihrem Einsatzumfeld erkennen und bewerten und insbesondere im Bereich des Vertragsrechts selbständige Lösungsvorschläge erarbeiten zu können.
 
 ## Inhalt:
 

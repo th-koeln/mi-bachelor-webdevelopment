@@ -171,9 +171,12 @@ class Document {
 
     $this->fetchFiles();
     $this->loadFileContents();
-    $this->replaceYAMLHeaderInFiles();
+    $this->parseYAMLHeader();
+    /* We now have all the infos needed, to be able to filter files */
+    $this->filterFiles();
     $this->fixEmptyTableHeader();
     $this->preprocessMD();
+    $this->reorderMDFiles();
 
     $this->transpileToLatex();
   }
@@ -223,8 +226,27 @@ class Document {
   }
 
 
+  private function filterFiles() {
 
-  private function replaceYAMLHeaderInFiles() {
+    foreach( $this->files as $path => $page ) {
+
+      switch( $this->getSimpleDocumentName() ) {
+
+        case 'modulbeschreibungen-bachelor':
+          if( isset( $page->infos[ 'type' ] ) &&
+              $page->infos[ 'type' ] === 'tm' ) {
+
+            unset( $this->files[ $path ] );
+          }
+          break;
+
+      }
+
+    }
+  }
+
+
+  private function parseYAMLHeader() {
     foreach( $this->files as $path => &$page ) {
 
       $firstReplacement = true;
@@ -355,6 +377,7 @@ class Document {
       switch( $pageName ) {
 
         case 'modulbeschreibungen-bachelor':
+        case 'modulbeschreibungen-master':
 
           /* Removing sections without content */
           $lines = array_filter( explode( "\n", $page->content ) );
@@ -366,21 +389,46 @@ class Document {
           $page->content = implode( "\n", $cleanedLines );
 
 
-
           /* Insert metadata table */
+
+          /* No metadata table for "Schwerpunkte" */
+          if( isset( $page->infos[ 'type' ] ) &&
+              $page->infos[ 'type' ] === 'sp'    ) {
+            break;
+          }
 
           $peopleYamlPath = dirname( __FILE__ ) . DIRECTORY_SEPARATOR . '../../_data/people.yml';
           $people = \Spyc::YAMLLoad( $peopleYamlPath );
+
+          $typeMap = array(
+            'pm'   => 'Pflichtmodul',
+            'vpm'  => 'Vertiefungsmodul',
+            'wpm'  => 'Wahlpflichtmodul',
+            'spmw' => 'Wahlpflichtmodul',
+            'spm'  => 'Schwerpunktmodul',
+            'spp'  => 'Schwerpunktprojekt'
+          );
 
           $tableData = array(
             'modulverantwortlich'                   => 'Modulverantwortlich',
             'kuerzel'                               => 'Kürzel',
             'studiensemester'                       => 'Studiensemester',
+            'studiensemester-ws'                    => 'Studiensemester - Wintersemester',
+            'studiensemester-ss'                    => 'Studiensemester - Sommersemester',
             'sprache'                               => 'Sprache',
             'zuordnung-zum-curriculum'              => 'Zuordnung zum Curriculum',
             'kreditpunkte'                          => 'Kreditpunkte',
-            'voraussetzungen-nach-pruefungsordnung' => 'Voraussetzungen nach Prüfungsordnung'
+            'voraussetzungen-nach-pruefungsordnung' => 'Voraussetzungen nach Prüfungsordnung',
+            'type'                                  => 'Typ'
           );
+
+          /* Handling 'studiensemester' types */
+          $studiensemesterTypes = array( 'studiensemester', 'studiensemester-ws', 'studiensemester-ss' );
+          foreach( $studiensemesterTypes as $studiensemesterType ) {
+            if( !isset( $page->infos[ $studiensemesterType ] ) ) {
+              unset( $tableData[ $studiensemesterType ] );
+            }
+          }
 
           foreach( $tableData as $fieldKey => &$fieldValue ) {
             $fieldValue = array(
@@ -389,14 +437,21 @@ class Document {
             );
           }
 
-          $modulverantwortlich = array_map( 'trim', explode( ',', $tableData['modulverantwortlich']['value'] ) );
+          /* Shorthand symbol mapping */
+          $modulverantwortlich = array_map( 'trim', explode( ',', $tableData[ 'modulverantwortlich' ][ 'value' ] ) );
 
           $modulverantwortlich = array_map( function( $mvKuerzel ) use( $people ) {
-            return $people[ $mvKuerzel ][ 'name' ];
+            return isset( $people[ $mvKuerzel ][ 'name' ] ) ? $people[ $mvKuerzel ][ 'name' ]: '';
           }, $modulverantwortlich );
 
+          $modulverantwortlich = array_filter( $modulverantwortlich );
 
-          $tableData['modulverantwortlich']['value'] = implode( ', ', $modulverantwortlich );
+          $tableData[ 'modulverantwortlich' ][ 'value' ] = implode( ', ', $modulverantwortlich );
+
+          /* Module type shorthand symbol mapping */
+          if( isset( $typeMap[ $tableData[ 'type' ][ 'value' ] ] ) ) {
+            $tableData[ 'type' ][ 'value' ] = $typeMap[ $tableData[ 'type' ][ 'value' ] ];
+          }
 
 
           $tableMarkdown  = "| &nbsp; | &nbsp; |\n";
@@ -418,6 +473,30 @@ class Document {
     }
   }
 
+
+
+  private function reorderMDFiles() {
+
+    switch( $this->getSimpleDocumentName() ) {
+
+      case 'modulbeschreibungen-master':
+
+        $scherpunkteFiles = array();
+
+        foreach( $this->files as $path => $page ) {
+          if( isset( $page->infos[ 'type' ] ) &&
+              $page->infos[ 'type' ] === 'sp'    ) {
+            $scherpunkteFiles[ $path ] = $page;
+            unset( $this->files[ $path ] );
+          }
+        }
+
+        $this->files = $scherpunkteFiles + $this->files;
+
+        break;
+    }
+
+  }
 
 
   public function getSimpleDocumentName() {
@@ -517,6 +596,7 @@ class Document {
         break;
 
       case 'modulbeschreibungen-bachelor':
+      case 'modulbeschreibungen-master':
 
         $latexContent = str_replace( '\section', '\chapter', $latexContent );
         $latexContent = str_replace( '\subsection', '\section*', $latexContent );

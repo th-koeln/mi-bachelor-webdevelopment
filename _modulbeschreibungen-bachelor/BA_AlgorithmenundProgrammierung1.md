@@ -17,28 +17,49 @@ type: pm
 
 ## Lehrform/SWS:
 
+6 SWS: Vorlesung 3 SWS; Übung 1 SWS; Praktikum 2 SWS
 
 ## Arbeitsaufwand:
 
+Gesamtaufwand 240 h, davon 
+
+- 54 h Vorlesung 
+- 36 h Praktikum
+- 18 h Übung
+- 132 h Selbststudium 
+
 ## Angestrebte Lernergebnisse:
-Die Studierenden sollen  
 
+Die Studierenden sollen
 
-- die Prinzipien der Objektorientierung verstanden haben und einfache Softwareeinheiten unter Beachtung dieser Prinzipien erstellen können
-- die wichtigsten Eigenschaften der Programmiersprachen C und Java sowie der Java-Entwicklungsumgebung kennen
-- einfache Algorithmen beurteilen, vorhandene Bibliothekslösungen angemessen einsetzen und einfache Algorithmen selbstständig entwickeln können.
+- formale und algorithmische Kompetenzen im Bereich der Software-Entwicklung erlangen. Hierzu gehören insbesondere die Prinzipien der Objektorientierung und die der prozeduralen Programmierung.
+- die Kompetenz erlangen, strukturierte und unstrukturierte Problemstellungen zu analysieren, Lösungen modellbasiert zu entwickeln sowie prozedural und objektorientiert umzusetzen.
+- Systementwürfe evaluieren und bewerten können, insbesondere sollen sie die Arbeitsweise, die Randbedingungen und den Komplexitätsgrad von einfachen Algorithmen verstehen.
+- die Fähigkeit erlernen, algorithmische Entwurfsmuster zu erkennen und anzuwenden
 
 ## Inhalt:
-* objektorientierte u. prozedurale Programmierung in C und Java
-* Algorithmen mit elementaren Datentypen
-* Rekursion in C
+* Prozedurale Programmierung am Beispiel von C.
+* Objektorientierte Programmierung am Beispiel von Java.
+* Kontroll- und Datenstrukturen.
+* Modularisierungskonzepte.
+* Typkonzepte.
+* Grundmuster der objektorientierten Programmierung.
+* Elementare Algorithmen und Aufwandsschätzung.
+* Entwicklungsumgebungen.
 
 ## Studien-/Prüfungsleistungen:
 
+Klausur sowie erfolgreiche Teilnahme am Praktikum als Prüfungsvorleistung
 
 ## Medienformen:
 
+- Beamer-gestützte Vorlesungen (Folien in elektronischer Form) 
+- Praktikum an Rechnern des Labors
 
 ## Literatur:
-* Tutorium unter <a href ="http://www.hb02.de/ap1/"> http://www.hb02.de/ap1</a>
+
+* Vorlesungsunterlagen: Foliensammlung, ausformuliertes Skript, Beispiellösungen, Übungsklausuren mit Lösungen
+* Fachliteratur: Diverse C-Bücher, u.a.: Kernighan, B.W., Ritchie, D.M.: „Programmieren in C“
+* Diverse Java-Bücher, u.a.: Bishop, J.: „Java Lernen“
+* Sedgewick, R.: „Algorithmen in Java“
 
