@@ -1,4 +1,5 @@
 {% assign doc = include.doc %}
+{% assign status = "is-info" %}
 
 {% assign check = doc.aktueller-bearbeiter | strip_newlines %}
 {% if check != ""  %}
@@ -7,8 +8,11 @@
 </div>
 {% endif %}
 
+{% if doc.status == "fertig"  %}
+{% assign status = "is-success" %}
+{% endif %}
 
-<div class="notification is-info">
+<div class="notification {{status}}">
 	<span class="is-less-important">Bearbeiterhistorie:</span> {{doc.bearbeiterhistorie}} <br>
 	<span class="is-less-important">Datum der letzten Bearbeitung:</span> {{doc.date | date_to_string }} <br>
 	<span class="is-less-important">Kommentar:</span> {{doc.comment}} <br>
