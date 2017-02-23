@@ -1,11 +1,11 @@
 ---
 title: Soll-Zustand/ geplante Veränderungen
 aktueller-bearbeiter:
-bearbeiterhistorie: Kristian Fischer, danach von Hans reviewed;
+bearbeiterhistorie: Kristian Fischer
 date: 22.02.2017
 comment: Präludium hinzugefügt bitte reviewen!Text von Hans reviewed!
-status: fast vollständig
-reviewed-von: Robert Gabriel
+status: fertig
+reviewed-von: Robert Gabriel, Hans
 ---
 
 Seit der Reakkreditierung der Medieninformatik Studiengänge vor sieben Jahren haben sich sowohl die Berufsbilder der Absolventinnen und Absolventen als auch der Diskurs über Curricula der Medieninformatik weiterentwickelt. Wir sehen vor allem drei Felder, in denen die Perspektive der Medieninformatik erhebliche Relevanz erlangt hat:
