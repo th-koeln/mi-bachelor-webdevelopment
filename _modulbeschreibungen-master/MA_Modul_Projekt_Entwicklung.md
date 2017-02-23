@@ -1,6 +1,6 @@
 ---
 title: Projektarbeit - Entwicklung im Kontext des Studienschwerpunkts
-modulverantwortlich: kf, mw, hc, me, ck, gh
+modulverantwortlich: kf, mw, hk, me, ck, gh
 modulniveau: n/a
 kuerzel: WTWP-E
 untertitel: null
@@ -14,17 +14,17 @@ voraussetzungen-nach-pruefungsordnung: keine
 empfohlene-voraussetzungen: keine
 published: true
 type: spp
-parent: 
+parent:
 schwerpunkt: wtw, sc, vc, mpd, hci
 ---
 
 ## Kurzbeschreibung
-In einem Projekt wird, basierend auf einem existierenden Konzept, ein „minimal viable Prototype“ entwickelt 
+In einem Projekt wird, basierend auf einem existierenden Konzept, ein „minimal viable Prototype“ entwickelt
 
-## Lehrform/SWS: 
+## Lehrform/SWS:
 Projektarbeit
 
-## Arbeitsaufwand: 
+## Arbeitsaufwand:
 360 Stunden
 
 ## Angestrebte Lernergebnisse:

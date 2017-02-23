@@ -1,7 +1,7 @@
 ---
 title: Studiengangskonzept
-aktueller-bearbeiter: Kristian Fischer
-bearbeiterhistorie: Christian Noss
+aktueller-bearbeiter: 
+bearbeiterhistorie: Kristian Fischer
 date: 22.02.2017
 comment: hier könnten noch was zum Thema wissenschaftliches Arbeiten stehen
 status: Peer Review erforderlich
@@ -57,6 +57,10 @@ Zusammen mit dem Praxisprojekt und der Bachelorarbeit stehen somit 60 Creditpoin
 
 Projektorientierung und forschendes Lernen sind seit der Erstakkreditierung des Studiengangs elementare Bestandteile des Studienkonzepts. Diese Ansätze haben in den letzten Jahren vermehrt Einzug in verschiedene Module erhalten. Um hier die Studierenden einerseits nicht zu überfordern, sie aber aber trotzdem an größere und komplexere Projekte und Fragestellungen heranzuführen, werden die Projektanteile und -gewichte im Studiengang behutsam aufgebaut. Das Module "Einführung in die Medieninformatik" startet im ersten Semester mit einem Projektanteil von 50% (2,5 CP) um die Studierenden initial mit dem Lehrformat "Projekt" im Hochschulkontext vertraut zu machen. Das Gewicht der Projekte wird dann im dritten und vierten Semester auf 5 Creditpoints erhöht. Das Modul "Entwicklungsprojekt" im fünften Semestern ist mit einem Gewicht von 10 Creditpoints ausgestattet und leitet über zum Praxisprojekt (10 CP) und der Bachelorarbeit (12 CP). Das Projektgewicht von 12 Creditpoints wird später, im konsekutiven Masterstudiengang, weiter geführt. 
 
+### Wissenschaftliches Arbeiten
+
+Wissenschaftliches Arbeiten wird beginnend im ersten Semester in der Veranstaltung "Einführung in die Medieninformatik", in der THemen wie Recherche, Umgang mit Quellen, adäquater Aufbau von Dokumenten und Verwendung adäquater Sprache thematisiert und gefordert wird. Darauf wird u.a. in allen Projektorientierten Veranstaltungen bei der Erstellung von Projektdokumentationen, bei Vorträgen und bei Poster Präsentationen zurück gegriffen. Im Rahmen des Praxisprojekt Seminars wird das Thema im Hinblick auf die anschließende ERstellung der Bachelorarbeit vertieft und eine eingehende individuelle Auseinandersetzung mit dem Thema abgerufen.   
+
 
 ### Weiterführende Dokumente
 
@@ -94,7 +98,13 @@ Jedes der ersten drei Fachsemester hat ein dezidiertes Projekt, das auf die jewe
 - Sensibilisierung für professionelle Ergebnissicherung
 - Skalierbarkeit von Projekten auf verschiedene Teams in Abhängigkeit von der jeweiligen Projektphase
 
-Die Projekte können mit zusätzlichen Lehrveranstaltungen, die auf die jeweilige Leitfrage einzahlen, angereichert werden.  
+Die Projekte können mit zusätzlichen Lehrveranstaltungen, die auf die jeweilige Leitfrage einzahlen, angereichert werden. 
+
+
+### Wissenschaftliches Arbeiten
+
+Die Fortsetzung des Masterstudiengang durch ein Promotionsstudium ist eine Möglichkeit, die von einer erheblichen Anzahl unserer Absolventen wahrgenommen wird. Um dafür die erforderlichen Kompetenzen im wissenschaftlichen Arbeiten zu erreichen aber auch um Interesse am wissenschaftlichen Arbeiten zu wecken, wird dieses Thema im Master konsequent verfolgt. Neben expliziten, auf Vermittlung von Methodenwissen ausgelegten Modulen wie "Research Methods" und "Computer Ethik" wird vor allem in den Schwerpunktprojekten wiisenschaftliches Arbeiten gefordert. Im Projektteil "Vision und Konzept" wird im Rahmen der Veranstaltung "Advanced Seminar" wird Aquisition, Bewertung und Erschließung des aktuellen Forschungsstandes aus wissenschaftlicher Literatur thematisiert. Im Projektteil "Umsetzug" wird eine kritische Diskussion der eingesetzten Methoden und Architekturen praktiziert. Im Projektteil "Verwertung" wird auch die Publikation der Ergebnisse auf Konferenzen, Workshops, oder in sozialen Medien wit github angestrebt.
+
 
 ### Internationalisierung
 
