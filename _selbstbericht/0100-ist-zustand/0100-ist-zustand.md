@@ -14,7 +14,7 @@ Fachlich und strukturell sind sowohl der Bachelor-Studiengang als auch der konse
 
 Die Studiengänge, vor allem der Bachelor-Studiengang, erfreuen sich großer Nachfrage, sowohl von Studierenden als auch von Unternehmen. Beim unabhängigen Bewertungsportal "Studycheck.de" [^Link-studycheckde] wird die Medieninformatik am Campus Gummersbach unter den TOP 5 Studiengängen in diesem Segment gelistet [^Anhang-Snapshot-Bewertungen-von-studycheckde].
 
-Mittlerweile haben etwa 15 Absolventen des Masterstudienganges Medieninformatik ein Promotionstudium abgeschlossen bzw. sind gerade im Begriff, diese anzuschliessen. Die Promotionsverfahren fanden bzw. finden an deutschen (Münster, Paderborn, Tübingen) aber auch an europäischen (Schweden, Norwegen, Niederlande, Spanien, UK) Universitäten statt und decken fachlich ein breites Spektrum ab.
+Mittlerweile haben 15 Absolventen des Masterstudienganges Medieninformatik ein Promotionstudium abgeschlossen bzw. sind gerade im Begriff, diese anzuschliessen. Die Promotionsverfahren fanden bzw. finden an deutschen (Münster, Paderborn, Tübingen) aber auch an europäischen (Schweden, Norwegen, Niederlande, Spanien, UK) Universitäten statt und decken fachlich ein breites Spektrum ab.
 
 
 
