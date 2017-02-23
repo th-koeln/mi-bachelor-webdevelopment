@@ -22,7 +22,11 @@ In der Veranstaltung werden wesentliche Grundideen, Interaktionsprinzipien, Cont
 4 SWS: Vorlesung 2 SWS; Seminar 2 SWS
 
 ## Arbeitsaufwand: 
-150 Stunden
+Gesamtaufwand 150 h, davon 
+
+- 36 h Vorlesung 
+- 36 h Seminar
+- 78 h Selbststudium 
 
 ## Angestrebte Lernergebnisse:
 Die Studierenden 

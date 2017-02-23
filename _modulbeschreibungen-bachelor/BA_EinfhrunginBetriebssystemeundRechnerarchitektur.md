@@ -17,10 +17,18 @@ type: pm
 
 ## Lehrform/SWS:
 
+4 SWS: Vorlesung 2 SWS; Übung 2 SWS
 
 ## Arbeitsaufwand:
 
+Gesamtaufwand 150 h, davon 
+
+- 36 h Vorlesung 
+- 36 h Übung
+- 78 h Selbststudium 
+
 ## Angestrebte Lernergebnisse:
+
 Die Studierenden sollen die Basiskonzepte und Grundlagen der Betriebssysteme und der Rechnerarchitektur kennen und verstehen, sowie ein einheitliches konsistentes Begriffsgebäude zu, teilweise aus der persönlichen Praxis bekannten, Sachverhalten der IT aufbauen
 
 ## Inhalt:
@@ -29,6 +37,7 @@ Die Studierenden sollen die Basiskonzepte und Grundlagen der Betriebssysteme und
 
 ## Studien-/Prüfungsleistungen:
 
+Schriftliche Prüfung, zuvor erfolgreiche Teilnahme am Praktikum als Prüfungsvorleistung
 
 ## Medienformen:
 
