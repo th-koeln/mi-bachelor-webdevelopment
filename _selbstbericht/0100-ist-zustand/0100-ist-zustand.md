@@ -14,7 +14,7 @@ Fachlich und strukturell sind sowohl der Bachelor-Studiengang als auch der konse
 
 Die Studiengänge, vor allem der Bachelor-Studiengang, erfreuen sich großer Nachfrage, sowohl von Studierenden als auch von Unternehmen. Beim unabhängigen Bewertungsportal "Studycheck.de" [^Link-studycheckde] wird die Medieninformatik am Campus Gummersbach unter den TOP 5 Studiengängen in diesem Segment gelistet [^Anhang-Snapshot-Bewertungen-von-studycheckde].
 
-Mittlerweile haben etwa 15 Absolventen des Masterstudienganges Medieninformatik ein Promotionstudium abgeschlossen bzw. sind gerade im Begriff, diese anzuschliessen. Die Promotionsverfahren fanden bzw. finden an deutschen (Münster, Paderborn, Tübingen) aber auch an europäischen (Schweden, Norwegen, Niederlande, Spanien, UK) Universitäten statt und decken fachlich ein breites Spektrum ab.
+Mittlerweile haben 15 Absolventen des Masterstudienganges Medieninformatik ein Promotionstudium abgeschlossen bzw. sind gerade im Begriff, diese anzuschliessen. Die Promotionsverfahren fanden bzw. finden an deutschen (Münster, Paderborn, Tübingen) aber auch an europäischen (Schweden, Norwegen, Niederlande, Spanien, UK) Universitäten statt und decken fachlich ein breites Spektrum ab.
 
 
 
@@ -148,7 +148,7 @@ Die Unzufriedenheit bei der Bewertung der Studien- und Prüfungsorganisation in 
 
 Die folgenden Ausführungen beruhen auf der Datenerhebung zum 22.09.2016 für den Zeitraum Wintersemester 2011 bis Wintersemester 2015[^Anhang-Pruefungsstatistiken][^Anhang-fakultaetsstruktur] und fokussieren die derzeit eingeschriebenen Studenten, erfolgreiche Abschlüsse und Studienfachabbrecher.
 
-Zur Bewertung der Auslastung kann wie folgt Stellung genommen werden: gemessen an den planmäßigen 63 Studierendenplätzen (WS13/14) werden seit drei Studienjahren im Rahmen der strategischen Fakultätsplanung und des Hochschulentwicklungsplans 2020 mehr als 200% Überlast aufgenommen. Mit den Abbrecherquoten im Bachelorstudiengang bewegt sich die Medieninformatik im breiten Mittelfeld von Informatikstudiengängen im Allgemeinen; 
+Zur Bewertung der Auslastung kann wie folgt Stellung genommen werden: Gemessen an den planmäßigen 63 Studierendenplätzen (WS13/14) werden seit drei Studienjahren im Rahmen der strategischen Fakultätsplanung und des Hochschulentwicklungsplans 2020 mehr als 200% Überlast aufgenommen. Mit den Abbrecherquoten im Bachelorstudiengang bewegt sich die Medieninformatik im breiten Mittelfeld von Informatikstudiengängen im Allgemeinen; 
 ~~~
 cn: gibt es zu "im breiten Mittelfeld von Informatikstudiengängen" zahlen?
 ~~~
@@ -163,9 +163,9 @@ zeigt sich hier ein deutliches noch zu hebendes Optimierungspotential. Erfreulic
 
 Die Prüfungserfolge sind bzgl. des Bachelor- und Masterstudiengangs zu differenzieren.
 
-Im Bachelorstudiengang Medieninformatik zeigt sich bei den Prüfungserfolgen des „neuen“ im Vergleich zum „alten“ Studiengang (BPO2 vs. BPO3, s. Anhang Pruefungsstatistiken [^Anhang-Pruefungsstatistiken]) ein früherer Prüfungserfolg. Auch in höheren Semestern werden die Prüfungen früher absolviert und mit weniger Fehlversuchen bestanden. In erster Näherung findet man den ersten beiden Semestern eine Gleichverteilung der Noten innerhalb des Notenspektrums, die sich in den höheren Semestern zu einer deutlichen Verbesserung hin verschiebt. Hier mögen zwei Faktoren von Bedeutung sein: zum einen der deutlich höhere Anteil an medien(informatik)spezifischen Modulen und zum anderen kann gemutmaßt werden, dass sich hier die Abbrecherzahlen positiv auswirken. Die Abschluss- und die Endnoten setzen diesen Trend der Verbesserung des Notendurchschnitts fort.
+Im Bachelorstudiengang Medieninformatik zeigt sich bei den Prüfungserfolgen des „neuen“ im Vergleich zum „alten“ Studiengang (BPO2 vs. BPO3, s. Anhang Pruefungsstatistiken [^Anhang-Pruefungsstatistiken]) ein früherer Prüfungserfolg. Auch in höheren Semestern werden die Prüfungen früher absolviert und mit weniger Fehlversuchen bestanden. In erster Näherung findet man in den ersten beiden Semestern eine Gleichverteilung der Noten innerhalb des Notenspektrums, die sich in den höheren Semestern zu einer deutlichen Verbesserung hin verschiebt. Hier mögen zwei Faktoren von Bedeutung sein: Zum einen der deutlich höhere Anteil an medien(informatik)spezifischen Modulen und zum anderen kann gemutmaßt werden, dass sich hier die Abbrecherzahlen positiv auswirken. Die Abschluss- und die Endnoten setzen diesen Trend der Verbesserung des Notendurchschnitts fort.
 
-Im Masterstudium wirkt die sich die, im Rahmen der Reakkreditierung weggefallene Zulassungsvoraussetzung eines Mindest-Notenschnittes nicht wesentlich auf die Verteilung der Prüfungsergebnisse aus. Auch hier ist weiterhin das gesamte Notenspektrum abgedeckt, ebenso wie bei den Ergebnissen der Master Thesen.
+Im Masterstudium wirkt sich die im Rahmen der Reakkreditierung weggefallene Zulassungsvoraussetzung eines Mindest-Notenschnittes nicht wesentlich auf die Verteilung der Prüfungsergebnisse aus. Auch hier ist weiterhin das gesamte Notenspektrum abgedeckt, ebenso wie bei den Ergebnissen der Master Thesen.
 
 
 ### Rückschlüsse aus informellen Gesprächen und Kommentaren
