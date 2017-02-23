@@ -3,8 +3,8 @@ title: Analyse der Studiengänge
 aktueller-bearbeiter:
 bearbeiterhistorie: Christian Noss
 date: 14.02.2017
-comment: erstmal fertig
-status: Peer Review erforderlich
+comment: 
+status: fertig
 reviewed-von: Robert Gabriel
 ---
 

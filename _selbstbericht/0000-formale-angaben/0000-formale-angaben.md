@@ -63,7 +63,7 @@ Zuordnung zu einem Profil
 : anwendungsorientierter Studiengang
 
 Einordnung konsekutiv/ nicht konsekutiv
-: Konsekutiv zu den Studiengängen Medieninformatik (Bachelor)
+: Konsekutiv, vertiefend zum Studiengang Medieninformatik (Bachelor)
 
 Zu verleihender Hochschulgrad
 : Master of Science
@@ -72,4 +72,4 @@ Regelstudienzeit
 : Vier Semester
 
 Studienbeginn
-: Aufnahme in jedem Semester
+: Zum Winter- und Sommersemester
