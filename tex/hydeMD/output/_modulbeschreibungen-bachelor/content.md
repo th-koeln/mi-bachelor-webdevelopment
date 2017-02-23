@@ -2,15 +2,15 @@
 # Algorithmen und Programmierung 1
 
 
-| &nbsp; | &nbsp; |
-|:-------|:-------|
-| Modulverantwortlich | Prof. Dr. Frank Victor |
-| Kürzel | AP1 |
-| Studiensemester | 1 |
-| Sprache | deutsch |
-| Kreditpunkte | 8 |
-| Voraussetzungen nach Prüfungsordnung | keine |
-| Typ | Pflichtmodul |
+
+- Modulverantwortlich: Prof. Dr. Frank Victor
+- Kürzel: AP1
+- Studiensemester: 1
+- Sprache: deutsch
+- Kreditpunkte: 8
+- Voraussetzungen nach Prüfungsordnung: keine
+- Typ: Pflichtmodul
+
 
 
 ## Lehrform/SWS:
@@ -90,15 +90,15 @@ Klausur sowie erfolgreiche Teilnahme am Praktikum als Prüfungsvorleistung
 # Algorithmen und Programmierung 2
 
 
-| &nbsp; | &nbsp; |
-|:-------|:-------|
-| Modulverantwortlich | Prof. Dr. Christian Kohls |
-| Kürzel | AP2 |
-| Studiensemester | 2 |
-| Sprache | deutsch |
-| Kreditpunkte | 7 |
-| Voraussetzungen nach Prüfungsordnung | Keine über die Zulassungsvorrausetzungen hinausgehenden Vorraussetzungen |
-| Typ | Pflichtmodul |
+
+- Modulverantwortlich: Prof. Dr. Christian Kohls
+- Kürzel: AP2
+- Studiensemester: 2
+- Sprache: deutsch
+- Kreditpunkte: 7
+- Voraussetzungen nach Prüfungsordnung: Keine über die Zulassungsvorrausetzungen hinausgehenden Vorraussetzungen
+- Typ: Pflichtmodul
+
 
 
 ## Lehrform/SWS:
@@ -162,15 +162,15 @@ Klausur sowie erfolgreiche Teilnahme am Praktikum als Prüfungsvorleistung
 # Audiovisuelles Medienprojekt
 
 
-| &nbsp; | &nbsp; |
-|:-------|:-------|
-| Modulverantwortlich | Prof. Hans Kornacher |
-| Kürzel | AVM |
-| Studiensemester | 3 |
-| Sprache | deutsch |
-| Kreditpunkte | 5 |
-| Voraussetzungen nach Prüfungsordnung | Keine über die Zulassungsbedingungen hinausgehenden Voraussetzungen |
-| Typ | Pflichtmodul |
+
+- Modulverantwortlich: Prof. Hans Kornacher
+- Kürzel: AVM
+- Studiensemester: 3
+- Sprache: deutsch
+- Kreditpunkte: 5
+- Voraussetzungen nach Prüfungsordnung: Keine über die Zulassungsbedingungen hinausgehenden Voraussetzungen
+- Typ: Pflichtmodul
+
 
 
 ## Lehrform/SWS:
@@ -260,15 +260,15 @@ Projektarbeit und schriftliche Ausarbeitung
 # Bachelorarbeit
 
 
-| &nbsp; | &nbsp; |
-|:-------|:-------|
-| Modulverantwortlich | alle Informatik Professoren |
-| Kürzel | BA |
-| Studiensemester | 6 |
-| Sprache | deutsch |
-| Kreditpunkte | 12 |
-| Voraussetzungen nach Prüfungsordnung | alle Modulprüfungen außer Bachelorarbeit und Kolloquium bestanden |
-| Typ | Pflichtmodul |
+
+- Modulverantwortlich: alle Informatik Professoren
+- Kürzel: BA
+- Studiensemester: 6
+- Sprache: deutsch
+- Kreditpunkte: 12
+- Voraussetzungen nach Prüfungsordnung: alle Modulprüfungen außer Bachelorarbeit und Kolloquium bestanden
+- Typ: Pflichtmodul
+
 
 
 ## Lehrform/SWS:
@@ -295,15 +295,15 @@ Selbstständiges wissenschaftliches, fachpraktisches und gestalterisches Bearbei
 # Bachelor Kolloquium
 
 
-| &nbsp; | &nbsp; |
-|:-------|:-------|
-| Modulverantwortlich | alle Informatik Professoren |
-| Kürzel | BK |
-| Studiensemester | 6 |
-| Sprache | deutsch |
-| Kreditpunkte | 3 |
-| Voraussetzungen nach Prüfungsordnung | alle Modulprüfungen außer Bachelor Kolloquium bestanden |
-| Typ | Pflichtmodul |
+
+- Modulverantwortlich: alle Informatik Professoren
+- Kürzel: BK
+- Studiensemester: 6
+- Sprache: deutsch
+- Kreditpunkte: 3
+- Voraussetzungen nach Prüfungsordnung: alle Modulprüfungen außer Bachelor Kolloquium bestanden
+- Typ: Pflichtmodul
+
 
 
 ## Lehrform/SWS:
@@ -335,15 +335,15 @@ mündliche Prüfung, Vortrag
 # Betriebssysteme und verteilte Systeme
 
 
-| &nbsp; | &nbsp; |
-|:-------|:-------|
-| Modulverantwortlich | Prof. Dr. Matthias Böhmer, Prof. Dr. Lutz Köhler |
-| Kürzel | BS1 |
-| Studiensemester | 4 |
-| Sprache | deutsch |
-| Kreditpunkte | 5 |
-| Voraussetzungen nach Prüfungsordnung | keine |
-| Typ | Pflichtmodul |
+
+- Modulverantwortlich: Prof. Dr. Matthias Böhmer, Prof. Dr. Lutz Köhler
+- Kürzel: BS1
+- Studiensemester: 4
+- Sprache: deutsch
+- Kreditpunkte: 5
+- Voraussetzungen nach Prüfungsordnung: keine
+- Typ: Pflichtmodul
+
 
 
 ## Kurzbeschreibung
@@ -438,15 +438,15 @@ Foliensammlung, ausformuliertes Skript, Beispiellösungen
 # BWL I - Grundlagen
 
 
-| &nbsp; | &nbsp; |
-|:-------|:-------|
-| Modulverantwortlich | Prof. Dr. Monika Engelen |
-| Kürzel | BWL1 |
-| Studiensemester | 5 |
-| Sprache | deutsch |
-| Kreditpunkte | 5 |
-| Voraussetzungen nach Prüfungsordnung | keine |
-| Typ | Pflichtmodul |
+
+- Modulverantwortlich: Prof. Dr. Monika Engelen
+- Kürzel: BWL1
+- Studiensemester: 5
+- Sprache: deutsch
+- Kreditpunkte: 5
+- Voraussetzungen nach Prüfungsordnung: keine
+- Typ: Pflichtmodul
+
 
 
 ## Lehrform/SWS:
@@ -501,15 +501,15 @@ schriftliche Klausur
 # Datenbanken 1
 
 
-| &nbsp; | &nbsp; |
-|:-------|:-------|
-| Modulverantwortlich | Prof. Dr. Birgit Bertelsmeier, Prof. Dr. Heide Faeskorn-Woyke |
-| Kürzel | DB1 |
-| Studiensemester | 3 |
-| Sprache | Deutsch |
-| Kreditpunkte | 5 |
-| Voraussetzungen nach Prüfungsordnung | Klausurteilnahme nur bei bestandenem DBS1-Praktikum |
-| Typ | Pflichtmodul |
+
+- Modulverantwortlich: Prof. Dr. Birgit Bertelsmeier, Prof. Dr. Heide Faeskorn-Woyke
+- Kürzel: DB1
+- Studiensemester: 3
+- Sprache: Deutsch
+- Kreditpunkte: 5
+- Voraussetzungen nach Prüfungsordnung: Klausurteilnahme nur bei bestandenem DBS1-Praktikum
+- Typ: Pflichtmodul
+
 
 
 ## Lehrform/SWS:
@@ -609,15 +609,15 @@ Klausur, deren Voraussetzung das bestandene Praktikum ist, und semesterbegleiten
 # Einführung in Betriebssysteme und Rechnerarchitektur
 
 
-| &nbsp; | &nbsp; |
-|:-------|:-------|
-| Modulverantwortlich | Prof. Dr. Stefan Karsch |
-| Kürzel | EBR |
-| Studiensemester | 1 |
-| Sprache | deutsch |
-| Kreditpunkte | 5 |
-| Voraussetzungen nach Prüfungsordnung | Erfolgreiche Modulprüfungen in den Modulen des Grundstudiums |
-| Typ | Pflichtmodul |
+
+- Modulverantwortlich: Prof. Dr. Stefan Karsch
+- Kürzel: EBR
+- Studiensemester: 1
+- Sprache: deutsch
+- Kreditpunkte: 5
+- Voraussetzungen nach Prüfungsordnung: Erfolgreiche Modulprüfungen in den Modulen des Grundstudiums
+- Typ: Pflichtmodul
+
 
 
 ## Lehrform/SWS:
@@ -666,15 +666,15 @@ Schriftliche Prüfung, zuvor erfolgreiche Teilnahme am Praktikum als Prüfungsvo
 # Einführung in die Medieninformatik
 
 
-| &nbsp; | &nbsp; |
-|:-------|:-------|
-| Modulverantwortlich | Prof. Dr. Martin Eisemann, Prof. Dr. Kristian Fischer, Prof. Dr. Gerhard Hartmann, Prof. Dr. Christian Kohls, Prof. Hans Kornacher, Prof. Christian Noss, Prof. Dr. Mario Winter |
-| Kürzel | EMI |
-| Studiensemester | 1 |
-| Sprache | Deutsch |
-| Kreditpunkte | 5 |
-| Voraussetzungen nach Prüfungsordnung | Keine |
-| Typ | Pflichtmodul |
+
+- Modulverantwortlich: Prof. Dr. Martin Eisemann, Prof. Dr. Kristian Fischer, Prof. Dr. Gerhard Hartmann, Prof. Dr. Christian Kohls, Prof. Hans Kornacher, Prof. Christian Noss, Prof. Dr. Mario Winter
+- Kürzel: EMI
+- Studiensemester: 1
+- Sprache: Deutsch
+- Kreditpunkte: 5
+- Voraussetzungen nach Prüfungsordnung: Keine
+- Typ: Pflichtmodul
+
 
 
 ## Lehrform/SWS:
@@ -732,15 +732,15 @@ mündliche Prüfung, Projektpräsentation, schriftliche Ausarbeitung
 # Entwicklungsprojekt
 
 
-| &nbsp; | &nbsp; |
-|:-------|:-------|
-| Modulverantwortlich | Prof. Dr. Martin Eisemann, Prof. Dr. Kristian Fischer, Prof. Dr. Gerhard Hartmann, Prof. Dr. Christian Kohls, Prof. Hans Kornacher, Prof. Christian Noss, Prof. Dr. Mario Winter |
-| Kürzel | EPM |
-| Studiensemester | 5 |
-| Sprache | deutsch |
-| Kreditpunkte | 10 |
-| Voraussetzungen nach Prüfungsordnung | Schwerpunktmodul |
-| Typ | Pflichtmodul |
+
+- Modulverantwortlich: Prof. Dr. Martin Eisemann, Prof. Dr. Kristian Fischer, Prof. Dr. Gerhard Hartmann, Prof. Dr. Christian Kohls, Prof. Hans Kornacher, Prof. Christian Noss, Prof. Dr. Mario Winter
+- Kürzel: EPM
+- Studiensemester: 5
+- Sprache: deutsch
+- Kreditpunkte: 10
+- Voraussetzungen nach Prüfungsordnung: Schwerpunktmodul
+- Typ: Pflichtmodul
+
 
 
 ## Lehrform/SWS:
@@ -778,15 +778,15 @@ Die Projektergebnis, bestehend aus Prototyp und Dokumentation,  geht mit 80% in 
 # Grundlagen des Web
 
 
-| &nbsp; | &nbsp; |
-|:-------|:-------|
-| Modulverantwortlich | Prof. Dr. Kristian Fischer |
-| Kürzel | GW |
-| Studiensemester | 3 |
-| Sprache | deutsch |
-| Kreditpunkte | 5 |
-| Voraussetzungen nach Prüfungsordnung | keine |
-| Typ | Pflichtmodul |
+
+- Modulverantwortlich: Prof. Dr. Kristian Fischer
+- Kürzel: GW
+- Studiensemester: 3
+- Sprache: deutsch
+- Kreditpunkte: 5
+- Voraussetzungen nach Prüfungsordnung: keine
+- Typ: Pflichtmodul
+
 
 
 ## Kurzbeschreibung
@@ -869,15 +869,15 @@ Mündliche Prüfung
 # Kommunikationstechnik und Netze
 
 
-| &nbsp; | &nbsp; |
-|:-------|:-------|
-| Modulverantwortlich | Prof. Dr. Hans L. Stahl |
-| Kürzel | KTN |
-| Studiensemester | 3 |
-| Sprache | Deutsch |
-| Kreditpunkte | 5 |
-| Voraussetzungen nach Prüfungsordnung | Kenntnisse aus dem Grundstudium. |
-| Typ | Pflichtmodul |
+
+- Modulverantwortlich: Prof. Dr. Hans L. Stahl
+- Kürzel: KTN
+- Studiensemester: 3
+- Sprache: Deutsch
+- Kreditpunkte: 5
+- Voraussetzungen nach Prüfungsordnung: Kenntnisse aus dem Grundstudium.
+- Typ: Pflichtmodul
+
 
 
 ## Lehrform/SWS:
@@ -919,15 +919,15 @@ Grundbegriffe und Grundlagen, Kommunikationssysteme (Modelle, Grundbegriffe), Pr
 # Mathematik 1
 
 
-| &nbsp; | &nbsp; |
-|:-------|:-------|
-| Modulverantwortlich | Prof. Dr. Wolfgang Konen |
-| Kürzel | MA1 |
-| Studiensemester | 1 |
-| Sprache | deutsch |
-| Kreditpunkte | 7 |
-| Voraussetzungen nach Prüfungsordnung | &nbsp; |
-| Typ | Pflichtmodul |
+
+- Modulverantwortlich: Prof. Dr. Wolfgang Konen
+- Kürzel: MA1
+- Studiensemester: 1
+- Sprache: deutsch
+- Kreditpunkte: 7
+- Voraussetzungen nach Prüfungsordnung: &nbsp;
+- Typ: Pflichtmodul
+
 
 
 ## Lehrform/SWS:
@@ -990,15 +990,15 @@ Klausur (60 min) sowie erfolgreiche Teilnahme am Praktikum als Zulassungsvorauss
 # Mathematik 2
 
 
-| &nbsp; | &nbsp; |
-|:-------|:-------|
-| Modulverantwortlich | Prof. Dr. Wolfgang Konen |
-| Kürzel | MA2 |
-| Studiensemester | 2 |
-| Sprache | deutsch |
-| Kreditpunkte | 8 |
-| Voraussetzungen nach Prüfungsordnung | Keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden. Der vorherige Besuch von Mathematik I ist sinnvoll, aber keine zwingende Voraussetzung. |
-| Typ | Pflichtmodul |
+
+- Modulverantwortlich: Prof. Dr. Wolfgang Konen
+- Kürzel: MA2
+- Studiensemester: 2
+- Sprache: deutsch
+- Kreditpunkte: 8
+- Voraussetzungen nach Prüfungsordnung: Keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden. Der vorherige Besuch von Mathematik I ist sinnvoll, aber keine zwingende Voraussetzung.
+- Typ: Pflichtmodul
+
 
 
 ## Lehrform/SWS:
@@ -1053,15 +1053,15 @@ Klausur (60 min) sowie erfolgreiche Teilnahme am Praktikum als Zulassungsvorauss
 # Mensch-Computer Interaktion
 
 
-| &nbsp; | &nbsp; |
-|:-------|:-------|
-| Modulverantwortlich | Prof. Dr. Gerhard Hartmann |
-| Kürzel | MCI |
-| Studiensemester | 2 |
-| Sprache | deutsch |
-| Kreditpunkte | 10 |
-| Voraussetzungen nach Prüfungsordnung | keine |
-| Typ | Pflichtmodul |
+
+- Modulverantwortlich: Prof. Dr. Gerhard Hartmann
+- Kürzel: MCI
+- Studiensemester: 2
+- Sprache: deutsch
+- Kreditpunkte: 10
+- Voraussetzungen nach Prüfungsordnung: keine
+- Typ: Pflichtmodul
+
 
 
 ## Lehrform/SWS:
@@ -1177,15 +1177,15 @@ schriftliche Modulprüfung
 # Informatik, Recht und Gesellschaft
 
 
-| &nbsp; | &nbsp; |
-|:-------|:-------|
-| Modulverantwortlich | Prof. Dr. Mario Winter |
-| Kürzel | IRG |
-| Studiensemester | 5 |
-| Sprache | deutsch |
-| Kreditpunkte | 5 |
-| Voraussetzungen nach Prüfungsordnung | keine |
-| Typ | Pflichtmodul |
+
+- Modulverantwortlich: Prof. Dr. Mario Winter
+- Kürzel: IRG
+- Studiensemester: 5
+- Sprache: deutsch
+- Kreditpunkte: 5
+- Voraussetzungen nach Prüfungsordnung: keine
+- Typ: Pflichtmodul
+
 
 
 ## Lehrform/SWS:
@@ -1326,15 +1326,15 @@ Beamergestützte Vorträge
 # Paradigmen der Programmierung
 
 
-| &nbsp; | &nbsp; |
-|:-------|:-------|
-| Modulverantwortlich | Prof. Dr. Christian Kohls |
-| Kürzel | PP |
-| Studiensemester | 3 |
-| Sprache | deutsch |
-| Kreditpunkte | 5 |
-| Voraussetzungen nach Prüfungsordnung | Keine über die Zulassungsvorrausetzungen hinausgehenden Vorraussetzungen |
-| Typ | Pflichtmodul |
+
+- Modulverantwortlich: Prof. Dr. Christian Kohls
+- Kürzel: PP
+- Studiensemester: 3
+- Sprache: deutsch
+- Kreditpunkte: 5
+- Voraussetzungen nach Prüfungsordnung: Keine über die Zulassungsvorrausetzungen hinausgehenden Vorraussetzungen
+- Typ: Pflichtmodul
+
 
 
 ## Lehrform/SWS:
@@ -1410,15 +1410,15 @@ Klausur sowie erfolgreiche Teilnahme am Praktikum als Prüfungsvorleistung
 # Praxisprojekt
 
 
-| &nbsp; | &nbsp; |
-|:-------|:-------|
-| Modulverantwortlich | alle Informatik Professoren |
-| Kürzel | PP |
-| Studiensemester | 6 |
-| Sprache | deutsch |
-| Kreditpunkte | 10 |
-| Voraussetzungen nach Prüfungsordnung | alle Modulprüfungen außer Praxisprojekt, Bachelorarbeit und Kolloquium bestanden |
-| Typ | Pflichtmodul |
+
+- Modulverantwortlich: alle Informatik Professoren
+- Kürzel: PP
+- Studiensemester: 6
+- Sprache: deutsch
+- Kreditpunkte: 10
+- Voraussetzungen nach Prüfungsordnung: alle Modulprüfungen außer Praxisprojekt, Bachelorarbeit und Kolloquium bestanden
+- Typ: Pflichtmodul
+
 
 
 ## Lehrform/SWS:
@@ -1454,15 +1454,15 @@ Schriftliche Ausarbeitung, Projektdokumentation
 # Praxisprojektseminar
 
 
-| &nbsp; | &nbsp; |
-|:-------|:-------|
-| Modulverantwortlich | Prof. Christian Noss |
-| Kürzel | PPS |
-| Studiensemester | 6 |
-| Sprache | deutsch |
-| Kreditpunkte | 5 |
-| Voraussetzungen nach Prüfungsordnung | alle Modulprüfungen außer Bachelorarbeit und Kolloquium bestanden |
-| Typ | Pflichtmodul |
+
+- Modulverantwortlich: Prof. Christian Noss
+- Kürzel: PPS
+- Studiensemester: 6
+- Sprache: deutsch
+- Kreditpunkte: 5
+- Voraussetzungen nach Prüfungsordnung: alle Modulprüfungen außer Bachelorarbeit und Kolloquium bestanden
+- Typ: Pflichtmodul
+
 
 
 ## Lehrform/SWS:
@@ -1517,15 +1517,15 @@ Seminarvortrag zur Praxisprojektarbeit
 # Projektmanagement
 
 
-| &nbsp; | &nbsp; |
-|:-------|:-------|
-| Modulverantwortlich | Prof. Dr. Holger Günther, Prof. Dr. Mario Winter |
-| Kürzel | PM |
-| Studiensemester | 5 |
-| Sprache | deutsch |
-| Kreditpunkte | 5 |
-| Voraussetzungen nach Prüfungsordnung | Zulassungsbedingung - Abgeschlossenes Grundstudium; Sonst keine besonderen Voraussetzungen; |
-| Typ | Pflichtmodul |
+
+- Modulverantwortlich: Prof. Dr. Holger Günther, Prof. Dr. Mario Winter
+- Kürzel: PM
+- Studiensemester: 5
+- Sprache: deutsch
+- Kreditpunkte: 5
+- Voraussetzungen nach Prüfungsordnung: Zulassungsbedingung - Abgeschlossenes Grundstudium; Sonst keine besonderen Voraussetzungen;
+- Typ: Pflichtmodul
+
 
 
 ## Kurzbeschreibung:
@@ -1634,15 +1634,15 @@ Damit die Studierenden die vorgestellten Methoden und Techniken zum Management v
 # Screendesign
 
 
-| &nbsp; | &nbsp; |
-|:-------|:-------|
-| Modulverantwortlich | Prof. Christian Noss |
-| Kürzel | SD |
-| Studiensemester | 3 |
-| Sprache | deutsch |
-| Kreditpunkte | 5 |
-| Voraussetzungen nach Prüfungsordnung | keine |
-| Typ | Pflichtmodul |
+
+- Modulverantwortlich: Prof. Christian Noss
+- Kürzel: SD
+- Studiensemester: 3
+- Sprache: deutsch
+- Kreditpunkte: 5
+- Voraussetzungen nach Prüfungsordnung: keine
+- Typ: Pflichtmodul
+
 
 
 ## Lehrform/SWS:
@@ -1758,15 +1758,15 @@ Beamergestützte Vorträge, Rechnergestützte  Workshops
 # Softwaretechnik
 
 
-| &nbsp; | &nbsp; |
-|:-------|:-------|
-| Modulverantwortlich | Prof. Dr. Mario Winter |
-| Kürzel | ST1 |
-| Studiensemester | 4 |
-| Sprache | deutsch |
-| Kreditpunkte | 5 |
-| Voraussetzungen nach Prüfungsordnung | Keine über die Zulassungsbedingungen hinausgehenden Voraussetzungen |
-| Typ | Pflichtmodul |
+
+- Modulverantwortlich: Prof. Dr. Mario Winter
+- Kürzel: ST1
+- Studiensemester: 4
+- Sprache: deutsch
+- Kreditpunkte: 5
+- Voraussetzungen nach Prüfungsordnung: Keine über die Zulassungsbedingungen hinausgehenden Voraussetzungen
+- Typ: Pflichtmodul
+
 
 
 ## Kurzbeschreibung:
@@ -1857,15 +1857,15 @@ Klausur 120 Minuten
 # Theoretische Informatik 1
 
 
-| &nbsp; | &nbsp; |
-|:-------|:-------|
-| Modulverantwortlich | Prof. Dr. Martin Eisemann |
-| Kürzel | TI1 |
-| Studiensemester | 1 |
-| Sprache | deutsch |
-| Kreditpunkte | 5 |
-| Voraussetzungen nach Prüfungsordnung | Einfache Kenntnisse der naiven Mengenlehre, wie sie in der Schule vermittelt und bei der mathematischen Begriffsbildung verwendet werden. |
-| Typ | Pflichtmodul |
+
+- Modulverantwortlich: Prof. Dr. Martin Eisemann
+- Kürzel: TI1
+- Studiensemester: 1
+- Sprache: deutsch
+- Kreditpunkte: 5
+- Voraussetzungen nach Prüfungsordnung: Einfache Kenntnisse der naiven Mengenlehre, wie sie in der Schule vermittelt und bei der mathematischen Begriffsbildung verwendet werden.
+- Typ: Pflichtmodul
+
 
 
 ## Lehrform/SWS:
@@ -1969,15 +1969,15 @@ Vorlesung mit Übung
 # Theoretische Informatik 2
 
 
-| &nbsp; | &nbsp; |
-|:-------|:-------|
-| Modulverantwortlich | Prof. Dr. Martin Eisemann |
-| Kürzel | TI2 |
-| Studiensemester | 2 |
-| Sprache | deutsch |
-| Kreditpunkte | 5 |
-| Voraussetzungen nach Prüfungsordnung | Einfache Kenntnisse der naiven Mengenlehre, wie sie in der Schule vermittelt und bei der mathematischen Begriffsbildung verwendet werden. |
-| Typ | Pflichtmodul |
+
+- Modulverantwortlich: Prof. Dr. Martin Eisemann
+- Kürzel: TI2
+- Studiensemester: 2
+- Sprache: deutsch
+- Kreditpunkte: 5
+- Voraussetzungen nach Prüfungsordnung: Einfache Kenntnisse der naiven Mengenlehre, wie sie in der Schule vermittelt und bei der mathematischen Begriffsbildung verwendet werden.
+- Typ: Pflichtmodul
+
 
 
 ## Lehrform/SWS:
@@ -2081,15 +2081,15 @@ Vorlesung und praktische Übungen
 # Visual Computing
 
 
-| &nbsp; | &nbsp; |
-|:-------|:-------|
-| Modulverantwortlich | Prof. Hans Kornacher, Prof. Dr. Martin Eisemann |
-| Kürzel | VC |
-| Studiensemester | 4 |
-| Sprache | deutsch |
-| Kreditpunkte | 20 |
-| Voraussetzungen nach Prüfungsordnung | keine |
-| Typ | Vertiefungsmodul |
+
+- Modulverantwortlich: Prof. Hans Kornacher, Prof. Dr. Martin Eisemann
+- Kürzel: VC
+- Studiensemester: 4
+- Sprache: deutsch
+- Kreditpunkte: 20
+- Voraussetzungen nach Prüfungsordnung: keine
+- Typ: Vertiefungsmodul
+
 
 
 ## Kurzbeschreibung
@@ -2491,15 +2491,15 @@ Beamergestützte Vorträge, Rechnergestützte Workshops
 # Web Development
 
 
-| &nbsp; | &nbsp; |
-|:-------|:-------|
-| Modulverantwortlich | Prof. Dr. Kristian Fischer |
-| Kürzel | WD |
-| Studiensemester | 4 |
-| Sprache | deutsch |
-| Kreditpunkte | 20 |
-| Voraussetzungen nach Prüfungsordnung | keine |
-| Typ | Vertiefungsmodul |
+
+- Modulverantwortlich: Prof. Dr. Kristian Fischer
+- Kürzel: WD
+- Studiensemester: 4
+- Sprache: deutsch
+- Kreditpunkte: 20
+- Voraussetzungen nach Prüfungsordnung: keine
+- Typ: Vertiefungsmodul
+
 
 
 ## Kurzbeschreibung
@@ -2695,15 +2695,15 @@ Hier fehlen noch die Literaturangaben zu den einzelnen Teilmodulen
 # Social Computing
 
 
-| &nbsp; | &nbsp; |
-|:-------|:-------|
-| Modulverantwortlich | Prof. Dr. Christian Kohls |
-| Kürzel | SC |
-| Studiensemester | 4 |
-| Sprache | deutsch |
-| Kreditpunkte | 20 |
-| Voraussetzungen nach Prüfungsordnung | keine |
-| Typ | Vertiefungsmodul |
+
+- Modulverantwortlich: Prof. Dr. Christian Kohls
+- Kürzel: SC
+- Studiensemester: 4
+- Sprache: deutsch
+- Kreditpunkte: 20
+- Voraussetzungen nach Prüfungsordnung: keine
+- Typ: Vertiefungsmodul
+
 
 
 ## Kurzbeschreibung
@@ -2784,15 +2784,15 @@ siehe jeweilige Kursbeschreibung
 # Wahlpflichtmodul
 
 
-| &nbsp; | &nbsp; |
-|:-------|:-------|
-| Modulverantwortlich | alle Informatik Professoren |
-| Kürzel | WPF |
-| Studiensemester | 5 |
-| Sprache | deutsch |
-| Kreditpunkte | 5 |
-| Voraussetzungen nach Prüfungsordnung | keine |
-| Typ | Pflichtmodul |
+
+- Modulverantwortlich: alle Informatik Professoren
+- Kürzel: WPF
+- Studiensemester: 5
+- Sprache: deutsch
+- Kreditpunkte: 5
+- Voraussetzungen nach Prüfungsordnung: keine
+- Typ: Pflichtmodul
+
 
 
 ## Lehrform/SWS:

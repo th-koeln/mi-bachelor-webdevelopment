@@ -147,7 +147,7 @@ Gemäß der Zielsetzung des Schwerpunkts „Multi-Perspective Product Developmen
 
 ## Zielsetzungen:
 
-In der Studienrichtung „Social Computing“ werden die Wechselwirkungen zwischen Gesellschaft und Informatik in den Mittelpunkt gestellt. Rechnersysteme und Netzwerke werden von Menschen intentional gestaltet, ausgerichtet an gesellschaftlichen Normen, Prozessen und Bedürfnissen. Gleichzeitig beeinflussen IT-Systeme diese gesellschaftlichen Normen und verändern Prozesse in allen Lebensbereichen. Die verantwortungsbewusste Konzeption und Realisierung von soziotechnischen Systemen (z.B. Social Software, Online Communities, e-Health, e-Government und e-Learning Angebote) sowie die empirische Evaluation existierender Systeme sind zentrale Ziele. Lösungen sollen unter ganzheitlichen Gesichtspunkten entwickelt werden. Verschiedene Wertvorstellungen und Interessen unterschiedlicher Stakeholder müssen identifiziert und berücksichtig werden. 
+Im Schwerpunkt „Social Computing“ werden die Wechselwirkungen zwischen Gesellschaft und Informatik in den Mittelpunkt gestellt. Rechnersysteme und Netzwerke werden von Menschen intentional gestaltet, ausgerichtet an gesellschaftlichen Normen, Prozessen und Bedürfnissen. Gleichzeitig beeinflussen IT-Systeme diese gesellschaftlichen Normen und verändern Prozesse in allen Lebensbereichen. Die verantwortungsbewusste Konzeption und Realisierung von soziotechnischen Systemen (z.B. Social Software, Online Communities, e-Health, e-Government und e-Learning Angebote) sowie die empirische Evaluation existierender Systeme sind zentrale Ziele. Lösungen sollen unter ganzheitlichen Gesichtspunkten entwickelt werden. Verschiedene Wertvorstellungen und Interessen unterschiedlicher Stakeholder müssen identifiziert und berücksichtig werden. 
 
 Der Schwerpunkt verbindet daher Theorien, Modelle und Methodik der Human- und Sozialwissenschaften mit anwendungsorientierter Informatik. Studierende sollen in der Lage sein, computergestützte Systeme nach ethischen, politischen, sozialen und psychologischen Kriterien bewerten, planen und umsetzen zu können. 
 
@@ -251,7 +251,7 @@ Bitte das Dokument entsprechend der unten aufgeführten Struktur aufbauen.
 
 ## Zielsetzung:
 
-In der Studienrichtung „Weaving the Web” wird die Entwicklung von Produkten und Diensten im Web in den Mittelpunkt gestellt. Dabei wird der gesamte Lebenszyklus von der Erarbeitung einer Vision, der eigentlichen Software Entwicklung bis hin zu der Verwertung als Produkt und/oder Publikation adressiert. 
+Im Studienschwerpunkt „Weaving the Web” wird die Entwicklung von Produkten und Diensten im Web in den Mittelpunkt gestellt. Dabei wird der gesamte Lebenszyklus von der Erarbeitung einer Vision, der eigentlichen Software Entwicklung bis hin zu der Verwertung als Produkt und/oder Publikation adressiert. 
 
 Als charakterisierende Merkmale für die Entwicklung von Produkten und Diensten im Web stehen:
 
@@ -317,16 +317,16 @@ Bitte noch ergänzen.
 # Computerethik
 
 
-| &nbsp; | &nbsp; |
-|:-------|:-------|
-| Modulverantwortlich | Prof. Dr. Christian Kohls |
-| Kürzel | CE |
-| Studiensemester - Wintersemester | 2 |
-| Studiensemester - Sommersemester | 1 |
-| Sprache | deutsch |
-| Kreditpunkte | 6 |
-| Voraussetzungen nach Prüfungsordnung |  |
-| Typ | Pflichtmodul |
+
+- Modulverantwortlich: Prof. Dr. Christian Kohls
+- Kürzel: CE
+- Studiensemester - Wintersemester: 2
+- Studiensemester - Sommersemester: 1
+- Sprache: deutsch
+- Kreditpunkte: 6
+- Voraussetzungen nach Prüfungsordnung: 
+- Typ: Pflichtmodul
+
 
 
 ## Lehrform/SWS:
@@ -414,16 +414,16 @@ Abschlusspräsentation und schriftliche Ausarbeitung
 # Masterarbeit
 
 
-| &nbsp; | &nbsp; |
-|:-------|:-------|
-| Modulverantwortlich | alle Informatik Professoren |
-| Kürzel | MA |
-| Studiensemester - Wintersemester | 4 |
-| Studiensemester - Sommersemester | 4 |
-| Sprache | deutsch |
-| Kreditpunkte | 30 |
-| Voraussetzungen nach Prüfungsordnung | keine |
-| Typ | Pflichtmodul |
+
+- Modulverantwortlich: alle Informatik Professoren
+- Kürzel: MA
+- Studiensemester - Wintersemester: 4
+- Studiensemester - Sommersemester: 4
+- Sprache: deutsch
+- Kreditpunkte: 30
+- Voraussetzungen nach Prüfungsordnung: keine
+- Typ: Pflichtmodul
+
 
 
 ## Kurzbeschreibung
@@ -478,16 +478,16 @@ Je nach Thema
 # Spezielle Gebiete der Mathematik
 
 
-| &nbsp; | &nbsp; |
-|:-------|:-------|
-| Modulverantwortlich | Prof. Dr. Wolfgang Konen, Prof. Dr. Boris Naujoks |
-| Kürzel | SGM-D |
-| Studiensemester - Wintersemester | 1 |
-| Studiensemester - Sommersemester | 2 |
-| Sprache | deutsch |
-| Kreditpunkte | 6 |
-| Voraussetzungen nach Prüfungsordnung | Keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden |
-| Typ | Pflichtmodul |
+
+- Modulverantwortlich: Prof. Dr. Wolfgang Konen, Prof. Dr. Boris Naujoks
+- Kürzel: SGM-D
+- Studiensemester - Wintersemester: 1
+- Studiensemester - Sommersemester: 2
+- Sprache: deutsch
+- Kreditpunkte: 6
+- Voraussetzungen nach Prüfungsordnung: Keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden
+- Typ: Pflichtmodul
+
 
 
 ##Kurzbeschreibung
@@ -558,16 +558,16 @@ Präsentationsmaterialien, Arbeitsblätter
 # Schwerpunktmodul 1
 
 
-| &nbsp; | &nbsp; |
-|:-------|:-------|
-| Modulverantwortlich | alle Informatik Professoren |
-| Kürzel | SPM1 |
-| Studiensemester - Wintersemester | 1 |
-| Studiensemester - Sommersemester | 2 |
-| Sprache | deutsch |
-| Kreditpunkte | 6 |
-| Voraussetzungen nach Prüfungsordnung | keine |
-| Typ | Wahlpflichtmodul |
+
+- Modulverantwortlich: alle Informatik Professoren
+- Kürzel: SPM1
+- Studiensemester - Wintersemester: 1
+- Studiensemester - Sommersemester: 2
+- Sprache: deutsch
+- Kreditpunkte: 6
+- Voraussetzungen nach Prüfungsordnung: keine
+- Typ: Wahlpflichtmodul
+
 
 
 ## Arbeitsaufwand:
@@ -579,16 +579,16 @@ Präsentationsmaterialien, Arbeitsblätter
 # Schwerpunktmodul 2
 
 
-| &nbsp; | &nbsp; |
-|:-------|:-------|
-| Modulverantwortlich | alle Informatik Professoren |
-| Kürzel | SPM2 |
-| Studiensemester - Wintersemester | 1 |
-| Studiensemester - Sommersemester | 2 |
-| Sprache | deutsch |
-| Kreditpunkte | 6 |
-| Voraussetzungen nach Prüfungsordnung | keine |
-| Typ | Wahlpflichtmodul |
+
+- Modulverantwortlich: alle Informatik Professoren
+- Kürzel: SPM2
+- Studiensemester - Wintersemester: 1
+- Studiensemester - Sommersemester: 2
+- Sprache: deutsch
+- Kreditpunkte: 6
+- Voraussetzungen nach Prüfungsordnung: keine
+- Typ: Wahlpflichtmodul
+
 
 
 ## Arbeitsaufwand:
@@ -600,16 +600,16 @@ Präsentationsmaterialien, Arbeitsblätter
 # Schwerpunktmodul 3
 
 
-| &nbsp; | &nbsp; |
-|:-------|:-------|
-| Modulverantwortlich | alle Informatik Professoren |
-| Kürzel | SPM3 |
-| Studiensemester - Wintersemester | 2 |
-| Studiensemester - Sommersemester | 1 |
-| Sprache | deutsch |
-| Kreditpunkte | 6 |
-| Voraussetzungen nach Prüfungsordnung | keine |
-| Typ | Wahlpflichtmodul |
+
+- Modulverantwortlich: alle Informatik Professoren
+- Kürzel: SPM3
+- Studiensemester - Wintersemester: 2
+- Studiensemester - Sommersemester: 1
+- Sprache: deutsch
+- Kreditpunkte: 6
+- Voraussetzungen nach Prüfungsordnung: keine
+- Typ: Wahlpflichtmodul
+
 
 
 ## Arbeitsaufwand:
@@ -621,16 +621,16 @@ Präsentationsmaterialien, Arbeitsblätter
 # Wahlpflichtmodul 1
 
 
-| &nbsp; | &nbsp; |
-|:-------|:-------|
-| Modulverantwortlich | alle Informatik Professoren |
-| Kürzel | WPM |
-| Studiensemester - Wintersemester | 3 |
-| Studiensemester - Sommersemester | 3 |
-| Sprache | deutsch |
-| Kreditpunkte | 6 |
-| Voraussetzungen nach Prüfungsordnung | keine |
-| Typ | Pflichtmodul |
+
+- Modulverantwortlich: alle Informatik Professoren
+- Kürzel: WPM
+- Studiensemester - Wintersemester: 3
+- Studiensemester - Sommersemester: 3
+- Sprache: deutsch
+- Kreditpunkte: 6
+- Voraussetzungen nach Prüfungsordnung: keine
+- Typ: Pflichtmodul
+
 
 
 ## Arbeitsaufwand:
@@ -642,16 +642,16 @@ Präsentationsmaterialien, Arbeitsblätter
 # Wahlpflichtmodul 2
 
 
-| &nbsp; | &nbsp; |
-|:-------|:-------|
-| Modulverantwortlich | alle Informatik Professoren |
-| Kürzel | WPM |
-| Studiensemester - Wintersemester | 3 |
-| Studiensemester - Sommersemester | 3 |
-| Sprache | deutsch |
-| Kreditpunkte | 6 |
-| Voraussetzungen nach Prüfungsordnung | keine |
-| Typ | Pflichtmodul |
+
+- Modulverantwortlich: alle Informatik Professoren
+- Kürzel: WPM
+- Studiensemester - Wintersemester: 3
+- Studiensemester - Sommersemester: 3
+- Sprache: deutsch
+- Kreditpunkte: 6
+- Voraussetzungen nach Prüfungsordnung: keine
+- Typ: Pflichtmodul
+
 
 
 ## Arbeitsaufwand:
@@ -663,16 +663,16 @@ Präsentationsmaterialien, Arbeitsblätter
 # Wahlpflichtmodul 3
 
 
-| &nbsp; | &nbsp; |
-|:-------|:-------|
-| Modulverantwortlich | alle Informatik Professoren |
-| Kürzel | WPM |
-| Studiensemester - Wintersemester | 3 |
-| Studiensemester - Sommersemester | 3 |
-| Sprache | deutsch |
-| Kreditpunkte | 6 |
-| Voraussetzungen nach Prüfungsordnung | keine |
-| Typ | Pflichtmodul |
+
+- Modulverantwortlich: alle Informatik Professoren
+- Kürzel: WPM
+- Studiensemester - Wintersemester: 3
+- Studiensemester - Sommersemester: 3
+- Sprache: deutsch
+- Kreditpunkte: 6
+- Voraussetzungen nach Prüfungsordnung: keine
+- Typ: Pflichtmodul
+
 
 
 ## Arbeitsaufwand:
@@ -684,16 +684,16 @@ Präsentationsmaterialien, Arbeitsblätter
 # Research Methods
 
 
-| &nbsp; | &nbsp; |
-|:-------|:-------|
-| Modulverantwortlich | Prof. Dr. Gerhard Hartmann |
-| Kürzel | RM |
-| Studiensemester - Wintersemester | 2 |
-| Studiensemester - Sommersemester | 1 |
-| Sprache | deutsch |
-| Kreditpunkte | 6 |
-| Voraussetzungen nach Prüfungsordnung |  |
-| Typ | Pflichtmodul |
+
+- Modulverantwortlich: Prof. Dr. Gerhard Hartmann
+- Kürzel: RM
+- Studiensemester - Wintersemester: 2
+- Studiensemester - Sommersemester: 1
+- Sprache: deutsch
+- Kreditpunkte: 6
+- Voraussetzungen nach Prüfungsordnung: 
+- Typ: Pflichtmodul
+
 
 
 ## Lehrform/SWS:
@@ -759,16 +759,16 @@ schriftliche Modulprüfung
 # Design Methodologies
 
 
-| &nbsp; | &nbsp; |
-|:-------|:-------|
-| Modulverantwortlich | Prof. Dr. Gerhard Hartmann, Prof. Dr. Christian Kohls |
-| Kürzel | DM |
-| Studiensemester - Wintersemester | 1 |
-| Studiensemester - Sommersemester | 2 |
-| Sprache | deutsch |
-| Kreditpunkte | 6 |
-| Voraussetzungen nach Prüfungsordnung |  |
-| Typ | Schwerpunktmodul |
+
+- Modulverantwortlich: Prof. Dr. Gerhard Hartmann, Prof. Dr. Christian Kohls
+- Kürzel: DM
+- Studiensemester - Wintersemester: 1
+- Studiensemester - Sommersemester: 2
+- Sprache: deutsch
+- Kreditpunkte: 6
+- Voraussetzungen nach Prüfungsordnung: 
+- Typ: Schwerpunktmodul
+
 
 
 ## Lehrform/SWS:
@@ -848,16 +848,16 @@ Mündliche Prüfung
 # Interaction Design
 
 
-| &nbsp; | &nbsp; |
-|:-------|:-------|
-| Modulverantwortlich | Prof. Dr. Gerhard Hartmann |
-| Kürzel | ID |
-| Studiensemester - Wintersemester | 1 |
-| Studiensemester - Sommersemester | 2 |
-| Sprache | deutsch |
-| Kreditpunkte | 6 |
-| Voraussetzungen nach Prüfungsordnung |  |
-| Typ | Schwerpunktmodul |
+
+- Modulverantwortlich: Prof. Dr. Gerhard Hartmann
+- Kürzel: ID
+- Studiensemester - Wintersemester: 1
+- Studiensemester - Sommersemester: 2
+- Sprache: deutsch
+- Kreditpunkte: 6
+- Voraussetzungen nach Prüfungsordnung: 
+- Typ: Schwerpunktmodul
+
 
 
 ## Lehrform/SWS:
@@ -943,16 +943,16 @@ schriftliche Ausarbeitung und Designartefakte
 # Angewandte Statistik für die Mensch-Computer Interaktion
 
 
-| &nbsp; | &nbsp; |
-|:-------|:-------|
-| Modulverantwortlich | Prof. Dr. Gerhard Hartmann |
-| Kürzel | Stat |
-| Studiensemester - Wintersemester | 2 |
-| Studiensemester - Sommersemester | 1 |
-| Sprache | deutsch |
-| Kreditpunkte | 6 |
-| Voraussetzungen nach Prüfungsordnung |  |
-| Typ | Schwerpunktmodul |
+
+- Modulverantwortlich: Prof. Dr. Gerhard Hartmann
+- Kürzel: Stat
+- Studiensemester - Wintersemester: 2
+- Studiensemester - Sommersemester: 1
+- Sprache: deutsch
+- Kreditpunkte: 6
+- Voraussetzungen nach Prüfungsordnung: 
+- Typ: Schwerpunktmodul
+
 
 
 ## Lehrform/SWS:
@@ -1018,16 +1018,16 @@ Konfidenzintervalle, Fehlertypen, Effektstärken und Power, multivariate Verfahr
 # Sketching and Designing for User Experience
 
 
-| &nbsp; | &nbsp; |
-|:-------|:-------|
-| Modulverantwortlich | Prof. Dr. Gerhard Hartmann |
-| Kürzel | SUE |
-| Studiensemester - Wintersemester | 1 |
-| Studiensemester - Sommersemester | 2 |
-| Sprache | deutsch |
-| Kreditpunkte | 6 |
-| Voraussetzungen nach Prüfungsordnung |  |
-| Typ | Wahlpflichtmodul |
+
+- Modulverantwortlich: Prof. Dr. Gerhard Hartmann
+- Kürzel: SUE
+- Studiensemester - Wintersemester: 1
+- Studiensemester - Sommersemester: 2
+- Sprache: deutsch
+- Kreditpunkte: 6
+- Voraussetzungen nach Prüfungsordnung: 
+- Typ: Wahlpflichtmodul
+
 
 
 ## Lehrform/SWS:
@@ -1091,16 +1091,16 @@ Bitte noch ergänzen
 # Projektarbeit - Entwicklung im Kontext des Studienschwerpunkts
 
 
-| &nbsp; | &nbsp; |
-|:-------|:-------|
-| Modulverantwortlich | Prof. Dr. Kristian Fischer, Prof. Dr. Mario Winter, Prof. Hans Kornacher, Prof. Dr. Martin Eisemann, Prof. Dr. Christian Kohls, Prof. Dr. Gerhard Hartmann |
-| Kürzel | WTWP-E |
-| Studiensemester - Wintersemester | 2 |
-| Studiensemester - Sommersemester | 3 |
-| Sprache | deutsch |
-| Kreditpunkte | 12 |
-| Voraussetzungen nach Prüfungsordnung | keine |
-| Typ | Schwerpunktprojekt |
+
+- Modulverantwortlich: Prof. Dr. Kristian Fischer, Prof. Dr. Mario Winter, Prof. Hans Kornacher, Prof. Dr. Martin Eisemann, Prof. Dr. Christian Kohls, Prof. Dr. Gerhard Hartmann
+- Kürzel: WTWP-E
+- Studiensemester - Wintersemester: 2
+- Studiensemester - Sommersemester: 3
+- Sprache: deutsch
+- Kreditpunkte: 12
+- Voraussetzungen nach Prüfungsordnung: keine
+- Typ: Schwerpunktprojekt
+
 
 
 ## Kurzbeschreibung
@@ -1152,16 +1152,16 @@ n/a
 # Projektarbeit - Assessment/Evaluation, Forschung und Verwertung im Kontext des Studienschwerpunkts
 
 
-| &nbsp; | &nbsp; |
-|:-------|:-------|
-| Modulverantwortlich | Prof. Dr. Kristian Fischer, Prof. Dr. Mario Winter, Prof. Dr. Martin Eisemann, Prof. Dr. Christian Kohls, Prof. Dr. Gerhard Hartmann |
-| Kürzel | WTWP-V |
-| Studiensemester - Wintersemester | 3 |
-| Studiensemester - Sommersemester | 1 |
-| Sprache | deutsch |
-| Kreditpunkte | 12 |
-| Voraussetzungen nach Prüfungsordnung | keine |
-| Typ | Schwerpunktprojekt |
+
+- Modulverantwortlich: Prof. Dr. Kristian Fischer, Prof. Dr. Mario Winter, Prof. Dr. Martin Eisemann, Prof. Dr. Christian Kohls, Prof. Dr. Gerhard Hartmann
+- Kürzel: WTWP-V
+- Studiensemester - Wintersemester: 3
+- Studiensemester - Sommersemester: 1
+- Sprache: deutsch
+- Kreditpunkte: 12
+- Voraussetzungen nach Prüfungsordnung: keine
+- Typ: Schwerpunktprojekt
+
 
 
 ## Kurzbeschreibung
@@ -1211,16 +1211,16 @@ n/a
 # Projektarbeit - Vision und Konzept im Kontext des Studienschwerpunkts
 
 
-| &nbsp; | &nbsp; |
-|:-------|:-------|
-| Modulverantwortlich | Prof. Dr. Kristian Fischer, Prof. Dr. Mario Winter, Prof. Dr. Martin Eisemann, Prof. Dr. Christian Kohls, Prof. Dr. Gerhard Hartmann |
-| Kürzel | WTWP-VK |
-| Studiensemester - Wintersemester | 1 |
-| Studiensemester - Sommersemester | 2 |
-| Sprache | deutsch |
-| Kreditpunkte | 12 |
-| Voraussetzungen nach Prüfungsordnung | keine |
-| Typ | Schwerpunktprojekt |
+
+- Modulverantwortlich: Prof. Dr. Kristian Fischer, Prof. Dr. Mario Winter, Prof. Dr. Martin Eisemann, Prof. Dr. Christian Kohls, Prof. Dr. Gerhard Hartmann
+- Kürzel: WTWP-VK
+- Studiensemester - Wintersemester: 1
+- Studiensemester - Sommersemester: 2
+- Sprache: deutsch
+- Kreditpunkte: 12
+- Voraussetzungen nach Prüfungsordnung: keine
+- Typ: Schwerpunktprojekt
+
 
 
 ## Kurzbeschreibung
@@ -1276,16 +1276,16 @@ n/a
 # Netzwerk-und Graphentheorie
 
 
-| &nbsp; | &nbsp; |
-|:-------|:-------|
-| Modulverantwortlich | Prof. Dr. Kristian Fischer |
-| Kürzel | NGT |
-| Studiensemester - Wintersemester | 2 |
-| Studiensemester - Sommersemester | 1 |
-| Sprache | deutsch |
-| Kreditpunkte | 6 |
-| Voraussetzungen nach Prüfungsordnung | keine |
-| Typ | Schwerpunktmodul |
+
+- Modulverantwortlich: Prof. Dr. Kristian Fischer
+- Kürzel: NGT
+- Studiensemester - Wintersemester: 2
+- Studiensemester - Sommersemester: 1
+- Sprache: deutsch
+- Kreditpunkte: 6
+- Voraussetzungen nach Prüfungsordnung: keine
+- Typ: Schwerpunktmodul
+
 
 
 ##Kurzbeschreibung
@@ -1376,16 +1376,16 @@ Mündliche Prüfung
 # Soziotechnische Entwurfsmuster
 
 
-| &nbsp; | &nbsp; |
-|:-------|:-------|
-| Modulverantwortlich | Prof. Dr. Christian Kohls |
-| Kürzel | SZ |
-| Studiensemester - Wintersemester | 1 |
-| Studiensemester - Sommersemester | 2 |
-| Sprache | deutsch |
-| Kreditpunkte | 6 |
-| Voraussetzungen nach Prüfungsordnung |  |
-| Typ | Schwerpunktmodul |
+
+- Modulverantwortlich: Prof. Dr. Christian Kohls
+- Kürzel: SZ
+- Studiensemester - Wintersemester: 1
+- Studiensemester - Sommersemester: 2
+- Sprache: deutsch
+- Kreditpunkte: 6
+- Voraussetzungen nach Prüfungsordnung: 
+- Typ: Schwerpunktmodul
+
 
 
 ## Lehrform/SWS:
@@ -1481,16 +1481,16 @@ Schriftliche Ausarbeitung zu neuen Entwurfsmustern
 # WPF Computer Supported Collaborative Learning (CSCL)
 
 
-| &nbsp; | &nbsp; |
-|:-------|:-------|
-| Modulverantwortlich | Prof. Dr. Christian Kohls |
-| Kürzel | CSCL |
-| Studiensemester - Wintersemester | 1 |
-| Studiensemester - Sommersemester | 2 |
-| Sprache | deutsch |
-| Kreditpunkte | 6 |
-| Voraussetzungen nach Prüfungsordnung |  |
-| Typ | Wahlpflichtmodul |
+
+- Modulverantwortlich: Prof. Dr. Christian Kohls
+- Kürzel: CSCL
+- Studiensemester - Wintersemester: 1
+- Studiensemester - Sommersemester: 2
+- Sprache: deutsch
+- Kreditpunkte: 6
+- Voraussetzungen nach Prüfungsordnung: 
+- Typ: Wahlpflichtmodul
+
 
 
 ## Lehrform/SWS:
@@ -1590,16 +1590,16 @@ Planung und Durchführung einer Onlineveranstaltung (ca. 15 Minuten)
 # WPF e-Science
 
 
-| &nbsp; | &nbsp; |
-|:-------|:-------|
-| Modulverantwortlich | Prof. Dr. Christian Kohls |
-| Kürzel | CE |
-| Studiensemester - Wintersemester | 1 |
-| Studiensemester - Sommersemester | 2 |
-| Sprache | deutsch |
-| Kreditpunkte | 6 |
-| Voraussetzungen nach Prüfungsordnung |  |
-| Typ | Wahlpflichtmodul |
+
+- Modulverantwortlich: Prof. Dr. Christian Kohls
+- Kürzel: CE
+- Studiensemester - Wintersemester: 1
+- Studiensemester - Sommersemester: 2
+- Sprache: deutsch
+- Kreditpunkte: 6
+- Voraussetzungen nach Prüfungsordnung: 
+- Typ: Wahlpflichtmodul
+
 
 
 ## Lehrform/SWS:
@@ -1671,16 +1671,16 @@ Mündiche Prüfung
 # Bildbasierte Computergrafik
 
 
-| &nbsp; | &nbsp; |
-|:-------|:-------|
-| Modulverantwortlich | Prof. Dr. Martin Eisemann |
-| Kürzel | BCG |
-| Studiensemester - Wintersemester | 1 |
-| Studiensemester - Sommersemester | 2 |
-| Sprache | wahlweise deutsch oder englisch |
-| Kreditpunkte | 5 |
-| Voraussetzungen nach Prüfungsordnung | &nbsp; |
-| Typ | Schwerpunktmodul |
+
+- Modulverantwortlich: Prof. Dr. Martin Eisemann
+- Kürzel: BCG
+- Studiensemester - Wintersemester: 1
+- Studiensemester - Sommersemester: 2
+- Sprache: wahlweise deutsch oder englisch
+- Kreditpunkte: 5
+- Voraussetzungen nach Prüfungsordnung: &nbsp;
+- Typ: Schwerpunktmodul
+
 
 
 ## Kurzbeschreibung
@@ -1787,16 +1787,16 @@ Die erfolgreiche Teilnahme an den Praktikas ist Voraussetzung für die Klausur (
 # Photorealistische Computergrafik
 
 
-| &nbsp; | &nbsp; |
-|:-------|:-------|
-| Modulverantwortlich | Prof. Dr. Martin Eisemann |
-| Kürzel | PCG |
-| Studiensemester - Wintersemester | 3 |
-| Studiensemester - Sommersemester | 2 |
-| Sprache | wahlweise deutsch oder englisch |
-| Kreditpunkte | 5 |
-| Voraussetzungen nach Prüfungsordnung | &nbsp; |
-| Typ | Wahlpflichtmodul |
+
+- Modulverantwortlich: Prof. Dr. Martin Eisemann
+- Kürzel: PCG
+- Studiensemester - Wintersemester: 3
+- Studiensemester - Sommersemester: 2
+- Sprache: wahlweise deutsch oder englisch
+- Kreditpunkte: 5
+- Voraussetzungen nach Prüfungsordnung: &nbsp;
+- Typ: Wahlpflichtmodul
+
 
 
 ## Kurzbeschreibung
@@ -1889,16 +1889,16 @@ Die erfolgreiche Teilnahme an den Praktikas ist Voraussetzung für die Klausur (
 # Storytelling und Narrative Strukturen
 
 
-| &nbsp; | &nbsp; |
-|:-------|:-------|
-| Modulverantwortlich | Prof. Hans Kornacher |
-| Kürzel | SNS |
-| Studiensemester - Wintersemester | 1 |
-| Studiensemester - Sommersemester | 2 |
-| Sprache | &nbsp; |
-| Kreditpunkte | 6 |
-| Voraussetzungen nach Prüfungsordnung | Keine über die Zulassungsbedingungen hinausgehenden Voraussetzungen |
-| Typ | Schwerpunktmodul |
+
+- Modulverantwortlich: Prof. Hans Kornacher
+- Kürzel: SNS
+- Studiensemester - Wintersemester: 1
+- Studiensemester - Sommersemester: 2
+- Sprache: &nbsp;
+- Kreditpunkte: 6
+- Voraussetzungen nach Prüfungsordnung: Keine über die Zulassungsbedingungen hinausgehenden Voraussetzungen
+- Typ: Schwerpunktmodul
+
 
 
 ## Kurzbeschreibung
@@ -1971,16 +1971,16 @@ Projektarbeit und schriftliche Ausarbeitung
 # Visualisierung
 
 
-| &nbsp; | &nbsp; |
-|:-------|:-------|
-| Modulverantwortlich | Prof. Dr. Martin Eisemann |
-| Kürzel | VI |
-| Studiensemester - Wintersemester | 2 |
-| Studiensemester - Sommersemester | 3 |
-| Sprache | wahlweise deutsch oder englisch |
-| Kreditpunkte | 5 |
-| Voraussetzungen nach Prüfungsordnung | &nbsp; |
-| Typ | Schwerpunktmodul |
+
+- Modulverantwortlich: Prof. Dr. Martin Eisemann
+- Kürzel: VI
+- Studiensemester - Wintersemester: 2
+- Studiensemester - Sommersemester: 3
+- Sprache: wahlweise deutsch oder englisch
+- Kreditpunkte: 5
+- Voraussetzungen nach Prüfungsordnung: &nbsp;
+- Typ: Schwerpunktmodul
+
 
 
 ## Kurzbeschreibung
@@ -2109,16 +2109,16 @@ Im speziellen, aber nicht ausschließlich, werden folgende Themen behandelt:
 # Sicherheit, Privatsphäre und Vertrauen im Netz
 
 
-| &nbsp; | &nbsp; |
-|:-------|:-------|
-| Modulverantwortlich | Prof. Dr. Stefan Karsch |
-| Kürzel | WTW-ITS |
-| Studiensemester - Wintersemester | 1 |
-| Studiensemester - Sommersemester | 2 |
-| Sprache | deutsch |
-| Kreditpunkte | 6 |
-| Voraussetzungen nach Prüfungsordnung | keine |
-| Typ | Schwerpunktmodul |
+
+- Modulverantwortlich: Prof. Dr. Stefan Karsch
+- Kürzel: WTW-ITS
+- Studiensemester - Wintersemester: 1
+- Studiensemester - Sommersemester: 2
+- Sprache: deutsch
+- Kreditpunkte: 6
+- Voraussetzungen nach Prüfungsordnung: keine
+- Typ: Schwerpunktmodul
+
 
 
 ## Lehrform/SWS:
@@ -2261,16 +2261,16 @@ Teil I und Teil II: Klausur sowie selbstständige Erarbeitung, Vortrag und Ausar
 # Logik und semantische Modellierung
 
 
-| &nbsp; | &nbsp; |
-|:-------|:-------|
-| Modulverantwortlich | Prof. Dr. Kristian Fischer |
-| Kürzel | WTW-LSM |
-| Studiensemester - Wintersemester | 2 |
-| Studiensemester - Sommersemester | 3 |
-| Sprache | deutsch |
-| Kreditpunkte | 6 |
-| Voraussetzungen nach Prüfungsordnung | keine |
-| Typ | Wahlpflichtmodul |
+
+- Modulverantwortlich: Prof. Dr. Kristian Fischer
+- Kürzel: WTW-LSM
+- Studiensemester - Wintersemester: 2
+- Studiensemester - Sommersemester: 3
+- Sprache: deutsch
+- Kreditpunkte: 6
+- Voraussetzungen nach Prüfungsordnung: keine
+- Typ: Wahlpflichtmodul
+
 
 
 ## Kurzbeschreibung
@@ -2361,16 +2361,16 @@ Mündliche Prüfung
 # Qualitätssicherung für Web-Anwendungen
 
 
-| &nbsp; | &nbsp; |
-|:-------|:-------|
-| Modulverantwortlich | Prof. Dr. Mario Winter |
-| Kürzel | WTW-QUS |
-| Studiensemester - Wintersemester | 2 |
-| Studiensemester - Sommersemester | 1 |
-| Sprache | deutsch, Seminar-Basisliteratur i.d.R. in englischer Sprache |
-| Kreditpunkte | 6 |
-| Voraussetzungen nach Prüfungsordnung | keine |
-| Typ | Schwerpunktmodul |
+
+- Modulverantwortlich: Prof. Dr. Mario Winter
+- Kürzel: WTW-QUS
+- Studiensemester - Wintersemester: 2
+- Studiensemester - Sommersemester: 1
+- Sprache: deutsch, Seminar-Basisliteratur i.d.R. in englischer Sprache
+- Kreditpunkte: 6
+- Voraussetzungen nach Prüfungsordnung: keine
+- Typ: Schwerpunktmodul
+
 
 
 ## Kurzbeschreibung
@@ -2453,16 +2453,16 @@ Klausur 60 Minuten
 # Web Architekturen
 
 
-| &nbsp; | &nbsp; |
-|:-------|:-------|
-| Modulverantwortlich | Prof. Dr. Kristian Fischer |
-| Kürzel | WTW-WBA |
-| Studiensemester - Wintersemester | 1 |
-| Studiensemester - Sommersemester | 2 |
-| Sprache | deutsch |
-| Kreditpunkte | 6 |
-| Voraussetzungen nach Prüfungsordnung | keine |
-| Typ | Schwerpunktmodul |
+
+- Modulverantwortlich: Prof. Dr. Kristian Fischer
+- Kürzel: WTW-WBA
+- Studiensemester - Wintersemester: 1
+- Studiensemester - Sommersemester: 2
+- Sprache: deutsch
+- Kreditpunkte: 6
+- Voraussetzungen nach Prüfungsordnung: keine
+- Typ: Schwerpunktmodul
+
 
 
 ## Kurzbeschreibung
@@ -2545,16 +2545,16 @@ Präsentationsmaterialien
 # Web Technologien
 
 
-| &nbsp; | &nbsp; |
-|:-------|:-------|
-| Modulverantwortlich | Prof. Christian Noss |
-| Kürzel | WTW-WD |
-| Studiensemester - Wintersemester | 2 |
-| Studiensemester - Sommersemester | 3 |
-| Sprache | deutsch |
-| Kreditpunkte | 6 |
-| Voraussetzungen nach Prüfungsordnung | keine |
-| Typ | Schwerpunktmodul |
+
+- Modulverantwortlich: Prof. Christian Noss
+- Kürzel: WTW-WD
+- Studiensemester - Wintersemester: 2
+- Studiensemester - Sommersemester: 3
+- Sprache: deutsch
+- Kreditpunkte: 6
+- Voraussetzungen nach Prüfungsordnung: keine
+- Typ: Schwerpunktmodul
+
 
 
 ## Kurzbeschreibung:

@@ -37,7 +37,7 @@ Die vielfältigen Forschungsaktivitäten spiegeln sich im Forschungsprofil der T
 
 ## Einbettung der Studiengänge in die Fakultät
 
-Die Fakultät für Informatik und Ingenieurwissenschaften ist am Standort Gummersbach angesiedelt (Campus Gummersbach) und ist mit derzeit 5200 Studierenden[^studierende-gm-2016] die größte Fakultät der TH Köln. An der Fakultät sind 8 Institute angesiedelt; zum Studienangebot der Fakultät gehören 8 Bachelor- und 6 Masterstudiengänge. Die Medieninformatik Studiengänge werden von der Fakultät für Informatik und Ingenieurwissenschaften ausgerichtet und sind im Institut für Informatik organisatorisch verankert. 
+Die Fakultät für Informatik und Ingenieurwissenschaften ist am Standort Gummersbach angesiedelt (Campus Gummersbach) und ist mit derzeit 5200 Studierenden[^studierende-gm-2016] die größte Fakultät der TH Köln. An der Fakultät sind 8 Institute angesiedelt; zum Studienangebot der Fakultät gehören 8 Bachelor- und 6 Masterstudiengänge. Die Medieninformatik Studiengänge werden von der Fakultät für Informatik und Ingenieurwissenschaften ausgerichtet und sind im Institut für Informatik organisatorisch verankert.
 
 Das Institut für Informatik betreibt Labore für:
 - Allgemeine Datenverarbeitung (ADV)
@@ -50,7 +50,7 @@ Das Institut für Informatik betreibt Labore für:
 
 
 
-[^Anhang-Diversity-Konzepte]: <a href="https://www.th-koeln.de/hochschule/educational-diversity_5710.php">Educational Diversity Kobnzept</a> (abgerufen am 20.02.2017)
+[^Anhang-Diversity-Konzepte]: <a href="https://www.th-koeln.de/hochschule/educational-diversity_5710.php">Educational Diversity Konzept</a> (abgerufen am 20.02.2017)
 [^anhang-profil2]: <a href="https://www.th-koeln.de/hochschule/profil_5676.php">Profil2 Seite</a> (abgerufen am 20.02.2017)
 [^anhang-forschungscluster-th]: <a href="https://www.th-koeln.de/forschung/cluster_2734.php">Forschungscluster</a> (abgerufen am 20.02.2017)
 [^studierende-gm-2016]: <a href="../anhaenge/Studentenzahlen_WS-2016_(01.12.2016).pdf">Studentenzahlen_WS-2016_(01.12.2016).pdf</a>

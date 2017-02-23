@@ -356,15 +356,15 @@ class Document {
 
             if( cmdExists( 'rsvg-convert' ) ) {
               $relativePathToFileFromScriptPDF =
-                preg_replace( '/.svg$/', '.pdf', $relativePathToFileFromScript );
+                preg_replace( '/.svg$/', '.png', $relativePathToFileFromScript );
 
               if( !file_exists( $relativePathToFileFromScriptPDF ) ) {
-                shell_exec( 'rsvg-convert -f pdf -o ' .
+                shell_exec( 'rsvg-convert -f png -o ' .
                             $relativePathToFileFromScriptPDF . ' ' .
                             $relativePathToFileFromScript );
               }
 
-              $newExt = '.pdf';
+              $newExt = '.png';
             }
             else {
               fprintf( STDERR, "Warning: SVG file found: " . $attrsAssocArr[ 'url' ] . "\n" );
@@ -489,12 +489,13 @@ class Document {
             $tableData[ 'type' ][ 'value' ] = $typeMap[ $tableData[ 'type' ][ 'value' ] ];
           }
 
-          $tableMarkdown  = "| &nbsp; | &nbsp; |\n";
-          $tableMarkdown .= "|:-------|:-------|\n";
+          $tableMarkdown = "\n";
 
           foreach( $tableData as $key => $field ) {
-            $tableMarkdown .= "| " . $field[ 'title' ] . " | " . $field[ 'value' ] . " |\n";
+            $tableMarkdown .= "- " . $field[ 'title' ] . ": " . $field[ 'value' ] . "\n";
           }
+
+          $tableMarkdown .= "\n";
 
           $page->content = preg_replace( '/^\s*#(.*?)\n/', "$0\n\n" . $tableMarkdown, $page->content );
 
@@ -504,7 +505,7 @@ class Document {
     }
 
     if( $svgsFound ) {
-      fprintf( STDERR, "Please install librsvg for on-the-fly svg2pdf conversion." );
+      fprintf( STDERR, "Please install librsvg for on-the-fly svg2png conversion." );
     }
   }
 
