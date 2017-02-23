@@ -416,7 +416,7 @@ class Document {
             'studiensemester-ws'                    => 'Studiensemester - Wintersemester',
             'studiensemester-ss'                    => 'Studiensemester - Sommersemester',
             'sprache'                               => 'Sprache',
-            'zuordnung-zum-curriculum'              => 'Zuordnung zum Curriculum',
+            // 'zuordnung-zum-curriculum'              => 'Zuordnung zum Curriculum',
             'kreditpunkte'                          => 'Kreditpunkte',
             'voraussetzungen-nach-pruefungsordnung' => 'Voraussetzungen nach Prüfungsordnung',
             'type'                                  => 'Typ'

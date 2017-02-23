@@ -324,7 +324,6 @@ Bitte noch ergänzen.
 | Studiensemester - Wintersemester | 2 |
 | Studiensemester - Sommersemester | 1 |
 | Sprache | deutsch |
-| Zuordnung zum Curriculum | Medieninformatik Master |
 | Kreditpunkte | 6 |
 | Voraussetzungen nach Prüfungsordnung |  |
 | Typ | Pflichtmodul |
@@ -422,7 +421,6 @@ Abschlusspräsentation und schriftliche Ausarbeitung
 | Studiensemester - Wintersemester | 4 |
 | Studiensemester - Sommersemester | 4 |
 | Sprache | deutsch |
-| Zuordnung zum Curriculum | siehe Studienverlaufsplan |
 | Kreditpunkte | 30 |
 | Voraussetzungen nach Prüfungsordnung | keine |
 | Typ | Pflichtmodul |
@@ -487,7 +485,6 @@ Je nach Thema
 | Studiensemester - Wintersemester | 1 |
 | Studiensemester - Sommersemester | 2 |
 | Sprache | deutsch |
-| Zuordnung zum Curriculum | siehe Studienverlaufsplan |
 | Kreditpunkte | 6 |
 | Voraussetzungen nach Prüfungsordnung | Keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden |
 | Typ | Pflichtmodul |
@@ -568,56 +565,14 @@ Präsentationsmaterialien, Arbeitsblätter
 | Studiensemester - Wintersemester | 1 |
 | Studiensemester - Sommersemester | 2 |
 | Sprache | deutsch |
-| Zuordnung zum Curriculum | siehe Studienverlaufsplan |
 | Kreditpunkte | 6 |
 | Voraussetzungen nach Prüfungsordnung | keine |
 | Typ | Wahlpflichtmodul |
 
 
-## Kurzbeschreibung
-
-
-
-
-## Lehrform/SWS:
-
-
-
-
-
-
 ## Arbeitsaufwand:
 
 180 Stunden
-
-
-
-
-## Angestrebte Lernergebnisse:
-
-
-
-
-## Inhalt:
-
-
-
-
-## Studien-/Prüfungsleistungen:
-
-
-
-
-## Medienformen:
-
-
-
-
-## Literatur:
-
-
-
-
 
 
 
@@ -631,56 +586,14 @@ Präsentationsmaterialien, Arbeitsblätter
 | Studiensemester - Wintersemester | 1 |
 | Studiensemester - Sommersemester | 2 |
 | Sprache | deutsch |
-| Zuordnung zum Curriculum | siehe Studienverlaufsplan |
 | Kreditpunkte | 6 |
 | Voraussetzungen nach Prüfungsordnung | keine |
 | Typ | Wahlpflichtmodul |
 
 
-##Kurzbeschreibung
-
-
-
-
-## Lehrform/SWS:
-
-
-
-
-
-
 ## Arbeitsaufwand:
 
 180 Stunden
-
-
-
-
-## Angestrebte Lernergebnisse:
-
-
-
-
-## Inhalt:
-
-
-
-
-## Studien-/Prüfungsleistungen:
-
-
-
-
-## Medienformen:
-
-
-
-
-## Literatur:
-
-
-
-
 
 
 
@@ -694,60 +607,18 @@ Präsentationsmaterialien, Arbeitsblätter
 | Studiensemester - Wintersemester | 2 |
 | Studiensemester - Sommersemester | 1 |
 | Sprache | deutsch |
-| Zuordnung zum Curriculum | siehe Studienverlaufsplan |
 | Kreditpunkte | 6 |
 | Voraussetzungen nach Prüfungsordnung | keine |
 | Typ | Wahlpflichtmodul |
 
 
-##Kurzbeschreibung
-
-
-
-
-## Lehrform/SWS:
-
-
-
-
-
-
 ## Arbeitsaufwand:
 
 180 Stunden
 
 
 
-
-## Angestrebte Lernergebnisse:
-
-
-
-
-## Inhalt:
-
-
-
-
-## Studien-/Prüfungsleistungen:
-
-
-
-
-## Medienformen:
-
-
-
-
-## Literatur:
-
-
-
-
-
-
-
-# Wahlpflichtmodul
+# Wahlpflichtmodul 1
 
 
 | &nbsp; | &nbsp; |
@@ -757,20 +628,9 @@ Präsentationsmaterialien, Arbeitsblätter
 | Studiensemester - Wintersemester | 3 |
 | Studiensemester - Sommersemester | 3 |
 | Sprache | deutsch |
-| Zuordnung zum Curriculum | siehe Studienverlaufsplan |
 | Kreditpunkte | 6 |
 | Voraussetzungen nach Prüfungsordnung | keine |
 | Typ | Pflichtmodul |
-
-
-## Kurzbeschreibung
-
-
-
-
-## Lehrform/SWS:
-
-
 
 
 ## Arbeitsaufwand:
@@ -779,36 +639,7 @@ Präsentationsmaterialien, Arbeitsblätter
 
 
 
-
-## Angestrebte Lernergebnisse:
-
-
-
-
-## Inhalt:
-
-
-
-
-## Studien-/Prüfungsleistungen:
-
-
-
-
-## Medienformen:
-
-
-
-
-## Literatur:
-
-
-
-
-
-
-
-# Wahlpflichtmodul
+# Wahlpflichtmodul 2
 
 
 | &nbsp; | &nbsp; |
@@ -818,20 +649,9 @@ Präsentationsmaterialien, Arbeitsblätter
 | Studiensemester - Wintersemester | 3 |
 | Studiensemester - Sommersemester | 3 |
 | Sprache | deutsch |
-| Zuordnung zum Curriculum | siehe Studienverlaufsplan |
 | Kreditpunkte | 6 |
 | Voraussetzungen nach Prüfungsordnung | keine |
 | Typ | Pflichtmodul |
-
-
-## Kurzbeschreibung
-
-
-
-
-## Lehrform/SWS:
-
-
 
 
 ## Arbeitsaufwand:
@@ -840,36 +660,7 @@ Präsentationsmaterialien, Arbeitsblätter
 
 
 
-
-## Angestrebte Lernergebnisse:
-
-
-
-
-## Inhalt:
-
-
-
-
-## Studien-/Prüfungsleistungen:
-
-
-
-
-## Medienformen:
-
-
-
-
-## Literatur:
-
-
-
-
-
-
-
-# Wahlpflichtmodul
+# Wahlpflichtmodul 3
 
 
 | &nbsp; | &nbsp; |
@@ -879,54 +670,14 @@ Präsentationsmaterialien, Arbeitsblätter
 | Studiensemester - Wintersemester | 3 |
 | Studiensemester - Sommersemester | 3 |
 | Sprache | deutsch |
-| Zuordnung zum Curriculum | siehe Studienverlaufsplan |
 | Kreditpunkte | 6 |
 | Voraussetzungen nach Prüfungsordnung | keine |
 | Typ | Pflichtmodul |
 
 
-## Kurzbeschreibung
-
-
-
-
-## Lehrform/SWS:
-
-
-
-
 ## Arbeitsaufwand:
 
 180 Stunden
-
-
-
-
-## Angestrebte Lernergebnisse:
-
-
-
-
-## Inhalt:
-
-
-
-
-## Studien-/Prüfungsleistungen:
-
-
-
-
-## Medienformen:
-
-
-
-
-## Literatur:
-
-
-
-
 
 
 
@@ -940,7 +691,6 @@ Präsentationsmaterialien, Arbeitsblätter
 | Studiensemester - Wintersemester | 2 |
 | Studiensemester - Sommersemester | 1 |
 | Sprache | deutsch |
-| Zuordnung zum Curriculum | Medieninformatik Master |
 | Kreditpunkte | 6 |
 | Voraussetzungen nach Prüfungsordnung |  |
 | Typ | Pflichtmodul |
@@ -1016,7 +766,6 @@ schriftliche Modulprüfung
 | Studiensemester - Wintersemester | 1 |
 | Studiensemester - Sommersemester | 2 |
 | Sprache | deutsch |
-| Zuordnung zum Curriculum | Medieninformatik Master |
 | Kreditpunkte | 6 |
 | Voraussetzungen nach Prüfungsordnung |  |
 | Typ | Schwerpunktmodul |
@@ -1106,7 +855,6 @@ Mündliche Prüfung
 | Studiensemester - Wintersemester | 1 |
 | Studiensemester - Sommersemester | 2 |
 | Sprache | deutsch |
-| Zuordnung zum Curriculum | Medieninformatik Master, Software-Engineering Master |
 | Kreditpunkte | 6 |
 | Voraussetzungen nach Prüfungsordnung |  |
 | Typ | Schwerpunktmodul |
@@ -1119,9 +867,9 @@ Mündliche Prüfung
 
 ## Arbeitsaufwand:
 
-Gesamtaufwand 180 h, davon 
+Gesamtaufwand 180 h, davon
 
-- 45 h Vorlesung 
+- 45 h Vorlesung
 
 - 30 h Übung
 
@@ -1130,7 +878,7 @@ Gesamtaufwand 180 h, davon
 
 ## Angestrebte Lernergebnisse:
 
-Ziel ist vor allem, die Benutzerperspektive im Entwicklungsprozess interaktiver Systeme zu berücksichtigen, nicht von der Technologie sondern von menschlichen Erfordernissen auszugehen und eine entsprechende Interaktionsmodellierung und –gestaltung erreichen zu können. Dabei wird besonderer Wert auf den Auf- bzw. Ausbau von Entwurfskompetenz („reflection in action“, „conversation with the material“) gelegt, die das systematische Entwickeln von Gestaltungsalternativen, deren Bewertung, der Synthese gefundener Qualitäten in kohärenten und konsistenten Systementwürfen und den systematischen, konstruktiven Umgang mit trade-offs und ein insgesamt iteratives Vorgehen beinhaltet. 
+Ziel ist vor allem, die Benutzerperspektive im Entwicklungsprozess interaktiver Systeme zu berücksichtigen, nicht von der Technologie sondern von menschlichen Erfordernissen auszugehen und eine entsprechende Interaktionsmodellierung und –gestaltung erreichen zu können. Dabei wird besonderer Wert auf den Auf- bzw. Ausbau von Entwurfskompetenz („reflection in action“, „conversation with the material“) gelegt, die das systematische Entwickeln von Gestaltungsalternativen, deren Bewertung, der Synthese gefundener Qualitäten in kohärenten und konsistenten Systementwürfen und den systematischen, konstruktiven Umgang mit trade-offs und ein insgesamt iteratives Vorgehen beinhaltet.
 
 Die Studierenden haben konzeptionelles Design (Conceptual Design) verstanden, können es souverän anwenden und als Vorgehen kritisch einordnen, um aufgabenangemessene und aus Benutzersicht angenehme Technologienutzung zu gestalten. Die Studierenden haben den Ansatz „Designing for Life” verstanden und wissen, wie sie dies methodisch umsetzen können.
 
@@ -1170,7 +918,7 @@ schriftliche Ausarbeitung und Designartefakte
 
 ## Literatur:
 
-- Winograd, Terry (ed.), Bringing Design to Software, Addison Wesley, 1996, ISBN: 0-201-85491-0 
+- Winograd, Terry (ed.), Bringing Design to Software, Addison Wesley, 1996, ISBN: 0-201-85491-0
 
 - Courage, Cathrine; Baxter, Kathy, „Understanding Your Users“. A practical guide to user requirements. Methods, Tools, & Techniques, Kaufman Morgan Publishers, Elsevier, 2005, ISBN: 1-55860-935-0
 
@@ -1202,7 +950,6 @@ schriftliche Ausarbeitung und Designartefakte
 | Studiensemester - Wintersemester | 2 |
 | Studiensemester - Sommersemester | 1 |
 | Sprache | deutsch |
-| Zuordnung zum Curriculum | Medieninformatik Master |
 | Kreditpunkte | 6 |
 | Voraussetzungen nach Prüfungsordnung |  |
 | Typ | Schwerpunktmodul |
@@ -1278,7 +1025,6 @@ Konfidenzintervalle, Fehlertypen, Effektstärken und Power, multivariate Verfahr
 | Studiensemester - Wintersemester | 1 |
 | Studiensemester - Sommersemester | 2 |
 | Sprache | deutsch |
-| Zuordnung zum Curriculum | Medieninformatik Master |
 | Kreditpunkte | 6 |
 | Voraussetzungen nach Prüfungsordnung |  |
 | Typ | Wahlpflichtmodul |
@@ -1291,9 +1037,9 @@ Konfidenzintervalle, Fehlertypen, Effektstärken und Power, multivariate Verfahr
 
 ## Arbeitsaufwand:
 
-Gesamtaufwand 180 h, davon 
+Gesamtaufwand 180 h, davon
 
-- 45 h Vorlesung 
+- 45 h Vorlesung
 
 - 30 h Übung
 
@@ -1338,7 +1084,7 @@ Bitte noch ergänzen
 
 - Saul Greenberg, Bill Buxton et al. “Sketching User Experiences: The workbook”, Elsevier, 2012
 
-  -Snyder, Carolyn, „Paper Prototyping“, Morgan Kaufman Publishers, 2003
+- Snyder, Carolyn, „Paper Prototyping“, Morgan Kaufman Publishers, 2003
 
 
 
@@ -1352,7 +1098,6 @@ Bitte noch ergänzen
 | Studiensemester - Wintersemester | 2 |
 | Studiensemester - Sommersemester | 3 |
 | Sprache | deutsch |
-| Zuordnung zum Curriculum | siehe Studienverlaufsplan |
 | Kreditpunkte | 12 |
 | Voraussetzungen nach Prüfungsordnung | keine |
 | Typ | Schwerpunktprojekt |
@@ -1414,7 +1159,6 @@ n/a
 | Studiensemester - Wintersemester | 3 |
 | Studiensemester - Sommersemester | 1 |
 | Sprache | deutsch |
-| Zuordnung zum Curriculum | siehe Studienverlaufsplan |
 | Kreditpunkte | 12 |
 | Voraussetzungen nach Prüfungsordnung | keine |
 | Typ | Schwerpunktprojekt |
@@ -1474,7 +1218,6 @@ n/a
 | Studiensemester - Wintersemester | 1 |
 | Studiensemester - Sommersemester | 2 |
 | Sprache | deutsch |
-| Zuordnung zum Curriculum | siehe Studienverlaufsplan |
 | Kreditpunkte | 12 |
 | Voraussetzungen nach Prüfungsordnung | keine |
 | Typ | Schwerpunktprojekt |
@@ -1540,7 +1283,6 @@ n/a
 | Studiensemester - Wintersemester | 2 |
 | Studiensemester - Sommersemester | 1 |
 | Sprache | deutsch |
-| Zuordnung zum Curriculum | siehe Studienverlaufsplan |
 | Kreditpunkte | 6 |
 | Voraussetzungen nach Prüfungsordnung | keine |
 | Typ | Schwerpunktmodul |
@@ -1641,7 +1383,6 @@ Mündliche Prüfung
 | Studiensemester - Wintersemester | 1 |
 | Studiensemester - Sommersemester | 2 |
 | Sprache | deutsch |
-| Zuordnung zum Curriculum | Medieninformatik Master |
 | Kreditpunkte | 6 |
 | Voraussetzungen nach Prüfungsordnung |  |
 | Typ | Schwerpunktmodul |
@@ -1747,7 +1488,6 @@ Schriftliche Ausarbeitung zu neuen Entwurfsmustern
 | Studiensemester - Wintersemester | 1 |
 | Studiensemester - Sommersemester | 2 |
 | Sprache | deutsch |
-| Zuordnung zum Curriculum | Medieninformatik Master |
 | Kreditpunkte | 6 |
 | Voraussetzungen nach Prüfungsordnung |  |
 | Typ | Wahlpflichtmodul |
@@ -1857,7 +1597,6 @@ Planung und Durchführung einer Onlineveranstaltung (ca. 15 Minuten)
 | Studiensemester - Wintersemester | 1 |
 | Studiensemester - Sommersemester | 2 |
 | Sprache | deutsch |
-| Zuordnung zum Curriculum | Medieninformatik Master |
 | Kreditpunkte | 6 |
 | Voraussetzungen nach Prüfungsordnung |  |
 | Typ | Wahlpflichtmodul |
@@ -1939,7 +1678,6 @@ Mündiche Prüfung
 | Studiensemester - Wintersemester | 1 |
 | Studiensemester - Sommersemester | 2 |
 | Sprache | wahlweise deutsch oder englisch |
-| Zuordnung zum Curriculum | Medieninformatik Master |
 | Kreditpunkte | 5 |
 | Voraussetzungen nach Prüfungsordnung | &nbsp; |
 | Typ | Schwerpunktmodul |
@@ -2056,7 +1794,6 @@ Die erfolgreiche Teilnahme an den Praktikas ist Voraussetzung für die Klausur (
 | Studiensemester - Wintersemester | 3 |
 | Studiensemester - Sommersemester | 2 |
 | Sprache | wahlweise deutsch oder englisch |
-| Zuordnung zum Curriculum | Medieninformatik Master |
 | Kreditpunkte | 5 |
 | Voraussetzungen nach Prüfungsordnung | &nbsp; |
 | Typ | Wahlpflichtmodul |
@@ -2159,7 +1896,6 @@ Die erfolgreiche Teilnahme an den Praktikas ist Voraussetzung für die Klausur (
 | Studiensemester - Wintersemester | 1 |
 | Studiensemester - Sommersemester | 2 |
 | Sprache | &nbsp; |
-| Zuordnung zum Curriculum | &nbsp; |
 | Kreditpunkte | 6 |
 | Voraussetzungen nach Prüfungsordnung | Keine über die Zulassungsbedingungen hinausgehenden Voraussetzungen |
 | Typ | Schwerpunktmodul |
@@ -2242,7 +1978,6 @@ Projektarbeit und schriftliche Ausarbeitung
 | Studiensemester - Wintersemester | 2 |
 | Studiensemester - Sommersemester | 3 |
 | Sprache | wahlweise deutsch oder englisch |
-| Zuordnung zum Curriculum | Medieninformatik Master |
 | Kreditpunkte | 5 |
 | Voraussetzungen nach Prüfungsordnung | &nbsp; |
 | Typ | Schwerpunktmodul |
@@ -2381,7 +2116,6 @@ Im speziellen, aber nicht ausschließlich, werden folgende Themen behandelt:
 | Studiensemester - Wintersemester | 1 |
 | Studiensemester - Sommersemester | 2 |
 | Sprache | deutsch |
-| Zuordnung zum Curriculum | siehe Studienverlaufsplan |
 | Kreditpunkte | 6 |
 | Voraussetzungen nach Prüfungsordnung | keine |
 | Typ | Schwerpunktmodul |
@@ -2534,7 +2268,6 @@ Teil I und Teil II: Klausur sowie selbstständige Erarbeitung, Vortrag und Ausar
 | Studiensemester - Wintersemester | 2 |
 | Studiensemester - Sommersemester | 3 |
 | Sprache | deutsch |
-| Zuordnung zum Curriculum | &nbsp; |
 | Kreditpunkte | 6 |
 | Voraussetzungen nach Prüfungsordnung | keine |
 | Typ | Wahlpflichtmodul |
@@ -2635,7 +2368,6 @@ Mündliche Prüfung
 | Studiensemester - Wintersemester | 2 |
 | Studiensemester - Sommersemester | 1 |
 | Sprache | deutsch, Seminar-Basisliteratur i.d.R. in englischer Sprache |
-| Zuordnung zum Curriculum | &nbsp; |
 | Kreditpunkte | 6 |
 | Voraussetzungen nach Prüfungsordnung | keine |
 | Typ | Schwerpunktmodul |
@@ -2728,7 +2460,6 @@ Klausur 60 Minuten
 | Studiensemester - Wintersemester | 1 |
 | Studiensemester - Sommersemester | 2 |
 | Sprache | deutsch |
-| Zuordnung zum Curriculum | siehe Studienverlaufsplan |
 | Kreditpunkte | 6 |
 | Voraussetzungen nach Prüfungsordnung | keine |
 | Typ | Schwerpunktmodul |
@@ -2821,7 +2552,6 @@ Präsentationsmaterialien
 | Studiensemester - Wintersemester | 2 |
 | Studiensemester - Sommersemester | 3 |
 | Sprache | deutsch |
-| Zuordnung zum Curriculum | siehe Studienverlaufsplan |
 | Kreditpunkte | 6 |
 | Voraussetzungen nach Prüfungsordnung | keine |
 | Typ | Schwerpunktmodul |
