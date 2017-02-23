@@ -1,16 +1,13 @@
 ---
 title: Qualifikationsziele Medieninformatik Master
-aktueller-bearbeiter: Mario Winter
+aktueller-bearbeiter: 
 bearbeiterhistorie: Christian Noss
 date: 18.02.2017
 comment:
-status: unvollständig und noch etwas chaotisch, Überarbeitung erforderlich
+status: Überarbeitung von MW abgeschlossen, Review erforderlich
 reviewed-von:
 ---
 
-~~~
-@mario: Kannst Du da bitte mal drüber gucken?
-~~~
 
 ## Leitbild Medieninformatik Master
 
