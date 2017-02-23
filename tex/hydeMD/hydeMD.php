@@ -349,22 +349,22 @@ class Document {
           /* path correction -> relative path starting from the content file */
           $attrsAssocArr[ 'url' ] = '../anhaenge/' . $attrsAssocArr[ 'url' ];
 
-          /* SVG to PDF conversion if a SVG file is found */
+          /* SVG to PNG conversion if a SVG file is found */
           $attrsAssocArr[ 'url' ] = preg_replace_callback( '/\.svg$/', function($match) use( &$svgsFound, $relativePathToFileFromScript, $attrsAssocArr ) {
 
             $newExt = $match[0];
 
             if( cmdExists( 'rsvg-convert' ) ) {
-              $relativePathToFileFromScriptPDF =
-                preg_replace( '/.svg$/', '.pdf', $relativePathToFileFromScript );
+              $relativePathToFileFromScriptPNG =
+                preg_replace( '/.svg$/', '.png', $relativePathToFileFromScript );
 
-              if( !file_exists( $relativePathToFileFromScriptPDF ) ) {
-                shell_exec( 'rsvg-convert -f pdf -o ' .
-                            $relativePathToFileFromScriptPDF . ' ' .
+              if( !file_exists( $relativePathToFileFromScriptPNG ) ) {
+                shell_exec( 'rsvg-convert -d 300 -p 300 -z 2.5 -f png -o ' .
+                            $relativePathToFileFromScriptPNG . ' ' .
                             $relativePathToFileFromScript );
               }
 
-              $newExt = '.pdf';
+              $newExt = '.png';
             }
             else {
               fprintf( STDERR, "Warning: SVG file found: " . $attrsAssocArr[ 'url' ] . "\n" );
@@ -505,7 +505,7 @@ class Document {
     }
 
     if( $svgsFound ) {
-      fprintf( STDERR, "Please install librsvg for on-the-fly svg2pdf conversion." );
+      fprintf( STDERR, "Please install librsvg for on-the-fly svg2png conversion." );
     }
   }
 

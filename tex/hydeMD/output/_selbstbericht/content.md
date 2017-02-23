@@ -95,11 +95,6 @@ Klimawandel, knappe Ressourcen, Sicherheit und demographischer Wandel sind einig
 
 Die vielfältigen Forschungsaktivitäten spiegeln sich im Forschungsprofil der TH Köln, bestehend aus 10 thematischen Clustern[^anhang-forschungscluster-th]  wider. Die Cluster dienen als thematische Klammer für die Forschungsaktivitäten in den unterschiedlichen Forschungsstrukturen der Hochschule, wie Forschungsinstituten, Kompetenzplattformen, Forschungsschwerpunkten und Forschungsstellen.
 
-### Zahl und Verteilung der Studierenden
-
-An der TH Köln studieren ca. 23.500 Studierende an 11 Fakultäten. Die Abbildung[^abbildung-verteilung-der-studierenden] zeigt die Verteilung der Studierenden.
-
-
 ## Einbettung der Studiengänge in die Fakultät
 
 Die Fakultät für Informatik und Ingenieurwissenschaften ist am Standort Gummersbach angesiedelt (Campus Gummersbach) und ist mit derzeit 5200 Studierenden[^studierende-gm-2016] die größte Fakultät der TH Köln. An der Fakultät sind 8 Institute angesiedelt; zum Studienangebot der Fakultät gehören 8 Bachelor- und 6 Masterstudiengänge. Die Medieninformatik Studiengänge werden von der Fakultät für Informatik und Ingenieurwissenschaften ausgerichtet und sind im Institut für Informatik organisatorisch verankert.
@@ -118,7 +113,6 @@ Das Institut für Informatik betreibt Labore für:
 [^Anhang-Diversity-Konzepte]: [Educational Diversity Konzept](https://www.th-koeln.de/hochschule/educational-diversity_5710.php) (abgerufen am 20.02.2017)
 [^anhang-profil2]: [Profil2 Seite](https://www.th-koeln.de/hochschule/profil_5676.php) (abgerufen am 20.02.2017)
 [^anhang-forschungscluster-th]: [Forschungscluster](https://www.th-koeln.de/forschung/cluster_2734.php) (abgerufen am 20.02.2017)
-[^abbildung-verteilung-der-studierenden]: Abbildung Verteilung der Studierenden
 [^studierende-gm-2016]: [Studentenzahlen_WS-2016_(01.12.2016).pdf](../anhaenge/Studentenzahlen_WS-2016_(01.12.2016).pdf)
 
 
@@ -147,7 +141,6 @@ Fachlich und strukturell sind sowohl der Bachelor-Studiengang als auch der konse
 Die Studiengänge, vor allem der Bachelor-Studiengang, erfreuen sich großer Nachfrage, sowohl von Studierenden als auch von Unternehmen. Beim unabhängigen Bewertungsportal "Studycheck.de" [^Link-studycheckde] wird die Medieninformatik am Campus Gummersbach unter den TOP 5 Studiengängen in diesem Segment gelistet [^Anhang-Snapshot-Bewertungen-von-studycheckde].
 
 Mittlerweile haben etwa 15 Absolventen des Masterstudienganges Medieninformatik ein Promotionstudium abgeschlossen bzw. sind gerade im Begriff, diese anzuschliessen. Die Promotionsverfahren fanden bzw. finden an deutschen (Münster, Paderborn, Tübingen) aber auch an europäischen (Schweden, Norwegen, Niederlande, Spanien, UK) Universitäten statt und decken fachlich ein breites Spektrum ab.
-
 
 
 
@@ -223,12 +216,8 @@ Das jährlich durchgeführte Medieninformatik-Filmfest dient zur Stärkung der I
 
 Die folgenden Ausführungen beruhen auf der Datenerhebung[^anhang-verbleib-und-studienabbruch] zum 01.12.2015 für den Zeitraum 2011 bis 2015 und fokussieren die derzeit eingeschriebenen Studierenden, erfolgreiche Abschlüsse und Studienfachabbrecher im Medieninformatik-Bachelor.
 
-~~~
-cn: Tabelle zeigt nur Zahlen bis 2013. Haben wir da was besseres?
-@Volker: da müsstest Du bitte noch mal eine Tabelle draus machen. Sprechen wir Mittwoch drüber. 
-~~~
 
-![Tabelle: Daten des Bachelorstudiengangs Medieninformatik](../anhaenge/tabellen/MI-BA-anzahl-studierende.pdf)
+![Tabelle: Daten des Bachelorstudiengangs Medieninformatik](../anhaenge/tabellen/MI-BA-anzahl-studierende.png)
 
 | Semester   | Einschreibungen gesamt | Davon noch im Studium | Davon Abbruch | Davon Abschluss |
 | ---------- | ---------------------- | --------------------- | ------------- | --------------- |
@@ -238,9 +227,6 @@ cn: Tabelle zeigt nur Zahlen bis 2013. Haben wir da was besseres?
 
 Die in Tabelle 1 dargestellten Zahlen zeigen einen stetig wachsenden Zulauf für den Bachelorstudiengang Medieninformatik, der ursprünglich für 63 Studierende ausgelegt wurde. Erfreulicherweise ist, trotz der im Rahmen der Fakultätsentwicklung und des Hochschulentwicklungsplans 2020[^anhang-hep-2020] steigenden Anfängerzahlen, eine gleichbleibende Abbrecherquote um die 30% zu erkennen. Die Zahlen zeigen leider auch eine niedrige Quote an Absolventen in Regelstudienzeit, die jedoch im Mittel aller Studiengänge der Fakultät 10 liegt. Nach den vorliegenden Prüfungsstatistiken (vgl. Prüfungsstatistiken [^Anhang-Pruefungsstatistiken]) ist mit einem proportionalen Anstieg der Absolventen zu rechnen.
 
-~~~
-@Volker: kann die Tabellennummerierung automatisiert werden?
-~~~
 Die im Rahmen der letzten Reakkreditierung eingebrachten Änderungen können hinsichtlich der Quote der Studienabbrecher bereits als recht erfolgreich bewertet werden. Vor allem die Auflösung der strikten, durch Zulassungsvoraussetzungen in der Prüfungsordnung verankerte Trennung von Grund- und Hauptstudium hat die Dauer des Fachstudiums definitiv verkürzt. Auch die Einführung des Moduls „Einführung in die Medieninformatik“ (EMI) erweist sich als sinnvoll und notwendig, um den Studierenden früh die Perspektiven und fachlichen Aspekte der Medieninformatik näher zu bringen.
 
 Aus der INCHER-Studie von 2014[^Anhang-INCHER-Studie] geht für alle Studiengänge in NRW hervor: Wer während des Studiums ein Firmenpraktikum absolviert, schließt das Studium etwas seltener in der Regelstudienzeit ab (54 Prozent vs. 60 Prozent). Ähnlich ist eine Tendenz zwischen denjenigen, die ihr Studium hauptsächlich durch Erwerbsarbeit finanzierten und den übrigen Absolventinnen und Absolventen zu erkennen: Wenn das Studium durch eigene Erwerbsarbeit finanziert wurde, wird es ebenfalls seltener in der Regelstudienzeit abgeschlossen (50 Prozent vs. 57 Prozent).
@@ -408,7 +394,7 @@ Die im Folgenden dargestellten geplanten Veränderungen des Bachelorstudienprogr
 ### Verbesserungen des Studienaufbaus
 
 
-![Abbildung: Geplante Veränderungen des Bachelorstudiengangs Medieninformatik. Links das aktuelle und rechts das zu akkreditierende Curriculum. Die lila hinterlegten Module werden gestrichen, die grün hinterlegten in Vertiefungsmodulen zusammengefasst, die orange hinterlegten Module wurden neu angeordnet und die gelben Module wurden neu integriert.](../anhaenge/bilder/ba-veraenderungen-studienverlaufsplan.pdf)
+![Abbildung: Geplante Veränderungen des Bachelorstudiengangs Medieninformatik. Links das aktuelle und rechts das zu akkreditierende Curriculum. Die lila hinterlegten Module werden gestrichen, die grün hinterlegten in Vertiefungsmodulen zusammengefasst, die orange hinterlegten Module wurden neu angeordnet und die gelben Module wurden neu integriert.](../anhaenge/bilder/ba-veraenderungen-studienverlaufsplan.png)
 
 
 Mit einer Verbesserung des Studienaufbaus sollen folgende bekannte Defizite ausgeglichen werden:
@@ -427,7 +413,7 @@ Im vierten Semester wurde ein Vertiefungsmodul mit 20 Creditpoints installiert a
 
 ### Verbesserter Aufbau der projektorientierten Module und der Projektgrößen
 
-![Abbildung: Veränderter Aufbau der Projektanteile des Bachelorstudiengangs Medieninformatik. Links das aktuelle und rechts das zu akkreditierende Curriculum.](../anhaenge/bilder/ba-projektanteile.pdf)
+![Abbildung: Veränderter Aufbau der Projektanteile des Bachelorstudiengangs Medieninformatik. Links das aktuelle und rechts das zu akkreditierende Curriculum.](../anhaenge/bilder/ba-projektanteile.png)
 
 Hiermit sollen folgende bekannte Defizite ausgeglichen werden:
 
@@ -440,7 +426,7 @@ Wie bereits beschrieben, wurden die projektorientierten Module gleichmäßiger �
 
 ### Strukturierte Möglichkeit zur individuellen Fachvertiefung
 
-![Abbildung: Zusammenfassung von Modulen aus einem Themenfeld zu Vertiefungsmodulen im  Medieninformatik Bachelor.](../anhaenge/bilder/ba-vertiefungen.pdf)
+![Abbildung: Zusammenfassung von Modulen aus einem Themenfeld zu Vertiefungsmodulen im  Medieninformatik Bachelor.](../anhaenge/bilder/ba-vertiefungen.png)
 
 Mit dieser Änderungen sollen folgende bekannte Defizite ausgeglichen werden:
 
@@ -890,7 +876,7 @@ Um die Qualifikationsziele des sechssemestrigen Studiengangs zu erreichen, das S
 
 ### Studienphasen und -säulen
 
-![Abbildung: Studienphasen des Bachelorstudiengangs Medieninformatik](../anhaenge/bilder/ba-studienphasen.pdf)
+![Abbildung: Studienphasen des Bachelorstudiengangs Medieninformatik](../anhaenge/bilder/ba-studienphasen.png)
 
 Die organisatorischen und inhaltliche Klammer bilden die drei, aufeinander aufbauenden, Studienphasen: Grundlagen, Vertiefung und Spezialisierung. Die Module innerhalb der Phasen, gliedern sich in zwei Säulen: Informatik Kernmodule und Medieninformatik-spezifische Module. Die Informatik Kernmodule auch von anderen Informatik Studiengängen der Fakultät 10 genutzt. Dadurch werden Synergien erzeugt und alle Informatik Studenten der Fakultät können auf die gleiche Wissensbasis zurückgreifen. Durch die Durchmischung von Studierenden unterschiedlicher Studiengänge können hier unter den Studierenden bereits interdisziplinäre Kontakte geknüpft werden. Ein weiterer Vorteil dieser Konstruktion ist eine gute Durchlässigkeit von Studierenden beim Studiengangswechsel, sofern sie feststellen, dass ein anderer Studiengang am Campus eher ihren Fähigkeiten und Neigungen entspricht. Naturgemäß die Informatik Kernmodule, die zumeist Grundlagencharakter haben, im Grundlagenteil des Studiums verankert.
 
@@ -898,7 +884,7 @@ Um den Studierenden jedoch mit den Herangehensweisen und Perspektiven der Medien
 
 ### Sinnvolle Staffelung der Module
 
-![Abbildung: Studienverlaufsplan des Bachelorstudiengangs Medieninformatik](../anhaenge/bilder/ba-verlaufsplan.pdf)
+![Abbildung: Studienverlaufsplan des Bachelorstudiengangs Medieninformatik](../anhaenge/bilder/ba-verlaufsplan.png)
 
 Die ersten Modulen des Informatik Kerns bauen vor allem mathematische, algorithmische und und grundlegende Kenntnisse und Fertigkeiten auf. Im Kontrast dazu, werden im Modul "Einführung in die Medieninformatik" vielfältige Perspektiven, Konzepte und Arbeitstechniken der Medieninformatik, quasi im Vorgriff auf der kommende Studium, vorgestellt und in einem Projekt, mit forschendem Charakter, angewendet. Hiermit wird den Studierenden ein Ausblick auf das weitere Studium und die notwendigen Arbeitsweisen und -techniken gegeben.
 
@@ -993,7 +979,7 @@ Der Titel der Studienrichtung, „Weaving the Web” wurde gewählt, da neben de
 
 ### Studienphasen und -säulen
 
-![Abbildung: Struktur der ersten drei Studiensemester des Masterprogramms bei Studienstart im Wintersemester](../anhaenge/bilder/ma-struktur.pdf)
+![Abbildung: Struktur der ersten drei Studiensemester des Masterprogramms bei Studienstart im Wintersemester](../anhaenge/bilder/ma-struktur.png)
 
 Jedes der ersten drei Fachsemester steht unter einer übergreifenden Leitfrage. Diese Fragen sind, ähnlich wie im Bachelorprogramm, am groben Ablauf der Produktentwicklung ausgerichtet: "Vision & Konzept", "Entwicklung" und "Assessment/Evaluation, Forschung und Verwertung". Die Leitfragen sind vor allem für die Projekte relevant. Das vierte Fachsemester wird komplett von der Masterthesis ausgefüllt.
 
@@ -1094,11 +1080,8 @@ Die inhaltliche Offenheit des dritten Fachsemesters mit drei Wahlpflichtmodulen 
 ## Bachelor Medieninformatik
 
 ### Zugangsvoraussetzungen
-Als Voraussetzung für die Aufnahme eines Bachelorstudiums Medieninformatik wird die Fachhochschulreife oder eine als gleichwertig anerkannte Vorbildung gefordert. Für die nächste Einschreibephase wurde darüber hinaus eine Zulassungsbeschränkung für alle Informatik Bachelorstudiengänge vereinbart.
+Als Voraussetzung für die Aufnahme eines Bachelorstudiums Medieninformatik wird die Fachhochschulreife oder eine als gleichwertig anerkannte Vorbildung gefordert. Für die nächste Einschreibephase wurde, aufgrund der großen Nachfrage, eine ortliche Zulassungsbeschränkung für alle Informatik Bachelorstudiengänge der Fakultät vereinbart.
 
-~~~
-cn: wie wird das denn korrekt formuliert?
-~~~
 
 ### Allgemeine/fachgebundene Hochschulreife, Fachhochschulreife, einschlägige Berufserfahrung
 Voraussetzung für den Zugang zum Bachelorstudium ist die Fachhochschulreife oder eine als gleichwertig anerkannte Vorbildung.
@@ -1142,7 +1125,7 @@ Im Masterstudium ist der Schwerpunkt der Prüfungsformen in Richtung mündlicher
 
 ## Studien/Prüfungsordnungen
 
-Die Studien- und Prüfungsordnungen[^pruefungsordnungen-online] der laufenden Studiengänge sind dem Anhang dieses Berichts beigefügt. Sie sind außerdem über die Website der Hochschule abrufbar. Der Studienverlaufsplan entspricht der Studienordnung. Nach Zustimmung der Gutachter zu den in den erläuterten Änderungen im Rahmen der Reakkreditierung werden die überarbeiteten Prüfungsordnungen, bzw. Studienverlaufspläne zeitnah vorgelegt.
+Die Studien- und Prüfungsordnungen[^pruefungsordnung-bachelor][^pruefungsordnung-master] der laufenden Studiengänge sind dem Anhang dieses Berichts beigefügt. Sie sind außerdem über die Website der Hochschule abrufbar. Der Studienverlaufsplan entspricht der Studienordnung. Nach Zustimmung der Gutachter zu den in den erläuterten Änderungen im Rahmen der Reakkreditierung werden die überarbeiteten Prüfungsordnungen, bzw. Studienverlaufspläne zeitnah vorgelegt.
 
 ## Diploma Supplement
 Das Diploma Supplement der zur Reakkrediterung beantragten Studiengänge ist im Anhang des Dokuments zu finden.
@@ -1167,9 +1150,9 @@ Das Institut für Informatik beteiligt sich jährlich am „Tag der offenen Tür
 Darüber hinaus bietet die Medieninformatik einige Veranstaltungen (siehe außercurriculare Maßnahmen) wie den jährlichen Showcase an, um hier auch eine Plattform für Studieninteressierte zu schaffen. Diese Angebote werden gut angenommen.  
 
 
-[^int-office]: International Office fehlt
-[^pruefungsordnungen-online]: Link zur online Prüfungsordnung fehlt
-
+[^int-office]: International Office: [https://www.th-koeln.de/internationales/international-office_1986.php](https://www.th-koeln.de/internationales/international-office_1986.php)
+[^pruefungsordnung-bachelor]: Prüfungsordnung Medieninformatik Bachelor: [https://www.th-koeln.de/studium/medieninformatik-bachelor--ordnungen-und-formulare_3963.php](https://www.th-koeln.de/studium/medieninformatik-bachelor--ordnungen-und-formulare_3963.php)
+[^pruefungsordnung-master]: Prüfungsordnung Medieninformatik Master (Entwurf): [MIMPO_Entwurf_ohne_Anm_Sz20170218.pdf](../anhaenge/MIMPO_Entwurf_ohne_Anm_Sz20170218.pdf)
 
 # Prüfungssystem
 
@@ -1624,10 +1607,9 @@ Für die Umsetzung der Chancengleichheit von Männern und Frauen hat die Hochsch
 
 Die Umsetzung dieser Ziele und die Einbettung in die bestehenden Handlungsfelder der Hochschule werden in der amtlichen Mitteilung[^gleichstellungskonzept] näher erläutert. Der TH Köln ist es ein besonderes Anliegen, mit den umgesetzten Maßnahmen die Selbstverständlichkeit von Beruf und Familie bzw. Studium und Familie zu unterstreichen und damit eine Kulturveränderung innerhalb der Hochschule zu bewirken, denn damit werden indirekt Karrierehemmnisse von Frauen abgebaut.
 
-
 [^gleichstellungskonzept]: <a href="http://www.fh-koeln.de/mam/downloads/deutsch/hochschule/profil/gleichstellung/gleichstellungskonzept.pdf">Gleichstellungskonzept der Technischen Hochschule Köln<a> (abgerufen am 23.02.2017)
 [^educational-diversity]: <a href="https://www.th-koeln.de/hochschule/educational-diversity_5710.php">Programm Educational Diversity der Technischen Hochschule Köln<a> (abgerufen am 23.02.2017)
-[^family-matters]: <a href="https://www.th-koeln.de/hochschule/familienfreundlichkeit_3759.php"> Profilseite zu Family Matters auf der Website der TH Köln<a> 	(abgerufen am 23.02.2017)
+[^family-matters]: <a href="https://www.th-koeln.de/hochschule/familienfreundlichkeit_3759.php"> Profilseite zu Family Matters auf der Website der TH Köln<a> (abgerufen am 23.02.2017)
 
 
 
