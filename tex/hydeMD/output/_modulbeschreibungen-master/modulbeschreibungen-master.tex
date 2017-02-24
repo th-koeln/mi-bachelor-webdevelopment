@@ -43,6 +43,20 @@
 %Paket das die Ausgabefonts definiert
 \usepackage[T1]{fontenc}
 
+\usepackage{mdframed}
+\newmdenv[
+  leftline=false,
+  bottomline=false,
+  rightline=false,
+  linewidth=1pt,
+  linecolor=m_pink!20,
+  innertopmargin=7pt,
+  innerbottommargin=0,
+  innerleftmargin=0,
+  skipabove=\topsep,
+  skipbelow=0pt
+]{modulHead}
+
 %Paket für das Einbinden von Grafiken über die figure-Umgebung
 \usepackage{graphicx}
 \usepackage{grffile}

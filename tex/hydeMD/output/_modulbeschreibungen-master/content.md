@@ -147,15 +147,7 @@ Der Titel der Studienrichtung, „Weaving the Web” wurde gewählt, da neben de
 
 
 
-- Modulverantwortlich: Prof. Dr. Christian Kohls
-- Kürzel: CE
-- Studiensemester - Wintersemester: 2
-- Studiensemester - Sommersemester: 1
-- Sprache: deutsch
-- Kreditpunkte: 6
-- Voraussetzungen nach Prüfungsordnung: 
-- Typ: Pflichtmodul
-
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Christian Kohls%end-modulMeta%%begin-modulMeta%**Kürzel**: CE%end-modulMeta%%begin-modulMeta%**Studiensemester - Wintersemester**: 2%end-modulMeta%%begin-modulMeta%**Studiensemester - Sommersemester**: 1%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: %end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
 
 
 ## Lehrform/SWS:
@@ -244,15 +236,7 @@ Abschlusspräsentation und schriftliche Ausarbeitung
 
 
 
-- Modulverantwortlich: alle Informatik Professoren
-- Kürzel: MA
-- Studiensemester - Wintersemester: 4
-- Studiensemester - Sommersemester: 4
-- Sprache: deutsch
-- Kreditpunkte: 30
-- Voraussetzungen nach Prüfungsordnung: keine
-- Typ: Pflichtmodul
-
+%begin-modulMeta%**Modulverantwortlich**: alle Informatik Professoren%end-modulMeta%%begin-modulMeta%**Kürzel**: MA%end-modulMeta%%begin-modulMeta%**Studiensemester - Wintersemester**: 4%end-modulMeta%%begin-modulMeta%**Studiensemester - Sommersemester**: 4%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 30%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
 
 
 ## Kurzbeschreibung
@@ -308,15 +292,7 @@ Je nach Thema
 
 
 
-- Modulverantwortlich: Prof. Dr. Wolfgang Konen, Prof. Dr. Boris Naujoks
-- Kürzel: SGM-D
-- Studiensemester - Wintersemester: 1
-- Studiensemester - Sommersemester: 2
-- Sprache: deutsch
-- Kreditpunkte: 6
-- Voraussetzungen nach Prüfungsordnung: Keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden
-- Typ: Pflichtmodul
-
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Wolfgang Konen, Prof. Dr. Boris Naujoks%end-modulMeta%%begin-modulMeta%**Kürzel**: SGM-D%end-modulMeta%%begin-modulMeta%**Studiensemester - Wintersemester**: 1%end-modulMeta%%begin-modulMeta%**Studiensemester - Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: Keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
 
 
 ##Kurzbeschreibung
@@ -388,15 +364,7 @@ Präsentationsmaterialien, Arbeitsblätter
 
 
 
-- Modulverantwortlich: alle Informatik Professoren
-- Kürzel: SPM1
-- Studiensemester - Wintersemester: 1
-- Studiensemester - Sommersemester: 2
-- Sprache: deutsch
-- Kreditpunkte: 6
-- Voraussetzungen nach Prüfungsordnung: keine
-- Typ: Wahlpflichtmodul
-
+%begin-modulMeta%**Modulverantwortlich**: alle Informatik Professoren%end-modulMeta%%begin-modulMeta%**Kürzel**: SPM1%end-modulMeta%%begin-modulMeta%**Studiensemester - Wintersemester**: 1%end-modulMeta%%begin-modulMeta%**Studiensemester - Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Wahlpflichtmodul%end-modulMeta%
 
 
 ## Arbeitsaufwand:
@@ -409,15 +377,7 @@ Präsentationsmaterialien, Arbeitsblätter
 
 
 
-- Modulverantwortlich: alle Informatik Professoren
-- Kürzel: SPM2
-- Studiensemester - Wintersemester: 1
-- Studiensemester - Sommersemester: 2
-- Sprache: deutsch
-- Kreditpunkte: 6
-- Voraussetzungen nach Prüfungsordnung: keine
-- Typ: Wahlpflichtmodul
-
+%begin-modulMeta%**Modulverantwortlich**: alle Informatik Professoren%end-modulMeta%%begin-modulMeta%**Kürzel**: SPM2%end-modulMeta%%begin-modulMeta%**Studiensemester - Wintersemester**: 1%end-modulMeta%%begin-modulMeta%**Studiensemester - Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Wahlpflichtmodul%end-modulMeta%
 
 
 ## Arbeitsaufwand:
@@ -430,15 +390,7 @@ Präsentationsmaterialien, Arbeitsblätter
 
 
 
-- Modulverantwortlich: alle Informatik Professoren
-- Kürzel: SPM3
-- Studiensemester - Wintersemester: 2
-- Studiensemester - Sommersemester: 1
-- Sprache: deutsch
-- Kreditpunkte: 6
-- Voraussetzungen nach Prüfungsordnung: keine
-- Typ: Wahlpflichtmodul
-
+%begin-modulMeta%**Modulverantwortlich**: alle Informatik Professoren%end-modulMeta%%begin-modulMeta%**Kürzel**: SPM3%end-modulMeta%%begin-modulMeta%**Studiensemester - Wintersemester**: 2%end-modulMeta%%begin-modulMeta%**Studiensemester - Sommersemester**: 1%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Wahlpflichtmodul%end-modulMeta%
 
 
 ## Arbeitsaufwand:
@@ -451,15 +403,7 @@ Präsentationsmaterialien, Arbeitsblätter
 
 
 
-- Modulverantwortlich: alle Informatik Professoren
-- Kürzel: WPM
-- Studiensemester - Wintersemester: 3
-- Studiensemester - Sommersemester: 3
-- Sprache: deutsch
-- Kreditpunkte: 6
-- Voraussetzungen nach Prüfungsordnung: keine
-- Typ: Pflichtmodul
-
+%begin-modulMeta%**Modulverantwortlich**: alle Informatik Professoren%end-modulMeta%%begin-modulMeta%**Kürzel**: WPM%end-modulMeta%%begin-modulMeta%**Studiensemester - Wintersemester**: 3%end-modulMeta%%begin-modulMeta%**Studiensemester - Sommersemester**: 3%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
 
 
 ## Arbeitsaufwand:
@@ -472,15 +416,7 @@ Präsentationsmaterialien, Arbeitsblätter
 
 
 
-- Modulverantwortlich: alle Informatik Professoren
-- Kürzel: WPM
-- Studiensemester - Wintersemester: 3
-- Studiensemester - Sommersemester: 3
-- Sprache: deutsch
-- Kreditpunkte: 6
-- Voraussetzungen nach Prüfungsordnung: keine
-- Typ: Pflichtmodul
-
+%begin-modulMeta%**Modulverantwortlich**: alle Informatik Professoren%end-modulMeta%%begin-modulMeta%**Kürzel**: WPM%end-modulMeta%%begin-modulMeta%**Studiensemester - Wintersemester**: 3%end-modulMeta%%begin-modulMeta%**Studiensemester - Sommersemester**: 3%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
 
 
 ## Arbeitsaufwand:
@@ -493,15 +429,7 @@ Präsentationsmaterialien, Arbeitsblätter
 
 
 
-- Modulverantwortlich: alle Informatik Professoren
-- Kürzel: WPM
-- Studiensemester - Wintersemester: 3
-- Studiensemester - Sommersemester: 3
-- Sprache: deutsch
-- Kreditpunkte: 6
-- Voraussetzungen nach Prüfungsordnung: keine
-- Typ: Pflichtmodul
-
+%begin-modulMeta%**Modulverantwortlich**: alle Informatik Professoren%end-modulMeta%%begin-modulMeta%**Kürzel**: WPM%end-modulMeta%%begin-modulMeta%**Studiensemester - Wintersemester**: 3%end-modulMeta%%begin-modulMeta%**Studiensemester - Sommersemester**: 3%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
 
 
 ## Arbeitsaufwand:
@@ -514,15 +442,7 @@ Präsentationsmaterialien, Arbeitsblätter
 
 
 
-- Modulverantwortlich: Prof. Dr. Gerhard Hartmann
-- Kürzel: RM
-- Studiensemester - Wintersemester: 2
-- Studiensemester - Sommersemester: 1
-- Sprache: deutsch
-- Kreditpunkte: 6
-- Voraussetzungen nach Prüfungsordnung: 
-- Typ: Pflichtmodul
-
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Gerhard Hartmann%end-modulMeta%%begin-modulMeta%**Kürzel**: RM%end-modulMeta%%begin-modulMeta%**Studiensemester - Wintersemester**: 2%end-modulMeta%%begin-modulMeta%**Studiensemester - Sommersemester**: 1%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: %end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
 
 
 ## Lehrform/SWS:
@@ -589,15 +509,7 @@ schriftliche Modulprüfung
 
 
 
-- Modulverantwortlich: Prof. Dr. Gerhard Hartmann, Prof. Dr. Christian Kohls
-- Kürzel: DM
-- Studiensemester - Wintersemester: 1
-- Studiensemester - Sommersemester: 2
-- Sprache: deutsch
-- Kreditpunkte: 6
-- Voraussetzungen nach Prüfungsordnung: 
-- Typ: Schwerpunktmodul
-
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Gerhard Hartmann, Prof. Dr. Christian Kohls%end-modulMeta%%begin-modulMeta%**Kürzel**: DM%end-modulMeta%%begin-modulMeta%**Studiensemester - Wintersemester**: 1%end-modulMeta%%begin-modulMeta%**Studiensemester - Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: %end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktmodul%end-modulMeta%
 
 
 ## Lehrform/SWS:
@@ -678,15 +590,7 @@ Mündliche Prüfung
 
 
 
-- Modulverantwortlich: Prof. Dr. Gerhard Hartmann
-- Kürzel: ID
-- Studiensemester - Wintersemester: 1
-- Studiensemester - Sommersemester: 2
-- Sprache: deutsch
-- Kreditpunkte: 6
-- Voraussetzungen nach Prüfungsordnung: 
-- Typ: Schwerpunktmodul
-
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Gerhard Hartmann%end-modulMeta%%begin-modulMeta%**Kürzel**: ID%end-modulMeta%%begin-modulMeta%**Studiensemester - Wintersemester**: 1%end-modulMeta%%begin-modulMeta%**Studiensemester - Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: %end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktmodul%end-modulMeta%
 
 
 ## Lehrform/SWS:
@@ -773,15 +677,7 @@ schriftliche Ausarbeitung und Designartefakte
 
 
 
-- Modulverantwortlich: Prof. Dr. Gerhard Hartmann
-- Kürzel: Stat
-- Studiensemester - Wintersemester: 2
-- Studiensemester - Sommersemester: 1
-- Sprache: deutsch
-- Kreditpunkte: 6
-- Voraussetzungen nach Prüfungsordnung: 
-- Typ: Schwerpunktmodul
-
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Gerhard Hartmann%end-modulMeta%%begin-modulMeta%**Kürzel**: Stat%end-modulMeta%%begin-modulMeta%**Studiensemester - Wintersemester**: 2%end-modulMeta%%begin-modulMeta%**Studiensemester - Sommersemester**: 1%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: %end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktmodul%end-modulMeta%
 
 
 ## Lehrform/SWS:
@@ -848,15 +744,7 @@ Konfidenzintervalle, Fehlertypen, Effektstärken und Power, multivariate Verfahr
 
 
 
-- Modulverantwortlich: Prof. Dr. Gerhard Hartmann
-- Kürzel: SUE
-- Studiensemester - Wintersemester: 1
-- Studiensemester - Sommersemester: 2
-- Sprache: deutsch
-- Kreditpunkte: 6
-- Voraussetzungen nach Prüfungsordnung: 
-- Typ: Wahlpflichtmodul
-
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Gerhard Hartmann%end-modulMeta%%begin-modulMeta%**Kürzel**: SUE%end-modulMeta%%begin-modulMeta%**Studiensemester - Wintersemester**: 1%end-modulMeta%%begin-modulMeta%**Studiensemester - Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: %end-modulMeta%%begin-modulMeta%**Typ**: Wahlpflichtmodul%end-modulMeta%
 
 
 ## Lehrform/SWS:
@@ -921,15 +809,7 @@ Bitte noch ergänzen
 
 
 
-- Modulverantwortlich: Prof. Dr. Kristian Fischer, Prof. Dr. Mario Winter, Prof. Hans Kornacher, Prof. Dr. Martin Eisemann, Prof. Dr. Christian Kohls, Prof. Dr. Gerhard Hartmann
-- Kürzel: WTWP-E
-- Studiensemester - Wintersemester: 2
-- Studiensemester - Sommersemester: 3
-- Sprache: deutsch
-- Kreditpunkte: 12
-- Voraussetzungen nach Prüfungsordnung: keine
-- Typ: Schwerpunktprojekt
-
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Kristian Fischer, Prof. Dr. Mario Winter, Prof. Hans Kornacher, Prof. Dr. Martin Eisemann, Prof. Dr. Christian Kohls, Prof. Dr. Gerhard Hartmann%end-modulMeta%%begin-modulMeta%**Kürzel**: WTWP-E%end-modulMeta%%begin-modulMeta%**Studiensemester - Wintersemester**: 2%end-modulMeta%%begin-modulMeta%**Studiensemester - Sommersemester**: 3%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 12%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktprojekt%end-modulMeta%
 
 
 ## Kurzbeschreibung
@@ -982,15 +862,7 @@ n/a
 
 
 
-- Modulverantwortlich: Prof. Dr. Kristian Fischer, Prof. Dr. Mario Winter, Prof. Dr. Martin Eisemann, Prof. Dr. Christian Kohls, Prof. Dr. Gerhard Hartmann
-- Kürzel: WTWP-V
-- Studiensemester - Wintersemester: 3
-- Studiensemester - Sommersemester: 1
-- Sprache: deutsch
-- Kreditpunkte: 12
-- Voraussetzungen nach Prüfungsordnung: keine
-- Typ: Schwerpunktprojekt
-
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Kristian Fischer, Prof. Dr. Mario Winter, Prof. Dr. Martin Eisemann, Prof. Dr. Christian Kohls, Prof. Dr. Gerhard Hartmann%end-modulMeta%%begin-modulMeta%**Kürzel**: WTWP-V%end-modulMeta%%begin-modulMeta%**Studiensemester - Wintersemester**: 3%end-modulMeta%%begin-modulMeta%**Studiensemester - Sommersemester**: 1%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 12%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktprojekt%end-modulMeta%
 
 
 ## Kurzbeschreibung
@@ -1041,15 +913,7 @@ n/a
 
 
 
-- Modulverantwortlich: Prof. Dr. Kristian Fischer, Prof. Dr. Mario Winter, Prof. Dr. Martin Eisemann, Prof. Dr. Christian Kohls, Prof. Dr. Gerhard Hartmann
-- Kürzel: WTWP-VK
-- Studiensemester - Wintersemester: 1
-- Studiensemester - Sommersemester: 2
-- Sprache: deutsch
-- Kreditpunkte: 12
-- Voraussetzungen nach Prüfungsordnung: keine
-- Typ: Schwerpunktprojekt
-
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Kristian Fischer, Prof. Dr. Mario Winter, Prof. Dr. Martin Eisemann, Prof. Dr. Christian Kohls, Prof. Dr. Gerhard Hartmann%end-modulMeta%%begin-modulMeta%**Kürzel**: WTWP-VK%end-modulMeta%%begin-modulMeta%**Studiensemester - Wintersemester**: 1%end-modulMeta%%begin-modulMeta%**Studiensemester - Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 12%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktprojekt%end-modulMeta%
 
 
 ## Kurzbeschreibung
@@ -1106,15 +970,7 @@ n/a
 
 
 
-- Modulverantwortlich: Prof. Dr. Kristian Fischer
-- Kürzel: NGT
-- Studiensemester - Wintersemester: 2
-- Studiensemester - Sommersemester: 1
-- Sprache: deutsch
-- Kreditpunkte: 6
-- Voraussetzungen nach Prüfungsordnung: keine
-- Typ: Schwerpunktmodul
-
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Kristian Fischer%end-modulMeta%%begin-modulMeta%**Kürzel**: NGT%end-modulMeta%%begin-modulMeta%**Studiensemester - Wintersemester**: 2%end-modulMeta%%begin-modulMeta%**Studiensemester - Sommersemester**: 1%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktmodul%end-modulMeta%
 
 
 ##Kurzbeschreibung
@@ -1206,15 +1062,7 @@ Mündliche Prüfung
 
 
 
-- Modulverantwortlich: Prof. Dr. Christian Kohls
-- Kürzel: SZ
-- Studiensemester - Wintersemester: 1
-- Studiensemester - Sommersemester: 2
-- Sprache: deutsch
-- Kreditpunkte: 6
-- Voraussetzungen nach Prüfungsordnung: 
-- Typ: Schwerpunktmodul
-
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Christian Kohls%end-modulMeta%%begin-modulMeta%**Kürzel**: SZ%end-modulMeta%%begin-modulMeta%**Studiensemester - Wintersemester**: 1%end-modulMeta%%begin-modulMeta%**Studiensemester - Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: %end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktmodul%end-modulMeta%
 
 
 ## Lehrform/SWS:
@@ -1311,15 +1159,7 @@ Schriftliche Ausarbeitung zu neuen Entwurfsmustern
 
 
 
-- Modulverantwortlich: Prof. Dr. Christian Kohls
-- Kürzel: CSCL
-- Studiensemester - Wintersemester: 1
-- Studiensemester - Sommersemester: 2
-- Sprache: deutsch
-- Kreditpunkte: 6
-- Voraussetzungen nach Prüfungsordnung: 
-- Typ: Wahlpflichtmodul
-
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Christian Kohls%end-modulMeta%%begin-modulMeta%**Kürzel**: CSCL%end-modulMeta%%begin-modulMeta%**Studiensemester - Wintersemester**: 1%end-modulMeta%%begin-modulMeta%**Studiensemester - Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: %end-modulMeta%%begin-modulMeta%**Typ**: Wahlpflichtmodul%end-modulMeta%
 
 
 ## Lehrform/SWS:
@@ -1420,15 +1260,7 @@ Planung und Durchführung einer Onlineveranstaltung (ca. 15 Minuten)
 
 
 
-- Modulverantwortlich: Prof. Dr. Christian Kohls
-- Kürzel: CE
-- Studiensemester - Wintersemester: 1
-- Studiensemester - Sommersemester: 2
-- Sprache: deutsch
-- Kreditpunkte: 6
-- Voraussetzungen nach Prüfungsordnung: 
-- Typ: Wahlpflichtmodul
-
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Christian Kohls%end-modulMeta%%begin-modulMeta%**Kürzel**: CE%end-modulMeta%%begin-modulMeta%**Studiensemester - Wintersemester**: 1%end-modulMeta%%begin-modulMeta%**Studiensemester - Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: %end-modulMeta%%begin-modulMeta%**Typ**: Wahlpflichtmodul%end-modulMeta%
 
 
 ## Lehrform/SWS:
@@ -1501,15 +1333,7 @@ Mündiche Prüfung
 
 
 
-- Modulverantwortlich: Prof. Dr. Martin Eisemann
-- Kürzel: BCG
-- Studiensemester - Wintersemester: 1
-- Studiensemester - Sommersemester: 2
-- Sprache: wahlweise deutsch oder englisch
-- Kreditpunkte: 5
-- Voraussetzungen nach Prüfungsordnung: &nbsp;
-- Typ: Schwerpunktmodul
-
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Martin Eisemann%end-modulMeta%%begin-modulMeta%**Kürzel**: BCG%end-modulMeta%%begin-modulMeta%**Studiensemester - Wintersemester**: 1%end-modulMeta%%begin-modulMeta%**Studiensemester - Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: wahlweise deutsch oder englisch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 5%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: &nbsp;%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktmodul%end-modulMeta%
 
 
 ## Kurzbeschreibung
@@ -1617,15 +1441,7 @@ Die erfolgreiche Teilnahme an den Praktikas ist Voraussetzung für die Klausur (
 
 
 
-- Modulverantwortlich: Prof. Dr. Martin Eisemann
-- Kürzel: PCG
-- Studiensemester - Wintersemester: 3
-- Studiensemester - Sommersemester: 2
-- Sprache: wahlweise deutsch oder englisch
-- Kreditpunkte: 5
-- Voraussetzungen nach Prüfungsordnung: &nbsp;
-- Typ: Wahlpflichtmodul
-
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Martin Eisemann%end-modulMeta%%begin-modulMeta%**Kürzel**: PCG%end-modulMeta%%begin-modulMeta%**Studiensemester - Wintersemester**: 3%end-modulMeta%%begin-modulMeta%**Studiensemester - Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: wahlweise deutsch oder englisch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 5%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: &nbsp;%end-modulMeta%%begin-modulMeta%**Typ**: Wahlpflichtmodul%end-modulMeta%
 
 
 ## Kurzbeschreibung
@@ -1719,15 +1535,7 @@ Die erfolgreiche Teilnahme an den Praktikas ist Voraussetzung für die Klausur (
 
 
 
-- Modulverantwortlich: Prof. Hans Kornacher
-- Kürzel: SNS
-- Studiensemester - Wintersemester: 1
-- Studiensemester - Sommersemester: 2
-- Sprache: &nbsp;
-- Kreditpunkte: 6
-- Voraussetzungen nach Prüfungsordnung: Keine über die Zulassungsbedingungen hinausgehenden Voraussetzungen
-- Typ: Schwerpunktmodul
-
+%begin-modulMeta%**Modulverantwortlich**: Prof. Hans Kornacher%end-modulMeta%%begin-modulMeta%**Kürzel**: SNS%end-modulMeta%%begin-modulMeta%**Studiensemester - Wintersemester**: 1%end-modulMeta%%begin-modulMeta%**Studiensemester - Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: &nbsp;%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: Keine über die Zulassungsbedingungen hinausgehenden Voraussetzungen%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktmodul%end-modulMeta%
 
 
 ## Kurzbeschreibung
@@ -1801,15 +1609,7 @@ Projektarbeit und schriftliche Ausarbeitung
 
 
 
-- Modulverantwortlich: Prof. Dr. Martin Eisemann
-- Kürzel: VI
-- Studiensemester - Wintersemester: 2
-- Studiensemester - Sommersemester: 3
-- Sprache: wahlweise deutsch oder englisch
-- Kreditpunkte: 5
-- Voraussetzungen nach Prüfungsordnung: &nbsp;
-- Typ: Schwerpunktmodul
-
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Martin Eisemann%end-modulMeta%%begin-modulMeta%**Kürzel**: VI%end-modulMeta%%begin-modulMeta%**Studiensemester - Wintersemester**: 2%end-modulMeta%%begin-modulMeta%**Studiensemester - Sommersemester**: 3%end-modulMeta%%begin-modulMeta%**Sprache**: wahlweise deutsch oder englisch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 5%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: &nbsp;%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktmodul%end-modulMeta%
 
 
 ## Kurzbeschreibung
@@ -1939,15 +1739,7 @@ Im speziellen, aber nicht ausschließlich, werden folgende Themen behandelt:
 
 
 
-- Modulverantwortlich: Prof. Dr. Stefan Karsch
-- Kürzel: WTW-ITS
-- Studiensemester - Wintersemester: 1
-- Studiensemester - Sommersemester: 2
-- Sprache: deutsch
-- Kreditpunkte: 6
-- Voraussetzungen nach Prüfungsordnung: keine
-- Typ: Schwerpunktmodul
-
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Stefan Karsch%end-modulMeta%%begin-modulMeta%**Kürzel**: WTW-ITS%end-modulMeta%%begin-modulMeta%**Studiensemester - Wintersemester**: 1%end-modulMeta%%begin-modulMeta%**Studiensemester - Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktmodul%end-modulMeta%
 
 
 ## Lehrform/SWS:
@@ -2091,15 +1883,7 @@ Teil I und Teil II: Klausur sowie selbstständige Erarbeitung, Vortrag und Ausar
 
 
 
-- Modulverantwortlich: Prof. Dr. Kristian Fischer
-- Kürzel: WTW-LSM
-- Studiensemester - Wintersemester: 2
-- Studiensemester - Sommersemester: 3
-- Sprache: deutsch
-- Kreditpunkte: 6
-- Voraussetzungen nach Prüfungsordnung: keine
-- Typ: Wahlpflichtmodul
-
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Kristian Fischer%end-modulMeta%%begin-modulMeta%**Kürzel**: WTW-LSM%end-modulMeta%%begin-modulMeta%**Studiensemester - Wintersemester**: 2%end-modulMeta%%begin-modulMeta%**Studiensemester - Sommersemester**: 3%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Wahlpflichtmodul%end-modulMeta%
 
 
 ## Kurzbeschreibung
@@ -2191,15 +1975,7 @@ Mündliche Prüfung
 
 
 
-- Modulverantwortlich: Prof. Dr. Mario Winter
-- Kürzel: QUS
-- Studiensemester - Wintersemester: 2
-- Studiensemester - Sommersemester: 1
-- Sprache: deutsch, Seminar-Basisliteratur i.d.R. in englischer Sprache
-- Kreditpunkte: 6
-- Voraussetzungen nach Prüfungsordnung: keine
-- Typ: Schwerpunktmodul
-
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Mario Winter%end-modulMeta%%begin-modulMeta%**Kürzel**: QUS%end-modulMeta%%begin-modulMeta%**Studiensemester - Wintersemester**: 2%end-modulMeta%%begin-modulMeta%**Studiensemester - Sommersemester**: 1%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch, Seminar-Basisliteratur i.d.R. in englischer Sprache%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktmodul%end-modulMeta%
 
 
 ## Kurzbeschreibung
@@ -2285,15 +2061,7 @@ Klausur 60 Minuten
 
 
 
-- Modulverantwortlich: Prof. Dr. Kristian Fischer
-- Kürzel: WTW-WBA
-- Studiensemester - Wintersemester: 1
-- Studiensemester - Sommersemester: 2
-- Sprache: deutsch
-- Kreditpunkte: 6
-- Voraussetzungen nach Prüfungsordnung: keine
-- Typ: Schwerpunktmodul
-
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Kristian Fischer%end-modulMeta%%begin-modulMeta%**Kürzel**: WTW-WBA%end-modulMeta%%begin-modulMeta%**Studiensemester - Wintersemester**: 1%end-modulMeta%%begin-modulMeta%**Studiensemester - Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktmodul%end-modulMeta%
 
 
 ## Kurzbeschreibung
@@ -2377,15 +2145,7 @@ Präsentationsmaterialien
 
 
 
-- Modulverantwortlich: Prof. Christian Noss
-- Kürzel: WTW-WD
-- Studiensemester - Wintersemester: 2
-- Studiensemester - Sommersemester: 3
-- Sprache: deutsch
-- Kreditpunkte: 6
-- Voraussetzungen nach Prüfungsordnung: keine
-- Typ: Schwerpunktmodul
-
+%begin-modulMeta%**Modulverantwortlich**: Prof. Christian Noss%end-modulMeta%%begin-modulMeta%**Kürzel**: WTW-WD%end-modulMeta%%begin-modulMeta%**Studiensemester - Wintersemester**: 2%end-modulMeta%%begin-modulMeta%**Studiensemester - Sommersemester**: 3%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktmodul%end-modulMeta%
 
 
 ## Kurzbeschreibung:

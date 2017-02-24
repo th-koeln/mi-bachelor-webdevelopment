@@ -13,3 +13,10 @@ Momentan liegt schon eine Version des Selbstberichts drin. Wie man aber sehen ka
 
 Dein Template für den Selbstbericht `tex/selbstbericht/selbstbericht.tex` habe ich übernommen, und etwas angepasst (`snippets/header.tex` ins Hauptfile gezogen, wegen Schwierigkeiten mit der Referenzierung).
 Es bildet die Basis für alle Latex-Files (`default.tex`). Gäbe es ein `selbstbericht.tex`-Templatefile, würde das im oberen Beispiel anstelle von `default.tex` genommen werden.
+
+
+## Mehrere Docs auf dem Mac zusammenfügen:
+
+```
+"/System/Library/Automator/Combine PDF Pages.action/Contents/Resources/join.py" -o medieninformatik-anhaenge-sonstige.pdf sonstige/*.pdf
+```

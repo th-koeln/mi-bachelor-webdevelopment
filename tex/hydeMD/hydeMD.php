@@ -503,7 +503,7 @@ class Document {
           $tableMarkdown = "\n";
 
           foreach( $tableData as $key => $field ) {
-            $tableMarkdown .= "- " . $field[ 'title' ] . ": " . $field[ 'value' ] . "\n";
+            $tableMarkdown .= "%begin-modulMeta%**" . $field[ 'title' ] . "**: " . $field[ 'value' ] . "%end-modulMeta%";
           }
 
           $tableMarkdown .= "\n";
@@ -709,8 +709,12 @@ class Document {
 	
 	/* Links ins Repo */
 	$latexContent = preg_replace( '=href{\.\./anhaenge=', "href{https://th-koeln.github.io/mi-2017/anhaenge", $latexContent);
-
 	
+	/* schönes Modulköpfe */
+	$latexContent = preg_replace_callback( '/\\\%begin-modulMeta\\\%(.*?)\\\%end-modulMeta\\\%/is', function( $matches ) {
+      return "\begin{modulHead}\n". $matches[1] . "\n\\end{modulHead}\n";
+    }, $latexContent );
+    
     return $latexContent;
   }
 

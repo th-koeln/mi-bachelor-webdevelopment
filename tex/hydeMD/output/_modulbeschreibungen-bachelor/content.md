@@ -3,14 +3,7 @@
 
 
 
-- Modulverantwortlich: Prof. Dr. Frank Victor
-- Kürzel: AP1
-- Studiensemester: 1
-- Sprache: deutsch
-- Kreditpunkte: 8
-- Voraussetzungen nach Prüfungsordnung: keine
-- Typ: Pflichtmodul
-
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Frank Victor%end-modulMeta%%begin-modulMeta%**Kürzel**: AP1%end-modulMeta%%begin-modulMeta%**Studiensemester**: 1%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 8%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
 
 
 ## Lehrform/SWS:
@@ -91,14 +84,7 @@ Klausur sowie erfolgreiche Teilnahme am Praktikum als Prüfungsvorleistung
 
 
 
-- Modulverantwortlich: Prof. Dr. Christian Kohls
-- Kürzel: AP2
-- Studiensemester: 2
-- Sprache: deutsch
-- Kreditpunkte: 7
-- Voraussetzungen nach Prüfungsordnung: Keine über die Zulassungsvorrausetzungen hinausgehenden Vorraussetzungen
-- Typ: Pflichtmodul
-
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Christian Kohls%end-modulMeta%%begin-modulMeta%**Kürzel**: AP2%end-modulMeta%%begin-modulMeta%**Studiensemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 7%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: Keine über die Zulassungsvorrausetzungen hinausgehenden Vorraussetzungen%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
 
 
 ## Lehrform/SWS:
@@ -163,14 +149,7 @@ Klausur sowie erfolgreiche Teilnahme am Praktikum als Prüfungsvorleistung
 
 
 
-- Modulverantwortlich: Prof. Hans Kornacher
-- Kürzel: AVM
-- Studiensemester: 3
-- Sprache: deutsch
-- Kreditpunkte: 5
-- Voraussetzungen nach Prüfungsordnung: Keine über die Zulassungsbedingungen hinausgehenden Voraussetzungen
-- Typ: Pflichtmodul
-
+%begin-modulMeta%**Modulverantwortlich**: Prof. Hans Kornacher%end-modulMeta%%begin-modulMeta%**Kürzel**: AVM%end-modulMeta%%begin-modulMeta%**Studiensemester**: 3%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 5%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: Keine über die Zulassungsbedingungen hinausgehenden Voraussetzungen%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
 
 
 ## Lehrform/SWS:
@@ -261,14 +240,7 @@ Projektarbeit und schriftliche Ausarbeitung
 
 
 
-- Modulverantwortlich: alle Informatik Professoren
-- Kürzel: BA
-- Studiensemester: 6
-- Sprache: deutsch
-- Kreditpunkte: 12
-- Voraussetzungen nach Prüfungsordnung: alle Modulprüfungen außer Bachelorarbeit und Kolloquium bestanden
-- Typ: Pflichtmodul
-
+%begin-modulMeta%**Modulverantwortlich**: alle Informatik Professoren%end-modulMeta%%begin-modulMeta%**Kürzel**: BA%end-modulMeta%%begin-modulMeta%**Studiensemester**: 6%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 12%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: alle Modulprüfungen außer Bachelorarbeit und Kolloquium bestanden%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
 
 
 ## Lehrform/SWS:
@@ -296,14 +268,7 @@ Selbstständiges wissenschaftliches, fachpraktisches und gestalterisches Bearbei
 
 
 
-- Modulverantwortlich: alle Informatik Professoren
-- Kürzel: BK
-- Studiensemester: 6
-- Sprache: deutsch
-- Kreditpunkte: 3
-- Voraussetzungen nach Prüfungsordnung: alle Modulprüfungen außer Bachelor Kolloquium bestanden
-- Typ: Pflichtmodul
-
+%begin-modulMeta%**Modulverantwortlich**: alle Informatik Professoren%end-modulMeta%%begin-modulMeta%**Kürzel**: BK%end-modulMeta%%begin-modulMeta%**Studiensemester**: 6%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 3%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: alle Modulprüfungen außer Bachelor Kolloquium bestanden%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
 
 
 ## Lehrform/SWS:
@@ -336,14 +301,7 @@ mündliche Prüfung, Vortrag
 
 
 
-- Modulverantwortlich: Prof. Dr. Matthias Böhmer, Prof. Dr. Lutz Köhler
-- Kürzel: BS1
-- Studiensemester: 4
-- Sprache: deutsch
-- Kreditpunkte: 5
-- Voraussetzungen nach Prüfungsordnung: keine
-- Typ: Pflichtmodul
-
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Matthias Böhmer, Prof. Dr. Lutz Köhler%end-modulMeta%%begin-modulMeta%**Kürzel**: BS1%end-modulMeta%%begin-modulMeta%**Studiensemester**: 4%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 5%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
 
 
 ## Kurzbeschreibung
@@ -439,14 +397,7 @@ Foliensammlung, ausformuliertes Skript, Beispiellösungen
 
 
 
-- Modulverantwortlich: Prof. Dr. Monika Engelen
-- Kürzel: BWL1
-- Studiensemester: 5
-- Sprache: deutsch
-- Kreditpunkte: 5
-- Voraussetzungen nach Prüfungsordnung: keine
-- Typ: Pflichtmodul
-
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Monika Engelen%end-modulMeta%%begin-modulMeta%**Kürzel**: BWL1%end-modulMeta%%begin-modulMeta%**Studiensemester**: 5%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 5%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
 
 
 ## Lehrform/SWS:
@@ -502,14 +453,7 @@ schriftliche Klausur
 
 
 
-- Modulverantwortlich: Prof. Dr. Birgit Bertelsmeier, Prof. Dr. Heide Faeskorn-Woyke
-- Kürzel: DB1
-- Studiensemester: 3
-- Sprache: Deutsch
-- Kreditpunkte: 5
-- Voraussetzungen nach Prüfungsordnung: Klausurteilnahme nur bei bestandenem DBS1-Praktikum
-- Typ: Pflichtmodul
-
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Birgit Bertelsmeier, Prof. Dr. Heide Faeskorn-Woyke%end-modulMeta%%begin-modulMeta%**Kürzel**: DB1%end-modulMeta%%begin-modulMeta%**Studiensemester**: 3%end-modulMeta%%begin-modulMeta%**Sprache**: Deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 5%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: Klausurteilnahme nur bei bestandenem DBS1-Praktikum%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
 
 
 ## Lehrform/SWS:
@@ -610,14 +554,7 @@ Klausur, deren Voraussetzung das bestandene Praktikum ist, und semesterbegleiten
 
 
 
-- Modulverantwortlich: Prof. Dr. Stefan Karsch
-- Kürzel: EBR
-- Studiensemester: 1
-- Sprache: deutsch
-- Kreditpunkte: 5
-- Voraussetzungen nach Prüfungsordnung: Erfolgreiche Modulprüfungen in den Modulen des Grundstudiums
-- Typ: Pflichtmodul
-
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Stefan Karsch%end-modulMeta%%begin-modulMeta%**Kürzel**: EBR%end-modulMeta%%begin-modulMeta%**Studiensemester**: 1%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 5%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: Erfolgreiche Modulprüfungen in den Modulen des Grundstudiums%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
 
 
 ## Lehrform/SWS:
@@ -667,14 +604,7 @@ Schriftliche Prüfung, zuvor erfolgreiche Teilnahme am Praktikum als Prüfungsvo
 
 
 
-- Modulverantwortlich: Prof. Dr. Martin Eisemann, Prof. Dr. Kristian Fischer, Prof. Dr. Gerhard Hartmann, Prof. Dr. Christian Kohls, Prof. Hans Kornacher, Prof. Christian Noss, Prof. Dr. Mario Winter
-- Kürzel: EMI
-- Studiensemester: 1
-- Sprache: Deutsch
-- Kreditpunkte: 5
-- Voraussetzungen nach Prüfungsordnung: Keine
-- Typ: Pflichtmodul
-
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Martin Eisemann, Prof. Dr. Kristian Fischer, Prof. Dr. Gerhard Hartmann, Prof. Dr. Christian Kohls, Prof. Hans Kornacher, Prof. Christian Noss, Prof. Dr. Mario Winter%end-modulMeta%%begin-modulMeta%**Kürzel**: EMI%end-modulMeta%%begin-modulMeta%**Studiensemester**: 1%end-modulMeta%%begin-modulMeta%**Sprache**: Deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 5%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: Keine%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
 
 
 ## Lehrform/SWS:
@@ -733,14 +663,7 @@ mündliche Prüfung, Projektpräsentation, schriftliche Ausarbeitung
 
 
 
-- Modulverantwortlich: Prof. Dr. Martin Eisemann, Prof. Dr. Kristian Fischer, Prof. Dr. Gerhard Hartmann, Prof. Dr. Christian Kohls, Prof. Hans Kornacher, Prof. Christian Noss, Prof. Dr. Mario Winter
-- Kürzel: EPM
-- Studiensemester: 5
-- Sprache: deutsch
-- Kreditpunkte: 10
-- Voraussetzungen nach Prüfungsordnung: Schwerpunktmodul
-- Typ: Pflichtmodul
-
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Martin Eisemann, Prof. Dr. Kristian Fischer, Prof. Dr. Gerhard Hartmann, Prof. Dr. Christian Kohls, Prof. Hans Kornacher, Prof. Christian Noss, Prof. Dr. Mario Winter%end-modulMeta%%begin-modulMeta%**Kürzel**: EPM%end-modulMeta%%begin-modulMeta%**Studiensemester**: 5%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 10%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: Schwerpunktmodul%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
 
 
 ## Lehrform/SWS:
@@ -779,14 +702,7 @@ Die Projektergebnis, bestehend aus Prototyp und Dokumentation,  geht mit 80% in 
 
 
 
-- Modulverantwortlich: Prof. Dr. Kristian Fischer
-- Kürzel: GW
-- Studiensemester: 3
-- Sprache: deutsch
-- Kreditpunkte: 5
-- Voraussetzungen nach Prüfungsordnung: keine
-- Typ: Pflichtmodul
-
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Kristian Fischer%end-modulMeta%%begin-modulMeta%**Kürzel**: GW%end-modulMeta%%begin-modulMeta%**Studiensemester**: 3%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 5%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
 
 
 ## Kurzbeschreibung
@@ -870,14 +786,7 @@ Mündliche Prüfung
 
 
 
-- Modulverantwortlich: Prof. Dr. Hans L. Stahl
-- Kürzel: KTN
-- Studiensemester: 3
-- Sprache: Deutsch
-- Kreditpunkte: 5
-- Voraussetzungen nach Prüfungsordnung: Kenntnisse aus dem Grundstudium.
-- Typ: Pflichtmodul
-
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Hans L. Stahl%end-modulMeta%%begin-modulMeta%**Kürzel**: KTN%end-modulMeta%%begin-modulMeta%**Studiensemester**: 3%end-modulMeta%%begin-modulMeta%**Sprache**: Deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 5%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: Kenntnisse aus dem Grundstudium.%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
 
 
 ## Lehrform/SWS:
@@ -920,14 +829,7 @@ Grundbegriffe und Grundlagen, Kommunikationssysteme (Modelle, Grundbegriffe), Pr
 
 
 
-- Modulverantwortlich: Prof. Dr. Wolfgang Konen
-- Kürzel: MA1
-- Studiensemester: 1
-- Sprache: deutsch
-- Kreditpunkte: 7
-- Voraussetzungen nach Prüfungsordnung: &nbsp;
-- Typ: Pflichtmodul
-
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Wolfgang Konen%end-modulMeta%%begin-modulMeta%**Kürzel**: MA1%end-modulMeta%%begin-modulMeta%**Studiensemester**: 1%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 7%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: &nbsp;%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
 
 
 ## Lehrform/SWS:
@@ -991,14 +893,7 @@ Klausur (60 min) sowie erfolgreiche Teilnahme am Praktikum als Zulassungsvorauss
 
 
 
-- Modulverantwortlich: Prof. Dr. Wolfgang Konen
-- Kürzel: MA2
-- Studiensemester: 2
-- Sprache: deutsch
-- Kreditpunkte: 8
-- Voraussetzungen nach Prüfungsordnung: Keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden. Der vorherige Besuch von Mathematik I ist sinnvoll, aber keine zwingende Voraussetzung.
-- Typ: Pflichtmodul
-
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Wolfgang Konen%end-modulMeta%%begin-modulMeta%**Kürzel**: MA2%end-modulMeta%%begin-modulMeta%**Studiensemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 8%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: Keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden. Der vorherige Besuch von Mathematik I ist sinnvoll, aber keine zwingende Voraussetzung.%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
 
 
 ## Lehrform/SWS:
@@ -1054,14 +949,7 @@ Klausur (60 min) sowie erfolgreiche Teilnahme am Praktikum als Zulassungsvorauss
 
 
 
-- Modulverantwortlich: Prof. Dr. Gerhard Hartmann
-- Kürzel: MCI
-- Studiensemester: 2
-- Sprache: deutsch
-- Kreditpunkte: 10
-- Voraussetzungen nach Prüfungsordnung: keine
-- Typ: Pflichtmodul
-
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Gerhard Hartmann%end-modulMeta%%begin-modulMeta%**Kürzel**: MCI%end-modulMeta%%begin-modulMeta%**Studiensemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 10%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
 
 
 ## Lehrform/SWS:
@@ -1178,14 +1066,7 @@ schriftliche Modulprüfung
 
 
 
-- Modulverantwortlich: Prof. Dr. Mario Winter
-- Kürzel: IRG
-- Studiensemester: 5
-- Sprache: deutsch
-- Kreditpunkte: 5
-- Voraussetzungen nach Prüfungsordnung: keine
-- Typ: Pflichtmodul
-
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Mario Winter%end-modulMeta%%begin-modulMeta%**Kürzel**: IRG%end-modulMeta%%begin-modulMeta%**Studiensemester**: 5%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 5%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
 
 
 ## Lehrform/SWS:
@@ -1327,14 +1208,7 @@ Beamergestützte Vorträge
 
 
 
-- Modulverantwortlich: Prof. Dr. Christian Kohls
-- Kürzel: PP
-- Studiensemester: 3
-- Sprache: deutsch
-- Kreditpunkte: 5
-- Voraussetzungen nach Prüfungsordnung: Keine über die Zulassungsvorrausetzungen hinausgehenden Vorraussetzungen
-- Typ: Pflichtmodul
-
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Christian Kohls%end-modulMeta%%begin-modulMeta%**Kürzel**: PP%end-modulMeta%%begin-modulMeta%**Studiensemester**: 3%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 5%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: Keine über die Zulassungsvorrausetzungen hinausgehenden Vorraussetzungen%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
 
 
 ## Lehrform/SWS:
@@ -1411,14 +1285,7 @@ Klausur sowie erfolgreiche Teilnahme am Praktikum als Prüfungsvorleistung
 
 
 
-- Modulverantwortlich: alle Informatik Professoren
-- Kürzel: PP
-- Studiensemester: 6
-- Sprache: deutsch
-- Kreditpunkte: 10
-- Voraussetzungen nach Prüfungsordnung: alle Modulprüfungen außer Praxisprojekt, Bachelorarbeit und Kolloquium bestanden
-- Typ: Pflichtmodul
-
+%begin-modulMeta%**Modulverantwortlich**: alle Informatik Professoren%end-modulMeta%%begin-modulMeta%**Kürzel**: PP%end-modulMeta%%begin-modulMeta%**Studiensemester**: 6%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 10%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: alle Modulprüfungen außer Praxisprojekt, Bachelorarbeit und Kolloquium bestanden%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
 
 
 ## Lehrform/SWS:
@@ -1455,14 +1322,7 @@ Schriftliche Ausarbeitung, Projektdokumentation
 
 
 
-- Modulverantwortlich: Prof. Christian Noss
-- Kürzel: PPS
-- Studiensemester: 6
-- Sprache: deutsch
-- Kreditpunkte: 5
-- Voraussetzungen nach Prüfungsordnung: alle Modulprüfungen außer Bachelorarbeit und Kolloquium bestanden
-- Typ: Pflichtmodul
-
+%begin-modulMeta%**Modulverantwortlich**: Prof. Christian Noss%end-modulMeta%%begin-modulMeta%**Kürzel**: PPS%end-modulMeta%%begin-modulMeta%**Studiensemester**: 6%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 5%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: alle Modulprüfungen außer Bachelorarbeit und Kolloquium bestanden%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
 
 
 ## Lehrform/SWS:
@@ -1518,14 +1378,7 @@ Seminarvortrag zur Praxisprojektarbeit
 
 
 
-- Modulverantwortlich: Prof. Dr. Holger Günther, Prof. Dr. Mario Winter
-- Kürzel: PM
-- Studiensemester: 5
-- Sprache: deutsch
-- Kreditpunkte: 5
-- Voraussetzungen nach Prüfungsordnung: Zulassungsbedingung - Abgeschlossenes Grundstudium; Sonst keine besonderen Voraussetzungen;
-- Typ: Pflichtmodul
-
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Holger Günther, Prof. Dr. Mario Winter%end-modulMeta%%begin-modulMeta%**Kürzel**: PM%end-modulMeta%%begin-modulMeta%**Studiensemester**: 5%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 5%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: Zulassungsbedingung - Abgeschlossenes Grundstudium; Sonst keine besonderen Voraussetzungen;%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
 
 
 ## Kurzbeschreibung:
@@ -1635,14 +1488,7 @@ Damit die Studierenden die vorgestellten Methoden und Techniken zum Management v
 
 
 
-- Modulverantwortlich: Prof. Christian Noss
-- Kürzel: SD
-- Studiensemester: 3
-- Sprache: deutsch
-- Kreditpunkte: 5
-- Voraussetzungen nach Prüfungsordnung: keine
-- Typ: Pflichtmodul
-
+%begin-modulMeta%**Modulverantwortlich**: Prof. Christian Noss%end-modulMeta%%begin-modulMeta%**Kürzel**: SD%end-modulMeta%%begin-modulMeta%**Studiensemester**: 3%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 5%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
 
 
 ## Lehrform/SWS:
@@ -1759,14 +1605,7 @@ Beamergestützte Vorträge, Rechnergestützte  Workshops
 
 
 
-- Modulverantwortlich: Prof. Dr. Mario Winter
-- Kürzel: ST1
-- Studiensemester: 4
-- Sprache: deutsch
-- Kreditpunkte: 5
-- Voraussetzungen nach Prüfungsordnung: Keine über die Zulassungsbedingungen hinausgehenden Voraussetzungen
-- Typ: Pflichtmodul
-
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Mario Winter%end-modulMeta%%begin-modulMeta%**Kürzel**: ST1%end-modulMeta%%begin-modulMeta%**Studiensemester**: 4%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 5%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: Keine über die Zulassungsbedingungen hinausgehenden Voraussetzungen%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
 
 
 ## Kurzbeschreibung:
@@ -1858,14 +1697,7 @@ Klausur 120 Minuten
 
 
 
-- Modulverantwortlich: Prof. Dr. Martin Eisemann
-- Kürzel: TI1
-- Studiensemester: 1
-- Sprache: deutsch
-- Kreditpunkte: 5
-- Voraussetzungen nach Prüfungsordnung: Einfache Kenntnisse der naiven Mengenlehre, wie sie in der Schule vermittelt und bei der mathematischen Begriffsbildung verwendet werden.
-- Typ: Pflichtmodul
-
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Martin Eisemann%end-modulMeta%%begin-modulMeta%**Kürzel**: TI1%end-modulMeta%%begin-modulMeta%**Studiensemester**: 1%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 5%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: Einfache Kenntnisse der naiven Mengenlehre, wie sie in der Schule vermittelt und bei der mathematischen Begriffsbildung verwendet werden.%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
 
 
 ## Lehrform/SWS:
@@ -1970,14 +1802,7 @@ Vorlesung mit Übung
 
 
 
-- Modulverantwortlich: Prof. Dr. Martin Eisemann
-- Kürzel: TI2
-- Studiensemester: 2
-- Sprache: deutsch
-- Kreditpunkte: 5
-- Voraussetzungen nach Prüfungsordnung: Einfache Kenntnisse der naiven Mengenlehre, wie sie in der Schule vermittelt und bei der mathematischen Begriffsbildung verwendet werden.
-- Typ: Pflichtmodul
-
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Martin Eisemann%end-modulMeta%%begin-modulMeta%**Kürzel**: TI2%end-modulMeta%%begin-modulMeta%**Studiensemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 5%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: Einfache Kenntnisse der naiven Mengenlehre, wie sie in der Schule vermittelt und bei der mathematischen Begriffsbildung verwendet werden.%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
 
 
 ## Lehrform/SWS:
@@ -2082,14 +1907,7 @@ Vorlesung und praktische Übungen
 
 
 
-- Modulverantwortlich: Prof. Hans Kornacher, Prof. Dr. Martin Eisemann
-- Kürzel: VC
-- Studiensemester: 4
-- Sprache: deutsch
-- Kreditpunkte: 20
-- Voraussetzungen nach Prüfungsordnung: keine
-- Typ: Vertiefungsmodul
-
+%begin-modulMeta%**Modulverantwortlich**: Prof. Hans Kornacher, Prof. Dr. Martin Eisemann%end-modulMeta%%begin-modulMeta%**Kürzel**: VC%end-modulMeta%%begin-modulMeta%**Studiensemester**: 4%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 20%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Vertiefungsmodul%end-modulMeta%
 
 
 ## Kurzbeschreibung
@@ -2492,14 +2310,7 @@ Beamergestützte Vorträge, Rechnergestützte Workshops
 
 
 
-- Modulverantwortlich: Prof. Dr. Kristian Fischer
-- Kürzel: WD
-- Studiensemester: 4
-- Sprache: deutsch
-- Kreditpunkte: 20
-- Voraussetzungen nach Prüfungsordnung: keine
-- Typ: Vertiefungsmodul
-
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Kristian Fischer%end-modulMeta%%begin-modulMeta%**Kürzel**: WD%end-modulMeta%%begin-modulMeta%**Studiensemester**: 4%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 20%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Vertiefungsmodul%end-modulMeta%
 
 
 ## Kurzbeschreibung
@@ -2684,14 +2495,7 @@ Beamergestützte Vorträge, Rechnergestützte Workshops
 
 
 
-- Modulverantwortlich: Prof. Dr. Christian Kohls
-- Kürzel: SC
-- Studiensemester: 4
-- Sprache: deutsch
-- Kreditpunkte: 20
-- Voraussetzungen nach Prüfungsordnung: keine
-- Typ: Vertiefungsmodul
-
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Christian Kohls%end-modulMeta%%begin-modulMeta%**Kürzel**: SC%end-modulMeta%%begin-modulMeta%**Studiensemester**: 4%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 20%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Vertiefungsmodul%end-modulMeta%
 
 
 ## Kurzbeschreibung
@@ -2773,14 +2577,7 @@ siehe jeweilige Kursbeschreibung
 
 
 
-- Modulverantwortlich: alle Informatik Professoren
-- Kürzel: WPF
-- Studiensemester: 5
-- Sprache: deutsch
-- Kreditpunkte: 5
-- Voraussetzungen nach Prüfungsordnung: keine
-- Typ: Pflichtmodul
-
+%begin-modulMeta%**Modulverantwortlich**: alle Informatik Professoren%end-modulMeta%%begin-modulMeta%**Kürzel**: WPF%end-modulMeta%%begin-modulMeta%**Studiensemester**: 5%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 5%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
 
 
 ## Lehrform/SWS:
