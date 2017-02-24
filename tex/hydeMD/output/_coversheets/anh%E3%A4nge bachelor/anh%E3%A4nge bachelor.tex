@@ -1,0 +1,242 @@
+%styles
+%Da Latex für englischsprachige Texte ausgerichtet ist,
+%wird als Dokumentenklasse das "`scrbook"' von Markus Kohm verwendet.
+%Dieses ist für deutschsprachige Texte ausgelegt.
+%BCOR12mm: 12mm Bindekorrektur (Verbreiterung des linken Randes)
+%DIV11: entspricht in etwas der geforderten Textgröße und Seitenränder
+%titlepage: eine Titelseite wird verwendet
+%a4paper: DIN A4
+%oneside: für eine spätere einseitige Bedruckung
+\documentclass[BCOR12mm,DIV11,titlepage,a4paper,oneside,10pt]{scrbook}
+
+
+% Farben definieren
+\usepackage{color}
+\usepackage[html]{xcolor}
+\definecolor{m_green}{HTML}{00AD2F}
+%\definecolor{m_pink}{HTML}{D40B6F}
+\definecolor{m_pink}{HTML}{dd1166}
+\definecolor{m_grey}{HTML}{555555}
+\definecolor{m_lila}{HTML}{9313ce}
+\definecolor{m_blau}{HTML}{4952e1}
+
+% Paket Positionierung von Grafiken
+\usepackage[export]{adjustbox}
+
+%Paket für deutsche Silbentrennung etc.
+\usepackage{ngerman}
+
+%Paket für Zeichenkodierung, entspricht UTF-8
+\usepackage[utf8x]{inputenc}
+
+\usepackage{tocloft}
+\newcommand{\listfootnotesname}{Auflistung aller Fußnoten}% 'List of Footnotes' title
+\newlistof[chapter]{footnotes}{fnt}{\listfootnotesname}% New 'List of...' for footnotes
+\let\oldfootnote\footnote % Save the old \footnote{...} command
+\renewcommand\footnote[1]{% Redefine the new footnote to also add 'List of Footnote' entries.
+    \refstepcounter{footnotes}% Add and step a reference to the footnote/counter.
+    \oldfootnote{#1}% Make a regular footnote.
+    \addcontentsline{fnt}{footnotes}{\protect
+\numberline{\thefootnotes}#1}% Add the 'List of...' entry.
+}
+
+%Paket das die Ausgabefonts definiert
+\usepackage[T1]{fontenc}
+
+%Paket für das Einbinden von Grafiken über die figure-Umgebung
+\usepackage{graphicx}
+\usepackage{grffile}
+
+\usepackage{float}
+
+%Paket für mehrseitige Tabellen
+\usepackage{longtable}
+\setlength\LTleft{0pt}
+\setlength\LTright{0pt}
+
+\usepackage{booktabs}
+
+%Paket zum \UTF{0192}ndern der Kopf- und Fußzeile
+\usepackage{fancyhdr}
+
+%Benutzt das Paket für eigenen Seitenstil
+\pagestyle{fancy}
+
+%Erzeugt eine Linie in der Kopfzeile (lässt sich mit 0.0pt ausblenden)
+\renewcommand*{\headrulewidth}{0.1pt}
+\renewcommand{\headrule}{\hbox to\headwidth{%
+  \color{m_pink}\leaders\hrule height \headrulewidth\hfill}}
+\lhead{} %Kopfzeile links
+
+%\chead{\thepage} %Kopfzeile mitte
+\chead{\includegraphics[height=20pt]{../assets/box.pdf}}
+\rhead{} %Kopfzeile rechts
+\lfoot{} %Fußzeile links
+\cfoot{} %Fußzeile mitte
+\rfoot{} %Fußzeile rechts
+\makeatother
+
+
+\newcommand{\changefont}{%
+    \fontsize{9}{11}\selectfont
+}
+
+
+\setlength\headheight{60pt}
+\setlength\footheight{40pt}
+%\lfoot{\includegraphics[height=40pt]{../assets/box.pdf}}
+\rfoot{\thepage}
+\lfoot{\changefont Anhänge Bachelor Medieninformatik\\TH Köln // Institut für Informatik\\ \today}
+
+
+%\UTF{0192}ndert die Seitennummerierung beim Inhaltsverzeichnis mit eigenem Stil
+\renewcommand*{\indexpagestyle}{fancy}
+%Verhindert die Seitennummerierung auf den Part-Seiten
+\renewcommand*{\partpagestyle}{empty}
+%\UTF{0192}ndert die Seitennummerierung bei Chapter mit eigenem Stil
+\renewcommand*{\chapterpagestyle}{fancy}
+
+%Abbildungsnummerierung ändern (abhängig von chapter, z.B. Abbildung 1.1)
+\renewcommand*{\thefigure}{\thechapter.\arabic{figure}}
+%Tabellennummerierung ändern (abhängig von chapter, z.B. Tabelle 1.1)
+\renewcommand*{\thetable}{\thechapter.\arabic{table}}
+
+%Paket, um ein Glossar/Abkürzungsverzeichnis anzulegen
+\usepackage{nomencl}
+\let\abbrev\nomenclature
+%Der Name wird in Glossar geändert
+\renewcommand{\nomname}{Glossar}
+%Definiert die Aufteilung im Glossar zwischen Begriffen und Erläuterung
+\setlength{\nomlabelwidth}{.25\hsize}
+%Definiert die Punktelinien im Glossar
+\renewcommand{\nomlabel}[1]{#1 \dotfill}
+\setlength{\nomitemsep}{-\parsep}
+%Veranlasst die Erstellung des Glossars
+\makenomenclature
+
+%Einrückungen nach Absätzen und Grafiken verhindern
+\setlength{\parindent}{0pt}
+
+%Verhindern, dass eine neue Seite für ein einzelnes Wort/Zeile verwendet wird
+\clubpenalty = 10000 % schliesst Schusterjungen aus
+\widowpenalty = 10000 % schliesst Hurenkinder aus (keine Beleidigung, sondern wirklich ein Fachbegriff)
+
+%Paket für ein deutsches Literaturverzeichnis
+\usepackage{bibgerm}
+
+%Paket für die Verwendung von URLs durch den Befehl \url{}
+\usepackage{url}
+
+%Paket für Zeilenabstand (onehalfspace, singlespace)
+\usepackage{setspace}
+
+%Paket zur Erzeugung von Anführungszeichen durch \enquote{Text}
+\usepackage[ngerman]{babel}
+\usepackage[babel, german=quotes]{csquotes}
+
+%Paket für farbigen Text
+%black,white,green,red,blue,yellow,cyan,magenta
+\usepackage{color}
+
+%Paket für farbigen Hintergrund für Verbatim-Umgebung (Quelltext-Umgebung)
+\usepackage{fancyvrb}
+\usepackage{verbatim,moreverb}
+%Grauton für Quelltext-Umgebung definieren 80% Grau
+\definecolor{sourcegray}{gray}{.80}
+%Paket für Quelltext-Umgebung
+\usepackage{listings}
+
+%Paket für Positionierung der Objekte ohne Float (Verwendungsbsp.: \begin{figure}[H])
+\usepackage{float}
+
+%Paket zur Erzeugung von Hyperrefs und PDF Informationen
+\usepackage[pdftex,plainpages=false,pdfpagelabels,
+            pdftitle={ Anhänge Bachelor Medieninformatik // TH Köln // Institut für Informatik},
+            pdfauthor={}
+            ]{hyperref}
+
+\usepackage{pdfpages}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+\usepackage{tabularx}
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
+\newcolumntype{C}[1]{>{\centering\arraybackslash}p{#1}}
+\newcolumntype{R}[1]{>{\raggedleft\arraybackslash}p{#1}}
+
+% URL
+\usepackage{hyperref}
+
+% Sonderzeichen
+\usepackage{textcomp}
+\usepackage{eurosym}
+
+\usepackage{setspace}
+\renewcommand{\baselinestretch}{1.2}
+\setlength{\parskip}{1em}
+
+\usepackage[sfdefault,light]{roboto}  %% Option 'sfdefault' only if the base font of the document is to be sans serif
+
+
+\usepackage[raggedright]{titlesec}
+\titleformat{\chapter}
+  {\normalfont\sffamily\mdseries}
+  {}{1px}{\huge\raggedright}
+  \titlespacing*{\chapter}{0cm}{0pt}{0pt}[0pt]
+% {\chaptertitlename\ \thechapter}{14pt}{\huge\raggedright}
+\titleformat{\section}
+  {\singlespacing\normalfont\sffamily\mdseries\large\color{m_pink}\raggedright}
+  {\thesection}{1em}{\large}
+  \titlespacing*{\section}{0pt}{0pt}{-\topskip/2}[0pt]
+\titleformat{\subsection}
+  {\singlespacing\normalfont\sffamily\mdseries\large\raggedright}
+  {\thesubsection}{1em}{\large}
+% Zeilenumbruch und Spacing fÃŒr AbsÃ€tze
+\titleformat{\paragraph}[hang]
+  {\singlespacing\normalfont\normalsize\bfseries}
+  {\theparagraph}{1pt}{}
+\titlespacing*{\paragraph}{0pt}{3.25ex plus 1ex minus .2ex}{0.5em}
+
+\usepackage[font=footnotesize]{caption}
+
+\usepackage{enumitem}
+\setlist{leftmargin=1em}
+
+% Footer definieren
+\makeatletter
+\def\footrule{{
+  \vskip-\footruleskip\vskip-\footrulewidth
+  \color{\footrulecolor}
+  \hrule\@width\headwidth\@height
+  \footrulewidth\vskip\footruleskip
+}}
+\makeatother
+\renewcommand{\footrulewidth}{0.1pt}
+\newcommand{\footrulecolor}{m_green}
+
+
+
+\begin{document}
+
+
+% Coversheet
+
+\begin{titlepage}
+
+	\includegraphics[width=0.25\textwidth]{../../../../assets/logo_th_koeln.pdf}
+
+	\vspace{2cm}
+	{\Huge\singlespacing\raggedright Anhänge Bachelor\par}
+	\vspace{1cm}
+	{\Large TH Köln – Campus Gummersbach \ Fakultät für Informatik und Ingenieurwissenschaften \ Institut für Informatik\par}
+
+	\vfill
+
+% Bottom of the page
+	{\large \today\par}
+\end{titlepage}
+
+
+
+\end{document}

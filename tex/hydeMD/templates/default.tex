@@ -51,6 +51,20 @@
 
 \usepackage{float}
 
+\usepackage{mdframed}
+\newmdenv[
+  topline=false,
+  bottomline=false,
+  rightline=false,
+  linewidth=2pt,
+  linecolor=m_pink,
+  innertopmargin=14pt,
+  innerbottommargin=14pt,
+  backgroundcolor=black!5,
+  skipabove=\topsep,
+  skipbelow=\topsep
+]{siderules}
+
 %Paket für mehrseitige Tabellen
 \usepackage{longtable}
 \setlength\LTleft{0pt}

@@ -544,7 +544,7 @@ class Document {
         return '\\' . $matches[1];
       }, $attachment[ 'href' ] );
 
-      $href = str_replace( '../anhaenge', 'anhaenge', $href );
+      $href = str_replace( '../anhaenge', 'https://th-koeln.github.io/mi-2017/anhaenge', $href );
 
       if( strpos( $href, $title ) !== False ) {
         //$attachmentsLatex[] = "\item{\\href{" . $href . "}{" . $href . "} } \n";
@@ -695,7 +695,7 @@ class Document {
         return '\\' . $symMatches[1];
       }, $url );
 
-      //return '\href{' . $url . '}{' . $url . '}';
+	  
       return '\url{'.$url.'}';
     }, $latexContent );
 
@@ -703,7 +703,14 @@ class Document {
     $latexContent = preg_replace_callback( '/\\\begin{\\s*itemize\\s*}(.*?)\\\item/is', function( $matches ) {
       return "\\begin{itemize}\n\\tightlist\n\\item";
     }, $latexContent );
+	
+	/* SChöne Zitate */
+	$latexContent = preg_replace( '/{quote}/', "{siderules}", $latexContent);
+	
+	/* Links ins Repo */
+	$latexContent = preg_replace( '=href{\.\./anhaenge=', "href{https://th-koeln.github.io/mi-2017/anhaenge", $latexContent);
 
+	
     return $latexContent;
   }
 
