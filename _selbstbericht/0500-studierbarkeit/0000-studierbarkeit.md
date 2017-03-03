@@ -73,7 +73,7 @@ Das Diploma Supplement der zur Reakkrediterung beantragten Studiengänge ist im 
 
 Die Medieninformatik beteiligt sich an folgenden Veranstaltungen zur Beratung von Studieninteressierten:
 
-Regelmäßig wird im Mai ein „Schnupperstudium“ durchgeführt, an dem rund 150 Schüler, teilweise mit ihren Lehrern teilnehmen, um die Fachhochschule kennen zu lernen.
+Regelmäßig wird im Mai ein „Schnupperstudium“ durchgeführt, an dem rund 150 Schüler, teilweise mit ihren Lehrern teilnehmen, um die Hochschule kennen zu lernen.
 
 Das Medieninformatik beteiligt sich regelmäßig mit eigenen Veranstaltungen an dem bundesweit jährlich stattfindenden Girls-Day, an dem rund 50 Schülerinnen speziell für ein Informatik-Studium oder ein ingenieurwissenschaftliches Studium in Gummersbach begeistert werden sollen.
 

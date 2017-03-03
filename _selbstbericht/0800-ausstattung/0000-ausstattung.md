@@ -10,7 +10,7 @@ reviewed-von:
 
 ## Weiterbildung
 
-Das Kompetenzteam Hochschuldidaktik der TH Köln bietet für alle Lehrenden hochschuldidaktische Fort- und Weiterbildungen in vielfältiger Form an. Um die Lern- und Lehrkultur stetig weiter zu entwickeln wurden eine Vielzahl von Programmen (z.B. Profil-Hoch-Zwei, Exzellente Lehre, Come in-Commit, etc.) entwickelt, die fest in den Hochschulalltag integriert sind. Details zu den vielfältigen Aktivitäten und Ressourcen finden sich beschrieben unter: https://www.th-koeln.de/hochschule/lehr--und-lernkultur_6277.php.
+Das Kompetenzteam Hochschuldidaktik der TH Köln bietet für alle Lehrenden hochschuldidaktische Fort- und Weiterbildungen in vielfältiger Form an. Um die Lern- und Lehrkultur stetig weiter zu entwickeln wurden eine Vielzahl von Programmen (z.B. ProfiL2, Exzellente Lehre, Come in-Commit, etc.) entwickelt, die fest in den Hochschulalltag integriert sind. Details zu den vielfältigen Aktivitäten und Ressourcen finden sich beschrieben unter: https://www.th-koeln.de/hochschule/lehr--und-lernkultur_6277.php.
 
 ## Verleih
 

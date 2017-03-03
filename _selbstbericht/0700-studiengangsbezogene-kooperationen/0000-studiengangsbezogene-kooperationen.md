@@ -18,7 +18,7 @@ reviewed-von:
 
 Innerhalb der Hochschule wird eine enge Kooperation mit einigen in Köln angesiedelten Fakultäten gepflegt. Zu nennen sind hier vor allem die Bereiche Design, Informations-, Medien- und Elektrotechnik, Wirtschafts- und Rechtswissenschaften, Informations- und Kommunikationswissenschaften, Architektur, Sporthochschule sowie angewandte Sozialwissenschaften.
 
-Mit der „Köln International School of Design“ als interne Einrichtung der „Fakultät für Kulturwissenschaften“ (Fakultät 02) und der „Fakultät für angewandte Sozialwissenschaften“ (Fakultät 01) werden gemeinsame Lehrveranstaltungen durchgeführt. Das Modul „Wissensmanagement“ des Masterstudiengangs bspw. wurde bereits mehrfach von der „Fakultät für Wirtschafts- und Rechtswissenschaften“ der Fachhochschule Köln (Fakultät 04) importiert. 
+Mit der „Köln International School of Design“ als interne Einrichtung der „Fakultät für Kulturwissenschaften“ (Fakultät 02) und der „Fakultät für angewandte Sozialwissenschaften“ (Fakultät 01) werden gemeinsame Lehrveranstaltungen durchgeführt. Das Modul „Wissensmanagement“ des Masterstudiengangs bspw. wurde bereits mehrfach von der „Fakultät für Wirtschafts- und Rechtswissenschaften“ der TH Köln (Fakultät 04) importiert. 
 
 Die Errichtung eines kooperativen Studiengangs eScience ist geplant.
 
@@ -47,7 +47,7 @@ Unter den gleichen formalen Bedingungen existiert seit vielen Jahren eine Kooper
 
 Seit 1994 existiert die Partnerschaft mit der staatlichen Universität für das Verkehrswesen in Moskau (Moskowskij Gosudarstwennyi Universitet Putej Soobschtschenija – kurz MIIT). Bisher wurden über 20 russische Studierende und Doktoranden i.d.R. in 1-jährigen Studien-, Praxis- und Forschungsaufenthalte durch die Fakultät betreut. Umgekehrt sind bisher ca. 10 deutsche Studierende und wissenschaftliche Mitarbeiter an die russische Partnerhochschule zwecks Durchführung von Studien- und Forschungsprojekten bzw. Kurzzeitdozenturen gegangen.
 
-Als Partner der Fakultät für Wirtschaftswissenschaften (Fakultät 04) der Fachhochschule Köln hat das Institut für Informatik entscheidend am Aufbau eines Studiengangs für Wirtschaftsinformatik an der Staatlichen Akademie für das Bauwesen in Nishnij Novgorod, Russland mitgewirkt. Hieraus resultieren mehrere Austauschprojekte auf Studierenden- und Hochschullehrerebene.
+Als Partner der Fakultät für Wirtschaftswissenschaften (Fakultät 04) der TH Köln hat das Institut für Informatik entscheidend am Aufbau eines Studiengangs für Wirtschaftsinformatik an der Staatlichen Akademie für das Bauwesen in Nishnij Novgorod, Russland mitgewirkt. Hieraus resultieren mehrere Austauschprojekte auf Studierenden- und Hochschullehrerebene.
 
 2003 wurde ein Partnerschaftsabkommen mit der Ho Tschi Minh Universität in Saigon, Vietnam geschlossen. Ein regelmäßiger Austausch von Professoren findet statt.
 
@@ -64,32 +64,32 @@ Mit der UEM (Universidad Europea de Madrid) wird das ERASMUS-Abkommen genutzt, u
 Derzeit läuft ein internationales Web-Development Projekt mit Studierenden der Medieninformatik und Studierenden der Université Paris 13, Technological Educational Institute of Athens, Universidade de Coimbra und Technical University of Sofia.
 
 Weitere Hochschulen, mit denen Erasmuskontrakte existieren bzw. Studierende in beiden Richtungen ausgetauscht wurden, sind:
- - Oyonnax, Frankreich, Ecole Supérieure de Plasturgie - F OYONNAX
- - Gdansk, Polen, Politechnika Gdanska - PL GDANSK02
- - Krosno, Polen, Państwowa Wyższa Szkoła Zawodowa w Krośnie - PL KROSNO01
- - Luzern, Schweiz, Horw - Fachhochschule Zentralschweiz Hochschule für Technik und Architektur Luzern (HTA) - CH HORW02
- - Alcalá de Henares, Spanien - Universidad de Alcalá - E ALCAL-H01
- - Istanbul, Türkai, Istanbul Teknik Üniversitesi - TR ISTANBU04
- - Istanbul, Türkei - Istanbul Universitesi - TR ISTANBU03
- - Tampere, Finnland, Tampereen Yliopisto - SF TAMPERE01
- - Graz, Österreich, CAMPUS 02 Fachhochschule der Wirtschaft - A GRAZ10
- - Wels, Österreich, Fachhochschule Oberösterreich - A WELS01
- - Wien, Österreich, Fachhochschule Technikum Wien - A WIEN20
- - Iași, Rumänien, Universitatea 'Alexandru Ioan Cuza' - RO IASI02
- - Cluj-Napoca, Rumänien, Universitatea 'Babes-Bolyai' din Cluj-Napoca - RO CLUJNAP01
- - Delémont, Schweiz, HES-SO Haute École Spécialisée de Suisse Occidentale - CH DELEMON02
- - Luzern, Schweiz, Hochschule Luzern - CH LUZERN14
- - Tessin, Schweiz, Scuola universitaria professionale della Svizzera italiana (SUPSI) - CH LUGANO02
- - Burgos, Spanien, Universidad de Burgos - E BURGOS01
- - Madrid, Spanien, Universidad Europea de Madrid - E MADRID18
- - Huelva, Spanien, Universidad de Huelva - E HUELVA01
- - Valencia, Spanien, Universidad de Valencia - E VALENCI01
+- Oyonnax, Frankreich, Ecole Supérieure de Plasturgie - F OYONNAX
+- Gdansk, Polen, Politechnika Gdanska - PL GDANSK02
+- Krosno, Polen, Państwowa Wyższa Szkoła Zawodowa w Krośnie - PL KROSNO01
+- Luzern, Schweiz, Horw - Fachhochschule Zentralschweiz Hochschule für Technik und Architektur Luzern (HTA) - CH HORW02
+- Alcalá de Henares, Spanien - Universidad de Alcalá - E ALCAL-H01
+- Istanbul, Türkai, Istanbul Teknik Üniversitesi - TR ISTANBU04
+- Istanbul, Türkei - Istanbul Universitesi - TR ISTANBU03
+- Tampere, Finnland, Tampereen Yliopisto - SF TAMPERE01
+- Graz, Österreich, CAMPUS 02 Fachhochschule der Wirtschaft - A GRAZ10
+- Wels, Österreich, Fachhochschule Oberösterreich - A WELS01
+- Wien, Österreich, Fachhochschule Technikum Wien - A WIEN20
+- Iași, Rumänien, Universitatea 'Alexandru Ioan Cuza' - RO IASI02
+- Cluj-Napoca, Rumänien, Universitatea 'Babes-Bolyai' din Cluj-Napoca - RO CLUJNAP01
+- Delémont, Schweiz, HES-SO Haute École Spécialisée de Suisse Occidentale - CH DELEMON02
+- Luzern, Schweiz, Hochschule Luzern - CH LUZERN14
+- Tessin, Schweiz, Scuola universitaria professionale della Svizzera italiana (SUPSI) - CH LUGANO02
+- Burgos, Spanien, Universidad de Burgos - E BURGOS01
+- Madrid, Spanien, Universidad Europea de Madrid - E MADRID18
+- Huelva, Spanien, Universidad de Huelva - E HUELVA01
+- Valencia, Spanien, Universidad de Valencia - E VALENCI01
 
 Weitere Hochschulen mit denen Kooperationen bestehen sind:
-  - Kobe, Japan, Kobe Institut
-  - Leiden, Niederlande, Universiteit Leiden
-  - Amman, Jordanien, GJU (German Jordanian University)
-  - Monterey, Mexiko, Tec de Monterrey
+- Kobe, Japan, Kobe Institut
+- Leiden, Niederlande, Universiteit Leiden
+- Amman, Jordanien, GJU (German Jordanian University)
+- Monterey, Mexiko, Tec de Monterrey
 
 Insgesamt absolvieren durchschnittlich 10 Studenten Praktika (Praxissemester) im Ausland, durch Erasmus–Programme werden ca. 20 Studenten jährlich unterstützt, die entweder nach Gummersbach kommen oder ein Semester im Ausland verbringen. Mit den oben angegebenen Hochschulen bestehen Erasmus-Kontakte und andere Partnerschaftsabkommen, um dem Austausch einen formalen Rahmen zu geben.
 
