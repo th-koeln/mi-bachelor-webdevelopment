@@ -17,7 +17,6 @@ Die Evaluationsordnung beinhaltet auch Befragungen zur Qualität des Studiums, w
 
 Das Qualitätsmanagement der Programme beinhaltet eine semesterweise Evaluation der Module sowie deren Unterbestandteile, Projekte und Kurse. Die Lehrveranstaltungsbewertungen des Studiengangs werden kontinuierlich evaluiert. Die Evaluationsergebnisse werden zentral durch das Hochschulreferat 4 ausgewertet und aufbereitet. Die Ergebnisse von Lehrveranstaltungsbewertungen werden den Studierenden zurück gemeldet, um einen Dialog über die Qualität der Lehre zu initiieren und im Rahmen der quantitativen Ergebnisanalyse sichtbar gewordene Kritikpunkte inhaltlich-qualitativ weiter aufarbeiten zu können. 
 
-Die individuellen Ergebnisse der Lehrveranstaltungsbewertungen werden darüber hinaus auch vom Qualitätsbeauftragten gesichtet, um bei signifikanten Qualitätsproblemen einzelner Lehrender oder in einzelnen Lehrbereichen über Gespräche mit den betroffenen Kolleginnen und Kollegen Lösungsmöglichkeiten für die sichtbar gewordenen Probleme zu entwickeln.
 
 ## Organisatorische Prozesse
 
