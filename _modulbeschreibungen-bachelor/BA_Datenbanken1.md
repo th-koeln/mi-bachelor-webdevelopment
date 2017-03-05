@@ -32,7 +32,6 @@ Gesamtaufwand 150 h, davon
 
 Die Studierenden sollen
 
-
 - über ein einheitliches konsistentes Begriffsgebäude bezüglich der Datenbankthematik verfügen,
 
 - die theoretischen Grundlagen von Datenbanksystemen am Beispiel relationaler und objektrelationaler Datenbanksysteme verstanden haben, insbesondere die relationale Algebra, die Normalisierung sowie funktionale Abhängigkeiten

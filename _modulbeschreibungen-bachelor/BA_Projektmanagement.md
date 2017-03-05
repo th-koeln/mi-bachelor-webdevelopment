@@ -32,10 +32,9 @@ Gesamtaufwand 150 h, davon
 ## Angestrebte Lernergebnisse:
 Die Studierenden sollen befähigt werden, 
 
-- die grundlegenden Aufgaben des Projektmanagements, insb. in IT-Projekten, zu charakterisieren und durchzuführen
+- die grundlegenden Aufgaben des Projektmanagements, insbesondere in IT-Projekten, zu charakterisieren und durchzuführen
 - die Projektmanagement-Methoden, -Techniken und -Werkzeuge zielgerichtet einzusetzen
-- die erforderlichen soziologischen und kommunikativen Aspekte zu berücksichtigen,
-  um, mit dem Ziel einer menschengerechten und soziologisch fundierten Menschenführung, eine wirkliche und optimale Produktivität bei komplexen Projekten erreichen zu können.
+- die erforderlichen soziologischen und kommunikativen Aspekte zu berücksichtigen, um, mit dem Ziel einer menschengerechten und soziologisch fundierten Menschenführung, eine wirkliche und optimale Produktivität bei komplexen Projekten erreichen zu können.
 
 
 ## Inhalt:

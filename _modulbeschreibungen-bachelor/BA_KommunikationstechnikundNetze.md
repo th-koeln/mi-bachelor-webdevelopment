@@ -23,7 +23,6 @@ Vorlesung, Praktikum
 ## Angestrebte Lernergebnisse:
 Die Studierenden sollen  
 
-
 - Prinzipien und Grundlagen von technischen Kommunikations­vor­gängen kennen lernen,
 
 - Protokolle als wesentliche Grundlage der Kommunikationstechnik im Detail verstehen (Internet-Protokolle, Multimedia-Protokolle, TK-Protokolle, Dienste)

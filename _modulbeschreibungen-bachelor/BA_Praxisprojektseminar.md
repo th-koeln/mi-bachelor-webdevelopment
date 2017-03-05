@@ -27,7 +27,7 @@ Gesamtaufwand 150 h, davon
 ## Angestrebte Lernergebnisse:
 Die Studierenden  
 
-- kennen Techniken wissenschaftlichen Arbeitens
+- kennen Techniken wissenschaftlichen Arbeitens und können diese anwenden
 
 - haben erste Erfahrungen mit aktiver Fachkommunikation gesammelt
 
