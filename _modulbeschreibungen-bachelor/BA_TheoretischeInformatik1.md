@@ -26,9 +26,15 @@ Gesamtaufwand 150 h, davon
 
 ## Angestrebte Lernergebnisse:
 
-Grundsätzliches Ziel des Kurses ist eine Einführung in die Begriffe, Methoden, Modelle und Arbeitsweise der Theoretischen Informatik anhand der ausgewählten Teilgebiete. Dabei lernen die Studierenden Probleme und Sachverhalte zu abstrahieren und zu modellieren (etwa logische und algebraische Kalküle, graphentheoretische Notationen, formale Sprachen und Automaten sowie spezielle Kalküle wie Petri-Netze). Die Studierenden erwerben fundierte Kenntnisse der grundlegenden Themengebiete und eine wesentliche Basis und Vorbereitung für Veranstaltungen in höheren Semestern des Studiums. In verschiedenen Grundlagengebieten der Informatik lernen die Studierenden Verfahrensweisen kennen, um den algorithmischen Kern eines Problems zu identifizieren und können passende Algorithmen entwerfen (Automaten, Turing Maschinen, Logik). Dabei können Sie bekannte Problemstellungen im Anwendungskontext erkennen und sind mit den zugehörigen Lösungsmustern vertraut (Modellierung mittels Automaten, Petri-Netzen, Boolescher Algebra, etc.).
+- Grundsätzliches Ziel des Kurses ist eine Einführung in die Begriffe, Methoden, Modelle und Arbeitsweise der Theoretischen Informatik anhand der ausgewählten Teilgebiete.
 
-Aufgaben zu den Lehrinhalten (s.u.) werden in kleinen Gruppen (Teamarbeit) selbständig gelöst. Die Lösungen sollen in den Übungsstunden vorgetragen und der Lösungsweg den Kommilitonen hierbei erläutert werden.
+- Dabei lernen die Studierenden Probleme und Sachverhalte zu abstrahieren und zu modellieren (etwa logische und algebraische Kalküle, graphentheoretische Notationen, formale Sprachen und Automaten sowie spezielle Kalküle wie Petri-Netze)
+
+- Die Studierenden erwerben fundierte Kenntnisse der grundlegenden Themengebiete und eine wesentliche Basis und Vorbereitung für Veranstaltungen in höheren Semestern des Studiums.
+
+- In verschiedenen Grundlagengebieten der Informatik lernen die Studierenden Verfahrensweisen kennen, um den algorithmischen Kern eines Problems zu identifizieren und können passende Algorithmen entwerfen (Automaten, Turing Maschinen, Logik). Dabei können Sie bekannte Problemstellungen im Anwendungskontext erkennen und sind mit den zugehörigen Lösungsmustern vertraut (Modellierung mittels Automaten, Petri-Netzen, Boolescher Algebra, etc.).
+
+- Aufgaben zu den Lehrinhalten (s.u.) werden in kleinen Gruppen (Teamarbeit) selbständig gelöst. Die Lösungen sollen in den Übungsstunden vorgetragen und der Lösungsweg den Kommilitonen hierbei erläutert werden.
 
 ## Inhalt:
 Dieses Grundlagenfach zur Informatik erstreckt sich über zwei Semester (Theoretische Informatik 1 und Theoretische Informatik 2).  
@@ -54,8 +60,6 @@ Vorlesung mit Übung
 
 ## Literatur:
 - Hoffmann, D. (2011): Theoretische Informatik, 2. Auflage
-
-
 
 - Brill, M. ( 2005 ): Mathematik für Informatiker. Carl Hanser Verlag, München.
 
