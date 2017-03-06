@@ -37,23 +37,20 @@ Gesamtaufwand 150 h, davon
 - Aufgaben zu den Lehrinhalten (s.u.) werden in kleinen Gruppen (Teamarbeit) selbständig gelöst. Die Lösungen sollen in den Übungsstunden vorgetragen und der Lösungsweg den Kommilitonen hierbei erläutert werden.
 
 ## Inhalt:
-Dieses Grundlagenfach zur Informatik erstreckt sich über zwei Semester (Theoretische Informatik 1 und Theoretische Informatik 2).  
-
-
-- Grundlagen: Mengen, Relationen, Graphen, Polynome; Zahlensysteme, Zahlendarstellung, Numerische Aspekte; Codierung, Informationstheorie
-
-- Logik und Boolesche Algebra: Aussagenlogik; Prädikatenlogik; Boolesche Algebra, Schaltnetze und Schaltwerke
-
-- Reguläre (Typ-3) Sprachen: Endliche Automaten, Reguläre Ausdrücke; Typ3-Grammatiken, Syntaxdiagramme; Chomsky-Hierarchie
-
-- Modellierung sequentieller und paralleler (Ausgabe-) Prozesse: Endliche Maschinen, Berechnungen; Automatennetze, Petri-Netze, Zelluläre Automaten
-
-- Kontextfreie (Typ-2) Sprachen: Kontextfreie Grammatiken, Chomsky- und Greibach-Normalform; Kellerautomaten; Anwendungen (Ableitungs- und Syntaxbäume, Syntax von Programmiersprachen, Backus-Naur-Form)
-
-- Kotextsensitive (Typ-1) und rekursiv aufzählende (Typ-0) Sprachen: Grammatiken, Monotonie, Normalform; Turingautomaten; Einführung in die Begriffe: Berechenbarkeit, Entscheidbarkeit und Komplexität
+- Mengen
+- Relationen
+- Graphen
+- Zahlensysteme
+- Zahlendarstellung
+- Numerische Aspekte
+- Codierung, Informationstheorie
+- Boolesche Algebra
+- Schaltnetze und Schaltwerke
+- Aussagenlogik
+- Prädikatenlogik
 
 ## Studien-/Prüfungsleistungen:
-Theoretische Informatik 1 + 2 als eine schriftliche Modulprüfung von 120 Min.
+Schriftliche Modulprüfung von 60 Min.
 
 ## Medienformen:
 Vorlesung mit Übung
