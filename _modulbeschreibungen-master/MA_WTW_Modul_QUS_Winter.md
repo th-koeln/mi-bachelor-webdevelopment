@@ -35,7 +35,7 @@ Konstruktive und analytische Qualitätssicherung und Qualitätsmanagement für W
 ## Angestrebte Lernergebnisse:
 Die Studierenden sollen befähigt werden, Ziele, Methoden, Techniken und Werkzeuge sowie organisatorischen Maßnahmen zur begleitenden Qualitätssicherung (QS) und zum Qualitätsmanagement für Web-Anwendungen nennen, charakterisieren und anwenden zu können,
 Methoden und Techniken hinsichtlich ihrer theoretischen Fundierung und ihrer Praxistauglichkeit analysieren und bewerten zu können, und ihre Fähigkeit zur selbständigen Weiterbildung festigen, 
-um die Methoden, Techniken und Werkzeuge zur Qualitätssicherung in eigenen, auch fachübergreifenden Projekten auswählen und anwenden zu können.
+um die Methoden, Techniken und Werkzeuge zur Qualitätssicherung und zum Qualitätsmanagement in eigenen, auch fachübergreifenden Projekten auswählen und anwenden zu können.
 
 ## Inhalt:
 Das Modul beschreibt Ziele, Methoden, Techniken und Werkzeuge sowie organisatorische Maßnahmen zur begleitenden Qualitätssicherung (QS) in der Entwicklung von Web-Anwendungen. Schwerpunkte liegen auf der QS in den frühen Phasen der Konzeption und Spezifikation sowie dem Qualitätsmanagement. Ausführungen zu einschlägigen Normen und Gesetzen runden das Modul ab.
@@ -51,11 +51,13 @@ Inhalte im Einzelnen:
 Aufbauend auf dem in der Vorlesung vermittelten Stoff erstellt jeder Teilnehmer im Seminar-Teil eine Ausarbeitung mit experimenteller Realisierung und eine Präsentation zu einem ausgewählten aktuellen Forschungsgebiet der Qualitätssicherung.
 
 ## Studien-/Prüfungsleistungen:
-Seminar-Hausarbeit und -Vortrag
-Klausur 60 Minuten
+* Seminar-Hausarbeit (40%) 
+* Seminarvortrag (20%)
+* Klausur 60 Minuten (40%)
 
 ## Medienformen:
 * Beamer-gestützte Vorlesungen (Folien in elektronischer Form im Netz)
+* Materialien zum Selbststudium (Vorlagen, Software-Werkzeuge, Veröffentlichungen)
 * Fallbeispielgestützte Übungen in Gruppen, um die erlernten Modelle und Methoden einzuüben und zu vertiefen (Seminarraum, Rechnerlabor).
 
 ## Literatur:
