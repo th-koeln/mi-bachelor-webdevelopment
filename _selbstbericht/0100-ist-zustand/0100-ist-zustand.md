@@ -1,7 +1,7 @@
 ---
 title: Ist-Zustand
 aktueller-bearbeiter:
-bearbeiterhistorie: Christian Noss
+bearbeiterhistorie: Christian Noss, Mario Winter
 date: 14.02.2017
 comment: 
 status: fertig
@@ -125,7 +125,7 @@ Dieser Prozess ist zeitaufwändig und wird von den meisten Studierenden untersch
 
 ### Bewertung von Ergebnissen aus Evaluationen
 
-Hier kann auf die Befragungen zu allgemeinen Zufriedenheit[^eva-studierendenbefragung] und regelmäßig semesterweise durchgeführte Evaluationen der Lehrveranstaltungen[^eva-mi-ba-kern][^eva-mi-ba][^eva-mi-ma] verwiesen werden. Die Auswertung der Evaluationen erfolgt zentral durch das Hochschulreferat 4 *Qualitätsmanagement*. Darüber hinaus ist an der Fakultät 10 ein integriertes Qualitätsmanagement nach DIN/ISO 9001 etabliert. In den Ergebnissen[^evaluationen-f10] zeigt sich grundsätzlich bei den Bachelorstudierenden ein etwas geringeres Zufriedenheitsmaß als bei den Masterstudierenden. Dies lässt sich mit Verweis auf die allgemein hohen Abbruchquoten in grundständigen Informatikstudiengängen ggf. so interpretieren, dass die Unzufriedenheit nicht allein durch die Studienangebotsseite verursacht ist. Dennoch lassen sich deutliche Verbesserungspotentiale identifizieren, etwa bzgl. der Einführung neuer Lehr- und Lernformate, Koordination der Praktika, Bereitstellung von studentischen Arbeitsräumen, Gastvorträgen, Exkursionen und Workshops.
+Hier kann auf die Befragungen zur allgemeinen Zufriedenheit[^eva-studierendenbefragung] und regelmäßig semesterweise durchgeführte Evaluationen der Lehrveranstaltungen[^eva-mi-ba-kern][^eva-mi-ba][^eva-mi-ma] verwiesen werden. Die Auswertung der Evaluationen erfolgt zentral durch das Hochschulreferat 4 *Qualitätsmanagement*. Darüber hinaus ist an der Fakultät 10 ein integriertes Qualitätsmanagement nach DIN/ISO 9001 etabliert. In den Ergebnissen[^evaluationen-f10] zeigt sich grundsätzlich bei den Bachelorstudierenden ein etwas geringeres Zufriedenheitsmaß als bei den Masterstudierenden. Dies lässt sich mit Verweis auf die allgemein hohen Abbruchquoten in grundständigen Informatikstudiengängen ggf. so interpretieren, dass die Unzufriedenheit nicht allein durch die Studienangebotsseite verursacht ist. Dennoch lassen sich deutliche Verbesserungspotentiale identifizieren, etwa bzgl. der Einführung neuer Lehr- und Lernformate, Koordination der Praktika, Bereitstellung von studentischen Arbeitsräumen, Gastvorträgen, Exkursionen und Workshops.
 
 Der 2013 zu verzeichnende Rückgang der Zufriedenheit bzgl. des Lehrangebotes im Master lässt sich nach unseren Analysen und Gesprächen mit Studierenden u.A. als Auswirkung des ersten, im Informatik-Master durchgeführten Projekt-Semesters interpretieren. Die dort durchgeführten „Guided Projects“ zeigen einen starken Praxisbezug und eine klare, mit den Methoden des (oft agilen) Projektmanagements gestaltete Ablaufstruktur. Diese auf den Arbeitsmarkt ausgerichtete Herangehensweise wird auch von vielen Studierenden im Medieninformatik Master gewünscht.
 
@@ -192,9 +192,9 @@ Somit lassen sich die folgenden Defizite im aktuellen Medieninformatik Bachelor 
 
 #### Medieninformatik Master
 
-Beim Medieninformatik Master leiten sich die erkannten Defizite im Wesentlichen aus Feedbacks und persönlichen Gesprächen mit Studierenden, Bachelor Absolventen und Dozenten ab. Die fehlende Möglichkeit zur fachlichen Vertiefung und der geringe Anteil an praxisnaher Projekte werden als wesentliche Defizite wahrgenommen und führen schlussendlich auch dazu, dass viele potenzielle Studieninteressierte an andere Studiengänge, zumeist außerhalb der TH Köln, mit stärkerer Profilierung und Praxisbezug verloren gehen.
+Beim Medieninformatik Master leiten sich die erkannten Defizite im Wesentlichen aus Feedbacks und persönlichen Gesprächen mit Studierenden, Bachelor Absolventen und Dozenten ab. Die fehlende Möglichkeit zur fachlichen Vertiefung und der geringe Anteil an praxisnahen Projekten werden als wesentliche Defizite wahrgenommen und führen schlussendlich auch dazu, dass viele potenzielle Studieninteressierte an andere Studiengänge, zumeist außerhalb der TH Köln, mit stärkerer Profilierung und Praxisbezug verloren gehen.
 
-Der Medieninformatik Master sieht derzeit zwar verschiedene Wahlmodule vor, diese sind aber stark fragmentiert und reglementiert, so dass hier häufig keine echte Wahl durch die Studierenden getroffen werden kann. Hinzu kommt, dass sich die Informatik Masterstudiengänge der Fakultät 10 sehr stark auseinander entwickelt haben, sodass Synergien, auch bei den angebotenen Wahlpflichtfächern und Projekten nur schwer genutzt werden können.
+Der Medieninformatik Master sieht derzeit zwar verschiedene Wahlmodule vor, diese sind aber stark fragmentiert und reglementiert, so dass hier häufig keine echte Wahl durch die Studierenden getroffen werden kann. Hinzu kommt, dass sich die Informatik Masterstudiengänge der Fakultät 10 sehr stark auseinander entwickelt haben, sodass Synergien, auch bei den angebotenen Wahlpflichtfächern und Projekten, nur schwer genutzt werden können.
 
 Somit lassen sich die folgenden Defizite im aktuellen Medieninformatik Master Studiengang zusammenfassen:
 
