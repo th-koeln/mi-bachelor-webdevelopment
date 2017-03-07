@@ -1,9 +1,9 @@
 ---
 title: Geschlechtergerechtigkeit, Chancengleichheit und Studieren mit Beeinträchtigungen
 aktueller-bearbeiter: 
-bearbeiterhistorie: Christian Noss, Sebastian Müller
+bearbeiterhistorie: Christian Noss, Sebastian Müller, Mario Winter
 date: 23.02.2017
-comment: alles von Websience geklaut … danke! Fußnoten müssen noch gescheit gesetzt werden
+comment: alles von Websience geklaut … danke! Fußnoten müssen noch gescheit gesetzt werden. Handreichung Beeinträchtigung nachgelegt.
 status: fertig
 reviewed-von: Volker Schaefer
 ---
@@ -36,11 +36,12 @@ Die Umsetzung dieser Ziele und die Einbettung in die bestehenden Handlungsfelder
 
 Statistisch gesehen sind rund 1.800 Studierende an der TH Köln beeinträchtigt, d.h. behindert oder chronisch erkrankt. Auch wenn die Beeinträchtigung im täglichen Umgang bei ca. zwei Dritteln dieser Studierenden nicht direkt wahrgenommen wird, setzt sich die TH Köln mit dem Thema „Behinderung und Studium“ auseinander. Ein entsprechendes Beratungsangebot für Studierenden und Lehrende wird dafür bereit gestellt und durch die Beauftragte für Studierende mit Beeinträchtigung[^studieren-mit-beeintraechtigung] koordiniert und realisiert. Das Beratungsspektrum ist vielfältig. Viele Studierende haben Sorgen und fühlen sich unsicher. Auch manche Mitarbeiterinnen und Mitarbeiter haben Informationsbedarf.
 
-Um „Berührungsängste“ abzubauen und Handlungssicherheit zu geben, werden diverse Handreichungen bereit gestellt. Hierin werden, auf Basis von Erhebungen des Deutschen Studentenwerkes, Informationen über die Situation von Studierenden mit Beeinträchtigung vorgehalten. Weiterhin werden grundlegende Kenntnisse über die am häufigsten vorkommenden Beeinträchtigungen vermittelt und Hinweise gegeben, wie sich gegenüber beeinträchtigten Studierenden verhalten werden kann. Auch das Thema Nachteilsausgleich wird hier adressiert.
+Um „Berührungsängste“ abzubauen und Handlungssicherheit zu geben, werden diverse Handreichungen bereit gestellt. Hierin werden, auf Basis von Erhebungen des Deutschen Studentenwerkes, Informationen über die Situation von Studierenden mit Beeinträchtigung vorgehalten. Weiterhin werden grundlegende Kenntnisse über die am häufigsten vorkommenden Beeinträchtigungen vermittelt und Hinweise gegeben, wie sich gegenüber beeinträchtigten Studierenden verhalten werden kann. Auch das Thema Nachteilsausgleich wird hier adressiert. Für Lehrende sei beispielhaft die Broschüre *Studieren mit Beeinträchtigung - Handreichung für Lehrende und Beschäftigte der TH Köln*[^handreichung-studieren-mit-beeintraechtigung] angeführt.
 
 [^gleichstellungskonzept]: Gleichstellungskonzept der Technischen Hochschule Köln: <a href="http://www.fh-koeln.de/mam/downloads/deutsch/hochschule/profil/gleichstellung/gleichstellungskonzept.pdf">http://www.fh-koeln.de/mam/downloads/deutsch/hochschule/profil/gleichstellung/gleichstellungskonzept.pdf</a> (abgerufen am 23.02.2017)
 [^educational-diversity]: Programm Educational Diversity der Technischen Hochschule Köln: <a href="https://www.th-koeln.de/hochschule/educational-diversity_5710.php">https://www.th-koeln.de/hochschule/educational-diversity_5710.php</a> (abgerufen am 23.02.2017)
 [^family-matters]: Profilseite zu Family Matters auf der Website der TH Köln: <a href="https://www.th-koeln.de/hochschule/familienfreundlichkeit_3759.php">https://www.th-koeln.de/hochschule/familienfreundlichkeit_3759.php</a> (abgerufen am 23.02.2017)
 [^studieren-mit-beeintraechtigung]: <a href="https://www.th-koeln.de/studium/studieren-mit-beeintraechtigung_169.php">Studieren mit Beeinträchtigungen</a> (abgerufen am 02.03.2017)
+[^handreichung-studieren-mit-beeintraechtigung]: Studieren mit Beeinträchtigung - Handreichung für Lehrende und Beschäftigte der TH Köln. Zentrale Studienberatung, TH Köln, 2016: <a href="https://www.th-koeln.de/mam/downloads/deutsch/studium/beratung/beeintraechtigung/a5brosch__re_beeintr__chtigung_2016.pdf">https://www.th-koeln.de/mam/downloads/deutsch/studium/beratung/beeintraechtigung/a5brosch__re_beeintr__chtigung_2016.pdf</a> (abgerufen am 23.02.2017)
 
 
