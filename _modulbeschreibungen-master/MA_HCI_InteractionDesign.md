@@ -67,5 +67,5 @@ schriftliche Ausarbeitung und Designartefakte
 - Solso, Robert, L.; MacLin, M. Kimberley; MacLin, Otto, H., Cognitive Psychology, Pearson International Edition, Seventh Ed., 2005, ISBN: 0-205-41030-8
 - Cooper, Alan und Reimann Robert, Cronin, David: „About Face 3.0“, The Essentials of Interaction Design, Wiley, 2007. ISBN: 0470084111
 - Snyder, Carolyn, „Paper Prototyping“, Morgan Kaufman Publishers, 2003, ISBN: 1-55860-870-2
-- Bortz, J.; Döring, N., Forschungsmethoden und Evaluation für Human- und Sozialwissenschaftler, Springer Heidelberg, Berlin, 2006
+- Bortz, J.; Döring, N., "Forschungsmethoden und Evaluation für Human- und Sozialwissenschaftler", Springer Heidelberg, Berlin, 2006
 
