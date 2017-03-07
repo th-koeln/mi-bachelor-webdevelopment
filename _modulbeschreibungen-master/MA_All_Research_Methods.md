@@ -30,9 +30,9 @@ Gesamtaufwand 180 h, davon
 
 ## Angestrebte Lernergebnisse:
 
-Die Teilnehmer sind in der Lage verschiedene methodische Rahmen für die Beantwortung empirischer Problem- oder Fragestellungen zu benennen, kritisch einzuordnen und für ihre konkreten Projekte (Zielsetzungen, Rahmenbedingungen, etc.) eine rational begründete Wahl eines (oder einer Kombination aus verschiedenen) methodischen Rahme zu treffen und zu kommunizieren.
+Die Teilnehmer sind in der Lage verschiedene methodische Rahmen für die Beantwortung empirischer Problem- oder Fragestellungen zu benennen, kritisch einzuordnen und für ihre konkreten Projekte (Zielsetzungen, Rahmenbedingungen, etc.) eine rational begründete Wahl eines (oder einer Kombination aus verschiedenen) methodischen Rahmen zu treffen und zu kommunizieren.
 Sie sind in der Lage, die Methoden projektgerecht und methodenkompetent anzuwenden und Resultate angemessen zu interpretieren und 
-kritisch zu diskutieren..
+kritisch zu diskutieren.
 
 ## Inhalt:
 - Forschungsdesign und -planung
