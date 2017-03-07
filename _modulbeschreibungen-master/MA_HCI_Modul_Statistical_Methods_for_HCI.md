@@ -20,23 +20,18 @@ schwerpunkt: hci
 
 ## Lehrform/SWS:
 
-Vorlesung; Übung
-
-~~~
-Angaben zu SWS fehlen
-~~~
-
-
-
 ## Lehrform/SWS:
+
+6 SWS: Vorlesung 2 SWS; Übung 1 SWS; Projekt 3 SWS
 
 ## Arbeitsaufwand:
 
-Gesamtaufwand 180 h, davon 
+Gesamtaufwand 180 h, davon
 
-- 45 h Vorlesung 
+- 45 h Vorlesung
 - 30 h Übung
-- 105 h Selbststudium
+- 105 h Projekt
+
 
 
 
