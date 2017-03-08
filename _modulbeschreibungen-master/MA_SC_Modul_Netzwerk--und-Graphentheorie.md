@@ -33,15 +33,11 @@ Angaben zu SWS fehlen
 ## Arbeitsaufwand: 
 180 Stunden
 
-~~~
-Bitte Stunden noch aufsplitten
-Beispiel:
+davon 
+- 30 h Vorlesung 
+- 30 h Projektarbeit  
+- 120 h Selbststudium 
 
-Gesamtaufwand 150 h, davon 
-- 40 h Vorlesung 
-- 40 h Projektarbeit  
-- 90 h Selbststudium 
-~~~
 
 
 
