@@ -14,7 +14,7 @@ Das Kompetenzteam Hochschuldidaktik der TH Köln bietet für alle Lehrenden hoch
 Das Weiterbildungsprogramm wurde von den Lehrenden vielfältig wahrgenommen.
 Daneben haben Lehrende und wissenschaftliche Mitarbeiter an wissenschaftlichen Konferenzen teilgenommen:
 
-- International ACM Web Science Conference '15 in Oxford (K. Fischer mit eigenem paper)
+- International ACM Web Science Conference '15 in Oxford (K. Fischer mit paper)
 
 ## Verleih
 
