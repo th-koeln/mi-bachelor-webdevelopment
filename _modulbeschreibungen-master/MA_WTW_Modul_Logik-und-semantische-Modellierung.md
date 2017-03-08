@@ -41,6 +41,7 @@ Die Teilnehmerinnen und Teilnehmer sollen die
 - Sprachen des Semantic Web sowie deren Eigenschaften und Zusammenhänge verstehen,
 - wesentliche Aspekte der Fundierung der Sprachen in der mathematischen Logik verstehen und
 - ein semantisches Modell für eine Domäne in Ansätzen erstellen und diskutieren können
+
 um kompetent im FAchdiskurs die Eignung semantischer Modellierung für die Domänenmodellierung diskutieren zu können.
 
 ## Inhalt:
