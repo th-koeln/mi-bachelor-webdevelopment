@@ -22,26 +22,21 @@ schwerpunkt: mpd
 Die Studentinnen und Studenten werden in die Entwicklung von semantischen Modellen als Basis für den Datenaustausch in verteilten, offenen Web Anwendungen eingeführt.Neben der praktischen Modellierung wird auch die theoretische Fundierung in der Prädikaten- und Beschreibungslogik behandelt.
 
 ## Lehrform/SWS: 
-V/Ü
+2 SWS V
+2 SWS Ü
 
-~~~
-Bitte SWS noch ergänzen
-~~~
+
 
 
 
 ## Arbeitsaufwand: 
 180 Stunden
 
-~~~
-Bitte Stunden noch aufsplitten
-Beispiel:
+ davon 
+- 30 h Vorlesung 
+- 30 h Projektarbeit  
+- 120 h Selbststudium 
 
-Gesamtaufwand 150 h, davon 
-- 40 h Vorlesung 
-- 40 h Projektarbeit  
-- 90 h Selbststudium 
-~~~
 
 
 
