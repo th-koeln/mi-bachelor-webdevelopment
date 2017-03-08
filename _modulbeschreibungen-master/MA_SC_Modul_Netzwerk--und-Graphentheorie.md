@@ -32,7 +32,6 @@ Angaben zu SWS fehlen
 
 ## Arbeitsaufwand: 
 180 Stunden
-
 davon 
 - 30 h Vorlesung 
 - 30 h Projektarbeit  
@@ -46,7 +45,9 @@ Die Studentinnen und Studenten
 
 - kennen die Bedeutung von formalen Modellen von heutigen technischen, Informations- und sozialen Netzen,
 - kennen wesentliche Konzepte, Kenngrößen und Algorithmen für Graphen und Netzwerke
-- können in abgegrenzten Beispielen bestehende Netze anhand der Kenngrößen und Algorithmen analysieren um Methoden und Techniken zur Analyse sozialer und ggfs. anderer Netze auswählen zu können.
+- können in abgegrenzten Beispielen bestehende Netze anhand der Kenngrößen und Algorithmen analysieren 
+
+um Methoden und Techniken zur Analyse sozialer und ggfs. anderer Netze auswählen zu können.
 
 
 ## Inhalt:
