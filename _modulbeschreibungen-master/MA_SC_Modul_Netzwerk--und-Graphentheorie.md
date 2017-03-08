@@ -22,11 +22,9 @@ schwerpunkt: sc
 Es werden Grundlagen für die Analyse und algorithmische Verarbeitung von Graph basierten Daten eingeführt. 
 
 ## Lehrform/SWS: 
-V/Ü
-
-~~~
-Angaben zu SWS fehlen
-~~~
+V/Ü davon
+- 2 SWS V und
+- 2 SWS Ü
 
 
 
