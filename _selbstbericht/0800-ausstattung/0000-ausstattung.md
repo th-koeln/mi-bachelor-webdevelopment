@@ -3,7 +3,7 @@ title: Ausstattung
 aktueller-bearbeiter:
 bearbeiterhistorie: Christian Noss
 date: 18.02.2017
-comment: Gerhard hat die eye-tracking facilities eingefügt, Gerhards Forschungsthemen eingetragen, Hans hat die Geräteausstattung etwas zusammengefasst
+comment: Gerhard hat die eye-tracking facilities eingefügt, Gerhards Forschungsthemen eingetragen, Hans hat die Geräteausstattung etwas zusammengefasst; Kristian THema Konferenzteilnahmen eingefügt
 status: unvollständig
 reviewed-von:
 ---
