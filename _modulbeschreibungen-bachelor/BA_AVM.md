@@ -57,7 +57,7 @@ Begleitend zu der Produktion werden folgende fachspezifischen Inhalte thematisie
 - Schnitt und Montage
 
 ## Studien-/Prüfungsleistungen:
-Projektarbeit und schriftliche Ausarbeitung
+Projektarbeit
 
 ## Medienformen:
 - Beamer-gestützte Vorlesungen
