@@ -33,7 +33,7 @@ Gesamtaufwand 180 h, davon
 
 ## Angestrebte Lernergebnisse:
 
-Die Studierenden sind in der Lage de- und präskriptiv Nutzer- oder deren nutzungsbezogene Sachverhalte oder Situationen mit einem umfänglichen Vokabular visuell-graphisch adäquat für verschiedene Stakeholder auszudrücken.
+Die Studierenden sind in der Lage de- und präskriptiv Nutzer- oder deren nutzungsbezogene Sachverhalte oder Situationen mit einem umfänglichen Vokabular visuell-graphisch adäquat für verschiedene Stakeholder auszudrücken. Sie können kognitive und emotionale Schemata identifizieren, analysieren, modellieren und aus den Modellen Designlösungen für interaktive Systeme generieren und skizzieren.
 
 
 ## Inhalt:
@@ -48,12 +48,9 @@ Die Studierenden sind in der Lage de- und präskriptiv Nutzer- oder deren nutzun
 Projektpräsentationsprüfung
 
 ## Medienformen:
-
-~~~
-Bitte noch ergänzen
-~~~
-
-
+- Lehrfilme,
+- Case Studies
+- ebooks
 
 
 ## Literatur:

@@ -22,26 +22,19 @@ schwerpunkt: sc
 Es werden Grundlagen für die Analyse und algorithmische Verarbeitung von Graph basierten Daten eingeführt. 
 
 ## Lehrform/SWS: 
-V/Ü
-
-~~~
-Angaben zu SWS fehlen
-~~~
+V/Ü davon
+- 2 SWS V und
+- 2 SWS Ü
 
 
 
 ## Arbeitsaufwand: 
 180 Stunden
+davon 
+- 30 h Vorlesung 
+- 30 h Projektarbeit  
+- 120 h Selbststudium 
 
-~~~
-Bitte Stunden noch aufsplitten
-Beispiel:
-
-Gesamtaufwand 150 h, davon 
-- 40 h Vorlesung 
-- 40 h Projektarbeit  
-- 90 h Selbststudium 
-~~~
 
 
 
@@ -50,7 +43,9 @@ Die Studentinnen und Studenten
 
 - kennen die Bedeutung von formalen Modellen von heutigen technischen, Informations- und sozialen Netzen,
 - kennen wesentliche Konzepte, Kenngrößen und Algorithmen für Graphen und Netzwerke
-- können in abgegrenzten Beispielen bestehende Netze anhand der Kenngrößen und Algorithmen analysieren um Methoden und Techniken zur Analyse sozialer und ggfs. anderer Netze auswählen zu können.
+- können in abgegrenzten Beispielen bestehende Netze anhand der Kenngrößen und Algorithmen analysieren 
+
+um Methoden und Techniken zur Analyse sozialer und ggfs. anderer Netze auswählen zu können.
 
 
 ## Inhalt:

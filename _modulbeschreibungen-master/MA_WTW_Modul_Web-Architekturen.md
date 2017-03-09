@@ -32,16 +32,10 @@ Basierend auf diesem Grundlagenwissen werden dann Lösungen aus fortschrittliche
 ## Arbeitsaufwand: 
 180 Stunden
 
-~~~
-Bitte Stunden noch aufsplitten
-Beispiel:
-
-Gesamtaufwand 150 h, davon 
-- 40 h Vorlesung 
-- 40 h Projektarbeit  
-- 90 h Selbststudium 
-~~~
-
+davon 
+- 30 h Vorlesung 
+- 30 h Seminar 
+- 120 h Selbststudium 
 
 
 ## Angestrebte Lernergebnisse:
@@ -49,7 +43,8 @@ Die Studentinnen und Studenten
 - kennen wesentliche Konzepte und Methoden aus dem Bereich Softwarearchitektur
 - kennen wesentliche Elemente der Internet Governance und können Problemfelder in diesem Bereich kritisch analysieren
 - können bestehende Web Anwendungen basierend auf den Konzepten der Software Architektur und der Internet Governance analysieren
-- um in leitender Funktion zur Gestaltung der Architektur von Projekten für das Web beitragen zu können.
+
+um in leitender Funktion zur Gestaltung der Architektur von Projekten für das Web beitragen zu können.
 
 ## Inhalt:
 Softwarearchitekturen: Designprozess, Kommunikationsmethoden (Connectoren), Sicherheit, Modellierung, Visualisierung, Analyse
