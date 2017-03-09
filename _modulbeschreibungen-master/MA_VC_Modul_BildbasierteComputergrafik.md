@@ -64,7 +64,7 @@ Nach erfolgreichem Abschluss
 
 ## Studien-/Prüfungsleistungen: 
 - 1 Studienleistung: regelmäßige erfolgreiche Teilnahme an den kursbegleitenden Praktikas (50% der Punkte aus den Praktikas müssen erreicht worden sein)
-- 1 Prüfungsleistung: Klausur (90 Minuten) oder mündliche Prüfung (30 Minuten).
+- 2 Prüfungsleistungen: Klausur (45 Minuten) oder mündliche Prüfung (15 Minuten), sowie eine Projektpräsentation.
 
 ## Medienformen:
 - Beamergestützte Vorlesung; 
