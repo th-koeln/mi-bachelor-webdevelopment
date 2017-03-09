@@ -62,8 +62,9 @@ Nach erfolgreichem Abschluss
 - Python, C++, Cuda, OpenCL Programmierung
 
 
-## Studien-/Prüfungsleistungen:
-Die erfolgreiche Teilnahme an den Praktikas ist Voraussetzung für die Klausur (90 Minuten) oder mündliche Prüfung
+## Studien-/Prüfungsleistungen: 
+- 1 Studienleistung: regelmäßige erfolgreiche Teilnahme an den kursbegleitenden Praktikas (50% der Punkte aus den Praktikas müssen erreicht worden sein)
+- 1 Prüfungsleistung: Klausur (90 Minuten) oder mündliche Prüfung (30 Minuten).
 
 ## Medienformen:
 - Beamergestützte Vorlesung; 
