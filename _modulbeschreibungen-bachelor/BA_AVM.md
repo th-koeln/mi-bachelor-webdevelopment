@@ -60,9 +60,9 @@ Begleitend zu der Produktion werden folgende fachspezifischen Inhalte thematisie
 Projektarbeit und schriftliche Ausarbeitung
 
 ## Medienformen:
-- Beamer-gestützte Vorlesungen (Folien in elektronischer Form)
-- Beispiele aus verschiedenen Medien in elektronischer Form
-- Filmprojekt: Projektarbeit in Teams, um die erlernten Methoden und Techniken einzuüben und zu vertiefen;
+- Beamer-gestützte Vorlesungen
+- Beispiele aus verschiedenen Medien in elektronischer Form: Filmbeispiele, Webvideos
+- Audiovisuelle Aufnahme- und Wiedergabegeräte
 
 
 ## Literatur:
