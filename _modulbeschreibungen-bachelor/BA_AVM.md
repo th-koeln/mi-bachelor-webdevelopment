@@ -16,6 +16,7 @@ type: pm
 ---
 
 ## Kurzbeschreibung
+Im Mittelpunkt dieses Moduls steht die digitale audiovisuelle Medienproduktion in den Formaten Porträt- und Dokumentarfilm.
 
 
 ## Lehrform/SWS:
