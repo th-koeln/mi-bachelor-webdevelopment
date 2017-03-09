@@ -29,13 +29,13 @@ Gesamtaufwand 150 h, davon
 
 
 ## Angestrebte Lernergebnisse:
-Die praktische Umsetzung des Vorlesungsstoffes, die Kommunikation und Zusammenarbeit im Team über Themenbereiche dieses Faches und die Präsentation von eigenen Projekten und Untersuchungsergebnissen sind die Lernziele des Moduls „Audiovisuelles Medienprojekt“. Neben dieser formulierten Fachkompetenz, Methodenkompetenz und Kommunikationskompetenz stehen gerade die sogenannten Softskills Teamfähigkeit und Kommunikationsfähigkeit im Focus der Ausbildung in diesem Modul.
+- Die Studierenden kennen die grundlegenden Erzählformen und Formate audiovisueller Medien und können auf der Basis klassischer Erzählmuster eigene audiovisuelle Erzählformen entwickeln. 
 
-Um mit der sich hieraus entwickelnden erhöhten Komplexität der Fragestellungen kompetent umgehen zu können, wird in diesem Modul inhaltlich auf die technischen Grundlagen der audiovisuellen Produktion besonders eingegangen. Die thematische Gewichtung der Inhalte ist im Hinblick auf die Vermittlung der Befähigung ausgerichtet, selbstständig in der audiovisuellen Produktion auftretende Problemstellungen lösen zu können und die verwendeten technischen Werkzeuge, wie Videokamera, Tonaufnahmegeräte und Schnittsysteme technisch richtig und gestalterisch aussagekräftig einzusetzen. Über diese Methodenkompetenz hinaus wird in Filmanalysen und einer kritischen Betrachtung medialer Ereignisse die Fähigkeit zur Reflexion vermittelt. Dabei spielt die Begründung der Auswahl bestimmter Medientechnologien und deren Einsatz in der Medienproduktion eine wichtige Rolle.
+- Die Studierenden können die in der audiovisuellen Produktion auftretende Problemstellungen selbstständig lösen und die verwendeten Medientechnologien, wie Videokamera, Tonaufnahmegeräte und Schnittsysteme technisch richtig und gestalterisch aussagekräftig einzusetzen.
 
-Die Studierenden kennen die grundlegenden Erzählformen audiovisueller Medien und haben folgende Fertigkeiten: Sie können eigene audiovisuelle Erzählformen auf der Basis klassischer Erzählmuster entwickeln und sind befähigt zur Analyse, Diskussion und zur kritischen Betrachtung audiovisueller Medieninhalte.
+- Sie sind befähigt zur Analyse, Diskussion und zur kritischen Betrachtung audiovisueller Medieninhalte.
 
-Pragmatisches Ziel ist es, in den unterschiedlichsten Berufsfeldern digitaler audiovisueller Medien die Entwicklung und den Einsatz audiovisuellen Content zu beraten, zu planen, durchzuführen oder zu verantworten.
+- Die Studierenden können in den unterschiedlichsten Berufsfeldern digitaler audiovisueller Medien die Entwicklung und den Einsatz audiovisuellen Content beraten, planen, selbst durchführen und verantworten.
 
 
 ## Inhalt:
