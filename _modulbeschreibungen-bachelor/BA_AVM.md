@@ -41,6 +41,8 @@ Gesamtaufwand 150 h, davon
 ## Inhalt:
 Im Mittelpunkt dieses Moduls steht die digitale audiovisuelle Medienproduktion.
 
+Die praktische Umsetzung des Vorlesungsstoffes, die Kommunikation und Zusammenarbeit im Team  und die Präsentation von eigenen Ideen und Projekten sind die Lerninhalte des Moduls „Audiovisuelles Medienprojekt“. Neben der Fachkompetenz und Methodenkompetenz stehen in diesem Modul gerade die sogenannten Softskills Teamfähigkeit und Kommunikationsfähigkeit im Focus.
+
 Die Projektarbeit gliedert sich dabei in die selbstständige Entwicklung, Ausarbeitung und Präsentation eines Filmthemas, in die praktische Umsetzung in einem Filmprojekt und in die Nachbearbeitung und Montage in einer dramaturgischen Erzählform.
 
 Begleitend zu der Produktion werden folgende fachspezifischen Inhalte thematisiert und in Übungsaufgaben vertieft:
@@ -59,7 +61,7 @@ Projektarbeit und schriftliche Ausarbeitung
 ## Medienformen:
 - Beamer-gestützte Vorlesungen (Folien in elektronischer Form)
 - Beispiele aus verschiedenen Medien in elektronischer Form
-- Projektarbeit in Teams, um die erlernten Methoden und Techniken einzuüben und zu vertiefen;
+- Filmprojekt: Projektarbeit in Teams, um die erlernten Methoden und Techniken einzuüben und zu vertiefen;
 
 
 ## Literatur:
