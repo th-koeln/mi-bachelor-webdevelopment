@@ -205,7 +205,10 @@ Präsentation und Dokumentation eines eigenständig entwickelten Projekts
 Die erfolgreiche Teilnahme am Abschlussprojekt (eigenständiges Projekt, auch in Kleingruppen möglich) und Fachgespräch
 
 ## Medienformen:
-Beamergestützte Vorträge, Rechnergestützte Workshops
+- Beamer-gestützte Vorlesungen
+- Rechnergestützte Workshops
+- Beispiele aus verschiedenen Medien in elektronischer Form: Filmbeispiele, Webvideos
+- Audiovisuelle Aufnahme- und Wiedergabegeräte
 
 ## Literatur:
 
