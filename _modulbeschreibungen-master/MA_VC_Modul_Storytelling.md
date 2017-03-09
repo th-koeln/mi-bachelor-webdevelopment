@@ -46,7 +46,7 @@ Pragmatisches Ziel ist es, in den unterschiedlichsten Berufsfeldern digitaler Me
 - Anwendung in verschiedenen Kontexten wie Film, Computerspiel, Entwicklungsumgebung und Kommunikation
 
 ## Studien-/Prüfungsleistungen:
-Projektarbeit und schriftliche Ausarbeitung
+Projektarbeit (50%) und schriftliche Ausarbeitung (50%)
 
 ## Medienformen:
 - Beamer-gestützte Vorlesungen (Folien in elektronischer Form)
