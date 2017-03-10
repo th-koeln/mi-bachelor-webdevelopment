@@ -193,10 +193,10 @@ Schriftliche Prüfung von 90 Minuten
 Die erfolgreiche Teilnahme an den Praktikas ist Voraussetzung für die Klausur (120 Minuten) oder mündliche Prüfung
 
 ### Audiovisuelles Medienprojekt 2
-Projektarbeit und schriftliche Ausarbeitung
+Projektarbeit
 
 ### Visuelle Effekte und Animation
-Projektarbeit und schriftliche Ausarbeitung
+Projektarbeit (50%) und schriftliche Ausarbeitung (50%)
 
 ### Cross-Platform Game Development mit Unity 3D
 Präsentation und Dokumentation eines eigenständig entwickelten Projekts
@@ -205,7 +205,10 @@ Präsentation und Dokumentation eines eigenständig entwickelten Projekts
 Die erfolgreiche Teilnahme am Abschlussprojekt (eigenständiges Projekt, auch in Kleingruppen möglich) und Fachgespräch
 
 ## Medienformen:
-Beamergestützte Vorträge, Rechnergestützte Workshops
+- Beamer-gestützte Vorlesungen
+- Rechnergestützte Workshops
+- Beispiele aus verschiedenen Medien in elektronischer Form: Filmbeispiele, Webvideos
+- Audiovisuelle Aufnahme- und Wiedergabegeräte
 
 ## Literatur:
 

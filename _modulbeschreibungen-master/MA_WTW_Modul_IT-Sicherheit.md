@@ -1,8 +1,8 @@
 ---
-title: Sicherheit, Privatsphäre und Vertrauen im Netz
+title: Sicherheit, Privatsphäre und Vertrauen
 modulverantwortlich: sk
 modulniveau:
-kuerzel: WTW-ITS
+kuerzel: ITS
 untertitel:
 studiensemester-ws: 1
 studiensemester-ss: 2
@@ -20,94 +20,55 @@ schwerpunkt: wtw, sc, mpd
 ---
 
 ## Kurzbeschreibung
+Einsatzszenarien von IT und entsprechende Sicherheitseigenschaften und Sicherheitskonzepte; Wirkzusammenhänge zwischen Vertrauen und (IT-)Sicherheit; gesellschaftliche Bedeutung von Privatsphäre und Datenschutz.
+
 ## Lehrform/SWS: 
 4 SWS: Vorlesung 2 SWS; Seminar 2 SWS
 
 ## Arbeitsaufwand: 
-180 Stunden
+Gesamtaufwand 180 h, davon 
 
-~~~
-Bitte Stunden noch aufsplitten
-Beispiel:
+- 45 h Vorlesung 
+- 30 h Projektarbeit  
+- 105 h Selbststudium 
 
-Gesamtaufwand 150 h, davon 
-
-- 40 h Vorlesung 
-- 40 h Projektarbeit  
-- 90 h Selbststudium 
-~~~
 ## Angestrebte Lernergebnisse:
-Die Studentinnen und Studenten erlernen Fähigkeiten zur Analyse und Formulierung von Schutzzielen in Einsatzszenarien von IT.
 
-Im Einzelnen:
-
-- Kenntnis der aktuell in der Praxis eingesetzten kryptographischen Verfahren und ihrer Eigenschaften für die praktische Anwendung sowie Fähigkeit zur
-
-- Auswahl geeigneter Sicherheitsmechanismen, um vorgegebene Sicherheitsziele zu erreichen
-
-- Fähigkeit zur Analyse von Systemen auf Sicherheitsschwächen und kritisches Hinterfragen von Aussagen zur Sicherheit
-
-- Kenntnis der Ursachen von Sicherheitsschwächen in TCP/IP-basierten Netzen und Diensten
-
-- Fähigkeit zu Einsatz und Analyse der Sicherheitsmechanismen in TCP/IP-basierten Netzen
-
-- Einüben der Fähigkeit zur Analyse der Sicherheitseigenschaften konkreter Werkzeuge mit Hilfe der im Vorlesungsteil der Veranstaltung vorgestellten Begriffe
-
-- Einschätzen der Grenzen von Sicherheitswerkzeugen anhand konkreter Beispiele
-
-- Vertieftes Verständnis technischer Zusammenhänge in der IT-Sicherheit
-
-- Einschätzen des Schutzbedarfs anhand konkreter Angriffsmöglichkeiten
-
-- Schulung der analytischen Fähigkeiten mittels konkreter Einsatzszenarien,
-
-- die Basiskonzepte und Grundlagen der Betriebssysteme und der Rechnerarchitektur kennen und verstehen sowie
-
-- ein einheitliches konsistentes Begriffsgebäude zu, teilweise aus der persönlichen Praxis, bekannten Sachverhalten der IT aufbauen
-  um (fachpraktische Begründung)
-
-  ~~~
-  Bitte fachpraktische Begründung noch ergänzen
-  ~~~
-
-  ​
+- Die Studierenden sind in der Lage, Einsatzszenarien von IT hinsichtlich ihrer Sicherheitseigenschaften zu analysieren und zu beschreiben.
+- Darüber hinaus sind sie in der Lage, hinsichtlich Schutzbedarf und Risiko adäquate Sicherheitsmaßnahmen in einem Sicherheitskonzept zusammenzustellen. 
+- Die Studierenden sind fähig, die vorgenannten Analyse- und Syntheseschritte in die ihnen bekannten Entwicklungssmodelle für Software- und Systemarchitekturen zu integrieren und so den Entwicklungsprozess unter dem Aspekt der IT-Sicherheit aktiv strukturell und inhaltlich zu gestalten. 
+- Sie kennen die Wirkzusammenhänge zwischen Vertrauen und (IT-)Sicherheit und sind in der Lage Maßnahmen zur Vertrauensbildung in kommerziell-technische (e-commerce) und sozio-technische Systeme zu entwickeln.
+- Die Studierenden erkennen die gesellschaftliche Bedeutung von Privatsphäre und Datenschutz und sind in der Lage ein für sie individuell adäquates Niveau an Privatheit zu formulieren und ggf. zu beanspruchen. 
 
 ## Inhalt:
-### Teil I
-
-- Einführung in die Grundbegriffe der IT-Sicherheit (Was ist Sicherheit?, Schutzziele, Mechanismen, Beispielszenarien)
-- Einsatz aktueller kryptographischer Verfahren als Mechanismus zur Erreichung von Schutzzielen (symmetrische, asymmetrische Kryptographie, digitale Signaturen, Zertifikate, Angriffe)
-- Aktuelle kryptographische Standards (AES, RSA ,...)
-- Prinzipien und Mechanismen zur Authentisierung (Biometrie, Passwörter, Chipkartensysteme, Single-Sign-On)
-- Sicherheit TCP/IP basierter Netze und Dienste (Schwächen, Angriffe, Beispiele)
-- Firewall-Systeme (Application-Level-Gateways, Paketfilter, Remote-Access)
-
-### Teil II: Spezielle Werkzeuge der IT-Sicherheit in der Praxis
-
-- Sicherheitswerkzeuge
-- Werkzeuge zur Prüfung der Sicherheit
-- Angriffswerkzeuge und -methoden
-
-### Aufgabe der Studierenden
-
-- Beschreibung,
-- Test und Vorführung der Funktion,
-- Analyse und Erläuterung der Fähigkeiten und Grenzen im Kontext von Teil I der Veranstaltung
-- Darstellung typischer Einsatzszenarien
-- Vergleich mit anderen Werkzeugen mit ähnlichen Fähigkeiten oder Eigenschaften 
+* In der Praxis eingesetzte kryptographischen Verfahren und ihre Eigenschaften
+* Typische Sicherheitsmaßnahmen, um vorgegebene Sicherheitsziele zu erreichen
+* Grundlegende Zusammenhänge der IT-Sicherheit (Schutzziele, Schwachstellen, Bedrohungen und Risiken)
+* Einfache Vorgehensmodelle zur Sicherheitsanalyse von Systemen 
+* Typische Ursachen von Sicherheitsschwächen in TCP/IP-basierten Netzen und Diensten
+* Typische Sicherheitsmaßnahmen in TCP/IP-basierten Netzen
+* Sicherheitseigenschaften verbreiteter in der Praxis eingesetzter Werkzeuge
+* Grenzen von Sicherheitswerkzeugen anhand konkreter Beispiele
+* Einschätzen des Schutzbedarfs anhand konkreter Angriffsmöglichkeiten
+* Sicherheitsanalyse mittels konkreter exemplarischer Einsatzszenarien
+* Definition Vertrauen und Vertrauensmodelle. 
+* Charakteristika vertrauenswürdiger Systeme. Wirkzusammenhang zwischen Vertrauen und Sicherheit
+* Kernbereich der privaten Lebensgestaltung, Privatsphäre, Datenschutz, Große Datensammlungen (Data Science) als Antagonist
 
 ## Studien-/Prüfungsleistungen:
-Teil I und Teil II: Klausur sowie selbstständige Erarbeitung, Vortrag und Ausarbeitung zu einem speziellen Thema aus Teil II
+- Vorlesungsteil und Seminarinhalt: mündliche Prüfung (50%) 
+- Seminarteil: Vortrag und Ausarbeitung (50%)
 
 ## Medienformen:
-* Beamer-gestützte Vorlesungen
-* Seminar: Vortrag, schriftliche Ausarbeitung, Test und Vorführung von Werkzeugen
+*	Beamer-gestützte Vorlesungen
+*	Seminar: Vortrag, schriftliche Ausarbeitung, Test und Vorführung von Werkzeugen
 
 ## Literatur:
-- Skript Kommunikationstechnik
-- Anderson, Ross : Security Egnineering, John Wiley & Sons Inc, 2001
-- Eckert, Claudia: IT-Sicherheit. Konzepte - Verfahren - Protokolle, Oldenbourg, 2006
-- Schneier, Bruce : Practical Cryptography, John Wiley & Sons, 2003
-- Schneier, Bruce : Secrets & Lies. IT-Sicherheit in einer vernetzten Welt, Dpunkt Verlag, 2006
-- http://www.securityfocus.com
-- weitere als themenbezogener Einzelverweis in der Vorlesung und im Seminar
+
+*	Anderson, Ross : Security Egnineering, John Wiley & Sons Inc, 2001
+*	Eckert, Claudia: IT-Sicherheit. Konzepte - Verfahren - Protokolle, Oldenbourg, 2006
+*	Schneier, Bruce : Practical Cryptography, John Wiley & Sons, 2003
+*	Schneier, Bruce : Secrets & Lies. IT-Sicherheit in einer vernetzten Welt, Dpunkt Verlag, 2006
+*	Schneier, Bruce : Liars and Outliers: Enabling the Trust that Society Needs to Thrive, John Wiley & Sons, 2012
+*	http://www.securityfocus.com
+*	weitere als themenbezogener Einzelverweis in der Vorlesung und im Seminar
