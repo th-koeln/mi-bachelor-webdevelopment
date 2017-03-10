@@ -1,11 +1,11 @@
 ---
 title: Studiengangskonzept
 aktueller-bearbeiter: 
-bearbeiterhistorie: Kristian Fischer
+bearbeiterhistorie: Kristian Fischer, Mario Winter
 date: 22.02.2017
 comment: hier könnten noch was zum Thema wissenschaftliches Arbeiten stehen
 status: Peer Review erforderlich
-reviewed-von:
+reviewed-von: Mario Winter
 ---
 
 ## Zielgruppe und Studienform
@@ -19,7 +19,7 @@ Studierende mit einer allgemeinen Hochschulreife benötigen im Mittel ein Semest
 
 ## Eingesetzte Lehrformen
 
-Die Lehrinhalte und Veranstaltungsformen orientieren sich an den Notwendigkeiten des jeweiligen Moduls, so dass neben Vorlesung und Praktika eine Reihe anderer Lehrformen, wie seminaristischer Unterricht, Flipped Classroom und Workshops zum Einsatz kommen. Die Medieninformatik Studiengänge sind von einer starken Projektorientierung geprägt. Hierbei sind sowohl die Projekt- als auch die Teamgrößen sehr unterschiedlich. Die Projektgrößen gehen von 2,5 bis 12 Creditpoints und die Teamgrößen von 2er bis zu 9er Teams.
+Die Lehrinhalte und Veranstaltungsformen orientieren sich an den Notwendigkeiten des jeweiligen Moduls, so dass neben Vorlesung und Praktika eine Reihe anderer Lehrformen, wie seminaristischer Unterricht, Flipped Classroom und Workshops zum Einsatz kommen. Die Medieninformatik Studiengänge sind von einer starken Projektorientierung geprägt. Hierbei sind sowohl die Projekt- als auch die Teamgrößen sehr unterschiedlich. Die Projektgrößen gehen von 2,5 bis 12 Creditpoints und die Teamgrößen von 2er bis zu 9er Teams. Die im Selbststudium zu erbringenden Creditpoints der nicht projektorientierten Module betragen im Bachelor ca. 50% und im Master ca. 60%.
 
 ## Studienkonzept Medieninformatik Bachelor
 
@@ -29,19 +29,19 @@ Um die Qualifikationsziele des sechssemestrigen Studiengangs zu erreichen, das S
 
 {% include image.html url="bilder/ba-studienphasen.svg" caption=" Studienphasen des Bachelorstudiengangs Medieninformatik" %}
 
-Die organisatorischen und inhaltliche Klammer bilden die drei, aufeinander aufbauenden, Studienphasen: Grundlagen, Vertiefung und Spezialisierung. Die Module innerhalb der Phasen, gliedern sich in zwei Säulen: Informatik Kernmodule und Medieninformatik-spezifische Module. Die Informatik Kernmodule auch von anderen Informatik Studiengängen der Fakultät 10 genutzt. Dadurch werden Synergien erzeugt und alle Informatik Studenten der Fakultät können auf die gleiche Wissensbasis zurückgreifen. Durch die Durchmischung von Studierenden unterschiedlicher Studiengänge können hier unter den Studierenden bereits interdisziplinäre Kontakte geknüpft werden. Ein weiterer Vorteil dieser Konstruktion ist eine gute Durchlässigkeit von Studierenden beim Studiengangswechsel, sofern sie feststellen, dass ein anderer Studiengang am Campus eher ihren Fähigkeiten und Neigungen entspricht. Naturgemäß die Informatik Kernmodule, die zumeist Grundlagencharakter haben, im Grundlagenteil des Studiums verankert.
+Die organisatorischen und inhaltliche Klammer bilden die drei, aufeinander aufbauenden, Studienphasen: Grundlagen, Vertiefung und Spezialisierung. Die Module innerhalb der Phasen, gliedern sich in zwei Säulen: Informatik Kernmodule und Medieninformatik-spezifische Module. Die Informatik Kernmodule werden auch von anderen Informatik Studiengängen der Fakultät 10 genutzt. Dadurch werden Synergien erzeugt und alle Informatik Studenten der Fakultät können auf die gleiche Wissensbasis zurückgreifen. Durch die Durchmischung von Studierenden unterschiedlicher Studiengänge können hier unter den Studierenden bereits interdisziplinäre Kontakte geknüpft werden. Ein weiterer Vorteil dieser Konstruktion ist eine gute Durchlässigkeit von Studierenden beim Studiengangswechsel, sofern sie feststellen, dass ein anderer Studiengang am Campus eher ihren Fähigkeiten und Neigungen entspricht. Naturgemäß sind die Informatik Kernmodule, die zumeist Grundlagencharakter haben, im Grundlagenteil des Studiums verankert.
 
-Um den Studierenden jedoch mit den Herangehensweisen und Perspektiven der Medieninformatik möglichst früh vertraut zu machen und sie bei der Identifikation mit der Domäne zu unterstützen, wir im ersten Semester das Modul "Einführung in die Medieninformatik" mit einem Gewicht von 10 Creditpoints angeboten. Im zweiten Semester übernimmt das Modul "Mensch-Computer Interaktion" mit einem Gewicht von 10 Creditpoints diese Aufgabe. Das Gewicht der Medieninformatik-spezifischen Module nimmt mit jedem Semester zu.
+Um den Studierenden möglichst früh mit den Herangehensweisen und Perspektiven der Medieninformatik vertraut zu machen und sie bei ihrer Identifikation mit der Domäne zu unterstützen, wird im ersten Semester das Modul "Einführung in die Medieninformatik" mit einem Gewicht von 10 Creditpoints angeboten. Im zweiten Semester übernimmt das Modul "Mensch-Computer Interaktion" mit einem Gewicht von 10 Creditpoints diese Aufgabe. Das Gewicht der Medieninformatik-spezifischen Module nimmt mit jedem Semester zu.
 
 ### Sinnvolle Staffelung der Module
 
 {% include image.html url="bilder/ba-verlaufsplan.svg" caption=" Studienverlaufsplan des Bachelorstudiengangs Medieninformatik" %}
 
-Die ersten Modulen des Informatik Kerns bauen vor allem mathematische, algorithmische und und grundlegende Kenntnisse und Fertigkeiten auf. Im Kontrast dazu, werden im Modul "Einführung in die Medieninformatik" vielfältige Perspektiven, Konzepte und Arbeitstechniken der Medieninformatik, quasi im Vorgriff auf der kommende Studium, vorgestellt und in einem Projekt, mit forschendem Charakter, angewendet. Hiermit wird den Studierenden ein Ausblick auf das weitere Studium und die notwendigen Arbeitsweisen und -techniken gegeben.
+Die ersten Modulen des Informatik Kerns bauen vor allem mathematische, algorithmische und und grundlegende Kenntnisse, Fähigkeiten und Fertigkeiten auf. Im Kontrast dazu, werden im Modul "Einführung in die Medieninformatik" vielfältige Perspektiven, Konzepte und Arbeitstechniken der Medieninformatik, quasi im Vorgriff auf der kommende Studium, vorgestellt und in einem Projekt, mit eher forschendem Charakter, angewendet. Hiermit wird den Studierenden ein Ausblick auf das weitere Studium und die notwendigen Arbeitsweisen und -techniken gegeben.
 
-Im weiteren Studienverlauf sind die Medieninformatik-spezifischen Module an den groben Phasen der Produktentwicklung ausgerichtet: Konzeption, Realisierung und Reflexion ausgerichtet. Die Module "Mensch-Computer Interaktion", "Screendesign" und "Web-Architekturen" vermitteln überwiegend Herangehensweisen, Techniken und Konzepte für die Konzeptionsphase eines Projekts. Das Modul "Audiovisuelles Medienprojekt" adressiert sowohl Themen rund um die Konzeption als auch in Richtung Projektrealisierung und bildet den Übergang zum Vertiefungsmodul im vierten Semester, in dem Realisierungsaspekte im Vordergrund stehen. 
+Im weiteren Studienverlauf sind die Medieninformatik-spezifischen Module an den groben Phasen der Produktentwicklung ausgerichtet: Konzeption, Realisierung und Reflexion. Die Module "Mensch-Computer Interaktion", "Screendesign" und "Web-Architekturen" vermitteln überwiegend Herangehensweisen, Techniken und Konzepte für die Konzeptionsphase eines Projekts. Das Modul "Audiovisuelles Medienprojekt" adressiert sowohl Themen rund um die Konzeption als auch in Richtung Projektrealisierung und bildet den Übergang zum Vertiefungsmodul im vierten Semester, in dem Realisierungsaspekte im Vordergrund stehen. 
 
-Mit dem "Entwicklungsprojekt" im fünften Semester werden zunehmend Fragestellung und Herangehensweisen zur Reflexion eines Projekts, z.B. als Vorbereitung einer weiteren Projektiteration, fokussiert. 
+Mit dem "Entwicklungsprojekt" im fünften Semester werden zunehmend Fragestellungen und Herangehensweisen zur Reflexion eines Projekts, z.B. als Vorbereitung einer weiteren Projektiteration, fokussiert. 
 
 Um den Studierende fundierte Entwicklungskompetenz zu vermitteln, wird ein Modulstrang aus dem Informatik Kern verwendet, der ausgehend den Prinzipien der Objektorientierung und einfachen Algorithmen (Algorithmen und Programmierung 1) über komplexere Prinzipien der Algorithmenentwicklung (Algorithmen und Programmierung 2) hin zu Anwendung unterschiedlicher Programmierkonzepte (Paradigmen der Programmierung) und Prinzipien, Methoden und Techniken der modellbasierten Softwareentwicklung (Softwareentwicklung) diese Kompetenz sukzessive auf- und ausbaut.
 
@@ -49,7 +49,7 @@ Um den Studierende fundierte Entwicklungskompetenz zu vermitteln, wird ein Modul
 
 Im vierten Semester wird zur Fachvertiefung entsprechen der persönlichen Neigung ein Vertiefungsmodul mit einem Gewicht von 20 Creditpoints angeboten. Hier stehen drei Vertiefungsrichtungen zur Auswahl: Visual Computing, Social Computing und Web-Development. Die Studierenden haben in diesem Modul die Möglichkeit, entsprechend der persönlichen Neigung, ein Themenfeld tief zu durchdringen und damit eine Spezialisierungsrichtung vorzubereiten. Durch das Zusammenfassen mehrerer Module werden im Vertiefungsmodul konsistente Regularien, sowie inhaltliche und organisatorische Zusammenhänge geschaffen.
 
-Das Entwicklungsprojekt im fünften Semester bietet die Möglichkeit zur weiteren Fachvertiefung entsprechend der persönlichen Neigungen. Im gleichen Semester ist Wahlpflichtmodul verankert, bei dem ein Modul aus dem Wahlkatalog der Informatik, oder ein Pflichtmodul eines anderen Informatik Studiengangs der Fakultät gewählt werden kann. 
+Das Entwicklungsprojekt im fünften Semester bietet die Möglichkeit zur weiteren Fachvertiefung entsprechend der persönlichen Neigungen. Im gleichen Semester ist ein Wahlpflichtmodul verankert, welches aus dem Wahlpflichtkatalog der Informatik, oder aus den nicht im Pflichtangebot der Medieninformatik befindlichen Pflichtmodulen der anderen Informatik Studiengänge der Fakultät gewählt werden kann. 
 
 Zusammen mit dem Praxisprojekt und der Bachelorarbeit stehen somit 60 Creditpoints, also ein Drittel der Studienleistungen, zur individuellen Fachvertiefung zur Verfügung.
 
@@ -59,7 +59,7 @@ Projektorientierung und forschendes Lernen sind seit der Erstakkreditierung des 
 
 ### Wissenschaftliches Arbeiten
 
-Wissenschaftliches Arbeiten wird beginnend im ersten Semester in der Veranstaltung "Einführung in die Medieninformatik", in der THemen wie Recherche, Umgang mit Quellen, adäquater Aufbau von Dokumenten und Verwendung adäquater Sprache thematisiert und gefordert wird. Darauf wird u.a. in allen Projektorientierten Veranstaltungen bei der Erstellung von Projektdokumentationen, bei Vorträgen und bei Poster Präsentationen zurück gegriffen. Im Rahmen des Praxisprojekt Seminars wird das Thema im Hinblick auf die anschließende ERstellung der Bachelorarbeit vertieft und eine eingehende individuelle Auseinandersetzung mit dem Thema abgerufen.   
+Wissenschaftliches Arbeiten vermittelt der Bachelor-Studiengang Medieninformatik beginnend im ersten Semester in der Veranstaltung "Einführung in die Medieninformatik". Diese thematisiert und fordert Themen wie Recherche von und Umgang mit Quellen, adäquater Aufbau von Dokumenten und Verwendung adäquater (Fach-)Sprache. Darauf greifen u.a. alle projektorientierten Veranstaltungen bei der Erstellung von Projektdokumentationen, bei Vorträgen und bei Poster Präsentationen zurück. Im Rahmen des Praxisprojekt-Seminars wird das Thema im Hinblick auf die anschließende Erstellung der Bachelorarbeit vertieft und eine eingehende individuelle Auseinandersetzung mit dem Thema abgerufen.   
 
 
 ### Weiterführende Dokumente
@@ -72,7 +72,7 @@ Wissenschaftliches Arbeiten wird beginnend im ersten Semester in der Veranstaltu
 
 ## Studienkonzept Medieninformatik  Master
 
-Der viersemestrige Masterstudiengang baut konsekutiv auf das Bachelorprogramm auf. Im Gegensatz zum Bachelorstudium, sind hier Einschreibungen im Sommer- und Wintersemester möglich. Dies führt zu unterschiedlichen Studienverlaufplänen in Abhängigkeit des Einschreibesemesters.
+Der viersemestrige Masterstudiengang baut konsekutiv auf das Bachelorprogramm auf. Im Gegensatz zum Bachelorstudium, sind hier Einschreibungen im Sommer- und Wintersemester möglich. Dies führt zu unterschiedlichen Studienverlaufplänen in Abhängigkeit vom Einschreibesemester.
 
 Aufgrund der bereits oben betonten Notwendigkeit einer professionellen Differenzierung und Profilschärfung strukturiert sich der Masterstudiengang Medieninformatik neben dem gemeinsamen Grundlagenstudium und der starken Projektorientierung in mehrere Studienschwerpunkte.
 
@@ -81,26 +81,26 @@ Aufgrund der bereits oben betonten Notwendigkeit einer professionellen Differenz
 {% include image.html url="bilder/ma-schwerpunkte.svg" caption=" Studienschwerpunkte des Masterprogramms" %}
 
 
-Zur individuellen Schwerpunktbildung bietet des Masterprogramm vier Möglichkeiten, die alle auf den im Bachelor gelegten Themenbieten aufbauen: Human-Computer Interaction, Social Computing, Visual Computing und Weaving the Web. Für Studierende, die ein generalistisch geprägtes Studium bevorzugen wird der Studienpfad "Multiperspective Product Development" angeboten, der sich aus ausgewählten Modulen der anderen Schwerpunkte und des Wahlplichtkatalogs speist. Dieser wird aus organisatorischen Gründen auch als Schwerpunkt aufgeführt.
+Zur individuellen Schwerpunktbildung bietet des Masterprogramm vier Möglichkeiten, die alle auf den im Bachelor gelegten Themenbieten aufbauen: *Human-Computer Interaction*, *Social Computing*, *Visual Computing* und *Weaving the Web*. Für Studierende, die ein generalistisch geprägtes Studium bevorzugen wird der Studienpfad *Multiperspective Product Development* angeboten, der sich aus ausgewählten Modulen der anderen Schwerpunkte und des Wahlplichtkatalogs speist. Dieser wird aus organisatorischen Gründen auch als Schwerpunkt aufgeführt.
 
 #### Mensch-Computer Interaktion
-Medieninformatik und Mensch-Computer Interaktion stehen in vielerlei Hinsicht in einem engen Zusammenhang. So beinhaltet etwa der Fachbereich „Mensch-Computer Interaktion“ der GI e.V. die Fachgruppe „Medieninformatik“[^fachgruppe-gi-hci].
-Im Zusammenhang mit der „third wave of HCI“ (Susan Bødker, 2006 und 2016) wird die aktuelle Bedeutung der Disziplin der Mensch-Computer Interaktion für die Gestaltung interaktiver System und insbesondere ihre Rolle für die Medieninformatik deutlich. Nach Bødker besteht eine aktuelle Herausforderung der 3rd wave of HCI insbesondere darin, dass sich die Trennlinie von Technologienutzung zwischen beruflichem/gewerblichem und privatem Bereich mehr und mehr auflöst. Medieninformatik befasst sich insbesondere mit interaktiven und multimedialen Systemen in gewerblichen und privaten Nutzungskontexten und adressiert demnach die Herausforderungen der 3rd wave of HCI.
+Medieninformatik und Mensch-Computer Interaktion stehen in vielerlei Hinsicht in einem engen Zusammenhang. So beheimatet etwa der Fachbereich „Mensch-Computer Interaktion“ der GI e.V. die Fachgruppe „Medieninformatik“[^fachgruppe-gi-hci].
+Im Zusammenhang mit der „third wave of HCI“ (Susan Bødker, 2006[^Bødker2006] und 2016[^Bødker2016]) wird die aktuelle Bedeutung der Disziplin der Mensch-Computer Interaktion für die Gestaltung interaktiver System und insbesondere ihre Rolle für die Medieninformatik deutlich. Nach Bødker besteht eine aktuelle Herausforderung der 3rd wave of HCI insbesondere darin, dass sich die Trennlinie von Technologienutzung zwischen beruflichem/gewerblichem und privatem Bereich mehr und mehr auflöst. Medieninformatik befasst sich insbesondere mit interaktiven und multimedialen Systemen in gewerblichen und privaten Nutzungskontexten und adressiert demnach die Herausforderungen der 3rd wave of HCI.
 
-Dieser Schwerpunkt adressiert Kompetenzen, Fähigkeiten und Fertigkeiten die im Zusammenhang mit der Leitung und dem Management von Entwicklungsprojekten innovativer, interaktiver Systeme stehen. Dies umfasst die Nutzungskontexte in verschiedensten Anwendungsbereichen kritisch zu analysieren, Problemfelder zu identifizieren, Anforderungen zu spezifizieren, angemessene Vorgehen zur Lösungsentwicklung zu konzipieren und Gestaltungslösungen zu entwickeln und zu evaluieren. Absolventen dieses Schwerpunktes arbeiten als UX-Architects, Interaction Designer oder in Positionen mit ähnlichen Rollenbezeichnungen in Unternehmen/Institutionen und sind zentrale Entscheidungsträger, wenn es um die Entwicklung interaktiver Systeme aus Nutzungs -oder Nutzerperspektive geht. 
+Dieser Schwerpunkt adressiert Kompetenzen, Fähigkeiten und Fertigkeiten die im Zusammenhang mit der Leitung und dem Management von Entwicklungsprojekten innovativer, interaktiver Systeme stehen. Dies umfasst, die Nutzungskontexte in verschiedensten Anwendungsbereichen kritisch zu analysieren, Problemfelder zu identifizieren, Anforderungen zu spezifizieren, angemessene Vorgehen zur Lösungsentwicklung zu konzipieren und Gestaltungslösungen zu entwickeln und zu evaluieren. Absolventen dieses Schwerpunktes arbeiten als UX-Architects, Interaction Designer oder in Positionen mit ähnlichen Rollenbezeichnungen in Unternehmen/Institutionen und sind zentrale Entscheidungsträger, wenn es um die Entwicklung interaktiver Systeme aus Nutzungs -oder Nutzerperspektive geht. 
 
-Neben den vielfältigen weiterentwickelten Kompetenzen (formale, analytische, methodologische, gestalterische, technologische, etc.) haben sie die Befähigung zum fachlichen Diskurs vertieft und implementieren mit ihrer Kommunikationskompetenz eine wichtige Schnittstelle für die verschiedenen Stakeholder und Gewerke.
+Neben den vielfältigen weiterentwickelten Kompetenzen (formale, analytische, methodologische, gestalterische, technologische, etc.) haben die Studierenden die Befähigung zum fachlichen Diskurs vertieft und implementieren mit ihrer Kommunikationskompetenz eine wichtige Schnittstelle für die verschiedenen Stakeholder und Gewerke.
 
 #### Multi-Perspective Product Development
 
-Der Schwerpunkt „Multi-Perspective Product Development” bereitet die Studierenden auf die, für viele Projekte der Medieninformatik, typische Heterogenität vor, welche von der methodologischen über die technologische bis hin zur soziotechnischen Komponente reicht. Chakterisierende Merkmale solcher Projekte sind:
+Der Schwerpunkt „Multi-Perspective Product Development” ist eher generalistisch ausgeprägt und befähigt die Studierenden neben der wissenschaftlichen Arbeit zur Mitwirkung in und Konzeption und Führung von Projekten der Medieninformatik mit ihrer typischen Heterogenität, welche von methodologischen über technologische bis hin zu soziotechnischen Aspekten reicht. Chakterisierende Merkmale solcher Projekte sind:
 
 - Berücksichtigung von und Kommunikation mit Stakeholdern mit jeweils eigenen Perspektiven, die durch ihre Fachsprache, Methoden und Techniken sowie entsprechende Fähigkeiten, Verantwortlichkeiten und Kompetenzen definiert werden.
 - Heterogene soziale, technologische und ökonomische Rahmenbedingungen wie z.B. 
-- die Anwendung von unterschiedlichen, agilen bis hin zu „schwergewichtigen” Vorgehensmodellen,
-- lokale Zusammenarbeit in kleinen Teams bis hin zu dezentraler Zusammenarbeit in großen, international und interdisziplinär aufgestellten Teams,
-- ein breites Spektrum der Projektgegenstände von kleinen, nativen Apps für mobile Geräte bis hin zu großen, geschäftskritischen, internationalisierbaren und responsiven Web-Anwendungen,
-- ein breites Spektrum der Projektkontexte von kleinen Inhouse-Projekten bis hin zu großen, organisationsübergreifenden internationalen Projekten.
+  - die Anwendung von unterschiedlichen, agilen bis hin zu „schwergewichtigen” Vorgehensmodellen,
+  - lokale Zusammenarbeit in kleinen Teams bis hin zu dezentraler Zusammenarbeit in großen, international und interdisziplinär aufgestellten Teams,
+  - ein breites Spektrum der Projektgegenstände von kleinen, nativen Apps für mobile Geräte bis hin zu großen, geschäftskritischen, internationalisierbaren und responsiven Web-Anwendungen,
+  - ein breites Spektrum der Projektkontexte von kleinen Inhouse-Projekten bis hin zu großen, organisationsübergreifenden internationalen Projekten.
 
 #### Social Computing
 
@@ -171,5 +171,11 @@ Die inhaltliche Offenheit des dritten Fachsemesters mit drei Wahlpflichtmodulen 
 - Beispielzeugnis und Diploma Supplement Medieninformatik Master: <a href="../anhaenge/ma-zeugnis.pdf">ma-zeugnis.pdf</a>
 
 [^profil-studienanfaenger-2017]: Profil der Studienanfänger: <a href="../anhaenge/profil-studienanfaenger-2017.xlsx">profil-studienanfaenger-2017.xlsx</a>
+
 [^profil2_projektboerse]: Profil<sup 2 /sup> Projektbörse: <a href="http://projektboerse-profil2.th-koeln.de/">Homepage ProfiL2 Projektbörse</a>
+
 [^fachgruppe-gi-hci]: Fachbereich Mensch-Computer-Interaktion (MCI)/ Fachgruppe Medieninformatik: <a href="http://fb-mci.gi.de/mensch-computer-interaktion-mci/fachgruppen/medieninformatik.html">http://fb-mci.gi.de/mensch-computer-interaktion-mci/fachgruppen/medieninformatik.html</a>
+
+[^Bødker2006]: Bødker, S.: When Second Wave HCI Meets Third Wave Challenges. Proc. 4th Nordic Conference on Human-Computer Interaction: Changing Roles, ACM, 2006, pp. 1-8.
+
+[^Bødker2016]: Bødker, S.: Third-wave HCI, 10 Years Later - Participation and Sharing. ACM Interactions, Vol. 22, 2015, pp. 24-31.
