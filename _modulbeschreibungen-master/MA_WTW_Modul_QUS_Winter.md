@@ -33,8 +33,10 @@ Konstruktive und analytische Qualitätssicherung und Qualitätsmanagement für W
 - 108 h Selbststudium
 
 ## Angestrebte Lernergebnisse:
-Die Studierenden sollen befähigt werden, Ziele, Methoden, Techniken und Werkzeuge sowie organisatorischen Maßnahmen zur begleitenden Qualitätssicherung (QS) und zum Qualitätsmanagement für Web-Anwendungen nennen, charakterisieren und anwenden zu können,
-Methoden und Techniken hinsichtlich ihrer theoretischen Fundierung und ihrer Praxistauglichkeit analysieren und bewerten zu können, und ihre Fähigkeit zur selbständigen Weiterbildung festigen, 
+Die Studierenden werden befähigt, 
+- Ziele, Methoden, Techniken und Werkzeuge sowie organisatorischen Maßnahmen zur begleitenden Qualitätssicherung (QS) und zum Qualitätsmanagement für Web-Anwendungen beschreiben, diskutieren und anwenden zu können, sowie
+- Methoden und Techniken hinsichtlich ihrer theoretischen Fundierung und ihrer Eignung in einem Projektkontext analysieren und bewerten zu können, und 
+- sich selbständig wissenschaftlich und fachlich weiter zu bilden, 
 um die Methoden, Techniken und Werkzeuge zur Qualitätssicherung und zum Qualitätsmanagement in eigenen, auch fachübergreifenden Projekten auswählen und anwenden zu können.
 
 ## Inhalt:
@@ -51,8 +53,8 @@ Inhalte im Einzelnen:
 Aufbauend auf dem in der Vorlesung vermittelten Stoff erstellt jeder Teilnehmer im Seminar-Teil eine Ausarbeitung mit experimenteller Realisierung und eine Präsentation zu einem ausgewählten aktuellen Forschungsgebiet der Qualitätssicherung.
 
 ## Studien-/Prüfungsleistungen:
-* Seminar-Hausarbeit (40%) 
-* Seminarvortrag (20%)
+* Seminar-Hausarbeit (30%) 
+* Seminarvortrag (30%)
 * Klausur 60 Minuten (40%)
 
 ## Medienformen:
