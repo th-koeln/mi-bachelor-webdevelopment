@@ -110,5 +110,5 @@ Darüber hinaus findet sich im Personalhandbuch[^personalhandbuch] eine Vielzahl
 
 Seitens der »Nachwuchsförderung« kooperiert die Fakultät 10 mit zahlreichen Gymnasien und Berufskollegs in der Region.
 
-[^personalhandbuch]: Personalhandbuch der des Instituts für Informatik <a href="http://bit.ly/2mpcbWN">http://bit.ly/2mbFEYc</a>
+[^personalhandbuch]: <a href="http://bit.ly/2mpcbWN">Personalhandbuch der des Instituts für Informatik</a>
 

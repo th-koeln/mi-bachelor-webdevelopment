@@ -89,6 +89,6 @@ Das Institut für Informatik beteiligt sich jährlich am „Tag der offenen Tür
 Darüber hinaus bietet die Medieninformatik einige Veranstaltungen (siehe außercurriculare Maßnahmen) wie den jährlichen Showcase an, um hier auch eine Plattform für Studieninteressierte zu schaffen. Diese Angebote werden gut angenommen.  
 
 
-[^int-office]: International Office: <a href="https://www.th-koeln.de/internationales/international-office_1986.php">https://www.th-koeln.de/internationales/international-office_1986.php</a>
-[^pruefungsordnung-bachelor]: Prüfungsordnung Medieninformatik Bachelor: <a href="https://www.th-koeln.de/studium/medieninformatik-bachelor--ordnungen-und-formulare_3963.php">https://www.th-koeln.de/studium/medieninformatik-bachelor--ordnungen-und-formulare_3963.php</a>
-[^pruefungsordnung-master]: Prüfungsordnung Medieninformatik Master (Entwurf): <a href="../anhaenge/MIMPO_Entwurf_20170218.pdf">MIMPO_Entwurf_20170218.pdf</a>
+[^int-office]: <a href="https://www.th-koeln.de/internationales/international-office_1986.php">Website International Office</a>
+[^pruefungsordnung-bachelor]: <a href="https://www.th-koeln.de/studium/medieninformatik-bachelor--ordnungen-und-formulare_3963.php">Prüfungsordnung Medieninformatik Bachelor</a>
+[^pruefungsordnung-master]: <a href="../anhaenge/MIMPO_Entwurf_20170218.pdf">Prüfungsordnung Medieninformatik Master (Entwurf)</a>

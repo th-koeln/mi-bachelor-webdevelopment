@@ -173,11 +173,11 @@ Die inhaltliche Offenheit des dritten Fachsemesters mit drei Wahlpflichtmodulen 
 - Ziele-Module-Matrix Medieninformatik Master: <a href="../anhaenge/ma-Ziele-Module-Matrix-Medieninformatik-Master.pdf">ma-Ziele-Module-Matrix-Medieninformatik-Master.pdf</a>
 - Beispielzeugnis und Diploma Supplement Medieninformatik Master: <a href="../anhaenge/ma-zeugnis.pdf">ma-zeugnis.pdf</a>
 
-[^profil-studienanfaenger-2017]: Profil der Studienanfänger: <a href="../anhaenge/profil-studienanfaenger-2017.xlsx">profil-studienanfaenger-2017.xlsx</a>
+[^profil-studienanfaenger-2017]: <a href="../anhaenge/profil-studienanfaenger-2017.xlsx">Profil der Studienanfänger</a>
 
-[^profil2_projektboerse]: Profil<sup 2 /sup> Projektbörse: <a href="http://projektboerse-profil2.th-koeln.de/">Homepage ProfiL2 Projektbörse</a>
+[^profil2_projektboerse]: <a href="http://projektboerse-profil2.th-koeln.de/">Homepage ProfiL2 Projektbörse</a>
 
-[^fachgruppe-gi-hci]: Fachbereich Mensch-Computer-Interaktion (MCI)/ Fachgruppe Medieninformatik: <a href="http://fb-mci.gi.de/mensch-computer-interaktion-mci/fachgruppen/medieninformatik.html">http://fb-mci.gi.de/mensch-computer-interaktion-mci/fachgruppen/medieninformatik.html</a>
+[^fachgruppe-gi-hci]: <a href="http://fb-mci.gi.de/mensch-computer-interaktion-mci/fachgruppen/medieninformatik.html">Fachbereich Mensch-Computer-Interaktion (MCI)/ Fachgruppe Medieninformatik</a>
 
 [^Bødker2006]: Bødker, S.: When Second Wave HCI Meets Third Wave Challenges. Proc. 4th Nordic Conference on Human-Computer Interaction: Changing Roles, ACM, 2006, pp. 1-8.
 
