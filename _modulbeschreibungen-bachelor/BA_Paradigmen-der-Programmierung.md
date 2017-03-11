@@ -43,6 +43,7 @@ Klausur sowie erfolgreiche Teilnahme am Praktikum als Prüfungsvorleistung
 
 ## Medienformen:
 * Foliensammlung
+* Screencasts
 * Skript
 * Beispiellösungen
 
