@@ -19,7 +19,7 @@ schwerpunkt: wtw, sc, vc, mpd, hci
 ---
 
 ## Kurzbeschreibung
-In einem Projekt wird eine Idee für ein Produkt oder einen Dienst entwickelt, eine Recherche des Marktes und Standes des wissenschaftlichen Wissens durchgeführt, und ein Konzept soweit definiert und dokumentiert, dass in einem nachfolgenden Schritt ein Entwicklerteam in der Lage ist, einen ersten Prototyp zu realisieren.
+In einem Projekt wird eine Idee für ein Produkt oder einen Dienst entwickelt oder weiterentwickelt, eine Recherche des Marktes und Standes von Wissenschaftund Technik durchgeführt, und ein Konzept soweit definiert und dokumentiert, dass in einem nachfolgenden Projekt ein Entwicklerteam in der Lage ist, einen ersten Prototyp zu realisieren oder zu erweitern.
 
 ## Lehrform/SWS: 
 Projektarbeit
@@ -29,21 +29,26 @@ Projektarbeit
 
 ## Angestrebte Lernergebnisse:
 Die Studentinnen und Studenten
-- können Kreativitätstechniken anwenden um zu Produktideen zu kommen
-- können zu einem kritischen Fachdiskurs über Potenziale und Risiken der Ideen beitragen
-- können wissenschaftliche Gebiete, die für das Produkt wesentlich sein können, identifizieren, den Stand des Wissens ermitteln und in einem Fachdiskurs darstellen und diskutieren
-- können auf Basis aktuellen Wissens und aktueller Dienste und Technologien ein Konzept für ein Produkt entwickeln, das in einem nachfolgenden Schritt von einem Team von Entwicklern als Prototyp realisiert werden kann.
-- können die Vision in einen Design Mockup umsetzen
+- können innovative Methoden und Kreativitätstechniken auswählen, anwenden und deren Anwendung begründen um zu Produktideen zu kommen, und dabei Probleme im Umfeld der Medienproduktion, Bearbeitung und Distribution grundlagen-basiert, systemanalytisch und multiperspektivisch analysieren, formulieren und formalisieren, die oft unstrukturiert und unvollständig definiert sind und von konkurrierenden Stakeholdern unterschiedlich priorisiert werden;
+- können wissenschaftliche Gebiete und neuere Erkenntnisse und Entwicklungen in der Informatik und insbesondere der Medieninformatik, die für das Produkt wesentlich sein können, identifizieren, den Stand des Wissens ermitteln und in einem Fachdiskurs darstellen und diskutieren und zu einem kritischen Fachdiskurs über Potenziale und Risiken der Ideen beitragen;
+- können auf Basis aktuellen Wissens und aktueller Dienste und Technologien ein Konzept für ein Produkt entwickeln, das in einem nachfolgenden Schritt von einem Team von Entwicklern als Prototyp realisiert werden kann, und diese Vision in einen Design Mockup umsetzen;
+- können eigenverantwortlich und professionell Projekte im Umfeld der Medieninformatik organisieren, durchführen, kontrollieren und leiten.
 
 ## Inhalt:
 Das Projekt gliedert sich in zwei Teile:
-- In der eigentlichen Projektarbeit wird die Vision entwickelt und diskutiert, Alleinstellungsmerkmale herausgearbeitet, Alternativen für Nutzungskonzept und Architektur evaluiert und ein Konzept inklusive eines Projektplans erstellt.
-- In dem Teil „Advanced Seminar“ wird die Recherche durchgeführt: es werden Analysetechniken für die Bewertung von kommerziellen Lösungen angewandt. Hierbei kann es sich sowohl um Konkurrenzprodukte handeln als auch um Dienste oder Frameworks, auf die das Produkt aufbauen könnte.  Als Schwerpunkt dieses Teils werden wissenschaftliche Felder identifiziert, die Input und für das Produkt liefern können, es werden relevante Ergebnisse ermittelt und in einem wissenschaftlichen Seminar diskutiert.
+- In der eigentlichen Projektarbeit wird eine Vision entwickelt und diskutiert, Alleinstellungsmerkmale herausgearbeitet, Alternativen für Nutzungskonzept und Architektur evaluiert und ein Konzept inklusive eines Projektplans erstellt. Die Betreuer definieren zusammen mit den Studierenden die Zielsetzung und führen mit den Studierenden einen regelmäßigen Diskurs über den Fortgang des Projekts. Sie vereinbaren außerdem Meilensteine, deren Ergebnisse in geeigneter Form in die Endnote einfließen. Kommunikations- und Kooperationsformen werden vorab gemeinsam zwischen Betreuern und Studierenden festgelegt und in periodischen Abständen gemeinsam reflektiert.
+- In dem Teil „Advanced Seminar“ recherchieren und erschließen die Studierenden im Selbststudium für den Projektgegenstand relevante Literatur zum Stand von Wissenschaft und Technik. Sie wenden auch Analysetechniken für die Bewertung vorhandener kommerziellen Lösungen an. Hierbei kann es sich sowohl um Konkurrenzprodukte handeln als auch um Dienste oder Frameworks, auf die der Projektgegenstand aufbauen könnte. Als Schwerpunkt dieses Teils identifizieren die Studierenden wissenschaftliche Felder, die für den Projektgegenstand relevant sind, recherchieren entsprechende Literatur und vermitteln und diskutieren diese in einem wissenschaftlichen Seminar.
 
 ## Studien-/Prüfungsleistungen:
-Projektarbeit
+Projektarbeit und Recherche mit Analyse. Dokumentation der geleisteten Arbeit mit Aufgabenstellung, Stand von Wissenschaft und Technik, verwendeten Problemlösungsmethoden, erzielten Resultaten, offenen Fragen, verwendeten Quellen etc..
+
+In die Gesamtnote gehen zwei Leistungen zu je gleichen Anteilen (50%) ein:
+- Abschlusspräsentation: Fachliche Aufgabe.
+- Abschlussbericht: Fachliche Aufgabe.
 
 ## Medienformen:
-n/a
+Artefakt-Repository, Kollaborationssysteme
 
 ## Literatur:
+
+Je nach Studienschwerpunkt und fachlicher Aufgabe
