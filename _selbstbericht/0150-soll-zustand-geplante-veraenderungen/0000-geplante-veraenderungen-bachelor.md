@@ -41,9 +41,6 @@ Das Lehr- und Forschungsbereich "Soziotechnische Systeme" findet sich in den zu 
 Die im Folgenden dargestellten geplanten Veränderungen des Bachelorstudienprogramms dienen zur Beseitigung erkannter Schwächen (vgl. Defizite Medieninformatik Bachelor).
 
 
-[^antrag-wiederzuweisung]: Wiederzuweisungsantrag 2013: <a href="../anhaenge/inst-AntragWiederzuweisung_Motivation_2013.pdf">inst-AntragWiederzuweisung_Motivation_2013.pdf</a>
-
-
 ### Verbesserungen des Studienaufbaus
 
 
@@ -220,7 +217,10 @@ In der folgenden Abbildung sind im linken Teil semesterweise die Pflichtmodule d
 
 {% include image.html url="bilder/ma-mpo3-mpo4.png" caption="Module des Masterstudiengangs Medieninformatik. Links das aktuelle und rechts das zukünftige Curriculum." %}
 
+Das Personalcontrolling der TH-Köln geht bestätigt die ausreichende Lehrkapazität für das vorliegende Konzept[^kapa-nachweis-verwaltung]. 
 
+[^kapa-nachweis-verwaltung]: <a href="../anhaenge/th-verwaltung-kapa-nachweis.pdf">Nachweis über ausreichende Lehrkapazität durch das Team 7.3(Personalcontrolling) der TH Köln</a>
 
+[^antrag-wiederzuweisung]: <a href="../anhaenge/inst-AntragWiederzuweisung_Motivation_2013.pdf">Wiederzuweisungsantrag des Instituts für Informatik (2013)</a>
 
 
