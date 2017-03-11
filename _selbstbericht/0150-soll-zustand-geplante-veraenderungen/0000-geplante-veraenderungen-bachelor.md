@@ -90,10 +90,13 @@ Mit dieser Änderungen sollen folgende bekannte Defizite ausgeglichen werden:
 - Übergang in den Spezialisierungsteil vom vierten ins fünfte Fachsemester
 - Übergang ins Abschlussprojekt
 - Zeitproblem beim Einstieg ins Praxisprojekt
+- zu wenige Outgoings
 
 Im vierten Semester wird ein Vertiefungsmodul mit einem Gewicht von 20 Creditpoints installiert. Hier stehen drei Vertiefungsrichtungen zur Verfügung: Visual Computing, Social Computing und Web-Development. Im Modul ist ein Projektanteil von etwa fünf Creditpoints vorgesehen. Mit Hilfe des Vertiefungsmoduls werden eine Reihe von Schwächen ausgeglichen. Die Studierenden haben hier die Möglichkeit tief in ein Themenfeld einzudringen und darüber ggf. eine Spezialisierungsrichtung einzuschlagen. Durch das Zusammenfassen mehrerer Module werden im Vertiefungsmodul konsistente Regularien, sowie inhaltliche und organisatorische Zusammenhänge geschaffen. Die Projektkontexte und die inhaltlichen Perspektiven der Projekte werden reduziert. Der Übergang in den Spezialisierungsabschnitt des Studiums im fünften Semester wird idealerweise erleichtert, da durch die Wahl des Vertiefungsmoduls in vielen Fällen schon eine Spezialisierungsrichtung vorgegeben ist. 
 
 Das Entwicklungsprojekt im fünften Semester wird inhaltlich geöffnet. Im aktuellen Akkreditierungszeitraum war dieses Projekt fest an die inhaltlichen Perspektiven "Mensch-Computer Interaktion" und  "Verteilte Anwendungen" gebunden. Durch die inhaltliche Öffnungen können die Studierenden jetzt ihre fachliche Vertiefung entsprechend ihren Neigungen wählen. Damit geht die freie Wahl der betreuenden Professoren einher. Idealerweise hat sich durch dieses Projekt und das vorangegangene Vertiefungsmodul bereits eine inhaltliche und organisatorische Zusammenarbeit gefestigt, die den Übergang ins Abschlussprojekt deutlich erleichtert.
+
+Das vierte Semester eignet sich jetzt aus verschiedenen Gründen gut für ein Auslandssemester. Die Studierenden verfügen über ausreichende Qualifikationen und Projekterfahrungen, um in verschiedenen Kontexten handlungsfähig zu sein. Sie stehen aber noch vor dem Spezialisierungsteil des Studiums und verfügen damit idealerweise über die fachliche, mentale und organisatorische Offenheit für ein Austauschsemester. Ob der wenigen Module im vierten Semester und vor allem wegen des großen Vertiefungsmoduls können im Ausland erworbene Qualifikationen sehr flexibel anerkannt werden. Die Anerkennung erfolgt auf Basis des "Übereinkommen über die Anerkennung von Qualifikationen im Hochschulbereich in der europäischen Region" [^lissabon-vertrag].
 
 
 ### Weitere Änderungen
@@ -119,6 +122,8 @@ Die Änderungen im Bachelorstudienprogramm sind weitgehend kapazitätsneutral. D
 Die Studierenden verteilen sich über die Vertiefungsmodule, in die auch bisherige Wahlpflichtmodule integriert wurden. Somit reduziert sich hier in Summe die Lehrbelastung. Durch die resultierende Reduktion ist es möglich das Modul "Web-Architekturen" kapazitätsneutral anzubieten. Das "Entwicklungsprojekt" im fünften Semester ist zukünftig nicht mehr an nur zwei Lehrende gebunden, sondern kann von allen Lehrenden der Informatik betreut werden. Dadurch verteilt sich die Lehrbelastung.
 
 Lediglich das Vertiefungsmodul "Social Computing" ist nicht kapazitätsneutral, hier wurde jedoch zusätzliche Kapazität aufgebaut.
+
+Das Personalcontrolling der TH-Köln geht bestätigt die ausreichende Lehrkapazität[^kapa-nachweis-verwaltung] für das vorliegende Konzept des Medieninformatik Master Studiengangs. 
 
 ## Geplante Veränderungen des Master-Studiengangs gegenüber dem aktuellen Akkreditierungszeitraum
 
@@ -205,7 +210,7 @@ Die Mitarbeit der Studierenden in Projekten trägt überdies zum Ausbau der Fors
 
 Im dritten Fachsemester sind neben dem Projekt drei Wahlmodule vorgesehen, die - im Gegensatz zum bisherigen Curriculum - an keinerlei weitere Regularien gebunden sind. Im aktuellen Curriculum werden die Wahlpflichtmodule in vier Kategorien eingeteilt und pro Kategorie muss ein Modul belegt werden. Die Kategorisierung der Wahlmodule führt jedoch nicht selten dazu, dass den Studierenden keine oder nur sehr wenige Optionen offen stehen. Im neuen Curriculum können als Wahlmodule alle Module des Medieninformatik- und des Informatik-Masterstudiengangs gewählt werden.
 
-Durch die offene Gestaltung des dritten Fachsemesters eignet sich selbiges gut für ein Auslandssemester, da hier die Anerkennung von Modulen sehr leicht fallen sollte. 
+Durch die offene Gestaltung des dritten Fachsemesters eignet sich selbiges gut für ein Auslandssemester, da hier die Anerkennung von Modulen sehr leicht fallen sollte. Die Anerkennung der im Ausland erworbenen Qualifikationen erfolgt auf Basis des "Übereinkommen über die Anerkennung von Qualifikationen im Hochschulbereich in der europäischen Region" [^lissabon-vertrag].
 
 
 ### Auswirkungen auf die Lehrkapazität
@@ -217,10 +222,10 @@ In der folgenden Abbildung sind im linken Teil semesterweise die Pflichtmodule d
 
 {% include image.html url="bilder/ma-mpo3-mpo4.png" caption="Module des Masterstudiengangs Medieninformatik. Links das aktuelle und rechts das zukünftige Curriculum." %}
 
-Das Personalcontrolling der TH-Köln geht bestätigt die ausreichende Lehrkapazität für das vorliegende Konzept[^kapa-nachweis-verwaltung]. 
+Das Personalcontrolling der TH-Köln geht bestätigt die ausreichende Lehrkapazität[^kapa-nachweis-verwaltung] für das vorliegende Konzept des Medieninformatik Master Studiengangs. 
 
 [^kapa-nachweis-verwaltung]: <a href="../anhaenge/th-verwaltung-kapa-nachweis.pdf">Nachweis über ausreichende Lehrkapazität durch das Team 7.3(Personalcontrolling) der TH Köln</a>
 
 [^antrag-wiederzuweisung]: <a href="../anhaenge/inst-AntragWiederzuweisung_Motivation_2013.pdf">Wiederzuweisungsantrag des Instituts für Informatik (2013)</a>
-
+[^lissabon-vertrag]: <a href="https://de.wikipedia.org/wiki/%C3%9Cbereinkommen_%C3%BCber_die_Anerkennung_von_Qualifikationen_im_Hochschulbereich_in_der_europ%C3%A4ischen_Region">Erläuterung zum Übereinkommen über die Anerkennung von Qualifikationen im Hochschulbereich in der europäischen Region</a>
 
