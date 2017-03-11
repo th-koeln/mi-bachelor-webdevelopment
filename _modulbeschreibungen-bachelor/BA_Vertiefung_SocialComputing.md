@@ -81,7 +81,7 @@ Die Studierenden sollen in der Lage sein, die Möglichkeiten und Grenzen des Gam
 * Statistische Verfahren für quantitative Forschung
 * Aussagekraft der Ergebnisse (statistische Signifikanz, interne und externe Valididät)
 
-###
+### Gamification
 * Grundelemente der Gamification
 * Stufen der Gamification
 * Ludifikation
