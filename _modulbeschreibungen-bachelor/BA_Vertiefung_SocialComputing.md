@@ -41,14 +41,56 @@ Gesamtaufwand 600 h, davon
 - 150h Projekt
 
 ## Angestrebte Lernergebnisse:
-siehe jeweilige Fächerbeschreibung
+
+### Soziotechnische Systeme
+Die Studierenden sollen das komplexe Wechselspiel zwischen informationstechnischen Systemen und gesellschaftlichen Normen und Prozessen verstehen, analysieren und einordnen können. Sie sollen in der Lage sein, Systeme nach ethischen, psychologischen und soziologischen Kriterien zu gestalten und die Auswirkungen einschätzen zu können. Die grundlegenden Modelle der verschiedenen Disziplinen sollen bekannt und verstanden werden.
+
+### Empirische Forschungsmethoden
+Die Studierenden sollen die unterschiedlichen Herangehensweisen quantitativer und qualitativer Forschungsmethoden verstehen. Darüber hinaus sollen ausgewählte quantitative und qualitative Methoden angewendet werden können. Die Studierenden sollen in der Lage sein, einfache Forschungsdesigns zu entwickeln und nach wissenschaftlichen Standards durchzuführen. 
+
+### Gamification
+Die Studierenden sollen in der Lage sein, die Möglichkeiten und Grenzen des Gamification-Ansatzes, sowohl für die analoge als auch die digitale Welt, einordnen zu können. Die verschiedenen Stufen der Gamification sollen verstanden und die Maßnahmen in Gestaltungsprozessen eingesetzt werden. Die Studierenden sollen die psychologischen Grundlagen verstehen und die gesellschaftlichen Implikationen bewerten können. Die Analyse von Regeln und Prozessen und daraus abgeleitete Gamification-Maßnahmen sowie die Entwicklung von Serious Games sollen praktisch umgesetzt werden, z.B. für Lernanwendungen, Online-Communities oder soziale Dienste.
+
 
 ## Inhalt:
-siehe Modulbeschreibungen:
-- Soziotechnische Systeme
-- Empirische Forschungsmethoden
-- Gamification
-- Projekt
+
+### Soziotechnische Systeme
+* Modelle der Sozioinformatik
+* E-Learning
+* Gestaltungsprinzipien für soziotechnische Systeme
+* Technikgenese und Ko-Evolution
+* Computerethische Grundlagen
+* Psychologische Grundlagen
+* Soziologische Grundlagen
+* Digitale Technologien für soziale Dienste
+* Digitale Technologien in Organisationen
+* Digitale Technologien in der Gesellschaft
+* E-Goverment
+
+### Empirische Forschungsmethoden
+* Wissenschaftstheoretische Grundlagen
+* Induktion, Deduktion, Abduktion
+* Unterschied zwischen quantitativer und qualitativer Forschung
+* Interviews gestalten, durchführen und auswerten
+* Beobachtungsmethoden
+* Ethnographische Methoden
+* Hypothesengewinnung und Theoriebildung
+* Experimental-Designs
+* Statistische Verfahren für quantitative Forschung
+* Aussagekraft der Ergebnisse (statistische Signifikanz, interne und externe Valididät)
+
+###
+* Grundelemente der Gamification
+* Stufen der Gamification
+* Ludifikation
+* Historische Grundlagen
+* Psychologische Grundlagen
+* Gesellschaftliche Einordnung
+* Einsatzgebiete verstehen und einordnen
+* Planung und Realisierung von Gamification
+* Gestaltungregeln
+* Serious Games
+
 
 
 ## Studien-/Prüfungsleistungen:
