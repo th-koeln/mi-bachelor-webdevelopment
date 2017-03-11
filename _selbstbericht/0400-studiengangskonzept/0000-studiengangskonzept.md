@@ -53,9 +53,12 @@ Das Entwicklungsprojekt im fünften Semester bietet die Möglichkeit zur weitere
 
 Zusammen mit dem Praxisprojekt und der Bachelorarbeit stehen somit 60 Creditpoints, also ein Drittel der Studienleistungen, zur individuellen Fachvertiefung zur Verfügung.
 
-### Projektorientierung und Aufbau der Projektgrößen
+### Projektorientierung, Aufbau der Projektgrößen und interdisziplinäre Projekterfahrung
 
 Projektorientierung und forschendes Lernen sind seit der Erstakkreditierung des Studiengangs elementare Bestandteile des Studienkonzepts. Diese Ansätze haben in den letzten Jahren vermehrt Einzug in verschiedene Module erhalten. Um hier die Studierenden einerseits nicht zu überfordern, sie aber aber trotzdem an größere und komplexere Projekte und Fragestellungen heranzuführen, werden die Projektanteile und -gewichte im Studiengang behutsam aufgebaut. Das Module "Einführung in die Medieninformatik" startet im ersten Semester mit einem Projektanteil von 50% (2,5 CP) um die Studierenden initial mit dem Lehrformat "Projekt" im Hochschulkontext vertraut zu machen. Das Gewicht der Projekte wird dann im dritten und vierten Semester auf 5 Creditpoints erhöht. Das Modul "Entwicklungsprojekt" im fünften Semestern ist mit einem Gewicht von 10 Creditpoints ausgestattet und leitet über zum Praxisprojekt (10 CP) und der Bachelorarbeit (12 CP). Das Projektgewicht von 12 Creditpoints wird später, im konsekutiven Masterstudiengang, weiter geführt. Ausgewählte Projekte können über die ProfiL2-Projektbörse[^profil2_projektboerse] auch für Studierende anderer Fakultäten zugänglich gemacht werden.
+
+Der Projektanteil des Vertiefungsmoduls im vierten Fachsemester soll auch genutzt werden, um Erfahrungen in interdisziplinärer Projektarbeit sammeln zu können. Dabei liegt die Fokussierung auf der Bedeutung und Funktion interdisziplinärer Arbeitsprozesse. Die Studierenden sollen lernen in heterogenen Teams zu agieren und Entscheidungen zu treffen, sowie Verständnis für die Methoden und Denkweisen anderer Disziplinen zu entwickeln und über die eigenen Fachgrenzen hinaus zielgerichtet kommunizieren und arbeiten zu können. Desweiteren sollen sie üben, sich selbständig zu organisieren, ihre eigene Rolle im interdisziplinären Team zu finden und ihre eigene Fachperspektive in ein Projekt einzubringen. Die strukturelle Verankerung interdisziplinäre Projektarbeit erfolgt entweder im interdisziplinären Großprojekt, welches in der ProfiL2 Projektwoche der TH Köln zentral angeboten und organisiert wird, oder in eignen, fachübergreifenden Projektangeboten.
+
 
 ### Wissenschaftliches Arbeiten
 
