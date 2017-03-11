@@ -51,5 +51,5 @@ Klausur sowie erfolgreiche Teilnahme am Praktikum als Prüfungsvorleistung
 * W.F. Clocksin, C.S. Mellish, Programming in Prolog, Springer-Verlag 2003
 * Gamma, E., Helm, R., Johnson, R., & Vlissides, J. (2015). Design patterns: Entwurfsmuster als Elemente wiederverwendbarer objektorientierter Software. Frechen: Mitp.
 * Odersky, Spoon, Venners, Programming in Scala, Artima Press 2011
-* Goetz, Bloch, Bowbeer, Lea, Java-Concurrency in Practise, Addison Wesley 2006
+* Goetz, B., Peierls, T., Bloch, J., Bowbeer, J., Holmes, D., Lea, D. (2006). Java-Concurrency in Practise. Addison Wesley.
 * Tate, B. A., & Klicman, P. (2011). Sieben Wochen, sieben Sprachen: Verstehen Sie die modernen Sprachkonzepte. Sebastopol: O'Reilly. 
