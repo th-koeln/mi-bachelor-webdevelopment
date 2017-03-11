@@ -21,7 +21,7 @@ In der Vertiefung „Social Computing” werden die Wechselwirkungen zwischen Ge
 Das Modul verbindet daher Theorien, Modelle und Methodik der Human- und Sozialwissenschaften mit anwendungsorientierter Informatik.
 
 ## Lehrform/SWS: 
-18 SWS: Vorlesung 6 SWS, Praktikum 6 SWS, Projekt 6 SWS
+16 SWS: Vorlesung 6 SWS, Praktikum 6 SWS, Projekt 4 SWS
 
 ## Lehrveranstaltungen
 * Soziotechnische Systeme
