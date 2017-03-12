@@ -152,6 +152,11 @@ Klausur sowie erfolgreiche Teilnahme am Praktikum als Prüfungsvorleistung
 %begin-modulMeta%**Modulverantwortlich**: Prof. Hans Kornacher%end-modulMeta%%begin-modulMeta%**Kürzel**: AVM%end-modulMeta%%begin-modulMeta%**Studiensemester**: 3%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 5%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: Keine über die Zulassungsbedingungen hinausgehenden Voraussetzungen%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
 
 
+## Kurzbeschreibung
+
+Im Mittelpunkt dieses Moduls steht die digitale audiovisuelle Medienproduktion in den Formaten Porträt- und Dokumentarfilm.
+
+
 ## Lehrform/SWS:
 
 4 SWS: Vorlesung 2 SWS; Projekt 2 SWS
@@ -170,18 +175,20 @@ Gesamtaufwand 150 h, davon
 
 ## Angestrebte Lernergebnisse:
 
-Die praktische Umsetzung des Vorlesungsstoffes, die Kommunikation und Zusammenarbeit im Team über Themenbereiche dieses Faches und die Präsentation von eigenen Projekten und Untersuchungsergebnissen sind die Lernziele des Moduls „Audiovisuelles Medienprojekt“. Neben dieser formulierten Fachkompetenz, Methodenkompetenz und Kommunikationskompetenz stehen gerade die sogenannten Softskills Teamfähigkeit und Kommunikationsfähigkeit im Focus der Ausbildung in diesem Modul.
+- Die Studierenden kennen die grundlegenden Erzählformen und Formate audiovisueller Medien und können auf der Basis klassischer Erzählmuster eigene audiovisuelle Erzählformen entwickeln. 
 
-Um mit der sich hieraus entwickelnden erhöhten Komplexität der Fragestellungen kompetent umgehen zu können, wird in diesem Modul inhaltlich auf die technischen Grundlagen der audiovisuellen Produktion besonders eingegangen. Die thematische Gewichtung der Inhalte ist im Hinblick auf die Vermittlung der Befähigung ausgerichtet, selbstständig in der audiovisuellen Produktion auftretende Problemstellungen lösen zu können und die verwendeten technischen Werkzeuge, wie Videokamera, Tonaufnahmegeräte und Schnittsysteme technisch richtig und gestalterisch aussagekräftig einzusetzen. Über diese Methodenkompetenz hinaus wird in Filmanalysen und einer kritischen Betrachtung medialer Ereignisse die Fähigkeit zur Reflexion vermittelt. Dabei spielt die Begründung der Auswahl bestimmter Medientechnologien und deren Einsatz in der Medienproduktion eine wichtige Rolle.
+- Die Studierenden können die in der audiovisuellen Produktion auftretende Problemstellungen selbstständig lösen und die verwendeten Medientechnologien, wie Videokamera, Tonaufnahmegeräte und Schnittsysteme technisch richtig und gestalterisch aussagekräftig einzusetzen.
 
-Die Studierenden kennen die grundlegenden Erzählformen audiovisueller Medien und haben folgende Fertigkeiten: Sie können eigene audiovisuelle Erzählformen auf der Basis klassischer Erzählmuster entwickeln und sind befähigt zur Analyse, Diskussion und zur kritischen Betrachtung audiovisueller Medieninhalte.
+- Sie sind befähigt zur Analyse, Diskussion und zur kritischen Betrachtung audiovisueller Medieninhalte.
 
-Pragmatisches Ziel ist es, in den unterschiedlichsten Berufsfeldern digitaler audiovisueller Medien die Entwicklung und den Einsatz audiovisuellen Content zu beraten, zu planen, durchzuführen oder zu verantworten.
+- Die Studierenden können in den unterschiedlichsten Berufsfeldern digitaler audiovisueller Medien die Entwicklung und den Einsatz audiovisuellen Content beraten, planen, selbst durchführen und verantworten.
 
 
 ## Inhalt:
 
 Im Mittelpunkt dieses Moduls steht die digitale audiovisuelle Medienproduktion.
+
+Die praktische Umsetzung des Vorlesungsstoffes, die Kommunikation und Zusammenarbeit im Team  und die Präsentation von eigenen Ideen und Projekten sind die Lerninhalte des Moduls „Audiovisuelles Medienprojekt“. Neben der Fachkompetenz und Methodenkompetenz stehen in diesem Modul gerade die sogenannten Softskills Teamfähigkeit und Kommunikationsfähigkeit im Focus.
 
 Die Projektarbeit gliedert sich dabei in die selbstständige Entwicklung, Ausarbeitung und Präsentation eines Filmthemas, in die praktische Umsetzung in einem Filmprojekt und in die Nachbearbeitung und Montage in einer dramaturgischen Erzählform.
 
@@ -204,16 +211,16 @@ Begleitend zu der Produktion werden folgende fachspezifischen Inhalte thematisie
 
 ## Studien-/Prüfungsleistungen:
 
-Projektarbeit und schriftliche Ausarbeitung
+Projektarbeit
 
 
 ## Medienformen:
 
-- Beamer-gestützte Vorlesungen (Folien in elektronischer Form)
+- Beamer-gestützte Vorlesungen
 
-- Beispiele aus verschiedenen Medien in elektronischer Form
+- Beispiele aus verschiedenen Medien in elektronischer Form: Filmbeispiele, Webvideos
 
-- Projektarbeit in Teams, um die erlernten Methoden und Techniken einzuüben und zu vertiefen;
+- Audiovisuelle Aufnahme- und Wiedergabegeräte
 
 
 ## Literatur:
@@ -575,7 +582,7 @@ Gesamtaufwand 150 h, davon
 
 ## Angestrebte Lernergebnisse:
 
-Die Studierenden sollen die Basiskonzepte und Grundlagen der Betriebssysteme und der Rechnerarchitektur kennen und verstehen, sowie ein einheitliches konsistentes Begriffsgebäude zu, teilweise aus der persönlichen Praxis bekannten, Sachverhalten der IT aufbauen
+Die Studierenden sollen die Basiskonzepte und Grundlagen der Betriebssysteme und der Rechnerarchitektur kennen und verstehen, sowie ein einheitliches konsistentes Begriffsgebäude zu, teilweise aus der persönlichen Praxis bekannten, Sachverhalten der IT aufbauen und anwenden können.
 
 
 ## Inhalt:
@@ -621,7 +628,9 @@ Vorlesung mit eingebetteten Übungselementen
 
 Die Studierenden können die inhaltlichen Ausrichtungen und die Zielsetzungen der Lehr- und Anwendungsdisziplin Medieninformatik benennen und gegenüber verwandten oder ähnlichen Disziplinen abgrenzen. 
 
-Die Studierenden kennen Grundkonzepte der Informatik (z.B. Anforderungen) sowie audiovisueller und interaktiver Medientechnologien, kennen architekturelle Alternativen interaktiver Systeme und kennen Gestaltungsdimensionen für deren Informations- und Kommunikationsinhalte. Die Studierenden sind sensibilisiert für Modellierungs- und Entwicklungsaufgaben von medienbasierten Software-Systemen zur Unterstützung menschlichen Handelns in betrieblichen und privaten Kontexten.
+Die Studierenden kennen Grundkonzepte der Informatik (z.B. Anforderungen) sowie audiovisueller und interaktiver Medientechnologien, kennen architekturelle Alternativen interaktiver Systeme und kennen Gestaltungsdimensionen für deren Informations- und Kommunikationsinhalte und können diese Kenntnisse auf eine gegebene Problemstellung anwenden. 
+
+Die Studierenden sind sensibilisiert für Modellierungs- und Entwicklungsaufgaben von medienbasierten Software-Systemen zur Unterstützung menschlichen Handelns in betrieblichen und privaten Kontexten.
 
 Sie kennen grundlegende Konzepte, Prozesse/Verfahren und Modelle der Medieninformatik und haben erste Projekterfahrungen gesammelt. Sie können Systemkonzeptionen, zugehörige Modellierungen, Abwägungen und Artefakte für ein Fachpublikum angemessen dokumentieren und mittels verschiedener medialer Formen kommunizieren.
 
@@ -734,7 +743,7 @@ Die Studierenden
 
 - können moderne Webanwendungen auf der Basis von Fachbegriffen analysieren und einordnen
 
-- um kompetent am fachlichen Diskurs über Eigenschaften, Auswirkungen und Gestaltungsalternativen von Web Anwendungen teilnehmen zu können.
+um kompetent am fachlichen Diskurs über Eigenschaften, Auswirkungen und Gestaltungsalternativen von Web Anwendungen teilnehmen zu können.
 
 
 ## Inhalt:
@@ -916,7 +925,7 @@ Gesamtaufwand 240 h, davon
 
 ## Angestrebte Lernergebnisse:
 
-Die Studierenden sollen die Fähigkeiten zur Analyse realer oder geplanter Systeme entwickeln, indem sie praktische Aufgabenstellungen aus dem Informatik-Umfeld in mathematische Strukturen abstrahieren und lernen, selbstständig  die Modellfindung und die Ergebnisbeurteilung vorzunehmen. Dabei sollen die Anwendungsbezüge der Mathematik deutlich werden, z.B. die Beziehungen diskreter Strukturen wie der Graphen zu vielfältigen grundlegenden Datenstrukturen, die Statistik zur Deskription und Beurteilung von Beobachtungen und die Analysis zur Verarbeitung von Signalen und zur Lösung von mathematischen Modellen.
+Die Studierenden sollen die Fähigkeiten zur Analyse realer oder geplanter Systeme entwickeln, indem sie praktische Aufgabenstellungen aus dem Informatik-Umfeld in mathematische Strukturen abstrahieren und lernen, selbstständig die Modellfindung und die Ergebnisbeurteilung vorzunehmen. Dabei sollen die Anwendungsbezüge der Mathematik deutlich werden, z.B. die Beziehungen diskreter Strukturen wie der Graphen zu vielfältigen grundlegenden Datenstrukturen, die Statistik zur Deskription und Beurteilung von Beobachtungen und die Analysis zur Verarbeitung von Signalen und zur Lösung von mathematischen Modellen.
 
 
 ## Inhalt:
@@ -974,7 +983,7 @@ Gesamtaufwand 300 h, davon
 
 * Die Studierenden kennen Modelle, Methoden, Arbeits- und Dokumentationstechniken der Mensch-Computer Interaktion, können sie anwenden, kritisch diskutieren und für konkrete Aktivitäten in Entwicklungsprojekten unter Abwägung der Alternativen auswählen. 
 
-* Sie kennen relevante internationale Normen und Standards, können sie anwenden und kritisch diskutieren .
+* Sie kennen relevante internationale Normen und Standards, können sie anwenden und erarbeitete Ergebnisse kritisch diskutieren und einordnen.
 
 * Sie kennen methodische Ansätze benutzer- oder benutzungsorientierter Entwicklungsprozesse und können diese systematisch und iterativ auf die Konzeption, Realisation, Evaluation und das Redesign von interaktiven Systemen anwenden. 
 
@@ -1231,26 +1240,24 @@ Gesamtaufwand 150 h, davon
 
 ## Angestrebte Lernergebnisse:
 
-* Unterscheidung zwischen verschiedenen imperativen und deklarativen Programmierparadigmen kennen
-
-* Einordnung der Anwendbarkeit unterschiedlicher Programmierkonzepte
+Die Studierenden sollen unterschiedliche Programmierparadigmen verstehen und anwenden können. Weiterhin sollen sie die Angemessenheit der verschiedenen Programmierparadigmen für eine Aufgabenstellung einordnen und bewerten können. Studierende sollen mithilfe von etablierten Paradigmen und Entwurfsmustern in der Lage sein, synchrone und asynchrone Programme zu konzipieren und ablaufsicher zu gestalten. 
 
 
 ## Inhalt:
 
-- Grundlagen von Programmiersprachen
+* Grundlagen von Programmiersprachen
 
-- Vergleich imperativer und deklarativer Paradigmen
+* Vergleich imperativer und deklarativer Paradigmen
 
-- prozedurale und objektorientierte Programmierung
+* prozedurale und objektorientierte Programmierung
 
-- funktionale Programmierung
+* funktionale Programmierung
 
-- Logikprogrammierung
+* Logikprogrammierung
 
-- Nebenläufigkeit
+* Nebenläufigkeit
 
-- aspektorientierte Programmierung
+* Entwurfsmuster
 
 
 ## Studien-/Prüfungsleistungen:
@@ -1262,6 +1269,8 @@ Klausur sowie erfolgreiche Teilnahme am Praktikum als Prüfungsvorleistung
 
 * Foliensammlung
 
+* Screencasts
+
 * Skript
 
 * Beispiellösungen
@@ -1269,15 +1278,17 @@ Klausur sowie erfolgreiche Teilnahme am Praktikum als Prüfungsvorleistung
 
 ## Literatur:
 
-- Abelson, Sussman, Struktur und Interpretation von Computer Programmen,Springer-Verlag 2001
+* Abelson, Sussman, Struktur und Interpretation von Computer Programmen,Springer-Verlag 2001
 
-- W.F. Clocksin, C.S. Mellish, Programming in Prolog, Springer-Verlag 2003
+* W.F. Clocksin, C.S. Mellish, Programming in Prolog, Springer-Verlag 2003
 
-- Gamma, E., Helm, R., Johnson, R., & Vlissides, J. (2015). Design patterns: Entwurfsmuster als Elemente wiederverwendbarer objektorientierter Software. Frechen: Mitp.
+* Gamma, E., Helm, R., Johnson, R., & Vlissides, J. (2015). Design patterns: Entwurfsmuster als Elemente wiederverwendbarer objektorientierter Software. Frechen: Mitp.
 
-- Odersky, Spoon, Venners, Programming in Scala, Artima Press 2011
+* Odersky, Spoon, Venners, Programming in Scala, Artima Press 2011
 
-- Goetz, Bloch, Bowbeer, Lea, Java-Concurrency in Practise, Addison Wesley 2006
+* Goetz, B., Peierls, T., Bloch, J., Bowbeer, J., Holmes, D., Lea, D. (2006). Java-Concurrency in Practise. Addison Wesley.
+
+* Tate, B. A., & Klicman, P. (2011). Sieben Wochen, sieben Sprachen: Verstehen Sie die modernen Sprachkonzepte. Sebastopol: O'Reilly. 
 
 
 
@@ -1343,7 +1354,7 @@ Gesamtaufwand 150 h, davon
 
 Die Studierenden  
 
-- kennen Techniken wissenschaftlichen Arbeitens
+- kennen Techniken wissenschaftlichen Arbeitens und können diese anwenden
 
 - haben erste Erfahrungen mit aktiver Fachkommunikation gesammelt
 
@@ -1408,13 +1419,11 @@ Gesamtaufwand 150 h, davon
 
 Die Studierenden sollen befähigt werden, 
 
-- die grundlegenden Aufgaben des Projektmanagements, insb. in IT-Projekten, zu charakterisieren und durchzuführen
+- die grundlegenden Aufgaben des Projektmanagements, insbesondere in IT-Projekten, zu charakterisieren und durchzuführen
 
 - die Projektmanagement-Methoden, -Techniken und -Werkzeuge zielgerichtet einzusetzen
 
-- die erforderlichen soziologischen und kommunikativen Aspekte zu berücksichtigen,
-
-  um, mit dem Ziel einer menschengerechten und soziologisch fundierten Menschenführung, eine wirkliche und optimale Produktivität bei komplexen Projekten erreichen zu können.
+- die erforderlichen soziologischen und kommunikativen Aspekte zu berücksichtigen, um, mit dem Ziel einer menschengerechten und soziologisch fundierten Menschenführung, eine wirkliche und optimale Produktivität bei komplexen Projekten erreichen zu können.
 
 
 ## Inhalt:
@@ -1731,24 +1740,32 @@ Gesamtaufwand 150 h, davon
 
 ## Inhalt:
 
-Dieses Grundlagenfach zur Informatik erstreckt sich über zwei Semester (Theoretische Informatik 1 und Theoretische Informatik 2).  
+- Mengen
 
-- Grundlagen: Mengen, Relationen, Graphen, Polynome; Zahlensysteme, Zahlendarstellung, Numerische Aspekte; Codierung, Informationstheorie
+- Relationen
 
-- Logik und Boolesche Algebra: Aussagenlogik; Prädikatenlogik; Boolesche Algebra, Schaltnetze und Schaltwerke
+- Graphen
 
-- Reguläre (Typ-3) Sprachen: Endliche Automaten, Reguläre Ausdrücke; Typ3-Grammatiken, Syntaxdiagramme; Chomsky-Hierarchie
+- Zahlensysteme
 
-- Modellierung sequentieller und paralleler (Ausgabe-) Prozesse: Endliche Maschinen, Berechnungen; Automatennetze, Petri-Netze, Zelluläre Automaten
+- Zahlendarstellung
 
-- Kontextfreie (Typ-2) Sprachen: Kontextfreie Grammatiken, Chomsky- und Greibach-Normalform; Kellerautomaten; Anwendungen (Ableitungs- und Syntaxbäume, Syntax von Programmiersprachen, Backus-Naur-Form)
+- Numerische Aspekte
 
-- Kotextsensitive (Typ-1) und rekursiv aufzählende (Typ-0) Sprachen: Grammatiken, Monotonie, Normalform; Turingautomaten; Einführung in die Begriffe: Berechenbarkeit, Entscheidbarkeit und Komplexität
+- Codierung, Informationstheorie
+
+- Boolesche Algebra
+
+- Schaltnetze und Schaltwerke
+
+- Aussagenlogik
+
+- Prädikatenlogik
 
 
 ## Studien-/Prüfungsleistungen:
 
-Theoretische Informatik 1 + 2 als eine schriftliche Modulprüfung von 120 Min.
+Schriftliche Modulprüfung von 60 Min.
 
 
 ## Medienformen:
@@ -1823,37 +1840,23 @@ Gesamtaufwand 150 h, davon
 
 ## Angestrebte Lernergebnisse:
 
-- Grundsätzliches Ziel des Kurses ist eine Einführung in die Begriffe, Methoden, Modelle und Arbeitsweise der Theoretischen Informatik anhand der ausgewählten Teilgebiete.
-
-- Dabei lernen die Studierenden Probleme und Sachverhalte zu abstrahieren und zu modellieren (etwa logische und algebraische Kalküle, graphentheoretische Notationen, formale Sprachen und Automaten sowie spezielle Kalküle wie Petri-Netze)
-
-- Die Studierenden erwerben fundierte Kenntnisse der grundlegenden Themengebiete und eine wesentliche Basis und Vorbereitung für Veranstaltungen in höheren Semestern des Studiums.
-
-- In verschiedenen Grundlagengebieten der Informatik lernen die Studierenden Verfahrensweisen kennen, um den algorithmischen Kern eines Problems zu identifizieren und können passende Algorithmen entwerfen (Automaten, Turing Maschinen, Logik). Dabei können Sie bekannte Problemstellungen im Anwendungskontext erkennen und sind mit den zugehörigen Lösungsmustern vertraut (Modellierung mittels Automaten, Petri-Netzen, Boolescher Algebra, etc.).
-
-- Aufgaben zu den Lehrinhalten (s.u.) werden in kleinen Gruppen (Teamarbeit) selbständig gelöst. Die Lösungen sollen in den Übungsstunden vorgetragen und der Lösungsweg den Kommilitonen hierbei erläutert werden.
+siehe Theoretische Informatik 1.
 
 
 ## Inhalt:
 
-Dieses Grundlagenfach zur Informatik erstreckt sich über zwei Semester (Theoretische Informatik 1 und Theoretische Informatik 2).
-
-- Grundlagen: Mengen, Relationen, Graphen, Polynome; Zahlensysteme, Zahlendarstellung, Numerische Aspekte; Codierung, Informationstheorie
-
-- Logik und Boolesche Algebra: Aussagenlogik; Prädikatenlogik; Boolesche Algebra, Schaltnetze und Schaltwerke
-
 - Reguläre (Typ-3) Sprachen: Endliche Automaten, Reguläre Ausdrücke; Typ3-Grammatiken, Syntaxdiagramme; Chomsky-Hierarchie
 
-- Modellierung sequentieller und paralleler (Ausgabe-) Prozesse: Endliche Maschinen, Berechnungen; Automatennetze, Petri-Netze
+- Modellierung sequentieller und paralleler (Ausgabe-) Prozesse: Endliche Maschinen, Berechnungen; Automatennetze, Petri-Netze, Zelluläre Automaten
 
 - Kontextfreie (Typ-2) Sprachen: Kontextfreie Grammatiken, Chomsky- und Greibach-Normalform; Kellerautomaten; Anwendungen (Ableitungs- und Syntaxbäume, Syntax von Programmiersprachen, Backus-Naur-Form)
 
-- Kotextsensitive (Typ-1) und rekursiv aufzählende (Typ-0) Sprachen: Grammatiken, Monotonie, Normalform; Turingautomaten; Einführung in die Begriffe: Berechenbarkeit, Entscheidbarkeit und Komplexität
+- Kontextsensitive (Typ-1) und rekursiv aufzählende (Typ-0) Sprachen: Grammatiken, Monotonie, Normalform; Turingautomaten; Einführung in die Begriffe: Berechenbarkeit, Entscheidbarkeit und Komplexität
 
 
 ## Studien-/Prüfungsleistungen:
 
-Theoretische Informatik 1 + 2 als eine Modulprüfung von 120 Min.
+Schirftliche Modulprüfung von 60 Min.
 
 
 ## Medienformen:
@@ -2193,12 +2196,12 @@ Die erfolgreiche Teilnahme an den Praktikas ist Voraussetzung für die Klausur (
 
 ### Audiovisuelles Medienprojekt 2
 
-Projektarbeit und schriftliche Ausarbeitung
+Projektarbeit
 
 
 ### Visuelle Effekte und Animation
 
-Projektarbeit und schriftliche Ausarbeitung
+Projektarbeit (50%) und schriftliche Ausarbeitung (50%)
 
 
 ### Cross-Platform Game Development mit Unity 3D
@@ -2215,7 +2218,13 @@ Teilprüfungen in den jeweiligen Kursen.
 
 ## Medienformen:
 
-Beamergestützte Vorträge, Rechnergestützte Workshops
+- Beamer-gestützte Vorlesungen
+
+- Rechnergestützte Workshops
+
+- Beispiele aus verschiedenen Medien in elektronischer Form: Filmbeispiele, Webvideos
+
+- Audiovisuelle Aufnahme- und Wiedergabegeräte
 
 
 ## Literatur:
@@ -2502,74 +2511,173 @@ Beamergestützte Vorträge, Rechnergestützte Workshops
 
 In der Vertiefung „Social Computing” werden die Wechselwirkungen zwischen Gesellschaft und Informatik in den Mittelpunkt gestellt. Rechnersysteme und Netzwerke werden von Menschen intentional gestaltet, ausgerichtet an gesellschaftlichen Normen, Prozessen und Bedürfnissen. Gleichzeitig beeinflussen IT-Systeme diese gesellschaftlichen Normen und verändern Prozesse in allen Lebensbereichen. Die verantwortungsbewusste Konzeption und Realisierung von soziotechnischen Systemen (z.B. Social Software, Online Communities, e-Health, e-Government und e-Learning Angebote) sowie die empirische Evaluation existierender Systeme sind zentrale Ziele. Lösungen sollen unter ganzheitlichen Gesichtspunkten entwickelt werden. Verschiedene Wertvorstellungen und Interessen unterschiedlicher Stakeholder müssen identifiziert und berücksichtig werden. 
 
-Der Schwerpunkt verbindet daher Theorien, Modelle und Methodik der Human- und Sozialwissenschaften mit anwendungsorientierter Informatik. Studierende sollen in der Lage sein, computergestützte Systeme nach ethischen, politischen, sozialen und psychologischen Kriterien zu bewerten, zu planen und umsetzen zu können. 
-
-Ziel ist es, soziale Innovation durch digitale Anwendungen entstehen zu lassen. Neben den empirischen Methoden werden Designmethoden vermittelt, sowohl auf der konzeptionellen als auch auf der softwaretechnischen Implementierungsebene, um robuste, sichere und flexible Systeme zu gestalten. 
-
-Das Modul ist aus vier Teilbereichen aufgebaut, von denen zwei verpflichtend sind und zwei weitere aus einem Wahlkatalog gewählt werden können.
-
-Verpflichtende Kurse im Umfang von je 5 CP sind:
-
-- Soziotechnische Systeme
-
-- Empirische Forschungsmethoden
-
-- Gamification
-
-- Projekt
-
-Die Kurse sind in der Regel projektbasiert aufgebaut, so dass sowohl theoretischer Hintergrund als auch praxisnahes Wissen vermittelt wird und zur Anwendung kommt.
+Das Modul verbindet daher Theorien, Modelle und Methodik der Human- und Sozialwissenschaften mit anwendungsorientierter Informatik.
 
 
 ## Lehrform/SWS:
 
-Vorlesung, Praktikum / Projekt, Übung mit kursabhängigen Schwerpunkten
+16 SWS: Vorlesung 6 SWS, Praktikum 6 SWS, Projekt 4 SWS
+
+
+## Lehrveranstaltungen
+
+* Soziotechnische Systeme
+
+* Empirische Forschungsmethoden
+
+* Gamification
+
+* Social Computing Projekt
 
 
 ## Arbeitsaufwand:
 
 Gesamtaufwand 600 h, davon
 
-- 150h Soziotechnische Systeme
+* Soziotechnische Systeme: Vorlesung, Seminar(50 Stunden); Selbstlernphase (100 Stunden)
 
-- 150h Empirische Forschungsmethoden
+* Empirische Forschungsmethoden: Vorlesung, Seminar(50 Stunden); Selbstlernphase (100 Stunden)
 
-- 150h Gamification
+* Gamification: Vorlesung, Seminar (50 Stunden); Selbstlernphase (100 Stunden)
 
-- 150h Projekt
+* Social Computing Projekt: Projekt (150 Stunden)
 
 
 ## Angestrebte Lernergebnisse:
 
-siehe jeweilige Fächerbeschreibung
+
+### Soziotechnische Systeme
+
+Die Studierenden sollen das komplexe Wechselspiel zwischen informationstechnischen Systemen und gesellschaftlichen Normen und Prozessen verstehen, analysieren und einordnen können. Sie sollen in der Lage sein, Systeme nach ethischen, psychologischen und soziologischen Kriterien zu gestalten und die Auswirkungen einschätzen zu können. Die grundlegenden Modelle der verschiedenen Disziplinen sollen bekannt und verstanden werden.
+
+
+### Empirische Forschungsmethoden
+
+Die Studierenden sollen die unterschiedlichen Herangehensweisen quantitativer und qualitativer Forschungsmethoden verstehen. Darüber hinaus sollen ausgewählte quantitative und qualitative Methoden angewendet werden können. Die Studierenden sollen in der Lage sein, einfache Forschungsdesigns zu entwickeln und nach wissenschaftlichen Standards durchzuführen. 
+
+
+### Gamification
+
+Die Studierenden sollen in der Lage sein, die Möglichkeiten und Grenzen des Gamification-Ansatzes, sowohl für die analoge als auch die digitale Welt, einordnen zu können. Die verschiedenen Stufen der Gamification sollen verstanden und die Maßnahmen in Gestaltungsprozessen eingesetzt werden. Die Studierenden sollen die psychologischen Grundlagen verstehen und die gesellschaftlichen Implikationen bewerten können. Die Analyse von Regeln und Prozessen und daraus abgeleitete Gamification-Maßnahmen sowie die Entwicklung von Serious Games sollen praktisch umgesetzt werden, z.B. für Lernanwendungen, Online-Communities oder soziale Dienste.
+
+Studierende sollen in der Lage sein, computergestützte Systeme nach ethischen, politischen, sozialen und psychologischen Kriterien zu bewerten, zu planen und umsetzen zu können. 
+
+Ziel ist es, soziale Innovation durch digitale Anwendungen entstehen zu lassen. Neben den empirischen Methoden werden Designmethoden vermittelt, sowohl auf der konzeptionellen als auch auf der softwaretechnischen Implementierungsebene, um robuste, sichere und flexible Systeme zu gestalten. 
 
 
 ## Inhalt:
 
-siehe Modulbeschreibungen:
 
-- Soziotechnische Systeme
+### Soziotechnische Systeme
 
-- Empirische Forschungsmethoden
+* Modelle der Sozioinformatik
 
-- Gamification
+* E-Learning
 
-- Projekt
+* Gestaltungsprinzipien für soziotechnische Systeme
+
+* Technikgenese und Ko-Evolution
+
+* Computerethische Grundlagen
+
+* Psychologische Grundlagen
+
+* Soziologische Grundlagen
+
+* Digitale Technologien für soziale Dienste
+
+* Digitale Technologien in Organisationen
+
+* Digitale Technologien in der Gesellschaft
+
+* E-Goverment
+
+
+### Empirische Forschungsmethoden
+
+* Wissenschaftstheoretische Grundlagen
+
+* Induktion, Deduktion, Abduktion
+
+* Unterschied zwischen quantitativer und qualitativer Forschung
+
+* Interviews gestalten, durchführen und auswerten
+
+* Beobachtungsmethoden
+
+* Ethnographische Methoden
+
+* Hypothesengewinnung und Theoriebildung
+
+* Experimental-Designs
+
+* Statistische Verfahren für quantitative Forschung
+
+* Aussagekraft der Ergebnisse (statistische Signifikanz, interne und externe Valididät)
+
+
+### Gamification
+
+* Grundelemente der Gamification
+
+* Stufen der Gamification
+
+* Ludifikation
+
+* Historische Grundlagen
+
+* Psychologische Grundlagen
+
+* Gesellschaftliche Einordnung
+
+* Einsatzgebiete verstehen und einordnen
+
+* Planung und Realisierung von Gamification
+
+* Gestaltungregeln
+
+* Serious Games
 
 
 ## Studien-/Prüfungsleistungen:
 
-Teilprüfungen in den jeweiligen Kursen.
+Projektarbeit mit Projektpräsentationsprüfung und Fachgespräch, schriftliche Ausarbeitung.
 
 
 ## Medienformen:
 
-siehe jeweilige Kursbeschreibung
+*	Beamer-gestützte Vorlesungen (Folien in elektronischer Form)
+
+*	Screencasts und Handouts
+
+* Beispielmedien
+
+* Arbeit im Innovationsraum mit digitalen Whiteboards, Spiel-Arcarde, Tablets und Gestaltungsmaterialien
 
 
 ## Literatur:
 
-siehe jeweilige Kursbeschreibung
+* DeKoven, B., & MIT Press. (2013). The well-played game: A player's philosophy. Cambridge: The MIT Press. 
+
+* Döring, N. & Bortz, J. (2015). Forschungsmethoden und Evaluation: Für Human- und Sozialwissenschaftler. Berlin [u.a.]: Springer.
+
+* Flick, U. (2011). Qualitative Sozialforschung: Eine Einführung. Reinbek bei Hamburg: Rowohlt-Taschenbuch-Verl. 
+
+* Fullerton, T., Swain, C., & Hoffman, S. (2008). Game design workshop: A playcentric approach to creating innovative games. Amsterdam: Elsevier Morgan Kaufmann. 
+
+* Kienle, A., Kunau, G.  (2014). Informatik und Gesellschaft. Eine sozio-technische Perspektive. München: Oldenbourg Wissenschaftsverlag.
+
+* Koster, R. (2013). Theory of Fun for Game Design. Sebastopol: O'Reilly. 
+
+* Popper, K. R. (1972). The logic of scientific discovery. London: Hutchinson.
+
+* Salen, K., & Zimmerman, E. (2007). Rules of play: Game design fundamentals. Cambridge, Mass. [u.a.: The MIT Press. 
+
+* Schnädelbach, H. (2002). Erkenntnistheorie zur Einführung. Zur Einführung, 268. Hamburg: Junius.
+
+* Westermann, R. (2000). Wissenschaftstheorie und Experimentalmethodik: Ein Lehrbuch zur psychologischen Methodenlehre. Göttingen [u.a.]: Hogrefe, Verl. für Psychologie.
+
+* Zweig, K. A., In Neuser, W., In Pipek, V., In Rohde, M., & In Scholtes, I. (2014). Socioinformatics: The social impact of interactions between humans and IT.
 
 
 

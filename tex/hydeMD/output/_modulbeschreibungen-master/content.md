@@ -37,11 +37,11 @@ Der Schwerpunkt „Multi-Perspective Product Development” bereitet die Studier
 
 - Heterogene soziale, technologische und ökonomische Rahmenbedingungen wie z.B. 
 
-  - die Anwendung von unterschiedlichen, agilen bis hin zu „schwergewichtigen” Vorgehensmodellen,
+   - die Anwendung von unterschiedlichen, agilen bis hin zu „schwergewichtigen” Vorgehensmodellen,
 
-  - lokale Zusammenarbeit in kleinen Teams bis hin zu dezentraler Zusammenarbeit in großen, international und interdisziplinär aufgestellten Teams,
+   - lokale Zusammenarbeit in kleinen Teams bis hin zu dezentraler Zusammenarbeit in großen, international und interdisziplinär aufgestellten Teams,
 
-  - ein breites Spektrum der Projektgegenstände von kleinen, nativen Apps für mobile Geräte bis hin zu großen, geschäftskritischen, internationalisierbaren und responsiven Web-Anwendungen,
+   - ein breites Spektrum der Projektgegenstände von kleinen, nativen Apps für mobile Geräte bis hin zu großen, geschäftskritischen, internationalisierbaren und responsiven Web-Anwendungen,
 
   - ein breites Spektrum der Projektkontexte von kleinen Inhouse-Projekten bis hin zu großen, organisationsübergreifenden internationalen Projekten.
 
@@ -50,7 +50,7 @@ Der Schwerpunkt „Multi-Perspective Product Development” bereitet die Studier
 
 - Privatsphäre & Sicherheit im Netz
 
-- Visualisierung
+- Interaction Design
 
 - Qualitätssicherung und -management
 
@@ -463,11 +463,11 @@ Gesamtaufwand 180 h, davon
 
 ## Angestrebte Lernergebnisse:
 
-Die Teilnehmer sind in der Lage verschiedene methodische Rahmen für die Beantwortung empirischer Problem- oder Fragestellungen zu benennen, kritisch einzuordnen und für ihre konkreten Projekte (Zielsetzungen, Rahmenbedingungen, etc.) eine rational begründete Wahl eines (oder einer Kombination aus verschiedenen) methodischen Rahme zu treffen und zu kommunizieren.
+Die Teilnehmer sind in der Lage verschiedene methodische Rahmen für die Beantwortung empirischer Problem- oder Fragestellungen zu benennen, kritisch einzuordnen und für ihre konkreten Projekte (Zielsetzungen, Rahmenbedingungen, etc.) eine rational begründete Wahl eines (oder einer Kombination aus verschiedenen) methodischen Rahmen zu treffen und zu kommunizieren.
 
 Sie sind in der Lage, die Methoden projektgerecht und methodenkompetent anzuwenden und Resultate angemessen zu interpretieren und 
 
-kritisch zu diskutieren..
+kritisch zu diskutieren.
 
 
 ## Inhalt:
@@ -501,7 +501,7 @@ schriftliche Modulprüfung
 
 - Lazar, J. Feng, J., Hochheiser, H.: “Research Methods in Human-Computer Interaction”, Wiley, 2009
 
-- May, G., Mruck, K.: “Handbuch Qualitative Forschung in der Psychologie, Springer, 2010
+- May, G., Mruck, K.: “Handbuch Qualitative Forschung in der Psychologie", Springer, 2010
 
 
 
@@ -669,7 +669,7 @@ schriftliche Ausarbeitung und Designartefakte
 
 - Snyder, Carolyn, „Paper Prototyping“, Morgan Kaufman Publishers, 2003, ISBN: 1-55860-870-2
 
-- Bortz, J.; Döring, N., Forschungsmethoden und Evaluation für Human- und Sozialwissenschaftler, Springer Heidelberg, Berlin, 2006
+- Bortz, J.; Döring, N., "Forschungsmethoden und Evaluation für Human- und Sozialwissenschaftler", Springer Heidelberg, Berlin, 2006
 
 
 
@@ -682,24 +682,18 @@ schriftliche Ausarbeitung und Designartefakte
 
 ## Lehrform/SWS:
 
-Vorlesung; Übung
-
-~~~
-
-Angaben zu SWS fehlen
-
-~~~
+6 SWS: Vorlesung 2 SWS; Übung 1 SWS; Projekt 3 SWS
 
 
 ## Arbeitsaufwand:
 
-Gesamtaufwand 180 h, davon 
+Gesamtaufwand 180 h, davon
 
-- 45 h Vorlesung 
+- 45 h Vorlesung
 
 - 30 h Übung
 
-- 105 h Selbststudium
+- 105 h Projekt
 
 
 ## Angestrebte Lernergebnisse:
@@ -765,7 +759,7 @@ Gesamtaufwand 180 h, davon
 
 ## Angestrebte Lernergebnisse:
 
-Die Studierenden sind in der Lage de- und präskriptiv Nutzer- oder deren nutzungsbezogene Sachverhalte oder Situationen mit einem umfänglichen Vokabular visuell-graphisch adäquat für verschiedene Stakeholder auszudrücken.
+Die Studierenden sind in der Lage de- und präskriptiv Nutzer- oder deren nutzungsbezogene Sachverhalte oder Situationen mit einem umfänglichen Vokabular visuell-graphisch adäquat für verschiedene Stakeholder auszudrücken. Sie können kognitive und emotionale Schemata identifizieren, analysieren, modellieren und aus den Modellen Designlösungen für interaktive Systeme generieren und skizzieren.
 
 
 ## Inhalt:
@@ -788,11 +782,11 @@ Projektpräsentationsprüfung
 
 ## Medienformen:
 
-~~~
+- Lehrfilme,
 
-Bitte noch ergänzen
+- Case Studies
 
-~~~
+- ebooks
 
 
 ## Literatur:
@@ -809,12 +803,12 @@ Bitte noch ergänzen
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Kristian Fischer, Prof. Dr. Mario Winter, Prof. Hans Kornacher, Prof. Dr. Martin Eisemann, Prof. Dr. Christian Kohls, Prof. Dr. Gerhard Hartmann%end-modulMeta%%begin-modulMeta%**Kürzel**: WTWP-E%end-modulMeta%%begin-modulMeta%**Studiensemester - Wintersemester**: 2%end-modulMeta%%begin-modulMeta%**Studiensemester - Sommersemester**: 3%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 12%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktprojekt%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Kristian Fischer, Prof. Dr. Mario Winter, Prof. Hans Kornacher, Prof. Dr. Martin Eisemann, Prof. Dr. Christian Kohls, Prof. Dr. Gerhard Hartmann%end-modulMeta%%begin-modulMeta%**Kürzel**: MIMP-E%end-modulMeta%%begin-modulMeta%**Studiensemester - Wintersemester**: 2%end-modulMeta%%begin-modulMeta%**Studiensemester - Sommersemester**: 3%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 12%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktprojekt%end-modulMeta%
 
 
 ## Kurzbeschreibung
 
-In einem Projekt wird, basierend auf einem existierenden Konzept, ein „minimal viable Prototype“ entwickelt
+In einem Projekt wird, basierend auf einem bereits erstellten Konzept, ein „minimal viable Prototype“ entwickelt oder weiterentwickelt.
 
 
 ## Lehrform/SWS:
@@ -831,30 +825,43 @@ Projektarbeit
 
 Die Studentinnen und Studenten
 
-- können, basierend auf einem dokumentierten Konzept einen „minimal viable Prototype“ entwickeln
+- können im Gegenstandsbereich ihres Studienschwerpunktes, basierend auf einem dokumentierten Konzept, einen „minimal viable Prototype“ entwerfen und realisieren und dabei Probleme analysieren und lösen, die oft unstrukturiert und unvollständig definiert sind und von konkurrierenden Stakeholdern unterschiedlich priorisiert werden;
 
-- kennen Projektmanagement Techniken und Prozesse und können Sie auf ihr Projekt anwenden
+- kennen Projektmanagement Techniken und Prozesse und können eigenverantwortlich und professionell Projekte im Umfeld der Medieninformatik organisieren, durchführen, kontrollieren und leiten;
 
-- kennen Qualitätskriterien für Code, können Code auf dieser Basis analysieren und können die Kriterien in Ihrer Entwicklung erfüllen
+- kennen Qualitätskriterien für Code, können Code auf dieser Basis analysieren und können die Kriterien in Ihrer Entwicklung erfüllen;
+
+- können ihr Projekt so dokumentieren, dass es von einem anderen Team weitergeführt und -entwickelt werden kann.
 
 
 ## Inhalt:
 
 Das Projekt gliedert sich in zwei Teile:
 
-- In der eigentlichen Projektarbeit wird der Prototyp entwickelt
+- In der eigentlichen Projektarbeit wird ein Prototyp zu einer komplexeren Aufgabenstellung und einem gegebenen Konzepot im Rahmen eines betreuten Forschungs- und Entwicklungsprojekts entwickelt (ggf. auch in Kooperation mit externen Partnern). Die Betreuer definieren zusammen mit den Studierenden die Zielsetzung und führen mit den Studierenden einen regelmäßigen Diskurs über den Fortgang des Projekts. Sie vereinbaren außerdem Meilensteine, deren Ergebnisse in geeigneter Form in die Endnote einfließen. Kommunikations- und Kooperationsformen werden vorab gemeinsam zwischen Betreuern und Studierenden festgelegt und in periodischen Abständen gemeinsam reflektiert.
 
-- In dem Teil „Advanced Seminar“ wird die Recherche durchgeführt. Es werden Analysetechniken für die Bewertung von kommerziellen Lösungen angewandt. Hierbei kann es sich sowohl um Konkurrenzprodukte handeln als auch um Dienste oder Frameworks, auf die das Produkt aufbauen könnte.  Als Schwerpunkt dieses Teils werden wissenschaftliche Felder identifiziert, die Input und für das Produkt liefern können, es werden relevante Ergebnisse ermittelt und in einem wissenschaftlichen Seminar diskutiert.
+- Zur Unterstützung werden Workshops/Seminare in den Bereichen Projektmanagement, Code-Management sowie spezielle Theorien, Verfahren und Algorithmen in Abhängigkeit vom Studienschwerpunkt angeboten.
 
 
 ## Studien-/Prüfungsleistungen:
 
-Projektarbeit
+Projektarbeit und vertiefende Workshops/Seminare. Dokumentation der geleisteten Arbeit mit Aufgabenstellung, Stand von Wissenschaft und Technik, verwendeten Problemlösungsmethoden, erzielten Resultaten, offenen Fragen, verwendeten Quellen etc..
+
+In die Gesamtnote gehen zwei Leistungen zu je gleichen Anteilen (50%) ein:
+
+- Abschlusspräsentation: Fachliche Aufgabe.
+
+- Abschlussbericht: Fachliche Aufgabe.
 
 
 ## Medienformen:
 
-n/a
+Entwicklungsumgebung mit Artefakt-Repository, Kollaborationssysteme
+
+
+## Literatur:
+
+Je nach Studienschwerpunkt und fachlicher Aufgabe
 
 
 
@@ -862,63 +869,12 @@ n/a
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Kristian Fischer, Prof. Dr. Mario Winter, Prof. Dr. Martin Eisemann, Prof. Dr. Christian Kohls, Prof. Dr. Gerhard Hartmann%end-modulMeta%%begin-modulMeta%**Kürzel**: WTWP-V%end-modulMeta%%begin-modulMeta%**Studiensemester - Wintersemester**: 3%end-modulMeta%%begin-modulMeta%**Studiensemester - Sommersemester**: 1%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 12%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktprojekt%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Kristian Fischer, Prof. Dr. Mario Winter, Prof. Dr. Martin Eisemann, Prof. Dr. Christian Kohls, Prof. Dr. Gerhard Hartmann%end-modulMeta%%begin-modulMeta%**Kürzel**: MIMP-V%end-modulMeta%%begin-modulMeta%**Studiensemester - Wintersemester**: 3%end-modulMeta%%begin-modulMeta%**Studiensemester - Sommersemester**: 1%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 12%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktprojekt%end-modulMeta%
 
 
 ## Kurzbeschreibung
 
-Auf Basis eines bereits ausgearbeiteten Prototypen werden in diesem Modul die Schritte Deployment, Qualitätssicherung, Kontinuierliche Integration sowie Produktmanagement und -marketing geplant, durchgeführt und kritisch reflektiert.
-
-
-## Lehrform/SWS:
-
-Projektarbeit
-
-
-## Arbeitsaufwand:
-
-360 Stunden
-
-
-## Angestrebte Lernergebnisse:
-
-Die Studentinnen und Studenten können die Kernfunktionen eines Produktes identifizieren und sind in der Lage einen Prototypen als minimal viable product in den Markt oder die Community zu bringen.
-
-Die Teilnehmer kennen Deployment Strategien, Konzepte und Techniken der Kontinuierlichen Integration und können diese in einem spezifischen Projektkontext anwenden.
-
-Die Studierenden sind in der Lage eine Produkt Management Strategie für ein Online Produkt zu entwickeln und zu implementieren. Alternativ können die Studierenden die gewonnen Erkenntnisse aus dem Produkt in der Community z.B. in Form eines Konferenzbeitrags sichtbar machen und einen wissenschaftlichen Diskurs dazu führen.
-
-
-## Inhalt:
-
-In der eigentlichen Projektarbeit wird ein fertiger, lauffähiger Prototyp evaluiert und in Form eines minimal viable product zugänglich gemacht. Im Rahmen des Moduls wird eine Produktmanagement Strategie entwickelt und das Produkt wird unter Qualitätsmanagement Gesichtspunkten beleuchtet. 
-
-Variante: In der eigentlichen Projektarbeit wird ein fertiger, lauffertiger Prototyp evaluiert und in Form eines minimal viable product zugänglich gemacht. Im Rahmen des Projekts werden Konzepte und Techniken der Kontinuierlichen Integration auf das minimal viable product angewendet.
-
-Zur Unterstützung werden Workshops/Seminare in den Bereichen Produkt Management, Web Deployment und Continuous Integration angeboten.
-
-
-## Studien-/Prüfungsleistungen:
-
-Projektarbeit
-
-
-## Medienformen:
-
-n/a
-
-
-
-# Projektarbeit - Vision und Konzept im Kontext des Studienschwerpunkts
-
-
-
-%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Kristian Fischer, Prof. Dr. Mario Winter, Prof. Dr. Martin Eisemann, Prof. Dr. Christian Kohls, Prof. Dr. Gerhard Hartmann%end-modulMeta%%begin-modulMeta%**Kürzel**: WTWP-VK%end-modulMeta%%begin-modulMeta%**Studiensemester - Wintersemester**: 1%end-modulMeta%%begin-modulMeta%**Studiensemester - Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 12%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktprojekt%end-modulMeta%
-
-
-## Kurzbeschreibung
-
-In einem Projekt wird eine Idee für ein Produkt oder einen Dienst entwickelt, eine Recherche des Marktes und Standes des wissenschaftlichen Wissens durchgeführt, und ein Konzept soweit definiert und dokumentiert, dass in einem nachfolgenden Schritt ein Entwicklerteam in der Lage ist, einen ersten Prototyp zu realisieren.
+Auf Basis eines bereits ausgearbeiteten Prototypen werden in diesem Modul die Schritte Deployment, Qualitätssicherung und Evaluierung, Kontinuierliche Integration sowie Produktmanagement und -marketing geplant, durchgeführt und kritisch reflektiert.
 
 
 ## Lehrform/SWS:
@@ -935,34 +891,113 @@ Projektarbeit
 
 Die Studentinnen und Studenten
 
-- können Kreativitätstechniken anwenden um zu Produktideen zu kommen
+- können die Kernfunktionen eines Produktes vor dem Hintergrund neuere Erkenntnisse und Entwicklungen in der Informatik und insbesondere der Medieninformatik identifizieren und kommunizieren und sind in der Lage, einen Prototypen als "minimal viable product" auch aus betriebswirtschaftlichen Perspektiven zu betrachten, bzgl. Modellen, Systemen und Prozessen für Medienkonzeption, -produktion, -bearbeitung, -distribution und -nutzung zu analysieren und zu evaluieren und in den Markt oder die Community zu bringen;
 
-- können zu einem kritischen Fachdiskurs über Potenziale und Risiken der Ideen beitragen
+- kennen Deployment Strategien, Konzepte und Techniken der Kontinuierlichen Integration und können diese in einem spezifischen Projektkontext anwenden;
 
-- können wissenschaftliche Gebiete, die für das Produkt wesentlich sein können, identifizieren, den Stand des Wissens ermitteln und in einem Fachdiskurs darstellen und diskutieren
+- vertiefen die Fähigkeit zum methodischen Vorgehen, der Auswahl und der Durchführung von Arbeits- und Dokumentationstechniken und sind fähig, innovative Methoden bei der Problemlösung auszuwählen, anzuwenden und deren Anwendung zu begründen, um eine Produkt Management Strategie für ein Online Produkt zu entwickeln und umzusetzen. Alternativ können die Studierenden die gewonnen Erkenntnisse aus dem Produkt in der Community z.B. in Form eines Konferenzbeitrags sichtbar machen und einen wissenschaftlichen Diskurs dazu führen.
 
-- können auf Basis aktuellen Wissens und aktueller Dienste und Technologien ein Konzept für ein Produkt entwickeln, das in einem nachfolgenden Schritt von einem Team von Entwicklern als Prototyp realisiert werden kann.
-
-- können die Vision in einen Design Mockup umsetzen
+- können ihre Projektergebnisse so dokumentieren, dass das Projekt von einem anderen Team weitergeführt werden kann.
 
 
 ## Inhalt:
 
 Das Projekt gliedert sich in zwei Teile:
 
-- In der eigentlichen Projektarbeit wird die Vision entwickelt und diskutiert, Alleinstellungsmerkmale herausgearbeitet, Alternativen für Nutzungskonzept und Architektur evaluiert und ein Konzept inklusive eines Projektplans erstellt.
+- In der eigentlichen Projektarbeit wird ein fertiger, lauffähiger Prototyp im Rahmen eines betreuten Forschungs- und Entwicklungsprojekts evaluiert und getestet und in Form eines "minimal viable product" zugänglich gemacht. Im Rahmen des Moduls werden eine Produktmanagement-Strategie und ein Qualitätsmanagement-Konzept entwickelt und das Produkt unter Qualitätsgesichtspunkten beleuchtet. Die Betreuer definieren zusammen mit den Studierenden die Zielsetzung und führen mit den Studierenden einen regelmäßigen Diskurs über den Fortgang des Projekts. Sie vereinbaren außerdem Meilensteine, deren Ergebnisse in geeigneter Form in die Endnote einfließen. Kommunikations- und Kooperationsformen werden vorab gemeinsam zwischen Betreuern und Studierenden festgelegt und in periodischen Abständen gemeinsam reflektiert.
 
-- In dem Teil „Advanced Seminar“ wird die Recherche durchgeführt: es werden Analysetechniken für die Bewertung von kommerziellen Lösungen angewandt. Hierbei kann es sich sowohl um Konkurrenzprodukte handeln als auch um Dienste oder Frameworks, auf die das Produkt aufbauen könnte.  Als Schwerpunkt dieses Teils werden wissenschaftliche Felder identifiziert, die Input und für das Produkt liefern können, es werden relevante Ergebnisse ermittelt und in einem wissenschaftlichen Seminar diskutiert.
+- Variante: In der eigentlichen Projektarbeit wird ein fertiger, lauffertiger Prototyp evaluiert und in Form eines minimal viable product zugänglich gemacht. Im Rahmen des Projekts werden Konzepte und Techniken der Kontinuierlichen Integration auf das minimal viable product angewendet. 
+
+- Zur Unterstützung werden Workshops/Seminare in den Bereichen Produkt Management, Qualitätssicherung und -Management sowie Medien- und Vertragsrecht angeboten.
 
 
 ## Studien-/Prüfungsleistungen:
 
-Projektarbeit
+Projektarbeit und vertiefende Workshops/Seminare. Dokumentation der geleisteten Arbeit mit Aufgabenstellung, Stand von Wissenschaft und Technik, verwendeten Problemlösungsmethoden, erzielten Resultaten, offenen Fragen, verwendeten Quellen etc..
+
+In die Gesamtnote gehen zwei Leistungen zu je gleichen Anteilen (50%) ein:
+
+- Abschlusspräsentation: Fachliche Aufgabe.
+
+- Abschlussbericht: Fachliche Aufgabe.
 
 
 ## Medienformen:
 
-n/a
+Entwicklungs- und Deployment-Umgebung mit Artefakt-Repository, Kollaborationssysteme
+
+
+## Literatur:
+
+Je nach Studienschwerpunkt und fachlicher Aufgabe
+
+
+
+# Projektarbeit - Vision und Konzept im Kontext des Studienschwerpunkts
+
+
+
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Kristian Fischer, Prof. Dr. Mario Winter, Prof. Dr. Martin Eisemann, Prof. Dr. Christian Kohls, Prof. Dr. Gerhard Hartmann%end-modulMeta%%begin-modulMeta%**Kürzel**: MIMP-K%end-modulMeta%%begin-modulMeta%**Studiensemester - Wintersemester**: 1%end-modulMeta%%begin-modulMeta%**Studiensemester - Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 12%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktprojekt%end-modulMeta%
+
+
+## Kurzbeschreibung
+
+In einem Projekt wird eine Idee für ein Produkt oder einen Dienst entwickelt oder weiterentwickelt, eine Recherche des Marktes und Standes von Wissenschaft und Technik durchgeführt, und ein Konzept soweit definiert und dokumentiert, dass in einem nachfolgenden Projekt ein Entwicklerteam in der Lage ist, einen ersten Prototyp zu realisieren oder zu erweitern.
+
+
+## Lehrform/SWS:
+
+Projektarbeit
+
+
+## Arbeitsaufwand:
+
+360 Stunden
+
+
+## Angestrebte Lernergebnisse:
+
+Die Studentinnen und Studenten
+
+- können innovative Methoden und Kreativitätstechniken auswählen, anwenden und deren Anwendung begründen um zu Produktideen zu kommen, und dabei Probleme im Umfeld der Medienproduktion, Bearbeitung und Distribution grundlagen-basiert, systemanalytisch und multiperspektivisch analysieren, formulieren und formalisieren, die oft unstrukturiert und unvollständig definiert sind und von konkurrierenden Stakeholdern unterschiedlich priorisiert werden;
+
+- können wissenschaftliche Gebiete und neuere Erkenntnisse und Entwicklungen in der Informatik und insbesondere der Medieninformatik, die für das Produkt wesentlich sein können, identifizieren, den Stand des Wissens ermitteln und in einem Fachdiskurs darstellen und diskutieren und zu einem kritischen Fachdiskurs über Potenziale und Risiken der Ideen beitragen;
+
+- können auf Basis aktuellen Wissens und aktueller Dienste und Technologien ein Konzept für ein Produkt entwickeln, das in einem nachfolgenden Schritt von einem Team von Entwicklern als Prototyp realisiert werden kann, und diese Vision in einen Design Mockup umsetzen;
+
+- können eigenverantwortlich und professionell Projekte im Umfeld der Medieninformatik organisieren, durchführen, kontrollieren und leiten;
+
+- können ein Konzept so dokumentieren, dass es von einem anderen Projektteam weitergeführt und -entwickelt werden kann.
+
+
+## Inhalt:
+
+Das Projekt gliedert sich in zwei Teile:
+
+- In der eigentlichen Projektarbeit wird ein Problemfeld analysiert und darauf mögliche Lösungsvarianten und Visionen entwickelt und diskutiert, Alleinstellungsmerkmale herausgearbeitet, Alternativen für Nutzungskonzept und Architektur evaluiert und ein Konzept inklusive eines Projektplans erstellt. Die Betreuer definieren zusammen mit den Studierenden die Zielsetzung und führen einen regelmäßigen Diskurs über den Fortgang des Projekts. Sie vereinbaren außerdem Meilensteine, deren Ergebnisse in geeigneter Form in die Endnote einfließen. Kommunikations- und Kooperationsformen werden vorab gemeinsam zwischen Betreuern und Studierenden festgelegt und in periodischen Abständen gemeinsam reflektiert.
+
+- In dem Teil „Advanced Seminar“ recherchieren und erschließen die Studierenden im Selbststudium für den Projektgegenstand relevante Literatur zum Stand von Wissenschaft und Technik. Sie wenden auch Analysetechniken für die Bewertung vorhandener kommerziellen Lösungen an. Hierbei kann es sich sowohl um Konkurrenzprodukte handeln als auch um Dienste oder Frameworks, auf die der Projektgegenstand aufbauen könnte. Als Schwerpunkt dieses Teils identifizieren die Studierenden wissenschaftliche Felder, die für den Projektgegenstand relevant sind, recherchieren entsprechende Literatur und vermitteln und diskutieren diese in einem wissenschaftlichen Seminar.
+
+
+## Studien-/Prüfungsleistungen:
+
+Projektarbeit und Recherche mit Analyse. Dokumentation der geleisteten Arbeit mit Aufgabenstellung, Stand von Wissenschaft und Technik, verwendeten Problemlösungsmethoden, erzielten Resultaten, offenen Fragen, verwendeten Quellen etc..
+
+In die Gesamtnote gehen zwei Leistungen zu je gleichen Anteilen (50%) ein:
+
+- Abschlusspräsentation: Fachliche Aufgabe.
+
+- Abschlussbericht: Fachliche Aufgabe.
+
+
+## Medienformen:
+
+Artefakt-Repository, Kollaborationssysteme
+
+
+## Literatur:
+
+Je nach Studienschwerpunkt und fachlicher Aufgabe
 
 
 
@@ -980,34 +1015,24 @@ Es werden Grundlagen für die Analyse und algorithmische Verarbeitung von Graph 
 
 ## Lehrform/SWS:
 
-V/Ü
+V/Ü davon
 
-~~~
+- 2 SWS V und
 
-Angaben zu SWS fehlen
-
-~~~
+- 2 SWS Ü
 
 
 ## Arbeitsaufwand:
 
 180 Stunden
 
-~~~
+davon 
 
-Bitte Stunden noch aufsplitten
+- 30 h Vorlesung 
 
-Beispiel:
+- 30 h Projektarbeit  
 
-Gesamtaufwand 150 h, davon 
-
-- 40 h Vorlesung 
-
-- 40 h Projektarbeit  
-
-- 90 h Selbststudium 
-
-~~~
+- 120 h Selbststudium 
 
 
 ## Angestrebte Lernergebnisse:
@@ -1018,7 +1043,9 @@ Die Studentinnen und Studenten
 
 - kennen wesentliche Konzepte, Kenngrößen und Algorithmen für Graphen und Netzwerke
 
-- können in abgegrenzten Beispielen bestehende Netze anhand der Kenngrößen und Algorithmen analysieren um Methoden und Techniken zur Analyse sozialer und ggfs. anderer Netze auswählen zu können.
+- können in abgegrenzten Beispielen bestehende Netze anhand der Kenngrößen und Algorithmen analysieren 
+
+um Methoden und Techniken zur Analyse sozialer und ggfs. anderer Netze auswählen zu können.
 
 
 ## Inhalt:
@@ -1155,7 +1182,7 @@ Schriftliche Ausarbeitung zu neuen Entwurfsmustern
 
 
 
-# WPF Computer Supported Collaborative Learning (CSCL)
+# Computer Supported Collaborative Learning (CSCL)
 
 
 
@@ -1413,7 +1440,9 @@ Nach erfolgreichem Abschluss
 
 ## Studien-/Prüfungsleistungen:
 
-Die erfolgreiche Teilnahme an den Praktikas ist Voraussetzung für die Klausur (90 Minuten) oder mündliche Prüfung
+- 1 Studienleistung: regelmäßige erfolgreiche Teilnahme an den kursbegleitenden Praktikas (50% der Punkte aus den Praktikas müssen erreicht worden sein)
+
+- 2 Prüfungsleistungen: Klausur (45 Minuten) oder mündliche Prüfung (15 Minuten), sowie eine Projektpräsentation.
 
 
 ## Medienformen:
@@ -1505,9 +1534,9 @@ Gesamtaufwand 150h, davon
 
 ## Studien-/Prüfungsleistungen:
 
-Klausur oder mündliche Prüfung, sowie Projektpräsentationsprüfung.
+- 1 Studienleistung: regelmäßige erfolgreiche Teilnahme an den kursbegleitenden Praktikas (50% der Punkte aus den Praktikas müssen erreicht worden sein)
 
-Die erfolgreiche Teilnahme an den Praktikas ist Voraussetzung für die Klausur (90 Minuten) oder mündliche Prüfung
+- 1 Prüfungsleistung: Klausur (90 Minuten) oder mündliche Prüfung (30 Minuten).
 
 
 ## Medienformen:
@@ -1581,7 +1610,7 @@ Pragmatisches Ziel ist es, in den unterschiedlichsten Berufsfeldern digitaler Me
 
 ## Studien-/Prüfungsleistungen:
 
-Projektarbeit und schriftliche Ausarbeitung
+Projektarbeit (50%) und schriftliche Ausarbeitung (50%)
 
 
 ## Medienformen:
@@ -1735,11 +1764,16 @@ Im speziellen, aber nicht ausschließlich, werden folgende Themen behandelt:
 
 
 
-# Sicherheit, Privatsphäre und Vertrauen im Netz
+# Sicherheit, Privatsphäre und Vertrauen
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Stefan Karsch%end-modulMeta%%begin-modulMeta%**Kürzel**: WTW-ITS%end-modulMeta%%begin-modulMeta%**Studiensemester - Wintersemester**: 1%end-modulMeta%%begin-modulMeta%**Studiensemester - Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktmodul%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Stefan Karsch%end-modulMeta%%begin-modulMeta%**Kürzel**: ITS%end-modulMeta%%begin-modulMeta%**Studiensemester - Wintersemester**: 1%end-modulMeta%%begin-modulMeta%**Studiensemester - Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktmodul%end-modulMeta%
+
+
+## Kurzbeschreibung
+
+Einsatzszenarien von IT und entsprechende Sicherheitseigenschaften und Sicherheitskonzepte; Wirkzusammenhänge zwischen Vertrauen und (IT-)Sicherheit; gesellschaftliche Bedeutung von Privatsphäre und Datenschutz.
 
 
 ## Lehrform/SWS:
@@ -1749,133 +1783,86 @@ Im speziellen, aber nicht ausschließlich, werden folgende Themen behandelt:
 
 ## Arbeitsaufwand:
 
-180 Stunden
+Gesamtaufwand 180 h, davon 
 
-~~~
+- 45 h Vorlesung 
 
-Bitte Stunden noch aufsplitten
+- 30 h Projektarbeit  
 
-Beispiel:
-
-Gesamtaufwand 150 h, davon 
-
-- 40 h Vorlesung 
-
-- 40 h Projektarbeit  
-
-- 90 h Selbststudium 
-
-~~~
+- 105 h Selbststudium 
 
 
 ## Angestrebte Lernergebnisse:
 
-Die Studentinnen und Studenten erlernen Fähigkeiten zur Analyse und Formulierung von Schutzzielen in Einsatzszenarien von IT.
+- Die Studierenden sind in der Lage, Einsatzszenarien von IT hinsichtlich ihrer Sicherheitseigenschaften zu analysieren und zu beschreiben.
 
-Im Einzelnen:
+- Darüber hinaus sind sie in der Lage, hinsichtlich Schutzbedarf und Risiko adäquate Sicherheitsmaßnahmen in einem Sicherheitskonzept zusammenzustellen. 
 
-- Kenntnis der aktuell in der Praxis eingesetzten kryptographischen Verfahren und ihrer Eigenschaften für die praktische Anwendung sowie Fähigkeit zur
+- Die Studierenden sind fähig, die vorgenannten Analyse- und Syntheseschritte in die ihnen bekannten Entwicklungssmodelle für Software- und Systemarchitekturen zu integrieren und so den Entwicklungsprozess unter dem Aspekt der IT-Sicherheit aktiv strukturell und inhaltlich zu gestalten. 
 
-- Auswahl geeigneter Sicherheitsmechanismen, um vorgegebene Sicherheitsziele zu erreichen
+- Sie kennen die Wirkzusammenhänge zwischen Vertrauen und (IT-)Sicherheit und sind in der Lage Maßnahmen zur Vertrauensbildung in kommerziell-technische (e-commerce) und sozio-technische Systeme zu entwickeln.
 
-- Fähigkeit zur Analyse von Systemen auf Sicherheitsschwächen und kritisches Hinterfragen von Aussagen zur Sicherheit
-
-- Kenntnis der Ursachen von Sicherheitsschwächen in TCP/IP-basierten Netzen und Diensten
-
-- Fähigkeit zu Einsatz und Analyse der Sicherheitsmechanismen in TCP/IP-basierten Netzen
-
-- Einüben der Fähigkeit zur Analyse der Sicherheitseigenschaften konkreter Werkzeuge mit Hilfe der im Vorlesungsteil der Veranstaltung vorgestellten Begriffe
-
-- Einschätzen der Grenzen von Sicherheitswerkzeugen anhand konkreter Beispiele
-
-- Vertieftes Verständnis technischer Zusammenhänge in der IT-Sicherheit
-
-- Einschätzen des Schutzbedarfs anhand konkreter Angriffsmöglichkeiten
-
-- Schulung der analytischen Fähigkeiten mittels konkreter Einsatzszenarien,
-
-- die Basiskonzepte und Grundlagen der Betriebssysteme und der Rechnerarchitektur kennen und verstehen sowie
-
-- ein einheitliches konsistentes Begriffsgebäude zu, teilweise aus der persönlichen Praxis, bekannten Sachverhalten der IT aufbauen
-
-  um (fachpraktische Begründung)
-
-  ~~~
-
-  Bitte fachpraktische Begründung noch ergänzen
-
-  ~~~
-
-  ​
+- Die Studierenden erkennen die gesellschaftliche Bedeutung von Privatsphäre und Datenschutz und sind in der Lage ein für sie individuell adäquates Niveau an Privatheit zu formulieren und ggf. zu beanspruchen. 
 
 
 ## Inhalt:
 
+* In der Praxis eingesetzte kryptographischen Verfahren und ihre Eigenschaften
 
-### Teil I
+* Typische Sicherheitsmaßnahmen, um vorgegebene Sicherheitsziele zu erreichen
 
-- Einführung in die Grundbegriffe der IT-Sicherheit (Was ist Sicherheit?, Schutzziele, Mechanismen, Beispielszenarien)
+* Grundlegende Zusammenhänge der IT-Sicherheit (Schutzziele, Schwachstellen, Bedrohungen und Risiken)
 
-- Einsatz aktueller kryptographischer Verfahren als Mechanismus zur Erreichung von Schutzzielen (symmetrische, asymmetrische Kryptographie, digitale Signaturen, Zertifikate, Angriffe)
+* Einfache Vorgehensmodelle zur Sicherheitsanalyse von Systemen 
 
-- Aktuelle kryptographische Standards (AES, RSA ,...)
+* Typische Ursachen von Sicherheitsschwächen in TCP/IP-basierten Netzen und Diensten
 
-- Prinzipien und Mechanismen zur Authentisierung (Biometrie, Passwörter, Chipkartensysteme, Single-Sign-On)
+* Typische Sicherheitsmaßnahmen in TCP/IP-basierten Netzen
 
-- Sicherheit TCP/IP basierter Netze und Dienste (Schwächen, Angriffe, Beispiele)
+* Sicherheitseigenschaften verbreiteter in der Praxis eingesetzter Werkzeuge
 
-- Firewall-Systeme (Application-Level-Gateways, Paketfilter, Remote-Access)
+* Grenzen von Sicherheitswerkzeugen anhand konkreter Beispiele
 
+* Einschätzen des Schutzbedarfs anhand konkreter Angriffsmöglichkeiten
 
-### Teil II: Spezielle Werkzeuge der IT-Sicherheit in der Praxis
+* Sicherheitsanalyse mittels konkreter exemplarischer Einsatzszenarien
 
-- Sicherheitswerkzeuge
+* Definition Vertrauen und Vertrauensmodelle. 
 
-- Werkzeuge zur Prüfung der Sicherheit
+* Charakteristika vertrauenswürdiger Systeme. Wirkzusammenhang zwischen Vertrauen und Sicherheit
 
-- Angriffswerkzeuge und -methoden
-
-
-### Aufgabe der Studierenden
-
-- Beschreibung,
-
-- Test und Vorführung der Funktion,
-
-- Analyse und Erläuterung der Fähigkeiten und Grenzen im Kontext von Teil I der Veranstaltung
-
-- Darstellung typischer Einsatzszenarien
-
-- Vergleich mit anderen Werkzeugen mit ähnlichen Fähigkeiten oder Eigenschaften 
+* Kernbereich der privaten Lebensgestaltung, Privatsphäre, Datenschutz, Große Datensammlungen (Data Science) als Antagonist
 
 
 ## Studien-/Prüfungsleistungen:
 
-Teil I und Teil II: Klausur sowie selbstständige Erarbeitung, Vortrag und Ausarbeitung zu einem speziellen Thema aus Teil II
+- Vorlesungsteil und Seminarinhalt: mündliche Prüfung (50%) 
+
+- Seminarteil: Vortrag und Ausarbeitung (50%)
 
 
 ## Medienformen:
 
-* Beamer-gestützte Vorlesungen
+*	Beamer-gestützte Vorlesungen
 
-* Seminar: Vortrag, schriftliche Ausarbeitung, Test und Vorführung von Werkzeugen
+*	Seminar: Vortrag, schriftliche Ausarbeitung, Test und Vorführung von Werkzeugen
 
 
 ## Literatur:
 
-- Skript Kommunikationstechnik
+*	Anderson, Ross : Security Egnineering, John Wiley & Sons Inc, 2001
 
-- Anderson, Ross : Security Egnineering, John Wiley & Sons Inc, 2001
+*	Eckert, Claudia: IT-Sicherheit. Konzepte - Verfahren - Protokolle, Oldenbourg, 2006
 
-- Eckert, Claudia: IT-Sicherheit. Konzepte - Verfahren - Protokolle, Oldenbourg, 2006
+*	Schneier, Bruce : Practical Cryptography, John Wiley & Sons, 2003
 
-- Schneier, Bruce : Practical Cryptography, John Wiley & Sons, 2003
+*	Schneier, Bruce : Secrets & Lies. IT-Sicherheit in einer vernetzten Welt, Dpunkt Verlag, 2006
 
-- Schneier, Bruce : Secrets & Lies. IT-Sicherheit in einer vernetzten Welt, Dpunkt Verlag, 2006
+*	Schneier, Bruce : Liars and Outliers: Enabling the Trust that Society Needs to Thrive, John Wiley & Sons, 2012
 
-- http://www.securityfocus.com
+*	http://www.securityfocus.com
 
-- weitere als themenbezogener Einzelverweis in der Vorlesung und im Seminar
+*	weitere als themenbezogener Einzelverweis in der Vorlesung und im Seminar
 
 
 
@@ -1893,34 +1880,22 @@ Die Studentinnen und Studenten werden in die Entwicklung von semantischen Modell
 
 ## Lehrform/SWS:
 
-V/Ü
+2 SWS V
 
-~~~
-
-Bitte SWS noch ergänzen
-
-~~~
+2 SWS Ü
 
 
 ## Arbeitsaufwand:
 
 180 Stunden
 
-~~~
+ davon:
 
-Bitte Stunden noch aufsplitten
+- 30 h Vorlesung 
 
-Beispiel:
+- 30 h Projektarbeit  
 
-Gesamtaufwand 150 h, davon 
-
-- 40 h Vorlesung 
-
-- 40 h Projektarbeit  
-
-- 90 h Selbststudium 
-
-~~~
+- 120 h Selbststudium 
 
 
 ## Angestrebte Lernergebnisse:
@@ -1933,7 +1908,9 @@ Die Teilnehmerinnen und Teilnehmer sollen die
 
 - wesentliche Aspekte der Fundierung der Sprachen in der mathematischen Logik verstehen und
 
-- ein semantisches Modell für eine Domäne in Ansätzen erstellen und diskutieren können.
+- ein semantisches Modell für eine Domäne in Ansätzen erstellen und diskutieren können
+
+um kompetent im Fachdiskurs die Eignung semantischer Modellierung für die Domänenmodellierung diskutieren zu können.
 
 
 ## Inhalt:
@@ -2003,11 +1980,15 @@ Konstruktive und analytische Qualitätssicherung und Qualitätsmanagement für W
 
 ## Angestrebte Lernergebnisse:
 
-Die Studierenden sollen befähigt werden, Ziele, Methoden, Techniken und Werkzeuge sowie organisatorischen Maßnahmen zur begleitenden Qualitätssicherung (QS) und zum Qualitätsmanagement für Web-Anwendungen nennen, charakterisieren und anwenden zu können,
+Die Studierenden werden befähigt, 
 
-Methoden und Techniken hinsichtlich ihrer theoretischen Fundierung und ihrer Praxistauglichkeit analysieren und bewerten zu können, und ihre Fähigkeit zur selbständigen Weiterbildung festigen, 
+- Ziele, Methoden, Techniken und Werkzeuge sowie organisatorischen Maßnahmen zur begleitenden Qualitätssicherung (QS) und zum Qualitätsmanagement für Web-Anwendungen beschreiben, diskutieren und anwenden zu können, sowie
 
-um die Methoden, Techniken und Werkzeuge zur Qualitätssicherung in eigenen, auch fachübergreifenden Projekten auswählen und anwenden zu können.
+- Methoden und Techniken hinsichtlich ihrer theoretischen Fundierung und ihrer Eignung in einem Projektkontext analysieren und bewerten zu können, und 
+
+- sich selbständig wissenschaftlich und fachlich weiter zu bilden, 
+
+um die Methoden, Techniken und Werkzeuge zur Qualitätssicherung und zum Qualitätsmanagement in eigenen, auch fachübergreifenden Projekten auswählen und anwenden zu können.
 
 
 ## Inhalt:
@@ -2033,14 +2014,18 @@ Aufbauend auf dem in der Vorlesung vermittelten Stoff erstellt jeder Teilnehmer 
 
 ## Studien-/Prüfungsleistungen:
 
-Seminar-Hausarbeit und -Vortrag
+* Seminar-Hausarbeit (30%) 
 
-Klausur 60 Minuten
+* Seminarvortrag (30%)
+
+* Klausur 60 Minuten (40%)
 
 
 ## Medienformen:
 
 * Beamer-gestützte Vorlesungen (Folien in elektronischer Form im Netz)
+
+* Materialien zum Selbststudium (Vorlagen, Software-Werkzeuge, Veröffentlichungen)
 
 * Fallbeispielgestützte Übungen in Gruppen, um die erlernten Modelle und Methoden einzuüben und zu vertiefen (Seminarraum, Rechnerlabor).
 
@@ -2084,21 +2069,13 @@ Basierend auf diesem Grundlagenwissen werden dann Lösungen aus fortschrittliche
 
 180 Stunden
 
-~~~
+davon 
 
-Bitte Stunden noch aufsplitten
+- 30 h Vorlesung 
 
-Beispiel:
+- 30 h Seminar 
 
-Gesamtaufwand 150 h, davon 
-
-- 40 h Vorlesung 
-
-- 40 h Projektarbeit  
-
-- 90 h Selbststudium 
-
-~~~
+- 120 h Selbststudium 
 
 
 ## Angestrebte Lernergebnisse:
@@ -2111,7 +2088,7 @@ Die Studentinnen und Studenten
 
 - können bestehende Web Anwendungen basierend auf den Konzepten der Software Architektur und der Internet Governance analysieren
 
-- um in leitender Funktion zur Gestaltung der Architektur von Projekten für das Web beitragen zu können.
+um in leitender Funktion zur Gestaltung der Architektur von Projekten für das Web beitragen zu können.
 
 
 ## Inhalt:

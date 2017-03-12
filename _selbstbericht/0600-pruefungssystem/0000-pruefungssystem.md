@@ -26,11 +26,11 @@ Die Prüfungsordnungen regeln das Studium und die Prüfungen in den Studiengä
 
 - <a href="https://www.th-koeln.de/studium/medieninformatik-bachelor--ordnungen-und-formulare_3963.php">Prüfungsordnung Medieninformatik Bachelor</a>
 - <a href="../anhaenge/ba-studienverlaufsplan.pdf">Studienverlaufsplan Medieninformatik Bachelor</a>
-- <a href="../anhaenge/medieninformatik-bachelor-modulhandbuch.pdf">Modulhandbuch Medieninformatik Bachelor</a>
+- <a href="../download/modulbeschreibungen-bachelor.pdf">Modulhandbuch Medieninformatik Bachelor</a>
 
 - <a href="../anhaenge/ma-MIMPO_Entwurf_20170218.pdf">Prüfungsordnung Medieninformatik Master (Entwurf)</a>
-- <a href="../anhaenge/ma-studienverlaufsplaene.pdf">Studienverlaufsplan Medieninformatik Master</a>
-- <a href="../anhaenge/medieninformatik-master-modulhandbuch.pdf">Modulhandbuch Medieninformatik Master</a>
+- <a href="../anhaenge/ma-studienverlaufsplan.pdf">Studienverlaufsplan Medieninformatik Master</a>
+- <a href="../download/modulbeschreibungen-master.pdf">Modulhandbuch Medieninformatik Master</a>
 
 ## Prüfungsplanung
 

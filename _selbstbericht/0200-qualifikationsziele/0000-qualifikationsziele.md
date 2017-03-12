@@ -25,7 +25,7 @@ Darüber hinaus sieht sie fünf charakteristische Merkmale:
 > - Medieninformatik arbeitet interdisziplinär.
 > - Medieninformatik arbeitet forschungs- und anwendungsorientiert.
 
-Aus diesen Definitionen und den Erfahrungen der beteiligten Studiengangsverantwortlichen lässt sich ableiten, dass Medieninformatik ein anspruchsvolles, facettenreiches Betätigungsfeld mit ausgeprägter Interdisziplinarität ist. Das breite Spektrum an erforderlichen kognitiven, sozialen und fachlichen Kompetenzen, Fertigkeiten und Kenntnissen lässt sich kaum mit der nötigen Tiefe in einem einzigen Ausbildungsprofil zusammenführen. Mit zunehmender Komplexität der zu entwickelnden Systeme und zunehmenden Anforderungen an die Qualität dieser Systeme, aber auch aufgrund der wachsenden Bedeutung von Software für innovative Produkte und Dienstleistungen in unserer Gesellschaft, zeigt sich daher immer mehr die Notwendigkeit einer professionellen Differenzierung. Um eine möglichst beständige, von aktuellen technologischen Trends weitgehend unabhängiges Medieninformatik-Curriculum bieten zu können, orientieren sich die Inhalte der Medieninformatik Studiengänge weitgehend an Grundlagen, ohne jedoch den Praxisbezug in Form von Fallstudien und Projekten zu vernachlässigen.
+Aus diesen Definitionen und den Erfahrungen der beteiligten Studiengangsverantwortlichen lässt sich ableiten, dass Medieninformatik ein anspruchsvolles, facettenreiches Betätigungsfeld mit ausgeprägter Interdisziplinarität ist. Das breite Spektrum an erforderlichen kognitiven, sozialen und fachlichen Kompetenzen, Fertigkeiten und Kenntnissen lässt sich kaum mit der nötigen Tiefe in einem einzigen Ausbildungsprofil zusammenführen. Mit zunehmender Komplexität der zu entwickelnden Systeme und zunehmenden Anforderungen an die Qualität dieser Systeme, aber auch aufgrund der wachsenden Bedeutung von Software für innovative Produkte und Dienstleistungen in unserer Gesellschaft, zeigt sich daher immer mehr die Notwendigkeit einer professionellen Differenzierung. Um ein möglichst beständiges, von aktuellen technologischen Trends weitgehend unabhängiges Medieninformatik-Curriculum bieten zu können, orientieren sich die Inhalte der Medieninformatik Studiengänge weitgehend an Grundlagen, ohne jedoch den Praxisbezug in Form von Fallstudien und Projekten zu vernachlässigen.
 
 Die wesentliche Basis für die Entwicklung und Ausgestaltung relevanter Kompetenzen bildeten einerseits, soweit sie noch Bestand haben, die bestehenden Bereiche und Kompetenzziele das aktuellen Curriculums und andererseits die aktuellen "Empfehlungen für Bachelor- und Masterprogramme im Studienfach Informatik an Hochschulen" [^gi-empfehlungen] der Gesellschaft für Informatik. Hier werden folgende Kompetenzbereiche vorgeschlagen und mit exemplarischen Inhalten verknüpft:
 
@@ -57,7 +57,7 @@ Die Studierenden …
 - können Probleme und Anforderungen exakt beschreiben, um diese in geeigneten Datenstrukturen und effizienten Algorithmen umzusetzen.
 - kennen Vorgehensweisen und Werkzeuge, um Probleme und Sachverhalte zu abstrahieren und zu modellieren (logische und algebraische Kalküle, graphentheoretische Notationen, formale Sprachen und Automaten sowie spezielle Kalküle wie Petri-Netze oder die Prozessalgebra CSP)
 - kennen Verfahrensweisen um den algorithmischen Kern eines Problems zu identifizieren und können Algorithmen entwerfen, verifizieren und bzgl. ihres Ressourcenbedarfs bewerten.
-- können Lösungen angemessenen fachlich kommunizieren, bewerten und im Rahmen von kooperativen Arbeitszusammenhängen nutzen.
+- können Lösungen angemessen fachlich kommunizieren, bewerten und im Rahmen von kooperativen Arbeitszusammenhängen nutzen.
 
 ### Analyse-, Entwurfs-, Realisierungs- und Projektmanagement-Kompetenzen
 
@@ -132,11 +132,11 @@ Das folgende Leitbild steht über dem Studiengang Medieninformatik Bachelor:
 *Der Studiengang soll die Absolventinnen und Absolventen befähigen, in interdisziplinären Teams digitale Prozesse und Systeme zur Produktion, Bearbeitung und Distribution medienbasierter Informationen aus informatischer, ökonomischer und sozialer Perspektive zu analysieren, konzipieren, adaptieren, realisieren und dokumentieren.*
 
 
-### Ziele des zu reakkreditierenden Studiengangs insgesamt
+### Ziele des zu reakkreditierenden Studiengangs
 
 Mit dem 6-semestrigen Bachelorstudiengang Medieninformatik sollen die Absolventinnen und Absolventen fachliche Qualifikation, Kompetenz, Fertigkeiten und Fähigkeiten im Hinblick auf die verantwortliche, sowie menschen- und medienadäquate Umsetzung von Konzepten und Verfahren aus der Informatik erlangen. Sie verfügen über tiefgehendes Verständnis um informatikspezifische Probleme und Aufgaben, wie sie in interdisziplinären medienrelevanten Softwareprojekten typisch sind, auf fachlicher Ebene diskutieren und fundierte Entscheidungen treffen zu können. Die Absolventinnen und Absolventen sollen in der Lage sein, eigen- oder fremdformulierte Problemstellungen in Aufgabenstellungen zu überführen, Zielsetzungen auf unterschiedlichen Hierarchieebenen zu formulieren und diese Zielsetzungen mit den Konzepten, Vorgehensmodellen, Methoden und Arbeitstechniken der Informatik strukturiert und systematisch in Teams zu bearbeiten, Handlungs- und Lösungs-Alternativen kritisch zu diskutieren und begründet Abwägungen zu treffen, Ergebnisse kritisch sowie in Hinblick auf die Zielsetzungen zu bewerten und weitere Perspektiven aufzuzeigen.
 
-Die Fähigkeit, konstruktiv in einem interdisziplinären Team zu arbeiten, eigenen Beiträge oder die anderer Teammitglieder fachlich kritisch zu würdigen und im Projekt zu berücksichtigen, stellt eine wichtige soziale, methodische und fachliche Qualifikation dar, die durch den Studienabschluss erreicht werden soll. Kommunikations- und Präsentationskompetenzen sind für die berufliche Praxis, gerade wegen der Interdisziplinarität und Arbeitsteiligkeit vieler Softwareprojekte mit medialer Ausrichtung, von besonderer Bedeutung. 
+Die Fähigkeit, konstruktiv in einem interdisziplinären Team zu arbeiten, eigene Beiträge oder die anderer Teammitglieder fachlich kritisch zu würdigen und im Projekt zu berücksichtigen, stellt eine wichtige soziale, methodische und fachliche Qualifikation dar, die durch den Studienabschluss erreicht werden soll. Kommunikations- und Präsentationskompetenzen sind für die berufliche Praxis, gerade wegen der Interdisziplinarität und Arbeitsteiligkeit vieler Softwareprojekte mit medialer Ausrichtung, von besonderer Bedeutung. 
 
 ### Darstellung der durch das Studium zu erreichenden Lernergebnisse
 
@@ -152,7 +152,7 @@ Absolventinnen und Absolventen des Bachelorstudiengangs Medieninformatik:
 
 - erarbeiteten sich Medienkompetenzen und können Konzeptionen und Informationen, bezüglich ihrer Struktur, Nutzung und ihres Managements, modellieren, unter Berücksichtigung fachlicher, organisatorischer, sozialer und kultureller Kontexte sowie Vorgaben und Regeln, angemessene Gestaltungsziele formulieren, sowie Konzeptionen im Kontext etablierter fachlicher Theorien und Konzepte einordnen, analysieren, diskutieren und bewerten.
 
-- haben anhand praxisnaher Projekte und Fallstudien die Kompetenz erworben, eigenverantwortlich und professionell Projekte im Umfeld der Medieninformatik durchführen zu können und sowie die Fähigkeit zur effektiven und effizienten Kommunikation und zur Teamarbeit erlangt. 
+- haben anhand praxisnaher Projekte und Fallstudien die Kompetenz erworben, eigenverantwortlich und professionell Projekte im Umfeld der Medieninformatik durchführen zu können, sowie die Fähigkeit zur effektiven und effizienten Kommunikation und zur Teamarbeit erlangt. 
 
 - verfügen über Wissen bezüglich der Rahmenbedingungen von Software-gestützen Systemen und Prozessen und haben ihre Fähigkeit zum methodischen und systematischen Vorgehen, der Auswahl und der Durchführung von Arbeits- und Dokumentationstechniken erlangt und sind fähig Methoden, Konzepte und Techniken bei der Problemlösung auszuwählen, anzuwenden und deren Anwendung zu begründen.
 
@@ -167,7 +167,7 @@ Absolventinnen und Absolventen des Bachelorstudiengangs Medieninformatik:
 - <a href="https://www.th-koeln.de/studium/medieninformatik-bachelor--ordnungen-und-formulare_3963.php">Ordnungen zum Medieninformatik Bachelor</a>
 - <a href="../anhaenge/ba-abschlussarbeiten_2010-2014_.pdf">Themen der Abschlussabeiten des Medieninformatik Bachelor 2010 bis 2014</a>
 - <a href="../anhaenge/ba-studienverlaufsplan.pdf">Studienverlaufsplan Medieninformatik Bachelor</a>
-- <a href="../anhaenge/medieninformatik-bachelor-modulhandbuch.pdf">Modulhandbuch Medieninformatik Bachelor</a>
+- <a href="../download/modulbeschreibungen-bachelor.pdf">Modulhandbuch Medieninformatik Bachelor</a>
 - <a href="../anhaenge/ba-Ziele-Module-Matrix-Medieninformatik-Bachelor.pdf">Ziele-Module-Matrix Medieninformatik Bachelor</a>
 - <a href="../anhaenge/ba-zeugnis.pdf">Beispielzeugnis und Diploma Supplement Medieninformatik Bachelor</a>
 - <a href="../anhaenge/stat-profil-studienanfaenger-2017.pdf">Profil der Studienanfänger</a>
@@ -182,9 +182,9 @@ Der konsekutive Masterstudiengang ist auf das folgende Leitbild ausgerichtet:
 *Absolventinnen und Absolventen des Masterstudiengangs Medieninformatik sind befähigt, an der Analyse komplexer informatik-spezifischer Aufgabenstellungen im Kontext interaktiver, oft web-basierter, multimedialer Systeme an leitender Stelle in interdisziplinären Entwicklungsteams mitzuwirken, Lösungskonzepte verantwortlich zu entwerfen und zu realisieren, kritisch einzuordnen und zu evaluieren sowie in der fachlichen Öffentlichkeit zu kommunizieren und zu verwerten.*
 
 
-### Ziele des zu reakkreditierenden Studiengangs insgesamt 
+### Ziele des zu reakkreditierenden Studiengangs 
 
-Im konsekutiven 4-semestrigen Masterstudiengang Medieninformatik werden die im Rahmen des ersten berufsbefähigenden Studiums erworbenen fachlichen und fachübergreifenden, sowie die sozialen Kompetenzen vertieft und erweitert. Der Masterstudiengang Medieninformatik befähigt die Absolventinnen und Absolventen, auf dem Stand von Wissenschaft und Technik an der Analyse komplexer informatik-spezifischer Aufgabenstellungen im Kontext multimedialer Informations-und Kommunikationssystem an leitender Stelle mitzuwirken, Lösungskonzepte verantwortlich zu entwerfen und interdisziplinäre Entwicklungsteams zu führen. Dazu erwerben die Studierenden die Kompetenz, umfangreiche und zum Teil auch gegenläufige Anforderungen zu ermitteln und unter sozialen wie wirtschaftlichen Kosten-Nutzen-Aspekten zu hinterfragen, Lösungsarchitekturen und Lösungsstrategien zu entwerfen oder Referenzmodelle für neue Aufgabenstellungen zu entwickeln. Zudem werden die Studierenden in Teilbereichen der Medieninformatik an aktuelle Forschungsthemen herangeführt. Sie erwerben Methoden des Selbstmanagements, um im Berufsalltag an vorderster Wissensfront Aufgaben bewältigen zu können.   
+Im konsekutiven 4-semestrigen Masterstudiengang Medieninformatik werden die, im Rahmen des ersten berufsbefähigenden Studiums erworbenen, fachlichen und fachübergreifenden Fähigkeiten, sowie die sozialen Kompetenzen vertieft und erweitert. Der Masterstudiengang Medieninformatik befähigt die Absolventinnen und Absolventen, auf dem Stand von Wissenschaft und Technik an der Analyse komplexer informatik-spezifischer Aufgabenstellungen im Kontext multimedialer Informations-und Kommunikationssystem an leitender Stelle mitzuwirken, Lösungskonzepte verantwortlich zu entwerfen und interdisziplinäre Entwicklungsteams zu führen. Dazu erwerben die Studierenden die Kompetenz, umfangreiche und zum Teil auch gegenläufige Anforderungen zu ermitteln und unter sozialen wie wirtschaftlichen Kosten-Nutzen-Aspekten zu hinterfragen, Lösungsarchitekturen und Lösungsstrategien zu entwerfen oder Referenzmodelle für neue Aufgabenstellungen zu entwickeln. Zudem werden die Studierenden in Teilbereichen der Medieninformatik an aktuelle Forschungsthemen herangeführt. Sie erwerben Methoden des Selbstmanagements, um im Berufsalltag an vorderster Wissensfront Aufgaben bewältigen zu können.   
 
 ### Darstellung der durch das Studium zu erreichenden Lernergebnisse 
 
@@ -198,7 +198,7 @@ Absolventinnen und Absolventen des Masterstudiengangs Medieninformatik:
 
 - entwickelten ihre Medienkompetenzen in wichtigen Kernfächern weiter und können Konzeptionen und Informationen bezüglich ihrer Struktur, Nutzung und ihres Managements modellieren, unter Berücksichtigung fachlicher, organisatorischer, sozialer und kultureller Kontexte sowie Vorgaben und Regeln, angemessene Gestaltungsziele formulieren, sowie Konzeptionen im Kontext etablierter wissenschaftlicher Theorien einordnen, analysieren, diskutieren und bewerten. 
 
-- haben anhand praxisnaher Projekte und Fallstudien die Kompetenz erworben, eigenverantwortlich und professionell Projekte im Umfeld der Medieninformatik organisieren als auch durchführen zu können und sowie die Fähigkeit zur effektiven und effizienten Kommunikation und zur Teamarbeit erweitert und vertieft. Sie erwerben Wissen bzgl. kultureller Rahmenbedingungen menschlichen Handelns, kennen Konzepte der Ethik und können diese handlungsleitend integrieren.  Sie haben dabei ihre Fähigkeit zum methodischen Vorgehen, der Auswahl und der Durchführung von Arbeits- und Dokumentationstechniken vertieft und sind fähig, innovative Methoden bei der Problemlösung auszuwählen, anzuwenden und deren Anwendung zu begründen.
+- haben anhand praxisnaher Projekte und Fallstudien die Kompetenz erworben, eigenverantwortlich und professionell Projekte im Umfeld der Medieninformatik zu organisieren als auch durchführen zu können, sowie die Fähigkeit zur effektiven und effizienten Kommunikation und zur Teamarbeit erweitert und vertieft. Sie erwerben Wissen bzgl. kultureller Rahmenbedingungen menschlichen Handelns, kennen Konzepte der Ethik und können diese handlungsleitend integrieren.  Sie haben dabei ihre Fähigkeit zum methodischen Vorgehen, der Auswahl und der Durchführung von Arbeits- und Dokumentationstechniken vertieft und sind fähig, innovative Methoden bei der Problemlösung auszuwählen, anzuwenden und deren Anwendung zu begründen.
 
 - wurden an forschungsnahe Fragestellungen der Medieninformatik herangeführt und können auch zukünftige Problemstellungen, Technologien und wissenschaftliche Erkenntnisse im Umfeld der Medieninformatik erkennen und in ihrem Arbeitsumfeld einbeziehen sowie selbst wissenschaftlich arbeiten und – etwa im Rahmen einer Dissertation - Beiträge zur Weiterentwicklung der Medieninformatik als wissenschaftlicher Disziplin leisten. Sie können wissenschaftliche Arbeiten für unterschiedliche Zielgruppen aufbereiten sowie fundiert und überzeugend präsentieren und können Kritikpunkte und abweichende Positionen verstehen, bewerten und angemessen in eigene wissenschaftliche Arbeiten einfließen lassen
 
@@ -207,8 +207,8 @@ Absolventinnen und Absolventen des Masterstudiengangs Medieninformatik:
 ### Weiterführende Dokumente
 - <a href="https://www.th-koeln.de/studium/medieninformatik-master_3729.php">Website des Medieninformatik Master</a>
 - <a href="https://www.th-koeln.de/studium/medieninformatik-master--ordnungen-und-formulare_3724.php">Ordnungen zum Medieninformatik Master</a>
-- <a href="../anhaenge/ma-studienverlaufsplaene.pdf">Studienverlaufsplan Medieninformatik Master</a>
-- <a href="../anhaenge/medieninformatik-master-modulhandbuch.pdf">Modulhandbuch Medieninformatik Master</a>
+- <a href="../anhaenge/ma-studienverlaufsplan.pdf">Studienverlaufsplan Medieninformatik Master</a>
+- <a href="../download/modulbeschreibungen-master.pdf">Modulhandbuch Medieninformatik Master</a>
 - <a href="../anhaenge/ma-MIMPO_Entwurf_20170218.pdf">Prüfungsordnung Medieninformatik Master(entwurf)</a>
 - <a href="../anhaenge/ma-Ziele-Module-Matrix-Medieninformatik-Master.pdf">Ziele-Module-Matrix Medieninformatik Master</a>
 - <a href="../anhaenge/ma-zeugnis.pdf">Beispielzeugnis und Diploma Supplement Medieninformatik Master</a>
