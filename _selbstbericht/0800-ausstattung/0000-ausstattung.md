@@ -3,7 +3,7 @@ title: Personal & Ausstattung
 aktueller-bearbeiter:
 bearbeiterhistorie: Christian Noss
 date: 18.02.2017
-comment: Gerhard hat die eye-tracking facilities eingefügt, Gerhards Forschungsthemen eingetragen, Hans hat die Geräteausstattung etwas zusammengefasst; Kristian THema Konferenzteilnahmen eingefügt
+comment: Gerhard hat die eye-tracking facilities eingefügt, Gerhards Forschungsthemen eingetragen, Hans hat die Geräteausstattung etwas zusammengefasst; Kristian THema Konferenzteilnahmen eingefügt; Mario Weiterbildung und Konferenzen ergänzt.
 status: unvollständig
 reviewed-von:
 ---
@@ -11,10 +11,22 @@ reviewed-von:
 ## Weiterbildung
 
 Das Kompetenzteam Hochschuldidaktik der TH Köln bietet für alle Lehrenden hochschuldidaktische Fort- und Weiterbildungen in vielfältiger Form an. Um die Lern- und Lehrkultur stetig weiter zu entwickeln wurden eine Vielzahl von Programmen (z.B. ProfiL2, Exzellente Lehre, Come in-Commit, etc.) entwickelt, die fest in den Hochschulalltag integriert sind. Details zu den vielfältigen Aktivitäten und Ressourcen finden sich beschrieben unter: https://www.th-koeln.de/hochschule/lehr--und-lernkultur_6277.php.
-Das Weiterbildungsprogramm wurde von den Lehrenden vielfältig wahrgenommen.
+Das Weiterbildungsprogramm wurde von den Lehrenden vielfältig wahrgenommen, unter anderem:
+
+- 1/2-jähriger Workshop zum Fakultätsmultiplikator "Kompetenzorientierte Prüfungen entwickeln" (TH Köln 2014)
+- Workshop "Prüfen von Kompetenzen in projektorientierten Lehrveranstaltungen" (TH Köln 2014)
+- Workshop "CU in Projects - Inspirierendes Lehren und Lernen" (TH Köln, 2015)
+- Workshop "Forschendes Lernen und Prüfen" (TH Köln 2016)
+
 Daneben haben Lehrende und wissenschaftliche Mitarbeiter an wissenschaftlichen Konferenzen teilgenommen. Unter anderem:
 
 - International ACM Web Science Conference '15 in Oxford (K. Fischer mit paper)
+- GI-Konferenz Software Engineering 2012 in Berlin, 2013 in Aachen und 1017 in Hannover (M. Winter mit paper)
+- 6th+7th International Workshop on Model-Based Verification and Validation (MVV 2016 und 2017, Wien und Prag, M. Winter program comittee)
+- World Usability Days: Sustainable User Experience (UX) 2016 in Köln (G. Hartmann Tagungsleitung)
+- Internationales WebDev-Projekt - Studentisches Web-Projekt in Kooperation mit europäischen Hochschulen (C. Noss Organisation)
+- NordiCHI '16 Workshop Designing e-Health Services for Patients & Relatives 2016 GothenburgSweden (C. Grünloh mit paper)
+- Medical Informatics Europe (MIE 2016), in conjunction with Health - Exploring Complexity: An Interdisciplinary Systems Approach (HEC 2016) 2016 in München (C. Grünloh mit paper)
 
 ## Räumliche Ausstattung und Hardware
 
