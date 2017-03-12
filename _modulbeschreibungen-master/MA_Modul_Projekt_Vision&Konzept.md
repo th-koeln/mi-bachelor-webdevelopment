@@ -2,7 +2,7 @@
 title: Projektarbeit - Vision und Konzept im Kontext des Studienschwerpunkts
 modulverantwortlich: kf, mw, hc, me, ck, gh
 modulniveau: n/a
-kuerzel: WTWP-VK
+kuerzel: MIMP-K
 untertitel: null
 studiensemester-ws: 1
 studiensemester-ss: 2
