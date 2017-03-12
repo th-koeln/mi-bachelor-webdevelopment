@@ -33,7 +33,7 @@ Im Antrag für die "Anstehende Wiederzuweisung von fünf Professuren im Institut
 >
 > Die starke Durchdringung der Gesellschaft mit leistungsfähigen, zunehmend mobilen, mit umfangreicher Sensorik ausgestatteten Endgeräten, eröffnet auch hier teilweise völlig neue Fragestellungen und Möglichkeiten. In Kombinationen mit den bestehenden alten und anderen neuen Schwerpunkten eröffnet der Studienbereich „IT für Menschen“ auch ein neues Forschungsfeld. Mittelfristiges Ziel ist es, hier ein neues Studienangebot zu realisieren, dass auch aus den vom Präsidium für solche Zwecke in Aussicht gestellten neuen Professuren gespeist wird und nicht zu Lasten vorhandener Ressourcen – weder in der Lehreinheit Informatik noch in der Lehreinheit Ingenieurwissenschaften – geht. Das benötigte Know-how ist zum großen Teil bereits vorhanden und soll durch Wahlpflichtangebote in diesem Bereich ergänzt werden.
 
-Das Lehr- und Forschungsbereich "Soziotechnische Systeme" findet sich in den zu akkreditierenden Curricula unter dem Begriff "Social Computing". Dieser Themenkomplex soll im Bachelor Studienprogramm als Vertiefungsmodul und im Master als Schwerpunkt verankert werden.
+Der Lehr- und Forschungsbereich "Soziotechnische Systeme" findet sich in den zu akkreditierenden Curricula unter dem Begriff "Social Computing". Dieser Themenkomplex soll im Bachelor Studienprogramm als Vertiefungsmodul und im Master als Schwerpunkt verankert werden.
 
 ## Geplante Veränderungen des Bachelorstudiengangs gegenüber dem aktuellen Akkreditierungszeitraum
 
@@ -71,7 +71,7 @@ Hiermit sollen folgende bekannte Defizite ausgeglichen werden:
 - zu großer Sprung der Projektgrößen
 - zu viele „Baustellen“
 
-Wie bereits beschrieben, wurden die projektorientierten Module gleichmäßiger über den Studienverlauf verteilt und projektorientierte Module teilweise zusammen gelegt. Um die Projektgrößen sinnvoll aufzubauen, werden jetzt in den ersten drei Semestern Projekte mit einem Gewicht von max. 2,5 Creditpoints absolviert. Im vierten Semester folgt dann, als Teil des Vertiefungsmoduls, ein Projekt mit einem Gewicht von etwa 5 Creditpoints. Im fünften Semester folgt dann das Entwicklungsprojekt mit einem Gewicht von 10 Creditpoints. Im sechsten Semester liegt dann das Praxisprojekt mit ebenfalls 10 Creditpoints und die Bachelorarbeit mit 12 Creditpoints. Für diejenigen, die dann in Masterstudiengang wechseln wollen, bleibt die Projektgröße dann bei 12 Creditpoints.
+Wie bereits beschrieben, wurden die projektorientierten Module gleichmäßiger über den Studienverlauf verteilt und projektorientierte Module teilweise zusammen gelegt. Um die Projektgrößen sinnvoll aufzubauen, werden jetzt in den ersten drei Semestern Projekte mit einem Gewicht von max. 2,5 Creditpoints absolviert. Im vierten Semester folgt dann, als Teil des Vertiefungsmoduls, ein Projekt mit einem Gewicht von etwa 5 Creditpoints. Im fünften Semester folgt dann das Entwicklungsprojekt mit einem Gewicht von 10 Creditpoints. Im sechsten Semester liegt dann das Praxisprojekt mit ebenfalls 10 Creditpoints und die Bachelorarbeit mit 12 Creditpoints. Für diejenigen, die dann in den Masterstudiengang wechseln wollen, bleibt die Projektgröße bei 12 Creditpoints.
 
 
 ### Strukturierte Möglichkeit zur individuellen Fachvertiefung
@@ -107,7 +107,7 @@ Darüber hinaus wurden weitere Änderungen durchgeführt, um die folgenden Defiz
 - missverständliches Abschlusssemester
 - zu wenig Kenntnisse über verschiedene Programmierkonzepte
 
-Das Abschlusssemester wurde in seiner grundsätzlichen Struktur beibehalten, jedoch wurde der Seminarteil das Moduls "Praxisprojekt" ausgelagert und als eigenes Modul installiert. Hiermit wird die Studierbarkeit verbessert, da die zeitliche Kopplung des Praxis- und Seminarteils reduziert wird. Darüber hinaus ist nun das Praxisprojekt mit einem Gewicht von 10 Creditpoints ausgestattet und damit weniger gewichtig, als die Bachelorarbeit, die ein Gewicht von 12 Creditpoints hat.
+Das Abschlusssemester wurde in seiner grundsätzlichen Struktur beibehalten, jedoch wurde der Seminarteil des Moduls "Praxisprojekt" ausgelagert und als eigenes Modul installiert. Hiermit wird die Studierbarkeit verbessert, da die zeitliche Kopplung des Praxis- und Seminarteils reduziert wird. Darüber hinaus ist nun das Praxisprojekt mit einem Gewicht von 10 Creditpoints ausgestattet und damit weniger gewichtig, als die Bachelorarbeit, die ein Gewicht von 12 Creditpoints hat.
 
 Das Modul "Paradigmen der Programmierung", das bislang nur im Informatik Bachelor als Pflichtmodul im Curriculum verankert war, wird jetzt ein Pflichtmodul im dritten Fachsemester in der Medieninformatik um die Studierenden bessere Kenntnisse im Bereich verschiedener Programmierkonzepte und deren Anwendung zu vermitteln.
 
@@ -117,13 +117,13 @@ Im fünften Semester wurde das Modul "Medieninformatik und Gesellschaft" umgewid
 
 ## Auswirkungen auf die Lehrkapazität
 
-Die Änderungen im Bachelorstudienprogramm sind weitgehend kapazitätsneutral. Das von allen Informatikstudiengängen geteilte Modul "Betriebswirtschaftslehre 2" wurde durch des ebenfalls geteilte Modul "Paradigmen der Programmierung" ersetzt. Das Modul "Mensch-Computer Interaktion" wurde zwar von fünf auf zehn Creditpoints vergrößert, jedoch enthielt bislang das Modul "Entwicklungsprojekt Interaktive Systeme" fünf Creditpoints Praxisanteil "Mensch-Computer Interaktion" die nun direkt dem Modul zugeschlagen werden.
+Die Änderungen im Bachelorstudienprogramm sind weitgehend kapazitätsneutral. Das von allen Informatikstudiengängen geteilte Modul "Betriebswirtschaftslehre 2" wurde durch das ebenfalls geteilte Modul "Paradigmen der Programmierung" ersetzt. Das Modul "Mensch-Computer Interaktion" wurde zwar von fünf auf zehn Creditpoints vergrößert, jedoch enthielt bislang das Modul "Entwicklungsprojekt Interaktive Systeme" fünf Creditpoints Praxisanteil "Mensch-Computer Interaktion" die nun direkt dem Modul zugeschlagen werden.
 
 Die Studierenden verteilen sich über die Vertiefungsmodule, in die auch bisherige Wahlpflichtmodule integriert wurden. Somit reduziert sich hier in Summe die Lehrbelastung. Durch die resultierende Reduktion ist es möglich das Modul "Web-Architekturen" kapazitätsneutral anzubieten. Das "Entwicklungsprojekt" im fünften Semester ist zukünftig nicht mehr an nur zwei Lehrende gebunden, sondern kann von allen Lehrenden der Informatik betreut werden. Dadurch verteilt sich die Lehrbelastung.
 
 Lediglich das Vertiefungsmodul "Social Computing" ist nicht kapazitätsneutral, hier wurde jedoch zusätzliche Kapazität aufgebaut.
 
-Das Personalcontrolling der TH-Köln geht bestätigt die ausreichende Lehrkapazität[^kapa-nachweis-verwaltung] für das vorliegende Konzept des Medieninformatik Master Studiengangs. 
+Das Personalcontrolling der TH-Köln bestätigt die ausreichende Lehrkapazität[^kapa-nachweis-verwaltung] für das vorliegende Konzept des Medieninformatik Master Studiengangs. 
 
 ## Geplante Veränderungen des Master-Studiengangs gegenüber dem aktuellen Akkreditierungszeitraum
 
@@ -222,7 +222,7 @@ In der folgenden Abbildung sind im linken Teil semesterweise die Pflichtmodule d
 
 {% include image.html url="bilder/ma-mpo3-mpo4.png" caption="Module des Masterstudiengangs Medieninformatik. Links das aktuelle und rechts das zukünftige Curriculum." %}
 
-Das Personalcontrolling der TH-Köln geht bestätigt die ausreichende Lehrkapazität[^kapa-nachweis-verwaltung] für das vorliegende Konzept des Medieninformatik Master Studiengangs. 
+Das Personalcontrolling der TH-Köln bestätigt die ausreichende Lehrkapazität[^kapa-nachweis-verwaltung] für das vorliegende Konzept des Medieninformatik Master Studiengangs. 
 
 [^kapa-nachweis-verwaltung]: <a href="../anhaenge/th-verwaltung-kapa-nachweis.pdf">Nachweis über ausreichende Lehrkapazität durch das Team 7.3(Personalcontrolling) der TH Köln</a>
 

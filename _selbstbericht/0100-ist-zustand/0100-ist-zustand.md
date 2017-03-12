@@ -14,7 +14,7 @@ Fachlich und strukturell sind sowohl der Bachelorstudiengang als auch der konsek
 
 Die Studiengänge, vor allem der Bachelorstudiengang, erfreuen sich großer Nachfrage, sowohl von Studierenden als auch von Unternehmen. Beim unabhängigen Bewertungsportal "Studycheck.de" [^Link-studycheckde] wird die Medieninformatik am Campus Gummersbach unter den TOP 5 Studiengängen in diesem Segment gelistet [^Anhang-Snapshot-Bewertungen-von-studycheckde].
 
-Mittlerweile haben etwa 15 Absolventen des Masterstudienganges Medieninformatik ein Promotionstudium abgeschlossen bzw. sind gerade im Begriff, diese anzuschliessen. Die Promotionsverfahren fanden bzw. finden an deutschen (Münster, Paderborn, Tübingen) aber auch an europäischen (Schweden, Norwegen, Niederlande, Spanien, UK) Universitäten statt und decken fachlich ein breites Spektrum ab.
+Mittlerweile haben etwa 15 Absolventen des Masterstudienganges Medieninformatik ein Promotionstudium abgeschlossen bzw. sind gerade im Begriff, diese abzuschliessen. Die Promotionsverfahren fanden bzw. finden an deutschen (Münster, Paderborn, Tübingen) aber auch an europäischen (Schweden, Norwegen, Niederlande, Spanien, UK) Universitäten statt und decken fachlich ein breites Spektrum ab.
 
 
 
@@ -121,7 +121,7 @@ Bei den Vorbereitungen zum Praxisprojekt, das in der Regel im selben Themenfeld 
 2. Bewerbung bei passenden Kooperationspartnern in der Wirtschaft.
 3. Einarbeitung beim Unternehmen und Einigung auf das finale Thema zum Praxisprojekt mit dem Unternehmen und dem Dozenten.
 
-Dieser Prozess ist zeitaufwändig und wird von den meisten Studierenden unterschätzt und daher häufig zu spät begonnen. Um diesem Problem entgegen zu wirken wird in der Medieninformatik seit drei Jahren am Ende des fünften Semesterseine Kontaktbörse durchgeführt. Auf dieser Veranstaltung werden den künftigen Absolventen die Regularien, Abläufe und Herausforderungen des Abschlusssemesters erläutert. Darüber hinaus stellen ausgewählte Unternehmen und Organisationen potenzielle Themen und Problemfelder für Praxisprojekt und Bachelorarbeit vor. Auch die Professoren der Informatik haben hier die Möglichkeit ihre Themen und Forschungsfelder als Ansatzpunkt für mögliche, forschungsnahe Praxisprojekte und Abschlussarbeiten vorzustellen.
+Dieser Prozess ist zeitaufwändig und wird von den meisten Studierenden unterschätzt und daher häufig zu spät begonnen. Um diesem Problem entgegen zu wirken wird in der Medieninformatik seit drei Jahren am Ende des fünften Semesters eine Kontaktbörse durchgeführt. Auf dieser Veranstaltung werden den künftigen Absolventen die Regularien, Abläufe und Herausforderungen des Abschlusssemesters erläutert. Darüber hinaus stellen ausgewählte Unternehmen und Organisationen potenzielle Themen und Problemfelder für Praxisprojekt und Bachelorarbeit vor. Auch die Professoren der Informatik haben hier die Möglichkeit ihre Themen und Forschungsfelder als Ansatzpunkt für mögliche, forschungsnahe Praxisprojekte und Abschlussarbeiten vorzustellen.
 
 ### Bewertung von Ergebnissen aus Evaluationen
 
@@ -141,7 +141,7 @@ Die Prüfungserfolge sind bzgl. des Bachelor- und Masterstudiengangs zu differen
 
 Im Bachelorstudiengang Medieninformatik zeigt sich bei den Prüfungserfolgen des „neuen“ im Vergleich zum „alten“ Studiengang (BPO2 vs. BPO3, s. Anhang Pruefungsstatistiken [^Anhang-Pruefungsstatistiken]) ein früherer Prüfungserfolg. Auch in höheren Semestern werden die Prüfungen früher absolviert und mit weniger Fehlversuchen bestanden. In erster Näherung findet man in den ersten beiden Semestern eine Gleichverteilung der Noten innerhalb des Notenspektrums, die sich in den höheren Semestern zu einer deutlichen Verbesserung hin verschiebt. Hier mögen zwei Faktoren von Bedeutung sein: Zum einen der deutlich höhere Anteil an medien(informatik)spezifischen Modulen und zum anderen kann gemutmaßt werden, dass sich hier die Abbrecherzahlen positiv auswirken. Die Abschluss- und die Endnoten setzen diesen Trend der Verbesserung des Notendurchschnitts fort.
 
-Im Masterstudium wirkt sich die im Rahmen der Reakkreditierung weggefallene Zulassungsvoraussetzung eines Mindest-Notenschnittes nicht wesentlich auf die Verteilung der Prüfungsergebnisse aus. Auch hier ist weiterhin das gesamte Notenspektrum abgedeckt, ebenso wie bei den Ergebnissen der Master Thesen.
+Im Masterstudium wirkt sich die im Rahmen der Reakkreditierung weg gefallene Zulassungsvoraussetzung eines Mindest-Notenschnittes nicht wesentlich auf die Verteilung der Prüfungsergebnisse aus. Auch hier ist weiterhin das gesamte Notenspektrum abgedeckt, ebenso wie bei den Ergebnissen der Master Thesen.
 
 
 ### Rückschlüsse aus informellen Gesprächen und Kommentaren
@@ -154,7 +154,7 @@ Der Studienaufbau des Bachelorstudiengangs wird überwiegend als positiv und gut
 
 Durchweg sehr positiv wird die gute und intensive Betreuung durch das Lehrpersonal beschrieben: "Die Dozenten sind super hilfreich …". Dies gilt auch für die vielen praktischen Projekte und Gruppenarbeiten. Auch die Offenheit für eigene Ideen und die Gruppengröße bei den Praxisanteilen wird sehr positiv bewertet. Das Mentoring-Programm wird ebenfalls als sehr hilfreich wahrgenommen.
 
-Auch sehr positiv wird die gute und moderne Ausstattung der Medieninformatik und der Bibliothek, als auch der recht ausgewogene quantitative Verhältnis von Frauen und Männern bewertet.
+Auch sehr positiv wird die gute und moderne Ausstattung der Medieninformatik und der Bibliothek, als auch das recht ausgewogene quantitative Verhältnis von Frauen und Männern bewertet.
 
 Als problematisch wird, bezogen auf den Bachelorstudiengang, vor allem die starke Fragmentierung der Module sowie der zugehörigen Praxisanteile gesehen, sodass die Situation, vor allem im dritten Fachsemester, als "zu voll" oder mit "zu viele Baustellen" beschrieben wird. Dieses Problem wurde auch im Rahmen der Analysen zum ProfiL2 Antrag der Hochschule identifiziert [^profil2]. Derzeit wird dieser Problematik bereits mit der sequentiellen Anordnung einiger Module begegnet. Dabei werden zwei parallel laufende Module nacheinander, dafür aber mit halber Laufzeit und doppelter SWS Anzahl angeboten, so dass sich die Studierenden auf weniger Module zur gleichen Zeit konzentrieren können. Diese Herangehensweise wurde ebenfalls im Rahmen von ProfiL2 als Maßnahme vorgeschlagen[^profil2]. Viele Studierende wünschen sich die Möglichkeit der Fachvertiefung. Das Problem wird häufig mit "man kratzt alles nur an und dann kommt schon das nächste Thema" beschrieben. Gerade bei den Implementierungs-affinen Studierenden, aber auch bei den Lehrenden wird häufig der Wunsch nach mehr Unterstützung im Bereich Programmierung genannt. Dies gilt vor allem für komplexere und größere Projekte. 
 Derzeit fehlt im Bachelorprogramm ein Modul, dass die Studierenden auf die rechtlichen Fragestellung in der (Medien-)Informatik vorbereitet. Dieses Defizit wurde in verschiedenen Feedbackrunden adressiert.
@@ -163,7 +163,7 @@ Bezogen auf den Master wird immer wieder die fehlende oder unzureichende Praxiso
 
 ### Ableitungen aus den Bewertungen der zur Verfügung stehenden Daten und Evaluationen
 
-Aus den Bewertungen der Daten, Evaluationen und Feedbacks lassen sich folgende Problem und Schwächen ableiten.
+Aus den Bewertungen der Daten, Evaluationen und Feedbacks lassen sich folgende Probleme und Schwächen ableiten.
 
 #### Medieninformatik Bachelor
 
@@ -199,10 +199,10 @@ Der Medieninformatik Master sieht derzeit zwar verschiedene Wahlmodule vor, dies
 Somit lassen sich die folgenden Defizite im aktuellen Medieninformatik Master Studiengang zusammenfassen:
 
 - zu wenig Übergänge von Bachelorabsolventen des Campus Gummersbach
-- Fehlende Profilschärfung und sichbarer Praxisbezug
-- Geringer Anteil an praxisnahen Projekten
-- Geringe internationale Ausrichtung
-- Fehlende Möglichkeiten zur fachlichen Vertiefung
+- fehlende Profilschärfung und zu wenig sichbarer Praxisbezug
+- geringer Anteil an praxisnahen Projekten
+- geringe internationale Ausrichtung
+- fehlende Möglichkeiten zur fachlichen Vertiefung
 - zu wenig Wahlmöglichkeiten
 
 
