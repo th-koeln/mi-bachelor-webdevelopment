@@ -90,7 +90,7 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-
+  - tex
 collections:
   modulbeschreibungen-bachelor:
     output: true

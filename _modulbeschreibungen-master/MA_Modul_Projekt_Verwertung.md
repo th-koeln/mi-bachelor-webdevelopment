@@ -32,6 +32,8 @@ Die Studentinnen und Studenten
 - können die Kernfunktionen eines Produktes vor dem Hintergrund neuere Erkenntnisse und Entwicklungen in der Informatik und insbesondere der Medieninformatik identifizieren und kommunizieren und sind in der Lage, einen Prototypen als "minimal viable product" auch aus betriebswirtschaftlichen Perspektiven zu betrachten, bzgl. Modellen, Systemen und Prozessen für Medienkonzeption, -produktion, -bearbeitung, -distribution und -nutzung zu analysieren und zu evaluieren und in den Markt oder die Community zu bringen;
 - kennen Deployment Strategien, Konzepte und Techniken der Kontinuierlichen Integration und können diese in einem spezifischen Projektkontext anwenden;
 - vertiefen die Fähigkeit zum methodischen Vorgehen, der Auswahl und der Durchführung von Arbeits- und Dokumentationstechniken und sind fähig, innovative Methoden bei der Problemlösung auszuwählen, anzuwenden und deren Anwendung zu begründen, um eine Produkt Management Strategie für ein Online Produkt zu entwickeln und umzusetzen. Alternativ können die Studierenden die gewonnen Erkenntnisse aus dem Produkt in der Community z.B. in Form eines Konferenzbeitrags sichtbar machen und einen wissenschaftlichen Diskurs dazu führen.
+- können ihre Projektergebnisse so dokumentieren, dass das Projekt von einem anderen Team weitergeführt werden kann.
+
 
 ## Inhalt:
 Das Projekt gliedert sich in zwei Teile:
@@ -51,5 +53,4 @@ In die Gesamtnote gehen zwei Leistungen zu je gleichen Anteilen (50%) ein:
 Entwicklungs- und Deployment-Umgebung mit Artefakt-Repository, Kollaborationssysteme
 
 ## Literatur:
-
 Je nach Studienschwerpunkt und fachlicher Aufgabe

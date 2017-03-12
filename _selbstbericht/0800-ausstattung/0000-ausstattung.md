@@ -1,5 +1,5 @@
 ---
-title: Ausstattung
+title: Personal & Ausstattung
 aktueller-bearbeiter:
 bearbeiterhistorie: Christian Noss
 date: 18.02.2017
@@ -16,7 +16,9 @@ Daneben haben Lehrende und wissenschaftliche Mitarbeiter an wissenschaftlichen K
 
 - International ACM Web Science Conference '15 in Oxford (K. Fischer mit paper)
 
-## Verleih
+## Räumliche Ausstattung und Hardware
+
+### Verleih
 
 - 12 x Audiovisuelle Produktionssets, bestehend aus jeweils
  P2 Panasonic HD Kamera
@@ -30,22 +32,42 @@ Daneben haben Lehrende und wissenschaftliche Mitarbeiter an wissenschaftlichen K
 * Diverses Zubehör für Licht, Ton und Video wie Lichtstative, Fieldmonitore, Speichermedien
 * Verschiedene Smartphones und Tablets: Nexus 5, Nexus 9 und iPad Pro 13’’ 
 
-## Nachbearbeitung
+### Nachbearbeitung
 
 * 5 x Mac Pro stationär, mit Adobe Production Suite CS 6
 * 12 x iMac mobil, mit Adobe Production Suite CS 6
 * 1 x Tonkabine mit Neumann Großmembranmikrofon, Mac Pro mit Logic X und Mackie 1402 Tonmischpult
 
-## Studio
+### Studio
 
 * Greenbox mit festmontierter und variabler Beleuchtung
 * Bildmischer Panasonic AV-HS400A und Audiomischer Behringer AB1222FX-Pro
 * Mac Pro mit Adobe Production Suite CS 6 zur Digitalisierung und Nachbearbeitung der Studioproduktionen
 
-## MI-Projektraum
+### MI-Projektraum
 
 * Eyetracking System (SMI-Vision, 120 Hz) mit Laptop und Auswertungssoftware
 * Eye-Tracking Brille (Tobii) für mobile Nutzungskontexte
+
+### Innovationsräume
+
+#### Interaktive Wände:
+- 2 miteinander verbundene SMART Boards
+- 1 Microsoft Surface Hub
+- Interaktive Doppelprojektion Nureva Span (in Anschaffung)
+
+#### Interaktive Ein- und Ausgabegeräte:
+- HP Sprout
+- Interaktiver Tabletop
+- Arcade Machine
+- Grafiktablets 
+
+#### Weiterhin:
+- Design Thinking Materialien (Boxen, Legosteine, Innovationskarten)
+- 3D Drucker
+
+### Medieninformatik Pool/ Projektraum
+Dieser Raum ist mit flexiblen Tischen und Stühlen ausgestattet und wird sowohl für Seminare und Workshops als auch für Projektarbeit genutzt. Der Raum kann von allen Medieninformatik-Studierenden außerhalb der Veranstaltungszeiten genutzt werden. Darüber hinaus stehen den Studierenden noch weitere, kleinere Projekträume im Medieninformatik Flur zur Verfügung.
 
 ## Lehrende in der Medieninformatik
 
