@@ -3,7 +3,7 @@ title: Qualifikationsziele der Studiengangskonzepte
 aktueller-bearbeiter:
 bearbeiterhistorie: Christian Noss
 date: 17.02.2017
-comment:
+comment: Wissebschaftlichkeit auch unter fachübergreifende Kompetenzen
 status: fertig
 reviewed-von: Robert Gabriel, HK
 review-comment:
@@ -35,7 +35,7 @@ Die wesentliche Basis für die Entwicklung und Ausgestaltung relevanter Kompeten
 
 **Technologische Kompetenzen:** Digitaltechnik und Rechnerorganisation, Betriebssysteme, Datenbanken und Informationssysteme, Rechnernetze und verteilte Systeme, IT-Sicherheit
 
-**Fachübergreifende Kompetenzen:** Gesellschaftliche und berufsethische Aspekte von Informatiksystemen im Anwendungskontext, ökonomische und ökologische Aspekte von Informatiksystemen im Anwendungskontext, rechtliche Aspekte von Informatiksystemen im Anwendungskontext
+**Fachübergreifende Kompetenzen:** Methodische und wissenschaftliche Aspekte, Gesellschaftliche und berufsethische Aspekte von Informatiksystemen im Anwendungskontext, ökonomische und ökologische Aspekte von Informatiksystemen im Anwendungskontext, rechtliche Aspekte von Informatiksystemen im Anwendungskontext
 
 **Soziale Kompetenzen und Selbstkompetenzen:** Kooperationsmanagement, Diversity- und Konfliktmanagement, Organisationsentwicklung
 
@@ -91,6 +91,7 @@ Die Studierenden …
 Die Studierenden …
 
 - sind in der Lage, Aufgaben in verschiedenen Anwendungsfeldern unter gegebenen technischen, ökonomischen, ökologischen und sozialen Randbedingungen mit den Mitteln der Informatik zu bearbeiten und entsprechende Systeme zu entwickeln.
+- können sich eigenständig in neue Themenbereiche einarbeiten und Problemstellungen, Technologien und wissenschaftliche Erkenntnisse im Umfeld der Medieninformatik erkennen und in ihrem Arbeitsumfeld einbeziehen und das erworbene Wissen effizient in die Lösung aktueller und auch zukünftiger Frage- und Problemstellungen einbringen und anwenden.
 - verfügen über betriebswirtschaftliche Grundkenntnisse, da die Planung, Entwicklung und Nutzung aller Informatiksysteme unter wirtschaftlichen Rahmenbedingungen stattfinden.
 - haben juristische Grundkenntnisse um rechtsverbindliche Dokumente wie Rahmenvereinbarungen, projektspezifische Verträge, Lizenz- oder Nutzungsverträge aushandeln zu können. Darüber hinaus können sie die gesetzliche Basis von Sicherheitsaspekten, als auch Fragen des Urheberrechts und der Produkthaftung berücksichtigen.
 - haben einen Einblick in berufsethische Rahmenbedingungen erhalten und können die Auswirkungen ihrer Arbeit auf die zukünftigen Nutzer sowie auf die Gesellschaft in ihren sozialen, wirtschaftlichen, arbeitsorganisatorischen, psychologischen und rechtlichen Aspekten einschätzen.
@@ -142,7 +143,6 @@ Die Fähigkeit, konstruktiv in einem interdisziplinären Team zu arbeiten, eigen
 Zusammenfassend lassen sich für den Bachelorstudiengang folgende übergeordnete, sich gegenseitig ergänzende und teils auch überlappende Studienziele definieren.
 
 Absolventinnen und Absolventen des Bachelorstudiengangs Medieninformatik:
-
 
 - haben ein Verständnis für anwendbare Techniken und Methoden in der Wertschöpfungskette aus Medienkonzeption, -produktion, -bearbeitung, -distribution und -nutzung und für deren Grenzen entwickelt und fachliches als auch fachübergreifendes Wissen der Informatik und der Medieninformatik erlangt und ihre Fähigkeit zur Abstraktion und Modellierung sowie zum Operieren in formalen Welten mit methodischen und analytischen Ansätzen erlernt. 
 
