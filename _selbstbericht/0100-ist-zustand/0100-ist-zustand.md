@@ -213,7 +213,7 @@ Somit lassen sich die folgenden Defizite im aktuellen Medieninformatik Master St
 [^Anhang-fakultaetsstruktur]: <a href="../anhaenge/fak-Fakultaetsstruktur-Studienangebot-Personal-Haushaltsmittel-Kennzahlen-2014.pdf">Fakultät für Informatik und Ingenieurwissenschaften, Statistik 2013/14</a>
 [^Anhang-INCHER-Studie]: <a href="../anhaenge/studie-INCHER-Studie.pdf">INCHER-Studie 2014</a>
 [^evaluationen-f10]: <a href="../anhaenge/eva-evaluationen-f10.pdf">Studentische Evaluationen Medieninformatik</a>
-[^Anhang-Curriculumsanalye]: fehlt
+[^Anhang-Curriculumsanalye]: <a href="../anhaenge/ba-pruefungsstatistiken.pdf">Curriculumsanalye</a>
 [^Anhang-Snapshot-Bewertungen-von-studycheckde]: <a href="../anhaenge/eva-snapshot_2017_02_17_bewertungen_studiengang_medieninformatik_auf_studycheck_._de">Snapshot Bewertungen von studycheck.de</a>
 [^Link-studycheckde]: <a href="http://studycheck.de">http://studycheck.de</a> (abgerufen am 17.02.2017)
 [^profil2]: <a href="https://www.th-koeln.de/mam/downloads/deutsch/hochschule/profil/lehre/profil2_antrag_ministerium.pdf">ProfiL2 Antrag der TH Köln</a> (abgerufen am 15.02.2017)

@@ -22,12 +22,12 @@ Darüber hinaus wurden bei der Überarbeitung der Studiengänge die aktuellen Em
 
 ## Weiterführende Dokumente
 - <a href="../anhaenge/ba-studienverlaufsplan.pdf">Studienverlaufsplan Medieninformatik Bachelor</a>
-- <a href="../anhaenge/ba-modulhandbuch.pdf">Modulhandbuch Medieninformatik Bachelor</a>
+- <a href="../anhaenge/medieninformatik-bachelor-modulhandbuch.pdf">Modulhandbuch Medieninformatik Bachelor</a>
 - <a href="../anhaenge/ba-Ziele-Module-Matrix-Medieninformatik-Bachelor.pdf">Ziele-Module-Matrix Medieninformatik Bachelor</a>
 - <a href="../anhaenge/ba-zeugnis.pdf">Beispielzeugnis und Diploma Supplement Medieninformatik Bachelor</a>
 - <a href="https://www.th-koeln.de/studium/medieninformatik-master_3729.php">Website des Medieninformatik Master</a>
 - <a href="https://www.th-koeln.de/studium/medieninformatik-master--ordnungen-und-formulare_3724.php">Ordnungen zum Medieninformatik Master</a>
 - <a href="../anhaenge/ma-studienverlaufsplaene.pdf">Studienverlaufsplan Medieninformatik Master</a>
-- Modulhandbuch Medieninformatik Master fehlt
+- <a href="../anhaenge/medieninformatik-master-modulhandbuch.pdf">Modulhandbuch Medieninformatik Master</a>
 - <a href="../anhaenge/ma-Ziele-Module-Matrix-Medieninformatik-Master.pdf">Ziele-Module-Matrix Medieninformatik Master</a>
 - <a href="../anhaenge/ma-zeugnis.pdf">Beispielzeugnis und Diploma Supplement Medieninformatik Master</a>

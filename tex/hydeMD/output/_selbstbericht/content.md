@@ -112,7 +112,7 @@ Das Institut für Informatik betreibt Labore für:
 
 [^Anhang-Diversity-Konzepte]: [Educational Diversity Konzept](https://www.th-koeln.de/hochschule/educational-diversity_5710.php) (abgerufen am 20.02.2017)
 [^anhang-forschungscluster-th]: [Forschungscluster](https://www.th-koeln.de/forschung/cluster_2734.php) (abgerufen am 20.02.2017)
-[^studierende-gm-2016]: [stat-Studentenzahlen_WS-2016_(01.12.2016).pdf](../anhaenge/stat-Studentenzahlen_WS-2016_(01.12.2016).pdf)
+[^studierende-gm-2016]: [Statistik Studierendenzahlen (01.12.2016).pdf](../anhaenge/stat-Studentenzahlen_WS-2016_(01.12.2016).pdf)
 
 
 # Analyse der Studiengänge
@@ -331,15 +331,15 @@ Somit lassen sich die folgenden Defizite im aktuellen Medieninformatik Master St
 - zu wenig Wahlmöglichkeiten
 
 
-[^anhang-verbleib-und-studienabbruch]: Statistik zum Verbleib- und Studienabbruch: [stat-verbleib-und-studienabbruch.pdf](../anhaenge/stat-verbleib-und-studienabbruch.pdf)
-[^anhang-hep-2020]: Hochschulentwicklungsplan 2020: [https://www.verwaltung.th-koeln.de/imperia/md/content/verwaltung/broschueren_leitfaeden/hochschulentwicklungsplan2020.pdf](https://www.verwaltung.th-koeln.de/imperia/md/content/verwaltung/broschueren_leitfaeden/hochschulentwicklungsplan2020.pdf) (abgerufen am 13.02.2017)
-[^DZHW-Studie2015]: Ulrich Heublein et al.: Studienbereichsspezifische Qualitätssicherung im Bachelorstudium - Befragung der Fakultäts- und Fachbereichsleitungen zum Thema Studienerfolg und Studienabbruch. Forum Hochschule, 3/2015 [http://www.dzhw.eu/pdf/pub_fh/fh-201503.pd](http://www.dzhw.eu/pdf/pub_fh/fh-201503.pdf) (abgerufen am 13.02.2017)
-[^Anhang-Pruefungsstatistiken]: Bachelorstudiengang Medieninformatik, Prüfungsstatistik 2016: [ba-pruefungsstatistiken.pdf](../anhaenge/ba-pruefungsstatistiken.pdf) 
-[^Anhang-fakultaetsstruktur]: Fakultät für Informatik und Ingenieurwissenschaften, Statistik 2013/14: [fak-Fakultaetsstruktur-Studienangebot-Personal-Haushaltsmittel-Kennzahlen-2014.pdf](../anhaenge/fak-Fakultaetsstruktur-Studienangebot-Personal-Haushaltsmittel-Kennzahlen-2014.pdf)
-[^Anhang-INCHER-Studie]: INCHER-Studie 2014: [studie-INCHER-Studie.pdf](../anhaenge/studie-INCHER-Studie.pdf)
-[^evaluationen-f10]: Studentische Evaluationen Medieninformatik: [eva-evaluationen-f10.pdf](../anhaenge/eva-evaluationen-f10.pdf)
-[^Anhang-Curriculumsanalye]: fehlt
-[^Anhang-Snapshot-Bewertungen-von-studycheckde]: Snapshot Bewertungen von studycheck.de: [eva-snapshot_2017_02_17_bewertungen_studiengang_medieninformatik_auf_studycheck_._de](../anhaenge/eva-snapshot_2017_02_17_bewertungen_studiengang_medieninformatik_auf_studycheck_._de)
+[^anhang-verbleib-und-studienabbruch]: [Statistik zum Verbleib- und Studienabbruch](../anhaenge/stat-verbleib-und-studienabbruch.pdf)
+[^anhang-hep-2020]: [Hochschulentwicklungsplan 2020](https://www.verwaltung.th-koeln.de/imperia/md/content/verwaltung/broschueren_leitfaeden/hochschulentwicklungsplan2020.pdf)
+[^DZHW-Studie2015]: [Ulrich Heublein et al.: Studienbereichsspezifische Qualitätssicherung im Bachelorstudium - Befragung der Fakultäts- und Fachbereichsleitungen zum Thema Studienerfolg und Studienabbruch. Forum Hochschule, 3/2015](http://www.dzhw.eu/pdf/pub_fh/fh-201503.pdf) (abgerufen am 13.02.2017)
+[^Anhang-Pruefungsstatistiken]: [Bachelorstudiengang Medieninformatik, Prüfungsstatistik 2016](../anhaenge/ba-pruefungsstatistiken.pdf) 
+[^Anhang-fakultaetsstruktur]: [Fakultät für Informatik und Ingenieurwissenschaften, Statistik 2013/14](../anhaenge/fak-Fakultaetsstruktur-Studienangebot-Personal-Haushaltsmittel-Kennzahlen-2014.pdf)
+[^Anhang-INCHER-Studie]: [INCHER-Studie 2014](../anhaenge/studie-INCHER-Studie.pdf)
+[^evaluationen-f10]: [Studentische Evaluationen Medieninformatik](../anhaenge/eva-evaluationen-f10.pdf)
+[^Anhang-Curriculumsanalye]: [Curriculumsanalye](../anhaenge/ba-pruefungsstatistiken.pdf)
+[^Anhang-Snapshot-Bewertungen-von-studycheckde]: [Snapshot Bewertungen von studycheck.de](../anhaenge/eva-snapshot_2017_02_17_bewertungen_studiengang_medieninformatik_auf_studycheck_._de)
 [^Link-studycheckde]: [http://studycheck.de](http://studycheck.de) (abgerufen am 17.02.2017)
 [^profil2]: [ProfiL2 Antrag der TH Köln](https://www.th-koeln.de/mam/downloads/deutsch/hochschule/profil/lehre/profil2_antrag_ministerium.pdf) (abgerufen am 15.02.2017)
 [^eva-studierendenbefragung]: [Studierendenbefragung 2010-2015](../anhaenge/eva-studierendenbefragung-2010-2015.pdf)
@@ -729,14 +729,14 @@ Absolventinnen und Absolventen des Bachelorstudiengangs Medieninformatik:
 
 
 ### Weiterführende Dokumente
-- Website des Medieninformatik Bachelor: [https://www.th-koeln.de/studium/medieninformatik-bachelor_2379.php](https://www.th-koeln.de/studium/medieninformatik-bachelor_2379.php)
-- Ordnungen zum Medieninformatik Bachelor: [https://www.th-koeln.de/studium/medieninformatik-bachelor--ordnungen-und-formulare_3963.php](https://www.th-koeln.de/studium/medieninformatik-bachelor--ordnungen-und-formulare_3963.php) (abgerufen am 23.02.2017)
-- Themen der Abschlussabeiten des Medieninformatik Bachelor 2010 bis 2014: [ba-abschlussarbeiten_2010-2014_.pdf](../anhaenge/ba-abschlussarbeiten_2010-2014_.pdf)
-- Studienverlaufsplan Medieninformatik Bachelor: [ba-studienverlaufsplan.pdf](../anhaenge/ba-studienverlaufsplan.pdf)
-- Modulhandbuch Medieninformatik Bachelor: [ba-modulhandbuch.pdf](../anhaenge/ba-modulhandbuch.pdf)
--  Ziele-Module-Matrix Medieninformatik Bachelor: [ba-Ziele-Module-Matrix-Medieninformatik-Bachelor.pdf](../anhaenge/ba-Ziele-Module-Matrix-Medieninformatik-Bachelor.pdf)
-- Beispielzeugnis und Diploma Supplement Medieninformatik Bachelor: [ba-zeugnis.pdf](../anhaenge/ba-zeugnis.pdf)
-- Profil der Studienanfänger: [stat-profil-studienanfaenger-2017](../anhaenge/stat-profil-studienanfaenger-2017)
+- [Website des Medieninformatik Bachelor](https://www.th-koeln.de/studium/medieninformatik-bachelor_2379.php)
+- [Ordnungen zum Medieninformatik Bachelor](https://www.th-koeln.de/studium/medieninformatik-bachelor--ordnungen-und-formulare_3963.php) (abgerufen am 23.02.2017)
+- [Themen der Abschlussabeiten des Medieninformatik Bachelor 2010 bis 2014](../anhaenge/ba-abschlussarbeiten_2010-2014_.pdf)
+- [Studienverlaufsplan Medieninformatik Bachelor](../anhaenge/ba-studienverlaufsplan.pdf)
+- [Modulhandbuch Medieninformatik Bachelor: ](../anhaenge/ba-modulhandbuch.pdf)
+- [Ziele-Module-Matrix Medieninformatik Bachelor](../anhaenge/ba-Ziele-Module-Matrix-Medieninformatik-Bachelor.pdf)
+- [Beispielzeugnis und Diploma Supplement Medieninformatik Bachelor](../anhaenge/ba-zeugnis.pdf)
+- [Profil der Studienanfänger](../anhaenge/stat-profil-studienanfaenger-2017)
 
 
 ## Qualifikationsziele Medieninformatik Master
@@ -771,17 +771,17 @@ Absolventinnen und Absolventen des Masterstudiengangs Medieninformatik:
 - haben ihre Fähigkeit zum lebenslangen Lernen gefestigt und können sich selbständig und schnell in neue, für die Medieninformatik relevante Theorien, Methoden und Techniken, sowohl aus theoretischer, wissenschaftlicher. praktischer als auch aus technischer Sichtweise, einarbeiten und ihre eigene Rolle im professionellen Kontext hinterfragen und weiterentwickeln.
 
 ### Weiterführende Dokumente
-- Website des Medieninformatik Master: [https://www.th-koeln.de/studium/medieninformatik-master_3729.php](https://www.th-koeln.de/studium/medieninformatik-master_3729.php)
-- Ordnungen zum Medieninformatik Master: [https://www.th-koeln.de/studium/medieninformatik-master--ordnungen-und-formulare_3724.php](https://www.th-koeln.de/studium/medieninformatik-master--ordnungen-und-formulare_3724.php)
-- Studienverlaufsplan Medieninformatik Master: [ma-studienverlaufsplaene.pdf](../anhaenge/ma-studienverlaufsplaene.pdf)
-- Modulhandbuch Medieninformatik Master: [ma-modulhandbuch.pdf](../anhaenge/ma-modulhandbuch.pdf)
-- Prüfungsordnung Medieninformatik Master(entwurf): [ma-MIMPO_Entwurf_20170218.pdf](../anhaenge/ma-MIMPO_Entwurf_20170218.pdf)
-- Ziele-Module-Matrix Medieninformatik Master: [ma-Ziele-Module-Matrix-Medieninformatik-Master.pdf](../anhaenge/ma-Ziele-Module-Matrix-Medieninformatik-Master.pdf)
-- Beispielzeugnis und Diploma Supplement Medieninformatik Master: [ma-zeugnis.pdf](../anhaenge/ma-zeugnis.pdf)
+- [Website des Medieninformatik Master](https://www.th-koeln.de/studium/medieninformatik-master_3729.php)
+- [Ordnungen zum Medieninformatik Master](https://www.th-koeln.de/studium/medieninformatik-master--ordnungen-und-formulare_3724.php)
+- [Studienverlaufsplan Medieninformatik Master](../anhaenge/ma-studienverlaufsplaene.pdf)
+- [Modulhandbuch Medieninformatik Master](../anhaenge/ma-modulhandbuch.pdf)
+- [Prüfungsordnung Medieninformatik Master(entwurf)](../anhaenge/ma-MIMPO_Entwurf_20170218.pdf)
+- [Ziele-Module-Matrix Medieninformatik Master](../anhaenge/ma-Ziele-Module-Matrix-Medieninformatik-Master.pdf)
+- [Beispielzeugnis und Diploma Supplement Medieninformatik Master](../anhaenge/ma-zeugnis.pdf)
 
 
-[^gi-empfehlungen]: Gesellschaft für Informatik e.V. (GI): "Empfehlungen für Bachelor- und Masterprogramme im Studienfach Informatik an Hochschulen", unter: [https://www.gi.de/fileadmin/redaktion/empfehlungen/GI-Empfehlungen_Bachelor-Master-Informatik2016.pdf](https://www.gi.de/fileadmin/redaktion/empfehlungen/GI-Empfehlungen_Bachelor-Master-Informatik2016.pdf) (abgerufen am 17.02.2017) 
-[^positionspapier-gi-mci-mi]: Martin Christof Kindsmüller, Christian Wolters, Andreas M. Heinecke: "Medieninformatik 2016: Was war, was ist, was soll sein?", unter: [http://dl.mensch-und-computer.de/bitstream/handle/123456789/5131/Kindsm%C3%BCller_Wolters_Heinecke_2016.pdf](http://dl.mensch-und-computer.de/bitstream/handle/123456789/5131/Kindsm%C3%BCller_Wolters_Heinecke_2016.pdf)
+[^gi-empfehlungen]: Gesellschaft für Informatik e.V. (GI): [Empfehlungen für Bachelor- und Masterprogramme im Studienfach Informatik an Hochschulen](https://www.gi.de/fileadmin/redaktion/empfehlungen/GI-Empfehlungen_Bachelor-Master-Informatik2016.pdf) (abgerufen am 17.02.2017) 
+[^positionspapier-gi-mci-mi]: Martin Christof Kindsmüller, Christian Wolters, Andreas M. Heinecke: [Medieninformatik 2016: Was war, was ist, was soll sein?](http://dl.mensch-und-computer.de/bitstream/handle/123456789/5131/Kindsm%C3%BCller_Wolters_Heinecke_2016.pdf)
 
 
 # Konzeptionelle Einordnung des Studiengangs in das Studiensystem
@@ -799,16 +799,16 @@ Beide zu reakkreditierende Studiengänge entsprechen weiterhin
 Darüber hinaus wurden bei der Überarbeitung der Studiengänge die aktuellen Empfehlungen für Bachelor- und Masterprogramme im Studienfach Informatik (Stand: 01.07.2016) der Gesellschaft für Informatik zugrunde gelegt.
 
 ## Weiterführende Dokumente
-- Studienverlaufsplan Medieninformatik Bachelor: [ba-studienverlaufsplan.pdf](../anhaenge/ba-studienverlaufsplan.pdf)
-- Modulhandbuch Medieninformatik Bachelor: [ba-modulhandbuch.pdf](../anhaenge/ba-modulhandbuch.pdf)
-- Ziele-Module-Matrix Medieninformatik Bachelor: [ba-Ziele-Module-Matrix-Medieninformatik-Bachelor.pdf](../anhaenge/ba-Ziele-Module-Matrix-Medieninformatik-Bachelor.pdf)
-- Beispielzeugnis und Diploma Supplement Medieninformatik Bachelor: [ba-zeugnis.pdf](../anhaenge/ba-zeugnis.pdf)
-- Website des Medieninformatik Master: [https://www.th-koeln.de/studium/medieninformatik-master_3729.php](https://www.th-koeln.de/studium/medieninformatik-master_3729.php)
-- Ordnungen zum Medieninformatik Master: [https://www.th-koeln.de/studium/medieninformatik-master--ordnungen-und-formulare_3724.php](https://www.th-koeln.de/studium/medieninformatik-master--ordnungen-und-formulare_3724.php)
-- Studienverlaufsplan Medieninformatik Master: [ma-studienverlaufsplaene.pdf](../anhaenge/ma-studienverlaufsplaene.pdf)
-- Modulhandbuch Medieninformatik Master fehlt
-- Ziele-Module-Matrix Medieninformatik Master: [ma-Ziele-Module-Matrix-Medieninformatik-Master.pdf](../anhaenge/ma-Ziele-Module-Matrix-Medieninformatik-Master.pdf)
-- Beispielzeugnis und Diploma Supplement Medieninformatik Master: [ma-zeugnis.pdf](../anhaenge/ma-zeugnis.pdf)
+- [Studienverlaufsplan Medieninformatik Bachelor](../anhaenge/ba-studienverlaufsplan.pdf)
+- [Modulhandbuch Medieninformatik Bachelor](../anhaenge/medieninformatik-bachelor-modulhandbuch.pdf)
+- [Ziele-Module-Matrix Medieninformatik Bachelor](../anhaenge/ba-Ziele-Module-Matrix-Medieninformatik-Bachelor.pdf)
+- [Beispielzeugnis und Diploma Supplement Medieninformatik Bachelor](../anhaenge/ba-zeugnis.pdf)
+- [Website des Medieninformatik Master](https://www.th-koeln.de/studium/medieninformatik-master_3729.php)
+- [Ordnungen zum Medieninformatik Master](https://www.th-koeln.de/studium/medieninformatik-master--ordnungen-und-formulare_3724.php)
+- [Studienverlaufsplan Medieninformatik Master](../anhaenge/ma-studienverlaufsplaene.pdf)
+- [Modulhandbuch Medieninformatik Master](../anhaenge/medieninformatik-master-modulhandbuch.pdf)
+- [Ziele-Module-Matrix Medieninformatik Master](../anhaenge/ma-Ziele-Module-Matrix-Medieninformatik-Master.pdf)
+- [Beispielzeugnis und Diploma Supplement Medieninformatik Master](../anhaenge/ma-zeugnis.pdf)
 
 
 # Studiengangskonzept
@@ -978,11 +978,11 @@ Die inhaltliche Offenheit des dritten Fachsemesters mit drei Wahlpflichtmodulen 
 - Ziele-Module-Matrix Medieninformatik Master: [ma-Ziele-Module-Matrix-Medieninformatik-Master.pdf](../anhaenge/ma-Ziele-Module-Matrix-Medieninformatik-Master.pdf)
 - Beispielzeugnis und Diploma Supplement Medieninformatik Master: [ma-zeugnis.pdf](../anhaenge/ma-zeugnis.pdf)
 
-[^profil-studienanfaenger-2017]: Profil der Studienanfänger: [profil-studienanfaenger-2017.xlsx](../anhaenge/profil-studienanfaenger-2017.xlsx)
+[^profil-studienanfaenger-2017]: [Profil der Studienanfänger](../anhaenge/profil-studienanfaenger-2017.xlsx)
 
-[^profil2_projektboerse]: Profil<sup 2 /sup> Projektbörse: [Homepage ProfiL2 Projektbörse](http://projektboerse-profil2.th-koeln.de/)
+[^profil2_projektboerse]: [Homepage ProfiL2 Projektbörse](http://projektboerse-profil2.th-koeln.de/)
 
-[^fachgruppe-gi-hci]: Fachbereich Mensch-Computer-Interaktion (MCI)/ Fachgruppe Medieninformatik: [http://fb-mci.gi.de/mensch-computer-interaktion-mci/fachgruppen/medieninformatik.html](http://fb-mci.gi.de/mensch-computer-interaktion-mci/fachgruppen/medieninformatik.html)
+[^fachgruppe-gi-hci]: [Fachbereich Mensch-Computer-Interaktion (MCI)/ Fachgruppe Medieninformatik](http://fb-mci.gi.de/mensch-computer-interaktion-mci/fachgruppen/medieninformatik.html)
 
 [^Bødker2006]: Bødker, S.: When Second Wave HCI Meets Third Wave Challenges. Proc. 4th Nordic Conference on Human-Computer Interaction: Changing Roles, ACM, 2006, pp. 1-8.
 
@@ -1072,9 +1072,9 @@ Das Institut für Informatik beteiligt sich jährlich am „Tag der offenen Tür
 Darüber hinaus bietet die Medieninformatik einige Veranstaltungen (siehe außercurriculare Maßnahmen) wie den jährlichen Showcase an, um hier auch eine Plattform für Studieninteressierte zu schaffen. Diese Angebote werden gut angenommen.  
 
 
-[^int-office]: International Office: [https://www.th-koeln.de/internationales/international-office_1986.php](https://www.th-koeln.de/internationales/international-office_1986.php)
-[^pruefungsordnung-bachelor]: Prüfungsordnung Medieninformatik Bachelor: [https://www.th-koeln.de/studium/medieninformatik-bachelor--ordnungen-und-formulare_3963.php](https://www.th-koeln.de/studium/medieninformatik-bachelor--ordnungen-und-formulare_3963.php)
-[^pruefungsordnung-master]: Prüfungsordnung Medieninformatik Master (Entwurf): [MIMPO_Entwurf_20170218.pdf](../anhaenge/MIMPO_Entwurf_20170218.pdf)
+[^int-office]: [Website International Office](https://www.th-koeln.de/internationales/international-office_1986.php)
+[^pruefungsordnung-bachelor]: [Prüfungsordnung Medieninformatik Bachelor](https://www.th-koeln.de/studium/medieninformatik-bachelor--ordnungen-und-formulare_3963.php)
+[^pruefungsordnung-master]: [Prüfungsordnung Medieninformatik Master (Entwurf)](../anhaenge/MIMPO_Entwurf_20170218.pdf)
 
 
 # Prüfungssystem
@@ -1083,38 +1083,38 @@ Darüber hinaus bietet die Medieninformatik einige Veranstaltungen (siehe außer
 
 Der Campus Gummersbach der TH Köln hat ganzheitliches Qualitäts-Management-System nach ISO 9001:2008 umgesetzt. Die beschriebenen Prozesse sind verbindlich für alle Mitarbeiterinnen und Mitarbeiter. Die Prozessbeschreibung beinhaltet die Vorgehensweisen, Teilprozesse, Schnistellen, mitgeltenden Informationen, Zuständigkeiten und Verantwortlichkeiten für die einzelnen Prozesse. Darüber sind auch alle prüfungsrelvanten Prozesse abgebildet. Die folgenden Prozessdokumentationen können diesbezüglich eingesehen werden.
 
-- Überblick über den Prüfungsprozess: [Prozessbeschreibung_PruefungsprozessUeberblick.pdf](../anhaenge/Prozessbeschreibung_PruefungsprozessUeberblick.pdf)
-- Prüfungsordnungsprozess: [Prozessbeschreibung_Pruefungsordnungsprozess.pdf](../anhaenge/Prozessbeschreibung_Pruefungsordnungsprozess.pdf)
-- Prozess zu Prüfungsplanung: [Prozessbeschreibung_Pruefungplanung.pdf](../anhaenge/Prozessbeschreibung_Pruefungplanung.pdf)
-- Prozess zu Prüfunungsdurchführung: [Prozessbeschreibung_Pruefungdurchfuehren.pdf](../anhaenge/Prozessbeschreibung_Pruefungdurchfuehren.pdf)
-- Prozess beim Rücktritt von Prüfungen: [Prozessbeschreibung_vonPruefungzuruecktreten.pdf](../anhaenge/Prozessbeschreibung_vonPruefungzuruecktreten.pdf)
-- Prozess beim Einspruch gegen Prüfungsergebnisse: [Prozessbeschreibung_EinspruchPruefungsergebnisse.pdf](../anhaenge/Prozessbeschreibung_EinspruchPruefungsergebnisse.pdf)
+- [Überblick über den Prüfungsprozess](../anhaenge/Prozessbeschreibung_PruefungsprozessUeberblick.pdf)
+- [Prüfungsordnungsprozess](../anhaenge/Prozessbeschreibung_Pruefungsordnungsprozess.pdf)
+- [Prozess zu Prüfungsplanung](../anhaenge/Prozessbeschreibung_Pruefungplanung.pdf)
+- [Prozess zu Prüfunungsdurchführung](../anhaenge/Prozessbeschreibung_Pruefungdurchfuehren.pdf)
+- [Prozess beim Rücktritt von Prüfungen](../anhaenge/Prozessbeschreibung_vonPruefungzuruecktreten.pdf)
+- [Prozess beim Einspruch gegen Prüfungsergebnisse](../anhaenge/Prozessbeschreibung_EinspruchPruefungsergebnisse.pdf)
 
 
 ## Studien/Prüfungsordnungen
 
 Die Prüfungsordnungen regeln das Studium und die Prüfungen in den Studiengängen Medieninformatik Bachelor und Medieninformatik Master an der TH Köln. Auf der Grundlage dieser Prüfungsordnungen erstellt die TH Köln einen Studienverlaufsplan und ein Modulhandbuch. Der Studienverlaufsplan dient als Empfehlung an die Studierenden für einen sachgerechten Aufbau des Studiums. Das Modulhandbuch beschreibt Inhalt und Aufbau des Studiums unter Berücksichtigung der wissenschaftlichen und hochschuldidaktischen Entwicklung und der Anforderungen der beruflichen Praxis. Die Prüfungsordnungen und Studienverlaufspläne werden über die Website der TH Köln zugänglich gemacht.
 
-- Prüfungsordnung Medieninformatik Bachelor: [https://www.th-koeln.de/studium/medieninformatik-bachelor--ordnungen-und-formulare_3963.php](https://www.th-koeln.de/studium/medieninformatik-bachelor--ordnungen-und-formulare_3963.php)
-- Studienverlaufsplan Medieninformatik Bachelor: [ba-studienverlaufsplan.pdf](../anhaenge/ba-studienverlaufsplan.pdf)
-- Modulhandbuch Medieninformatik Bachelor: [ba-modulhandbuch.pdf](../anhaenge/ba-modulhandbuch.pdf)
+- [Prüfungsordnung Medieninformatik Bachelor](https://www.th-koeln.de/studium/medieninformatik-bachelor--ordnungen-und-formulare_3963.php)
+- [Studienverlaufsplan Medieninformatik Bachelor](../anhaenge/ba-studienverlaufsplan.pdf)
+- [Modulhandbuch Medieninformatik Bachelor](../anhaenge/medieninformatik-bachelor-modulhandbuch.pdf)
 
-- Prüfungsordnung Medieninformatik Master (Entwurf): [MIMPO_Entwurf_ohne_Anm_Sz20170218.pdf](../anhaenge/MIMPO_Entwurf_ohne_Anm_Sz20170218.pdf)
-- Studienverlaufsplan Medieninformatik Master fehlt
-- Modulhandbuch Medieninformatik Master fehlt
+- [Prüfungsordnung Medieninformatik Master (Entwurf)](../anhaenge/MIMPO_Entwurf_ohne_Anm_Sz20170218.pdf)
+- [Studienverlaufsplan Medieninformatik Master](../anhaenge/ma-studienverlaufsplaene.pdf)
+- [Modulhandbuch Medieninformatik Master](../anhaenge/medieninformatik-master-modulhandbuch.pdf)
 
 ## Prüfungsplanung
 
 Die Prüfungsplanung wird über das Hochschulplanungssystem abgebildet. 
 
-- Beispielhafter Prüfungsplan: [ba-pruefungsplan_mi.pdf](../anhaenge/ba-pruefungsplan_mi.pdf)
+- [Beispielhafter Prüfungsplan](../anhaenge/ba-pruefungsplan_mi.pdf)
 
 ## Prüfungsstatistiken
 
 Zur Analyse der Prüfungserfolge und der Lernergebnisorientierung liegen eine Reihe von statistischen Daten vor. Eine wesentliche Analyse auf Basis dieser Daten ist die Überprüfung der Studierbarkeit. Als Indikator für eine gute Studierbarkeit, kann die Anzahl der abgelegten Prüfungen im vorgesehenen Fachsemester des Moduls angesehen werden. Ziel ist es, dass die Studierenden Prüfungen möglichst im selben Semester ablegen, in dem das Modul im Studienverlaufsplan verortet ist. Gelingt dies nicht, so kann ein Studienabschluss innerhalb der Regelstudienzeit nur schwer realisiert werden.
 
-- Analyse der Prüfungsteilnahme: [ba-pruefungsstatistiken.pdf](../anhaenge/ba-pruefungsplan_mi.pdf)
-- Tabelle über Fehlversuche und Rücktritte: [ba-pruefungen-fehlversuche-und-ruecktritte.pdf](../anhaenge/ba-pruefungen-fehlversuche-und-ruecktritte.pdf)
+- [Analyse der Prüfungsteilnahme](../anhaenge/ba-pruefungsplan_mi.pdf)
+- [Tabelle über Fehlversuche und Rücktritte](../anhaenge/ba-pruefungen-fehlversuche-und-ruecktritte.pdf)
 
 
 # Studiengangsbezogene Kooperationen
@@ -1217,7 +1217,7 @@ Darüber hinaus findet sich im Personalhandbuch[^personalhandbuch] eine Vielzahl
 
 Seitens der »Nachwuchsförderung« kooperiert die Fakultät 10 mit zahlreichen Gymnasien und Berufskollegs in der Region.
 
-[^personalhandbuch]: Personalhandbuch der des Instituts für Informatik [http://bit.ly/2mbFEYc](http://bit.ly/2mpcbWN)
+[^personalhandbuch]: [Personalhandbuch der des Instituts für Informatik](http://bit.ly/2mpcbWN)
 
 
 
@@ -1373,17 +1373,17 @@ Auf Basis des Fakultätsentwicklungsplans 2010-2015 wurde ein Qualitäts-Managem
 Die vereinbarten Qualitätsziele wurden an quantifizierbaren Kenngrößen oder beschlossenen Maßnahmen orientiert. Die Verbesserungsmaßnahmen und -programme werden jährlich in einer Management-Review evaluiert. Als zentrales Dokument des Qualitäts-Management-Systems wurde das QM-Handbuch für unsere Mitarbeiter und Mitarbeiterinnen, Studierenden und Forschungspartner angefertigt. Dafür verlieh der TÜV Rheinland nach umfangreicher Prüfung (Audit) das Zertifikat mit der Klassifizierung "Premium" für ein besonders hochwertiges System.
 
 ## Beispielhafte Prozessdokumentionen
-- Überblick über den Prüfungsprozess: [Prozessbeschreibung_PruefungsprozessUeberblick.pdf](../anhaenge/Prozessbeschreibung_PruefungsprozessUeberblick.pdf)
-- Prüfungsordnungsprozess: [Prozessbeschreibung_Pruefungsordnungsprozess.pdf](../anhaenge/Prozessbeschreibung_Pruefungsordnungsprozess.pdf)
-- Prozess zur Prüfungsplanung: [Prozessbeschreibung_Pruefungplanung.pdf](../anhaenge/Prozessbeschreibung_Pruefungplanung.pdf)
-- Prozess zur Prüfunungsdurchführung: [Prozessbeschreibung_Pruefungdurchfuehren.pdf](../anhaenge/Prozessbeschreibung_Pruefungdurchfuehren.pdf)
-- Prozess beim Rücktritt von Prüfungen: [Prozessbeschreibung_vonPruefungzuruecktreten.pdf](../anhaenge/Prozessbeschreibung_vonPruefungzuruecktreten.pdf)
-- Prozess beim Einspruch gegen Prüfungsergebnisse: [Prozessbeschreibung_EinspruchPruefungsergebnisse.pdf](../anhaenge/Prozessbeschreibung_EinspruchPruefungsergebnisse.pdf)
-- Prozess Absolventenzufriedenheit: [Prozessbeschreibung-Absolventenzufriedenheit.pdf](../anhaenge/Prozessbeschreibung-Absolventenzufriedenheit.pdf)
-- Prozess Evaluationsprozesse: [Prozessbeschreibung-Evaluationsprozesse.pdf](../anhaenge/Prozessbeschreibung-Evaluationsprozesse.pdf)
-- Prozess Partnerzufriedenheit: [Prozessbeschreibung-Partnerzufriedenheit.pdf](../anhaenge/Prozessbeschreibung-Partnerzufriedenheit.pdf)
-- Prozess Rankings: [Prozessbeschreibung-Rankings.pdf](../anhaenge/Prozessbeschreibung-Rankings.pdf)
-- Prozess Studierendenzufriedenheit: [Prozessbeschreibung-Studierendenzufriedenheit.pdf](../anhaenge/Prozessbeschreibung-Studierendenzufriedenheit.pdf)
+- [Überblick über den Prüfungsprozess](../anhaenge/Prozessbeschreibung_PruefungsprozessUeberblick.pdf)
+- [Prüfungsordnungsprozess](../anhaenge/Prozessbeschreibung_Pruefungsordnungsprozess.pdf)
+- [Prozess zur Prüfungsplanung](../anhaenge/Prozessbeschreibung_Pruefungplanung.pdf)
+- [Prozess zur Prüfunungsdurchführung](../anhaenge/Prozessbeschreibung_Pruefungdurchfuehren.pdf)
+- [Prozess beim Rücktritt von Prüfungen](../anhaenge/Prozessbeschreibung_vonPruefungzuruecktreten.pdf)
+- [Prozess beim Einspruch gegen Prüfungsergebnisse](../anhaenge/Prozessbeschreibung_EinspruchPruefungsergebnisse.pdf)
+- [Prozess Absolventenzufriedenheit](../anhaenge/Prozessbeschreibung-Absolventenzufriedenheit.pdf)
+- [Prozess Evaluationsprozesse](../anhaenge/Prozessbeschreibung-Evaluationsprozesse.pdf)
+- [Prozess Partnerzufriedenheit](../anhaenge/Prozessbeschreibung-Partnerzufriedenheit.pdf)
+- [Prozess Rankings](../anhaenge/Prozessbeschreibung-Rankings.pdf)
+- [Prozess Studierendenzufriedenheit](../anhaenge/Prozessbeschreibung-Studierendenzufriedenheit.pdf)
 
 
 
@@ -1419,10 +1419,10 @@ Statistisch gesehen sind rund 1.800 Studierende an der TH Köln beeinträchtigt,
 
 Um „Berührungsängste“ abzubauen und Handlungssicherheit zu geben, werden diverse Handreichungen bereit gestellt. Hierin werden, auf Basis von Erhebungen des Deutschen Studentenwerkes, Informationen über die Situation von Studierenden mit Beeinträchtigung vorgehalten. Weiterhin werden grundlegende Kenntnisse über die am häufigsten vorkommenden Beeinträchtigungen vermittelt und Hinweise gegeben, wie sich gegenüber beeinträchtigten Studierenden verhalten werden kann. Auch das Thema Nachteilsausgleich wird hier adressiert. Für Lehrende sei beispielhaft die Broschüre *Studieren mit Beeinträchtigung - Handreichung für Lehrende und Beschäftigte der TH Köln*[^handreichung-studieren-mit-beeintraechtigung] angeführt.
 
-[^gleichstellungskonzept]: Gleichstellungskonzept der Technischen Hochschule Köln: [http://www.fh-koeln.de/mam/downloads/deutsch/hochschule/profil/gleichstellung/gleichstellungskonzept.pdf](http://www.fh-koeln.de/mam/downloads/deutsch/hochschule/profil/gleichstellung/gleichstellungskonzept.pdf) (abgerufen am 23.02.2017)
-[^educational-diversity]: Programm Educational Diversity der Technischen Hochschule Köln: [https://www.th-koeln.de/hochschule/educational-diversity_5710.php](https://www.th-koeln.de/hochschule/educational-diversity_5710.php) (abgerufen am 23.02.2017)
-[^family-matters]: Profilseite zu Family Matters auf der Website der TH Köln: [https://www.th-koeln.de/hochschule/familienfreundlichkeit_3759.php](https://www.th-koeln.de/hochschule/familienfreundlichkeit_3759.php) (abgerufen am 23.02.2017)
-[^studieren-mit-beeintraechtigung]: [Studieren mit Beeinträchtigungen](https://www.th-koeln.de/studium/studieren-mit-beeintraechtigung_169.php) (abgerufen am 02.03.2017)
-[^handreichung-studieren-mit-beeintraechtigung]: Studieren mit Beeinträchtigung - Handreichung für Lehrende und Beschäftigte der TH Köln. Zentrale Studienberatung, TH Köln, 2016: [https://www.th-koeln.de/mam/downloads/deutsch/studium/beratung/beeintraechtigung/a5brosch__re_beeintr__chtigung_2016.pdf](https://www.th-koeln.de/mam/downloads/deutsch/studium/beratung/beeintraechtigung/a5brosch__re_beeintr__chtigung_2016.pdf) (abgerufen am 23.02.2017)
+[^gleichstellungskonzept]: [Gleichstellungskonzept der Technischen Hochschule Köln](http://www.fh-koeln.de/mam/downloads/deutsch/hochschule/profil/gleichstellung/gleichstellungskonzept.pdf)
+[^educational-diversity]: [Programm Educational Diversity der Technischen Hochschule Köln](https://www.th-koeln.de/hochschule/educational-diversity_5710.php)
+[^family-matters]: [Profilseite zu Family Matters auf der Website der TH Köln](https://www.th-koeln.de/hochschule/familienfreundlichkeit_3759.php)
+[^studieren-mit-beeintraechtigung]: [Studieren mit Beeinträchtigungen](https://www.th-koeln.de/studium/studieren-mit-beeintraechtigung_169.php)
+[^handreichung-studieren-mit-beeintraechtigung]: [Studieren mit Beeinträchtigung - Handreichung für Lehrende und Beschäftigte der TH Köln. Zentrale Studienberatung, TH Köln, 2016](https://www.th-koeln.de/mam/downloads/deutsch/studium/beratung/beeintraechtigung/a5brosch__re_beeintr__chtigung_2016.pdf)
 
 
