@@ -2,7 +2,7 @@
 title: Projektarbeit - Entwicklung im Kontext des Studienschwerpunkts
 modulverantwortlich: kf, mw, hk, me, ck, gh
 modulniveau: n/a
-kuerzel: WTWP-E
+kuerzel: MIMP-E
 untertitel: null
 studiensemester-ws: 2
 studiensemester-ss: 3
