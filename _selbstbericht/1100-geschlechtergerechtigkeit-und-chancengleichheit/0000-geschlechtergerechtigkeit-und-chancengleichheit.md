@@ -8,13 +8,16 @@ status: fertig
 reviewed-von: Volker Schaefer
 ---
 
+## Gleichstellung und Chancengleichheit der Geschlechter
+
 Die TH Köln betrachtet Gleichstellung und Chancengleichheit der Geschlechter als auch die Integration von Studierenden mit Beeinträchtigungen als Querschnittsaufgaben. Dabei wird Gleichstellung als integrierter Bestandteil von Lehre und Forschung verstanden, auf die Vereinbarkeit von Studium und Familie beziehungsweise Beruf und Familie geachtet sowie für eine ausgewogene Beteiligung von Männern und Frauen an den Entscheidungsstrukturen in Lehre, Forschung und Verwaltung gesorgt. Darüber hinaus wird der Anteil der Frauen bei den Professuren, Mitarbeiterstellen und den Studierenden in denjenigen Fächern, in denen sie unterrepräsentiert sind, kontinuierlich erhöht.
 
 Es wird die Aufstellung und Einhaltung der Frauenförderpläne kontrolliert. Des Weiteren werden bei einem „Girl’s Day“ spezielle Veranstaltungen für interessierte Frauen, bezüglich der Informatikstudiengänge, angeboten. Alle Konzepte und Maßnahmen für Geschlechtergerechtigkeit und Chancengleichheit finden auf die zu akkreditierenden Studiengänge Anwendung.
 
 Fernerhin hat die TH Köln das Audit familiengerechte Hochschule[^family-matters] der „berufundfamilie gemeinnützigen GmbH” erfolgreich durchgeführt. Im Rahmen der Auditierung wurden der Bestand familienorientierter Maßnahmen begutachtet und weiterführende Zielvorgaben zur Verwirklichung familiengerechter Studienbedingungen sowie einer familienbewussten Personalpolitik definiert. Die Hochschule ist in 2015 erfolgreich re-auditiert worden.
 
-## Konzepte zur Förderung der Chancengleichheit
+
+## Förderung der Chancengleichheit
 
 Die Konzepte zur Förderung der Chancengleichheit gelten insbesondere für Studierende in besonderen Lebenslagen (z.B. Studierende mit Kind), für Studierende mit Beeinträchtigung oder für Studierende mit spezifischem sozialem Hintergrund.
 
@@ -22,9 +25,9 @@ Die TH Köln versteht sich als familiengerechte Hochschule und bietet verschiede
 
 Das Programm „Educational Diversity“[^educational-diversity] der TH Köln hat zum Ziel, die Verschiedenartigkeit der Studierenden zu erkennen und durch hochschuldidaktische Differenzierung das Potenzial jedes/jeder einzelnen Studierenden optimal zu fördern. Auch die Dozent und Dozentinnen der Informatikstudiengänge beteiligen sich an diesen Programmen.
 
-## Konzept der Hochschule für Chancengleichheit und Studierende in besonderen Lebenslagen
 
 Für die Umsetzung der Chancengleichheit von Männern und Frauen hat die Hochschule in ihrem Entwicklungsplan vier Ziele benannt:
+
 1. Die Ermöglichung einer geschlechtsunabhängigen Studienfachwahl für Schülerinnen und Schüler.
 2. Die Erhöhung des Frauenanteils bei den wissenschaftlichen Beschäftigten der TH Köln, insbesondere bei den Professorinnen, wissenschaftlichen Mitarbeiterinnen und Lehrbeauftragten.
 3. Die Verbesserung der Vereinbarkeit von Studium bzw. Beruf und Familie.
@@ -41,7 +44,7 @@ Um „Berührungsängste“ abzubauen und Handlungssicherheit zu geben, werden d
 [^gleichstellungskonzept]: <a href="http://www.fh-koeln.de/mam/downloads/deutsch/hochschule/profil/gleichstellung/gleichstellungskonzept.pdf">Gleichstellungskonzept der Technischen Hochschule Köln</a>
 [^educational-diversity]: <a href="https://www.th-koeln.de/hochschule/educational-diversity_5710.php">Programm Educational Diversity der Technischen Hochschule Köln</a>
 [^family-matters]: <a href="https://www.th-koeln.de/hochschule/familienfreundlichkeit_3759.php">Profilseite zu Family Matters auf der Website der TH Köln</a>
-[^studieren-mit-beeintraechtigung]: <a href="https://www.th-koeln.de/studium/studieren-mit-beeintraechtigung_169.php">Studieren mit Beeinträchtigungen</a>
-[^handreichung-studieren-mit-beeintraechtigung]: <a href="https://www.th-koeln.de/mam/downloads/deutsch/studium/beratung/beeintraechtigung/a5brosch__re_beeintr__chtigung_2016.pdf">Studieren mit Beeinträchtigung - Handreichung für Lehrende und Beschäftigte der TH Köln. Zentrale Studienberatung, TH Köln, 2016</a>
+[^studieren-mit-beeintraechtigung]: <a href="https://www.th-koeln.de/studium/studieren-mit-beeintraechtigung_169.php">Website: Studieren mit Beeinträchtigungen</a>
+[^handreichung-studieren-mit-beeintraechtigung]: <a href="https://www.th-koeln.de/mam/downloads/deutsch/studium/beratung/beeintraechtigung/a5brosch__re_beeintr__chtigung_2016.pdf">PDF: Studieren mit Beeinträchtigung - Handreichung für Lehrende und Beschäftigte der TH Köln. Zentrale Studienberatung, TH Köln, 2016</a>
 
 

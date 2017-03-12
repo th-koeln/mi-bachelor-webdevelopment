@@ -100,6 +100,7 @@ Die vielfältigen Forschungsaktivitäten spiegeln sich im Forschungsprofil der T
 Die Fakultät für Informatik und Ingenieurwissenschaften ist am Standort Gummersbach angesiedelt (Campus Gummersbach) und ist mit derzeit 5200 Studierenden[^studierende-gm-2016] die größte Fakultät der TH Köln. An der Fakultät sind 8 Institute angesiedelt; zum Studienangebot der Fakultät gehören 8 Bachelor- und 6 Masterstudiengänge. Die Medieninformatik Studiengänge werden von der Fakultät für Informatik und Ingenieurwissenschaften ausgerichtet und sind im Institut für Informatik organisatorisch verankert.
 
 Das Institut für Informatik betreibt Labore für:
+
 - Allgemeine Datenverarbeitung (ADV)
 - Systemgestaltung (SG)
 - Mathematik & ihre Anwendungen
@@ -110,9 +111,9 @@ Das Institut für Informatik betreibt Labore für:
 
 
 
-[^Anhang-Diversity-Konzepte]: [Educational Diversity Konzept](https://www.th-koeln.de/hochschule/educational-diversity_5710.php) (abgerufen am 20.02.2017)
-[^anhang-forschungscluster-th]: [Forschungscluster](https://www.th-koeln.de/forschung/cluster_2734.php) (abgerufen am 20.02.2017)
-[^studierende-gm-2016]: [Statistik Studierendenzahlen (01.12.2016).pdf](../anhaenge/stat-Studentenzahlen_WS-2016_(01.12.2016).pdf)
+[^Anhang-Diversity-Konzepte]: [Educational Diversity Konzept](https://www.th-koeln.de/hochschule/educational-diversity_5710.php)
+[^anhang-forschungscluster-th]: [Forschungscluster](https://www.th-koeln.de/forschung/cluster_2734.php)
+[^studierende-gm-2016]: [Statistik Studierendenzahlen (01.12.2016)](../anhaenge/stat-Studentenzahlen_WS-2016_(01.12.2016).pdf)
 
 
 # Analyse der Studiengänge
@@ -333,15 +334,15 @@ Somit lassen sich die folgenden Defizite im aktuellen Medieninformatik Master St
 
 [^anhang-verbleib-und-studienabbruch]: [Statistik zum Verbleib- und Studienabbruch](../anhaenge/stat-verbleib-und-studienabbruch.pdf)
 [^anhang-hep-2020]: [Hochschulentwicklungsplan 2020](https://www.verwaltung.th-koeln.de/imperia/md/content/verwaltung/broschueren_leitfaeden/hochschulentwicklungsplan2020.pdf)
-[^DZHW-Studie2015]: [Ulrich Heublein et al.: Studienbereichsspezifische Qualitätssicherung im Bachelorstudium - Befragung der Fakultäts- und Fachbereichsleitungen zum Thema Studienerfolg und Studienabbruch. Forum Hochschule, 3/2015](http://www.dzhw.eu/pdf/pub_fh/fh-201503.pdf) (abgerufen am 13.02.2017)
+[^DZHW-Studie2015]: [Ulrich Heublein et al.: Studienbereichsspezifische Qualitätssicherung im Bachelorstudium - Befragung der Fakultäts- und Fachbereichsleitungen zum Thema Studienerfolg und Studienabbruch. Forum Hochschule, 3/2015](http://www.dzhw.eu/pdf/pub_fh/fh-201503.pdf)
 [^Anhang-Pruefungsstatistiken]: [Bachelorstudiengang Medieninformatik, Prüfungsstatistik 2016](../anhaenge/ba-pruefungsstatistiken.pdf) 
 [^Anhang-fakultaetsstruktur]: [Fakultät für Informatik und Ingenieurwissenschaften, Statistik 2013/14](../anhaenge/fak-Fakultaetsstruktur-Studienangebot-Personal-Haushaltsmittel-Kennzahlen-2014.pdf)
 [^Anhang-INCHER-Studie]: [INCHER-Studie 2014](../anhaenge/studie-INCHER-Studie.pdf)
 [^evaluationen-f10]: [Studentische Evaluationen Medieninformatik](../anhaenge/eva-evaluationen-f10.pdf)
 [^Anhang-Curriculumsanalye]: [Curriculumsanalye](../anhaenge/ba-pruefungsstatistiken.pdf)
-[^Anhang-Snapshot-Bewertungen-von-studycheckde]: [Snapshot Bewertungen von studycheck.de](../anhaenge/eva-snapshot_2017_02_17_bewertungen_studiengang_medieninformatik_auf_studycheck_._de)
-[^Link-studycheckde]: [http://studycheck.de](http://studycheck.de) (abgerufen am 17.02.2017)
-[^profil2]: [ProfiL2 Antrag der TH Köln](https://www.th-koeln.de/mam/downloads/deutsch/hochschule/profil/lehre/profil2_antrag_ministerium.pdf) (abgerufen am 15.02.2017)
+[^Anhang-Snapshot-Bewertungen-von-studycheckde]: [Snapshot Bewertungen von studycheck.de](../anhaenge/eva-snapshot_2017_02_17_bewertungen_studiengang_medieninformatik_auf_studycheck_._de.pdf)
+[^Link-studycheckde]: [http://studycheck.de](http://studycheck.de)
+[^profil2]: [ProfiL2 Antrag der TH Köln](https://www.th-koeln.de/mam/downloads/deutsch/hochschule/profil/lehre/profil2_antrag_ministerium.pdf)
 [^eva-studierendenbefragung]: [Studierendenbefragung 2010-2015](../anhaenge/eva-studierendenbefragung-2010-2015.pdf)
 [^eva-mi-ba-kern]: [Evaluation der studiengangsübergreifenden Module im Bachelor](../anhaenge/eva-lv-bewertung-mi-module-ba-kern.pdf)
 [^eva-mi-ba]: [Evaluation der studiengangsspezifischen Module im Bachelor](../anhaenge/eva-lv-bewertung-mi-module-ba.pdf)
@@ -601,7 +602,7 @@ Die wesentliche Basis für die Entwicklung und Ausgestaltung relevanter Kompeten
 
 **Technologische Kompetenzen:** Digitaltechnik und Rechnerorganisation, Betriebssysteme, Datenbanken und Informationssysteme, Rechnernetze und verteilte Systeme, IT-Sicherheit
 
-**Fachübergreifende Kompetenzen:** Gesellschaftliche und berufsethische Aspekte von Informatiksystemen im Anwendungskontext, ökonomische und ökologische Aspekte von Informatiksystemen im Anwendungskontext, rechtliche Aspekte von Informatiksystemen im Anwendungskontext
+**Fachübergreifende Kompetenzen:** Methodische und wissenschaftliche Aspekte, Gesellschaftliche und berufsethische Aspekte von Informatiksystemen im Anwendungskontext, ökonomische und ökologische Aspekte von Informatiksystemen im Anwendungskontext, rechtliche Aspekte von Informatiksystemen im Anwendungskontext
 
 **Soziale Kompetenzen und Selbstkompetenzen:** Kooperationsmanagement, Diversity- und Konfliktmanagement, Organisationsentwicklung
 
@@ -657,6 +658,7 @@ Die Studierenden …
 Die Studierenden …
 
 - sind in der Lage, Aufgaben in verschiedenen Anwendungsfeldern unter gegebenen technischen, ökonomischen, ökologischen und sozialen Randbedingungen mit den Mitteln der Informatik zu bearbeiten und entsprechende Systeme zu entwickeln.
+- können sich eigenständig in neue Themenbereiche einarbeiten und Problemstellungen, Technologien und wissenschaftliche Erkenntnisse im Umfeld der Medieninformatik erkennen und in ihrem Arbeitsumfeld einbeziehen und das erworbene Wissen effizient in die Lösung aktueller und auch zukünftiger Frage- und Problemstellungen einbringen und anwenden.
 - verfügen über betriebswirtschaftliche Grundkenntnisse, da die Planung, Entwicklung und Nutzung aller Informatiksysteme unter wirtschaftlichen Rahmenbedingungen stattfinden.
 - haben juristische Grundkenntnisse um rechtsverbindliche Dokumente wie Rahmenvereinbarungen, projektspezifische Verträge, Lizenz- oder Nutzungsverträge aushandeln zu können. Darüber hinaus können sie die gesetzliche Basis von Sicherheitsaspekten, als auch Fragen des Urheberrechts und der Produkthaftung berücksichtigen.
 - haben einen Einblick in berufsethische Rahmenbedingungen erhalten und können die Auswirkungen ihrer Arbeit auf die zukünftigen Nutzer sowie auf die Gesellschaft in ihren sozialen, wirtschaftlichen, arbeitsorganisatorischen, psychologischen und rechtlichen Aspekten einschätzen.
@@ -709,7 +711,6 @@ Zusammenfassend lassen sich für den Bachelorstudiengang folgende übergeordnete
 
 Absolventinnen und Absolventen des Bachelorstudiengangs Medieninformatik:
 
-
 - haben ein Verständnis für anwendbare Techniken und Methoden in der Wertschöpfungskette aus Medienkonzeption, -produktion, -bearbeitung, -distribution und -nutzung und für deren Grenzen entwickelt und fachliches als auch fachübergreifendes Wissen der Informatik und der Medieninformatik erlangt und ihre Fähigkeit zur Abstraktion und Modellierung sowie zum Operieren in formalen Welten mit methodischen und analytischen Ansätzen erlernt. 
 
 - können im Team Problemstellungen verschiedenen Bereichen der Medieninformatik grundlagenbasiert, systemanalytisch und multiperspektivisch analysieren, formulieren, formalisieren und lösen, sowie solche Lösungen kritisch zu evaluieren. Sie haben dafür ein kritisches Bewusstsein über die neueren Erkenntnisse und Entwicklungen in der Medieninformatik entwickelt und kennen nicht-technische Auswirkungen ihrer praktischen Tätigkeit. 
@@ -730,13 +731,13 @@ Absolventinnen und Absolventen des Bachelorstudiengangs Medieninformatik:
 
 ### Weiterführende Dokumente
 - [Website des Medieninformatik Bachelor](https://www.th-koeln.de/studium/medieninformatik-bachelor_2379.php)
-- [Ordnungen zum Medieninformatik Bachelor](https://www.th-koeln.de/studium/medieninformatik-bachelor--ordnungen-und-formulare_3963.php) (abgerufen am 23.02.2017)
+- [Ordnungen zum Medieninformatik Bachelor](https://www.th-koeln.de/studium/medieninformatik-bachelor--ordnungen-und-formulare_3963.php)
 - [Themen der Abschlussabeiten des Medieninformatik Bachelor 2010 bis 2014](../anhaenge/ba-abschlussarbeiten_2010-2014_.pdf)
 - [Studienverlaufsplan Medieninformatik Bachelor](../anhaenge/ba-studienverlaufsplan.pdf)
-- [Modulhandbuch Medieninformatik Bachelor: ](../anhaenge/ba-modulhandbuch.pdf)
+- [Modulhandbuch Medieninformatik Bachelor](../anhaenge/medieninformatik-bachelor-modulhandbuch.pdf)
 - [Ziele-Module-Matrix Medieninformatik Bachelor](../anhaenge/ba-Ziele-Module-Matrix-Medieninformatik-Bachelor.pdf)
 - [Beispielzeugnis und Diploma Supplement Medieninformatik Bachelor](../anhaenge/ba-zeugnis.pdf)
-- [Profil der Studienanfänger](../anhaenge/stat-profil-studienanfaenger-2017)
+- [Profil der Studienanfänger](../anhaenge/stat-profil-studienanfaenger-2017.pdf)
 
 
 ## Qualifikationsziele Medieninformatik Master
@@ -774,13 +775,13 @@ Absolventinnen und Absolventen des Masterstudiengangs Medieninformatik:
 - [Website des Medieninformatik Master](https://www.th-koeln.de/studium/medieninformatik-master_3729.php)
 - [Ordnungen zum Medieninformatik Master](https://www.th-koeln.de/studium/medieninformatik-master--ordnungen-und-formulare_3724.php)
 - [Studienverlaufsplan Medieninformatik Master](../anhaenge/ma-studienverlaufsplaene.pdf)
-- [Modulhandbuch Medieninformatik Master](../anhaenge/ma-modulhandbuch.pdf)
+- [Modulhandbuch Medieninformatik Master](../anhaenge/medieninformatik-master-modulhandbuch.pdf)
 - [Prüfungsordnung Medieninformatik Master(entwurf)](../anhaenge/ma-MIMPO_Entwurf_20170218.pdf)
 - [Ziele-Module-Matrix Medieninformatik Master](../anhaenge/ma-Ziele-Module-Matrix-Medieninformatik-Master.pdf)
 - [Beispielzeugnis und Diploma Supplement Medieninformatik Master](../anhaenge/ma-zeugnis.pdf)
 
 
-[^gi-empfehlungen]: Gesellschaft für Informatik e.V. (GI): [Empfehlungen für Bachelor- und Masterprogramme im Studienfach Informatik an Hochschulen](https://www.gi.de/fileadmin/redaktion/empfehlungen/GI-Empfehlungen_Bachelor-Master-Informatik2016.pdf) (abgerufen am 17.02.2017) 
+[^gi-empfehlungen]: Gesellschaft für Informatik e.V. (GI): [Empfehlungen für Bachelor- und Masterprogramme im Studienfach Informatik an Hochschulen](https://www.gi.de/fileadmin/redaktion/empfehlungen/GI-Empfehlungen_Bachelor-Master-Informatik2016.pdf)
 [^positionspapier-gi-mci-mi]: Martin Christof Kindsmüller, Christian Wolters, Andreas M. Heinecke: [Medieninformatik 2016: Was war, was ist, was soll sein?](http://dl.mensch-und-computer.de/bitstream/handle/123456789/5131/Kindsm%C3%BCller_Wolters_Heinecke_2016.pdf)
 
 
@@ -872,11 +873,11 @@ Wissenschaftliches Arbeiten vermittelt der Bachelor-Studiengang Medieninformatik
 
 ### Weiterführende Dokumente
 
-- Themen der Abschlussabeiten des Medieninformatik Bachelor 2010 bis 2014: [ba-abschlussarbeiten_2010-2014_.pdf](../anhaenge/ba-abschlussarbeiten_2010-2014_.pdf)
-- Studienverlaufsplan Medieninformatik Bachelor: [ba-studienverlaufsplan.pdf](../anhaenge/ba-studienverlaufsplan.pdf)
-- Modulhandbuch Medieninformatik Bachelor: [ba-modulhandbuch.pdf](../anhaenge/ba-modulhandbuch.pdf)
-- Ziele-Module-Matrix Medieninformatik Bachelor: [ba-Ziele-Module-Matrix-Medieninformatik-Bachelor.pdf](../anhaenge/ba-Ziele-Module-Matrix-Medieninformatik-Bachelor.pdf)
-- Beispielzeugnis und Diploma Supplement Medieninformatik Bachelor: [ba-zeugnis.pdf](../anhaenge/ba-zeugnis.pdf)
+- [Themen der Abschlussabeiten des Medieninformatik Bachelor 2010 bis 2014](../anhaenge/ba-abschlussarbeiten_2010-2014_.pdf)
+- [Studienverlaufsplan Medieninformatik Bachelor](../anhaenge/ba-studienverlaufsplan.pdf)
+- [Modulhandbuch Medieninformatik Bachelor](../anhaenge/medieninformatik-bachelor-modulhandbuch.pdf)
+- [Ziele-Module-Matrix Medieninformatik Bachelor](../anhaenge/ba-Ziele-Module-Matrix-Medieninformatik-Bachelor.pdf)
+- [Beispielzeugnis und Diploma Supplement Medieninformatik Bachelor](../anhaenge/ba-zeugnis.pdf)
 
 ## Studienkonzept Medieninformatik  Master
 
@@ -972,13 +973,13 @@ Die inhaltliche Offenheit des dritten Fachsemesters mit drei Wahlpflichtmodulen 
 
 ### Weiterführende Dokumente
 
-- Studienverlaufsplan Medieninformatik Master: [ma-studienverlaufsplaene.pdf](../anhaenge/ma-studienverlaufsplaene.pdf)
-- Modulhandbuch Medieninformatik Master: [ma-modulhandbuch.pdf](../anhaenge/ma-modulhandbuch.pdf)
-- Prüfungsordnung Medieninformatik Master(entwurf): [ma-MIMPO_Entwurf_20170218.pdf](../anhaenge/ma-MIMPO_Entwurf_20170218.pdf)
-- Ziele-Module-Matrix Medieninformatik Master: [ma-Ziele-Module-Matrix-Medieninformatik-Master.pdf](../anhaenge/ma-Ziele-Module-Matrix-Medieninformatik-Master.pdf)
-- Beispielzeugnis und Diploma Supplement Medieninformatik Master: [ma-zeugnis.pdf](../anhaenge/ma-zeugnis.pdf)
+- [Studienverlaufsplan Medieninformatik Master](../anhaenge/ma-studienverlaufsplaene.pdf)
+- [Modulhandbuch Medieninformatik Master](../anhaenge/medieninformatik-master-modulhandbuch.pdf)
+- [Prüfungsordnung Medieninformatik Master(entwurf)](../anhaenge/ma-MIMPO_Entwurf_20170218.pdf)
+- [Ziele-Module-Matrix Medieninformatik Master](../anhaenge/ma-Ziele-Module-Matrix-Medieninformatik-Master.pdf)
+- [Beispielzeugnis und Diploma Supplement Medieninformatik Master](../anhaenge/ma-zeugnis.pdf)
 
-[^profil-studienanfaenger-2017]: [Profil der Studienanfänger](../anhaenge/profil-studienanfaenger-2017.xlsx)
+[^profil-studienanfaenger-2017]: [Profil der Studienanfänger](../anhaenge/stat-profil-studienanfaenger-2017.pdf)
 
 [^profil2_projektboerse]: [Homepage ProfiL2 Projektbörse](http://projektboerse-profil2.th-koeln.de/)
 
@@ -1074,7 +1075,7 @@ Darüber hinaus bietet die Medieninformatik einige Veranstaltungen (siehe außer
 
 [^int-office]: [Website International Office](https://www.th-koeln.de/internationales/international-office_1986.php)
 [^pruefungsordnung-bachelor]: [Prüfungsordnung Medieninformatik Bachelor](https://www.th-koeln.de/studium/medieninformatik-bachelor--ordnungen-und-formulare_3963.php)
-[^pruefungsordnung-master]: [Prüfungsordnung Medieninformatik Master (Entwurf)](../anhaenge/MIMPO_Entwurf_20170218.pdf)
+[^pruefungsordnung-master]: [Prüfungsordnung Medieninformatik Master (Entwurf)](../anhaenge/ma-MIMPO_Entwurf_20170218.pdf)
 
 
 # Prüfungssystem
@@ -1099,7 +1100,7 @@ Die Prüfungsordnungen regeln das Studium und die Prüfungen in den Studiengäng
 - [Studienverlaufsplan Medieninformatik Bachelor](../anhaenge/ba-studienverlaufsplan.pdf)
 - [Modulhandbuch Medieninformatik Bachelor](../anhaenge/medieninformatik-bachelor-modulhandbuch.pdf)
 
-- [Prüfungsordnung Medieninformatik Master (Entwurf)](../anhaenge/MIMPO_Entwurf_ohne_Anm_Sz20170218.pdf)
+- [Prüfungsordnung Medieninformatik Master (Entwurf)](../anhaenge/ma-MIMPO_Entwurf_20170218.pdf)
 - [Studienverlaufsplan Medieninformatik Master](../anhaenge/ma-studienverlaufsplaene.pdf)
 - [Modulhandbuch Medieninformatik Master](../anhaenge/medieninformatik-master-modulhandbuch.pdf)
 
@@ -1171,6 +1172,7 @@ Mit der UEM (Universidad Europea de Madrid) wird das ERASMUS-Abkommen genutzt, u
 Derzeit läuft ein internationales Web-Development Projekt mit Studierenden der Medieninformatik und Studierenden der Université Paris 13, Technological Educational Institute of Athens, Universidade de Coimbra und Technical University of Sofia.
 
 Weitere Hochschulen, mit denen Erasmuskontrakte existieren bzw. Studierende in beiden Richtungen ausgetauscht wurden, sind:
+
 - Oyonnax, Frankreich, Ecole Supérieure de Plasturgie - F OYONNAX
 - Gdansk, Polen, Politechnika Gdanska - PL GDANSK02
 - Krosno, Polen, Państwowa Wyższa Szkoła Zawodowa w Krośnie - PL KROSNO01
@@ -1193,6 +1195,7 @@ Weitere Hochschulen, mit denen Erasmuskontrakte existieren bzw. Studierende in b
 - Valencia, Spanien, Universidad de Valencia - E VALENCI01
 
 Weitere Hochschulen mit denen Kooperationen bestehen sind:
+
 - Kobe, Japan, Kobe Institut
 - Leiden, Niederlande, Universiteit Leiden
 - Amman, Jordanien, GJU (German Jordanian University)
@@ -1221,7 +1224,7 @@ Seitens der »Nachwuchsförderung« kooperiert die Fakultät 10 mit zahlreichen 
 
 
 
-# Ausstattung
+# Personal & Ausstattung
 
 ## Weiterbildung
 
@@ -1231,7 +1234,9 @@ Daneben haben Lehrende und wissenschaftliche Mitarbeiter an wissenschaftlichen K
 
 - International ACM Web Science Conference '15 in Oxford (K. Fischer mit paper)
 
-## Verleih
+## Räumliche Ausstattung und Hardware
+
+### Verleih
 
 - 12 x Audiovisuelle Produktionssets, bestehend aus jeweils
  P2 Panasonic HD Kamera
@@ -1245,22 +1250,42 @@ Daneben haben Lehrende und wissenschaftliche Mitarbeiter an wissenschaftlichen K
 * Diverses Zubehör für Licht, Ton und Video wie Lichtstative, Fieldmonitore, Speichermedien
 * Verschiedene Smartphones und Tablets: Nexus 5, Nexus 9 und iPad Pro 13’’ 
 
-## Nachbearbeitung
+### Nachbearbeitung
 
 * 5 x Mac Pro stationär, mit Adobe Production Suite CS 6
 * 12 x iMac mobil, mit Adobe Production Suite CS 6
 * 1 x Tonkabine mit Neumann Großmembranmikrofon, Mac Pro mit Logic X und Mackie 1402 Tonmischpult
 
-## Studio
+### Studio
 
 * Greenbox mit festmontierter und variabler Beleuchtung
 * Bildmischer Panasonic AV-HS400A und Audiomischer Behringer AB1222FX-Pro
 * Mac Pro mit Adobe Production Suite CS 6 zur Digitalisierung und Nachbearbeitung der Studioproduktionen
 
-## MI-Projektraum
+### MI-Projektraum
 
 * Eyetracking System (SMI-Vision, 120 Hz) mit Laptop und Auswertungssoftware
 * Eye-Tracking Brille (Tobii) für mobile Nutzungskontexte
+
+### Innovationsräume
+
+#### Interaktive Wände:
+- 2 miteinander verbundene SMART Boards
+- 1 Microsoft Surface Hub
+- Interaktive Doppelprojektion Nureva Span (in Anschaffung)
+
+#### Interaktive Ein- und Ausgabegeräte:
+- HP Sprout
+- Interaktiver Tabletop
+- Arcade Machine
+- Grafiktablets 
+
+#### Weiterhin:
+- Design Thinking Materialien (Boxen, Legosteine, Innovationskarten)
+- 3D Drucker
+
+### Medieninformatik Pool/ Projektraum
+Dieser Raum ist mit flexiblen Tischen und Stühlen ausgestattet und wird sowohl für Seminare und Workshops als auch für Projektarbeit genutzt. Der Raum kann von allen Medieninformatik-Studierenden außerhalb der Veranstaltungszeiten genutzt werden. Darüber hinaus stehen den Studierenden noch weitere, kleinere Projekträume im Medieninformatik Flur zur Verfügung.
 
 ## Lehrende in der Medieninformatik
 
@@ -1389,13 +1414,16 @@ Die vereinbarten Qualitätsziele wurden an quantifizierbaren Kenngrößen oder b
 
 # Geschlechtergerechtigkeit, Chancengleichheit und Studieren mit Beeinträchtigungen
 
+## Gleichstellung und Chancengleichheit der Geschlechter
+
 Die TH Köln betrachtet Gleichstellung und Chancengleichheit der Geschlechter als auch die Integration von Studierenden mit Beeinträchtigungen als Querschnittsaufgaben. Dabei wird Gleichstellung als integrierter Bestandteil von Lehre und Forschung verstanden, auf die Vereinbarkeit von Studium und Familie beziehungsweise Beruf und Familie geachtet sowie für eine ausgewogene Beteiligung von Männern und Frauen an den Entscheidungsstrukturen in Lehre, Forschung und Verwaltung gesorgt. Darüber hinaus wird der Anteil der Frauen bei den Professuren, Mitarbeiterstellen und den Studierenden in denjenigen Fächern, in denen sie unterrepräsentiert sind, kontinuierlich erhöht.
 
 Es wird die Aufstellung und Einhaltung der Frauenförderpläne kontrolliert. Des Weiteren werden bei einem „Girl’s Day“ spezielle Veranstaltungen für interessierte Frauen, bezüglich der Informatikstudiengänge, angeboten. Alle Konzepte und Maßnahmen für Geschlechtergerechtigkeit und Chancengleichheit finden auf die zu akkreditierenden Studiengänge Anwendung.
 
 Fernerhin hat die TH Köln das Audit familiengerechte Hochschule[^family-matters] der „berufundfamilie gemeinnützigen GmbH” erfolgreich durchgeführt. Im Rahmen der Auditierung wurden der Bestand familienorientierter Maßnahmen begutachtet und weiterführende Zielvorgaben zur Verwirklichung familiengerechter Studienbedingungen sowie einer familienbewussten Personalpolitik definiert. Die Hochschule ist in 2015 erfolgreich re-auditiert worden.
 
-## Konzepte zur Förderung der Chancengleichheit
+
+## Förderung der Chancengleichheit
 
 Die Konzepte zur Förderung der Chancengleichheit gelten insbesondere für Studierende in besonderen Lebenslagen (z.B. Studierende mit Kind), für Studierende mit Beeinträchtigung oder für Studierende mit spezifischem sozialem Hintergrund.
 
@@ -1403,9 +1431,9 @@ Die TH Köln versteht sich als familiengerechte Hochschule und bietet verschiede
 
 Das Programm „Educational Diversity“[^educational-diversity] der TH Köln hat zum Ziel, die Verschiedenartigkeit der Studierenden zu erkennen und durch hochschuldidaktische Differenzierung das Potenzial jedes/jeder einzelnen Studierenden optimal zu fördern. Auch die Dozent und Dozentinnen der Informatikstudiengänge beteiligen sich an diesen Programmen.
 
-## Konzept der Hochschule für Chancengleichheit und Studierende in besonderen Lebenslagen
 
 Für die Umsetzung der Chancengleichheit von Männern und Frauen hat die Hochschule in ihrem Entwicklungsplan vier Ziele benannt:
+
 1. Die Ermöglichung einer geschlechtsunabhängigen Studienfachwahl für Schülerinnen und Schüler.
 2. Die Erhöhung des Frauenanteils bei den wissenschaftlichen Beschäftigten der TH Köln, insbesondere bei den Professorinnen, wissenschaftlichen Mitarbeiterinnen und Lehrbeauftragten.
 3. Die Verbesserung der Vereinbarkeit von Studium bzw. Beruf und Familie.
@@ -1422,7 +1450,7 @@ Um „Berührungsängste“ abzubauen und Handlungssicherheit zu geben, werden d
 [^gleichstellungskonzept]: [Gleichstellungskonzept der Technischen Hochschule Köln](http://www.fh-koeln.de/mam/downloads/deutsch/hochschule/profil/gleichstellung/gleichstellungskonzept.pdf)
 [^educational-diversity]: [Programm Educational Diversity der Technischen Hochschule Köln](https://www.th-koeln.de/hochschule/educational-diversity_5710.php)
 [^family-matters]: [Profilseite zu Family Matters auf der Website der TH Köln](https://www.th-koeln.de/hochschule/familienfreundlichkeit_3759.php)
-[^studieren-mit-beeintraechtigung]: [Studieren mit Beeinträchtigungen](https://www.th-koeln.de/studium/studieren-mit-beeintraechtigung_169.php)
-[^handreichung-studieren-mit-beeintraechtigung]: [Studieren mit Beeinträchtigung - Handreichung für Lehrende und Beschäftigte der TH Köln. Zentrale Studienberatung, TH Köln, 2016](https://www.th-koeln.de/mam/downloads/deutsch/studium/beratung/beeintraechtigung/a5brosch__re_beeintr__chtigung_2016.pdf)
+[^studieren-mit-beeintraechtigung]: [Website: Studieren mit Beeinträchtigungen](https://www.th-koeln.de/studium/studieren-mit-beeintraechtigung_169.php)
+[^handreichung-studieren-mit-beeintraechtigung]: [PDF: Studieren mit Beeinträchtigung - Handreichung für Lehrende und Beschäftigte der TH Köln. Zentrale Studienberatung, TH Köln, 2016](https://www.th-koeln.de/mam/downloads/deutsch/studium/beratung/beeintraechtigung/a5brosch__re_beeintr__chtigung_2016.pdf)
 
 

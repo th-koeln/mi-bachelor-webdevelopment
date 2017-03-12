@@ -312,3 +312,9 @@ pre code{
 	background-color: transparent;
 	color: #fff;
 }
+
+/* Für die fianle Version werden ein paar Angaben nicht gezeigt */
+.bearbeiten, .doc-status{
+	display: none;
+}
+

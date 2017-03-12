@@ -72,7 +72,7 @@ layout: default
 						<div class="column is-8"><h1 id="{{doc.id}}">{{ doc.title }}</h1></div>
 						{% assign check = doc.aktueller-bearbeiter | strip_newlines %}
 						{% if check == ""  %}
-						<div class="column is-4 has-text-right">
+						<div class="column is-4 has-text-right bearbeiten">
 							<a target="_blank" href="https://github.com/th-koeln/mi-2017/edit/master/{{ doc.path }}"><span class="icon"><i class="fa fa-edit"></i></span> Bearbeiten</a>
 						</div>
 						{% endif %}

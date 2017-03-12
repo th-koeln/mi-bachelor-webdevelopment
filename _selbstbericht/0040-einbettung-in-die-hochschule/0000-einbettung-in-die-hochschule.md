@@ -40,6 +40,7 @@ Die vielfältigen Forschungsaktivitäten spiegeln sich im Forschungsprofil der T
 Die Fakultät für Informatik und Ingenieurwissenschaften ist am Standort Gummersbach angesiedelt (Campus Gummersbach) und ist mit derzeit 5200 Studierenden[^studierende-gm-2016] die größte Fakultät der TH Köln. An der Fakultät sind 8 Institute angesiedelt; zum Studienangebot der Fakultät gehören 8 Bachelor- und 6 Masterstudiengänge. Die Medieninformatik Studiengänge werden von der Fakultät für Informatik und Ingenieurwissenschaften ausgerichtet und sind im Institut für Informatik organisatorisch verankert.
 
 Das Institut für Informatik betreibt Labore für:
+
 - Allgemeine Datenverarbeitung (ADV)
 - Systemgestaltung (SG)
 - Mathematik & ihre Anwendungen

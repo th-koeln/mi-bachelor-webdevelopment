@@ -64,6 +64,7 @@ Mit der UEM (Universidad Europea de Madrid) wird das ERASMUS-Abkommen genutzt, u
 Derzeit läuft ein internationales Web-Development Projekt mit Studierenden der Medieninformatik und Studierenden der Université Paris 13, Technological Educational Institute of Athens, Universidade de Coimbra und Technical University of Sofia.
 
 Weitere Hochschulen, mit denen Erasmuskontrakte existieren bzw. Studierende in beiden Richtungen ausgetauscht wurden, sind:
+
 - Oyonnax, Frankreich, Ecole Supérieure de Plasturgie - F OYONNAX
 - Gdansk, Polen, Politechnika Gdanska - PL GDANSK02
 - Krosno, Polen, Państwowa Wyższa Szkoła Zawodowa w Krośnie - PL KROSNO01
@@ -86,6 +87,7 @@ Weitere Hochschulen, mit denen Erasmuskontrakte existieren bzw. Studierende in b
 - Valencia, Spanien, Universidad de Valencia - E VALENCI01
 
 Weitere Hochschulen mit denen Kooperationen bestehen sind:
+
 - Kobe, Japan, Kobe Institut
 - Leiden, Niederlande, Universiteit Leiden
 - Amman, Jordanien, GJU (German Jordanian University)
