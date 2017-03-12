@@ -1,5 +1,5 @@
 ---
-title: WPF Computer Supported Collaborative Learning (CSCL)
+title: Computer Supported Collaborative Learning (CSCL)
 modulverantwortlich: ck
 modulniveau: null
 kuerzel: CSCL

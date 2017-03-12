@@ -19,7 +19,7 @@ schwerpunkt: wtw, sc, vc, mpd, hci
 ---
 
 ## Kurzbeschreibung
-Auf Basis eines bereits ausgearbeiteten Prototypen werden in diesem Modul die Schritte Deployment, Qualitätssicherung, Kontinuierliche Integration sowie Produktmanagement und -marketing geplant, durchgeführt und kritisch reflektiert.
+Auf Basis eines bereits ausgearbeiteten Prototypen werden in diesem Modul die Schritte Deployment, Qualitätssicherung und Evaluierung, Kontinuierliche Integration sowie Produktmanagement und -marketing geplant, durchgeführt und kritisch reflektiert.
 
 ## Lehrform/SWS: 
 Projektarbeit
@@ -28,23 +28,28 @@ Projektarbeit
 360 Stunden
 
 ## Angestrebte Lernergebnisse:
-Die Studentinnen und Studenten können die Kernfunktionen eines Produktes identifizieren und sind in der Lage einen Prototypen als minimal viable product in den Markt oder die Community zu bringen.
-
-Die Teilnehmer kennen Deployment Strategien, Konzepte und Techniken der Kontinuierlichen Integration und können diese in einem spezifischen Projektkontext anwenden.
-
-Die Studierenden sind in der Lage eine Produkt Management Strategie für ein Online Produkt zu entwickeln und zu implementieren. Alternativ können die Studierenden die gewonnen Erkenntnisse aus dem Produkt in der Community z.B. in Form eines Konferenzbeitrags sichtbar machen und einen wissenschaftlichen Diskurs dazu führen.
+Die Studentinnen und Studenten
+- können die Kernfunktionen eines Produktes vor dem Hintergrund neuere Erkenntnisse und Entwicklungen in der Informatik und insbesondere der Medieninformatik identifizieren und kommunizieren und sind in der Lage, einen Prototypen als "minimal viable product" auch aus betriebswirtschaftlichen Perspektiven zu betrachten, bzgl. Modellen, Systemen und Prozessen für Medienkonzeption, -produktion, -bearbeitung, -distribution und -nutzung zu analysieren und zu evaluieren und in den Markt oder die Community zu bringen;
+- kennen Deployment Strategien, Konzepte und Techniken der Kontinuierlichen Integration und können diese in einem spezifischen Projektkontext anwenden;
+- vertiefen die Fähigkeit zum methodischen Vorgehen, der Auswahl und der Durchführung von Arbeits- und Dokumentationstechniken und sind fähig, innovative Methoden bei der Problemlösung auszuwählen, anzuwenden und deren Anwendung zu begründen, um eine Produkt Management Strategie für ein Online Produkt zu entwickeln und umzusetzen. Alternativ können die Studierenden die gewonnen Erkenntnisse aus dem Produkt in der Community z.B. in Form eines Konferenzbeitrags sichtbar machen und einen wissenschaftlichen Diskurs dazu führen.
 
 ## Inhalt:
-In der eigentlichen Projektarbeit wird ein fertiger, lauffähiger Prototyp evaluiert und in Form eines minimal viable product zugänglich gemacht. Im Rahmen des Moduls wird eine Produktmanagement Strategie entwickelt und das Produkt wird unter Qualitätsmanagement Gesichtspunkten beleuchtet. 
-
-Variante: In der eigentlichen Projektarbeit wird ein fertiger, lauffertiger Prototyp evaluiert und in Form eines minimal viable product zugänglich gemacht. Im Rahmen des Projekts werden Konzepte und Techniken der Kontinuierlichen Integration auf das minimal viable product angewendet.
-
-Zur Unterstützung werden Workshops/Seminare in den Bereichen Produkt Management, Web Deployment und Continuous Integration angeboten.
+Das Projekt gliedert sich in zwei Teile:
+- In der eigentlichen Projektarbeit wird ein fertiger, lauffähiger Prototyp im Rahmen eines betreuten Forschungs- und Entwicklungsprojekts evaluiert und getestet und in Form eines "minimal viable product" zugänglich gemacht. Im Rahmen des Moduls werden eine Produktmanagement-Strategie und ein Qualitätsmanagement-Konzept entwickelt und das Produkt unter Qualitätsgesichtspunkten beleuchtet. Die Betreuer definieren zusammen mit den Studierenden die Zielsetzung und führen mit den Studierenden einen regelmäßigen Diskurs über den Fortgang des Projekts. Sie vereinbaren außerdem Meilensteine, deren Ergebnisse in geeigneter Form in die Endnote einfließen. Kommunikations- und Kooperationsformen werden vorab gemeinsam zwischen Betreuern und Studierenden festgelegt und in periodischen Abständen gemeinsam reflektiert.
+- Variante: In der eigentlichen Projektarbeit wird ein fertiger, lauffertiger Prototyp evaluiert und in Form eines minimal viable product zugänglich gemacht. Im Rahmen des Projekts werden Konzepte und Techniken der Kontinuierlichen Integration auf das minimal viable product angewendet. 
+- Zur Unterstützung werden Workshops/Seminare in den Bereichen Produkt Management, Qualitätssicherung und -Management sowie Medien- und Vertragsrecht angeboten.
 
 ## Studien-/Prüfungsleistungen:
-Projektarbeit
+Projektarbeit und vertiefende Workshops/Seminare. Dokumentation der geleisteten Arbeit mit Aufgabenstellung, Stand von Wissenschaft und Technik, verwendeten Problemlösungsmethoden, erzielten Resultaten, offenen Fragen, verwendeten Quellen etc..
+
+In die Gesamtnote gehen zwei Leistungen zu je gleichen Anteilen (50%) ein:
+- Abschlusspräsentation: Fachliche Aufgabe.
+- Abschlussbericht: Fachliche Aufgabe.
+
 
 ## Medienformen:
-n/a
+Entwicklungs- und Deployment-Umgebung mit Artefakt-Repository, Kollaborationssysteme
 
 ## Literatur:
+
+Je nach Studienschwerpunkt und fachlicher Aufgabe

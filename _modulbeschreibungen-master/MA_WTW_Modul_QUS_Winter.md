@@ -12,7 +12,7 @@ sprache: deutsch, Seminar-Basisliteratur i.d.R. in englischer Sprache
 zuordnung-zum-curriculum: null
 kreditpunkte: 6
 voraussetzungen-nach-pruefungsordnung: keine
-empfohlene-voraussetzungen: Grundkenntnisse der Softwaretechnik
+empfohlene-voraussetzungen: Grundkenntnisse Softwaretechnik und Projektmanagement
 published: true
 type: spm
 parent: SPM3
