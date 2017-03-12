@@ -2,7 +2,7 @@
 title: Projektarbeit - Assessment/Evaluation, Forschung und Verwertung im Kontext des Studienschwerpunkts
 modulverantwortlich: kf, mw, hc, me, ck, gh
 modulniveau: n/a
-kuerzel: WTWP-V
+kuerzel: MIMP-V
 untertitel: null
 studiensemester-ws: 3
 studiensemester-ss: 1
