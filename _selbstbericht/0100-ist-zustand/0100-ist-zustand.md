@@ -208,15 +208,15 @@ Somit lassen sich die folgenden Defizite im aktuellen Medieninformatik Master St
 
 [^anhang-verbleib-und-studienabbruch]: <a href="../anhaenge/stat-verbleib-und-studienabbruch.pdf">Statistik zum Verbleib- und Studienabbruch</a>
 [^anhang-hep-2020]: <a href="https://www.verwaltung.th-koeln.de/imperia/md/content/verwaltung/broschueren_leitfaeden/hochschulentwicklungsplan2020.pdf">Hochschulentwicklungsplan 2020</a>
-[^DZHW-Studie2015]: <a href="http://www.dzhw.eu/pdf/pub_fh/fh-201503.pdf">Ulrich Heublein et al.: Studienbereichsspezifische Qualitätssicherung im Bachelorstudium - Befragung der Fakultäts- und Fachbereichsleitungen zum Thema Studienerfolg und Studienabbruch. Forum Hochschule, 3/2015</a> (abgerufen am 13.02.2017)
+[^DZHW-Studie2015]: <a href="http://www.dzhw.eu/pdf/pub_fh/fh-201503.pdf">Ulrich Heublein et al.: Studienbereichsspezifische Qualitätssicherung im Bachelorstudium - Befragung der Fakultäts- und Fachbereichsleitungen zum Thema Studienerfolg und Studienabbruch. Forum Hochschule, 3/2015</a>
 [^Anhang-Pruefungsstatistiken]: <a href="../anhaenge/ba-pruefungsstatistiken.pdf">Bachelorstudiengang Medieninformatik, Prüfungsstatistik 2016</a> 
 [^Anhang-fakultaetsstruktur]: <a href="../anhaenge/fak-Fakultaetsstruktur-Studienangebot-Personal-Haushaltsmittel-Kennzahlen-2014.pdf">Fakultät für Informatik und Ingenieurwissenschaften, Statistik 2013/14</a>
 [^Anhang-INCHER-Studie]: <a href="../anhaenge/studie-INCHER-Studie.pdf">INCHER-Studie 2014</a>
 [^evaluationen-f10]: <a href="../anhaenge/eva-evaluationen-f10.pdf">Studentische Evaluationen Medieninformatik</a>
 [^Anhang-Curriculumsanalye]: <a href="../anhaenge/ba-pruefungsstatistiken.pdf">Curriculumsanalye</a>
-[^Anhang-Snapshot-Bewertungen-von-studycheckde]: <a href="../anhaenge/eva-snapshot_2017_02_17_bewertungen_studiengang_medieninformatik_auf_studycheck_._de">Snapshot Bewertungen von studycheck.de</a>
-[^Link-studycheckde]: <a href="http://studycheck.de">http://studycheck.de</a> (abgerufen am 17.02.2017)
-[^profil2]: <a href="https://www.th-koeln.de/mam/downloads/deutsch/hochschule/profil/lehre/profil2_antrag_ministerium.pdf">ProfiL2 Antrag der TH Köln</a> (abgerufen am 15.02.2017)
+[^Anhang-Snapshot-Bewertungen-von-studycheckde]: <a href="../anhaenge/eva-snapshot_2017_02_17_bewertungen_studiengang_medieninformatik_auf_studycheck_._de.pdf">Snapshot Bewertungen von studycheck.de</a>
+[^Link-studycheckde]: <a href="http://studycheck.de">http://studycheck.de</a>
+[^profil2]: <a href="https://www.th-koeln.de/mam/downloads/deutsch/hochschule/profil/lehre/profil2_antrag_ministerium.pdf">ProfiL2 Antrag der TH Köln</a>
 [^eva-studierendenbefragung]: <a href="../anhaenge/eva-studierendenbefragung-2010-2015.pdf">Studierendenbefragung 2010-2015</a>
 [^eva-mi-ba-kern]: <a href="../anhaenge/eva-lv-bewertung-mi-module-ba-kern.pdf">Evaluation der studiengangsübergreifenden Module im Bachelor</a>
 [^eva-mi-ba]: <a href="../anhaenge/eva-lv-bewertung-mi-module-ba.pdf">Evaluation der studiengangsspezifischen Module im Bachelor</a>

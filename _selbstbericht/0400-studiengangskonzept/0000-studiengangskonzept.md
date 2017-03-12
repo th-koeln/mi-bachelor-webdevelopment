@@ -67,11 +67,11 @@ Wissenschaftliches Arbeiten vermittelt der Bachelor-Studiengang Medieninformatik
 
 ### Weiterführende Dokumente
 
-- Themen der Abschlussabeiten des Medieninformatik Bachelor 2010 bis 2014: <a href="../anhaenge/ba-abschlussarbeiten_2010-2014_.pdf">ba-abschlussarbeiten_2010-2014_.pdf</a>
-- Studienverlaufsplan Medieninformatik Bachelor: <a href="../anhaenge/ba-studienverlaufsplan.pdf">ba-studienverlaufsplan.pdf</a>
-- Modulhandbuch Medieninformatik Bachelor: <a href="../anhaenge/ba-modulhandbuch.pdf">ba-modulhandbuch.pdf</a>
-- Ziele-Module-Matrix Medieninformatik Bachelor: <a href="../anhaenge/ba-Ziele-Module-Matrix-Medieninformatik-Bachelor.pdf">ba-Ziele-Module-Matrix-Medieninformatik-Bachelor.pdf</a>
-- Beispielzeugnis und Diploma Supplement Medieninformatik Bachelor: <a href="../anhaenge/ba-zeugnis.pdf">ba-zeugnis.pdf</a>
+- <a href="../anhaenge/ba-abschlussarbeiten_2010-2014_.pdf">Themen der Abschlussabeiten des Medieninformatik Bachelor 2010 bis 2014</a>
+- <a href="../anhaenge/ba-studienverlaufsplan.pdf">Studienverlaufsplan Medieninformatik Bachelor</a>
+- <a href="../anhaenge/medieninformatik-bachelor-modulhandbuch.pdf">Modulhandbuch Medieninformatik Bachelor</a>
+- <a href="../anhaenge/ba-Ziele-Module-Matrix-Medieninformatik-Bachelor.pdf">Ziele-Module-Matrix Medieninformatik Bachelor</a>
+- <a href="../anhaenge/ba-zeugnis.pdf">Beispielzeugnis und Diploma Supplement Medieninformatik Bachelor</a>
 
 ## Studienkonzept Medieninformatik  Master
 
@@ -167,13 +167,13 @@ Die inhaltliche Offenheit des dritten Fachsemesters mit drei Wahlpflichtmodulen 
 
 ### Weiterführende Dokumente
 
-- Studienverlaufsplan Medieninformatik Master: <a href="../anhaenge/ma-studienverlaufsplaene.pdf">ma-studienverlaufsplaene.pdf</a>
-- Modulhandbuch Medieninformatik Master: <a href="../anhaenge/ma-modulhandbuch.pdf">ma-modulhandbuch.pdf</a>
-- Prüfungsordnung Medieninformatik Master(entwurf): <a href="../anhaenge/ma-MIMPO_Entwurf_20170218.pdf">ma-MIMPO_Entwurf_20170218.pdf</a>
-- Ziele-Module-Matrix Medieninformatik Master: <a href="../anhaenge/ma-Ziele-Module-Matrix-Medieninformatik-Master.pdf">ma-Ziele-Module-Matrix-Medieninformatik-Master.pdf</a>
-- Beispielzeugnis und Diploma Supplement Medieninformatik Master: <a href="../anhaenge/ma-zeugnis.pdf">ma-zeugnis.pdf</a>
+- <a href="../anhaenge/ma-studienverlaufsplaene.pdf">Studienverlaufsplan Medieninformatik Master</a>
+- <a href="../anhaenge/medieninformatik-master-modulhandbuch.pdf">Modulhandbuch Medieninformatik Master</a>
+- <a href="../anhaenge/ma-MIMPO_Entwurf_20170218.pdf">Prüfungsordnung Medieninformatik Master(entwurf)</a>
+- <a href="../anhaenge/ma-Ziele-Module-Matrix-Medieninformatik-Master.pdf">Ziele-Module-Matrix Medieninformatik Master</a>
+- <a href="../anhaenge/ma-zeugnis.pdf">Beispielzeugnis und Diploma Supplement Medieninformatik Master</a>
 
-[^profil-studienanfaenger-2017]: <a href="../anhaenge/profil-studienanfaenger-2017.xlsx">Profil der Studienanfänger</a>
+[^profil-studienanfaenger-2017]: <a href="../anhaenge/stat-profil-studienanfaenger-2017.pdf">Profil der Studienanfänger</a>
 
 [^profil2_projektboerse]: <a href="http://projektboerse-profil2.th-koeln.de/">Homepage ProfiL2 Projektbörse</a>
 

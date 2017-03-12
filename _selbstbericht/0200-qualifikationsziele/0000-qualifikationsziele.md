@@ -164,13 +164,13 @@ Absolventinnen und Absolventen des Bachelorstudiengangs Medieninformatik:
 
 ### Weiterführende Dokumente
 - <a href="https://www.th-koeln.de/studium/medieninformatik-bachelor_2379.php">Website des Medieninformatik Bachelor</a>
-- <a href="https://www.th-koeln.de/studium/medieninformatik-bachelor--ordnungen-und-formulare_3963.php">Ordnungen zum Medieninformatik Bachelor</a> (abgerufen am 23.02.2017)
+- <a href="https://www.th-koeln.de/studium/medieninformatik-bachelor--ordnungen-und-formulare_3963.php">Ordnungen zum Medieninformatik Bachelor</a>
 - <a href="../anhaenge/ba-abschlussarbeiten_2010-2014_.pdf">Themen der Abschlussabeiten des Medieninformatik Bachelor 2010 bis 2014</a>
 - <a href="../anhaenge/ba-studienverlaufsplan.pdf">Studienverlaufsplan Medieninformatik Bachelor</a>
-- <a href="../anhaenge/ba-modulhandbuch.pdf">Modulhandbuch Medieninformatik Bachelor: </a>
+- <a href="../anhaenge/medieninformatik-bachelor-modulhandbuch.pdf">Modulhandbuch Medieninformatik Bachelor</a>
 - <a href="../anhaenge/ba-Ziele-Module-Matrix-Medieninformatik-Bachelor.pdf">Ziele-Module-Matrix Medieninformatik Bachelor</a>
 - <a href="../anhaenge/ba-zeugnis.pdf">Beispielzeugnis und Diploma Supplement Medieninformatik Bachelor</a>
-- <a href="../anhaenge/stat-profil-studienanfaenger-2017">Profil der Studienanfänger</a>
+- <a href="../anhaenge/stat-profil-studienanfaenger-2017.pdf">Profil der Studienanfänger</a>
 
 
 ## Qualifikationsziele Medieninformatik Master
@@ -208,11 +208,11 @@ Absolventinnen und Absolventen des Masterstudiengangs Medieninformatik:
 - <a href="https://www.th-koeln.de/studium/medieninformatik-master_3729.php">Website des Medieninformatik Master</a>
 - <a href="https://www.th-koeln.de/studium/medieninformatik-master--ordnungen-und-formulare_3724.php">Ordnungen zum Medieninformatik Master</a>
 - <a href="../anhaenge/ma-studienverlaufsplaene.pdf">Studienverlaufsplan Medieninformatik Master</a>
-- <a href="../anhaenge/ma-modulhandbuch.pdf">Modulhandbuch Medieninformatik Master</a>
+- <a href="../anhaenge/medieninformatik-master-modulhandbuch.pdf">Modulhandbuch Medieninformatik Master</a>
 - <a href="../anhaenge/ma-MIMPO_Entwurf_20170218.pdf">Prüfungsordnung Medieninformatik Master(entwurf)</a>
 - <a href="../anhaenge/ma-Ziele-Module-Matrix-Medieninformatik-Master.pdf">Ziele-Module-Matrix Medieninformatik Master</a>
 - <a href="../anhaenge/ma-zeugnis.pdf">Beispielzeugnis und Diploma Supplement Medieninformatik Master</a>
 
 
-[^gi-empfehlungen]: Gesellschaft für Informatik e.V. (GI): <a href="https://www.gi.de/fileadmin/redaktion/empfehlungen/GI-Empfehlungen_Bachelor-Master-Informatik2016.pdf">Empfehlungen für Bachelor- und Masterprogramme im Studienfach Informatik an Hochschulen</a> (abgerufen am 17.02.2017) 
+[^gi-empfehlungen]: Gesellschaft für Informatik e.V. (GI): <a href="https://www.gi.de/fileadmin/redaktion/empfehlungen/GI-Empfehlungen_Bachelor-Master-Informatik2016.pdf">Empfehlungen für Bachelor- und Masterprogramme im Studienfach Informatik an Hochschulen</a>
 [^positionspapier-gi-mci-mi]: Martin Christof Kindsmüller, Christian Wolters, Andreas M. Heinecke: <a href="http://dl.mensch-und-computer.de/bitstream/handle/123456789/5131/Kindsm%C3%BCller_Wolters_Heinecke_2016.pdf">Medieninformatik 2016: Was war, was ist, was soll sein?</a>

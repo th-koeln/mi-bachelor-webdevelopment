@@ -28,7 +28,7 @@ Die Prüfungsordnungen regeln das Studium und die Prüfungen in den Studiengä
 - <a href="../anhaenge/ba-studienverlaufsplan.pdf">Studienverlaufsplan Medieninformatik Bachelor</a>
 - <a href="../anhaenge/medieninformatik-bachelor-modulhandbuch.pdf">Modulhandbuch Medieninformatik Bachelor</a>
 
-- <a href="../anhaenge/MIMPO_Entwurf_ohne_Anm_Sz20170218.pdf">Prüfungsordnung Medieninformatik Master (Entwurf)</a>
+- <a href="../anhaenge/ma-MIMPO_Entwurf_20170218.pdf">Prüfungsordnung Medieninformatik Master (Entwurf)</a>
 - <a href="../anhaenge/ma-studienverlaufsplaene.pdf">Studienverlaufsplan Medieninformatik Master</a>
 - <a href="../anhaenge/medieninformatik-master-modulhandbuch.pdf">Modulhandbuch Medieninformatik Master</a>
 

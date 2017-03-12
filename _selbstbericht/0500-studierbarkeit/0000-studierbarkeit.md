@@ -91,4 +91,4 @@ Darüber hinaus bietet die Medieninformatik einige Veranstaltungen (siehe außer
 
 [^int-office]: <a href="https://www.th-koeln.de/internationales/international-office_1986.php">Website International Office</a>
 [^pruefungsordnung-bachelor]: <a href="https://www.th-koeln.de/studium/medieninformatik-bachelor--ordnungen-und-formulare_3963.php">Prüfungsordnung Medieninformatik Bachelor</a>
-[^pruefungsordnung-master]: <a href="../anhaenge/MIMPO_Entwurf_20170218.pdf">Prüfungsordnung Medieninformatik Master (Entwurf)</a>
+[^pruefungsordnung-master]: <a href="../anhaenge/ma-MIMPO_Entwurf_20170218.pdf">Prüfungsordnung Medieninformatik Master (Entwurf)</a>
