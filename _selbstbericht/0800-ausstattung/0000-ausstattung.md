@@ -13,6 +13,8 @@ reviewed-von:
 Das Kompetenzteam Hochschuldidaktik der TH Köln bietet für alle Lehrenden hochschuldidaktische Fort- und Weiterbildungen in vielfältiger Form an. Um die Lern- und Lehrkultur stetig weiter zu entwickeln wurden eine Vielzahl von Programmen (z.B. ProfiL2, Exzellente Lehre, Come in-Commit, etc.) entwickelt, die fest in den Hochschulalltag integriert sind. Details zu den vielfältigen Aktivitäten und Ressourcen finden sich beschrieben unter: https://www.th-koeln.de/hochschule/lehr--und-lernkultur_6277.php.
 Das Weiterbildungsprogramm wurde von den Lehrenden vielfältig wahrgenommen, unter anderem:
 
+- Workshop "Problembasiert und projektorientiert lehren und lernen", (Netzwerk Hochschuldidaktische Weiterbildung, 2012)
+- Workshop "Lernportfolios als Semesterbericht und Prüfungsformat", (Netzwerk Hochschuldidaktische Weiterbildung, 2014)
 - 1/2-jähriger Workshop zum Fakultätsmultiplikator "Kompetenzorientierte Prüfungen entwickeln" (TH Köln 2014)
 - Workshop "Prüfen von Kompetenzen in projektorientierten Lehrveranstaltungen" (TH Köln 2014)
 - Workshop "CU in Projects - Inspirierendes Lehren und Lernen" (TH Köln, 2015)
