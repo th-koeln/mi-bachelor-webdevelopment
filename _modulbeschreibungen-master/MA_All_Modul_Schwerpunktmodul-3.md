@@ -16,7 +16,8 @@ published: true
 type: spmw
 ---
 
-##Kurzbeschreibung
+## Kurzbeschreibung
+Platzhalter - das konkrete Schwerpunktmodul 3 ist für die Studienschwerpunkte im Studienverlaufsplan der Master-Prüfungsordnung Medieninformatik aufgeführt.
 
 ## Lehrform/SWS:
 

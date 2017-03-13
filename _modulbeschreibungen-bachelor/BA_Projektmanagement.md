@@ -49,7 +49,7 @@ Der Vorlesungsteil des Moduls gliedert sich in folgende Kapitel:
 - Inhalte von PM-BOK (Project Management - Body of Knowledge)
 - Zusammenfassung und Prüfungsvorbereitung;
 
-Damit die Studierenden die vorgestellten Methoden und Techniken zum Management von Softwareprojekten anwenden, sowie besser analysieren und bewerten können, werden in Projekt-Teams die in der Vorlesung vermittelten Inhalte anhand eines Fallbeispiels eingesetzt. Dazu bilden die Teilnehmenden Teams zu jeweils 6 Studierenden. Im Praktikum werden folgende Bereiche vertieft:
+Damit die Studierenden die vorgestellten Methoden und Techniken zum Management von Softwareprojekten anwenden, sowie besser analysieren und bewerten können, werden in Projekt-Teams die in der Vorlesung vermittelten Inhalte anhand eines Fallbeispiels eingesetzt. Dazu bilden die Teilnehmenden Teams zu jeweils 6 Studierenden. Im Projekt werden folgende Bereiche vertieft:
 
 - Kosten- Nutzenrechnung, Entscheidungstechniken
 - Aufbauorganisation
@@ -58,14 +58,14 @@ Damit die Studierenden die vorgestellten Methoden und Techniken zum Management v
 - Ablauf- und Ressourcenplanung (Netzplantechnik, Einsatz von PM-Software wie z.B. MS-Project)
 
 ## Studien-/Prüfungsleistungen:
-* Praktikum-Ausarbeitung
-* Vortrag
-* Mündliche Prüfung.
+* Projekt-Ausarbeitung (30%)
+* Vortrag (30%)
+* Schriftliche Prüfung (40%).
 
 ## Medienformen:
 * Beamer-gestützte Vorlesungen (Folien in elektronischer Form im Netz);
 * Vertiefende Unterlagen sowie aktuelle Artikel (in elektronischer Form im Netz);
-* Praktika in Kleingruppen, um die erlernten Methoden und Techniken einzuüben und zu vertiefen (Seminarraum, Rechnerlabor);
+* Projektarbeit in Kleingruppen, um die erlernten Methoden und Techniken einzuüben und zu vertiefen (Seminarraum, Rechnerlabor);
 
 ## Literatur:
 - A. Buhl: Grundkurs Projektmanagement. Carl Hanser Verlag, München, 2004
