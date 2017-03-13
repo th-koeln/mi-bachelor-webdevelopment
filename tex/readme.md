@@ -20,3 +20,14 @@ Es bildet die Basis für alle Latex-Files (`default.tex`). Gäbe es ein `selbstb
 ```
 "/System/Library/Automator/Combine PDF Pages.action/Contents/Resources/join.py" -o medieninformatik-anhaenge-sonstige.pdf sonstige/*.pdf
 ```
+
+## Cover erzeugen
+
+`php hydeMDCoverCreator.php modulbeschreibungen-bachelor.tex title=Titel`
+
+Er sucht standardmäßig im `templates/coversheet`-Ordner nach dem Template.
+Wenn alles reibungslos ablief, sollte in `output/_coversheets` ein neuer Ordner mit dem Latex-Dokument liegen.
+
+Möchte man mehrere Ersetzungs-Parameter mitgeben, dann sollte das so aussehen:
+
+`...  "title=Title;date=2017-02-23" `

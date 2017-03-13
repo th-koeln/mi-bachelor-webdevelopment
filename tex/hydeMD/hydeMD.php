@@ -545,6 +545,7 @@ class Document {
       }, $attachment[ 'href' ] );
 
       $href = str_replace( '../anhaenge', 'https://th-koeln.github.io/mi-2017/anhaenge', $href );
+      $href = str_replace( '../download', 'https://th-koeln.github.io/mi-2017/download', $href );
 
       if( strpos( $href, $title ) !== False ) {
         //$attachmentsLatex[] = "\item{\\href{" . $href . "}{" . $href . "} } \n";
@@ -709,6 +710,7 @@ class Document {
 	
 	/* Links ins Repo */
 	$latexContent = preg_replace( '=href{\.\./anhaenge=', "href{https://th-koeln.github.io/mi-2017/anhaenge", $latexContent);
+	$latexContent = preg_replace( '=href{\.\./download=', "href{https://th-koeln.github.io/mi-2017/download", $latexContent);
 	
 	/* schönes Modulköpfe */
 	$latexContent = preg_replace_callback( '/\\\%begin-modulMeta\\\%(.*?)\\\%end-modulMeta\\\%/is', function( $matches ) {
