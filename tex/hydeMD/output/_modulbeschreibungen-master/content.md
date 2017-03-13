@@ -367,6 +367,11 @@ Präsentationsmaterialien, Arbeitsblätter
 %begin-modulMeta%**Modulverantwortlich**: alle Informatik Professoren%end-modulMeta%%begin-modulMeta%**Kürzel**: SPM1%end-modulMeta%%begin-modulMeta%**Studiensemester - Wintersemester**: 1%end-modulMeta%%begin-modulMeta%**Studiensemester - Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Wahlpflichtmodul%end-modulMeta%
 
 
+## Lehrform/SWS:
+
+Platzhalter - das konkrete Schwerpunktmodul 1 ist für die Studienschwerpunkte im Studienverlaufsplan der Master-Prüfungsordnung Medieninformatik aufgeführt.
+
+
 ## Arbeitsaufwand:
 
 180 Stunden
@@ -378,6 +383,11 @@ Präsentationsmaterialien, Arbeitsblätter
 
 
 %begin-modulMeta%**Modulverantwortlich**: alle Informatik Professoren%end-modulMeta%%begin-modulMeta%**Kürzel**: SPM2%end-modulMeta%%begin-modulMeta%**Studiensemester - Wintersemester**: 1%end-modulMeta%%begin-modulMeta%**Studiensemester - Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Wahlpflichtmodul%end-modulMeta%
+
+
+## Kurzbeschreibung
+
+Platzhalter - das konkrete Schwerpunktmodul 2 ist für die Studienschwerpunkte im Studienverlaufsplan der Master-Prüfungsordnung Medieninformatik aufgeführt.
 
 
 ## Arbeitsaufwand:
@@ -393,6 +403,11 @@ Präsentationsmaterialien, Arbeitsblätter
 %begin-modulMeta%**Modulverantwortlich**: alle Informatik Professoren%end-modulMeta%%begin-modulMeta%**Kürzel**: SPM3%end-modulMeta%%begin-modulMeta%**Studiensemester - Wintersemester**: 2%end-modulMeta%%begin-modulMeta%**Studiensemester - Sommersemester**: 1%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Wahlpflichtmodul%end-modulMeta%
 
 
+## Kurzbeschreibung
+
+Platzhalter - das konkrete Schwerpunktmodul 3 ist für die Studienschwerpunkte im Studienverlaufsplan der Master-Prüfungsordnung Medieninformatik aufgeführt.
+
+
 ## Arbeitsaufwand:
 
 180 Stunden
@@ -404,6 +419,11 @@ Präsentationsmaterialien, Arbeitsblätter
 
 
 %begin-modulMeta%**Modulverantwortlich**: alle Informatik Professoren%end-modulMeta%%begin-modulMeta%**Kürzel**: WPM%end-modulMeta%%begin-modulMeta%**Studiensemester - Wintersemester**: 3%end-modulMeta%%begin-modulMeta%**Studiensemester - Sommersemester**: 3%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
+
+
+## Kurzbeschreibung
+
+Platzhalter - Wählbar sind neben expliziten Wahlpflichtmodulen alle Module aus den Modulhandbüchern der Masterstudiengänge des Instituts für Informatik der Fakultät 10, die nicht Pflicht- oder Schwerpunktmodule des gewählten Studienschwerpunkts sind.
 
 
 ## Arbeitsaufwand:
@@ -419,6 +439,11 @@ Präsentationsmaterialien, Arbeitsblätter
 %begin-modulMeta%**Modulverantwortlich**: alle Informatik Professoren%end-modulMeta%%begin-modulMeta%**Kürzel**: WPM%end-modulMeta%%begin-modulMeta%**Studiensemester - Wintersemester**: 3%end-modulMeta%%begin-modulMeta%**Studiensemester - Sommersemester**: 3%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
 
 
+## Kurzbeschreibung
+
+Platzhalter - Wählbar sind neben expliziten Wahlpflichtmodulen alle Module aus den Modulhandbüchern der Masterstudiengänge des Instituts für Informatik der Fakultät 10, die nicht Pflicht- oder Schwerpunktmodule des gewählten Studienschwerpunkts sind.
+
+
 ## Arbeitsaufwand:
 
 180 Stunden
@@ -430,6 +455,11 @@ Präsentationsmaterialien, Arbeitsblätter
 
 
 %begin-modulMeta%**Modulverantwortlich**: alle Informatik Professoren%end-modulMeta%%begin-modulMeta%**Kürzel**: WPM%end-modulMeta%%begin-modulMeta%**Studiensemester - Wintersemester**: 3%end-modulMeta%%begin-modulMeta%**Studiensemester - Sommersemester**: 3%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
+
+
+## Kurzbeschreibung
+
+Platzhalter - Wählbar sind neben expliziten Wahlpflichtmodulen alle Module aus den Modulhandbüchern der Masterstudiengänge des Instituts für Informatik der Fakultät 10, die nicht Pflicht- oder Schwerpunktmodule des gewählten Studienschwerpunkts sind.
 
 
 ## Arbeitsaufwand:

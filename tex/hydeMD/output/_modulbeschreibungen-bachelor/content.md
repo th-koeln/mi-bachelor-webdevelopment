@@ -1446,7 +1446,7 @@ Der Vorlesungsteil des Moduls gliedert sich in folgende Kapitel:
 
 - Zusammenfassung und Prüfungsvorbereitung;
 
-Damit die Studierenden die vorgestellten Methoden und Techniken zum Management von Softwareprojekten anwenden, sowie besser analysieren und bewerten können, werden in Projekt-Teams die in der Vorlesung vermittelten Inhalte anhand eines Fallbeispiels eingesetzt. Dazu bilden die Teilnehmenden Teams zu jeweils 6 Studierenden. Im Praktikum werden folgende Bereiche vertieft:
+Damit die Studierenden die vorgestellten Methoden und Techniken zum Management von Softwareprojekten anwenden, sowie besser analysieren und bewerten können, werden in Projekt-Teams die in der Vorlesung vermittelten Inhalte anhand eines Fallbeispiels eingesetzt. Dazu bilden die Teilnehmenden Teams zu jeweils 6 Studierenden. Im Projekt werden folgende Bereiche vertieft:
 
 - Kosten- Nutzenrechnung, Entscheidungstechniken
 
@@ -1461,11 +1461,11 @@ Damit die Studierenden die vorgestellten Methoden und Techniken zum Management v
 
 ## Studien-/Prüfungsleistungen:
 
-* Praktikum-Ausarbeitung
+* Projekt-Ausarbeitung (30%)
 
-* Vortrag
+* Vortrag (30%)
 
-* Mündliche Prüfung.
+* Schriftliche Prüfung (40%).
 
 
 ## Medienformen:
@@ -1474,7 +1474,7 @@ Damit die Studierenden die vorgestellten Methoden und Techniken zum Management v
 
 * Vertiefende Unterlagen sowie aktuelle Artikel (in elektronischer Form im Netz);
 
-* Praktika in Kleingruppen, um die erlernten Methoden und Techniken einzuüben und zu vertiefen (Seminarraum, Rechnerlabor);
+* Projektarbeit in Kleingruppen, um die erlernten Methoden und Techniken einzuüben und zu vertiefen (Seminarraum, Rechnerlabor);
 
 
 ## Literatur:
