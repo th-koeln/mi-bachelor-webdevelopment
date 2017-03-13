@@ -36,7 +36,7 @@ Innerhalb der Fakultät 10 für Informatik und Ingenieurwissenschaften besteht n
 
 ### Kooperationen mit nationalen Hochschulen
 
-Seit mehreren Jahren besteht im Rahmen von Promotionsvorhaben eine einge Kooperation mit der Universität Paderborn, s-lab, Prof.Dr. Gregor Engels. Es werden regelmäßig Lehrveranstaltungen von promovierenden Mitarbeitern durchgeführt. Weitere Kooperationen insbesondere im Bereich der Qualitätssicherung bestehen mit der Hochschule Bremen, Prof. Dr. Andreas Spillner, und der Hochschule Bremerhaven, Prof. Dr. Karin Vosseberg. Im Bereich Forschendes und Projektbasiertes Lehren und Lernen besteht eine Kooperation mit der Univeresität Köln, Dr. Dirk Rohr.
+Seit mehreren Jahren besteht im Rahmen von Promotionsvorhaben eine einge Kooperation mit der Universität Paderborn, s-lab, Prof.Dr. Gregor Engels. Es werden regelmäßig Lehrveranstaltungen von promovierenden Mitarbeitern durchgeführt. Weitere Kooperationen insbesondere im Bereich der Qualitätssicherung bestehen mit der Hochschule Bremen, Prof. Dr. Andreas Spillner, und der Hochschule Bremerhaven, Prof. Dr. Karin Vosseberg. Im Bereich Forschendes und Projektbasiertes Lehren und Lernen besteht eine Kooperation mit der Humanwissenschaftlichen Fakultät der Universität Köln, Dr. Dirk Rohr.
 
 ### Kooperationen mit internationalen Hochschulen
 

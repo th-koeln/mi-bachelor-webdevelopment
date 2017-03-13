@@ -26,7 +26,8 @@ Daneben haben Lehrende und wissenschaftliche Mitarbeiter an wissenschaftlichen K
 - GI-Konferenz Software Engineering 2012 in Berlin, 2013 in Aachen und 1017 in Hannover (M. Winter mit paper)
 - 6th+7th International Workshop on Model-Based Verification and Validation (MVV 2016 und 2017, Wien und Prag, M. Winter program comittee)
 - World Usability Days: Sustainable User Experience (UX) 2016 in Köln (G. Hartmann Tagungsleitung)
-- Internationales WebDev-Projekt - Studentisches Web-Projekt in Kooperation mit europäischen Hochschulen (C. Noss Organisation)
+- Internationales WebDev-Projekt 2016 - Studentisches Web-Projekt in Kooperation mit europäischen Hochschulen (C. Noss Organisation)
+- Eurographics Conference on Rendering Techniques (EGSR) 2016 in Dublin (M. Eisemann best paper award)
 - NordiCHI '16 Workshop Designing e-Health Services for Patients & Relatives 2016 GothenburgSweden (C. Grünloh mit paper)
 - Medical Informatics Europe (MIE 2016), in conjunction with Health - Exploring Complexity: An Interdisciplinary Systems Approach (HEC 2016) 2016 in München (C. Grünloh mit paper)
 
