@@ -17,6 +17,7 @@ type: pm
 ---
 
 ## Kurzbeschreibung
+Platzhalter - Wählbar sind neben expliziten Wahlpflichtmodulen alle Module aus den Modulhandbüchern der Masterstudiengänge des Instituts für Informatik der Fakultät 10, die nicht Pflicht- oder Schwerpunktmodule des gewählten Studienschwerpunkts sind.
 
 ## Lehrform/SWS:
 
