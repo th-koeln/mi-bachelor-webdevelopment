@@ -1144,7 +1144,7 @@ Innerhalb der Fakultät 10 für Informatik und Ingenieurwissenschaften besteht n
 
 ### Kooperationen mit nationalen Hochschulen
 
-Seit mehreren Jahren besteht im Rahmen von Promotionsvorhaben eine einge Kooperation mit der Universität Paderborn, s-lab, Prof.Dr. Gregor Engels. Es werden regelmäßig Lehrveranstaltungen von promovierenden Mitarbeitern durchgeführt. Weitere Kooperationen insbesondere im Bereich der Qualitätssicherung bestehen mit der Hochschule Bremen, Prof. Dr. Andreas Spillner, und der Hochschule Bremerhaven, Prof. Dr. Karin Vosseberg. Im Bereich Forschendes und Projektbasiertes Lehren und Lernen besteht eine Kooperation mit der Univeresität Köln, Dr. Dirk Rohr.
+Seit mehreren Jahren besteht im Rahmen von Promotionsvorhaben eine einge Kooperation mit der Universität Paderborn, s-lab, Prof.Dr. Gregor Engels. Es werden regelmäßig Lehrveranstaltungen von promovierenden Mitarbeitern durchgeführt. Weitere Kooperationen insbesondere im Bereich der Qualitätssicherung bestehen mit der Hochschule Bremen, Prof. Dr. Andreas Spillner, und der Hochschule Bremerhaven, Prof. Dr. Karin Vosseberg. Im Bereich Forschendes und Projektbasiertes Lehren und Lernen besteht eine Kooperation mit der Humanwissenschaftlichen Fakultät der Universität Köln, Dr. Dirk Rohr.
 
 ### Kooperationen mit internationalen Hochschulen
 
@@ -1244,7 +1244,8 @@ Daneben haben Lehrende und wissenschaftliche Mitarbeiter an wissenschaftlichen K
 - GI-Konferenz Software Engineering 2012 in Berlin, 2013 in Aachen und 1017 in Hannover (M. Winter mit paper)
 - 6th+7th International Workshop on Model-Based Verification and Validation (MVV 2016 und 2017, Wien und Prag, M. Winter program comittee)
 - World Usability Days: Sustainable User Experience (UX) 2016 in Köln (G. Hartmann Tagungsleitung)
-- Internationales WebDev-Projekt - Studentisches Web-Projekt in Kooperation mit europäischen Hochschulen (C. Noss Organisation)
+- Internationales WebDev-Projekt 2016 - Studentisches Web-Projekt in Kooperation mit europäischen Hochschulen (C. Noss Organisation)
+- Eurographics Conference on Rendering Techniques (EGSR) 2016 in Dublin (M. Eisemann best paper award)
 - NordiCHI '16 Workshop Designing e-Health Services for Patients & Relatives 2016 GothenburgSweden (C. Grünloh mit paper)
 - Medical Informatics Europe (MIE 2016), in conjunction with Health - Exploring Complexity: An Interdisciplinary Systems Approach (HEC 2016) 2016 in München (C. Grünloh mit paper)
 
