@@ -9,7 +9,7 @@ studiensemester-ss: 3
 kategorie: null
 sprache: wahlweise deutsch oder englisch
 zuordnung-zum-curriculum: Medieninformatik Master
-kreditpunkte: 5
+kreditpunkte: 6
 voraussetzungen-nach-pruefungsordnung: null
 empfohlene-voraussetzungen: Web-basierte Anwendungen 1 (aus dem Bachelor) bzw. Kenntnisse in HTML und Javascript
 published: true
