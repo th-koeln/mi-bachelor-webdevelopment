@@ -1148,58 +1148,67 @@ Seit mehreren Jahren besteht im Rahmen von Promotionsvorhaben eine einge Koopera
 
 ### Kooperationen mit internationalen Hochschulen
 
-Erste Kooperationsprojekte mit ausländischen Hochschulen datieren auf den Beginn der 80-iger Jahre. Damals wurde eine Kooperation (Erasmus-Kontrakt) mit der École Centrale de Lille abgeschlossen. Diese Kooperation existiert noch heute und regelt den Austausch auf Sokrates- und ERASMUS-Ebene von Professoren und insbesondere Studierenden.
-
-Unter den gleichen formalen Bedingungen existiert seit vielen Jahren eine Kooperation mit der Université Blaise Pascal in Clermont-Ferrand und der École pour l’Informatique et les Techniques Avancées à Paris (ÉPITA). Mit ÉPITA findet ein regelmäßiger Studierenden und Dozentenaustausch statt. 
-
+Erste Kooperationsprojekte mit ausländischen Hochschulen datieren auf den Beginn der 80-iger Jahre. Damals wurde eine Kooperation (Erasmus-Kontrakt) mit der École Centrale de Lille abgeschlossen. 
+Unter den gleichen formalen Bedingungen existiert seit einigen Jahren eine Kooperation mit Institut National Polytechnique de Grenoble und der École de l'expertise informatique (EPITECH) mit denen ein regelmäßiger Studierenden und Dozentenaustausch stattfindet. 
 
 Seit 1994 existiert die Partnerschaft mit der staatlichen Universität für das Verkehrswesen in Moskau (Moskowskij Gosudarstwennyi Universitet Putej Soobschtschenija – kurz MIIT). Bisher wurden über 20 russische Studierende und Doktoranden i.d.R. in 1-jährigen Studien-, Praxis- und Forschungsaufenthalte durch die Fakultät betreut. Umgekehrt sind bisher ca. 10 deutsche Studierende und wissenschaftliche Mitarbeiter an die russische Partnerhochschule zwecks Durchführung von Studien- und Forschungsprojekten bzw. Kurzzeitdozenturen gegangen.
 
-Als Partner der Fakultät für Wirtschaftswissenschaften (Fakultät 04) der TH Köln hat das Institut für Informatik entscheidend am Aufbau eines Studiengangs für Wirtschaftsinformatik an der Staatlichen Akademie für das Bauwesen in Nishnij Novgorod, Russland mitgewirkt. Hieraus resultieren mehrere Austauschprojekte auf Studierenden- und Hochschullehrerebene.
+Als Partner der Fakultät für Wirtschaftswissenschaften (Fakultät 04) der TH Köln hat das Institut für Informatik entscheidend am Aufbau eines Studiengangs für Wirtschaftsinformatik an der Staatlichen Akademie für das Bauwesen in Nishnij Novgorod, Russland mitgewirkt. Hieraus resultierten mehrere Austauschprojekte auf Studierenden- und Hochschullehrerebene.
 
 2003 wurde ein Partnerschaftsabkommen mit der Ho Tschi Minh Universität in Saigon, Vietnam geschlossen. Ein regelmäßiger Austausch von Professoren findet statt.
-
 
 Seit Mitte der 90-iger Jahre existiert eine formelle Partnerschaft mit der University of Clemson in South Carolina, USA. Hier werden regelmäßig Studierende nach USA zwecks Anfertigung von Abschlussarbeiten entsandt. Angestrebt werden ferner Kooperationen mit
 der University of Maryland und der University of Austin, Texas.
 
-In 2002 wurde ein Partnerschaftsabkommen mit der University of Western Sydney, Australien auf den Informatik-Bereich ausgedehnt.
 Die Universidad de Burgos (Spanien) ist seit Ende 2008 Partnerhochschule des Instituts für Informatik der TH Köln. Ziel der Partnerschaft ist einerseits ein regelmäßiger Studierenden und Dozentenaustausch; so fand in der Zeit vom 6. Juli bis zum 19. Juli in Burgos eine
 “Summer School” mit 42 deutschen und spanischen Studierenden zum Thema “WEB & Information Management in a Modern World” statt, der von der TH Köln seitens Prof. Dr. Heide Faeskorn-Woyke, Prof. Dr. Stefan Karsch und Prof. Dr. Hans Ludwig Stahl sowie von der Hochschule Burgos seitens Prof. Dr. Ana Maria Lara Palma und Prof. Dr. Emilio Corchado organisiert und geleitet wurde. Andererseits dient die Partnerschaft der Durchführung kooperativer Promotionsvorhaben; Ende 2009 wurden die Promotionsvorhaben zweier wissenschaftlicher Mitarbeiter des Instituts für Informatik offiziell gestartet.
 
-Mit der UEM (Universidad Europea de Madrid) wird das ERASMUS-Abkommen genutzt, um Studierenden ein Studiensemester in Madrid und umgekehrt auch in Gummersbach anzubieten. Neben einer studentischen Gruppe, die 2005 mit 12 Personen eine Woche die UEM besuchte, waren 2006 zwei spanische Studenten in Gummersbach und ein Student ist zurzeit in Madrid, eine andere war 2005 dort, jeweils für ein Semester.
+Mit der UEM (Universidad Europea de Madrid) wird das ERASMUS-Abkommen genutzt, um Studierenden ein Studiensemester in Madrid und umgekehrt auch in Gummersbach anzubieten. Diverse studentische Gruppen haben seitdem an dem Austausch teilgenommen zwischen den beiden Standorten.
 
 Derzeit läuft ein internationales Web-Development Projekt mit Studierenden der Medieninformatik und Studierenden der Université Paris 13, Technological Educational Institute of Athens, Universidade de Coimbra und Technical University of Sofia.
 
-Weitere Hochschulen, mit denen Erasmuskontrakte existieren bzw. Studierende in beiden Richtungen ausgetauscht wurden, sind:
+Im folgenden findet sich eine komplette Liste mit aktuellen internationalen Kooperationen mit anderen Hochschulen:
 
-- Oyonnax, Frankreich, Ecole Supérieure de Plasturgie - F OYONNAX
-- Gdansk, Polen, Politechnika Gdanska - PL GDANSK02
-- Krosno, Polen, Państwowa Wyższa Szkoła Zawodowa w Krośnie - PL KROSNO01
-- Luzern, Schweiz, Horw - Fachhochschule Zentralschweiz Hochschule für Technik und Architektur Luzern (HTA) - CH HORW02
-- Alcalá de Henares, Spanien - Universidad de Alcalá - E ALCAL-H01
-- Istanbul, Türkai, Istanbul Teknik Üniversitesi - TR ISTANBU04
-- Istanbul, Türkei - Istanbul Universitesi - TR ISTANBU03
-- Tampere, Finnland, Tampereen Yliopisto - SF TAMPERE01
-- Graz, Österreich, CAMPUS 02 Fachhochschule der Wirtschaft - A GRAZ10
-- Wels, Österreich, Fachhochschule Oberösterreich - A WELS01
-- Wien, Österreich, Fachhochschule Technikum Wien - A WIEN20
-- Iași, Rumänien, Universitatea 'Alexandru Ioan Cuza' - RO IASI02
-- Cluj-Napoca, Rumänien, Universitatea 'Babes-Bolyai' din Cluj-Napoca - RO CLUJNAP01
-- Delémont, Schweiz, HES-SO Haute École Spécialisée de Suisse Occidentale - CH DELEMON02
-- Luzern, Schweiz, Hochschule Luzern - CH LUZERN14
-- Tessin, Schweiz, Scuola universitaria professionale della Svizzera italiana (SUPSI) - CH LUGANO02
-- Burgos, Spanien, Universidad de Burgos - E BURGOS01
-- Madrid, Spanien, Universidad Europea de Madrid - E MADRID18
-- Huelva, Spanien, Universidad de Huelva - E HUELVA01
-- Valencia, Spanien, Universidad de Valencia - E VALENCI01
-
-Weitere Hochschulen mit denen Kooperationen bestehen sind:
-
-- Kobe, Japan, Kobe Institut
-- Leiden, Niederlande, Universiteit Leiden
-- Amman, Jordanien, GJU (German Jordanian University)
-- Monterey, Mexiko, Tec de Monterrey
+- Bangladesch,	Rajshahi University		
+- Belgien, 	Odisee vzw
+- Bulgarien,	VARNENSKI SVOBODEN UNIVERSITET "CHERNORIZETS HRABAR"
+- Bulgarien, Technical University of Sofia
+- Frankreich,	INSTITUT NATIONAL POLYTECHNIQUE DE GRENOBLE		
+- Frankreich,	EPITECH- L'ECOLE DE L'EXPERTISE INFORMATIQUE
+- Frankreich, Université Paris 13
+- Griechenland,	PANEPISTIMIO IOANNINON
+- Griechenland, Technological Educational Institute of Athens
+- Japan,	Kobe Institut		
+- Jordanien,	German-Jordanian University		
+- Kroatien,	SVEUČILIŠTE U SPLITU
+- Litauen,	Siaures Lietuvos Kolegija
+- Mexiko,	Instituto Politécnico Nacional (IPN)		
+- Mexiko,	Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM)		
+- Niederlande,	Fontys Hogescholen
+- Niederlande,	UNIVERSITEIT LEIDEN		
+- Norwegen,	Westerdals Hogskole - Oslo School of Arts, Communication and Technology AS
+- Österreich,	CAMPUS 02 Fachhochschule der Wirtschaft
+- Österreich,	Fachhochschule Oberösterreich
+- Polen,	Higher Vocational School in Krosno
+- Portugal, Universidade de Coimbra
+- Rumänien,	UNIVERSITATEA DIN CRAIOVA
+- Russische Föderation,	Moskauer Staatliche Universität für Verkehrswesen		
+- Schweden,	Kungliga Tekniska högskolan (KTH)
+- Schweiz,	"HES-SO Haute École Spécialisée de Suisse Occidentale Haute école de gestion de Genève"
+- Serbien,	University of Novi Sad		
+- Spanien,	Universidad de Burgos
+- Spanien	Universidad de León
+- Spanien	Universidad Europea de Madrid
+- Spanien	UNIVERSITAT DE VALENCIA (ESTUDI GENERAL) UVEG
+- Südkorea,	Chonbuk National University		
+- Südkorea,	University of Seoul		
+- Südkorea,	Hanyang University		
+- Türkei,	ISTANBUL ÜNIVERSITESI	
+- Türkei,	Istanbul Teknik Üniversitesi	
+- Türkei,	Marmara Üniversitesi
+- Türkei,	Isik Üniversitesi
+- Türkei,	MALTEPE ÜNIVERSITESI
+- Vietnam, Ho Tschi Minh Universität
 
 Insgesamt absolvieren durchschnittlich 10 Studenten Praktika (Praxissemester) im Ausland, durch Erasmus–Programme werden ca. 20 Studenten jährlich unterstützt, die entweder nach Gummersbach kommen oder ein Semester im Ausland verbringen. Mit den oben angegebenen Hochschulen bestehen Erasmus-Kontakte und andere Partnerschaftsabkommen, um dem Austausch einen formalen Rahmen zu geben.
 
@@ -1233,19 +1242,33 @@ Das Weiterbildungsprogramm wurde von den Lehrenden vielfältig wahrgenommen, unt
 
 - Workshop "Problembasiert und projektorientiert lehren und lernen", (Netzwerk Hochschuldidaktische Weiterbildung, 2012)
 - Workshop "Lernportfolios als Semesterbericht und Prüfungsformat", (Netzwerk Hochschuldidaktische Weiterbildung, 2014)
+- Workshop "Lehrstörung meets Improtheater - mit Impro und Humor neue Perspektive und Lösungen für schwierige Lernsituationen entdecken" (Netzwerk Hochschuldidaktische Weiterbildung, 2015)
+- Workshop "Lehren - Lernen - Prüfen" (Netzwerk Hochschuldidaktische Weiterbildung, 2015)
 - 1/2-jähriger Workshop zum Fakultätsmultiplikator "Kompetenzorientierte Prüfungen entwickeln" (TH Köln 2014)
 - Workshop "Prüfen von Kompetenzen in projektorientierten Lehrveranstaltungen" (TH Köln 2014)
 - Workshop "CU in Projects - Inspirierendes Lehren und Lernen" (TH Köln, 2015)
 - Workshop "Forschendes Lernen und Prüfen" (TH Köln 2016)
+- Workshop "Flipped Classroom in Theorie und Praxis" (TH Köln, 2015)
+- Workshop "Lehrportfolio Werkstatt" (TH Köln, 2015)
+- Workshop "Visual Basics" (TH Köln, 2016)
+- Workshop "Sichtbar" (TH Köln, 2016)
+
 
 Daneben haben Lehrende und wissenschaftliche Mitarbeiter an wissenschaftlichen Konferenzen teilgenommen. Unter anderem:
 
 - International ACM Web Science Conference '15 in Oxford (K. Fischer mit paper)
-- GI-Konferenz Software Engineering 2012 in Berlin, 2013 in Aachen und 1017 in Hannover (M. Winter mit paper)
+- GI-Konferenz Software Engineering 2012 in Berlin, 2013 in Aachen und 2017 in Hannover (M. Winter mit paper)
 - 6th+7th International Workshop on Model-Based Verification and Validation (MVV 2016 und 2017, Wien und Prag, M. Winter program comittee)
 - World Usability Days: Sustainable User Experience (UX) 2016 in Köln (G. Hartmann Tagungsleitung)
 - Internationales WebDev-Projekt 2016 - Studentisches Web-Projekt in Kooperation mit europäischen Hochschulen (C. Noss Organisation)
 - Eurographics Conference on Rendering Techniques (EGSR) 2016 in Dublin (M. Eisemann best paper award)
+- Eurographics 2015 in Zürich (M. Eisemann mit paper)
+- Eurographics 2016 in Lissabon (M. Eisemann mit paper)
+- HiGraphics Workshop 2016 und 2017 (M. Eisemann)
+- Siggraph 2015 (M. Eisemann mit paper)
+- Vision, Modeling, and Visualization Conference 2016 (M. Eisemann best paper award)
+- FabCon 3.D und Rapid.Tech 2016 (M. Eisemann)
+- Mensch und Computer Konferenz 2016 (C. Noss und M. Eisemann)
 - NordiCHI '16 Workshop Designing e-Health Services for Patients & Relatives 2016 GothenburgSweden (C. Grünloh mit paper)
 - Medical Informatics Europe (MIE 2016), in conjunction with Health - Exploring Complexity: An Interdisciplinary Systems Approach (HEC 2016) 2016 in München (C. Grünloh mit paper)
 
@@ -1264,6 +1287,8 @@ Daneben haben Lehrende und wissenschaftliche Mitarbeiter an wissenschaftlichen K
 * 9 x Lichtset im Koffer, mit jeweils 3 x 750 W ARRI Scheinwerfer
 * Diverses Zubehör für Licht, Ton und Video wie Lichtstative, Fieldmonitore, Speichermedien
 * Verschiedene Smartphones und Tablets: Nexus 5, Nexus 9 und iPad Pro 13’’ 
+* 1 Oculus Rift VR Virtual Reality Head-mounted Display
+* 1 HTC Vive Virtual Reality Head-mounted Display
 
 ### Nachbearbeitung
 
