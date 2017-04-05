@@ -9,7 +9,7 @@ studiensemester-ss: 2
 kategorie: null
 sprache: wahlweise deutsch oder englisch
 zuordnung-zum-curriculum: Medieninformatik Master
-kreditpunkte: 5
+kreditpunkte: 6
 voraussetzungen-nach-pruefungsordnung: null
 empfohlene-voraussetzungen: Computergrafik und Animation
 published: true

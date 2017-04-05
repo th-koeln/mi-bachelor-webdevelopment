@@ -2,13 +2,8 @@
 title: Studiengangsbezogene Kooperationen
 aktueller-bearbeiter: 
 bearbeiterhistorie: Martin Eisemann, Kristian Fischer
-date: 23.02.2017
-comment: "Größtenteils aus Selbstbericht von 2009 übernommen Kapitel 4.2 bzw. Reakkreditierung AI/TI/WI 2012. Es fehlt noch: Beendete und seit 2009 begonnene Promotionen fehlen, neue Kooperationen seit 2009/2012 fehlen, nicht mehr existierende Kooperationen seit 2009 müssen markiert werden.
-
-KF: habe mir die Freiheit genommen ein paar arg folkloristische Statements zu löschen. Es müsste aber nochmals vielleicht mi der Internationalisierungsbeauftragten Heide durchgegangen werden was es neu gibt.
-Habe einen Text über MI spezifische Veranstaltungen hinzugefügt"
-
-status: "Initiale Version, Zahlen sind alle noch von 2009 bzw. 2012, International Office per Mail kontaktiert aber noch keine Rückmeldung (telefonisch nicht zu erreichen)"
+date: 16.03.2017
+comment: Beendete und seit 2009 begonnene Promotionen fehlen.
 reviewed-von:
 ---
 
@@ -40,58 +35,67 @@ Seit mehreren Jahren besteht im Rahmen von Promotionsvorhaben eine einge Koopera
 
 ### Kooperationen mit internationalen Hochschulen
 
-Erste Kooperationsprojekte mit ausländischen Hochschulen datieren auf den Beginn der 80-iger Jahre. Damals wurde eine Kooperation (Erasmus-Kontrakt) mit der École Centrale de Lille abgeschlossen. Diese Kooperation existiert noch heute und regelt den Austausch auf Sokrates- und ERASMUS-Ebene von Professoren und insbesondere Studierenden.
-
-Unter den gleichen formalen Bedingungen existiert seit vielen Jahren eine Kooperation mit der Université Blaise Pascal in Clermont-Ferrand und der École pour l’Informatique et les Techniques Avancées à Paris (ÉPITA). Mit ÉPITA findet ein regelmäßiger Studierenden und Dozentenaustausch statt. 
-
+Erste Kooperationsprojekte mit ausländischen Hochschulen datieren auf den Beginn der 80-iger Jahre. Damals wurde eine Kooperation (Erasmus-Kontrakt) mit der École Centrale de Lille abgeschlossen. 
+Unter den gleichen formalen Bedingungen existiert seit einigen Jahren eine Kooperation mit Institut National Polytechnique de Grenoble und der École de l'expertise informatique (EPITECH) mit denen ein regelmäßiger Studierenden und Dozentenaustausch stattfindet. 
 
 Seit 1994 existiert die Partnerschaft mit der staatlichen Universität für das Verkehrswesen in Moskau (Moskowskij Gosudarstwennyi Universitet Putej Soobschtschenija – kurz MIIT). Bisher wurden über 20 russische Studierende und Doktoranden i.d.R. in 1-jährigen Studien-, Praxis- und Forschungsaufenthalte durch die Fakultät betreut. Umgekehrt sind bisher ca. 10 deutsche Studierende und wissenschaftliche Mitarbeiter an die russische Partnerhochschule zwecks Durchführung von Studien- und Forschungsprojekten bzw. Kurzzeitdozenturen gegangen.
 
-Als Partner der Fakultät für Wirtschaftswissenschaften (Fakultät 04) der TH Köln hat das Institut für Informatik entscheidend am Aufbau eines Studiengangs für Wirtschaftsinformatik an der Staatlichen Akademie für das Bauwesen in Nishnij Novgorod, Russland mitgewirkt. Hieraus resultieren mehrere Austauschprojekte auf Studierenden- und Hochschullehrerebene.
+Als Partner der Fakultät für Wirtschaftswissenschaften (Fakultät 04) der TH Köln hat das Institut für Informatik entscheidend am Aufbau eines Studiengangs für Wirtschaftsinformatik an der Staatlichen Akademie für das Bauwesen in Nishnij Novgorod, Russland mitgewirkt. Hieraus resultierten mehrere Austauschprojekte auf Studierenden- und Hochschullehrerebene.
 
 2003 wurde ein Partnerschaftsabkommen mit der Ho Tschi Minh Universität in Saigon, Vietnam geschlossen. Ein regelmäßiger Austausch von Professoren findet statt.
-
 
 Seit Mitte der 90-iger Jahre existiert eine formelle Partnerschaft mit der University of Clemson in South Carolina, USA. Hier werden regelmäßig Studierende nach USA zwecks Anfertigung von Abschlussarbeiten entsandt. Angestrebt werden ferner Kooperationen mit
 der University of Maryland und der University of Austin, Texas.
 
-In 2002 wurde ein Partnerschaftsabkommen mit der University of Western Sydney, Australien auf den Informatik-Bereich ausgedehnt.
 Die Universidad de Burgos (Spanien) ist seit Ende 2008 Partnerhochschule des Instituts für Informatik der TH Köln. Ziel der Partnerschaft ist einerseits ein regelmäßiger Studierenden und Dozentenaustausch; so fand in der Zeit vom 6. Juli bis zum 19. Juli in Burgos eine
 “Summer School” mit 42 deutschen und spanischen Studierenden zum Thema “WEB & Information Management in a Modern World” statt, der von der TH Köln seitens Prof. Dr. Heide Faeskorn-Woyke, Prof. Dr. Stefan Karsch und Prof. Dr. Hans Ludwig Stahl sowie von der Hochschule Burgos seitens Prof. Dr. Ana Maria Lara Palma und Prof. Dr. Emilio Corchado organisiert und geleitet wurde. Andererseits dient die Partnerschaft der Durchführung kooperativer Promotionsvorhaben; Ende 2009 wurden die Promotionsvorhaben zweier wissenschaftlicher Mitarbeiter des Instituts für Informatik offiziell gestartet.
 
-Mit der UEM (Universidad Europea de Madrid) wird das ERASMUS-Abkommen genutzt, um Studierenden ein Studiensemester in Madrid und umgekehrt auch in Gummersbach anzubieten. Neben einer studentischen Gruppe, die 2005 mit 12 Personen eine Woche die UEM besuchte, waren 2006 zwei spanische Studenten in Gummersbach und ein Student ist zurzeit in Madrid, eine andere war 2005 dort, jeweils für ein Semester.
+Mit der UEM (Universidad Europea de Madrid) wird das ERASMUS-Abkommen genutzt, um Studierenden ein Studiensemester in Madrid und umgekehrt auch in Gummersbach anzubieten. Diverse studentische Gruppen haben seitdem an dem Austausch teilgenommen zwischen den beiden Standorten.
 
 Derzeit läuft ein internationales Web-Development Projekt mit Studierenden der Medieninformatik und Studierenden der Université Paris 13, Technological Educational Institute of Athens, Universidade de Coimbra und Technical University of Sofia.
 
-Weitere Hochschulen, mit denen Erasmuskontrakte existieren bzw. Studierende in beiden Richtungen ausgetauscht wurden, sind:
+Im folgenden findet sich eine komplette Liste mit aktuellen internationalen Kooperationen mit anderen Hochschulen:
 
-- Oyonnax, Frankreich, Ecole Supérieure de Plasturgie - F OYONNAX
-- Gdansk, Polen, Politechnika Gdanska - PL GDANSK02
-- Krosno, Polen, Państwowa Wyższa Szkoła Zawodowa w Krośnie - PL KROSNO01
-- Luzern, Schweiz, Horw - Fachhochschule Zentralschweiz Hochschule für Technik und Architektur Luzern (HTA) - CH HORW02
-- Alcalá de Henares, Spanien - Universidad de Alcalá - E ALCAL-H01
-- Istanbul, Türkai, Istanbul Teknik Üniversitesi - TR ISTANBU04
-- Istanbul, Türkei - Istanbul Universitesi - TR ISTANBU03
-- Tampere, Finnland, Tampereen Yliopisto - SF TAMPERE01
-- Graz, Österreich, CAMPUS 02 Fachhochschule der Wirtschaft - A GRAZ10
-- Wels, Österreich, Fachhochschule Oberösterreich - A WELS01
-- Wien, Österreich, Fachhochschule Technikum Wien - A WIEN20
-- Iași, Rumänien, Universitatea 'Alexandru Ioan Cuza' - RO IASI02
-- Cluj-Napoca, Rumänien, Universitatea 'Babes-Bolyai' din Cluj-Napoca - RO CLUJNAP01
-- Delémont, Schweiz, HES-SO Haute École Spécialisée de Suisse Occidentale - CH DELEMON02
-- Luzern, Schweiz, Hochschule Luzern - CH LUZERN14
-- Tessin, Schweiz, Scuola universitaria professionale della Svizzera italiana (SUPSI) - CH LUGANO02
-- Burgos, Spanien, Universidad de Burgos - E BURGOS01
-- Madrid, Spanien, Universidad Europea de Madrid - E MADRID18
-- Huelva, Spanien, Universidad de Huelva - E HUELVA01
-- Valencia, Spanien, Universidad de Valencia - E VALENCI01
-
-Weitere Hochschulen mit denen Kooperationen bestehen sind:
-
-- Kobe, Japan, Kobe Institut
-- Leiden, Niederlande, Universiteit Leiden
-- Amman, Jordanien, GJU (German Jordanian University)
-- Monterey, Mexiko, Tec de Monterrey
+- Bangladesch,	Rajshahi University		
+- Belgien, 	Odisee vzw
+- Bulgarien,	VARNENSKI SVOBODEN UNIVERSITET "CHERNORIZETS HRABAR"
+- Bulgarien, Technical University of Sofia
+- Frankreich,	INSTITUT NATIONAL POLYTECHNIQUE DE GRENOBLE		
+- Frankreich,	EPITECH- L'ECOLE DE L'EXPERTISE INFORMATIQUE
+- Frankreich, Université Paris 13
+- Griechenland,	PANEPISTIMIO IOANNINON
+- Griechenland, Technological Educational Institute of Athens
+- Japan,	Kobe Institut		
+- Jordanien,	German-Jordanian University		
+- Kroatien,	SVEUČILIŠTE U SPLITU
+- Litauen,	Siaures Lietuvos Kolegija
+- Mexiko,	Instituto Politécnico Nacional (IPN)		
+- Mexiko,	Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM)		
+- Niederlande,	Fontys Hogescholen
+- Niederlande,	UNIVERSITEIT LEIDEN		
+- Norwegen,	Westerdals Hogskole - Oslo School of Arts, Communication and Technology AS
+- Österreich,	CAMPUS 02 Fachhochschule der Wirtschaft
+- Österreich,	Fachhochschule Oberösterreich
+- Polen,	Higher Vocational School in Krosno
+- Portugal, Universidade de Coimbra
+- Rumänien,	UNIVERSITATEA DIN CRAIOVA
+- Russische Föderation,	Moskauer Staatliche Universität für Verkehrswesen		
+- Schweden,	Kungliga Tekniska högskolan (KTH)
+- Schweiz,	"HES-SO Haute École Spécialisée de Suisse Occidentale Haute école de gestion de Genève"
+- Serbien,	University of Novi Sad		
+- Spanien,	Universidad de Burgos
+- Spanien	Universidad de León
+- Spanien	Universidad Europea de Madrid
+- Spanien	UNIVERSITAT DE VALENCIA (ESTUDI GENERAL) UVEG
+- Südkorea,	Chonbuk National University		
+- Südkorea,	University of Seoul		
+- Südkorea,	Hanyang University		
+- Türkei,	ISTANBUL ÜNIVERSITESI	
+- Türkei,	Istanbul Teknik Üniversitesi	
+- Türkei,	Marmara Üniversitesi
+- Türkei,	Isik Üniversitesi
+- Türkei,	MALTEPE ÜNIVERSITESI
+- Vietnam, Ho Tschi Minh Universität
 
 Insgesamt absolvieren durchschnittlich 10 Studenten Praktika (Praxissemester) im Ausland, durch Erasmus–Programme werden ca. 20 Studenten jährlich unterstützt, die entweder nach Gummersbach kommen oder ein Semester im Ausland verbringen. Mit den oben angegebenen Hochschulen bestehen Erasmus-Kontakte und andere Partnerschaftsabkommen, um dem Austausch einen formalen Rahmen zu geben.
 

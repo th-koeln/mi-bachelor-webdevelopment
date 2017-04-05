@@ -3,7 +3,7 @@ title: Personal & Ausstattung
 aktueller-bearbeiter:
 bearbeiterhistorie: Christian Noss
 date: 18.02.2017
-comment: Gerhard hat die eye-tracking facilities eingefügt, Gerhards Forschungsthemen eingetragen, Hans hat die Geräteausstattung etwas zusammengefasst; Kristian THema Konferenzteilnahmen eingefügt; Mario Weiterbildung und Konferenzen ergänzt.
+comment: Gerhard hat die eye-tracking facilities eingefügt, Gerhards Forschungsthemen eingetragen, Hans hat die Geräteausstattung etwas zusammengefasst; Kristian THema Konferenzteilnahmen eingefügt; Mario und Martin Weiterbildung und Konferenzen ergänzt.
 status: unvollständig
 reviewed-von:
 ---
@@ -15,19 +15,33 @@ Das Weiterbildungsprogramm wurde von den Lehrenden vielfältig wahrgenommen, unt
 
 - Workshop "Problembasiert und projektorientiert lehren und lernen", (Netzwerk Hochschuldidaktische Weiterbildung, 2012)
 - Workshop "Lernportfolios als Semesterbericht und Prüfungsformat", (Netzwerk Hochschuldidaktische Weiterbildung, 2014)
+- Workshop "Lehrstörung meets Improtheater - mit Impro und Humor neue Perspektive und Lösungen für schwierige Lernsituationen entdecken" (Netzwerk Hochschuldidaktische Weiterbildung, 2015)
+- Workshop "Lehren - Lernen - Prüfen" (Netzwerk Hochschuldidaktische Weiterbildung, 2015)
 - 1/2-jähriger Workshop zum Fakultätsmultiplikator "Kompetenzorientierte Prüfungen entwickeln" (TH Köln 2014)
 - Workshop "Prüfen von Kompetenzen in projektorientierten Lehrveranstaltungen" (TH Köln 2014)
 - Workshop "CU in Projects - Inspirierendes Lehren und Lernen" (TH Köln, 2015)
 - Workshop "Forschendes Lernen und Prüfen" (TH Köln 2016)
+- Workshop "Flipped Classroom in Theorie und Praxis" (TH Köln, 2015)
+- Workshop "Lehrportfolio Werkstatt" (TH Köln, 2015)
+- Workshop "Visual Basics" (TH Köln, 2016)
+- Workshop "Sichtbar" (TH Köln, 2016)
+
 
 Daneben haben Lehrende und wissenschaftliche Mitarbeiter an wissenschaftlichen Konferenzen teilgenommen. Unter anderem:
 
 - International ACM Web Science Conference '15 in Oxford (K. Fischer mit paper)
-- GI-Konferenz Software Engineering 2012 in Berlin, 2013 in Aachen und 1017 in Hannover (M. Winter mit paper)
+- GI-Konferenz Software Engineering 2012 in Berlin, 2013 in Aachen und 2017 in Hannover (M. Winter mit paper)
 - 6th+7th International Workshop on Model-Based Verification and Validation (MVV 2016 und 2017, Wien und Prag, M. Winter program comittee)
 - World Usability Days: Sustainable User Experience (UX) 2016 in Köln (G. Hartmann Tagungsleitung)
 - Internationales WebDev-Projekt 2016 - Studentisches Web-Projekt in Kooperation mit europäischen Hochschulen (C. Noss Organisation)
 - Eurographics Conference on Rendering Techniques (EGSR) 2016 in Dublin (M. Eisemann best paper award)
+- Eurographics 2015 in Zürich (M. Eisemann mit paper)
+- Eurographics 2016 in Lissabon (M. Eisemann mit paper)
+- HiGraphics Workshop 2016 und 2017 (M. Eisemann)
+- Siggraph 2015 (M. Eisemann mit paper)
+- Vision, Modeling, and Visualization Conference 2016 (M. Eisemann best paper award)
+- FabCon 3.D und Rapid.Tech 2016 (M. Eisemann)
+- Mensch und Computer Konferenz 2016 (C. Noss und M. Eisemann)
 - NordiCHI '16 Workshop Designing e-Health Services for Patients & Relatives 2016 GothenburgSweden (C. Grünloh mit paper)
 - Medical Informatics Europe (MIE 2016), in conjunction with Health - Exploring Complexity: An Interdisciplinary Systems Approach (HEC 2016) 2016 in München (C. Grünloh mit paper)
 
@@ -46,6 +60,8 @@ Daneben haben Lehrende und wissenschaftliche Mitarbeiter an wissenschaftlichen K
 * 9 x Lichtset im Koffer, mit jeweils 3 x 750 W ARRI Scheinwerfer
 * Diverses Zubehör für Licht, Ton und Video wie Lichtstative, Fieldmonitore, Speichermedien
 * Verschiedene Smartphones und Tablets: Nexus 5, Nexus 9 und iPad Pro 13’’ 
+* 1 Oculus Rift VR Virtual Reality Head-mounted Display
+* 1 HTC Vive Virtual Reality Head-mounted Display
 
 ### Nachbearbeitung
 
