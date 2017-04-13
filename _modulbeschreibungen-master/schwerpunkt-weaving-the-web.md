@@ -23,6 +23,6 @@ Der Titel der Studienrichtung, „Weaving the Web” wurde gewählt, da neben de
 
 ## Schwerpunktspezifische Pflichtmodule
 
-- Sicherheit, Privatsphäre und Vertrauen im Netz
+- Sicherheit, Privatsphäre und Vertrauen
 - Web Architekturen
 - Web Technologien
