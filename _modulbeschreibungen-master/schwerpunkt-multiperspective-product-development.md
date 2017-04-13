@@ -20,7 +20,7 @@ Der Schwerpunkt „Multi-Perspective Product Development” bereitet die Studier
 
 ## Schwerpunktspezifische Pflichtmodule
 
-- Privatsphäre & Sicherheit im Netz
+- Sicherheit, Privatsphäre und Vertrauen
 - Interaction Design
 - Qualitätssicherung und -management
 
