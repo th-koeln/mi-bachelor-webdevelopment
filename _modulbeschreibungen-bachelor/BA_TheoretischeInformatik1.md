@@ -9,7 +9,7 @@ kategorie:
 sprache: deutsch
 zuordnung-zum-curriculum: Medieninformatik Bachelor
 kreditpunkte: 5
-voraussetzungen-nach-pruefungsordnung: Einfache Kenntnisse der naiven Mengenlehre, wie sie in der Schule vermittelt und bei der mathematischen Begriffsbildung verwendet werden.
+voraussetzungen-nach-pruefungsordnung: Keine über die Zulassungsvorrausetzungen hinausgehenden Vorraussetzungen.
 empfohlene-voraussetzungen: Einfache Kenntnisse der naiven Mengenlehre, wie sie in der Schule vermittelt und bei der mathematischen Begriffsbildung verwendet werden.
 published: true
 type: pm
