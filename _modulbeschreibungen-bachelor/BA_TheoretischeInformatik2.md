@@ -20,9 +20,9 @@ type: pm
 
 ## Arbeitsaufwand:
 Gesamtaufwand 150 h, davon
-- 50h Vorlesung (inkl. Vor- und Nachbearbeitung)
-- 50h Übung (inkl. Vor- und Nachbearbeitung)
-- 50h Selbstlernphase 
+- 45h Vorlesung (inkl. Vor- und Nachbearbeitung)
+- 45h Übung (inkl. Vor- und Nachbearbeitung)
+- 60h Selbstlernphase 
 
 ## Angestrebte Lernergebnisse:
 siehe Theoretische Informatik 1.
