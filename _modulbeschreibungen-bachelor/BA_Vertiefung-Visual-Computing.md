@@ -184,7 +184,7 @@ Nach Abschluss des Moduls besitzen die Studierenden grundlegende Kenntnisse übe
 - Erweiterung des Unity-Editors
 
 ## Studien-/Prüfungsleistungen:
-Teilprüfungen in den jeweiligen Kursen.
+Teilprüfungen in den jeweiligen Kursen. Die Benotung ergibt sich als Mittel aus den jeweiligen Teilnoten.
 
 ### Audiovisuelle Medientechnik
 Schriftliche Prüfung von 90 Minuten
