@@ -26,9 +26,9 @@ Die Studierenden erlernen aktuelle Techniken zur Erzeugung von photorealistische
 
 ## Arbeitsaufwand: 
 Gesamtaufwand 150h, davon
-- 50h Vorlesung (inkl. Vor-/Nachbearbeitung),
-- 70h Praktikum / Projekt
-- 30h Selbstlernphase
+- 45h Vorlesung (inkl. Vor-/Nachbearbeitung),
+- 60h Praktikum / Projekt
+- 45h Selbstlernphase
 
 ## Angestrebte Lernergebnisse:
 - Die Studierenden verstehen den Bildentstehungsprozess und die physikalischen Wechselwirkungen von Licht und Licht-Materie. Sie kennen Rendering-Equation, stochastische Methoden (Monte Carlo Raytracing) und Methoden der natürlichen Beleuchtung, und erarbeiten sich damit tiefgehende Fachkenntnisse im Gebiet der photorealistischen Bildsynthese und dringen dabei bis an die Grenze des heute vorhandenen Wissens und die Spitze der aktuellen Technologie vor, bspw. auf technischer Seite durch moderne CPU/GPU Programmierung, sowie auf theoretischer Seite durch neueste Algorithmen.
