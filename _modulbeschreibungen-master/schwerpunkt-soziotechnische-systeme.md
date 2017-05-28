@@ -17,7 +17,7 @@ Ziel ist es, soziale Innovation durch digitale Anwendungen entstehen zu lassen. 
 
 ## Schwerpunktspezifische Pflichtmodule
 
-- Privatsphäre, Vertrauen & Sicherheit im Netz
+- Sicherheit, Privatsphäre und Vertrauen
 - Soziotechnische Entwurfsmuster
 - Netzwerk-und Graphentheorie
 

@@ -9,7 +9,7 @@ kategorie:
 sprache: deutsch
 zuordnung-zum-curriculum: Medieninformatik Bachelor
 kreditpunkte: 5
-voraussetzungen-nach-pruefungsordnung: Einfache Kenntnisse der naiven Mengenlehre, wie sie in der Schule vermittelt und bei der mathematischen Begriffsbildung verwendet werden.
+voraussetzungen-nach-pruefungsordnung: Keine über die Zulassungsvorrausetzungen hinausgehenden Vorraussetzungen.
 empfohlene-voraussetzungen: Einfache Kenntnisse der naiven Mengenlehre, wie sie in der Schule vermittelt und bei der mathematischen Begriffsbildung verwendet werden.
 published: true
 type: pm
@@ -20,9 +20,9 @@ type: pm
 
 ## Arbeitsaufwand:
 Gesamtaufwand 150 h, davon
-- 50h Vorlesung (inkl. Vor- und Nachbearbeitung)
-- 50h Übung (inkl. Vor- und Nachbearbeitung)
-- 50h Selbstlernphase 
+- 45h Vorlesung (inkl. Vor- und Nachbearbeitung)
+- 45h Übung (inkl. Vor- und Nachbearbeitung)
+- 60h Selbstlernphase 
 
 ## Angestrebte Lernergebnisse:
 

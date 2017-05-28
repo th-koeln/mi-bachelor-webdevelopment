@@ -28,9 +28,9 @@ Dabei werden verschiedenste Aspekte der Bild- und Videobe- und -verarbeitung,  w
 
 ## Arbeitsaufwand: 
 Gesamtaufwand 150h, davon
-- 50h Vorlesung (inkl. Vor-/Nachbearbeitung),
-- 70h Praktikum / Projekt
-- 30h Selbstlernphase
+- 45h Vorlesung (inkl. Vor-/Nachbearbeitung),
+- 60h Praktikum / Projekt
+- 45h Selbstlernphase
 
 
 ## Angestrebte Lernergebnisse:
@@ -64,7 +64,7 @@ Nach erfolgreichem Abschluss
 
 ## Studien-/Prüfungsleistungen: 
 - 1 Studienleistung: regelmäßige erfolgreiche Teilnahme an den kursbegleitenden Praktikas (50% der Punkte aus den Praktikas müssen erreicht worden sein)
-- 2 Prüfungsleistungen: Klausur (45 Minuten) oder mündliche Prüfung (15 Minuten), sowie eine Projektpräsentation.
+- 2 Prüfungsleistungen: Klausur (45 Minuten) oder mündliche Prüfung (15 Minuten), sowie ein Projekt mit Präsentation und Dokumentation. Die Klausur macht 30% der Note aus, das Projekt mit Präsentation und Dokumentation 70%.
 
 ## Medienformen:
 - Beamergestützte Vorlesung; 

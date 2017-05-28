@@ -46,12 +46,12 @@ Wahlkatalog Game Development:
 - Prozedurale Generierung virtueller Welten
 
 ## Arbeitsaufwand: 
-- Audiovisuelle Medientechnik: Gesamtaufwand 150 h, davon - 50h Vorlesung (inkl. Vor- und Nachbearbeitung) - 50h Praktikum / Projekt - 50h Selbstlernphase
-- Computergrafik und Animation: Gesamtaufwand 150 h, davon - 50h Vorlesung (inkl. Vor- und Nachbearbeitung) - 50h Praktikum / Projekt - 50h Selbstlernphase
-- Audiovisuelles Medienprojekt 2: Gesamtaufwand 150 h, davon - 50h Vorlesung (inkl. Vor- und Nachbearbeitung) - 50h Praktikum / Projekt - 50h Selbstlernphase
-- Visuelle Effekte und Animation: Gesamtaufwand 150 h, davon - 50h Vorlesung (inkl. Vor- und Nachbearbeitung) - 50h Praktikum / Projekt - 50h Selbstlernphase
-- Crossplatform Game Development mit Unity3D: Gesamtaufwand 150 h, davon - 50h Vorlesung (inkl. Vor- und Nachbearbeitung) - 60h Praktikum / Projekt - 40h Selbstlernphase
-- Prozedurale Generierung virtueller Welten: Gesamtaufwand 150 h, davon - 40 h Vorlesung (inkl. Vor- und Nachbereitung), - 40 h Live-Coding und Übungen - 40 h Selbstlernphase - 30 h Begleitetes Abschlussprojekt
+- Audiovisuelle Medientechnik: Gesamtaufwand 150 h, davon - 45h Vorlesung (inkl. Vor- und Nachbearbeitung) - 45h Praktikum / Projekt - 60h Selbstlernphase
+- Computergrafik und Animation: Gesamtaufwand 150 h, davon - 45h Vorlesung (inkl. Vor- und Nachbearbeitung) - 45h Praktikum / Projekt - 60h Selbstlernphase
+- Audiovisuelles Medienprojekt 2: Gesamtaufwand 150 h, davon - 45h Vorlesung (inkl. Vor- und Nachbearbeitung) - 45h Praktikum / Projekt - 60h Selbstlernphase
+- Visuelle Effekte und Animation: Gesamtaufwand 150 h, davon - 45h Vorlesung (inkl. Vor- und Nachbearbeitung) - 45h Praktikum / Projekt - 60h Selbstlernphase
+- Crossplatform Game Development mit Unity3D: Gesamtaufwand 150 h, davon - 45h Vorlesung (inkl. Vor- und Nachbearbeitung) - 60h Praktikum / Projekt - 45h Selbstlernphase
+- Prozedurale Generierung virtueller Welten: Gesamtaufwand 150 h, davon - 30h Vorlesung (inkl. Vor- und Nachbereitung), - 45h Live-Coding und Übungen - 45h Selbstlernphase - 30 h Begleitetes Abschlussprojekt
 
 ## Angestrebte Lernergebnisse:
 Je nach gewählten Vertiefungskursen entwickeln die Studierenden Fähigkeiten zur selbstverantwortlichen Durchführung von Projekten im Bereich Gamedevelopment, dreidimensionaler Darstellung virtueller Szenen, Film- und Fernsehtechnik, sowie Visueller Effekte.
@@ -184,7 +184,7 @@ Nach Abschluss des Moduls besitzen die Studierenden grundlegende Kenntnisse übe
 - Erweiterung des Unity-Editors
 
 ## Studien-/Prüfungsleistungen:
-Teilprüfungen in den jeweiligen Kursen.
+Teilprüfungen in den jeweiligen Kursen. Die Benotung ergibt sich als Mittel aus den jeweiligen Teilnoten.
 
 ### Audiovisuelle Medientechnik
 Schriftliche Prüfung von 90 Minuten

@@ -1,3 +1,8 @@
+document.querySelector('.nav-toggle').addEventListener('click', function() {
+	var activeClass = 'is-active';
+	document.querySelector('.nav-menu').classList.toggle(activeClass);
+});
+
 var	tabs = {};
 tabs.elements = {};
 tabs.func = (function(){

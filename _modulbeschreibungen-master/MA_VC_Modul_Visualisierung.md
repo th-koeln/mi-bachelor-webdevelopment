@@ -60,7 +60,7 @@ Im speziellen, aber nicht ausschließlich, werden folgende Themen behandelt:
 - Story Telling
 
 ## Studien-/Prüfungsleistungen:
-2 Fachvorträge sowie eine abschließende Projektarbeit samt Dokumentation und Präsentation.
+2 Fachvorträge (machen jeweils 30% der Gesamtnote aus) sowie eine abschließende Projektarbeit samt Dokumentation und Präsentation (welche 40% der Gesamtnote ausmacht).
 
 ## Medienformen:
 - Beamergestützte Vorlesung
