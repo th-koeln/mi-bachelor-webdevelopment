@@ -1,12 +1,12 @@
 ---
-title: 26.05.2017 - Stellungnahme zum Akkreditierungsbericht
+title: Stellungnahme zum Akkreditierungsbericht
+aktueller-bearbeiter: Christian Noss
+bearbeiterhistorie: Christian Noss, Martin Eisemann, Volker Schäfer
+date: 23.02.2017
+comment: 
+status: fertig
+reviewed-von: Volker Schaefer
 ---
-
-Autor
-: Christian Noss
-
-Datum
-: 26.05.2017
 
 
 ## Anmerkungen zum Bericht der Gutachter
