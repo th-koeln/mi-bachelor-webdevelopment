@@ -100,21 +100,3 @@ Eine Liste aller Dozenten und deren Beteiligung an Modulen in den Informatik Stu
 ### Stellungnahme der Hochschule
 
 Die Prüfungsordnungen sind inzwischen von den entscheidungstragenden Gremien verabschiedet worden und müssen lediglich noch veröffentlicht werden. Überarbeitete Abschlusszeugnisse und Diploma Supplements sind diesem Dokument angehängt.
-
-## Nachlieferungen
-
-### Die folgenden Nachlieferungen wurden angefragt
-
-> Lehrverflechtungsmatrix für den Studiengang Medieninformatik inklusive der in der Lehre tätigen Mitarbeiter (zusätzlich zu den Stunden, die in verwandten Informatikstudiengängen absolviert werden). 
-
-- Übersicht über die verfügbaren Wissenschaftlichen Mitarbeiter und Lehrbeauftragten[^mitarbeiter-und-module], sowie deren Finanzierung befindet sich im Anhang
-- Übersicht aller Dozenten und deren Beteiligung an Modulen in den Informatik Studiengängen am Campus Gummersbach(Lehrverflechtungsmatrix)[^dozenten-und-module] befinden sich im Anhang
-
-> Ggf. Zeugnismuster für die neue Studiengangsstruktur bzw. das neue Curriculum mit Schwerpunkten. (Ich frage mich, ob nicht auch das DS geändert werden müsste, um die Schwerpunkte sichtbar zu machen.) 
-
-Das Zeugnismuster für die neue Studiengangsstruktur befindet sich im Anhang[^zeugnismuster-neu].
-
-
-[^mitarbeiter-und-module]: <a href="../anhaenge/stellungsnahme/mitarbeiter-und-module-mi-kern-2017.pdf">Übersicht über alle Mitarbeiter und deren Einbindung in die Kernmodule des Medieninformatik Bachelor Studiengangs am Campus Gummersbach</a>
-[^dozenten-und-module]: <a href="../anhaenge/stellungsnahme/dozenten-und-module-2017.pdf">Übersicht über alle Dozenten und deren Module in den Informatik Studiengängen des Campus Gummersbach</a>
-[^zeugnismuster-neu]: <a href="../anhaenge/stellungsnahme/Urkunde_Zeugnis_Entwurf_black.pdf">Zeugnismuster für die neue Studiengangsstruktur</a>
