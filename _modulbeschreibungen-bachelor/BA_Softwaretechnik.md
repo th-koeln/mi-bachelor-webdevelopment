@@ -9,7 +9,7 @@ kategorie: Winter
 sprache: deutsch
 zuordnung-zum-curriculum: Medieninformatik Bachelor, 4. Semester , Pflichtfach
 kreditpunkte: 5
-voraussetzungen-nach-pruefungsordnung: Keine über die Zulassungsbedingungen hinausgehenden Voraussetzungen
+voraussetzungen-nach-pruefungsordnung:
 empfohlene-voraussetzungen: Grundkenntnisse Algorithmen, Datenbanken und objektorientierte Programmierung
 published: true
 type: pm
