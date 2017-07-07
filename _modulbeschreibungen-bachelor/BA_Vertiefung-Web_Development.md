@@ -9,7 +9,7 @@ kategorie: null
 sprache: deutsch
 zuordnung-zum-curriculum: Medieninformatik Bachelor
 kreditpunkte: 20
-voraussetzungen-nach-pruefungsordnung: keine
+voraussetzungen-nach-pruefungsordnung:
 empfohlene-voraussetzungen: Einführung in die Medieninformatik, Web Architekturen, Algorithmen und Programmierung, Paradigmen der Programmierung, MCI, Screendesign, Betriebssysteme und verteilte Systeme
 published: true
 type: vpm
