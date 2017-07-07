@@ -5,7 +5,7 @@ modulniveau: null
 kuerzel: GW
 untertitel: null
 studiensemester: 3
-kategorie: n/a
+kategorie: 
 sprache: deutsch
 zuordnung-zum-curriculum: Medieninformatik Bachelor
 kreditpunkte: 5
