@@ -9,7 +9,7 @@ kategorie:
 sprache: deutsch
 zuordnung-zum-curriculum: Medieninformatik Bachelor
 kreditpunkte: 5
-voraussetzungen-nach-pruefungsordnung: alle Modulprüfungen außer Bachelorarbeit und Kolloquium bestanden
+voraussetzungen-nach-pruefungsordnung: erreichte 140 Leistungspunkte
 empfohlene-voraussetzungen: 
 published: true
 type: pm
@@ -45,11 +45,7 @@ Das Praxisprojektseminar besteht aus
 ## Studien-/Prüfungsleistungen:
 Seminarvortrag zur Praxisprojektarbeit
 
-## Medienformen:
-
-
 ## Literatur:
 - Rechenberg: Technisches Schreiben (nicht nur) für Informatiker, 2. Aufl, Hanser Verlag 2003
-
 - M. Karmasin, R. Ribing: Die Gestaltung wissenschaftlicher Arbeiten, 2. Auflage WUV 2007
 
