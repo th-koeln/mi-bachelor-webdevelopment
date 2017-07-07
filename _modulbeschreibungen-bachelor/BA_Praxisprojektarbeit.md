@@ -9,7 +9,7 @@ kategorie:
 sprache: deutsch
 zuordnung-zum-curriculum: Medieninformatik Bachelor
 kreditpunkte: 10
-voraussetzungen-nach-pruefungsordnung: alle Modulprüfungen außer Praxisprojekt, Bachelorarbeit und Kolloquium bestanden
+voraussetzungen-nach-pruefungsordnung: erreichte 140 Leistungspunkte (CP)
 empfohlene-voraussetzungen: 
 published: true
 type: pm
@@ -32,13 +32,8 @@ Die Studierenden
 
 Modulinhalte des ersten bis fünften Semesters anhand von realen Anforderungen in einem praxisrelevanten Kontext anwenden und den Studierenden durch die Betreuung des Dozenten an eine selbstständige Projektdurchführung und Kommunikation heranführen. Das Praxisprojekt kann entweder in einem Unternehmen oder in der Hochschule - dann eingebettet in Forschungsprojekte - erfolgen.
 
-
 ## Studien-/Prüfungsleistungen:
 Schriftliche Ausarbeitung, Projektdokumentation
 
-## Medienformen:
-
-
-## Literatur:
 
 
