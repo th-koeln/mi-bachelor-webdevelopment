@@ -19,7 +19,7 @@ type: pm
 Prinzipien, Methoden und Techniken der modellbasierten methodischen objektorientierten Softwareentwicklung
 
 ## Lehrform/SWS: 
-4 SWS: Vorlesung 2 SWS; Parktikum 2 SWS
+4 SWS: Vorlesung 2 SWS; Praktikum 2 SWS
 
 max. 15 Studierende/Praktikumsgruppe;
 
