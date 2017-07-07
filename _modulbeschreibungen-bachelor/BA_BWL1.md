@@ -9,7 +9,7 @@ kategorie:
 sprache: deutsch
 zuordnung-zum-curriculum: Medieninformatik Bachelor
 kreditpunkte: 5
-voraussetzungen-nach-pruefungsordnung: keine
+voraussetzungen-nach-pruefungsordnung:
 empfohlene-voraussetzungen: 
 published: true
 type: pm
@@ -40,9 +40,6 @@ Die Studierenden verstehen die wichtigsten Entscheidungsbereiche wirtschaftliche
 
 ## Studien-/Prüfungsleistungen:
 schriftliche Klausur
-
-## Medienformen:
-
 
 ## Literatur:
 * Wöhe (2016): Einführung in die Allgemeine Betriebswirtschaftslehre, 26. Aufl.
