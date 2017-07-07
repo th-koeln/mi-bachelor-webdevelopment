@@ -9,8 +9,8 @@ kategorie: null
 sprache: deutsch
 zuordnung-zum-curriculum: Bachelor Medieninformatik – Pflichtbereich
 kreditpunkte: 5
-voraussetzungen-nach-pruefungsordnung: Keine über die Zulassungsbedingungen hinausgehenden Voraussetzungen
-empfohlene-voraussetzungen: keine
+voraussetzungen-nach-pruefungsordnung:
+empfohlene-voraussetzungen:
 published: true
 type: pm
 ---
