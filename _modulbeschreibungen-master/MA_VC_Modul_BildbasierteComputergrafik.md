@@ -27,10 +27,11 @@ Dabei werden verschiedenste Aspekte der Bild- und Videobe- und -verarbeitung,  w
 4 SWS: Vorlesung 2 SWS; Projekt 2 SWS
 
 ## Arbeitsaufwand: 
-Gesamtaufwand 150h, davon
+Gesamtaufwand 180h, davon
 - 36h Vorlesung
 - 36h Praktikum / Projekt
 - 108h Selbstlernphase
+
 
 
 ## Angestrebte Lernergebnisse:
