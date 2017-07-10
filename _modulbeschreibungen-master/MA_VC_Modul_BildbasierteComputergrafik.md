@@ -28,9 +28,9 @@ Dabei werden verschiedenste Aspekte der Bild- und Videobe- und -verarbeitung,  w
 
 ## Arbeitsaufwand: 
 Gesamtaufwand 150h, davon
-- 45h Vorlesung (inkl. Vor-/Nachbearbeitung),
-- 60h Praktikum / Projekt
-- 45h Selbstlernphase
+- 36h Vorlesung
+- 36h Praktikum / Projekt
+- 78h Selbstlernphase
 
 
 ## Angestrebte Lernergebnisse:
