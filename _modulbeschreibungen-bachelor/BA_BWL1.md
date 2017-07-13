@@ -19,11 +19,11 @@ type: pm
 4 SWS: Vorlesung 2 SWS; Übung 2 SWS
 
 ## Arbeitsaufwand: 
-Gesamtaufwand 120 h, davon 
+Gesamtaufwand 150 h, davon 
 
-- 30 h Vorlesung 
-- 30 h Übung
-- 60 h Selbstlernphase 
+- 30h Vorlesung
+- 30h Übung
+- 90h Selbststudium
 
 ## Angestrebte Lernergebnisse:
 Die Studierenden verstehen die wichtigsten Entscheidungsbereiche wirtschaftlichen Handeln und können diese anwenden. Sie können grundlegenden Entscheidungen im Rahmen einer Unternehmensgründung, die Aufgaben der Unternehmensführung wie die Konzeption einer tragfähigen Strategie, und die Aufgaben der Teilbereiche Produktion, Absatz und Marketing sowie Investition und Finanzierung beschreiben und beurteilen. Investitionsentscheidungen können die Studierenden informationsgestützt treffen indem Sie die Kalkulationsverfahren der Investitionsrechnung anwenden und auswerten. Die Veranstaltung bereitet die Studierenden für weitere BWL-Veranstaltungen Ihres Studiums, sowie darauf, in ihrem Berufsleben wirtschaftliche Konzepte im Unternehmenskontext anzuwenden, vor.
