@@ -10,8 +10,8 @@ kategorie: null
 sprache: wahlweise deutsch oder englisch
 zuordnung-zum-curriculum: Medieninformatik Master
 kreditpunkte: 6
-voraussetzungen-nach-pruefungsordnung: null
-empfohlene-voraussetzungen: Computergrafik und Animation
+voraussetzungen-nach-pruefungsordnung: Keine über die Zulassungsvorrausetzungen hinausgehenden Vorraussetzungen.
+empfohlene-voraussetzungen: Computergrafik und Animation, Algorithmen und Programmierung 1 und 2, Mathematik 1 und 2
 published: true
 type: spm
 parent: SPM2
