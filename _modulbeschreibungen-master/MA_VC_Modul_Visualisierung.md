@@ -10,7 +10,7 @@ kategorie: null
 sprache: wahlweise deutsch oder englisch
 zuordnung-zum-curriculum: Medieninformatik Master
 kreditpunkte: 6
-voraussetzungen-nach-pruefungsordnung: null
+voraussetzungen-nach-pruefungsordnung: Keine über die Zulassungsvorrausetzungen hinausgehenden Vorraussetzungen.
 empfohlene-voraussetzungen: Web-basierte Anwendungen 1 (aus dem Bachelor) bzw. Kenntnisse in HTML und Javascript
 published: true
 type: spm
