@@ -35,7 +35,7 @@ Um den Studierenden möglichst früh mit den Herangehensweisen und Perspektiven 
 
 ### Sinnvolle Staffelung der Module
 
-{% include image.html url="bilder/ba-verlaufsplan.svg" caption=" Studienverlaufsplan des Bachelorstudiengangs Medieninformatik" %}
+{% include image.html url="bilder/ba-studienverlaufsplan.svg" caption=" Studienverlaufsplan des Bachelorstudiengangs Medieninformatik" %}
 
 Die ersten Modulen des Informatik Kerns bauen vor allem mathematische, algorithmische und und grundlegende Kenntnisse, Fähigkeiten und Fertigkeiten auf. Im Kontrast dazu, werden im Modul "Einführung in die Medieninformatik" vielfältige Perspektiven, Konzepte und Arbeitstechniken der Medieninformatik, quasi im Vorgriff auf das kommende Studium, vorgestellt und in einem Projekt, mit eher forschendem Charakter, angewendet. Hiermit wird den Studierenden ein Ausblick auf das weitere Studium und die notwendigen Arbeitsweisen und -techniken gegeben.
 

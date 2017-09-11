@@ -90,6 +90,8 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+  - presentations
+  
 collections:
   modulbeschreibungen-bachelor:
     output: true
