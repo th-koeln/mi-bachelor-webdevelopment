@@ -90,7 +90,7 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-  - presentations
+  - presentations/impress-js/lib/
   
 collections:
   modulbeschreibungen-bachelor:
