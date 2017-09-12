@@ -17,7 +17,7 @@ type: pm
 
 ## Lehrform/SWS:
 
-5 SWS: Vorlesung 2 SWS; Übung 1 SWS; Praktikum 1 SWS
+4 SWS: Vorlesung 2 SWS; Übung 1 SWS; Praktikum 1 SWS
 
 ## Arbeitsaufwand:
 

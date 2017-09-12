@@ -9,17 +9,21 @@ kategorie:
 sprache: Deutsch
 zuordnung-zum-curriculum: Medieninformatik Bachelor
 kreditpunkte: 5
-voraussetzungen-nach-pruefungsordnung: Keine
+voraussetzungen-nach-pruefungsordnung: 
 empfohlene-voraussetzungen: 
 published: true
 type: pm
 ---
 
 ## Lehrform/SWS:
-Vorlesung mit eingebetteten Übungselementen
+Vorlesung mit eingebetteten Übungselementen und Projektarbeit.
 
 ## Arbeitsaufwand:
-150 Stunden
+Gesamtaufwand 150 h, davon
+
+30 h Vorlesung
+40 h Projekt
+80 h Selbststudium
 
 ## Angestrebte Lernergebnisse:
 Die Studierenden können die inhaltlichen Ausrichtungen und die Zielsetzungen der Lehr- und Anwendungsdisziplin Medieninformatik benennen und gegenüber verwandten oder ähnlichen Disziplinen abgrenzen. 

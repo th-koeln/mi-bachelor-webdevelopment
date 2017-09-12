@@ -28,11 +28,5 @@ Die Bachelorarbeit soll zeigen, dass der Prüfling befähigt ist, innerhalb eine
 Selbstständiges wissenschaftliches, fachpraktisches und gestalterisches Bearbeiten einer Aufgabenstellung.
 
 ## Studien-/Prüfungsleistungen:
-
-
-## Medienformen:
-
-
-## Literatur:
-
+Schriftliche Ausarbeitung, ggf. Projektarbeit mit entsprechenden Artefakten.
 

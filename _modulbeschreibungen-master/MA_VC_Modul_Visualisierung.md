@@ -10,7 +10,7 @@ kategorie: null
 sprache: wahlweise deutsch oder englisch
 zuordnung-zum-curriculum: Medieninformatik Master
 kreditpunkte: 6
-voraussetzungen-nach-pruefungsordnung: null
+voraussetzungen-nach-pruefungsordnung: Keine über die Zulassungsvorrausetzungen hinausgehenden Vorraussetzungen.
 empfohlene-voraussetzungen: Web-basierte Anwendungen 1 (aus dem Bachelor) bzw. Kenntnisse in HTML und Javascript
 published: true
 type: spm
@@ -26,11 +26,12 @@ Die Studierenden sollen in die Lage versetzt werden, abstrakte, vorwiegend numer
 4 SWS: Vorlesung 1 SWS; Seminar / Workshops 2SWS; Projekt  1 SWS
 
 ## Arbeitsaufwand: 
-Gesamtaufwand 150h, davon
-- 20h Vorlesung (inkl. Vor-/Nachbearbeitung),
-- 60h Seminar und Workshops (inkl. Vorbereitung)
-- 40h Projekt
-- 30h Selbstlernphase
+Gesamtaufwand 180h, davon
+- 18h Vorlesung 
+- 18h Workshops
+- 18h Seminar
+- 36h Projekt
+- 90h Selbstlernphase
 
 ## Angestrebte Lernergebnisse:
 - Die Studierenden sollen in die Lage versetzt werden, abstrakte, vorwiegend numerische Datenbestände in 2-und 3-dimensionalen Repräsentationen zu visualisieren und mit interaktiven Methoden zu untersuchen, um Strukturen aufzudecken, Hypothesen abzuleiten und zu verifizieren sowie Ergebnisse zu kommunizieren. 

@@ -9,14 +9,14 @@ kategorie:
 sprache: deutsch
 zuordnung-zum-curriculum: Medieninformatik Bachelor
 kreditpunkte: 5
-voraussetzungen-nach-pruefungsordnung: Keine über die Zulassungsvorrausetzungen hinausgehenden Vorraussetzungen
+voraussetzungen-nach-pruefungsordnung: 
 empfohlene-voraussetzungen: Einführung in die Medieninformatik, Algorithmen und Programmierung I, Algorithmen und Programmierung II
 published: true
 type: pm
 ---
 
 ## Lehrform/SWS:
-4 SWS: Vorlesung 2 SWS; Praktikum SWS; Übung 1SWS
+4 SWS: Vorlesung 2 SWS; Praktikum 1 SWS; Übung 1 SWS
 
 ## Arbeitsaufwand:
 Gesamtaufwand 150 h, davon 

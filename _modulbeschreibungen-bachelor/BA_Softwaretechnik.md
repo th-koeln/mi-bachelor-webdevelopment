@@ -9,7 +9,7 @@ kategorie: Winter
 sprache: deutsch
 zuordnung-zum-curriculum: Medieninformatik Bachelor, 4. Semester , Pflichtfach
 kreditpunkte: 5
-voraussetzungen-nach-pruefungsordnung: Keine über die Zulassungsbedingungen hinausgehenden Voraussetzungen
+voraussetzungen-nach-pruefungsordnung:
 empfohlene-voraussetzungen: Grundkenntnisse Algorithmen, Datenbanken und objektorientierte Programmierung
 published: true
 type: pm
@@ -19,7 +19,7 @@ type: pm
 Prinzipien, Methoden und Techniken der modellbasierten methodischen objektorientierten Softwareentwicklung
 
 ## Lehrform/SWS: 
-4 SWS: Vorlesung 2 SWS; Parktikum 2 SWS
+4 SWS: Vorlesung 2 SWS; Praktikum 2 SWS
 
 max. 15 Studierende/Praktikumsgruppe;
 

@@ -16,14 +16,15 @@ type: pm
 ---
 
 ## Lehrform/SWS: 
-4 SWS: Vorlesung 1 SWS; Seminar/Workshops 3 SWS; Projekt 1 SWS
+4 SWS: Vorlesung 1 SWS; Seminar 3 SWS
 
 ## Arbeitsaufwand: 
 Gesamtaufwand 150 h, davon 
 
-- 40 h Seminar 
+- 15 h Vorlesung
+- 45 h Seminar 
 - 80 h Projektarbeit  
-- 30 h Selbststudium 
+- 10 h Selbststudium 
 
 ## Angestrebte Lernergebnisse:
 Die Studierenden kennen wesentliche Begriffe der visuellen Kommunikation und können diese anwenden um Briefings, Angebote oder Korrekturwünsche im Design-Kontext zu verstehen oder zu verfassen.

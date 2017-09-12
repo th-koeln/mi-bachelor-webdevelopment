@@ -10,7 +10,7 @@ kategorie: null
 sprache: wahlweise deutsch oder englisch
 zuordnung-zum-curriculum: Medieninformatik Master
 kreditpunkte: 6
-voraussetzungen-nach-pruefungsordnung: null
+voraussetzungen-nach-pruefungsordnung: Keine über die Zulassungsvorrausetzungen hinausgehenden Vorraussetzungen.
 empfohlene-voraussetzungen: Computergrafik und Animation
 published: true
 type: wpm
@@ -25,10 +25,10 @@ Die Studierenden erlernen aktuelle Techniken zur Erzeugung von photorealistische
 4 SWS, Vorlesung 2 SWS, Praktikum / Projekt 2 SWS
 
 ## Arbeitsaufwand: 
-Gesamtaufwand 150h, davon
-- 45h Vorlesung (inkl. Vor-/Nachbearbeitung),
-- 60h Praktikum / Projekt
-- 45h Selbstlernphase
+Gesamtaufwand 180h, davon
+- 36h Vorlesung
+- 36h Praktikum / Projekt
+- 108h Selbstlernphase
 
 ## Angestrebte Lernergebnisse:
 - Die Studierenden verstehen den Bildentstehungsprozess und die physikalischen Wechselwirkungen von Licht und Licht-Materie. Sie kennen Rendering-Equation, stochastische Methoden (Monte Carlo Raytracing) und Methoden der natürlichen Beleuchtung, und erarbeiten sich damit tiefgehende Fachkenntnisse im Gebiet der photorealistischen Bildsynthese und dringen dabei bis an die Grenze des heute vorhandenen Wissens und die Spitze der aktuellen Technologie vor, bspw. auf technischer Seite durch moderne CPU/GPU Programmierung, sowie auf theoretischer Seite durch neueste Algorithmen.
