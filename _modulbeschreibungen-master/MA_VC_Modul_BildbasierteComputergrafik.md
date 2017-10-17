@@ -71,7 +71,7 @@ Nach erfolgreichem Abschluss
 - Praktika / Projekt in Kleingruppen, um die erlernten Methoden und Techniken einzuüben und zu vertiefen (Rechnerlabor)
 
 ## Literatur:
-- Bernd Jähne, Digitale Bildverarbeitung und Bildgewinnung, Springer, 2012
+- Reinhard Klette, Concise Computer Vision: An introduction into theory and algorithms, Springer, 2014- Bernd Jähne, Digitale Bildverarbeitung und Bildgewinnung, Springer, 2012
 - Christian Demant, Bernd Streicher-Abel, Axel Springhoff, Industrielle Bildverarbeitung: Wie optische Qualitätskontrolle wirklich funktioniert, Springer, 2011
 - Reinhard Klette, Andreas Koshan, Karsten Schlüns, Computer Vision, Vieweg 1996 
 - Richard Hartley and Andrew Zisserman, Multiple View Geometry in Computer Vision, Cambridge 2000 
