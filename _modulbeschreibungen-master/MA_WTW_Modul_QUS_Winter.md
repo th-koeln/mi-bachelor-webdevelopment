@@ -7,9 +7,9 @@ untertitel: null
 studiensemester-ws: 2
 studiensemester-ss: 1
 informatik-master: ss
-kategorie: Projektbegleitend
+kategorie: Schwerpunktmodul
 sprache: deutsch, Seminar-Basisliteratur i.d.R. in englischer Sprache
-zuordnung-zum-curriculum: null
+zuordnung-zum-curriculum: MIM
 kreditpunkte: 6
 voraussetzungen-nach-pruefungsordnung: keine
 empfohlene-voraussetzungen: Grundkenntnisse Softwaretechnik und Projektmanagement
