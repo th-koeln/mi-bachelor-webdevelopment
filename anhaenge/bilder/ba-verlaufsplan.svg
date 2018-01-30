@@ -201,7 +201,7 @@
 <g id="Rectangle" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
 <use xlink:href="#path0_fill" transform="translate(-29 -110)" fill="#BDBDBD" style="mix-blend-mode:normal;"/>
 </g>
-<g id="Mensch-Computer Interaktion, 5 CP" style="mix-blend-mode:normal;" figma:type="text">
+<g id="Mensch-Computer Interaktion, 10 CP" style="mix-blend-mode:normal;" figma:type="text">
 <use xlink:href="#path21_fill" transform="translate(-18.9598 -100)" fill="#333333" style="mix-blend-mode:normal;"/>
 </g>
 </g>
@@ -236,7 +236,7 @@
 <g id="Rectangle" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
 <use xlink:href="#path0_fill" transform="translate(-29 -244)" fill="#BDBDBD" style="mix-blend-mode:normal;"/>
 </g>
-<g id="Web Architekturen, 5 CP" style="mix-blend-mode:normal;" figma:type="text">
+<g id="Grundlagen des Web, 5 CP" style="mix-blend-mode:normal;" figma:type="text">
 <use xlink:href="#path25_fill" transform="translate(-18.9598 -234)" fill="#333333" style="mix-blend-mode:normal;"/>
 </g>
 </g>
