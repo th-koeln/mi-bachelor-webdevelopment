@@ -64,15 +64,14 @@ Nach erfolgreichem Abschluss
 
 
 ## Studien-/Prüfungsleistungen: 
-- 1 Studienleistung: regelmäßige erfolgreiche Teilnahme an den kursbegleitenden Praktikas (50% der Punkte aus den Praktikas müssen erreicht worden sein)
-- 2 Prüfungsleistungen: Klausur (45 Minuten) oder mündliche Prüfung (15 Minuten), sowie ein Projekt mit Präsentation und Dokumentation. Die Klausur macht 30% der Note aus, das Projekt mit Präsentation und Dokumentation 70%.
+1 Fachvortrag, sowie ein Projekt mit Präsentation und Dokumentation. Der Fachvortrag macht 40% der Note aus, das Projekt mit Präsentation und Dokumentation 60%.
 
 ## Medienformen:
 - Beamergestützte Vorlesung; 
 - Praktika / Projekt in Kleingruppen, um die erlernten Methoden und Techniken einzuüben und zu vertiefen (Rechnerlabor)
 
 ## Literatur:
-- Bernd Jähne, Digitale Bildverarbeitung und Bildgewinnung, Springer, 2012
+- Reinhard Klette, Concise Computer Vision: An introduction into theory and algorithms, Springer, 2014- Bernd Jähne, Digitale Bildverarbeitung und Bildgewinnung, Springer, 2012
 - Christian Demant, Bernd Streicher-Abel, Axel Springhoff, Industrielle Bildverarbeitung: Wie optische Qualitätskontrolle wirklich funktioniert, Springer, 2011
 - Reinhard Klette, Andreas Koshan, Karsten Schlüns, Computer Vision, Vieweg 1996 
 - Richard Hartley and Andrew Zisserman, Multiple View Geometry in Computer Vision, Cambridge 2000 
