@@ -43,11 +43,9 @@ Das Projekt gliedert sich in zwei Teile:
 - Zur Unterstützung werden Workshops/Seminare in den Bereichen Forschung, Produkt Management, Qualitätssicherung und -Management sowie Medien- und Vertragsrecht angeboten.
 
 ## Studien-/Prüfungsleistungen:
-Projektarbeit und vertiefende Workshops/Seminare. Dokumentation der geleisteten Arbeit mit Aufgabenstellung, Stand von Wissenschaft und Technik, verwendeten Problemlösungsmethoden, erzielten Resultaten, offenen Fragen, verwendeten Quellen etc..
-
-In die Gesamtnote gehen zwei Leistungen zu je gleichen Anteilen (50%) ein:
-- Abschlusspräsentation: Fachliche Aufgabe.
-- Abschlussbericht: Fachliche Aufgabe.
+Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
+- Projektergebnis und -dokumentation (50%)
+- Entrepreneurship und Businessplan (50%)
 
 
 ## Medienformen:
