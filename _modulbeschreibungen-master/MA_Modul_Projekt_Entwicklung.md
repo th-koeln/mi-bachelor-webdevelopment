@@ -28,7 +28,7 @@ Projektarbeit
 360 Stunden
 
 ## Angestrebte Lernergebnisse:
-Die Studentinnen und Studenten
+Die Studierenden
 - können im Gegenstandsbereich ihres Studienschwerpunktes, basierend auf einem dokumentierten Konzept, einen „minimal viable Prototype“ entwerfen und realisieren und dabei Probleme analysieren und lösen, die oft unstrukturiert und unvollständig definiert sind und von konkurrierenden Stakeholdern unterschiedlich priorisiert werden;
 - kennen Projektmanagement Techniken und Prozesse und können eigenverantwortlich und professionell Projekte im Umfeld der Medieninformatik organisieren, durchführen, kontrollieren und leiten;
 - kennen Qualitätskriterien für Code, können Code auf dieser Basis analysieren und können die Kriterien in Ihrer Entwicklung erfüllen;
@@ -39,17 +39,16 @@ Die Studentinnen und Studenten
 ## Inhalt:
 Das Projekt gliedert sich in zwei Teile:
 - In der eigentlichen Projektarbeit wird ein Prototyp zu einer komplexeren Aufgabenstellung und einem gegebenen Konzepot im Rahmen eines betreuten Forschungs- und Entwicklungsprojekts entwickelt (ggf. auch in Kooperation mit externen Partnern). Die Betreuer definieren zusammen mit den Studierenden die Zielsetzung und führen mit den Studierenden einen regelmäßigen Diskurs über den Fortgang des Projekts. Sie vereinbaren außerdem Meilensteine, deren Ergebnisse in geeigneter Form in die Endnote einfließen. Kommunikations- und Kooperationsformen werden vorab gemeinsam zwischen Betreuern und Studierenden festgelegt und in periodischen Abständen gemeinsam reflektiert.
-- Zur Unterstützung werden Workshops/Seminare in den Bereichen Projektmanagement, Code-Management sowie spezielle Theorien, Verfahren und Algorithmen in Abhängigkeit vom Studienschwerpunkt angeboten.
+- Zur Unterstützung werden Workshops/Seminare in den Bereichen Projektmanagement und Code-Management (Beautiful Code) angeboten.
 
 ## Studien-/Prüfungsleistungen:
-Projektarbeit und vertiefende Workshops/Seminare. Dokumentation der geleisteten Arbeit mit Aufgabenstellung, Stand von Wissenschaft und Technik, verwendeten Problemlösungsmethoden, erzielten Resultaten, offenen Fragen, verwendeten Quellen etc..
-
-In die Gesamtnote gehen zwei Leistungen zu je gleichen Anteilen (50%) ein:
-- Abschlusspräsentation: Fachliche Aufgabe.
-- Abschlussbericht: Fachliche Aufgabe.
+Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
+- Projektpräsentation und -dokumentation (50%)
+- Projektmanagement (25%)
+- Code-Management (Beautiful Code) (25%)
 
 ## Medienformen:
 Entwicklungsumgebung mit Artefakt-Repository, Kollaborationssysteme
 
 ## Literatur:
-Je nach Studienschwerpunkt und fachlicher Aufgabe
+Je nach fachlicher Aufgabe
