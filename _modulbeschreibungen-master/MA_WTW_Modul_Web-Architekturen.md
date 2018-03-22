@@ -30,12 +30,10 @@ Basierend auf diesem Grundlagenwissen werden dann Lösungen aus fortschrittliche
 4 SWS: Vorlesung 2 SWS; Seminar 2 SWS
 
 ## Arbeitsaufwand: 
-180 Stunden
-
-davon 
-- 30 h Vorlesung 
-- 30 h Seminar 
-- 120 h Selbststudium 
+Gesamtaufwand 180 Stunden, davon 
+- 36 h Vorlesung 
+- 36 h Seminar 
+- 102 h Selbststudium 
 
 
 ## Angestrebte Lernergebnisse:
@@ -55,7 +53,8 @@ Fallstudien: Anwendungen beispielsweise aus den Bereichen Open Data, Internet of
 
 
 ## Studien-/Prüfungsleistungen:
-mündliche Prüfung
+Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
+- mündliche Prüfung (100%)
 
 ## Medienformen:
 Präsentationsmaterialien
