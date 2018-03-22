@@ -1,6 +1,6 @@
 ---
 title: Netzwerk-und Graphentheorie
-modulverantwortlich: kf
+modulverantwortlich: Prof. Kristian Fischer
 modulniveau: n/a
 kuerzel: NGT
 untertitel: null
@@ -22,24 +22,17 @@ schwerpunkt: sc
 Es werden Grundlagen für die Analyse und algorithmische Verarbeitung von Graph basierten Daten eingeführt. 
 
 ## Lehrform/SWS: 
-V/Ü davon
-- 2 SWS V und
-- 2 SWS Ü
-
+4 SWS: Vorlesung 2 SWS; Übung 2 SWS
 
 
 ## Arbeitsaufwand: 
-180 Stunden
-davon 
-- 30 h Vorlesung 
-- 30 h Projektarbeit  
-- 120 h Selbststudium 
-
-
-
+Gesamtaufwand 180 Stunden, davon
+- 36h Vorlesung 
+- 36h Übung  
+- 102h Selbststudium 
 
 ## Angestrebte Lernergebnisse:
-Die Studentinnen und Studenten
+Die Studierenden
 
 - kennen die Bedeutung von formalen Modellen von heutigen technischen, Informations- und sozialen Netzen,
 - kennen wesentliche Konzepte, Kenngrößen und Algorithmen für Graphen und Netzwerke
@@ -56,7 +49,8 @@ um Methoden und Techniken zur Analyse sozialer und ggfs. anderer Netze auswähle
 
 
 ## Studien-/Prüfungsleistungen:
-Mündliche Prüfung
+Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
+- Mündliche Prüfung (100%)
 
 ## Medienformen:
 * Präsentationsmaterialien
