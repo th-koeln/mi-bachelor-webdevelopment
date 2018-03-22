@@ -51,8 +51,8 @@ Gesamtaufwand 180h, davon
 - Algorithmen der digitalen Bildverarbeitung zur Filterung von Monte Carlo Simulationen
 
 ## Studien-/Prüfungsleistungen:
-- 1 Studienleistung: regelmäßige erfolgreiche Teilnahme an den kursbegleitenden Praktikas (50% der Punkte aus den Praktikas müssen erreicht worden sein)
-- 1 Prüfungsleistung: Klausur (90 Minuten) oder mündliche Prüfung (30 Minuten).
+Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
+- Klausur (90 Minuten) oder mündliche Prüfung (30 Minuten) (100%)
 
 ## Medienformen:
 - Beamergestützte Vorlesung
