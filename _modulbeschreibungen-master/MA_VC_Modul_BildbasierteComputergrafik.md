@@ -21,7 +21,7 @@ schwerpunkt: vc
 ## Kurzbeschreibung
 Diese Vorlesung gibt eine Einführung in die grundlegenden Konzepte der bildbasierten Modellierung und der bildbasierten Synthese, Techniken, auf denen z.B. viele moderne Film-Spezialeffekte basieren. 
 
-Dabei werden verschiedenste Aspekte der Bild- und Videobe- und -verarbeitung,  wie sie in modernen Bearbeitungstools vorkommen, erarbeitet und selbst implementiert. Die Teilnehmer erlernen die grundlegenden Konzepte der Modellierung anhand von Fotos realer Objekte. Es werden Methoden zur Bildaufnahme, Bildverarbeitung und Bildsynthese erarbeitet. Die Studierenden sind bei erfolgreicher Teilnahme in der Lage im Bereich Bild- und Videobearbeitung, sowie bildbasierter Modellierung, eigenständige Beiträge in Forschung und Wirtschaft leisten zu können.
+Dabei werden verschiedenste Aspekte der Bild- und Videobe- und -verarbeitung,  wie sie in modernen Bearbeitungstools vorkommen, erarbeitet und selbst implementiert. Die Teilnehmer erlernen die grundlegenden Konzepte der Modellierung anhand von Fotos realer Objekte. Es werden Methoden zur Bildaufnahme, Bildverarbeitung und Bildsynthese erarbeitet. Die Studierenden sind bei erfolgreicher Teilnahme in der Lage, im Bereich Bild- und Videobearbeitung, sowie bildbasierter Modellierung, eigenständige Beiträge in Forschung und Wirtschaft leisten zu können.
 
 ## Lehrform/SWS: 
 4 SWS: Vorlesung 2 SWS; Projekt 2 SWS
@@ -46,8 +46,7 @@ Nach erfolgreichem Abschluss
   - Photogrammetriemethoden zur 3D Rekonstruktion einsetzen
   - Augmented Reality Anwendungen entwerfen und entwickeln
   - Bildinterpolationsmethoden und ihre Herausforderungen kennen
-  - Bildbasierte Darstellungsformen auswählen und anwenden (360° Panoramas, Lichtfelder, Morphing, Image-based Rendering)
-  - Die Konzepte auf CPU und GPU umsetzen
+  - bildbasierte Darstellungsformen auswählen und anwenden (360° Panoramas, Lichtfelder, Morphing, Image-based Rendering)
 - sind die Studierenden somit in der Lage ihr Wissen und Verständnis einzusetzen, um Modelle, Systeme und Prozesse eigener Bild-, Video-, und Computer-Vision Applikationen zu konzipieren, umzusetzen und zu evaluieren.
 - haben Sie ihre Fähigkeit vertieft, sich eigenständig in neue Themenbereiche einzuarbeiten und Problemstellungen, Technologien und wissenschaftliche Erkenntnisse im Umfeld der bildbasierten Verfahren zu erkennen und sich in relevante Theorien, Methoden und Techniken, sowohl aus theoretischer als auch aus technischer Sichtweise, einzuarbeiten und das erworbene Wissen effizient in die Lösung aktueller und auch zukünftiger Frage- und Problemstellungen einzubringen und anzuwenden. Dies wird durch eigene Recherche, Vorträge und ein Abschlussprojekt realisiert.
 
@@ -64,7 +63,8 @@ Nach erfolgreichem Abschluss
 
 
 ## Studien-/Prüfungsleistungen: 
-1 Fachvortrag, sowie ein Projekt mit Präsentation und Dokumentation. Der Fachvortrag macht 40% der Note aus, das Projekt mit Präsentation und Dokumentation 60%.
+- Fachvortrag (40% der Note)
+- Projektumsetzung und Dokumentation (60%)
 
 ## Medienformen:
 - Beamergestützte Vorlesung; 
