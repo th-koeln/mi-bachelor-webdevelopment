@@ -25,9 +25,10 @@ parent: WPM
 
 Gesamtaufwand 180 h, davon 
 
-- 45 h Vorlesung 
-- 30 h Übung
-- 105 h Projekt
+- 36h Vorlesung 
+- 18h Übung
+- 54h Projekt
+- 72h Selbstlernphase
 
 ## Angestrebte Lernergebnisse:
 Die Studierenden sollen:
@@ -49,7 +50,8 @@ Die Studierenden sollen:
 - Planung und Produktion von digitalen Lernmaterialien
 
 ## Studien-/Prüfungsleistungen:
-Planung und Durchführung einer Onlineveranstaltung (ca. 15 Minuten)
+Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
+Planung und Durchführung einer ca. 15 minütigen Onlineveranstaltung (100% der Note)
 
 ## Medienformen:
 - Beamer-gestützte Vorlesungen (Folien in elektronischer Form)
