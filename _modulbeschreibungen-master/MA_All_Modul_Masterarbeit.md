@@ -1,6 +1,6 @@
 ---
 title: Masterarbeit 
-modulverantwortlich: all
+modulverantwortlich: alle Professoren des Studiengangs
 modulniveau: n/a
 kuerzel: MA
 untertitel: Masterarbeit inkl. Kolloquium
@@ -34,9 +34,9 @@ Ziel der Masterarbeit (Master Thesis) und des Kolloquiums ist die Befähigung, i
 - Konkrete Inhalte je nach Thema.
 
 ## Studien-/Prüfungsleistungen:
-- Masterarbeit: Dokumentation der geleisteten Arbeit mit Zielsetzung und Aufgabenstellung, Stand von Wissenschaft und Technik, verwendeten Problemlösungsmethoden, erzielten Resultaten, offenen Fragen, Reflektion, verwendeten Quellen etc..
-- Kolloquium: Darstellung und Verteidigung der Arbeit und der wichtigsten Ergebnisse im Rahmen eines Vortrages mit anschließender Diskussion
-- Bearbeitungszeiten siehe Prüfungsordnung
+Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
+- Masterarbeit (80%)
+- Kolloquium (20%)
 
 ## Medienformen:
 Je nach Thema
