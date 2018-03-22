@@ -28,12 +28,10 @@ schwerpunkt: hci
 
 Gesamtaufwand 180 h, davon
 
-- 45 h Vorlesung
-- 30 h Übung
-- 105 h Projekt
-
-
-
+- 36h Vorlesung
+- 18h Übung
+- 54h Projekt
+- 72h Selbststudium
 
 ## Angestrebte Lernergebnisse:
 
@@ -50,7 +48,9 @@ Diskrete und Stetige Zufallsvariablen, Population und Parameterschätzung, Hypot
 Konfidenzintervalle, Fehlertypen, Effektstärken und Power, multivariate Verfahren (ein- und mehrfaktorielle Varianzanalysen und entsprechendes Forschungsdesign).
 
 ## Studien-/Prüfungsleistungen:
-Übungsaufgaben und schriftliche Modulprüfung
+Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
+- Übungsaufgaben (Studienleistung) 
+- Schriftliche Modulprüfung (100%)
 
 ## Medienformen:
 -	Beamer-gestützte Vorlesungen (Vorlesungschrift mittels tablet) und Übungsaufgaben
