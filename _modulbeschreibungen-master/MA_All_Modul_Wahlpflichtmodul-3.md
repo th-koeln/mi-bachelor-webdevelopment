@@ -17,7 +17,7 @@ type: pm
 ---
 
 ## Kurzbeschreibung
-Platzhalter - Wählbar sind neben expliziten Wahlpflichtmodulen alle Module aus den Modulhandbüchern der Masterstudiengänge des Instituts für Informatik der Fakultät 10, die nicht Pflicht- oder Schwerpunktmodule des gewählten Studienschwerpunkts sind.
+Frei aus dem Katalog der Pflicht- und Wahlpflichtmodule der Masterstudiengänge der Informatik wählbar, ausgenommen der drei Grundlagenmodule und der drei Schwerpunktmodule des gewählten Studienschwerpunktes lt. Studienverlaufsplan. Ein Katalog mit weiteren Angeboten wird nach Maßgabe des Beschlusses des Fakultätsrats der Fakultät für Informatik und Ingenieurwissenschaften zusammengestellt und durch Aushang und auf den Webseiten der Fakultät bekannt gemacht.
 
 ## Lehrform/SWS:
 
