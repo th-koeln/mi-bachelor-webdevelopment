@@ -53,6 +53,7 @@ Inhalte im Einzelnen:
 Aufbauend auf dem in der Vorlesung vermittelten Stoff erstellt jeder Teilnehmer im Seminar-Teil eine Ausarbeitung mit experimenteller Realisierung und eine Präsentation zu einem ausgewählten aktuellen Forschungsgebiet der Qualitätssicherung.
 
 ## Studien-/Prüfungsleistungen:
+Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
 * Seminar-Hausarbeit (30%) 
 * Seminarvortrag (30%)
 * Klausur 60 Minuten (40%)
