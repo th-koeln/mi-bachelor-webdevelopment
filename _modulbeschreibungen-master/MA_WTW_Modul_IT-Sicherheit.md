@@ -28,9 +28,10 @@ Einsatzszenarien von IT und entsprechende Sicherheitseigenschaften und Sicherhei
 ## Arbeitsaufwand: 
 Gesamtaufwand 180 h, davon 
 
-- 45 h Vorlesung 
-- 30 h Projektarbeit  
-- 105 h Selbststudium 
+- 36h Vorlesung 
+- 36h Seminar
+- 36h Projektarbeit  
+- 72h Selbststudium 
 
 ## Angestrebte Lernergebnisse:
 
@@ -56,8 +57,9 @@ Gesamtaufwand 180 h, davon
 * Kernbereich der privaten Lebensgestaltung, Privatsphäre, Datenschutz, Große Datensammlungen (Data Science) als Antagonist
 
 ## Studien-/Prüfungsleistungen:
-- Vorlesungsteil und Seminarinhalt: mündliche Prüfung (50%) 
-- Seminarteil: Vortrag und Ausarbeitung (50%)
+Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
+- mündliche Prüfung (50%) 
+- Fachvortrag und Projektdokumentation (50%)
 
 ## Medienformen:
 *	Beamer-gestützte Vorlesungen
