@@ -24,9 +24,9 @@ type: pm
 
 Gesamtaufwand 180 h, davon
 
-- 45 h Vorlesung
-- 90 h Seminar
-- 45 h Selbststudium
+- 36h Vorlesung
+- 36h Seminar
+- 108h Selbststudium
 
 
 ## Angestrebte Lernergebnisse:
@@ -34,8 +34,6 @@ Die Studierenden sollen wesentliche Begriffe und Grundpositionen bezüglich ethi
 
 ## Inhalt:
 - Ethische Grundbegriffe
-
-
 - Relativismus, Utilitarismus, Deontologische Theorien
 - Ethik für Informatiker*innen
 - Professionelle Verantwortung
@@ -48,7 +46,9 @@ Die Studierenden sollen wesentliche Begriffe und Grundpositionen bezüglich ethi
 - Positive Computing
 
 ## Studien-/Prüfungsleistungen:
-Abschlusspräsentation und schriftliche Ausarbeitung
+Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
+- Fachvortrag (50%)
+- schriftliche Ausarbeitung (50%)
 
 ## Medienformen:
 - Beamer-gestützte Vorlesungen (Folien in elektronischer Form)
