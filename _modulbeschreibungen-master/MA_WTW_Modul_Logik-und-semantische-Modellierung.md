@@ -1,6 +1,6 @@
 ---
 title: Logik und semantische Modellierung
-modulverantwortlich: kf
+modulverantwortlich: Prof. Kristian Fischer
 modulniveau: n/a
 kuerzel: WTW-LSM
 untertitel: null
@@ -19,21 +19,17 @@ schwerpunkt: mpd
 ---
 
 ## Kurzbeschreibung
-Die Studentinnen und Studenten werden in die Entwicklung von semantischen Modellen als Basis für den Datenaustausch in verteilten, offenen Web Anwendungen eingeführt.Neben der praktischen Modellierung wird auch die theoretische Fundierung in der Prädikaten- und Beschreibungslogik behandelt.
+Die Studierenden werden in die Entwicklung von semantischen Modellen als Basis für den Datenaustausch in verteilten, offenen Web Anwendungen eingeführt. Neben der praktischen Modellierung wird auch die theoretische Fundierung in der Prädikaten- und Beschreibungslogik behandelt.
 
 ## Lehrform/SWS: 
-2 SWS V
-2 SWS Ü
+4 SWS: Vorlesung 2 SWS; Übung 2 SWS
 
 ## Arbeitsaufwand: 
 180 Stunden
  davon:
-- 30 h Vorlesung 
-- 30 h Projektarbeit  
-- 120 h Selbststudium 
-
-
-
+- 36h Vorlesung 
+- 36h Übung
+- 102h Selbststudium 
 
 ## Angestrebte Lernergebnisse:
 Die Teilnehmerinnen und Teilnehmer sollen die
@@ -52,7 +48,8 @@ um kompetent im Fachdiskurs die Eignung semantischer Modellierung für die Domä
 - Entwicklung von Ontologien 
 
 ## Studien-/Prüfungsleistungen:
-Mündliche Prüfung
+Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
+- Mündliche Prüfung (100%)
 
 ## Medienformen:
 * Präsentationsmaterialien
