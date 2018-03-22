@@ -1,6 +1,6 @@
 ---
 title: Spezielle Gebiete der Mathematik
-modulverantwortlich: wk, bn
+modulverantwortlich: Prof. Dr. Wolgang Konen, Prof. Dr. Boris Naujoks
 modulniveau: n/a
 kuerzel: SGM-D
 untertitel: null
@@ -26,9 +26,9 @@ Es werden Grundlagen für die Analyse und algorithmische Verarbeitung von Graph 
 ## Arbeitsaufwand: 
 Gesamtaufwand 150 h, davon 
 
-- 30 h Vorlesung 
-- 30 h Seminar
-- 12 h Selbststudium 
+- 36h Vorlesung 
+- 36h Seminar
+- 102h Selbststudium 
 
 ## Angestrebte Lernergebnisse:
 Mathematische Abstraktion und Fertigkeiten sind unverzichtbare Grundlagen wissenschaftlichen Arbeitens im Bereich der Informatik. Durch den Besuch dieser Veranstaltung sollen Studierende ihre mathematisch-abstrakte Analysefähigkeit weiter ausbauen, ihre Sicherheit im Umgang mit mathematischen Methoden mit Relevanz für die Informatik stärken, die Fähigkeit zur selbständigen Einarbeitung in neue mathematische Sachverhalte erhalten und ihre Beurteilungsfähigkeit im Umgang mit mathematisch-abstrakten Themen erhöhen.
@@ -45,7 +45,9 @@ Exemplarische Fragestellungen der Mathematik in der Informatik mit beispielhafte
 
 
 ## Studien-/Prüfungsleistungen:
-Präsentation und Klausur
+Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
+- Präsentation (50%)
+- Klausur (50%)
 
 ## Medienformen:
 Präsentationsmaterialien, Arbeitsblätter
