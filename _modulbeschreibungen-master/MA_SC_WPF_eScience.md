@@ -1,5 +1,5 @@
 ---
-title: WPF e-Science
+title: e-Science
 modulverantwortlich: ck
 modulniveau: null
 kuerzel: CE
@@ -17,9 +17,12 @@ type: wpm
 parent: WPM
 ---
 
-## Lehrform/SWS: Vorlesung/ 3 SWS, Projekt/ 3 SWS
+## Lehrform/SWS: 
+6 SWS: Vorlesung 3 SWS; Projekt 3 SWS
 
-## Arbeitsaufwand: 180 h, davon 60h Vorlesung, 30h Selbststudium, 90h Seminar 
+## Arbeitsaufwand: 
+Gesamtaufwand 180 h, davon 
+60h Vorlesung, 30h Selbststudium, 90h Seminar 
 
 ## Lehrform/SWS:
 
@@ -29,9 +32,9 @@ parent: WPM
 
 Gesamtaufwand 180 h, davon 
 
-- 60 h Vorlesung 
-- 30 h Selbststudium
-- 90 h Seminar
+- 54h Vorlesung 
+- 54h Projekt
+- 72h Selbststudium
 
 
 ## Angestrebte Lernergebnisse:
@@ -48,7 +51,8 @@ Die Studierenden sollen quantitative und qualitative Forschungsmethoden mithilfe
 - Systeme für Peer-Reviews
 
 ## Studien-/Prüfungsleistungen:
-Mündiche Prüfung
+Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
+- Mündiche Prüfung (!00%)
 
 ## Medienformen:
 - Beamer-gestützte Vorlesungen (Folien in elektronischer Form)
