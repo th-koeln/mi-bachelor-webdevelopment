@@ -27,9 +27,9 @@ Das Modul führt in die grundlegenden narrativen Modelle in unterschiedlichen Me
 
 ## Arbeitsaufwand: 
 Gesamtaufwand 180 h, davon 
-- 36 h Vorlesung
-- 36 h Projektarbeit
-- 108 h Selbststudium
+- 36h Vorlesung
+- 36h Projektarbeit
+- 108h Selbststudium
 
 ## Angestrebte Lernergebnisse:
 Die Studierenden kennen die grundlegenden narrativen Modelle in unterschiedlichen Medien und Kontexten.
@@ -46,7 +46,9 @@ Pragmatisches Ziel ist es, in den unterschiedlichsten Berufsfeldern digitaler Me
 - Anwendung in verschiedenen Kontexten wie Film, Computerspiel, Entwicklungsumgebung und Kommunikation
 
 ## Studien-/Prüfungsleistungen:
-Projektarbeit (50%) und schriftliche Ausarbeitung (50%)
+Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
+- Projektarbeit (50%) 
+- Schriftliche Ausarbeitung (50%)
 
 ## Medienformen:
 - Beamer-gestützte Vorlesungen (Folien in elektronischer Form)
