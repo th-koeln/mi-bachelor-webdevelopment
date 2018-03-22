@@ -27,9 +27,10 @@ schwerpunkt: hci, mpd
 
 Gesamtaufwand 180 h, davon
 
-- 45 h Vorlesung
-- 30 h Übung
-- 105 h Projekt
+- 36h Vorlesung
+- 18h Übung
+- 54h Projekt
+- 72h Selbstlernphase
 
 
 
@@ -38,7 +39,6 @@ Ziel ist vor allem, die Benutzerperspektive im Entwicklungsprozess interaktiver 
 Die Studierenden haben konzeptionelles Design (Conceptual Design) verstanden, können es souverän anwenden und als Vorgehen kritisch einordnen, um aufgabenangemessene und aus Benutzersicht angenehme Technologienutzung zu gestalten. Die Studierenden haben den Ansatz „Designing for Life” verstanden und wissen, wie sie dies methodisch umsetzen können.
 
 ## Inhalt:
-
 - Analyse und Dokumentation menschlichen, situierten Handelns
 - Entwicklung präskriptiver Handlungsmodelle
 - Analyse und kritische Einordnung präskriptiver Handlungsmodelle
@@ -49,7 +49,8 @@ Die Studierenden haben konzeptionelles Design (Conceptual Design) verstanden, k�
 - Evaluationsmethoden und –techniken
 
 ## Studien-/Prüfungsleistungen:
-schriftliche Ausarbeitung und Designartefakte
+Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
+Projektdokumentation und Designartefakte (100%)
 
 ## Medienformen:
 - Beamer-gestützte Vorlesungen
