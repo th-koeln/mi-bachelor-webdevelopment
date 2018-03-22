@@ -63,7 +63,8 @@ Nach erfolgreichem Abschluss
 
 
 ## Studien-/Prüfungsleistungen: 
-- Fachvortrag (40% der Note)
+Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
+- Fachvortrag (40%)
 - Projektumsetzung und Dokumentation (60%)
 
 ## Medienformen:
