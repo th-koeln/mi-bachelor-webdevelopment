@@ -1,5 +1,5 @@
 ---
-title: Angewandte Statistik für die Mensch-Computer Interaktion
+title: Angewandte Statistik für die Human-Computer Interaction
 modulverantwortlich: gh
 modulniveau: null
 kuerzel: Stat
@@ -49,7 +49,6 @@ Konfidenzintervalle, Fehlertypen, Effektstärken und Power, multivariate Verfahr
 
 ## Studien-/Prüfungsleistungen:
 Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
-- Übungsaufgaben (Studienleistung) 
 - Schriftliche Modulprüfung (100%)
 
 ## Medienformen:
