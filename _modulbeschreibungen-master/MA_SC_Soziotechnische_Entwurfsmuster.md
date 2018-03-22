@@ -26,9 +26,9 @@ schwerpunkt: sc
 
 Gesamtaufwand 180 h, davon 
 
-- 45 h Vorlesung 
-- 90 h Projekt
-- 45 h Selbststudium 
+- 36h Vorlesung 
+- 36h Projekt
+- 108h Selbststudium 
 
 ## Angestrebte Lernergebnisse:
 Die Studierenden sollen:
@@ -51,7 +51,8 @@ Die Studierenden sollen:
 - Schreiben von Entwurfsmustern
 
 ## Studien-/Prüfungsleistungen:
-Schriftliche Ausarbeitung zu neuen Entwurfsmustern
+Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
+- Schriftliche Ausarbeitung (100%)
 
 ## Medienformen:
 - Beamer-gestützte Vorlesungen (Folien in elektronischer Form)
