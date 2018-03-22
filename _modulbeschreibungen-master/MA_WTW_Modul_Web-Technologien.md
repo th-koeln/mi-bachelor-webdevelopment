@@ -21,11 +21,13 @@ schwerpunkt: wtw
 ## Kurzbeschreibung:
 In Modul werden fortgeschrittene Herangehensweisen, Technologien, Konzepte und Implementierungsansätze im Kontext Web-basierter Anwendungen adressiert.
 
-## Lehrform/SWS: 
-Seminar / Workshop 4 SWS
+## Lehrform/SWS:
+4SWS: Seminar / Workshop 4 SWS
 
 ## Arbeitsaufwand: 
-180 Stunden
+Gesamtaufwand 180 Stunden, davon
+- 72h Seminar / Workshop
+- 102h Selbststudium
 
 ~~~
 Bitte Stunden noch aufsplitten
@@ -56,7 +58,8 @@ Die Studierenden kennen geeignete Vorgehensmodelle, Dokumentationstechniken, sow
 - Kommunikations- und Kollaborationswerkzeuge
 
 ## Studien-/Prüfungsleistungen:
-Projektarbeit
+Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
+- Projektarbeit und -dokumentation (100%)
 
 ## Medienformen:
 n/a
