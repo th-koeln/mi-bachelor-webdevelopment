@@ -25,9 +25,10 @@ schwerpunkt: hci
 
 Gesamtaufwand 180 h, davon
 
-- 45 h Vorlesung
-- 30 h Übung
-- 105 h Projekt
+- 36h Vorlesung
+- 18h Übung
+- 54h Projekt
+- 72h Selbstlernphase
 
 
 
@@ -45,7 +46,8 @@ Die Studierenden sind in der Lage de- und präskriptiv Nutzer- oder deren nutzun
 
 
 ## Studien-/Prüfungsleistungen:
-Projektpräsentationsprüfung
+Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
+- Projektpräsentationsprüfung (100%)
 
 ## Medienformen:
 - Lehrfilme,
