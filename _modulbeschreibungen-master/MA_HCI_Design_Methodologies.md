@@ -26,9 +26,10 @@ schwerpunkt: hci
 
 Gesamtaufwand 180 h, davon 
 
-- 45 h Vorlesung 
-- 30 h Übung
-- 105 h Projekt
+- 36h Vorlesung 
+- 18h Übung
+- 54h Projekt
+- 72h Selbstlernphase
 
 ## Angestrebte Lernergebnisse:
 Die Teilnehmer sind in der Lage verschiedene methodische Rahmen für die Gestaltung interaktiver Systeme zu benennen, kritisch einzuordnen und für ihre konkreten Projekte eine rational begründete Wahl eines (oder einer Kombination aus verschiedenen) methodischen Rahmen zu treffen und zu kommunizieren. Sie sind in der Lage, die Methoden projektgerecht und kompetent anzuwenden und Design-Entscheidungen und „trade-offs“ zu begründen sowie Designresultate unter Einbeziehung der Designmethoden kritisch zu diskutieren.
@@ -46,7 +47,8 @@ Die Teilnehmer sind in der Lage verschiedene methodische Rahmen für die Gestalt
 
 
 ## Studien-/Prüfungsleistungen:
-Mündliche Prüfung
+Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
+Mündliche Prüfung (100%)
 
 ## Medienformen:
 - Beamer-gestützte Vorlesungen
