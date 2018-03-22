@@ -18,7 +18,7 @@ parent: SPM3
 schwerpunkt: sc
 ---
 
-##Kurzbeschreibung
+## Kurzbeschreibung
 Es werden Grundlagen für die Analyse und algorithmische Verarbeitung von Graph basierten Daten eingeführt. 
 
 ## Lehrform/SWS: 
