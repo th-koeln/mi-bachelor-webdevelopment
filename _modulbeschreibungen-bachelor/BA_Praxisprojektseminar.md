@@ -16,7 +16,7 @@ type: pm
 ---
 
 ## Lehrform/SWS:
-Seminar
+4 SWS: Seminar
 
 ## Arbeitsaufwand:
 Gesamtaufwand 150 h, davon 
@@ -40,7 +40,9 @@ Das Praxisprojektseminar besteht aus
 
 - Veranstaltungen in denen Techniken wissenschaftlichen Arbeitens vermittelt werden,
 
-- Fachvorträgen von Studierenden über Ihre Projektergebnisse.
+- Audits über den aktuellen Stand ihres Projektes,
+
+- Fachvorträgen von Studierenden über ihre Projektergebnisse.
 
 ## Studien-/Prüfungsleistungen:
 Seminarvortrag zur Praxisprojektarbeit
