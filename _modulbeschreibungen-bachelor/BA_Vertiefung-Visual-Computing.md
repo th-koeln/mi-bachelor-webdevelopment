@@ -28,7 +28,7 @@ Die Kurse sind in der Regel projektbasiert aufgebaut, so dass sowohl theoretisch
 
 ## Lehrform/SWS: 
 Vorlesung, Praktikum / Projekt, Übung mit kursabhängigen Schwerpunkten
-
+4 SWS: Vorlesung 2 SWS; Praktikum 2 SWS
 
 ## Lehrveranstaltungen
 Pflichtbereich im Gesamtumfang von 10 CP:
