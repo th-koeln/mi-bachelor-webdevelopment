@@ -45,35 +45,21 @@ Die Studierenden sollen
 - mit dem Transaktionsbegriff, der Mehrbenutzersynchronisation und Verfahren zur Fehlererholung sowie zur Sicherung der Datenintegrität vertraut sein
 
 ## Inhalt:
-* Grundbegriffe und Architektur von Datenbanken  
-
-
+- Grundbegriffe und Architektur von Datenbanken  
 - Ein Vorgehensmodell zur Erstellung eines Datenbanksystems
-
 - Grundlagen des relationalen Modells
-
-
-
 - Relationale Algebra
-
 - Anfrageoptimierung
-
 - Funktionale Abhängigkeiten
-
 - Datenintegrität
-
 - Normalisierung
-
-
-
 - Datenmodellierung (Entity Relationship Modell) und Implementierung am Beispiel eines relationalen Datenbanksystems
-
 - Datenbanksprache SQL: DDL, DML, DAL, Integritätsbedingungen und Constraints unter dem jeweils aktuellen SQL-Standard, zur Zeit SQL2013
-
 - Transaktionskonzepte, Mehrbenutzersynchronisation, Fehlererholung und Datensicherheit
 
 ## Studien-/Prüfungsleistungen:
-Klausur, deren Voraussetzung das bestandene Praktikum ist, und semesterbegleitende Multiple‐Choice‐Tests mit Punkten für die Klausur
+Schriftliche Prüfung, sowie erfolgreiche Teilnahme am Praktikum als Prüfungsvorleistung.
+Semesterbegleitende Multiple‐Choice‐Tests mit Punkten für die Klausur.
 
 ## Medienformen:
 * Folien gestützer Vortrag - aber nur sehr selten  
