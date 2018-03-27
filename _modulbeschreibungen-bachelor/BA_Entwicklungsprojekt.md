@@ -16,10 +16,12 @@ type: pm
 ---
 
 ## Lehrform/SWS:
-Projekt
+Projekt / 2 SWS: Seminar
 
 ## Arbeitsaufwand:
-300 h
+Gesamtaufwand 300 h, davon
+* 36 h Seminar
+* 264 h Selbststudium
 
 ## Angestrebte Lernergebnisse:
 Die Studierenden sollen vertiefende Kenntnisse in die Methoden und Techniken aus zwei ausgewählten Modulen aus den ersten vier Fachsemestern des Studiums erlangen und diese in der Konzeption und prototypischen Realisierung eines interaktiven Systems oder Mediums anwenden. Dadurch sollen sie eigene Erfahrungen in der Projektabwicklung mit Medieninformatik-spezifischen Fragestellungen und in der Teamarbeit sammeln und eine reflektierend-kritische Haltung zu methodischen Ansätzen und Entwicklungsmodellen entwickeln. Ziel ist es eine, mit eigenen praktischen Erfahrungen fundierte Methodenkompetenz zu erlangen.
