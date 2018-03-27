@@ -51,7 +51,7 @@ Gesamtaufwand 300 h, davon
 - Evaluation
 
 ## Studien-/Prüfungsleistungen:
-schriftliche Modulprüfung
+Schriftliche Prüfung.
 
 ## Medienformen:
 * Beamergestützte Vorlesung
