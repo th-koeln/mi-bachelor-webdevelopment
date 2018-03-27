@@ -49,7 +49,7 @@ Die Studierenden sollen
 
 ## Studien-/Prüfungsleistungen:
 
-Klausur sowie erfolgreiche Teilnahme am Praktikum als Prüfungsvorleistung
+Schriftliche Prüfung, sowie erfolgreiche Teilnahme am Praktikum als Prüfungsvorleistung.
 
 ## Medienformen:
 
