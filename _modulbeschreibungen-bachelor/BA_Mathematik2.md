@@ -39,7 +39,7 @@ Die Studierenden sollen die Fähigkeiten zur Analyse realer oder geplanter Syste
 * Differentialgleichungen.
 
 ## Studien-/Prüfungsleistungen:
-Klausur (60 min) sowie erfolgreiche Teilnahme am Praktikum als Zulassungsvoraussetzung.
+Schriftliche Prüfung, sowie erfolgreiche Teilnahme am Praktikum als Prüfungsvorleistung.
 
 ## Medienformen:
 
