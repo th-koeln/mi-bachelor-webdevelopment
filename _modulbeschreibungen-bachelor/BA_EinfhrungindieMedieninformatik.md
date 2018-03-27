@@ -22,10 +22,10 @@ Seminar mit eingebetteten Übungselementen und Projektarbeit.
 ## Arbeitsaufwand:
 Gesamtaufwand 150 h, davon
 
-30 h Seminar
-10 h Übung
-40 h Projekt
-70 h Selbststudium
+- 30 h Seminar
+- 10 h Übung
+- 40 h Projekt
+- 70 h Selbststudium
 
 ## Angestrebte Lernergebnisse:
 Die Studierenden können die inhaltlichen Ausrichtungen und die Zielsetzungen der Lehr- und Anwendungsdisziplin Medieninformatik benennen und gegenüber verwandten oder ähnlichen Disziplinen abgrenzen. 
