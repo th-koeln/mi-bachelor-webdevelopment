@@ -32,8 +32,8 @@ Das Modul verbindet daher Theorien, Modelle und Methodik der Human- und Sozialwi
 ## Arbeitsaufwand: 
 Gesamtaufwand 600 h, davon
 
-* Soziotechnische Systeme: Vorlesung, Seminar(50 Stunden); Selbstlernphase (100 Stunden)
-* Empirische Forschungsmethoden: Vorlesung, Seminar(50 Stunden); Selbstlernphase (100 Stunden)
+* Soziotechnische Systeme: Vorlesung, Seminar (50 Stunden); Selbstlernphase (100 Stunden)
+* Empirische Forschungsmethoden: Vorlesung, Seminar (50 Stunden); Selbstlernphase (100 Stunden)
 * Gamification: Vorlesung, Seminar (50 Stunden); Selbstlernphase (100 Stunden)
 * Social Computing Projekt: Projekt (150 Stunden)
 
