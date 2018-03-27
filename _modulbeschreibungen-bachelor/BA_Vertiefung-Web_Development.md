@@ -19,7 +19,7 @@ type: vpm
 Einführungen in Konzepte, Techniken und Arbeitsweisen der Web Entwicklung.
 
 ## Lehrform/SWS: 
-18 SWS: Vorlesung 6 SWS, Praktikum 6 SWS, Projekt 4 SWS
+16 SWS: Vorlesung 6 SWS, Praktikum 6 SWS, Projekt 4 SWS
 
 ## Lehrveranstaltungen
 - Web Frontend Entwicklung
