@@ -40,7 +40,7 @@ Die Studierende sollen Objektorientierung, die Prinzipien der Algorithmenentwick
 
 ## Studien-/Prüfungsleistungen:
 
-Klausur sowie erfolgreiche Teilnahme am Praktikum als Prüfungsvorleistung
+Klausur sowie erfolgreiche Teilnahme am Praktikum als Prüfungsvorleistung.
 
 ## Medienformen:
 
