@@ -26,7 +26,7 @@ Gesamtaufwand 150 h, davon
 - 90h Selbststudium
 
 ## Angestrebte Lernergebnisse:
-Die Studierenden verstehen die wichtigsten Entscheidungsbereiche wirtschaftlichen Handeln und können diese anwenden. Sie können grundlegenden Entscheidungen im Rahmen einer Unternehmensgründung, die Aufgaben der Unternehmensführung wie die Konzeption einer tragfähigen Strategie, und die Aufgaben der Teilbereiche Produktion, Absatz und Marketing sowie Investition und Finanzierung beschreiben und beurteilen. Investitionsentscheidungen können die Studierenden informationsgestützt treffen indem Sie die Kalkulationsverfahren der Investitionsrechnung anwenden und auswerten. Die Veranstaltung bereitet die Studierenden für weitere BWL-Veranstaltungen Ihres Studiums, sowie darauf, in ihrem Berufsleben wirtschaftliche Konzepte im Unternehmenskontext anzuwenden, vor.
+Die Studierenden verstehen die wichtigsten Entscheidungsbereiche wirtschaftlichen Handeln und können diese anwenden. Sie können grundlegenden Entscheidungen im Rahmen einer Unternehmensgründung, die Aufgaben der Unternehmensführung wie die Konzeption einer tragfähigen Strategie, und die Aufgaben der Teilbereiche Produktion, Absatz und Marketing sowie Investition und Finanzierung beschreiben und beurteilen. Investitionsentscheidungen können die Studierenden informationsgestützt treffen indem sie die Kalkulationsverfahren der Investitionsrechnung anwenden und auswerten. Die Veranstaltung bereitet die Studierenden für weitere BWL-Veranstaltungen ihres Studiums, sowie darauf, in ihrem Berufsleben wirtschaftliche Konzepte im Unternehmenskontext anzuwenden, vor.
 
 
 ## Inhalt:
