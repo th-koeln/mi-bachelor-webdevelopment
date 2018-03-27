@@ -56,7 +56,7 @@ Systemprogrammierung am Beispiel von UNIX:
 - Klassische Synchronisationsprobleme
 
 ## Studien-/Prüfungsleistungen:
-Klausur sowie erfolgreiche Teilnahme am Praktikum als Prüfungsvorleistung.
+Schriftliche Prüfung, sowie erfolgreiche Teilnahme am Praktikum als Prüfungsvorleistung.
 
 ## Medienformen:
 Foliensammlung, ausformuliertes Skript, Beispiellösungen
