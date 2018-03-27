@@ -48,7 +48,7 @@ Das Modul gliedert sich in folgende Inhalte:
 
 
 ## Studien-/Prüfungsleistungen:
-Klausur 120 Minuten
+Schriftliche Prüfung, sowie erfolgreiche Teilnahme am Praktikum als Prüfungsvorleistung.
 
 ## Medienformen:
 - Flipped-Classroom mit Diskussion und Übungen als Einzel- und Kleinstgrupen
