@@ -20,9 +20,9 @@ type: pm
 
 ## Arbeitsaufwand:
 Gesamtaufwand 150 h, davon
-- 45h Vorlesung (inkl. Vor- und Nachbearbeitung)
-- 45h Übung (inkl. Vor- und Nachbearbeitung)
-- 60h Selbstlernphase 
+- 36 h Vorlesung
+- 36 h Übung
+- 78 h Selbstlernphase 
 
 ## Angestrebte Lernergebnisse:
 
@@ -50,7 +50,7 @@ Gesamtaufwand 150 h, davon
 - Prädikatenlogik
 
 ## Studien-/Prüfungsleistungen:
-Schriftliche Modulprüfung von 60 Min.
+Schriftliche Prüfung (60 Min)
 
 ## Medienformen:
 Vorlesung mit Übung
