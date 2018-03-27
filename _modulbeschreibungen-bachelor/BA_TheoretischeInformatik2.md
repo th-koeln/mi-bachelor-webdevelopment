@@ -38,7 +38,7 @@ siehe Theoretische Informatik 1.
 
 
 ## Studien-/Prüfungsleistungen:
-Schriftliche Prüfung (60 Min).
+Schriftliche Prüfung.
 
 ## Medienformen:
 Vorlesung und praktische Übungen
