@@ -42,7 +42,7 @@ Workshops zu grundlegenden projektrelevanten Themenfeldern (wie: Datenmodellieru
 Teambasiertes Projekt, welches ausgehend von Kontextszenarien eine (oder mehrere) Problemstellung(en) umreist, zu dem Lösungen konzipiert und prototypisch umgesetzt, dokumentiert und einem Fachpublikum präsentiert werden müssen.
 
 ## Studien-/Prüfungsleistungen:
-Projektpräsentation, schriftliche Ausarbeitung
+Projektpräsentation und schriftliche Ausarbeitung.
 
 ## Medienformen:
 - Beamer-gestützte Vorlesungen (Folien in elektronischer Form)
