@@ -37,7 +37,7 @@ Die Studierenden sollen die Basiskonzepte und Grundlagen der Betriebssysteme und
 
 ## Studien-/Prüfungsleistungen:
 
-Schriftliche Prüfung, zuvor erfolgreiche Teilnahme am Praktikum als Prüfungsvorleistung
+Schriftliche Prüfung.
 
 ## Medienformen:
 
