@@ -50,7 +50,7 @@ Gesamtaufwand 150 h, davon
 - Prädikatenlogik
 
 ## Studien-/Prüfungsleistungen:
-Schriftliche Prüfung (60 Min).
+Schriftliche Prüfung.
 
 ## Medienformen:
 Vorlesung mit Übung
