@@ -20,9 +20,9 @@ type: pm
 
 ## Arbeitsaufwand:
 Gesamtaufwand 150 h, davon
-- 45h Vorlesung (inkl. Vor- und Nachbearbeitung)
-- 45h Übung (inkl. Vor- und Nachbearbeitung)
-- 60h Selbstlernphase 
+- 36 h Vorlesung
+- 36 h Übung
+- 78 h Selbstlernphase
 
 ## Angestrebte Lernergebnisse:
 siehe Theoretische Informatik 1.
@@ -38,7 +38,7 @@ siehe Theoretische Informatik 1.
 
 
 ## Studien-/Prüfungsleistungen:
-Schirftliche Modulprüfung von 60 Min.
+Schriftliche Modulprüfung von 60 Min.
 
 ## Medienformen:
 Vorlesung und praktische Übungen
