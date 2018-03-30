@@ -21,29 +21,23 @@ schwerpunkt: wtw
 ## Kurzbeschreibung:
 In Modul werden fortgeschrittene Herangehensweisen, Technologien, Konzepte und Implementierungsansätze im Kontext Web-basierter Anwendungen adressiert.
 
-## Lehrform/SWS:
-4SWS: Seminar / Workshop 4 SWS
+## Lehrform/SWS: 
+4 SWS: Seminar 2 SWS, Workshop 2 SWS
 
 ## Arbeitsaufwand: 
-Gesamtaufwand 180 Stunden, davon
-- 72h Seminar / Workshop
-- 102h Selbststudium
+Gesamtaufwand 180 Stunden, davon 
+- 36 h Seminar 
+- 36 h Workshop 
+- 108 h Selbststudium 
 
-~~~
-Bitte Stunden noch aufsplitten
-Beispiel:
-
-Gesamtaufwand 150 h, davon 
-- 40 h Vorlesung 
-- 40 h Projektarbeit  
-- 90 h Selbststudium 
-~~~
 ## Angestrebte Lernergebnisse:
-Die Studierenden sind in der Lage auf Basis eines dokumentierten Konzepts ein Entwicklungsprojekt für eine Web-basierte Anwendung zu strukturieren, das Konzept ggf. zu erweitern, um das Entwicklungsprojekt im Team realisieren zu können
+Die Studierenden sind in der Lage auf Basis eines dokumentierten Konzepts ein Entwicklungsprojekt für eine Web-basierte Anwendung zu strukturieren, das Konzept ggf. zu erweitern, um Entwicklungsprojekte im oder für ein Team aufsetzen zu können.
 
-Die Studierenden kennen verschiedene Implementierungskonzepte und -methoden, also auch Frameworks und Best-Practices und können, bezogen auf die Projektanforderungen, die geeigneten auswählen, um möglichst effizient und nachhaltig entwickeln zu können.
+Die Studierenden kennen verschiedene Implementierungskonzepte und -methoden, also auch Frameworks und Best-Practices und können, bezogen auf die Projektanforderungen, die geeigneten auswählen und andere darin anleiten, um eine Web-basierte Anwendung möglichst nachhaltig entwickeln zu können.
 
-Die Studierenden kennen geeignete Vorgehensmodelle, Dokumentationstechniken, sowie Entwicklungswerkzeuge und können diese im Projektkontext sinnvoll einsetzen um möglichst nachhaltig entwickeln und dokumentieren zu können.
+Die Studierenden kennen geeignete Vorgehensmodelle, Dokumentationstechniken, sowie Entwicklungswerkzeuge und können diese im Projektkontext sinnvoll einsetzen, um möglichst professionell im Team entwickeln und dokumentieren zu können.
+
+Die Studierenden sind in der Lage, neue Technologien und Strömungen im Kontext des Webs zu erkennen, einzuordnen, zu bewerten und zu durchdringen, um die Zukunftsfähigkeit der eigenen Skills, des Teams und den Projekts sicher zu stellen.   
 
 ## Inhalt:
 - Client-Server Kommunikation und Schnittstellen: REST, Nachrichtenbasierte Kommunikation, Web-Sockets, etc.
@@ -62,6 +56,16 @@ Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern ang
 - Projektarbeit und -dokumentation (100%)
 
 ## Medienformen:
-n/a
+Präsentationsmaterialien
 
 ## Literatur:
+
+### Paper:
+- Brad Frost: Atomic Design; Smashing Magazine GmbH, 2009
+- [Stephen Hay: Responsive design workflow; New Riders, 2013](http://www.digibib.net/permalink/832/FHBK-x/HBZ:HT017780178)
+- [Olaf Berberich: Trusted Web 4.0 - Konzepte einer digitalen Gesellschaft; Springer Vieweg, 2016](http://www.digibib.net/permalink/832/FHBK-x/HBZ:HT019048164)
+
+### Web:
+- [World Wide Web Consortium](https://www.w3.org/)
+- [Resources on JAMstack](https://jamstack.org/resources/)
+

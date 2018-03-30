@@ -33,7 +33,7 @@ Basierend auf diesem Grundlagenwissen werden dann Lösungen aus fortschrittliche
 Gesamtaufwand 180 Stunden, davon 
 - 36 h Vorlesung 
 - 36 h Seminar 
-- 102 h Selbststudium 
+- 108 h Selbststudium 
 
 
 ## Angestrebte Lernergebnisse:
