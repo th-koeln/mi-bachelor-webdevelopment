@@ -53,7 +53,8 @@ Die Studierenden sind in der Lage, neue Technologien und Strömungen im Kontext 
 
 ## Studien-/Prüfungsleistungen:
 Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
-- Projektarbeit und -dokumentation (100%)
+- Lernportfolio (70%)
+- mündliche/praktische Prüfung (30%)
 
 ## Medienformen:
 Präsentationsmaterialien
