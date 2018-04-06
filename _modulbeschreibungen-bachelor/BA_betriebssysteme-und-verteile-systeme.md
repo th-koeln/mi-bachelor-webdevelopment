@@ -30,11 +30,28 @@ Gesamtaufwand 150 h, davon
 
 ## Angestrebte Lernergebnisse:
 
-Die Studierenden sollen:
+Die Studierenden können den Aufbau von Betriebssystemen am Beispiel UNIX erläutern, indem sie
+- die Ziele der Entwicklung von UNIX nennen und beschreiben,
+- die Hauptaufgaben von Betriebssystemen nennen und beschreiben,
+- den Aufbau von Betriebssystemen darstellen und erklären,
+um die verschiedenen Bestandteile und Konzepte von Betriebssystemen nutzen zu können.
 
-- die Prinzipien und Mechanismen von Betriebssystemen und verteilten Systemen am Beispiel von UNIX verstanden haben,
-- in der Lage sein, selbstständig Systemprogramme zu schreiben und Betriebssystemstrukturen zu bewerten und
-- die Mechanismen zur Implementierung verteilter Anwendungen anwenden können.
+Die Studierenden können eigene C-Programme für verteilte Systeme erstellen, indem sie
+- einen Computer über die Shell bedienen und dort eigene Programme ausführbar machen,
+- Daten mittels Systemschnittstellen in Dateien speichern, daraus lesen und diese verwalten,
+- Sockets für Client- und Serverprogramme nutzen und Daten darüber senden und empfangen,
+- Prozesse für nebenläufige Programmabläufe erzeugen,
+- Kommunikation zwischen Prozessen mit Shared Memory, Pipes und Message Queues realisieren,
+- Race Conditions erkennen, kritische Abschnitte festlegen und Prozesse synchronisieren,
+- die Lösungen klassischer Synchronisationsprobleme kennen und nutzen,
+um später hardware- oder systemnahe Software für verteilte Systeme zu entwickeln oder zu bewerten, bspw. im Bereich »Internet of Things«
+
+Die Studierenden können theoretische Grundlagen von Betriebssystemen erörtern, indem sie
+- Programme und Prozesse unterscheiden und letztere mit ihren Zuständen modellieren,
+- verschiedene Strategien für das Scheduling von Prozessen anwenden und bewerten,
+- die Organisation des Speichers auf einem Datenträger erklären und darstellen,
+- die Abbildung von Prozessen im Arbeitsspeicher erklären und verschiedene Ansätze zur Verwaltung erläutern,
+um später Auswirkungen von Betriebssystemvorgängen auf eigene Programme zu erkennen und darauf zu reagieren.
 
 ## Inhalt:
 
