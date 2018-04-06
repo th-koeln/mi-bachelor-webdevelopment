@@ -34,6 +34,7 @@ Die Studierenden können den Aufbau von Betriebssystemen am Beispiel UNIX erläu
 - die Ziele der Entwicklung von UNIX nennen und beschreiben,
 - die Hauptaufgaben von Betriebssystemen nennen und beschreiben,
 - den Aufbau von Betriebssystemen darstellen und erklären,
+
 um die verschiedenen Bestandteile und Konzepte von Betriebssystemen nutzen zu können.
 
 Die Studierenden können eigene C-Programme für verteilte Systeme erstellen, indem sie
@@ -44,6 +45,7 @@ Die Studierenden können eigene C-Programme für verteilte Systeme erstellen, in
 - Kommunikation zwischen Prozessen mit Shared Memory, Pipes und Message Queues realisieren,
 - Race Conditions erkennen, kritische Abschnitte festlegen und Prozesse synchronisieren,
 - die Lösungen klassischer Synchronisationsprobleme kennen und nutzen,
+
 um später hardware- oder systemnahe Software für verteilte Systeme zu entwickeln oder zu bewerten, bspw. im Bereich »Internet of Things«
 
 Die Studierenden können theoretische Grundlagen von Betriebssystemen erörtern, indem sie
@@ -51,6 +53,7 @@ Die Studierenden können theoretische Grundlagen von Betriebssystemen erörtern,
 - verschiedene Strategien für das Scheduling von Prozessen anwenden und bewerten,
 - die Organisation des Speichers auf einem Datenträger erklären und darstellen,
 - die Abbildung von Prozessen im Arbeitsspeicher erklären und verschiedene Ansätze zur Verwaltung erläutern,
+
 um später Auswirkungen von Betriebssystemvorgängen auf eigene Programme zu erkennen und darauf zu reagieren.
 
 ## Inhalt:
