@@ -16,7 +16,7 @@ type: pm
 ---
 
 ## Lehrform/SWS:
-Vorlesung und Übung
+Vorlesung und Praktikum/Übung
 
 ## Arbeitsaufwand: 
 
@@ -24,7 +24,7 @@ Vorlesung und Übung
 Gesamtaufwand 300 h, davon 
 
 * 65h Vorlesung
-* 65h Übung
+* 65h Praktikum/Übung
 * 170 h Selbststudium
 
 ## Angestrebte Lernergebnisse:
