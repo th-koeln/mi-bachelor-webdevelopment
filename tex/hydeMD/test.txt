@@ -10,7 +10,6 @@ Im Zentrum des Studiums steht in den ersten drei Fachsemestern jeweils eine Proj
 Das erforderliche Grundlagenwissen sowie schwerpunktbezogene Kenntnisse werden in den ersten drei Semestern parallel zur Projektarbeit in drei Grundlagen-, drei Schwerpunkt- und drei Wahlpflicht-Modulen sowie in projektbegleitenden Lehrveranstaltungen vermittelt. Das vierte Semester ist dann darauf aufbauend ganz der selbstständigen Arbeit an der Masterthesis gewidmet.
 
 
-
 # Schwerpunkt: Human-Computer Interaction
 
 
@@ -48,7 +47,6 @@ Interaction Designer konzipieren und gestalten die vielfältigen Beziehungen zwi
 - Design Methodologies
 
 - Angewandte Statistik für die Mensch-Computer Interaktion
-
 
 
 # Schwerpunkt: Multiperspective Product Development
@@ -90,7 +88,6 @@ Bitte nachtragen
 - Qualitätssicherung und -management
 
 
-
 # Schwerpunkt: Social Computing
 
 
@@ -115,7 +112,6 @@ Bitte nachtragen
 - Soziotechnische Entwurfsmuster
 
 - Netzwerk-und Graphentheorie
-
 
 
 # Schwerpunkt: Visual Computing
@@ -162,7 +158,6 @@ Bitte nachtragen
 - Visualisierung
 
 
-
 # Schwerpunkt: Weaving the Web
 
 
@@ -198,7 +193,6 @@ Bitte nachtragen
 - Web Architekturen
 
 - Web Technologien
-
 
 
 # Computerethik
@@ -293,7 +287,6 @@ Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern ang
 - Wendel, Stephen. (2013). Designing for behavior change: Applying psychology and behavioral economics.
 
 
-
 # Masterarbeit inkl. Kolloquium
 
 
@@ -347,7 +340,6 @@ Je nach Thema
 ## Literatur:
 
 Je nach Thema
-
 
 
 # Spezielle Gebiete der Mathematik
@@ -425,7 +417,6 @@ Präsentationsmaterialien, Arbeitsblätter
 - Siehe ILIAS Modul MAS & SGM, Dokument Allgemeine Hinweise
 
 
-
 # Wahlpflichtmodule
 
 
@@ -441,7 +432,6 @@ Frei aus dem Katalog der Pflicht- und Wahlpflichtmodule der Masterstudiengänge 
 ## Arbeitsaufwand:
 
 180 Stunden
-
 
 
 # Research Methods
@@ -512,7 +502,6 @@ Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern ang
 - Lazar, J. Feng, J., Hochheiser, H.: “Research Methods in Human-Computer Interaction”, Wiley, 2009
 
 - May, G., Mruck, K.: “Handbuch Qualitative Forschung in der Psychologie", Springer, 2010
-
 
 
 # Design Methodologies
@@ -597,7 +586,6 @@ Mündliche Prüfung (100%)
 - Schweppenhäuser: “Designtheorie”,  Springer, 2016
 
 - Martin, Hanington: “Designmethoden .100 Recherchemethoden und Analysetechniken für erfolgreiche Gestaltung“, Stiebner, 2013
-
 
 
 # Interaction Design
@@ -690,7 +678,6 @@ Projektdokumentation und Designartefakte (100%)
 - Bortz, J.; Döring, N., "Forschungsmethoden und Evaluation für Human- und Sozialwissenschaftler", Springer Heidelberg, Berlin, 2006
 
 
-
 # Angewandte Statistik für die Human-Computer Interaction
 
 
@@ -753,7 +740,6 @@ Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern ang
 - “Deskriptive Statistik”; R. Kosfeld, H. Eckey, M. Türck; Springer,  2016
 
 - “Inferenzstatistik verstehen”; M. Janczyk, R. Pfister, Springer, 2013
-
 
 
 # Sketching and Designing for User Experience
@@ -824,7 +810,6 @@ Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern ang
 - Snyder, Carolyn, „Paper Prototyping“, Morgan Kaufman Publishers, 2003
 
 
-
 # Projektarbeit - Entwicklung im Kontext des Studienschwerpunkts
 
 
@@ -888,7 +873,6 @@ Entwicklungsumgebung mit Artefakt-Repository, Kollaborationssysteme
 ## Literatur:
 
 Je nach fachlicher Aufgabe
-
 
 
 # Projektarbeit - Assessment/Evaluation, Forschung und Verwertung im Kontext des Studienschwerpunkts
@@ -958,7 +942,6 @@ Entwicklungs- und Deployment-Umgebung mit Artefakt-Repository, Kollaborationssys
 Je nach Studienschwerpunkt und fachlicher Aufgabe
 
 
-
 # Projektarbeit - Vision und Konzept im Kontext des Studienschwerpunkts
 
 
@@ -1022,7 +1005,6 @@ Artefakt-Repository, Kollaborationssysteme
 ## Literatur:
 
 Je nach Studienschwerpunkt und fachlicher Aufgabe
-
 
 
 # Netzwerk-und Graphentheorie
@@ -1102,7 +1084,6 @@ Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern ang
 - D. Easley, J. Kleinberg: Networks, Crowds, and Markets: Reasoning About a Highly Connected World , Cambridge University Press 2010
 
 - J. Scott: Social Network Analysis, 3rd ed., Sage Pub 2012
-
 
 
 # Soziotechnische Entwurfsmuster
@@ -1201,7 +1182,6 @@ Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern ang
 - Schuler, D. (2008). Liberating voices: A pattern language for communication revolution. Cambridge, Mass: MIT Press.
 
 - Schümmer, T., & Lukosch, S. (2007). Patterns for computer-mediated interaction. Chichester, England: John Wiley & Sons.
-
 
 
 # Computer Supported Collaborative Learning (CSCL)
@@ -1308,7 +1288,6 @@ Planung und Durchführung einer ca. 15 minütigen Onlineveranstaltung (100% der 
 - Issing, Klimsa: Information und Lernen mit Multimedia
 
 
-
 # e-Science
 
 
@@ -1381,7 +1360,6 @@ Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern ang
 - Schnädelbach, H. (2002). Erkenntnistheorie zur Einführung. Zur Einführung, 268. Hamburg: Junius.
 
 - Westermann, R. (2000). Wissenschaftstheorie und Experimentalmethodik: Ein Lehrbuch zur psychologischen Methodenlehre. Göttingen [u.a.]: Hogrefe, Verl. für Psychologie.
-
 
 
 # Bildbasierte Computergrafik
@@ -1493,7 +1471,6 @@ Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern ang
 - M. Magnor, Video-based Rendering, AK Peters, 2005
 
 
-
 # Photorealistische Bildsynthese
 
 
@@ -1587,7 +1564,6 @@ Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern ang
 - Philp Dutre, Phillippe Bekaert, Kavita Bala: Advanced Global Illumination, B&T 2003
 
 
-
 # Storytelling und Narrative Strukturen
 
 
@@ -1663,7 +1639,6 @@ Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern ang
 - Fuchs, Werner T.  (2013): Warum das Gehirn Geschichten liebt, Haufe-Lexware GmbH. Freiburg
 
 - Vogler, Christopher (2007): Die Odyssee des Drehbuchschreibens. Zweitausendeins. Frankfurt a. M.
-
 
 
 # Visualisierung
@@ -1785,7 +1760,6 @@ Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern ang
 - Data-driven Documents D3, d3js.org
 
 
-
 # Sicherheit, Privatsphäre und Vertrauen
 
 
@@ -1891,7 +1865,6 @@ Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern ang
 *	weitere als themenbezogener Einzelverweis in der Vorlesung und im Seminar
 
 
-
 # Logik und semantische Modellierung
 
 
@@ -1969,7 +1942,6 @@ Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern ang
 - F. Baader (ed.): The description logic handbook: theory, implementation, and applications, Cambridge University Press 2010
 
 - M. Kreuzer, S. Kühling: Logik für Informatiker, Pearson 2006 
-
 
 
 # Qualitätssicherung und Qualitätsmanagement
@@ -2067,7 +2039,6 @@ Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern ang
 - E. Mendes, N. Mosley: Web Engineering. Springer, 2006
 
 
-
 # Web Architekturen
 
 
@@ -2141,7 +2112,6 @@ Präsentationsmaterialien
 - R. Taylor et al.: Software Architecture - Foundations, Theory, and Practice, Wiley 2009
 
 - L. DeNardis: Protocol Politics, MIT Press 
-
 
 
 # Web Technologien
@@ -2237,3 +2207,4 @@ Präsentationsmaterialien
 - [World Wide Web Consortium](https://www.w3.org/)
 
 - [Resources on JAMstack](https://jamstack.org/resources/)
+

@@ -194,7 +194,7 @@ class Document {
     $this->reorderMDFiles();
 
     foreach( $this->files as $path => $page ) {
-      print $page->infos["title"] . "\n";
+      print $page->content . "\n";
     }
     $this->transpileToLatex();
   }
