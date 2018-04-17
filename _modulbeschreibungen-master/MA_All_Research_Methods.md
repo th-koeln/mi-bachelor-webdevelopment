@@ -14,8 +14,7 @@ type: pm
 ---
 
 ## Lehrform/SWS:
-
-6 SWS: Vorlesung 2 SWS; Übung 2 SWS; Projekt 3 SWS
+4 SWS: Vorlesung 2 SWS; Übung / Projekt 2 SWS
 
 ## Arbeitsaufwand:
 
@@ -23,7 +22,7 @@ Gesamtaufwand 180 Stunden, davon
 
 - 36h Vorlesung 
 - 36h Übung
-- 54h Projekt 
+- 54h Projektarbeit 
 - 54h Selbststudium
 
 ## Angestrebte Lernergebnisse:
