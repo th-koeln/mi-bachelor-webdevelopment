@@ -3,7 +3,6 @@ title: Interaction Design
 modulverantwortlich: gh
 modulniveau: null
 kuerzel: ID
-untertitel: ID
 studiensemester-ws: 1
 studiensemester-ss: 2
 informatik-master: ws
