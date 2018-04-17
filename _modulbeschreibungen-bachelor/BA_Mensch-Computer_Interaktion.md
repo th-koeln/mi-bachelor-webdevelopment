@@ -16,7 +16,7 @@ type: pm
 ---
 
 ## Lehrform/SWS:
-Vorlesung und Übung
+Vorlesung und Praktikum/Übung
 
 ## Arbeitsaufwand: 
 
