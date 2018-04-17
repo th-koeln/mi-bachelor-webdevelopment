@@ -22,7 +22,7 @@ schwerpunkt: hci
 Gesamtaufwand 180 Stunden, davon
 - 36h Vorlesung
 - 36h Übung / Projekt
-- 108h Selbstlernphase
+- 108h Selbststudium
 
 
 
