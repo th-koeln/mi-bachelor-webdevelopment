@@ -204,6 +204,44 @@ Absolventinnen und Absolventen des Masterstudiengangs Medieninformatik:
 
 - haben ihre Fähigkeit zum lebenslangen Lernen gefestigt und können sich selbständig und schnell in neue, für die Medieninformatik relevante Theorien, Methoden und Techniken, sowohl aus theoretischer, wissenschaftlicher. praktischer als auch aus technischer Sichtweise, einarbeiten und ihre eigene Rolle im professionellen Kontext hinterfragen und weiterentwickeln.
 
+### Darstellung der Schwerpunkte und Berufsbilder
+Der Masterstudiengang Medieninformatik umfasst insgesamt 5 Schwerpunkte, welche im folgenden mit ihren dazugehörigen Berufsbildern beschrieben sind.
+
+#### Human-Computer Interaction
+Medieninformatik und Mensch-Computer Interaktion stehen in vielerlei Hinsicht in einer engen Beziehung. So beinhaltet etwa der Fachbereich „Mensch-Computer Interaktion“ der GI e.V. die Fachgruppe „Medieninformatik“ (siehe auch: http://fb-mci.gi.de/mensch-computer-interaktion-mci/fachgruppen/medieninformatik.html). Im Zusammenhang mit der third wave of HCI (Susan Bødker, 2006 und 2016) wird die aktuelle Bedeutung der Disziplin der Mensch-Computer Interaktion für die Gestaltung interaktiver System und insbesondere ihre Rolle für die Medieninformatik deutlich. Nach Bødker besteht eine aktuelle Herausforderung der 3rd wave of HCI insbesondere darin, dass sich die Trennlinie von Technologienutzung zwischen beruflichem/gewerblichem und privatem Bereich mehr und mehr auflöst. Medieninformatik befasst sich insbesondere mit interaktiven und multimedialen Systemen in gewerblichen und privaten Nutzungskontexten und adressiert demnach die Herausforderungen der 3rd wave of HCI.
+
+Dieser Schwerpunkt adressiert Kompetenzen, Fähigkeiten und Fertigkeiten die im Zusammenhang mit der Leitung und dem Management von Entwicklungsprojekten innovativer, interaktiver Systeme stehen. Dies umfasst die Nutzungskontexte in verschiedensten Anwendungsbereichen kritisch zu analysieren, Problemfelder zu identifizieren, Anforderungen zu spezifizieren, angemessene Vorgehen zur Lösungsentwicklung zu konzipieren und Gestaltungslösungen zu entwickeln und zu evaluieren. Absolventen dieses Schwerpunktes arbeiten als UX-Architects, Interaction Designer oder in Positionen mit ähnlichen Rollenbezeichnungen in Unternehmen/Institutionen und sind zentrale Entscheidungsträger, wenn es um die Entwicklung interaktiver Systeme aus Nutzungs -oder Nutzerperspektive geht.
+
+Neben den vielfältigen weiterentwickelten Kompetenzen (formale, analytische, methodologische, gestalterische, technologische, etc.) haben sie die Befähigung zum fachlichen Diskurs vertieft und implementieren mit ihrer Kommunikationskompetenz eine wichtige Schnittstelle für die verschiedenen Stakeholder und Gewerke.
+
+Zu den Berufsbildern zählen Usability Engineers, Interaction Designer, User Experience Designer, User Experience Architect u.v.m.
+
+#### Social Computing
+Im Schwerpunkt „Social Computing“ werden die Wechselwirkungen zwischen Gesellschaft und Informatik in den Mittelpunkt gestellt. Rechnersysteme und Netzwerke werden von Menschen intentional gestaltet, ausgerichtet an gesellschaftlichen Normen, Prozessen und Bedürfnissen. Gleichzeitig beeinflussen IT-Systeme diese gesellschaftlichen Normen und verändern Prozesse in allen Lebensbereichen. Die verantwortungsbewusste Konzeption und Realisierung von soziotechnischen Systemen (z.B. Social Software, Online Communities, e-Health, e-Government und e-Learning Angebote) sowie die empirische Evaluation existierender Systeme sind zentrale Ziele. Lösungen sollen unter ganzheitlichen Gesichtspunkten entwickelt werden. Verschiedene Wertvorstellungen und Interessen unterschiedlicher Stakeholder müssen identifiziert und berücksichtig werden.
+
+Der Schwerpunkt verbindet daher Theorien, Modelle und Methodik der Human- und Sozialwissenschaften mit anwendungsorientierter Informatik. Studierende sollen in der Lage sein, computergestützte Systeme nach ethischen, politischen, sozialen und psychologischen Kriterien bewerten, planen und umsetzen zu können.
+
+Ziel ist es, soziale Innovation durch digitale Anwendungen entstehen zu lassen. Neben den empirischen Methoden werden Designmethoden vermittelt, sowohl auf der konzeptionellen als auch auf der softwaretechnischen Implementierungsebene, um robuste, sichere und flexible Systeme zu gestalten.
+
+#### Visual Computing
+Der Studienschwerpunkt „Visual Computing” steht an der Schnittstelle von Computergrafik, Computer Vision, Mensch-Maschine-Kommunikation, Bild- und Videoverarbeitung, sowie Visualisierung.
+
+Ziel des Studienschwerpunktes Visual Computing ist es, ein solides Fundament bildbasierter und bildgebender Verfahren zu vermitteln und dieses in praktischen Anwendungen und Projekten anzuwenden und weiterzuentwickeln.
+
+Die hohe Interdisziplinarität ist ein Innovationsfaktor und bietet Schlüsseltechnologien zur Lösung aktueller Problemstellungen in der Informatik, wie z.B. Virtual Engineering, Visual Analytics, Virtual- und Augmented Reality, Medizintechnik, Robotik, Animation und Bildsynthese. Anwendungen des Visual Computing finden sich in den verschiedensten Bereichen, z.B. in der Unterhaltungsindustrie (Visuelle Effekte, Computerspiele, Filmindustrie, 360° und 3D Videos), der Medizin (medizinische Bildverarbeitung, digitale Operationsplanung), der Automobilindustrie (Fahrerassistenzsysteme), der industriellen Fertigung (visuelle Qualitätskontrolle), der Internettechnologien und Mobilgeräte (Remote Rendering, Multimediale Datenbanken, Augmented Reality Anwendungen) und der digitalen Fotografie.
+
+
+#### Weaving the Web
+Das Web ist sowohl von seiner Entstehungsgeschichte, als auch von seinem Einfluß auf Technologie, Wirtschaft, Wissen, Politik und Gesellschaft einzigartig. Das aktuelle Buzzword "Digitalisierung" und der damit verbundene Hype wäre ohne das Web und dessen Grundsätze und Wirkprinzipien nicht existent.
+
+"The web is more a social creation than a technical one. I designed it for a social effect — to help people work together — and not as a technical toy. The ultimate goal of the Web is to support and improve our weblike existence in the world. We clump into families, associations, and companies. We develop trust across the miles and distrust around the corner." Diese Beschreibung von Tim Berners-Lee aus seinem Buch "Weaving the Web" zeigt, dass das Web deutlich mehr ist, als eine Sammlung von Technologien.
+
+Und genau dieser Gedanke soll innerhalb des Schwerpunkts verfolgt werden, d.h. es sollen mehr als nur interessante und erfolgversprechende Web-Technologien erkundet werden; und mehr vermittelt werden als nur zeitgemäßes Web-Development, denn die Leitfrage die dem Schwerpunkt zugrunde liegt, ist: Wie können wir das Web weiter spinnen?
+
+Wie konzipiert, entwickelt, verbreitet und evaluiert man Produkte, Dienste und Services im Web, die das Leben und Arbeiten von Individuen, Gruppen und Organisationen vereinfachen, bereichern und damit verbessern. Das Phänomen "Web" wird ganzheitlich betrachtet, denn Anwendungen im Web sind immer mehr durch die Vernetzung von Diensten, Daten und Prozessen im Web gekennzeichnet. 
+
+
+
 ### Weiterführende Dokumente
 - <a href="https://www.th-koeln.de/studium/medieninformatik-master_3729.php">Website des Medieninformatik Master</a>
 - <a href="https://www.th-koeln.de/studium/medieninformatik-master--ordnungen-und-formulare_3724.php">Ordnungen zum Medieninformatik Master</a>
