@@ -1,17 +1,14 @@
 ---
 title: Spezielle Gebiete der Mathematik
-modulverantwortlich: Prof. Dr. Wolgang Konen, Prof. Dr. Boris Naujoks
-modulniveau: n/a
+modulverantwortlich: wk, bn
 kuerzel: SGM-D
-untertitel: null
 studiensemester-ws: 1
 studiensemester-ss: 2
 informatik-master: ws
-kategorie: n/a
 sprache: deutsch
 zuordnung-zum-curriculum: siehe Studienverlaufsplan
 kreditpunkte: 6
-voraussetzungen-nach-pruefungsordnung: Keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden
+voraussetzungen-nach-pruefungsordnung: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden
 empfohlene-voraussetzungen: keine
 published: true
 type: pm
@@ -24,7 +21,7 @@ Es werden Grundlagen für die Analyse und algorithmische Verarbeitung von Graph 
 4 SWS: Vorlesung 2 SWS; Seminar 2 SWS
 
 ## Arbeitsaufwand: 
-Gesamtaufwand 150 h, davon 
+Gesamtaufwand 150 Stunden, davon 
 
 - 36h Vorlesung 
 - 36h Seminar

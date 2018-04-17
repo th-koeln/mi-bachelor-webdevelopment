@@ -1,28 +1,25 @@
 ---
 title: Research Methods
 modulverantwortlich: gh
-modulniveau: null
 kuerzel: RM
-untertitel: null
 studiensemester-ws: 2
 studiensemester-ss: 1
-kategorie: null
 sprache: deutsch
 zuordnung-zum-curriculum: Medieninformatik Master
 kreditpunkte: 6
-voraussetzungen-nach-pruefungsordnung:
-empfohlene-voraussetzungen: 
+voraussetzungen-nach-pruefungsordnung: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden
+empfohlene-voraussetzungen: keine
 published: true
 type: pm
 ---
 
 ## Lehrform/SWS:
 
-6 SWS: Vorlesung 2 SWS; Übung 2SWS; Projekt 3 SWS
+6 SWS: Vorlesung 2 SWS; Übung 2 SWS; Projekt 3 SWS
 
 ## Arbeitsaufwand:
 
-Gesamtaufwand 180 h, davon 
+Gesamtaufwand 180 Stunden, davon 
 
 - 36h Vorlesung 
 - 36h Übung
@@ -50,7 +47,6 @@ Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern ang
 ## Medienformen:
 - beamergestützte Vorlesung
 - E-Books
-
 
 ## Literatur:
 - Bortz, J.; Döring, N.: „Forschungsmethoden und Evaluation für Human- und Sozialwissenschaftler“, Springer Heidelberg, Berlin, 2006

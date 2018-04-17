@@ -1,16 +1,13 @@
 ---
 title: Web Architekturen 
 modulverantwortlich: kf
-modulniveau: n/a
 kuerzel: WTW-WBA
-untertitel: null
 studiensemester-ws: 1
 studiensemester-ss: 2
-kategorie: n/a
 sprache: deutsch
 zuordnung-zum-curriculum: siehe Studienverlaufsplan
 kreditpunkte: 6
-voraussetzungen-nach-pruefungsordnung: keine
+voraussetzungen-nach-pruefungsordnung: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden
 empfohlene-voraussetzungen: keine
 published: true
 type: spm
@@ -31,9 +28,9 @@ Basierend auf diesem Grundlagenwissen werden dann Lösungen aus fortschrittliche
 
 ## Arbeitsaufwand: 
 Gesamtaufwand 180 Stunden, davon 
-- 36 h Vorlesung 
-- 36 h Seminar 
-- 108 h Selbststudium 
+- 36h Vorlesung 
+- 36h Seminar 
+- 108h Selbststudium 
 
 
 ## Angestrebte Lernergebnisse:

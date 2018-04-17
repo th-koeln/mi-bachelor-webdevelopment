@@ -1,17 +1,13 @@
 ---
 title: Qualitätssicherung und Qualitätsmanagement 
 modulverantwortlich: mw
-modulniveau: Master
 kuerzel: QUS
-untertitel: null
 studiensemester-ws: 2
 studiensemester-ss: 1
 informatik-master: ss
-kategorie: Schwerpunktmodul
 sprache: deutsch, Seminar-Basisliteratur i.d.R. in englischer Sprache
-zuordnung-zum-curriculum: MIM
 kreditpunkte: 6
-voraussetzungen-nach-pruefungsordnung: keine
+voraussetzungen-nach-pruefungsordnung: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden
 empfohlene-voraussetzungen: Grundkenntnisse Softwaretechnik und Projektmanagement
 published: true
 type: spm
@@ -23,14 +19,14 @@ schwerpunkt: mpd
 Konstruktive und analytische Qualitätssicherung und Qualitätsmanagement für Web-Anwendungen
 
 ## Lehrform/SWS: 
-4 SWS: Vorlesung 2 SWS, Übung 1 SWS, Seminar 1 SWS
+4 SWS: Vorlesung 2 SWS; Übung 1 SWS; Seminar 1 SWS
 
 ## Arbeitsaufwand: 
-180 h, davon
-- 36 h Vorlesung
-- 18 h Übung
-- 18 h Seminar
-- 108 h Selbststudium
+Gesamtaufwand 180 Stunden, davon
+- 36h Vorlesung
+- 18h Übung
+- 18h Seminar
+- 108h Selbststudium
 
 ## Angestrebte Lernergebnisse:
 Die Studierenden werden befähigt, 

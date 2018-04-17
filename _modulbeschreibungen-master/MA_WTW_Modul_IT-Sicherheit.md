@@ -1,17 +1,13 @@
 ---
 title: Sicherheit, Privatsphäre und Vertrauen
 modulverantwortlich: sk
-modulniveau:
 kuerzel: ITS
-untertitel:
 studiensemester-ws: 1
 studiensemester-ss: 2
 informatik-master: ws
-kategorie:
 sprache: deutsch
-zuordnung-zum-curriculum: siehe Studienverlaufsplan
 kreditpunkte: 6
-voraussetzungen-nach-pruefungsordnung: keine
+voraussetzungen-nach-pruefungsordnung: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden
 empfohlene-voraussetzungen: keine
 published: true
 type: spm
@@ -26,7 +22,7 @@ Einsatzszenarien von IT und entsprechende Sicherheitseigenschaften und Sicherhei
 4 SWS: Vorlesung 2 SWS; Seminar 2 SWS
 
 ## Arbeitsaufwand: 
-Gesamtaufwand 180 h, davon 
+Gesamtaufwand 180 Stunden, davon 
 
 - 36h Vorlesung 
 - 36h Seminar

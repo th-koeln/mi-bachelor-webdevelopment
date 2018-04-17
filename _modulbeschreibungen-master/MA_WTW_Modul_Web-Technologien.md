@@ -1,16 +1,13 @@
 ---
 title: Web Technologien
 modulverantwortlich: cn
-modulniveau:
 kuerzel: WTW-WD
-untertitel:
 studiensemester-ws: 2
 studiensemester-ss: 3
-kategorie:
 sprache: deutsch
 zuordnung-zum-curriculum: siehe Studienverlaufsplan
 kreditpunkte: 6
-voraussetzungen-nach-pruefungsordnung: keine
+voraussetzungen-nach-pruefungsordnung: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden
 empfohlene-voraussetzungen: keine
 published: true
 type: spm
@@ -26,9 +23,9 @@ In Modul werden fortgeschrittene Herangehensweisen, Technologien, Konzepte und I
 
 ## Arbeitsaufwand: 
 Gesamtaufwand 180 Stunden, davon 
-- 36 h Seminar 
-- 36 h Workshop 
-- 108 h Selbststudium 
+- 36h Seminar 
+- 36h Workshop 
+- 108h Selbststudium 
 
 ## Angestrebte Lernergebnisse:
 Die Studierenden sind in der Lage auf Basis eines dokumentierten Konzepts ein Entwicklungsprojekt für eine Web-basierte Anwendung zu strukturieren, das Konzept ggf. zu erweitern, um Entwicklungsprojekte im oder für ein Team aufsetzen zu können.

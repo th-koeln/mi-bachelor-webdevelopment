@@ -1,17 +1,14 @@
 ---
 title: Sketching and Designing for User Experience
 modulverantwortlich: gh
-modulniveau: null
 kuerzel: SUE
-untertitel: null
 studiensemester-ws: 1
 studiensemester-ss: 2
-kategorie: null
 sprache: deutsch
 zuordnung-zum-curriculum: Medieninformatik Master
 kreditpunkte: 6
-voraussetzungen-nach-pruefungsordnung:
-empfohlene-voraussetzungen:
+voraussetzungen-nach-pruefungsordnung: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden
+empfohlene-voraussetzungen: keine
 type: wpm
 parent:
 schwerpunkt: hci
@@ -23,7 +20,7 @@ schwerpunkt: hci
 
 ## Arbeitsaufwand:
 
-Gesamtaufwand 180 h, davon
+Gesamtaufwand 180 Stunden, davon
 
 - 36h Vorlesung
 - 18h Übung

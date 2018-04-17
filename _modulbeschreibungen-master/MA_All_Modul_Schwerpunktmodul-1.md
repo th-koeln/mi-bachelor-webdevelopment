@@ -1,16 +1,13 @@
 ---
 title: Schwerpunktmodul 1
 modulverantwortlich: all
-modulniveau: n/a
 kuerzel: SPM1
-untertitel: null
 studiensemester-ws: 1
 studiensemester-ss: 2
-kategorie: n/a
 sprache: deutsch
 zuordnung-zum-curriculum: siehe Studienverlaufsplan
 kreditpunkte: 6
-voraussetzungen-nach-pruefungsordnung: keine
+voraussetzungen-nach-pruefungsordnung: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden
 empfohlene-voraussetzungen: keine
 published: true
 type: spmw

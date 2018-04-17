@@ -1,16 +1,13 @@
 ---
 title: Projektarbeit - Entwicklung im Kontext des Studienschwerpunkts
 modulverantwortlich: kf, mw, hk, me, ck, gh
-modulniveau: n/a
 kuerzel: MIMP-E
-untertitel: null
 studiensemester-ws: 2
 studiensemester-ss: 3
-kategorie: null
 sprache: deutsch
 zuordnung-zum-curriculum: siehe Studienverlaufsplan
 kreditpunkte: 12
-voraussetzungen-nach-pruefungsordnung: keine
+voraussetzungen-nach-pruefungsordnung: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden
 empfohlene-voraussetzungen: keine
 published: true
 type: spp

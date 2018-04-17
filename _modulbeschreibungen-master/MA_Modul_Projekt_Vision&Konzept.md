@@ -1,16 +1,13 @@
 ---
 title: Projektarbeit - Vision und Konzept im Kontext des Studienschwerpunkts
 modulverantwortlich: kf, mw, hc, me, ck, gh
-modulniveau: n/a
 kuerzel: MIMP-K
-untertitel: null
 studiensemester-ws: 1
 studiensemester-ss: 2
-kategorie: n/a
 sprache: deutsch
 zuordnung-zum-curriculum: siehe Studienverlaufsplan
 kreditpunkte: 12
-voraussetzungen-nach-pruefungsordnung: keine
+voraussetzungen-nach-pruefungsordnung: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden
 empfohlene-voraussetzungen: keine
 published: true
 type: spp
@@ -22,7 +19,7 @@ schwerpunkt: wtw, sc, vc, mpd, hci
 In einem Projekt wird eine Idee für ein Produkt oder einen Dienst entwickelt oder weiterentwickelt, eine Recherche des Marktes und Standes von Wissenschaft und Technik durchgeführt, und ein Konzept soweit definiert und dokumentiert, dass in einem nachfolgenden Projekt ein Entwicklerteam in der Lage ist, einen ersten Prototyp zu realisieren oder zu erweitern.
 
 ## Lehrform/SWS: 
-8 SWS: Projektarbeit 8 SWS
+Projektarbeit
 
 ## Arbeitsaufwand: 
 360 Stunden

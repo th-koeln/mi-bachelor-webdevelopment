@@ -1,16 +1,12 @@
 ---
 title: Logik und semantische Modellierung
-modulverantwortlich: Prof. Kristian Fischer
-modulniveau: n/a
+modulverantwortlich: kf
 kuerzel: WTW-LSM
-untertitel: null
 studiensemester-ws: 2
 studiensemester-ss: 3
-kategorie: null
 sprache: deutsch
-zuordnung-zum-curriculum: null
 kreditpunkte: 6
-voraussetzungen-nach-pruefungsordnung: keine
+voraussetzungen-nach-pruefungsordnung: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden
 empfohlene-voraussetzungen: keine
 published: true
 type: wpm
@@ -25,8 +21,7 @@ Die Studierenden werden in die Entwicklung von semantischen Modellen als Basis f
 4 SWS: Vorlesung 2 SWS; Übung 2 SWS
 
 ## Arbeitsaufwand: 
-180 Stunden
- davon:
+Gesamtaufwand 180 Stunden, davon:
 - 36h Vorlesung 
 - 36h Übung
 - 102h Selbststudium 

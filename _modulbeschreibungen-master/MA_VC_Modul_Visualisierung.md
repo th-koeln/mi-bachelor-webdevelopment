@@ -1,17 +1,14 @@
 ---
 title: Visualisierung
 modulverantwortlich: me
-modulniveau: null
 kuerzel: VI
-untertitel: null
 studiensemester-ws: 2
 studiensemester-ss: 3
-kategorie: null
 sprache: wahlweise deutsch oder englisch
 zuordnung-zum-curriculum: Medieninformatik Master
 kreditpunkte: 6
-voraussetzungen-nach-pruefungsordnung: Keine über die Zulassungsvorrausetzungen hinausgehenden Vorraussetzungen.
-empfohlene-voraussetzungen: Web-basierte Anwendungen 1 (aus dem Bachelor) bzw. Kenntnisse in HTML und Javascript
+voraussetzungen-nach-pruefungsordnung: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden
+empfohlene-voraussetzungen: Web-basierte Anwendungen 1 (Bachelor) bzw. Kenntnisse in HTML und Javascript
 published: true
 type: spm
 parent: SPM3
@@ -23,10 +20,10 @@ Die Studierenden sollen in die Lage versetzt werden, abstrakte, vorwiegend numer
 
 
 ## Lehrform/SWS: 
-4 SWS: Vorlesung 1 SWS; Seminar / Workshops 2SWS; Projekt 1 SWS
+4 SWS: Vorlesung 1 SWS; Seminar / Workshops 2 SWS; Projekt 1 SWS
 
 ## Arbeitsaufwand: 
-Gesamtaufwand 180h, davon
+Gesamtaufwand 180 Stunden, davon
 - 18h Vorlesung 
 - 18h Workshops
 - 18h Seminar

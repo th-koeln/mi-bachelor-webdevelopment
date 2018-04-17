@@ -1,17 +1,14 @@
 ---
 title: e-Science
 modulverantwortlich: ck
-modulniveau: null
 kuerzel: CE
-untertitel: null
 studiensemester-ws: 1
 studiensemester-ss: 2
-kategorie: null
 sprache: deutsch
 zuordnung-zum-curriculum: Medieninformatik Master
 kreditpunkte: 6
-voraussetzungen-nach-pruefungsordnung:
-empfohlene-voraussetzungen: 
+voraussetzungen-nach-pruefungsordnung: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden
+empfohlene-voraussetzungen: keine
 published: true
 type: wpm
 parent: WPM
@@ -24,13 +21,9 @@ parent: WPM
 Gesamtaufwand 180 h, davon 
 60h Vorlesung, 30h Selbststudium, 90h Seminar 
 
-## Lehrform/SWS:
-
-6 SWS: Vorlesung 3 SWS; Projekt 3 SWS
-
 ## Arbeitsaufwand:
 
-Gesamtaufwand 180 h, davon 
+Gesamtaufwand 180 Stunden, davon 
 
 - 54h Vorlesung 
 - 54h Projekt

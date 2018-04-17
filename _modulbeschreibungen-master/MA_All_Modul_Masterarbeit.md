@@ -1,17 +1,12 @@
 ---
-title: Masterarbeit 
-modulverantwortlich: alle Professoren des Studiengangs
-modulniveau: n/a
+title: Masterarbeit inkl. Kolloquium 
+modulverantwortlich: all
 kuerzel: MA
-untertitel: Masterarbeit inkl. Kolloquium
 studiensemester-ws: 4
 studiensemester-ss: 4
-kategorie: n/a
 sprache: deutsch
-zuordnung-zum-curriculum: siehe Studienverlaufsplan
 kreditpunkte: 30
 voraussetzungen-nach-pruefungsordnung: keine
-empfohlene-voraussetzungen: keine
 published: true
 type: pm
 ---

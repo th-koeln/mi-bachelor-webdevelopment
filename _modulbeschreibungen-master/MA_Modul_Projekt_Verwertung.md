@@ -1,16 +1,13 @@
 ---
 title: Projektarbeit - Assessment/Evaluation, Forschung und Verwertung im Kontext des Studienschwerpunkts
 modulverantwortlich: kf, mw, hc, me, ck, gh
-modulniveau: n/a
 kuerzel: MIMP-V
-untertitel: null
 studiensemester-ws: 3
 studiensemester-ss: 1
-kategorie: null
 sprache: deutsch
 zuordnung-zum-curriculum: siehe Studienverlaufsplan
 kreditpunkte: 12
-voraussetzungen-nach-pruefungsordnung: keine
+voraussetzungen-nach-pruefungsordnung: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden
 empfohlene-voraussetzungen: keine
 published: true
 type: spp

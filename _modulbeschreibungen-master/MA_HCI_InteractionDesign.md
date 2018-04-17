@@ -1,16 +1,14 @@
 ---
 title: Interaction Design
 modulverantwortlich: gh
-modulniveau: null
 kuerzel: ID
 studiensemester-ws: 1
 studiensemester-ss: 2
 informatik-master: ws
-kategorie: null
 sprache: deutsch
 zuordnung-zum-curriculum: Medieninformatik Master, Software-Engineering Master
 kreditpunkte: 6
-voraussetzungen-nach-pruefungsordnung:
+voraussetzungen-nach-pruefungsordnung: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden
 empfohlene-voraussetzungen: Basismodul Mensch-Computer Interaktion, so wie durch die GI e.V. publiziert
 published: true
 type: spm
@@ -24,7 +22,7 @@ schwerpunkt: hci, mpd
 
 ## Arbeitsaufwand:
 
-Gesamtaufwand 180 h, davon
+Gesamtaufwand 180 Stunden, davon
 
 - 36h Vorlesung
 - 18h Übung

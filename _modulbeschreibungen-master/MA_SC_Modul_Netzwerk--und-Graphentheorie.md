@@ -1,16 +1,13 @@
 ---
 title: Netzwerk-und Graphentheorie
 modulverantwortlich: kf
-modulniveau: n/a
 kuerzel: NGT
-untertitel: null
 studiensemester-ws: 2
 studiensemester-ss: 1
-kategorie: n/a
 sprache: deutsch
 zuordnung-zum-curriculum: siehe Studienverlaufsplan
 kreditpunkte: 6
-voraussetzungen-nach-pruefungsordnung: keine
+voraussetzungen-nach-pruefungsordnung: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden
 empfohlene-voraussetzungen: keine
 published: true
 type: spm

@@ -1,17 +1,14 @@
 ---
 title: Bildbasierte Computergrafik
 modulverantwortlich: me
-modulniveau: null
 kuerzel: BCG
-untertitel: null
 studiensemester-ws: 1
 studiensemester-ss: 2
-kategorie: null
 sprache: wahlweise deutsch oder englisch
 zuordnung-zum-curriculum: Medieninformatik Master
 kreditpunkte: 6
-voraussetzungen-nach-pruefungsordnung: Keine über die Zulassungsvorrausetzungen hinausgehenden Vorraussetzungen.
-empfohlene-voraussetzungen: Computergrafik und Animation, Algorithmen und Programmierung 1 und 2, Mathematik 1 und 2
+voraussetzungen-nach-pruefungsordnung: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden
+empfohlene-voraussetzungen: Computergrafik und Animation (Bachelor), Algorithmen und Programmierung 1 und 2 (Bachelor), Mathematik 1 und 2 (Bachelor)
 published: true
 type: spm
 parent: SPM2
@@ -27,7 +24,7 @@ Dabei werden verschiedenste Aspekte der Bild- und Videobe- und -verarbeitung,  w
 4 SWS: Vorlesung 2 SWS; Projekt 2 SWS
 
 ## Arbeitsaufwand: 
-Gesamtaufwand 180h, davon
+Gesamtaufwand 180 Stunden, davon
 - 36h Vorlesung
 - 36h Praktikum / Projekt
 - 108h Selbstlernphase

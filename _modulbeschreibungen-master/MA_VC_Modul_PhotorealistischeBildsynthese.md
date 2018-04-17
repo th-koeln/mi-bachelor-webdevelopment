@@ -1,17 +1,14 @@
 ---
 title: Photorealistische Bildsynthese
 modulverantwortlich: me
-modulniveau: null
 kuerzel: PCG
-untertitel: null
 studiensemester-ws: 3
 studiensemester-ss: 2
-kategorie: null
 sprache: wahlweise deutsch oder englisch
 zuordnung-zum-curriculum: Medieninformatik Master
 kreditpunkte: 6
-voraussetzungen-nach-pruefungsordnung: Keine über die Zulassungsvorrausetzungen hinausgehenden Vorraussetzungen.
-empfohlene-voraussetzungen: Computergrafik und Animation
+voraussetzungen-nach-pruefungsordnung: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden
+empfohlene-voraussetzungen: Computergrafik und Animation (Bachelor)
 published: true
 type: wpm
 parent: WPM
@@ -22,10 +19,10 @@ schwerpunkt: vc
 Die Studierenden erlernen aktuelle Techniken zur Erzeugung photorealistischer Computergrafik, wie Sie in Filmen mittels vorhanden Tools wie Blender, Maya, 3DS Max verwendet wird. Dabei liegt der Schwerpunkt nicht auf der praktischen Anwendung sondern vor allem auf den darunterliegenden Algorithmen. Ziel ist es diese zu verstehen, zu erweitern und sinnvoll anwenden zu können.
 
 ## Lehrform/SWS: 
-4 SWS, Vorlesung 2 SWS, Praktikum / Projekt 2 SWS
+4 SWS: Vorlesung 2 SWS; Praktikum / Projekt 2 SWS
 
 ## Arbeitsaufwand: 
-Gesamtaufwand 180h, davon
+Gesamtaufwand 180 Stunden, davon
 - 36h Vorlesung
 - 36h Praktikum / Projekt
 - 108h Selbstlernphase

@@ -1,17 +1,13 @@
 ---
 title: Storytelling und Narrative Strukturen 
 modulverantwortlich: hk
-modulniveau: MA
 kuerzel: SNS
-untertitel: null
 studiensemester-ws: 1
 studiensemester-ss: 2
-kategorie: null
-sprache: null
-zuordnung-zum-curriculum: null
+sprache: deutsch
 kreditpunkte: 6
-voraussetzungen-nach-pruefungsordnung: Keine über die Zulassungsbedingungen hinausgehenden Voraussetzungen
-empfohlene-voraussetzungen: AVM
+voraussetzungen-nach-pruefungsordnung: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden
+empfohlene-voraussetzungen: Audiovisuelles Medienprojekt (Bachelor)
 published: true
 type: spm
 parent: SPM1
@@ -26,9 +22,9 @@ Das Modul führt in die grundlegenden narrativen Modelle in unterschiedlichen Me
 4 SWS: Vorlesung 2 SWS; Projekt 2 SWS
 
 ## Arbeitsaufwand: 
-Gesamtaufwand 180 h, davon 
+Gesamtaufwand 180 Stunden, davon 
 - 36h Vorlesung
-- 36h Projektarbeit
+- 36h Projekt
 - 108h Selbststudium
 
 ## Angestrebte Lernergebnisse:

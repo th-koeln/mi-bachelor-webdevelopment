@@ -1,17 +1,14 @@
 ---
 title: Computer Supported Collaborative Learning (CSCL)
 modulverantwortlich: ck
-modulniveau: null
 kuerzel: CSCL
-untertitel: null
 studiensemester-ws: 1
 studiensemester-ss: 2
-kategorie: null
 sprache: deutsch
 zuordnung-zum-curriculum: Medieninformatik Master
 kreditpunkte: 6
-voraussetzungen-nach-pruefungsordnung:
-empfohlene-voraussetzungen: 
+voraussetzungen-nach-pruefungsordnung: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden
+empfohlene-voraussetzungen: keine
 published: true
 type: wpm
 parent: WPM
@@ -23,7 +20,7 @@ parent: WPM
 
 ## Arbeitsaufwand:
 
-Gesamtaufwand 180 h, davon 
+Gesamtaufwand 180 Stunden, davon 
 
 - 36h Vorlesung 
 - 18h Übung
