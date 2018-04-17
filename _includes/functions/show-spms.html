@@ -8,7 +8,7 @@
 <td>
 {% for modul in schwerpunktmodule %}
 	{% if modul.schwerpunkt contains schwerpunkt.kuerzel %}
-	{{modul.title}}
+	<a href="{{site.baseurl}}{{modul.url}}">{{modul.title}}</a>
 	{% if modul.informatik-master %}
 		(InfMa: {{modul.informatik-master}})
 	{% endif %}
