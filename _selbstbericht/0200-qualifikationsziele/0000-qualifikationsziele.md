@@ -241,6 +241,12 @@ Und genau dieser Gedanke soll innerhalb des Schwerpunkts verfolgt werden, d.h. e
 Wie konzipiert, entwickelt, verbreitet und evaluiert man Produkte, Dienste und Services im Web, die das Leben und Arbeiten von Individuen, Gruppen und Organisationen vereinfachen, bereichern und damit verbessern. Das Phänomen "Web" wird ganzheitlich betrachtet, denn Anwendungen im Web sind immer mehr durch die Vernetzung von Diensten, Daten und Prozessen im Web gekennzeichnet. 
 
 
+#### Multi-Perspective Product Development
+Der Schwerpunkt „Multi-Perspective Product Development” bereitet die Studierenden auf die, für viele Projekte der Medieninformatik, typische Heterogenität vor, welche von der methodologischen über die technologische bis hin zur soziotechnischen Komponente reicht. Chakterisierende Merkmale solcher Projekte sind:
+
+Berücksichtigung von und Kommunikation mit Stakeholdern mit jeweils eigenen Perspektiven, die durch ihre Fachsprache, Methoden und Techniken sowie entsprechende Fähigkeiten, Verantwortlichkeiten und Kompetenzen definiert werden. Heterogene soziale, technologische und ökonomische Rahmenbedingungen wie z.B. die Anwendung von unterschiedlichen, agilen bis hin zu „schwergewichtigen” Vorgehensmodellen, lokale Zusammenarbeit in kleinen Teams bis hin zu dezentraler Zusammenarbeit in großen, international und interdisziplinär aufgestellten Teams, ein breites Spektrum der Projektgegenstände von kleinen, nativen Apps für mobile Geräte bis hin zu großen, geschäftskritischen, internationalisierbaren und responsiven Web-Anwendungen, ein breites Spektrum der Projektkontexte von kleinen Inhouse-Projekten bis hin zu großen, organisationsübergreifenden internationalen Projekten.
+
+
 
 ### Weiterführende Dokumente
 - <a href="https://www.th-koeln.de/studium/medieninformatik-master_3729.php">Website des Medieninformatik Master</a>
