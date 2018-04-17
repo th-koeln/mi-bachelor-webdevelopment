@@ -1,6 +1,6 @@
 ---
 title: Netzwerk-und Graphentheorie
-modulverantwortlich: Prof. Kristian Fischer
+modulverantwortlich: kf
 modulniveau: n/a
 kuerzel: NGT
 untertitel: null
