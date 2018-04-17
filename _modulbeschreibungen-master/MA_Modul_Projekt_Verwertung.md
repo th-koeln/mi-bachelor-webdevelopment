@@ -15,7 +15,7 @@ parent:
 schwerpunkt: wtw, sc, vc, mpd, hci
 ---
 
-## Kurzbeschreibung
+## Kurzbeschreibung:
 Auf Basis eines bereits ausgearbeiteten Prototypen werden in diesem Modul die Schritte Deployment, Qualitätssicherung und Evaluierung, Kontinuierliche Integration sowie Produktmanagement und -marketing geplant, durchgeführt und kritisch reflektiert.
 Bei einem Projekt mit Forschungsschwerpunkt werden die Schritte Entwicklung, Qualitätssicherung und Evaluierung, kritischer Vergleich, wissenschaftliches Schreiben und Präsentation geplant, durchgeführt und kritisch reflektiert.
 

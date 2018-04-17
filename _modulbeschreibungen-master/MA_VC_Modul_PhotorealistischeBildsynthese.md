@@ -15,7 +15,7 @@ parent: WPM
 schwerpunkt: vc
 ---
 
-## Kurzbeschreibung
+## Kurzbeschreibung:
 Die Studierenden erlernen aktuelle Techniken zur Erzeugung photorealistischer Computergrafik, wie Sie in Filmen mittels vorhanden Tools wie Blender, Maya, 3DS Max verwendet wird. Dabei liegt der Schwerpunkt nicht auf der praktischen Anwendung sondern vor allem auf den darunterliegenden Algorithmen. Ziel ist es diese zu verstehen, zu erweitern und sinnvoll anwenden zu können.
 
 ## Lehrform/SWS: 

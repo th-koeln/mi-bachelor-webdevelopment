@@ -15,7 +15,7 @@ parent: SPM1
 schwerpunkt: wtw, sc, mpd
 ---
 
-## Kurzbeschreibung
+## Kurzbeschreibung:
 Einsatzszenarien von IT und entsprechende Sicherheitseigenschaften und Sicherheitskonzepte; Wirkzusammenhänge zwischen Vertrauen und (IT-)Sicherheit; gesellschaftliche Bedeutung von Privatsphäre und Datenschutz.
 
 ## Lehrform/SWS: 

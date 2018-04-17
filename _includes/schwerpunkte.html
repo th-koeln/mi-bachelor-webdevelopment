@@ -5,14 +5,14 @@
 {% assign cps = 0 %}
 
 {% assign schwerpunkte = (site.modulbeschreibungen-master | where:"type","sp" | sort: "title") %}
-{% assign pflichtmodule = (site.modulbeschreibungen-master | where:"type","pm") %}
+{% assign pflichtmodule = (site.modulbeschreibungen-master | where:"type","pm" | where_exp: "item", "item.zielmedium != 'print'" ) %}
 {% assign teilmodule = (site.modulbeschreibungen-master | where:"type","tm") %}
 {% assign wahlpflichtmodule = (site.modulbeschreibungen-master | where:"type","wpm") %}
 {% assign schwerpunktmodule = (site.modulbeschreibungen-master | where:"type","spm") %} 
 {% assign schwerpunktmodulwraps = (site.modulbeschreibungen-master | where:"type","spmw") %} 
 {% assign schwerpunktprojekte = (site.modulbeschreibungen-master | where:"type","spp") %}
 
-{% assign wahlpflichtmodule = (wahlpflichtmodule | sort: 'title') %}
+{% assign wahlpflichtmodule = (wahlpflichtmodule | where: "zielmedium","web" | sort: 'title') %}
 {% assign schwerpunktmodule = (schwerpunktmodule | sort: 'title') %}
 {% assign pflichtmodule = (pflichtmodule | sort: 'title') %}
 

@@ -15,7 +15,7 @@ schwerpunkt: vc
 
 ---
 
-## Kurzbeschreibung
+## Kurzbeschreibung:
 Das Modul führt in die grundlegenden narrativen Modelle in unterschiedlichen Medien und Kontexten ein. Die Studierenden lernen diese Konzepte zu verstehen und sinnvoll einzusetzen.
 
 ## Lehrform/SWS: 

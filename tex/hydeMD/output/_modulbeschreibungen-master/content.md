@@ -1,5 +1,17 @@
 
-# Human-Computer Interaction
+# Einführung
+
+Im Masterstudium Medieninformatik können AbsolventInnen von Studiengängen der Informatik ihre Kompetenzen vertiefen und erweitern. Dabei geht es um die Gestaltung, Produktion, Bearbeitung, Distribution und Nutzung medienbasierter Informationen. Im Masterstudium lernt man, wie sich web-basierte Prozesse und Systeme analysieren, entwerfen, realisieren, adaptieren, betreiben und evaluieren lassen.
+
+Der Masterstudiengang Medieninformatik ist durch seine Studienschwerpunkte Human Computer Interaction,  Multi-Perspective Product Development, Social Computing, Visual Computing und Weaving the Web charakterisiert.
+
+Im Zentrum des Studiums steht in den ersten drei Fachsemestern jeweils eine Projektarbeit, in der die Anwendung von Fachwissen, wissenschaftliche Methoden, der fachliche Diskurs, die selbstständige Urteilsfindung und das fachpraktische Handeln in komplexen Projektkontexten und interdisziplinären Teams eingeübt werden. Die drei Projekte sind den  Projektphasen Konzeption, Entwicklung und Verwertung zugeordnet, sodass sowohl die Studierenden als auch die Projekte alle Phasen durchlaufen. Ein wesentlicher Leitgedanke dieser Projektphasen ist, dass Projektergebnisse - basierend auf der Phase Verwertung - den Weg in die Öffentlichkeit finden sollten: als Veröffentlichung, als social-coding-Projekt oder sogar als Start Up.
+
+Das erforderliche Grundlagenwissen sowie schwerpunktbezogene Kenntnisse werden in den ersten drei Semestern parallel zur Projektarbeit in drei Grundlagen-, drei Schwerpunkt- und drei Wahlpflicht-Modulen sowie in projektbegleitenden Lehrveranstaltungen vermittelt. Das vierte Semester ist dann darauf aufbauend ganz der selbstständigen Arbeit an der Masterthesis gewidmet.
+
+
+
+# Schwerpunkt: Human-Computer Interaction
 
 
 ## Allgemeines:
@@ -26,7 +38,7 @@ Neben den vielfältigen weiterentwickelten Kompetenzen (formale, analytische, me
 
 
 
-# Multiperspective Product Development
+# Schwerpunkt: Multiperspective Product Development
 
 
 ## Zielsetzung:
@@ -48,7 +60,7 @@ Der Schwerpunkt „Multi-Perspective Product Development” bereitet die Studier
 
 ## Schwerpunktspezifische Pflichtmodule
 
-- Privatsphäre & Sicherheit im Netz
+- Sicherheit, Privatsphäre und Vertrauen
 
 - Interaction Design
 
@@ -56,7 +68,7 @@ Der Schwerpunkt „Multi-Perspective Product Development” bereitet die Studier
 
 
 
-# Social Computing
+# Schwerpunkt: Social Computing
 
 
 ## Zielsetzungen:
@@ -70,7 +82,7 @@ Ziel ist es, soziale Innovation durch digitale Anwendungen entstehen zu lassen. 
 
 ## Schwerpunktspezifische Pflichtmodule
 
-- Privatsphäre, Vertrauen & Sicherheit im Netz
+- Sicherheit, Privatsphäre und Vertrauen
 
 - Soziotechnische Entwurfsmuster
 
@@ -78,7 +90,7 @@ Ziel ist es, soziale Innovation durch digitale Anwendungen entstehen zu lassen. 
 
 
 
-# Visual Computing
+# Schwerpunkt: Visual Computing
 
 
 ## Schwerpunktspezifische Pflichtmodule
@@ -105,17 +117,17 @@ Um der Interdisziplinarität sowie den unterschiedlichen Ausrichtungen dieses St
 
 Zudem müssen folgende drei Projekte im Umfang von jeweils 12 cp belegt werden, die verschiedene Schwerpunkte in diesem heterogenen und schnell veränderlichen Bereich abdecken:
 
-- Projekt Vision & Konzept im Studienschwerpunkt Visual Computing
+- Projektarbeit - Vision und Konzept im Kontext des Studienschwerpunkts
 
-- Projekt Entwicklung im Studienschwerpunkt Visual Computing
+- Projektarbeit - Entwicklung im Kontext des Studienschwerpunkts
 
-- Projekt Forschung im Studienschwerpunkt Visual Computing
+- Projektarbeit - Assessment/Evaluation, Forschung und Verwertung im Kontext des Studienschwerpunkts
 
 Weitere 18 CP können aus dem allgemeinen Angebot der Veranstaltungen aller Kurse aus den Masterstudiengängen Medieninformatik und Informatik belegt werden, um der Heterogenität der Medieninformatik und des Visual Computings gerecht zu werden.
 
 
 
-# Weaving the Web
+# Schwerpunkt: Weaving the Web
 
 
 ## Zielsetzung:
@@ -135,7 +147,7 @@ Der Titel der Studienrichtung, „Weaving the Web” wurde gewählt, da neben de
 
 ## Schwerpunktspezifische Pflichtmodule
 
-- Sicherheit, Privatsphäre und Vertrauen im Netz
+- Sicherheit, Privatsphäre und Vertrauen
 
 - Web Architekturen
 
@@ -147,7 +159,7 @@ Der Titel der Studienrichtung, „Weaving the Web” wurde gewählt, da neben de
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Christian Kohls%end-modulMeta%%begin-modulMeta%**Kürzel**: CE%end-modulMeta%%begin-modulMeta%**Studiensemester - Wintersemester**: 2%end-modulMeta%%begin-modulMeta%**Studiensemester - Sommersemester**: 1%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: %end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Christian Kohls%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 2%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 1%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
 
 
 ## Lehrform/SWS:
@@ -157,13 +169,13 @@ Der Titel der Studienrichtung, „Weaving the Web” wurde gewählt, da neben de
 
 ## Arbeitsaufwand:
 
-Gesamtaufwand 180 h, davon
+Gesamtaufwand 180 Stunden, davon
 
-- 45 h Vorlesung
+- 36h Vorlesung
 
-- 90 h Seminar
+- 36h Seminar
 
-- 45 h Selbststudium
+- 108h Selbststudium
 
 
 ## Angestrebte Lernergebnisse:
@@ -198,7 +210,11 @@ Die Studierenden sollen wesentliche Begriffe und Grundpositionen bezüglich ethi
 
 ## Studien-/Prüfungsleistungen:
 
-Abschlusspräsentation und schriftliche Ausarbeitung
+Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
+
+- Fachvortrag (50%)
+
+- schriftliche Ausarbeitung (50%)
 
 
 ## Medienformen:
@@ -232,14 +248,14 @@ Abschlusspräsentation und schriftliche Ausarbeitung
 
 
 
-# Masterarbeit
+# Masterarbeit inkl. Kolloquium
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: alle Informatik Professoren%end-modulMeta%%begin-modulMeta%**Kürzel**: MA%end-modulMeta%%begin-modulMeta%**Studiensemester - Wintersemester**: 4%end-modulMeta%%begin-modulMeta%**Studiensemester - Sommersemester**: 4%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 30%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: alle Informatik Professoren%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 4%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 4%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 30%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
 
 
-## Kurzbeschreibung
+## Kurzbeschreibung:
 
 Die Masterarbeit (Master Thesis) und das Kolloquium bilden den Abschluss des Studiums. Die Masterarbeit ist in der Regel eine eigenständige Untersuchung mit einer Aufgabenstellung aus der Medieninformatik und einer ausführlichen Beschreibung und Erläuterung ihrer Lösung. In fachlich geeigneten Fällen kann sie auch eine schriftliche Hausarbeit mit fachliterarischem Inhalt sein.
 
@@ -270,11 +286,11 @@ Ziel der Masterarbeit (Master Thesis) und des Kolloquiums ist die Befähigung, i
 
 ## Studien-/Prüfungsleistungen:
 
-- Masterarbeit: Dokumentation der geleisteten Arbeit mit Zielsetzung und Aufgabenstellung, Stand von Wissenschaft und Technik, verwendeten Problemlösungsmethoden, erzielten Resultaten, offenen Fragen, Reflektion, verwendeten Quellen etc..
+Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
 
-- Kolloquium: Darstellung und Verteidigung der Arbeit und der wichtigsten Ergebnisse im Rahmen eines Vortrages mit anschließender Diskussion
+- Masterarbeit (80%)
 
-- Bearbeitungszeiten siehe Prüfungsordnung
+- Kolloquium (20%)
 
 
 ## Medienformen:
@@ -292,10 +308,10 @@ Je nach Thema
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Wolfgang Konen, Prof. Dr. Boris Naujoks%end-modulMeta%%begin-modulMeta%**Kürzel**: SGM-D%end-modulMeta%%begin-modulMeta%**Studiensemester - Wintersemester**: 1%end-modulMeta%%begin-modulMeta%**Studiensemester - Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: Keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Wolfgang Konen, Prof. Dr. Boris Naujoks%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 1%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
 
 
-##Kurzbeschreibung
+## Kurzbeschreibung:
 
 Es werden Grundlagen für die Analyse und algorithmische Verarbeitung von Graph basierten Daten eingeführt. 
 
@@ -307,13 +323,13 @@ Es werden Grundlagen für die Analyse und algorithmische Verarbeitung von Graph 
 
 ## Arbeitsaufwand:
 
-Gesamtaufwand 150 h, davon 
+Gesamtaufwand 150 Stunden, davon 
 
-- 30 h Vorlesung 
+- 36h Vorlesung 
 
-- 30 h Seminar
+- 36h Seminar
 
-- 12 h Selbststudium 
+- 102h Selbststudium 
 
 
 ## Angestrebte Lernergebnisse:
@@ -340,7 +356,11 @@ Exemplarische Fragestellungen der Mathematik in der Informatik mit beispielhafte
 
 ## Studien-/Prüfungsleistungen:
 
-Präsentation und Klausur
+Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
+
+- Präsentation (50%)
+
+- Klausur (50%)
 
 
 ## Medienformen:
@@ -360,106 +380,16 @@ Präsentationsmaterialien, Arbeitsblätter
 
 
 
-# Schwerpunktmodul 1
+# Wahlpflichtmodule
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: alle Informatik Professoren%end-modulMeta%%begin-modulMeta%**Kürzel**: SPM1%end-modulMeta%%begin-modulMeta%**Studiensemester - Wintersemester**: 1%end-modulMeta%%begin-modulMeta%**Studiensemester - Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Wahlpflichtmodul%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: alle Informatik Professoren%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 3%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 3%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
 
 
-## Lehrform/SWS:
+## Kurzbeschreibung:
 
-Platzhalter - das konkrete Schwerpunktmodul 1 ist für die Studienschwerpunkte im Studienverlaufsplan der Master-Prüfungsordnung Medieninformatik aufgeführt.
-
-
-## Arbeitsaufwand:
-
-180 Stunden
-
-
-
-# Schwerpunktmodul 2
-
-
-
-%begin-modulMeta%**Modulverantwortlich**: alle Informatik Professoren%end-modulMeta%%begin-modulMeta%**Kürzel**: SPM2%end-modulMeta%%begin-modulMeta%**Studiensemester - Wintersemester**: 1%end-modulMeta%%begin-modulMeta%**Studiensemester - Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Wahlpflichtmodul%end-modulMeta%
-
-
-## Kurzbeschreibung
-
-Platzhalter - das konkrete Schwerpunktmodul 2 ist für die Studienschwerpunkte im Studienverlaufsplan der Master-Prüfungsordnung Medieninformatik aufgeführt.
-
-
-## Arbeitsaufwand:
-
-180 Stunden
-
-
-
-# Schwerpunktmodul 3
-
-
-
-%begin-modulMeta%**Modulverantwortlich**: alle Informatik Professoren%end-modulMeta%%begin-modulMeta%**Kürzel**: SPM3%end-modulMeta%%begin-modulMeta%**Studiensemester - Wintersemester**: 2%end-modulMeta%%begin-modulMeta%**Studiensemester - Sommersemester**: 1%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Wahlpflichtmodul%end-modulMeta%
-
-
-## Kurzbeschreibung
-
-Platzhalter - das konkrete Schwerpunktmodul 3 ist für die Studienschwerpunkte im Studienverlaufsplan der Master-Prüfungsordnung Medieninformatik aufgeführt.
-
-
-## Arbeitsaufwand:
-
-180 Stunden
-
-
-
-# Wahlpflichtmodul 1
-
-
-
-%begin-modulMeta%**Modulverantwortlich**: alle Informatik Professoren%end-modulMeta%%begin-modulMeta%**Kürzel**: WPM%end-modulMeta%%begin-modulMeta%**Studiensemester - Wintersemester**: 3%end-modulMeta%%begin-modulMeta%**Studiensemester - Sommersemester**: 3%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
-
-
-## Kurzbeschreibung
-
-Platzhalter - Wählbar sind neben expliziten Wahlpflichtmodulen alle Module aus den Modulhandbüchern der Masterstudiengänge des Instituts für Informatik der Fakultät 10, die nicht Pflicht- oder Schwerpunktmodule des gewählten Studienschwerpunkts sind.
-
-
-## Arbeitsaufwand:
-
-180 Stunden
-
-
-
-# Wahlpflichtmodul 2
-
-
-
-%begin-modulMeta%**Modulverantwortlich**: alle Informatik Professoren%end-modulMeta%%begin-modulMeta%**Kürzel**: WPM%end-modulMeta%%begin-modulMeta%**Studiensemester - Wintersemester**: 3%end-modulMeta%%begin-modulMeta%**Studiensemester - Sommersemester**: 3%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
-
-
-## Kurzbeschreibung
-
-Platzhalter - Wählbar sind neben expliziten Wahlpflichtmodulen alle Module aus den Modulhandbüchern der Masterstudiengänge des Instituts für Informatik der Fakultät 10, die nicht Pflicht- oder Schwerpunktmodule des gewählten Studienschwerpunkts sind.
-
-
-## Arbeitsaufwand:
-
-180 Stunden
-
-
-
-# Wahlpflichtmodul 3
-
-
-
-%begin-modulMeta%**Modulverantwortlich**: alle Informatik Professoren%end-modulMeta%%begin-modulMeta%**Kürzel**: WPM%end-modulMeta%%begin-modulMeta%**Studiensemester - Wintersemester**: 3%end-modulMeta%%begin-modulMeta%**Studiensemester - Sommersemester**: 3%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
-
-
-## Kurzbeschreibung
-
-Platzhalter - Wählbar sind neben expliziten Wahlpflichtmodulen alle Module aus den Modulhandbüchern der Masterstudiengänge des Instituts für Informatik der Fakultät 10, die nicht Pflicht- oder Schwerpunktmodule des gewählten Studienschwerpunkts sind.
+Frei aus dem Katalog der Pflicht- und Wahlpflichtmodule der Masterstudiengänge der Informatik wählbar, ausgenommen der drei Grundlagenmodule und der drei Schwerpunktmodule des gewählten Studienschwerpunktes lt. Studienverlaufsplan. Ein Katalog mit weiteren Angeboten wird nach Maßgabe des Beschlusses des Fakultätsrats der Fakultät für Informatik und Ingenieurwissenschaften zusammengestellt und durch Aushang und auf den Webseiten der Fakultät bekannt gemacht.
 
 
 ## Arbeitsaufwand:
@@ -472,23 +402,25 @@ Platzhalter - Wählbar sind neben expliziten Wahlpflichtmodulen alle Module aus 
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Gerhard Hartmann%end-modulMeta%%begin-modulMeta%**Kürzel**: RM%end-modulMeta%%begin-modulMeta%**Studiensemester - Wintersemester**: 2%end-modulMeta%%begin-modulMeta%**Studiensemester - Sommersemester**: 1%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: %end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Gerhard Hartmann%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 2%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 1%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
 
 
 ## Lehrform/SWS:
 
-6 SWS: Vorlesung 2 SWS; Übung 2SWS; Projekt 3 SWS
+6 SWS: Vorlesung 2 SWS; Übung 2 SWS; Projekt 3 SWS
 
 
 ## Arbeitsaufwand:
 
-Gesamtaufwand 180 h, davon 
+Gesamtaufwand 180 Stunden, davon 
 
-- 45 h Vorlesung 
+- 36h Vorlesung 
 
-- 30 h Übung
+- 36h Übung
 
-- 105 h Projekt 
+- 54h Projekt 
+
+- 54h Selbststudium
 
 
 ## Angestrebte Lernergebnisse:
@@ -515,7 +447,9 @@ kritisch zu diskutieren.
 
 ## Studien-/Prüfungsleistungen:
 
-schriftliche Modulprüfung
+Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
+
+- schriftliche Modulprüfung (100%)
 
 
 ## Medienformen:
@@ -539,7 +473,7 @@ schriftliche Modulprüfung
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Gerhard Hartmann, Prof. Dr. Christian Kohls%end-modulMeta%%begin-modulMeta%**Kürzel**: DM%end-modulMeta%%begin-modulMeta%**Studiensemester - Wintersemester**: 1%end-modulMeta%%begin-modulMeta%**Studiensemester - Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: %end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktmodul%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Gerhard Hartmann, Prof. Dr. Christian Kohls%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 1%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktmodul%end-modulMeta%%begin-modulMeta%**Pflichtmodul im Schwerpunkt**: Human-Computer Interaction%end-modulMeta%
 
 
 ## Lehrform/SWS:
@@ -549,13 +483,15 @@ schriftliche Modulprüfung
 
 ## Arbeitsaufwand:
 
-Gesamtaufwand 180 h, davon 
+Gesamtaufwand 180 Stunden, davon 
 
-- 45 h Vorlesung 
+- 36h Vorlesung 
 
-- 30 h Übung
+- 18h Übung
 
-- 105 h Projekt
+- 54h Projekt
+
+- 72h Selbstlernphase
 
 
 ## Angestrebte Lernergebnisse:
@@ -584,7 +520,9 @@ Die Teilnehmer sind in der Lage verschiedene methodische Rahmen für die Gestalt
 
 ## Studien-/Prüfungsleistungen:
 
-Mündliche Prüfung
+Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
+
+Mündliche Prüfung (100%)
 
 
 ## Medienformen:
@@ -620,7 +558,7 @@ Mündliche Prüfung
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Gerhard Hartmann%end-modulMeta%%begin-modulMeta%**Kürzel**: ID%end-modulMeta%%begin-modulMeta%**Studiensemester - Wintersemester**: 1%end-modulMeta%%begin-modulMeta%**Studiensemester - Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: %end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktmodul%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Gerhard Hartmann%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 1%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktmodul%end-modulMeta%%begin-modulMeta%**Pflichtmodul in den Schwerpunkten**: Human-Computer Interaction, Multiperspective Product Development%end-modulMeta%
 
 
 ## Lehrform/SWS:
@@ -630,13 +568,15 @@ Mündliche Prüfung
 
 ## Arbeitsaufwand:
 
-Gesamtaufwand 180 h, davon
+Gesamtaufwand 180 Stunden, davon
 
-- 45 h Vorlesung
+- 36h Vorlesung
 
-- 30 h Übung
+- 18h Übung
 
-- 105 h Projekt
+- 54h Projekt
+
+- 72h Selbstlernphase
 
 
 ## Angestrebte Lernergebnisse:
@@ -667,7 +607,9 @@ Die Studierenden haben konzeptionelles Design (Conceptual Design) verstanden, k�
 
 ## Studien-/Prüfungsleistungen:
 
-schriftliche Ausarbeitung und Designartefakte
+Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
+
+Projektdokumentation und Designartefakte (100%)
 
 
 ## Medienformen:
@@ -703,11 +645,11 @@ schriftliche Ausarbeitung und Designartefakte
 
 
 
-# Angewandte Statistik für die Mensch-Computer Interaktion
+# Angewandte Statistik für die Human-Computer Interaction
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Gerhard Hartmann%end-modulMeta%%begin-modulMeta%**Kürzel**: Stat%end-modulMeta%%begin-modulMeta%**Studiensemester - Wintersemester**: 2%end-modulMeta%%begin-modulMeta%**Studiensemester - Sommersemester**: 1%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: %end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktmodul%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Gerhard Hartmann%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 2%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 1%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktmodul%end-modulMeta%%begin-modulMeta%**Pflichtmodul im Schwerpunkt**: Human-Computer Interaction%end-modulMeta%
 
 
 ## Lehrform/SWS:
@@ -717,13 +659,15 @@ schriftliche Ausarbeitung und Designartefakte
 
 ## Arbeitsaufwand:
 
-Gesamtaufwand 180 h, davon
+Gesamtaufwand 180 Stunden, davon
 
-- 45 h Vorlesung
+- 36h Vorlesung
 
-- 30 h Übung
+- 18h Übung
 
-- 105 h Projekt
+- 54h Projekt
+
+- 72h Selbststudium
 
 
 ## Angestrebte Lernergebnisse:
@@ -744,7 +688,9 @@ Konfidenzintervalle, Fehlertypen, Effektstärken und Power, multivariate Verfahr
 
 ## Studien-/Prüfungsleistungen:
 
-Übungsaufgaben und schriftliche Modulprüfung
+Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
+
+- Schriftliche Modulprüfung (100%)
 
 
 ## Medienformen:
@@ -768,7 +714,7 @@ Konfidenzintervalle, Fehlertypen, Effektstärken und Power, multivariate Verfahr
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Gerhard Hartmann%end-modulMeta%%begin-modulMeta%**Kürzel**: SUE%end-modulMeta%%begin-modulMeta%**Studiensemester - Wintersemester**: 1%end-modulMeta%%begin-modulMeta%**Studiensemester - Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: %end-modulMeta%%begin-modulMeta%**Typ**: Wahlpflichtmodul%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Gerhard Hartmann%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 1%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden%end-modulMeta%%begin-modulMeta%**Typ**: Wahlpflichtmodul%end-modulMeta%%begin-modulMeta%**Pflichtmodul im Schwerpunkt**: Human-Computer Interaction%end-modulMeta%
 
 
 ## Lehrform/SWS:
@@ -778,13 +724,15 @@ Konfidenzintervalle, Fehlertypen, Effektstärken und Power, multivariate Verfahr
 
 ## Arbeitsaufwand:
 
-Gesamtaufwand 180 h, davon
+Gesamtaufwand 180 Stunden, davon
 
-- 45 h Vorlesung
+- 36h Vorlesung
 
-- 30 h Übung
+- 18h Übung
 
-- 105 h Projekt
+- 54h Projekt
+
+- 72h Selbstlernphase
 
 
 ## Angestrebte Lernergebnisse:
@@ -807,7 +755,9 @@ Die Studierenden sind in der Lage de- und präskriptiv Nutzer- oder deren nutzun
 
 ## Studien-/Prüfungsleistungen:
 
-Projektpräsentationsprüfung
+Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
+
+- Projektpräsentationsprüfung (100%)
 
 
 ## Medienformen:
@@ -833,10 +783,10 @@ Projektpräsentationsprüfung
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Kristian Fischer, Prof. Dr. Mario Winter, Prof. Hans Kornacher, Prof. Dr. Martin Eisemann, Prof. Dr. Christian Kohls, Prof. Dr. Gerhard Hartmann%end-modulMeta%%begin-modulMeta%**Kürzel**: MIMP-E%end-modulMeta%%begin-modulMeta%**Studiensemester - Wintersemester**: 2%end-modulMeta%%begin-modulMeta%**Studiensemester - Sommersemester**: 3%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 12%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktprojekt%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Kristian Fischer, Prof. Dr. Mario Winter, Prof. Hans Kornacher, Prof. Dr. Martin Eisemann, Prof. Dr. Christian Kohls, Prof. Dr. Gerhard Hartmann%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 2%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 3%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 12%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktprojekt%end-modulMeta%%begin-modulMeta%**Pflichtmodul in den Schwerpunkten**: Weaving the Web, Social Computing, Visual Computing, Multiperspective Product Development, Human-Computer Interaction%end-modulMeta%
 
 
-## Kurzbeschreibung
+## Kurzbeschreibung:
 
 In einem Projekt wird, basierend auf einem bereits erstellten Konzept, ein „minimal viable Prototype“ entwickelt oder weiterentwickelt.
 
@@ -853,7 +803,7 @@ Projektarbeit
 
 ## Angestrebte Lernergebnisse:
 
-Die Studentinnen und Studenten
+Die Studierenden
 
 - können im Gegenstandsbereich ihres Studienschwerpunktes, basierend auf einem dokumentierten Konzept, einen „minimal viable Prototype“ entwerfen und realisieren und dabei Probleme analysieren und lösen, die oft unstrukturiert und unvollständig definiert sind und von konkurrierenden Stakeholdern unterschiedlich priorisiert werden;
 
@@ -870,18 +820,18 @@ Das Projekt gliedert sich in zwei Teile:
 
 - In der eigentlichen Projektarbeit wird ein Prototyp zu einer komplexeren Aufgabenstellung und einem gegebenen Konzepot im Rahmen eines betreuten Forschungs- und Entwicklungsprojekts entwickelt (ggf. auch in Kooperation mit externen Partnern). Die Betreuer definieren zusammen mit den Studierenden die Zielsetzung und führen mit den Studierenden einen regelmäßigen Diskurs über den Fortgang des Projekts. Sie vereinbaren außerdem Meilensteine, deren Ergebnisse in geeigneter Form in die Endnote einfließen. Kommunikations- und Kooperationsformen werden vorab gemeinsam zwischen Betreuern und Studierenden festgelegt und in periodischen Abständen gemeinsam reflektiert.
 
-- Zur Unterstützung werden Workshops/Seminare in den Bereichen Projektmanagement, Code-Management sowie spezielle Theorien, Verfahren und Algorithmen in Abhängigkeit vom Studienschwerpunkt angeboten.
+- Zur Unterstützung werden Workshops/Seminare in den Bereichen Projektmanagement und Code-Management (Beautiful Code) angeboten.
 
 
 ## Studien-/Prüfungsleistungen:
 
-Projektarbeit und vertiefende Workshops/Seminare. Dokumentation der geleisteten Arbeit mit Aufgabenstellung, Stand von Wissenschaft und Technik, verwendeten Problemlösungsmethoden, erzielten Resultaten, offenen Fragen, verwendeten Quellen etc..
+Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
 
-In die Gesamtnote gehen zwei Leistungen zu je gleichen Anteilen (50%) ein:
+- Projektpräsentation und -dokumentation (50%)
 
-- Abschlusspräsentation: Fachliche Aufgabe.
+- Projektmanagement (25%)
 
-- Abschlussbericht: Fachliche Aufgabe.
+- Code-Management (Beautiful Code) (25%)
 
 
 ## Medienformen:
@@ -891,7 +841,7 @@ Entwicklungsumgebung mit Artefakt-Repository, Kollaborationssysteme
 
 ## Literatur:
 
-Je nach Studienschwerpunkt und fachlicher Aufgabe
+Je nach fachlicher Aufgabe
 
 
 
@@ -899,12 +849,14 @@ Je nach Studienschwerpunkt und fachlicher Aufgabe
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Kristian Fischer, Prof. Dr. Mario Winter, Prof. Dr. Martin Eisemann, Prof. Dr. Christian Kohls, Prof. Dr. Gerhard Hartmann%end-modulMeta%%begin-modulMeta%**Kürzel**: MIMP-V%end-modulMeta%%begin-modulMeta%**Studiensemester - Wintersemester**: 3%end-modulMeta%%begin-modulMeta%**Studiensemester - Sommersemester**: 1%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 12%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktprojekt%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Kristian Fischer, Prof. Dr. Mario Winter, Prof. Dr. Martin Eisemann, Prof. Dr. Christian Kohls, Prof. Dr. Gerhard Hartmann%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 3%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 1%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 12%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktprojekt%end-modulMeta%%begin-modulMeta%**Pflichtmodul in den Schwerpunkten**: Weaving the Web, Social Computing, Visual Computing, Multiperspective Product Development, Human-Computer Interaction%end-modulMeta%
 
 
-## Kurzbeschreibung
+## Kurzbeschreibung:
 
 Auf Basis eines bereits ausgearbeiteten Prototypen werden in diesem Modul die Schritte Deployment, Qualitätssicherung und Evaluierung, Kontinuierliche Integration sowie Produktmanagement und -marketing geplant, durchgeführt und kritisch reflektiert.
+
+Bei einem Projekt mit Forschungsschwerpunkt werden die Schritte Entwicklung, Qualitätssicherung und Evaluierung, kritischer Vergleich, wissenschaftliches Schreiben und Präsentation geplant, durchgeführt und kritisch reflektiert.
 
 
 ## Lehrform/SWS:
@@ -921,7 +873,7 @@ Projektarbeit
 
 Die Studentinnen und Studenten
 
-- können die Kernfunktionen eines Produktes vor dem Hintergrund neuere Erkenntnisse und Entwicklungen in der Informatik und insbesondere der Medieninformatik identifizieren und kommunizieren und sind in der Lage, einen Prototypen als "minimal viable product" auch aus betriebswirtschaftlichen Perspektiven zu betrachten, bzgl. Modellen, Systemen und Prozessen für Medienkonzeption, -produktion, -bearbeitung, -distribution und -nutzung zu analysieren und zu evaluieren und in den Markt oder die Community zu bringen;
+- können die Kernfunktionen eines Produktes vor dem Hintergrund neuerer Erkenntnisse und Entwicklungen in der Informatik und insbesondere der Medieninformatik identifizieren und kommunizieren und sind in der Lage, einen Prototypen als "minimal viable product" auch aus betriebswirtschaftlichen Perspektiven zu betrachten, bzgl. Modellen, Systemen und Prozessen für Medienkonzeption, -produktion, -bearbeitung, -distribution und -nutzung zu analysieren und zu evaluieren und in den Markt oder die Community zu bringen;
 
 - kennen Deployment Strategien, Konzepte und Techniken der Kontinuierlichen Integration und können diese in einem spezifischen Projektkontext anwenden;
 
@@ -938,18 +890,16 @@ Das Projekt gliedert sich in zwei Teile:
 
 - Variante: In der eigentlichen Projektarbeit wird ein fertiger, lauffertiger Prototyp evaluiert und in Form eines minimal viable product zugänglich gemacht. Im Rahmen des Projekts werden Konzepte und Techniken der Kontinuierlichen Integration auf das minimal viable product angewendet. 
 
-- Zur Unterstützung werden Workshops/Seminare in den Bereichen Produkt Management, Qualitätssicherung und -Management sowie Medien- und Vertragsrecht angeboten.
+- Zur Unterstützung werden Workshops/Seminare in den Bereichen Forschung, Produkt Management, Qualitätssicherung und -Management sowie Medien- und Vertragsrecht angeboten.
 
 
 ## Studien-/Prüfungsleistungen:
 
-Projektarbeit und vertiefende Workshops/Seminare. Dokumentation der geleisteten Arbeit mit Aufgabenstellung, Stand von Wissenschaft und Technik, verwendeten Problemlösungsmethoden, erzielten Resultaten, offenen Fragen, verwendeten Quellen etc..
+Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
 
-In die Gesamtnote gehen zwei Leistungen zu je gleichen Anteilen (50%) ein:
+- Projektergebnis und -dokumentation (50%)
 
-- Abschlusspräsentation: Fachliche Aufgabe.
-
-- Abschlussbericht: Fachliche Aufgabe.
+- Entrepreneurship und Businessplan (50%)
 
 
 ## Medienformen:
@@ -967,10 +917,10 @@ Je nach Studienschwerpunkt und fachlicher Aufgabe
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Kristian Fischer, Prof. Dr. Mario Winter, Prof. Dr. Martin Eisemann, Prof. Dr. Christian Kohls, Prof. Dr. Gerhard Hartmann%end-modulMeta%%begin-modulMeta%**Kürzel**: MIMP-K%end-modulMeta%%begin-modulMeta%**Studiensemester - Wintersemester**: 1%end-modulMeta%%begin-modulMeta%**Studiensemester - Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 12%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktprojekt%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Kristian Fischer, Prof. Dr. Mario Winter, Prof. Dr. Martin Eisemann, Prof. Dr. Christian Kohls, Prof. Dr. Gerhard Hartmann%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 1%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 12%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktprojekt%end-modulMeta%%begin-modulMeta%**Pflichtmodul in den Schwerpunkten**: Weaving the Web, Social Computing, Visual Computing, Multiperspective Product Development, Human-Computer Interaction%end-modulMeta%
 
 
-## Kurzbeschreibung
+## Kurzbeschreibung:
 
 In einem Projekt wird eine Idee für ein Produkt oder einen Dienst entwickelt oder weiterentwickelt, eine Recherche des Marktes und Standes von Wissenschaft und Technik durchgeführt, und ein Konzept soweit definiert und dokumentiert, dass in einem nachfolgenden Projekt ein Entwicklerteam in der Lage ist, einen ersten Prototyp zu realisieren oder zu erweitern.
 
@@ -1011,13 +961,11 @@ Das Projekt gliedert sich in zwei Teile:
 
 ## Studien-/Prüfungsleistungen:
 
-Projektarbeit und Recherche mit Analyse. Dokumentation der geleisteten Arbeit mit Aufgabenstellung, Stand von Wissenschaft und Technik, verwendeten Problemlösungsmethoden, erzielten Resultaten, offenen Fragen, verwendeten Quellen etc..
+Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
 
-In die Gesamtnote gehen zwei Leistungen zu je gleichen Anteilen (50%) ein:
+- Advanced Seminar (50%)
 
-- Abschlusspräsentation: Fachliche Aufgabe.
-
-- Abschlussbericht: Fachliche Aufgabe.
+- Projektergebnis und -dokumentation (50%)
 
 
 ## Medienformen:
@@ -1035,39 +983,33 @@ Je nach Studienschwerpunkt und fachlicher Aufgabe
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Kristian Fischer%end-modulMeta%%begin-modulMeta%**Kürzel**: NGT%end-modulMeta%%begin-modulMeta%**Studiensemester - Wintersemester**: 2%end-modulMeta%%begin-modulMeta%**Studiensemester - Sommersemester**: 1%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktmodul%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Kristian Fischer%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 2%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 1%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktmodul%end-modulMeta%%begin-modulMeta%**Pflichtmodul im Schwerpunkt**: Social Computing%end-modulMeta%
 
 
-##Kurzbeschreibung
+## Kurzbeschreibung:
 
 Es werden Grundlagen für die Analyse und algorithmische Verarbeitung von Graph basierten Daten eingeführt. 
 
 
 ## Lehrform/SWS:
 
-V/Ü davon
-
-- 2 SWS V und
-
-- 2 SWS Ü
+4 SWS: Vorlesung 2 SWS; Übung 2 SWS
 
 
 ## Arbeitsaufwand:
 
-180 Stunden
+Gesamtaufwand 180 Stunden, davon
 
-davon 
+- 36h Vorlesung 
 
-- 30 h Vorlesung 
+- 36h Übung  
 
-- 30 h Projektarbeit  
-
-- 120 h Selbststudium 
+- 102h Selbststudium 
 
 
 ## Angestrebte Lernergebnisse:
 
-Die Studentinnen und Studenten
+Die Studierenden
 
 - kennen die Bedeutung von formalen Modellen von heutigen technischen, Informations- und sozialen Netzen,
 
@@ -1091,7 +1033,9 @@ um Methoden und Techniken zur Analyse sozialer und ggfs. anderer Netze auswähle
 
 ## Studien-/Prüfungsleistungen:
 
-Mündliche Prüfung
+Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
+
+- Mündliche Prüfung (100%)
 
 
 ## Medienformen:
@@ -1119,7 +1063,7 @@ Mündliche Prüfung
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Christian Kohls%end-modulMeta%%begin-modulMeta%**Kürzel**: SZ%end-modulMeta%%begin-modulMeta%**Studiensemester - Wintersemester**: 1%end-modulMeta%%begin-modulMeta%**Studiensemester - Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: %end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktmodul%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Christian Kohls%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 1%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktmodul%end-modulMeta%%begin-modulMeta%**Pflichtmodul im Schwerpunkt**: Social Computing%end-modulMeta%
 
 
 ## Lehrform/SWS:
@@ -1129,13 +1073,13 @@ Mündliche Prüfung
 
 ## Arbeitsaufwand:
 
-Gesamtaufwand 180 h, davon 
+Gesamtaufwand 180 Stunden, davon 
 
-- 45 h Vorlesung 
+- 36h Vorlesung 
 
-- 90 h Projekt
+- 36h Projekt
 
-- 45 h Selbststudium 
+- 108h Selbststudium 
 
 
 ## Angestrebte Lernergebnisse:
@@ -1178,7 +1122,9 @@ Die Studierenden sollen:
 
 ## Studien-/Prüfungsleistungen:
 
-Schriftliche Ausarbeitung zu neuen Entwurfsmustern
+Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
+
+- Schriftliche Ausarbeitung (100%)
 
 
 ## Medienformen:
@@ -1216,7 +1162,7 @@ Schriftliche Ausarbeitung zu neuen Entwurfsmustern
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Christian Kohls%end-modulMeta%%begin-modulMeta%**Kürzel**: CSCL%end-modulMeta%%begin-modulMeta%**Studiensemester - Wintersemester**: 1%end-modulMeta%%begin-modulMeta%**Studiensemester - Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: %end-modulMeta%%begin-modulMeta%**Typ**: Wahlpflichtmodul%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Christian Kohls%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 1%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden%end-modulMeta%%begin-modulMeta%**Typ**: Wahlpflichtmodul%end-modulMeta%
 
 
 ## Lehrform/SWS:
@@ -1226,13 +1172,15 @@ Schriftliche Ausarbeitung zu neuen Entwurfsmustern
 
 ## Arbeitsaufwand:
 
-Gesamtaufwand 180 h, davon 
+Gesamtaufwand 180 Stunden, davon 
 
-- 45 h Vorlesung 
+- 36h Vorlesung 
 
-- 30 h Übung
+- 18h Übung
 
-- 105 h Projekt
+- 54h Projekt
+
+- 72h Selbstlernphase
 
 
 ## Angestrebte Lernergebnisse:
@@ -1273,7 +1221,9 @@ Die Studierenden sollen:
 
 ## Studien-/Prüfungsleistungen:
 
-Planung und Durchführung einer Onlineveranstaltung (ca. 15 Minuten)
+Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
+
+Planung und Durchführung einer ca. 15 minütigen Onlineveranstaltung (100% der Note)
 
 
 ## Medienformen:
@@ -1313,11 +1263,11 @@ Planung und Durchführung einer Onlineveranstaltung (ca. 15 Minuten)
 
 
 
-# WPF e-Science
+# e-Science
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Christian Kohls%end-modulMeta%%begin-modulMeta%**Kürzel**: CE%end-modulMeta%%begin-modulMeta%**Studiensemester - Wintersemester**: 1%end-modulMeta%%begin-modulMeta%**Studiensemester - Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: %end-modulMeta%%begin-modulMeta%**Typ**: Wahlpflichtmodul%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Christian Kohls%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 1%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden%end-modulMeta%%begin-modulMeta%**Typ**: Wahlpflichtmodul%end-modulMeta%
 
 
 ## Lehrform/SWS:
@@ -1327,13 +1277,13 @@ Planung und Durchführung einer Onlineveranstaltung (ca. 15 Minuten)
 
 ## Arbeitsaufwand:
 
-Gesamtaufwand 180 h, davon 
+Gesamtaufwand 180 Stunden, davon 
 
-- 60 h Vorlesung 
+- 54h Vorlesung 
 
-- 30 h Selbststudium
+- 54h Projekt
 
-- 90 h Seminar
+- 72h Selbststudium
 
 
 ## Angestrebte Lernergebnisse:
@@ -1362,7 +1312,9 @@ Die Studierenden sollen quantitative und qualitative Forschungsmethoden mithilfe
 
 ## Studien-/Prüfungsleistungen:
 
-Mündiche Prüfung
+Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
+
+- Mündiche Prüfung (!00%)
 
 
 ## Medienformen:
@@ -1390,14 +1342,14 @@ Mündiche Prüfung
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Martin Eisemann%end-modulMeta%%begin-modulMeta%**Kürzel**: BCG%end-modulMeta%%begin-modulMeta%**Studiensemester - Wintersemester**: 1%end-modulMeta%%begin-modulMeta%**Studiensemester - Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: wahlweise deutsch oder englisch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 5%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: &nbsp;%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktmodul%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Martin Eisemann%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 1%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: wahlweise deutsch oder englisch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktmodul%end-modulMeta%%begin-modulMeta%**Pflichtmodul im Schwerpunkt**: Visual Computing%end-modulMeta%
 
 
-## Kurzbeschreibung
+## Kurzbeschreibung:
 
 Diese Vorlesung gibt eine Einführung in die grundlegenden Konzepte der bildbasierten Modellierung und der bildbasierten Synthese, Techniken, auf denen z.B. viele moderne Film-Spezialeffekte basieren. 
 
-Dabei werden verschiedenste Aspekte der Bild- und Videobe- und -verarbeitung,  wie sie in modernen Bearbeitungstools vorkommen, erarbeitet und selbst implementiert. Die Teilnehmer erlernen die grundlegenden Konzepte der Modellierung anhand von Fotos realer Objekte. Es werden Methoden zur Bildaufnahme, Bildverarbeitung und Bildsynthese erarbeitet. Die Studierenden sind bei erfolgreicher Teilnahme in der Lage im Bereich Bild- und Videobearbeitung, sowie bildbasierter Modellierung, eigenständige Beiträge in Forschung und Wirtschaft leisten zu können.
+Dabei werden verschiedenste Aspekte der Bild- und Videobe- und -verarbeitung,  wie sie in modernen Bearbeitungstools vorkommen, erarbeitet und selbst implementiert. Die Teilnehmer erlernen die grundlegenden Konzepte der Modellierung anhand von Fotos realer Objekte. Es werden Methoden zur Bildaufnahme, Bildverarbeitung und Bildsynthese erarbeitet. Die Studierenden sind bei erfolgreicher Teilnahme in der Lage, im Bereich Bild- und Videobearbeitung, sowie bildbasierter Modellierung, eigenständige Beiträge in Forschung und Wirtschaft leisten zu können.
 
 
 ## Lehrform/SWS:
@@ -1407,13 +1359,13 @@ Dabei werden verschiedenste Aspekte der Bild- und Videobe- und -verarbeitung,  w
 
 ## Arbeitsaufwand:
 
-Gesamtaufwand 150h, davon
+Gesamtaufwand 180 Stunden, davon
 
-- 50h Vorlesung (inkl. Vor-/Nachbearbeitung),
+- 36h Vorlesung
 
-- 70h Praktikum / Projekt
+- 36h Praktikum / Projekt
 
-- 30h Selbstlernphase
+- 108h Selbstlernphase
 
 
 ## Angestrebte Lernergebnisse:
@@ -1438,9 +1390,7 @@ Nach erfolgreichem Abschluss
 
   - Bildinterpolationsmethoden und ihre Herausforderungen kennen
 
-  - Bildbasierte Darstellungsformen auswählen und anwenden (360° Panoramas, Lichtfelder, Morphing, Image-based Rendering)
-
-  - Die Konzepte auf CPU und GPU umsetzen
+  - bildbasierte Darstellungsformen auswählen und anwenden (360° Panoramas, Lichtfelder, Morphing, Image-based Rendering)
 
 - sind die Studierenden somit in der Lage ihr Wissen und Verständnis einzusetzen, um Modelle, Systeme und Prozesse eigener Bild-, Video-, und Computer-Vision Applikationen zu konzipieren, umzusetzen und zu evaluieren.
 
@@ -1470,9 +1420,11 @@ Nach erfolgreichem Abschluss
 
 ## Studien-/Prüfungsleistungen:
 
-- 1 Studienleistung: regelmäßige erfolgreiche Teilnahme an den kursbegleitenden Praktikas (50% der Punkte aus den Praktikas müssen erreicht worden sein)
+Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
 
-- 2 Prüfungsleistungen: Klausur (45 Minuten) oder mündliche Prüfung (15 Minuten), sowie eine Projektpräsentation.
+- Fachvortrag (40%)
+
+- Projektumsetzung und Dokumentation (60%)
 
 
 ## Medienformen:
@@ -1484,7 +1436,7 @@ Nach erfolgreichem Abschluss
 
 ## Literatur:
 
-- Bernd Jähne, Digitale Bildverarbeitung und Bildgewinnung, Springer, 2012
+- Reinhard Klette, Concise Computer Vision: An introduction into theory and algorithms, Springer, 2014- Bernd Jähne, Digitale Bildverarbeitung und Bildgewinnung, Springer, 2012
 
 - Christian Demant, Bernd Streicher-Abel, Axel Springhoff, Industrielle Bildverarbeitung: Wie optische Qualitätskontrolle wirklich funktioniert, Springer, 2011
 
@@ -1496,32 +1448,32 @@ Nach erfolgreichem Abschluss
 
 
 
-# Photorealistische Computergrafik
+# Photorealistische Bildsynthese
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Martin Eisemann%end-modulMeta%%begin-modulMeta%**Kürzel**: PCG%end-modulMeta%%begin-modulMeta%**Studiensemester - Wintersemester**: 3%end-modulMeta%%begin-modulMeta%**Studiensemester - Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: wahlweise deutsch oder englisch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 5%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: &nbsp;%end-modulMeta%%begin-modulMeta%**Typ**: Wahlpflichtmodul%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Martin Eisemann%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 3%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: wahlweise deutsch oder englisch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden%end-modulMeta%%begin-modulMeta%**Typ**: Wahlpflichtmodul%end-modulMeta%%begin-modulMeta%**Pflichtmodul im Schwerpunkt**: Visual Computing%end-modulMeta%
 
 
-## Kurzbeschreibung
+## Kurzbeschreibung:
 
-Die Studierenden erlernen aktuelle Techniken zur Erzeugung von photorealistischer Computergrafik, wie Sie in Filmen mittels vorhanden Tools wie Blender, Maya, 3DS Max verwendet wird. Dabei liegt der Schwerpunkt nicht auf der praktischen Anwendung sondern vor allem auf den darunterliegenden Algorithmen. Ziel ist es diese zu verstehen, zu erweitern und sinnvoll anwenden zu können.
+Die Studierenden erlernen aktuelle Techniken zur Erzeugung photorealistischer Computergrafik, wie Sie in Filmen mittels vorhanden Tools wie Blender, Maya, 3DS Max verwendet wird. Dabei liegt der Schwerpunkt nicht auf der praktischen Anwendung sondern vor allem auf den darunterliegenden Algorithmen. Ziel ist es diese zu verstehen, zu erweitern und sinnvoll anwenden zu können.
 
 
 ## Lehrform/SWS:
 
-4 SWS, Vorlesung 2 SWS, Praktikum / Projekt 2 SWS
+4 SWS: Vorlesung 2 SWS; Praktikum / Projekt 2 SWS
 
 
 ## Arbeitsaufwand:
 
-Gesamtaufwand 150h, davon
+Gesamtaufwand 180 Stunden, davon
 
-- 50h Vorlesung (inkl. Vor-/Nachbearbeitung),
+- 36h Vorlesung
 
-- 70h Praktikum / Projekt
+- 36h Praktikum / Projekt
 
-- 30h Selbstlernphase
+- 108h Selbstlernphase
 
 
 ## Angestrebte Lernergebnisse:
@@ -1564,9 +1516,9 @@ Gesamtaufwand 150h, davon
 
 ## Studien-/Prüfungsleistungen:
 
-- 1 Studienleistung: regelmäßige erfolgreiche Teilnahme an den kursbegleitenden Praktikas (50% der Punkte aus den Praktikas müssen erreicht worden sein)
+Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
 
-- 1 Prüfungsleistung: Klausur (90 Minuten) oder mündliche Prüfung (30 Minuten).
+- Klausur (90 Minuten) oder mündliche Prüfung (30 Minuten) (100%)
 
 
 ## Medienformen:
@@ -1594,10 +1546,10 @@ Gesamtaufwand 150h, davon
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: Prof. Hans Kornacher%end-modulMeta%%begin-modulMeta%**Kürzel**: SNS%end-modulMeta%%begin-modulMeta%**Studiensemester - Wintersemester**: 1%end-modulMeta%%begin-modulMeta%**Studiensemester - Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: &nbsp;%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: Keine über die Zulassungsbedingungen hinausgehenden Voraussetzungen%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktmodul%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: Prof. Hans Kornacher%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 1%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktmodul%end-modulMeta%%begin-modulMeta%**Pflichtmodul im Schwerpunkt**: Visual Computing%end-modulMeta%
 
 
-## Kurzbeschreibung
+## Kurzbeschreibung:
 
 Das Modul führt in die grundlegenden narrativen Modelle in unterschiedlichen Medien und Kontexten ein. Die Studierenden lernen diese Konzepte zu verstehen und sinnvoll einzusetzen.
 
@@ -1609,13 +1561,13 @@ Das Modul führt in die grundlegenden narrativen Modelle in unterschiedlichen Me
 
 ## Arbeitsaufwand:
 
-Gesamtaufwand 180 h, davon 
+Gesamtaufwand 180 Stunden, davon 
 
-- 36 h Vorlesung
+- 36h Vorlesung
 
-- 36 h Projektarbeit
+- 36h Projekt
 
-- 108 h Selbststudium
+- 108h Selbststudium
 
 
 ## Angestrebte Lernergebnisse:
@@ -1640,7 +1592,11 @@ Pragmatisches Ziel ist es, in den unterschiedlichsten Berufsfeldern digitaler Me
 
 ## Studien-/Prüfungsleistungen:
 
-Projektarbeit (50%) und schriftliche Ausarbeitung (50%)
+Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
+
+- Projektarbeit (50%) 
+
+- Schriftliche Ausarbeitung (50%)
 
 
 ## Medienformen:
@@ -1668,30 +1624,32 @@ Projektarbeit (50%) und schriftliche Ausarbeitung (50%)
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Martin Eisemann%end-modulMeta%%begin-modulMeta%**Kürzel**: VI%end-modulMeta%%begin-modulMeta%**Studiensemester - Wintersemester**: 2%end-modulMeta%%begin-modulMeta%**Studiensemester - Sommersemester**: 3%end-modulMeta%%begin-modulMeta%**Sprache**: wahlweise deutsch oder englisch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 5%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: &nbsp;%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktmodul%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Martin Eisemann%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 2%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 3%end-modulMeta%%begin-modulMeta%**Sprache**: wahlweise deutsch oder englisch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktmodul%end-modulMeta%%begin-modulMeta%**Pflichtmodul im Schwerpunkt**: Visual Computing%end-modulMeta%
 
 
-## Kurzbeschreibung
+## Kurzbeschreibung:
 
 Die Studierenden sollen in die Lage versetzt werden, abstrakte, vorwiegend numerische Datenbestände in 2-und 3-dimensionalen Repräsentationen zu visualisieren und mit interaktiven Methoden zu untersuchen, um Strukturen aufzudecken, Hypothesen abzuleiten und zu verifizieren, sowie Ergebnisse zu kommunizieren. Die Studierenden sind in der Lage, die aus modernen Simulations- und Messmethoden resultierenden umfangreichere Datenvolumina durch Visualisierungsverfahren einer Analyse zuzuführen. Dies wird sowohl anhand von theoretischen Grundlagen, der Analyse und Präsentation aktueller Forschungsergebnisse als auch der Verifikation der erworbenen Kenntnisse an eigenen Visualisierungen vermittelt.
 
 
 ## Lehrform/SWS:
 
-4 SWS: Vorlesung 1 SWS; Seminar / Workshops 2SWS; Projekt  1 SWS
+4 SWS: Vorlesung 1 SWS; Seminar / Workshops 2 SWS; Projekt 1 SWS
 
 
 ## Arbeitsaufwand:
 
-Gesamtaufwand 150h, davon
+Gesamtaufwand 180 Stunden, davon
 
-- 20h Vorlesung (inkl. Vor-/Nachbearbeitung),
+- 18h Vorlesung 
 
-- 60h Seminar und Workshops (inkl. Vorbereitung)
+- 18h Workshops
 
-- 40h Projekt
+- 18h Seminar
 
-- 30h Selbstlernphase
+- 18h Projekt
+
+- 102h Selbststudium
 
 
 ## Angestrebte Lernergebnisse:
@@ -1748,7 +1706,11 @@ Im speziellen, aber nicht ausschließlich, werden folgende Themen behandelt:
 
 ## Studien-/Prüfungsleistungen:
 
-2 Fachvorträge sowie eine abschließende Projektarbeit samt Dokumentation und Präsentation.
+Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
+
+- 2 Fachvorträge (je 30%)
+
+- Projektpräsentation und -dokumentation (40%)
 
 
 ## Medienformen:
@@ -1764,7 +1726,7 @@ Im speziellen, aber nicht ausschließlich, werden folgende Themen behandelt:
 
 ## Literatur:
 
-- Weitere themenbezogene Einzelverweise in der Vorlesung und im Seminar
+- Tufte, E.R., The Visual Display of Quantitative Information, Cheshire,CT, Graphics Press 1983, und Envisioning Information, Cheshire,CT, Graphics Press 1994
 
 - Murray, S.: Interactive Data Visualization for the Web, O'Reilly
 
@@ -1772,23 +1734,7 @@ Im speziellen, aber nicht ausschließlich, werden folgende Themen behandelt:
 
 - Berger,W., Grob,H.L.: Präsentieren und Visualisieren -mit und ohne Multimedia, dtv 2002
 
-- Kirckhoff,M.: Mind mapping, die Synthese von sprachlichem und bildhaftem Denken, Berlin 1988, und www.mindmanager.de
-
-- Excel: z.B. Berk, Kenneth N.: Data analysis with Microsoft Excel, 2000, Middleton,M.R. Data analysis using Microsoft Excel
-
-- Tufte, E.R., The Visual Display of Quantitative Information, Cheshire,CT, Graphics Press 1983, und Envisioning Information, Cheshire,CT, Graphics Press 1994
-
-- Keim, D.A.: Data mining mit bloßem Auge, Spektrum der Wissenschaft, Nov 2002
-
-- Ferreira de Oliveira,M.C., Levkowitz,H.: From Visual Data Exploration to Visual Data Mining: A Survey, IEEE Trans. on Visualization and Computer Graphics, 9-3, Jul 2003
-
 - Schumann,H., Müller,W.; Visualisierung -Grundlagen und allgemeine Methoden; Springer 2000, ISBN 3-540-64944-1
-
-- Brodlie,K.W., e.a.: Scientific Visualization, Techniques and Applications, Springer 1992
-
-- Open Visualization Data Explorer, open source
-
-- Visualization Toolkit, open Source, www.vtk.org
 
 - Data-driven Documents D3, d3js.org
 
@@ -1798,10 +1744,10 @@ Im speziellen, aber nicht ausschließlich, werden folgende Themen behandelt:
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Stefan Karsch%end-modulMeta%%begin-modulMeta%**Kürzel**: ITS%end-modulMeta%%begin-modulMeta%**Studiensemester - Wintersemester**: 1%end-modulMeta%%begin-modulMeta%**Studiensemester - Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktmodul%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Stefan Karsch%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 1%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktmodul%end-modulMeta%%begin-modulMeta%**Pflichtmodul in den Schwerpunkten**: Weaving the Web, Social Computing, Multiperspective Product Development%end-modulMeta%
 
 
-## Kurzbeschreibung
+## Kurzbeschreibung:
 
 Einsatzszenarien von IT und entsprechende Sicherheitseigenschaften und Sicherheitskonzepte; Wirkzusammenhänge zwischen Vertrauen und (IT-)Sicherheit; gesellschaftliche Bedeutung von Privatsphäre und Datenschutz.
 
@@ -1813,13 +1759,15 @@ Einsatzszenarien von IT und entsprechende Sicherheitseigenschaften und Sicherhei
 
 ## Arbeitsaufwand:
 
-Gesamtaufwand 180 h, davon 
+Gesamtaufwand 180 Stunden, davon 
 
-- 45 h Vorlesung 
+- 36h Vorlesung 
 
-- 30 h Projektarbeit  
+- 36h Seminar
 
-- 105 h Selbststudium 
+- 36h Projektarbeit  
+
+- 72h Selbststudium 
 
 
 ## Angestrebte Lernergebnisse:
@@ -1866,9 +1814,11 @@ Gesamtaufwand 180 h, davon
 
 ## Studien-/Prüfungsleistungen:
 
-- Vorlesungsteil und Seminarinhalt: mündliche Prüfung (50%) 
+Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
 
-- Seminarteil: Vortrag und Ausarbeitung (50%)
+- mündliche Prüfung (50%) 
+
+- Fachvortrag und Projektdokumentation (50%)
 
 
 ## Medienformen:
@@ -1900,32 +1850,28 @@ Gesamtaufwand 180 h, davon
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Kristian Fischer%end-modulMeta%%begin-modulMeta%**Kürzel**: WTW-LSM%end-modulMeta%%begin-modulMeta%**Studiensemester - Wintersemester**: 2%end-modulMeta%%begin-modulMeta%**Studiensemester - Sommersemester**: 3%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Wahlpflichtmodul%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Kristian Fischer%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 2%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 3%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden%end-modulMeta%%begin-modulMeta%**Typ**: Wahlpflichtmodul%end-modulMeta%%begin-modulMeta%**Pflichtmodul im Schwerpunkt**: Multiperspective Product Development%end-modulMeta%
 
 
-## Kurzbeschreibung
+## Kurzbeschreibung:
 
-Die Studentinnen und Studenten werden in die Entwicklung von semantischen Modellen als Basis für den Datenaustausch in verteilten, offenen Web Anwendungen eingeführt.Neben der praktischen Modellierung wird auch die theoretische Fundierung in der Prädikaten- und Beschreibungslogik behandelt.
+Die Studierenden werden in die Entwicklung von semantischen Modellen als Basis für den Datenaustausch in verteilten, offenen Web Anwendungen eingeführt. Neben der praktischen Modellierung wird auch die theoretische Fundierung in der Prädikaten- und Beschreibungslogik behandelt.
 
 
 ## Lehrform/SWS:
 
-2 SWS V
-
-2 SWS Ü
+4 SWS: Vorlesung 2 SWS; Übung 2 SWS
 
 
 ## Arbeitsaufwand:
 
-180 Stunden
+Gesamtaufwand 180 Stunden, davon:
 
- davon:
+- 36h Vorlesung 
 
-- 30 h Vorlesung 
+- 36h Übung
 
-- 30 h Projektarbeit  
-
-- 120 h Selbststudium 
+- 102h Selbststudium 
 
 
 ## Angestrebte Lernergebnisse:
@@ -1958,7 +1904,9 @@ um kompetent im Fachdiskurs die Eignung semantischer Modellierung für die Domä
 
 ## Studien-/Prüfungsleistungen:
 
-Mündliche Prüfung
+Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
+
+- Mündliche Prüfung (100%)
 
 
 ## Medienformen:
@@ -1982,30 +1930,30 @@ Mündliche Prüfung
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Mario Winter%end-modulMeta%%begin-modulMeta%**Kürzel**: QUS%end-modulMeta%%begin-modulMeta%**Studiensemester - Wintersemester**: 2%end-modulMeta%%begin-modulMeta%**Studiensemester - Sommersemester**: 1%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch, Seminar-Basisliteratur i.d.R. in englischer Sprache%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktmodul%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Mario Winter%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 2%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 1%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch, Seminar-Basisliteratur i.d.R. in englischer Sprache%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktmodul%end-modulMeta%%begin-modulMeta%**Pflichtmodul im Schwerpunkt**: Multiperspective Product Development%end-modulMeta%
 
 
-## Kurzbeschreibung
+## Kurzbeschreibung:
 
 Konstruktive und analytische Qualitätssicherung und Qualitätsmanagement für Web-Anwendungen
 
 
 ## Lehrform/SWS:
 
-4 SWS: Vorlesung 2 SWS, Übung 1 SWS, Seminar 1 SWS
+4 SWS: Vorlesung 2 SWS; Übung 1 SWS; Seminar 1 SWS
 
 
 ## Arbeitsaufwand:
 
-180 h, davon
+Gesamtaufwand 180 Stunden, davon
 
-- 36 h Vorlesung
+- 36h Vorlesung
 
-- 18 h Übung
+- 18h Übung
 
-- 18 h Seminar
+- 18h Seminar
 
-- 108 h Selbststudium
+- 108h Selbststudium
 
 
 ## Angestrebte Lernergebnisse:
@@ -2044,6 +1992,8 @@ Aufbauend auf dem in der Vorlesung vermittelten Stoff erstellt jeder Teilnehmer 
 
 ## Studien-/Prüfungsleistungen:
 
+Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
+
 * Seminar-Hausarbeit (30%) 
 
 * Seminarvortrag (30%)
@@ -2076,10 +2026,10 @@ Aufbauend auf dem in der Vorlesung vermittelten Stoff erstellt jeder Teilnehmer 
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Kristian Fischer%end-modulMeta%%begin-modulMeta%**Kürzel**: WTW-WBA%end-modulMeta%%begin-modulMeta%**Studiensemester - Wintersemester**: 1%end-modulMeta%%begin-modulMeta%**Studiensemester - Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktmodul%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Kristian Fischer%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 1%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktmodul%end-modulMeta%%begin-modulMeta%**Pflichtmodul im Schwerpunkt**: Weaving the Web%end-modulMeta%
 
 
-## Kurzbeschreibung
+## Kurzbeschreibung:
 
 In der Veranstaltung werden zwei Felder eingeführt:
 
@@ -2097,15 +2047,13 @@ Basierend auf diesem Grundlagenwissen werden dann Lösungen aus fortschrittliche
 
 ## Arbeitsaufwand:
 
-180 Stunden
+Gesamtaufwand 180 Stunden, davon 
 
-davon 
+- 36h Vorlesung 
 
-- 30 h Vorlesung 
+- 36h Seminar 
 
-- 30 h Seminar 
-
-- 120 h Selbststudium 
+- 108h Selbststudium 
 
 
 ## Angestrebte Lernergebnisse:
@@ -2132,7 +2080,9 @@ Fallstudien: Anwendungen beispielsweise aus den Bereichen Open Data, Internet of
 
 ## Studien-/Prüfungsleistungen:
 
-mündliche Prüfung
+Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
+
+- mündliche Prüfung (100%)
 
 
 ## Medienformen:
@@ -2152,7 +2102,7 @@ Präsentationsmaterialien
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: Prof. Christian Noss%end-modulMeta%%begin-modulMeta%**Kürzel**: WTW-WD%end-modulMeta%%begin-modulMeta%**Studiensemester - Wintersemester**: 2%end-modulMeta%%begin-modulMeta%**Studiensemester - Sommersemester**: 3%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktmodul%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: Prof. Christian Noss%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 2%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 3%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktmodul%end-modulMeta%%begin-modulMeta%**Pflichtmodul im Schwerpunkt**: Weaving the Web%end-modulMeta%
 
 
 ## Kurzbeschreibung:
@@ -2162,37 +2112,29 @@ In Modul werden fortgeschrittene Herangehensweisen, Technologien, Konzepte und I
 
 ## Lehrform/SWS:
 
-Seminar / Workshop 4 SWS
+4 SWS: Seminar 2 SWS, Workshop 2 SWS
 
 
 ## Arbeitsaufwand:
 
-180 Stunden
+Gesamtaufwand 180 Stunden, davon 
 
-~~~
+- 36h Seminar 
 
-Bitte Stunden noch aufsplitten
+- 36h Workshop 
 
-Beispiel:
-
-Gesamtaufwand 150 h, davon 
-
-- 40 h Vorlesung 
-
-- 40 h Projektarbeit  
-
-- 90 h Selbststudium 
-
-~~~
+- 108h Selbststudium 
 
 
 ## Angestrebte Lernergebnisse:
 
-Die Studierenden sind in der Lage auf Basis eines dokumentierten Konzepts ein Entwicklungsprojekt für eine Web-basierte Anwendung zu strukturieren, das Konzept ggf. zu erweitern, um das Entwicklungsprojekt im Team realisieren zu können
+Die Studierenden sind in der Lage auf Basis eines dokumentierten Konzepts ein Entwicklungsprojekt für eine Web-basierte Anwendung zu strukturieren, das Konzept ggf. zu erweitern, um Entwicklungsprojekte im oder für ein Team aufsetzen zu können.
 
-Die Studierenden kennen verschiedene Implementierungskonzepte und -methoden, also auch Frameworks und Best-Practices und können, bezogen auf die Projektanforderungen, die geeigneten auswählen, um möglichst effizient und nachhaltig entwickeln zu können.
+Die Studierenden kennen verschiedene Implementierungskonzepte und -methoden, also auch Frameworks und Best-Practices und können, bezogen auf die Projektanforderungen, die geeigneten auswählen und andere darin anleiten, um eine Web-basierte Anwendung möglichst nachhaltig entwickeln zu können.
 
-Die Studierenden kennen geeignete Vorgehensmodelle, Dokumentationstechniken, sowie Entwicklungswerkzeuge und können diese im Projektkontext sinnvoll einsetzen um möglichst nachhaltig entwickeln und dokumentieren zu können.
+Die Studierenden kennen geeignete Vorgehensmodelle, Dokumentationstechniken, sowie Entwicklungswerkzeuge und können diese im Projektkontext sinnvoll einsetzen, um möglichst professionell im Team entwickeln und dokumentieren zu können.
+
+Die Studierenden sind in der Lage, neue Technologien und Strömungen im Kontext des Webs zu erkennen, einzuordnen, zu bewerten und zu durchdringen, um die Zukunftsfähigkeit der eigenen Skills, des Teams und den Projekts sicher zu stellen.   
 
 
 ## Inhalt:
@@ -2220,9 +2162,32 @@ Die Studierenden kennen geeignete Vorgehensmodelle, Dokumentationstechniken, sow
 
 ## Studien-/Prüfungsleistungen:
 
-Projektarbeit
+Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
+
+- Lernportfolio (70%)
+
+- mündliche/praktische Prüfung (30%)
 
 
 ## Medienformen:
 
-n/a
+Präsentationsmaterialien
+
+
+## Literatur:
+
+
+### Paper:
+
+- Brad Frost: Atomic Design; Smashing Magazine GmbH, 2009
+
+- [Stephen Hay: Responsive design workflow; New Riders, 2013](http://www.digibib.net/permalink/832/FHBK-x/HBZ:HT017780178)
+
+- [Olaf Berberich: Trusted Web 4.0 - Konzepte einer digitalen Gesellschaft; Springer Vieweg, 2016](http://www.digibib.net/permalink/832/FHBK-x/HBZ:HT019048164)
+
+
+### Web:
+
+- [World Wide Web Consortium](https://www.w3.org/)
+
+- [Resources on JAMstack](https://jamstack.org/resources/)

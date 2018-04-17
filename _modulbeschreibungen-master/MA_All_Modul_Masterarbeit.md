@@ -11,7 +11,7 @@ published: true
 type: pm
 ---
 
-## Kurzbeschreibung
+## Kurzbeschreibung:
 Die Masterarbeit (Master Thesis) und das Kolloquium bilden den Abschluss des Studiums. Die Masterarbeit ist in der Regel eine eigenständige Untersuchung mit einer Aufgabenstellung aus der Medieninformatik und einer ausführlichen Beschreibung und Erläuterung ihrer Lösung. In fachlich geeigneten Fällen kann sie auch eine schriftliche Hausarbeit mit fachliterarischem Inhalt sein.
 
 ## Lehrform/SWS: 

@@ -185,13 +185,17 @@ class Document {
 
     $this->fetchFiles();
     $this->loadFileContents();
-    $this->parseYAMLHeader();
+    $this->metaData = $this->parseYAMLHeader();
     /* We now have all the infos needed, to be able to filter files */
     $this->filterFiles();
+
     $this->fixEmptyTableHeader();
     $this->preprocessMD();
     $this->reorderMDFiles();
 
+    foreach( $this->files as $path => $page ) {
+      print $page->infos["title"] . "\n";
+    }
     $this->transpileToLatex();
   }
 
@@ -254,6 +258,19 @@ class Document {
           }
           break;
 
+        case 'modulbeschreibungen-master':
+          if( isset( $page->infos[ 'type' ] ) &&
+              $page->infos[ 'type' ] === 'spmw' ) {
+
+            unset( $this->files[ $path ] );
+          }
+          if( isset( $page->infos[ 'zielmedium' ] ) &&
+              $page->infos[ 'zielmedium' ] === 'web' ) {
+
+            unset( $this->files[ $path ] );
+          }
+          break;
+
       }
 
     }
@@ -261,6 +278,9 @@ class Document {
 
 
   private function parseYAMLHeader() {
+
+    $metaData = array();
+
     foreach( $this->files as $path => &$page ) {
 
       $firstReplacement = true;
@@ -289,7 +309,13 @@ class Document {
 
         return '# ' . $page->infos[ 'title' ];
       }, $page->content );
+
+      $id = $page->infos["kuerzel"];
+      $metaData[$id] = $page->infos;
     }
+  
+    return  $metaData;
+    
   }
 
 
@@ -440,7 +466,16 @@ class Document {
 
           /* No metadata table for "Schwerpunkte" */
           if( isset( $page->infos[ 'type' ] ) &&
-              $page->infos[ 'type' ] === 'sp'    ) {
+            $page->infos[ 'type' ] === 'sp'    ) {
+            $page->content = preg_replace("=\n# =", "\n# Schwerpunkt: ", $page->content);
+
+            break;
+          }
+
+          /* No metadata table for "intros" */
+          if( isset( $page->infos[ 'type' ] ) &&
+            $page->infos[ 'type' ] === 'intro'    ) {
+            
             break;
           }
 
@@ -458,16 +493,46 @@ class Document {
 
           $tableData = array(
             'modulverantwortlich'                   => 'Modulverantwortlich',
-            'kuerzel'                               => 'Kürzel',
+            //'kuerzel'                               => 'Kürzel',
             'studiensemester'                       => 'Studiensemester',
-            'studiensemester-ws'                    => 'Studiensemester - Wintersemester',
-            'studiensemester-ss'                    => 'Studiensemester - Sommersemester',
+            'studiensemester-ws'                    => 'Studiensemester für Start im Wintersemester',
+            'studiensemester-ss'                    => 'Studiensemester für Start im Sommersemester',
             'sprache'                               => 'Sprache',
             // 'zuordnung-zum-curriculum'              => 'Zuordnung zum Curriculum',
             'kreditpunkte'                          => 'Kreditpunkte',
             'voraussetzungen-nach-pruefungsordnung' => 'Voraussetzungen nach Prüfungsordnung',
-            'type'                                  => 'Typ'
+            'type'                                  => 'Typ',
+            'schwerpunkt'                           => 'Schwerpunkt'
           );
+
+          // Schwerpunktzuweisung
+          if( isset($page->infos["schwerpunkt"]) ){
+
+            // Schwerpunkt Ids holen
+            $page->infos["schwerpunkt"] = str_replace(" ", "", $page->infos["schwerpunkt"]);
+            $schwerpunktIds = explode(",", $page->infos["schwerpunkt"]);
+            
+            // Namen auflösen
+            $page->infos["schwerpunkt"] = array();
+            foreach($schwerpunktIds as $id){
+              array_push($page->infos["schwerpunkt"], $this->metaData[$id]["title"]);
+            }
+
+            // Label setzen
+            if(sizeof($page->infos["schwerpunkt"]) > 1){
+              $tableData["schwerpunkt"] = "Pflichtmodul in den Schwerpunkten";
+            }else{
+              $tableData["schwerpunkt"] = "Pflichtmodul im Schwerpunkt";
+            }
+
+            // Stringifizieren
+            $page->infos["schwerpunkt"] = implode(", ", $page->infos["schwerpunkt"]);
+
+          }else{
+
+            unset( $tableData["schwerpunkt"] );
+
+          }
 
           /* Handling 'studiensemester' types */
           $studiensemesterTypes = array( 'studiensemester', 'studiensemester-ws', 'studiensemester-ss' );
@@ -568,8 +633,16 @@ class Document {
 
       case 'modulbeschreibungen-master':
 
-        $scherpunkteFiles = array();
+        $introFiles = array();
+        foreach( $this->files as $path => $page ) {
+          if( isset( $page->infos[ 'type' ] ) &&
+              $page->infos[ 'type' ] === 'intro'    ) {
+            $introFiles[ $path ] = $page;
+            unset( $this->files[ $path ] );
+          }
+        }
 
+        $scherpunkteFiles = array();
         foreach( $this->files as $path => $page ) {
           if( isset( $page->infos[ 'type' ] ) &&
               $page->infos[ 'type' ] === 'sp'    ) {
@@ -578,7 +651,7 @@ class Document {
           }
         }
 
-        $this->files = $scherpunkteFiles + $this->files;
+        $this->files = $introFiles + $scherpunkteFiles + $this->files;
 
         break;
     }

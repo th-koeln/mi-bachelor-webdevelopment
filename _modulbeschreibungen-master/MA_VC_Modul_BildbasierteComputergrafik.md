@@ -15,7 +15,7 @@ parent: SPM2
 schwerpunkt: vc
 ---
 
-## Kurzbeschreibung
+## Kurzbeschreibung:
 Diese Vorlesung gibt eine Einführung in die grundlegenden Konzepte der bildbasierten Modellierung und der bildbasierten Synthese, Techniken, auf denen z.B. viele moderne Film-Spezialeffekte basieren. 
 
 Dabei werden verschiedenste Aspekte der Bild- und Videobe- und -verarbeitung,  wie sie in modernen Bearbeitungstools vorkommen, erarbeitet und selbst implementiert. Die Teilnehmer erlernen die grundlegenden Konzepte der Modellierung anhand von Fotos realer Objekte. Es werden Methoden zur Bildaufnahme, Bildverarbeitung und Bildsynthese erarbeitet. Die Studierenden sind bei erfolgreicher Teilnahme in der Lage, im Bereich Bild- und Videobearbeitung, sowie bildbasierter Modellierung, eigenständige Beiträge in Forschung und Wirtschaft leisten zu können.

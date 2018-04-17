@@ -14,7 +14,7 @@ parent:
 schwerpunkt: mpd
 ---
 
-## Kurzbeschreibung
+## Kurzbeschreibung:
 Die Studierenden werden in die Entwicklung von semantischen Modellen als Basis für den Datenaustausch in verteilten, offenen Web Anwendungen eingeführt. Neben der praktischen Modellierung wird auch die theoretische Fundierung in der Prädikaten- und Beschreibungslogik behandelt.
 
 ## Lehrform/SWS: 

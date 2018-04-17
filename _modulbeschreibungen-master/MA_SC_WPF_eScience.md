@@ -17,10 +17,6 @@ parent: WPM
 ## Lehrform/SWS: 
 6 SWS: Vorlesung 3 SWS; Projekt 3 SWS
 
-## Arbeitsaufwand: 
-Gesamtaufwand 180 h, davon 
-60h Vorlesung, 30h Selbststudium, 90h Seminar 
-
 ## Arbeitsaufwand:
 
 Gesamtaufwand 180 Stunden, davon 

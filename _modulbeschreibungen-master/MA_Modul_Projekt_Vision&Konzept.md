@@ -15,7 +15,7 @@ parent:
 schwerpunkt: wtw, sc, vc, mpd, hci
 ---
 
-## Kurzbeschreibung
+## Kurzbeschreibung:
 In einem Projekt wird eine Idee für ein Produkt oder einen Dienst entwickelt oder weiterentwickelt, eine Recherche des Marktes und Standes von Wissenschaft und Technik durchgeführt, und ein Konzept soweit definiert und dokumentiert, dass in einem nachfolgenden Projekt ein Entwicklerteam in der Lage ist, einen ersten Prototyp zu realisieren oder zu erweitern.
 
 ## Lehrform/SWS: 

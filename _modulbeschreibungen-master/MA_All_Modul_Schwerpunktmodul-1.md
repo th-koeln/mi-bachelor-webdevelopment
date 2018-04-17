@@ -13,7 +13,6 @@ published: true
 type: spmw
 ---
 
-## Kurzbeschreibung
 
 ## Lehrform/SWS:
 Platzhalter - das konkrete Schwerpunktmodul 1 ist für die Studienschwerpunkte im Studienverlaufsplan der Master-Prüfungsordnung Medieninformatik aufgeführt.

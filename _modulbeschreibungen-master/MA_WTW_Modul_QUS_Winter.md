@@ -15,7 +15,7 @@ parent: SPM3
 schwerpunkt: mpd
 ---
 
-## Kurzbeschreibung
+## Kurzbeschreibung:
 Konstruktive und analytische Qualitätssicherung und Qualitätsmanagement für Web-Anwendungen
 
 ## Lehrform/SWS: 

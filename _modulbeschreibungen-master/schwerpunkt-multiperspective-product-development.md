@@ -3,8 +3,9 @@ title: Multiperspective Product Development
 verantwortlich: mw
 type: sp
 kuerzel: mpd
-kurzbeschreibung: Im Schwerpunkt "Multi-Perspective Product Development" entwickeln und vertiefen die Studierenden ihre Kompetenz, die typische Heterogenität vieler Medieninformatik-Projekte von der Methodik über die technologische bis hin zur sozio-technischen Komponente zu verstehen und zu bewältigen. In solchen Projekten haben die unterschiedlichen Stakeholder oft eigene Perspektiven, die durch ihre Fachsprachen, Methoden und Techniken sowie Verantwortlichkeiten definiert werden. Die Schnittstellen zwischen diesen Perspektiven sind in aller Regel nicht offensichtlich, da das Wissen oft implizit ist oder in vielfältiger Weise dargestellt wird. Die Studieninhalte sind daher entsprechend dieser heterogenen Bedingungen eher breit angelegt. Das Studienziel ist die Qualifikation, in Projekten der Medieninformatik auf breiter wissenschaftlicher Basis federführend mitzuwirken und sie organisieren und leiten zu können.  
 ---
+
+Im Schwerpunkt "Multi-Perspective Product Development" entwickeln und vertiefen die Studierenden ihre Kompetenz, die typische Heterogenität vieler Medieninformatik-Projekte von der Methodik über die technologische bis hin zur sozio-technischen Komponente zu verstehen und zu bewältigen. In solchen Projekten haben die unterschiedlichen Stakeholder oft eigene Perspektiven, die durch ihre Fachsprachen, Methoden und Techniken sowie Verantwortlichkeiten definiert werden. Die Schnittstellen zwischen diesen Perspektiven sind in aller Regel nicht offensichtlich, da das Wissen oft implizit ist oder in vielfältiger Weise dargestellt wird. Die Studieninhalte sind daher entsprechend dieser heterogenen Bedingungen eher breit angelegt. Das Studienziel ist die Qualifikation, in Projekten der Medieninformatik auf breiter wissenschaftlicher Basis federführend mitzuwirken und sie organisieren und leiten zu können.  
 
 ## Zielsetzung:
 

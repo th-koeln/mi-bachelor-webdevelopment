@@ -15,7 +15,7 @@ parent: SPM2
 schwerpunkt: wtw
 ---
 
-## Kurzbeschreibung
+## Kurzbeschreibung:
 In der Veranstaltung werden zwei Felder eingeführt:
 
 - Grundkonzepte der Software Architektur bezogen auf Web basierte Anwendungen

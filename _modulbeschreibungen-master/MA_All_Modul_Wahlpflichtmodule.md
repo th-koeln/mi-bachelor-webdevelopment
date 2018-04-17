@@ -1,5 +1,5 @@
 ---
-title: Wahlpflichtmodul 2
+title: Wahlpflichtmodule
 modulverantwortlich: all
 kuerzel: WPM
 studiensemester-ws: 3
@@ -9,7 +9,7 @@ kreditpunkte: 6
 voraussetzungen-nach-pruefungsordnung: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden
 empfohlene-voraussetzungen: keine
 published: true
-zielmedium: web
+zielmedium: print
 type: pm
 ---
 

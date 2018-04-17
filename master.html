@@ -5,14 +5,23 @@ layout: default
 {% assign schwerpunkte = (site.modulbeschreibungen-master | where:"type","sp" | sort: "title") %}
 {% assign schwerpunkte = (schwerpunkte | sort: 'title') %}
 
+{% assign intro = (site.modulbeschreibungen-master | where:"kuerzel","intro-master-schwerpunkte" | first) %}
+
 <!-- Leeres Array für Module deklarieren -->
 {% assign module_ss = "" | split:"|"  %}
 {% assign module_ws = "" | split:"|"  %}
 
-
 <section class="section">
 	<div class="container">
 	    <h1 class="title is-1">Schwerpunkte & Module im Master</h1>
+	</div>
+</section>
+
+<section class="section">
+	<div class="container">    
+		<div class="content">
+		    {{intro.content}}
+		</div>		
 	</div>
 </section>
 

@@ -15,7 +15,7 @@ parent:
 schwerpunkt: wtw, sc, vc, mpd, hci
 ---
 
-## Kurzbeschreibung
+## Kurzbeschreibung:
 In einem Projekt wird, basierend auf einem bereits erstellten Konzept, ein „minimal viable Prototype“ entwickelt oder weiterentwickelt.
 
 ## Lehrform/SWS:
