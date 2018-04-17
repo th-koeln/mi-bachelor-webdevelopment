@@ -20,8 +20,6 @@ schwerpunkt: hci
 
 ## Lehrform/SWS:
 
-## Lehrform/SWS:
-
 6 SWS: Vorlesung 2 SWS; Übung 1 SWS; Projekt 3 SWS
 
 ## Arbeitsaufwand:
