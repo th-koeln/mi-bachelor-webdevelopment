@@ -24,7 +24,12 @@ Als charakterisierende Merkmale für die Entwicklung von Produkten und Diensten 
 Der Titel des Studienschwerpunkt, „Weaving the Web” wurde gewählt, da neben dem klassischen Software Engineering vor allem auch die Integration eigener Produkte und Dienste in das Web thematisiert wird.
 
 ## Berufsbilder
-Bitte nachtragen
+Berufsfelder für Absolventinnen und Absolventen sind 
+* Entwickler und Entwicklerin von Web Anwendungen z.B. in Web Agenturen oder Softwarehäusern
+* Architekt oder Architektin für Web Projekte in größeren Unternehmen oder Organisationen 
+* Gründer oder Gründerin von Start Ups im innovativen Web Umfeld
+* Berater oder Beraterin für die Integration von Prozessen mit dem Web
+* Web Enthusiast oder Web Enthusiastin
 
 ## Schwerpunktspezifische Pflichtmodule
 
