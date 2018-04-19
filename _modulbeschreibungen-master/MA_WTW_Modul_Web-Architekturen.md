@@ -58,4 +58,6 @@ Präsentationsmaterialien
 
 ## Literatur:
 - R. Taylor et al.: Software Architecture - Foundations, Theory, and Practice, Wiley 2009
-- L. DeNardis: Protocol Politics, MIT Press 
+- L. DeNardis: Protocol Politics, MIT Press 2009
+- F. Daniels et al.: Mashups: Concepts, Models, and Architectures, Springer 2014
+- M. Erder et al.: Continous Architecture - Sustainable Architecture in an Agile and Cloud Centric World, Morgan Kaufmann 2016 
