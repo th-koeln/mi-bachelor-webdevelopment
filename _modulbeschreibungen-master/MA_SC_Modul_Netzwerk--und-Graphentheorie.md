@@ -16,7 +16,7 @@ schwerpunkt: sc
 ---
 
 ## Kurzbeschreibung:
-Es werden Grundlagen für die Analyse und algorithmische Verarbeitung von Graph basierten Daten eingeführt. 
+Es werden Grundlagen für die Analyse und algorithmische Verarbeitung von Graph basierten Daten, insbesondere von Daten sozialer Netze eingeführt. 
 
 ## Lehrform/SWS: 
 4 SWS: Vorlesung 2 SWS; Übung 2 SWS
