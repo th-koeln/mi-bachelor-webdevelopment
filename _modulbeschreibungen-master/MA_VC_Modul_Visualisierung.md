@@ -8,7 +8,7 @@ sprache: wahlweise deutsch oder englisch
 zuordnung-zum-curriculum: Medieninformatik Master
 kreditpunkte: 6
 voraussetzungen-nach-pruefungsordnung: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden
-empfohlene-voraussetzungen: Web-basierte Anwendungen 1 (Bachelor) bzw. Kenntnisse in HTML und Javascript
+empfohlene-voraussetzungen: Web Architekturen (Bachelor) bzw. Kenntnisse in HTML
 published: true
 type: spm
 parent: SPM3
