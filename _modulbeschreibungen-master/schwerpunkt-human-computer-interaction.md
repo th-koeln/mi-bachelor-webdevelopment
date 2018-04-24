@@ -9,7 +9,7 @@ kuerzel: hci
 ## Allgemeines
 
 Medieninformatik und Mensch-Computer Interaktion stehen in vielerlei Hinsicht in einem engen Zusammenhang. So beinhaltet etwa der Fachbereich „Mensch-Computer Interaktion“ der GI e.V. die [Fachgruppe „Medieninformatik“](http://fb-mci.gi.de/mensch-computer-interaktion-mci/fachgruppen/medieninformatik.html).
-Im Zusammenhang mit der „third wave of HCI“ (Susan Bødker, 2006 und 2016) wird die aktuelle Bedeutung der Disziplin der Mensch-Computer Interaktion für die Gestaltung interaktiver System und insbesondere ihre Rolle für die Medieninformatik deutlich. Nach Bødker besteht eine aktuelle Herausforderung der 3rd wave of HCI insbesondere darin, dass sich die Trennlinie von Technologienutzung zwischen beruflichem/gewerblichem und privatem Bereich mehr und mehr auflöst. Medieninformatik befasst sich insbesondere mit interaktiven und multimedialen Systemen in gewerblichen und privaten Nutzungskontexten und adressiert demnach die Herausforderungen der 3rd wave of HCI.
+Im Zusammenhang mit der „third wave of HCI“ (Susan Bødker, 2006 und 2016) wird die aktuelle Bedeutung der Disziplin der Mensch-Computer Interaktion für die Gestaltung interaktiver Systeme und insbesondere ihre Rolle für die Medieninformatik deutlich. Nach Bødker besteht eine aktuelle Herausforderung der 3rd wave of HCI insbesondere darin, dass sich die Trennlinie von Technologienutzung zwischen beruflichem/gewerblichem und privatem Bereich mehr und mehr auflöst. Medieninformatik befasst sich insbesondere mit interaktiven und multimedialen Systemen in gewerblichen und privaten Nutzungskontexten und adressiert demnach die Herausforderungen der 3rd wave of HCI.
 
 ## Zielsetzungen
 

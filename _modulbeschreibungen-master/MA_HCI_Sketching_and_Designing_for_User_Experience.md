@@ -16,21 +16,17 @@ schwerpunkt: hci
 
 ## Lehrform/SWS:
 
-6 SWS: Vorlesung 2 SWS; Übung 1 SWS; Projekt 3 SWS
+4 SWS: Vorlesung 2 SWS; Übung / Projekt 2 SWS
 
 ## Arbeitsaufwand:
-
 Gesamtaufwand 180 Stunden, davon
-
 - 36h Vorlesung
-- 18h Übung
-- 54h Projekt
-- 72h Selbstlernphase
+- 36h Übung / Projekt
+- 108h Selbststudium
 
 
 
 ## Angestrebte Lernergebnisse:
-
 Die Studierenden sind in der Lage de- und präskriptiv Nutzer- oder deren nutzungsbezogene Sachverhalte oder Situationen mit einem umfänglichen Vokabular visuell-graphisch adäquat für verschiedene Stakeholder auszudrücken. Sie können kognitive und emotionale Schemata identifizieren, analysieren, modellieren und aus den Modellen Designlösungen für interaktive Systeme generieren und skizzieren.
 
 

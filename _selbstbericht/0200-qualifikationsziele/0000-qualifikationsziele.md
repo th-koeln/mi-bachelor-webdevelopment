@@ -204,6 +204,8 @@ Absolventinnen und Absolventen des Masterstudiengangs Medieninformatik:
 
 - haben ihre Fähigkeit zum lebenslangen Lernen gefestigt und können sich selbständig und schnell in neue, für die Medieninformatik relevante Theorien, Methoden und Techniken, sowohl aus theoretischer, wissenschaftlicher. praktischer als auch aus technischer Sichtweise, einarbeiten und ihre eigene Rolle im professionellen Kontext hinterfragen und weiterentwickeln.
 
+
+
 ### Weiterführende Dokumente
 - <a href="https://www.th-koeln.de/studium/medieninformatik-master_3729.php">Website des Medieninformatik Master</a>
 - <a href="https://www.th-koeln.de/studium/medieninformatik-master--ordnungen-und-formulare_3724.php">Ordnungen zum Medieninformatik Master</a>

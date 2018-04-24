@@ -1,7 +1,7 @@
 ---
 title: Qualitätssicherung und Qualitätsmanagement 
 modulverantwortlich: mw
-kuerzel: QUS
+kuerzel: QSQM
 studiensemester-ws: 2
 studiensemester-ss: 1
 informatik-master: ss
@@ -30,7 +30,7 @@ Gesamtaufwand 180 Stunden, davon
 
 ## Angestrebte Lernergebnisse:
 Die Studierenden werden befähigt, 
-- Ziele, Methoden, Techniken und Werkzeuge sowie organisatorischen Maßnahmen zur begleitenden Qualitätssicherung (QS) und zum Qualitätsmanagement für Web-Anwendungen beschreiben, diskutieren und anwenden zu können, sowie
+- Ziele, Methoden, Techniken und Werkzeuge sowie organisatorischen Maßnahmen zur begleitenden Qualitätssicherung (QS) und zum Qualitätsmanagement (QM) für Web- und Mobile Anwendungen beschreiben, diskutieren und anwenden zu können, sowie
 - Methoden und Techniken hinsichtlich ihrer theoretischen Fundierung und ihrer Eignung in einem Projektkontext analysieren und bewerten zu können, und 
 - sich selbständig wissenschaftlich und fachlich weiter zu bilden, 
 um die Methoden, Techniken und Werkzeuge zur Qualitätssicherung und zum Qualitätsmanagement in eigenen, auch fachübergreifenden Projekten auswählen und anwenden zu können.
@@ -40,7 +40,8 @@ Das Modul beschreibt Ziele, Methoden, Techniken und Werkzeuge sowie organisatori
 
 Inhalte im Einzelnen: 
 - Qualitätssicherung im Entwicklungsprozess
-- Quality Function Deployment (QFD) und Analytic Hierarchy Process (AHP)
+- Qualitätsmodelle und -Metriken
+- Analytic Hierarchy Process (AHP) und Quality Function Deployment (QFD)
 - Risikomanagement und Software-Failure Modes Effects Analysis (SW-FMEA)
 - QS-Planung mit QFD und FMEA, Fehler- und Problem-Meldungsbehandlung
 - Prozessverbesserungsmodelle (CMMI, SPICE)
@@ -50,8 +51,8 @@ Aufbauend auf dem in der Vorlesung vermittelten Stoff erstellt jeder Teilnehmer 
 
 ## Studien-/Prüfungsleistungen:
 Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
-* Seminar-Hausarbeit (30%) 
-* Seminarvortrag (30%)
+* Seminar-Facharbeit (30%) 
+* Fachvortrag (30%)
 * Klausur 60 Minuten (40%)
 
 ## Medienformen:

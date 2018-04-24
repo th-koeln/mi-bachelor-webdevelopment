@@ -16,16 +16,14 @@ schwerpunkt: hci
 ---
 
 ## Lehrform/SWS:
-6 SWS: Vorlesung 2 SWS; Übung 1 SWS; Projekt 3 SWS
+4 SWS: Vorlesung 2 SWS; Übung / Projekt 2 SWS;
 
 ## Arbeitsaufwand:
 
 Gesamtaufwand 180 Stunden, davon 
-
 - 36h Vorlesung 
-- 18h Übung
-- 54h Projekt
-- 72h Selbstlernphase
+- 36h Übung / Projekt
+- 108h Selbststudium
 
 ## Angestrebte Lernergebnisse:
 Die Teilnehmer sind in der Lage verschiedene methodische Rahmen für die Gestaltung interaktiver Systeme zu benennen, kritisch einzuordnen und für ihre konkreten Projekte eine rational begründete Wahl eines (oder einer Kombination aus verschiedenen) methodischen Rahmen zu treffen und zu kommunizieren. Sie sind in der Lage, die Methoden projektgerecht und kompetent anzuwenden und Design-Entscheidungen und „trade-offs“ zu begründen sowie Designresultate unter Einbeziehung der Designmethoden kritisch zu diskutieren.

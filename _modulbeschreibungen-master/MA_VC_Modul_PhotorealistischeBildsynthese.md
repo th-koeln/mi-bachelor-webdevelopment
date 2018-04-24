@@ -8,7 +8,7 @@ sprache: wahlweise deutsch oder englisch
 zuordnung-zum-curriculum: Medieninformatik Master
 kreditpunkte: 6
 voraussetzungen-nach-pruefungsordnung: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden
-empfohlene-voraussetzungen: Computergrafik und Animation (Bachelor)
+empfohlene-voraussetzungen: Computergrafik und Animation (Bachelor), Algorithmen und Programmierung 1 und 2 (Bachelor), Mathematik 1 und 2 (Bachelor)
 published: true
 type: wpm
 parent: WPM
@@ -25,7 +25,7 @@ Die Studierenden erlernen aktuelle Techniken zur Erzeugung photorealistischer Co
 Gesamtaufwand 180 Stunden, davon
 - 36h Vorlesung
 - 36h Praktikum / Projekt
-- 108h Selbstlernphase
+- 108h Selbststudium
 
 ## Angestrebte Lernergebnisse:
 - Die Studierenden verstehen den Bildentstehungsprozess und die physikalischen Wechselwirkungen von Licht und Licht-Materie. Sie kennen Rendering-Equation, stochastische Methoden (Monte Carlo Raytracing) und Methoden der natürlichen Beleuchtung, und erarbeiten sich damit tiefgehende Fachkenntnisse im Gebiet der photorealistischen Bildsynthese und dringen dabei bis an die Grenze des heute vorhandenen Wissens und die Spitze der aktuellen Technologie vor, bspw. auf technischer Seite durch moderne CPU/GPU Programmierung, sowie auf theoretischer Seite durch neueste Algorithmen.

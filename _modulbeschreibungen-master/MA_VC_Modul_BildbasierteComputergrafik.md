@@ -21,13 +21,13 @@ Diese Vorlesung gibt eine Einführung in die grundlegenden Konzepte der bildbasi
 Dabei werden verschiedenste Aspekte der Bild- und Videobe- und -verarbeitung,  wie sie in modernen Bearbeitungstools vorkommen, erarbeitet und selbst implementiert. Die Teilnehmer erlernen die grundlegenden Konzepte der Modellierung anhand von Fotos realer Objekte. Es werden Methoden zur Bildaufnahme, Bildverarbeitung und Bildsynthese erarbeitet. Die Studierenden sind bei erfolgreicher Teilnahme in der Lage, im Bereich Bild- und Videobearbeitung, sowie bildbasierter Modellierung, eigenständige Beiträge in Forschung und Wirtschaft leisten zu können.
 
 ## Lehrform/SWS: 
-4 SWS: Vorlesung 2 SWS; Projekt 2 SWS
+4 SWS: Vorlesung 2 SWS; Praktikum / Projekt 2 SWS
 
 ## Arbeitsaufwand: 
 Gesamtaufwand 180 Stunden, davon
 - 36h Vorlesung
 - 36h Praktikum / Projekt
-- 108h Selbstlernphase
+- 108h Selbststudium
 
 
 
