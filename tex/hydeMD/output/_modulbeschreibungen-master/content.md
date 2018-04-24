@@ -18,7 +18,7 @@ Das erforderliche Grundlagenwissen sowie schwerpunktbezogene Kenntnisse werden i
 
 Medieninformatik und Mensch-Computer Interaktion stehen in vielerlei Hinsicht in einem engen Zusammenhang. So beinhaltet etwa der Fachbereich „Mensch-Computer Interaktion“ der GI e.V. die [Fachgruppe „Medieninformatik“](http://fb-mci.gi.de/mensch-computer-interaktion-mci/fachgruppen/medieninformatik.html).
 
-Im Zusammenhang mit der „third wave of HCI“ (Susan Bødker, 2006 und 2016) wird die aktuelle Bedeutung der Disziplin der Mensch-Computer Interaktion für die Gestaltung interaktiver System und insbesondere ihre Rolle für die Medieninformatik deutlich. Nach Bødker besteht eine aktuelle Herausforderung der 3rd wave of HCI insbesondere darin, dass sich die Trennlinie von Technologienutzung zwischen beruflichem/gewerblichem und privatem Bereich mehr und mehr auflöst. Medieninformatik befasst sich insbesondere mit interaktiven und multimedialen Systemen in gewerblichen und privaten Nutzungskontexten und adressiert demnach die Herausforderungen der 3rd wave of HCI.
+Im Zusammenhang mit der „third wave of HCI“ (Susan Bødker, 2006 und 2016) wird die aktuelle Bedeutung der Disziplin der Mensch-Computer Interaktion für die Gestaltung interaktiver Systeme und insbesondere ihre Rolle für die Medieninformatik deutlich. Nach Bødker besteht eine aktuelle Herausforderung der 3rd wave of HCI insbesondere darin, dass sich die Trennlinie von Technologienutzung zwischen beruflichem/gewerblichem und privatem Bereich mehr und mehr auflöst. Medieninformatik befasst sich insbesondere mit interaktiven und multimedialen Systemen in gewerblichen und privaten Nutzungskontexten und adressiert demnach die Herausforderungen der 3rd wave of HCI.
 
 
 ## Zielsetzungen
@@ -78,7 +78,21 @@ Der Schwerpunkt „Multi-Perspective Product Development” bereitet die Studier
 
 ## Berufsbilder
 
-Bitte nachtragen
+Die multiperspektivische Anlage des Studienschwerpunkts berücksichtigt das große berufliche Spektrum im Umfeld der Gestaltung, Entwicklung und Evaluierung von Produkten, Diensten und Prozessen für Medien- und Web-Anwendungen bis hin zu mobilen Apps. Daher wird hier kein spezifisches Berufsbild angegeben, sondern eher eine grobe Charakterisierung. Typische Branchen sind z.B.
+
+- IT-Berater, Software- und Service-Dienstleister und -Betreiber
+
+- Print- und Online-Verlage
+
+- Game-Entwicklung
+
+- Marketing-, Werbe- und PR-Agenturen,
+
+- Filmproduktionsfirmen, Radio- und Fernsehanstalten sowie
+
+- Forschung und Entwicklung
+
+Aufgrund der inhaltlich eher breiten Anlage können die Absolvent*inn*en des Studienschwerpunkts "Multi-Perspective Product Development" in solchen Branchen sowohl als Softwareentwickler*In* für IT-Lösungen in den oben genannten Branchen tätig sein, aber auch als Anforderungsermittler*In*, Gestalter*In* von Benutzeroberflächen von IT-Anwendungen sowie in Projektmanagement, Qualitätssicherung und Qualitätsmanagement wirken.
 
 
 ## Schwerpunktspezifische Pflichtmodule
@@ -123,34 +137,25 @@ Bitte nachtragen
 
 ## Allgemeines
 
-Der Studienschwerpunkt „Visual Computing” steht an der Schnittstelle von Computergrafik, Computer Vision, Mensch-Maschine-Kommunikation, Bild- und Videoverarbeitung, sowie Visualisierung. 
+Der Studienschwerpunkt „Visual Computing” steht an der Schnittstelle von Computergrafik, Computer Vision, Mensch-Maschine-Kommunikation, Bild- und Videoverarbeitung, sowie Visualisierung. Er beschäftigt sich dabei mit der Verarbeitung jeglicher Art von visueller Information. Diese bilden besondere Herausforderungen in Bezug auf Form, Masse, Inhalt und bedürfen spezieller Handhabung in Form von spezialisierten Datenstrukturen, mathematischer und physikalischer Grundlagen und geeigneter Rechnermodelle zur Beschreibung der realen Sacheverhalte, so etwa Form, Aussehen und Interaktion. Dabei konzentriert sich der Schwerpunkt Visual Computing sowohl auf die Synthese (Bilderzeugung, Darstellung visueller Information) wie die Analyse (Extraktion von Bildinformation).
 
-Ziel des Studienschwerpunktes Visual Computing ist es, den Studierenden ein solides Fundament bildbasierter und bildgebender Verfahren zu vermitteln, indem die Entwicklung praktischer Algorithmen und Programme anhand ihrer theoretischen Grundlagen erlernt wird. Zusätzlich sollen die Studierenden in die Lage versetzt werden, die entwickelten Applikationen zu bewerten, zu präsentieren und auf ihre ethischen Konsequenzen hin zu prüfen.
 
-Die hohe Interdisziplinarität ist ein Innovationsfaktor und bietet Schlüsseltechnologien zur Lösung aktueller Problemstellungen in der Informatik, wie z.B. Virtual Engineering, Visual Analytics, Virtual- und Augmented Reality, Medizintechnik, Robotik, Animation und Bildsynthese. Anwendungen des Visual Computing finden sich in den verschiedensten Bereichen, z.B. in der Unterhaltungsindustrie (Visuelle Effekte, Computerspiele, Filmindustrie, 360° und 3D Videos), der Medizin (medizinische Bildverarbeitung, digitale Operationsplanung), der Automobilindustrie (Fahrerassistenzsysteme), der industriellen Fertigung (visuelle Qualitätskontrolle), der Internettechnologien und Mobilgeräte (Remote Rendering, Multimediale Datenbanken, Augmented Reality Anwendungen) und der digitalen Fotografie.
+## Zielsetzungen
 
-Um der Interdisziplinarität sowie den unterschiedlichen Ausrichtungen dieses Studienschwerpunktes gerecht zu werden müssen folgende Module im Umfang von 18 CP belegt werden:
+Ziel des Studienschwerpunktes Visual Computing ist es, den Studierenden ein solides Fundament bildbasierter und bildgebender Verfahren zu vermitteln, indem die Entwicklung praktischer Algorithmen und Programme aufbauend auf ihren theoretischen Grundlagen erlernt wird. Dabei wird, bedingt durch ein extrem dynamisches Umfeld, wie es im Bereich Visual Computing gegeben ist, der Schwerpunkt auf die langfristige Sicherung der Qualifikation und weniger auf das Erlernen spezifischer Werkzeuge oder Verarbeitungsprozesse gelegt.
 
-- Storytelling, Narrative Strukturen
+Die Studierenden werden in die Lage versetzt, ihre entwickelten Applikationen zu bewerten, zu präsentieren und auf ihre ethischen Konsequenzen hin zu prüfen.
 
-- Bildbasierte Computergrafik
+Im Bereich der Bildsynthese können die Studierenden interaktive Anwendungen zur Erzeugung von 2D- und 3D-Darstellungen auf Basis rechnerinterner Daten erstellen. Diese Daten können aus Messungen, Simulationen, oder Syntheseprozessen stammen.
 
-- Visualistik
-
-Zudem müssen folgende drei Projekte im Umfang von jeweils 12 cp belegt werden, die verschiedene Schwerpunkte in diesem heterogenen und schnell veränderlichen Bereich abdecken:
-
-- Projektarbeit - Vision und Konzept im Kontext des Studienschwerpunkts
-
-- Projektarbeit - Entwicklung im Kontext des Studienschwerpunkts
-
-- Projektarbeit - Assessment/Evaluation, Forschung und Verwertung im Kontext des Studienschwerpunkts
-
-Weitere 18 CP können aus dem allgemeinen Angebot der Veranstaltungen aller Kurse aus den Masterstudiengängen Medieninformatik und Informatik belegt werden, um der Heterogenität der Medieninformatik und des Visual Computings gerecht zu werden.
+Im Bereich der Bildanalyse und -verarbeitung werden die Studierenden in die Lage versetzt semantische Informationen, welche für die jeweilige Anwendung relevant sind, aus den Bilddaten zu extrahieren. In der Industrie wird dies bspw. zur Automatisierung und Produktionssteuerung, Qualitätskontrolle, medizinischer Bildverarbeitung, Mustererkennung, Entwicklung autonomer Systeme oder 3D Rekonstruktion eingesetzt.
 
 
 ## Berufsbilder
 
-Bitte nachtragen
+Die hohe Interdisziplinarität ist ein Innovationsfaktor und bietet Schlüsseltechnologien zur Lösung aktueller Problemstellungen in der Informatik, wie z.B. Virtual Engineering, Visual Analytics und visuelle Datenanalyse, Virtual- und Augmented Reality, Medizintechnik, Robotik, Animation und Bildsynthese. Anwendungen des Visual Computing finden sich in den verschiedensten Bereichen, z.B. in der Unterhaltungsindustrie (Visuelle Effekte, Computerspiele, Filmindustrie, 360° und 3D Videos), der Medizin (medizinische Bildverarbeitung, digitale Operationsplanung), der Automobilindustrie (Fahrerassistenzsysteme), der industriellen Fertigung (visuelle Qualitätskontrolle), der Internettechnologien und Mobilgeräte (Remote Rendering, Multimediale Datenbanken, Augmented Reality Anwendungen) und der digitalen Fotografie.
+
+Der Schwerpunkt Visual Computing bietet hervorragende Jobaussichten in wachsenden Industriezweigen wie maschinelles Sehen, der optischen Industrie, medizinische Bildverarbeitung, Automobilindustrie, Computerspiele und Mediendesign.
 
 
 ## Schwerpunktspezifische Pflichtmodule
@@ -188,7 +193,17 @@ Der Titel des Studienschwerpunkt, „Weaving the Web” wurde gewählt, da neben
 
 ## Berufsbilder
 
-Bitte nachtragen
+Berufsfelder für Absolventinnen und Absolventen sind 
+
+* Entwickler und Entwicklerin von Web Anwendungen z.B. in Web Agenturen oder Softwarehäusern
+
+* Architekt oder Architektin für Web Projekte in größeren Unternehmen oder Organisationen 
+
+* Gründer oder Gründerin von Start Ups im innovativen Web Umfeld
+
+* Berater oder Beraterin für die Integration von Prozessen mit dem Web
+
+* Web Enthusiast oder Web Enthusiastin
 
 
 ## Schwerpunktspezifische Pflichtmodule
@@ -298,7 +313,7 @@ Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern ang
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: alle Informatik Professoren%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 4%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 4%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 30%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: alle Informatik Professoren%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 4%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 4%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 30%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: Zur Masterarbeit kann zugelassen werden, wer die Zulassungsvoraussetzungen gemäß § 17 Abs. 2 und 5 erfüllt und aus den nach § 24 vorgeschriebenen Prüfungen insgesamt mindestens 75 Leistungspunkte gem. § 12 erreicht hat.%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
 
 
 ## Kurzbeschreibung:
@@ -453,7 +468,7 @@ Frei aus dem Katalog der Pflicht- und Wahlpflichtmodule der Masterstudiengänge 
 
 ## Lehrform/SWS:
 
-6 SWS: Vorlesung 2 SWS; Übung 2 SWS; Projekt 3 SWS
+4 SWS: Vorlesung 2 SWS; Übung / Projekt 2 SWS
 
 
 ## Arbeitsaufwand:
@@ -464,7 +479,7 @@ Gesamtaufwand 180 Stunden, davon
 
 - 36h Übung
 
-- 54h Projekt 
+- 54h Projektarbeit 
 
 - 54h Selbststudium
 
@@ -524,7 +539,7 @@ Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern ang
 
 ## Lehrform/SWS:
 
-6 SWS: Vorlesung 2 SWS; Übung 1 SWS; Projekt 3 SWS
+4 SWS: Vorlesung 2 SWS; Übung / Projekt 2 SWS;
 
 
 ## Arbeitsaufwand:
@@ -533,11 +548,9 @@ Gesamtaufwand 180 Stunden, davon
 
 - 36h Vorlesung 
 
-- 18h Übung
+- 36h Übung / Projekt
 
-- 54h Projekt
-
-- 72h Selbstlernphase
+- 108h Selbststudium
 
 
 ## Angestrebte Lernergebnisse:
@@ -609,7 +622,7 @@ Mündliche Prüfung (100%)
 
 ## Lehrform/SWS:
 
-6 SWS: Vorlesung 2 SWS; Übung 1 SWS; Projekt 3 SWS
+4 SWS: Vorlesung 2 SWS; Übung / Projekt 2 SWS
 
 
 ## Arbeitsaufwand:
@@ -618,11 +631,9 @@ Gesamtaufwand 180 Stunden, davon
 
 - 36h Vorlesung
 
-- 18h Übung
+- 36h Übung / Projekt
 
-- 54h Projekt
-
-- 72h Selbstlernphase
+- 108h Selbststudium
 
 
 ## Angestrebte Lernergebnisse:
@@ -700,7 +711,7 @@ Projektdokumentation und Designartefakte (100%)
 
 ## Lehrform/SWS:
 
-6 SWS: Vorlesung 2 SWS; Übung 1 SWS; Projekt 3 SWS
+4 SWS: Vorlesung 2 SWS; Übung / Projekt 2 SWS
 
 
 ## Arbeitsaufwand:
@@ -709,11 +720,9 @@ Gesamtaufwand 180 Stunden, davon
 
 - 36h Vorlesung
 
-- 18h Übung
+- 36h Übung / Projekt
 
-- 54h Projekt
-
-- 72h Selbststudium
+- 108h Selbststudium
 
 
 ## Angestrebte Lernergebnisse:
@@ -765,7 +774,7 @@ Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern ang
 
 ## Lehrform/SWS:
 
-6 SWS: Vorlesung 2 SWS; Übung 1 SWS; Projekt 3 SWS
+4 SWS: Vorlesung 2 SWS; Übung / Projekt 2 SWS
 
 
 ## Arbeitsaufwand:
@@ -774,11 +783,9 @@ Gesamtaufwand 180 Stunden, davon
 
 - 36h Vorlesung
 
-- 18h Übung
+- 36h Übung / Projekt
 
-- 54h Projekt
-
-- 72h Selbstlernphase
+- 108h Selbststudium
 
 
 ## Angestrebte Lernergebnisse:
@@ -1034,7 +1041,7 @@ Je nach Studienschwerpunkt und fachlicher Aufgabe
 
 ## Kurzbeschreibung:
 
-Es werden Grundlagen für die Analyse und algorithmische Verarbeitung von Graph basierten Daten eingeführt. 
+Es werden Grundlagen für die Analyse und algorithmische Verarbeitung von Graph basierten Daten, insbesondere von Daten sozialer Netze eingeführt. 
 
 
 ## Lehrform/SWS:
@@ -1213,7 +1220,7 @@ Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern ang
 
 ## Lehrform/SWS:
 
-6 SWS: Vorlesung 2 SWS; Übung 1 SWS; Projekt 3 SWS
+6 SWS: Vorlesung 2 SWS; Übung / Projekt 2 SWS
 
 
 ## Arbeitsaufwand:
@@ -1222,11 +1229,9 @@ Gesamtaufwand 180 Stunden, davon
 
 - 36h Vorlesung 
 
-- 18h Übung
+- 36h Übung / Projekt
 
-- 54h Projekt
-
-- 72h Selbstlernphase
+- 108h Selbststudium
 
 
 ## Angestrebte Lernergebnisse:
@@ -1318,18 +1323,18 @@ Planung und Durchführung einer ca. 15 minütigen Onlineveranstaltung (100% der 
 
 ## Lehrform/SWS:
 
-6 SWS: Vorlesung 3 SWS; Projekt 3 SWS
+4 SWS: Vorlesung 2 SWS; Projekt 2 SWS
 
 
 ## Arbeitsaufwand:
 
 Gesamtaufwand 180 Stunden, davon 
 
-- 54h Vorlesung 
+- 36h Vorlesung 
 
-- 54h Projekt
+- 36h Projekt
 
-- 72h Selbststudium
+- 108h Selbststudium
 
 
 ## Angestrebte Lernergebnisse:
@@ -1400,7 +1405,7 @@ Dabei werden verschiedenste Aspekte der Bild- und Videobe- und -verarbeitung,  w
 
 ## Lehrform/SWS:
 
-4 SWS: Vorlesung 2 SWS; Projekt 2 SWS
+4 SWS: Vorlesung 2 SWS; Praktikum / Projekt 2 SWS
 
 
 ## Arbeitsaufwand:
@@ -1411,7 +1416,7 @@ Gesamtaufwand 180 Stunden, davon
 
 - 36h Praktikum / Projekt
 
-- 108h Selbstlernphase
+- 108h Selbststudium
 
 
 ## Angestrebte Lernergebnisse:
@@ -1519,7 +1524,7 @@ Gesamtaufwand 180 Stunden, davon
 
 - 36h Praktikum / Projekt
 
-- 108h Selbstlernphase
+- 108h Selbststudium
 
 
 ## Angestrebte Lernergebnisse:
@@ -1906,7 +1911,7 @@ Die Studierenden werden in die Entwicklung von semantischen Modellen als Basis f
 
 ## Lehrform/SWS:
 
-4 SWS: Vorlesung 2 SWS; Übung 2 SWS
+4 SWS: Vorlesung 2 SWS; Übung / Projekt 2 SWS
 
 
 ## Arbeitsaufwand:
@@ -1915,7 +1920,7 @@ Gesamtaufwand 180 Stunden, davon:
 
 - 36h Vorlesung 
 
-- 36h Übung
+- 36h Übung / Projekt
 
 - 102h Selbststudium 
 
@@ -2006,7 +2011,7 @@ Gesamtaufwand 180 Stunden, davon
 
 Die Studierenden werden befähigt, 
 
-- Ziele, Methoden, Techniken und Werkzeuge sowie organisatorischen Maßnahmen zur begleitenden Qualitätssicherung (QS) und zum Qualitätsmanagement für Web-Anwendungen beschreiben, diskutieren und anwenden zu können, sowie
+- Ziele, Methoden, Techniken und Werkzeuge sowie organisatorischen Maßnahmen zur begleitenden Qualitätssicherung (QS) und zum Qualitätsmanagement (QM) für Web- und Mobile Anwendungen beschreiben, diskutieren und anwenden zu können, sowie
 
 - Methoden und Techniken hinsichtlich ihrer theoretischen Fundierung und ihrer Eignung in einem Projektkontext analysieren und bewerten zu können, und 
 
@@ -2023,7 +2028,9 @@ Inhalte im Einzelnen:
 
 - Qualitätssicherung im Entwicklungsprozess
 
-- Quality Function Deployment (QFD) und Analytic Hierarchy Process (AHP)
+- Qualitätsmodelle und -Metriken
+
+- Analytic Hierarchy Process (AHP) und Quality Function Deployment (QFD)
 
 - Risikomanagement und Software-Failure Modes Effects Analysis (SW-FMEA)
 
@@ -2040,9 +2047,9 @@ Aufbauend auf dem in der Vorlesung vermittelten Stoff erstellt jeder Teilnehmer 
 
 Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
 
-* Seminar-Hausarbeit (30%) 
+* Seminar-Facharbeit (30%) 
 
-* Seminarvortrag (30%)
+* Fachvortrag (30%)
 
 * Klausur 60 Minuten (40%)
 
@@ -2140,7 +2147,11 @@ Präsentationsmaterialien
 
 - R. Taylor et al.: Software Architecture - Foundations, Theory, and Practice, Wiley 2009
 
-- L. DeNardis: Protocol Politics, MIT Press 
+- L. DeNardis: Protocol Politics, MIT Press 2009
+
+- F. Daniels et al.: Mashups: Concepts, Models, and Architectures, Springer 2014
+
+- M. Erder et al.: Continous Architecture - Sustainable Architecture in an Agile and Cloud Centric World, Morgan Kaufmann 2016 
 
 
 
