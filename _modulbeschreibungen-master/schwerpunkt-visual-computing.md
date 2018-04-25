@@ -39,6 +39,7 @@ Anwendungen des Visual Computing finden sich in den verschiedensten Bereichen, b
 - der digitalen Fotografie.
 
 Der Schwerpunkt Visual Computing bietet hervorragende Jobaussichten in wachsenden Industriezweigen wie maschinelles Sehen, der optischen Industrie, medizinische Bildverarbeitung, Automobilindustrie, Computerspiele und Mediendesign.
+Absolvent*inn*en können sowohl als SoftwareentwicklerIn in den oben genannten Branchen tätig sein, aber auch als GestalterIn von Benutzeroberflächen sowie in Projektmanagement, und Qualitätssicherung wirken. Sehr gute Chancen gibt es auch im Bereich der Start-Up Gründungen.
 
 
 ## Schwerpunktspezifische Pflichtmodule
