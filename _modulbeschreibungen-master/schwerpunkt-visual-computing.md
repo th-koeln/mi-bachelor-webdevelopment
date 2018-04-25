@@ -30,13 +30,13 @@ Typische Bereiche in denen Absolventen des Schwerpunktes arbeiten sind bspw.:
 - Game Development (Rendering Engineer)
 - Anwendungsentwicklung für Design- und Grafikprogramme
 
-Anwendungen des Visual Computing finden sich in den verschiedensten Bereichen, bspw. 
-- in der Unterhaltungsindustrie (Visuelle Effekte, Computerspiele, Filmindustrie, 360° und 3D Videos)
-- der Medizin (medizinische Bildverarbeitung, digitale Operationsplanung)
-- der Automobilindustrie (Fahrerassistenzsysteme)
-- der industriellen Fertigung (visuelle Qualitätskontrolle)
-- der Internettechnologien und Mobilgeräte (Remote Rendering, Multimediale Datenbanken, Augmented Reality Anwendungen) und 
-- der digitalen Fotografie.
+Anwendungen des Visual Computing finden sich in den verschiedensten Bereichen, bspw. in der
+- Unterhaltungsindustrie (Visuelle Effekte, Computerspiele, Filmindustrie, 360° und 3D Videos)
+- Medizin (medizinische Bildverarbeitung, digitale Operationsplanung)
+- Automobilindustrie (Fahrerassistenzsysteme)
+- industriellen Fertigung (visuelle Qualitätskontrolle)
+- Internettechnologien und Mobilgeräte (Remote Rendering, Multimediale Datenbanken, Augmented Reality Anwendungen) und 
+- digitalen Fotografie.
 
 Der Schwerpunkt Visual Computing bietet hervorragende Jobaussichten in wachsenden Industriezweigen wie maschinelles Sehen, der optischen Industrie, medizinische Bildverarbeitung, Automobilindustrie, Computerspiele und Mediendesign.
 Absolvent*inn*en können sowohl als SoftwareentwicklerIn in den oben genannten Branchen tätig sein, aber auch als GestalterIn von Benutzeroberflächen sowie in Projektmanagement, und Qualitätssicherung wirken. Sehr gute Chancen gibt es auch im Bereich der Start-Up Gründungen.
