@@ -2,7 +2,8 @@ Es gibt nun einen Branch `hydeMD`, in dem im Ordner `tex/hydeMD` das kleine Scri
 
 Funktioniert wie folgt:
 
-```php hydeMD.php ../../_selbstbericht Selbstbericht
+```cli
+php hydeMD.php ../../_selbstbericht Selbstbericht
 ```
 
 `../../_selbstbericht` kann ein Ordner (rekursive Suche nach Markdown-Files) oder auch ein Markdown-File sein.
