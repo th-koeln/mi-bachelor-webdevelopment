@@ -824,7 +824,7 @@ class Document {
 	
 		$ret = "href{".$matches[1]."}{". $matches[2] . "}";
 		$target = $matches[1];
-		$pattern = "=".$this->recipe["rootDir"]."=";
+		$pattern = "=^".$this->recipe["rootDir"]."=";
 		
 		if(preg_match($pattern, $target )){
 			$ret = "hyperref[". $matches[1] . "]{" . $matches[2] . "}";

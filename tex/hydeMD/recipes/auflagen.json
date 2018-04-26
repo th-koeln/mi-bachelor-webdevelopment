@@ -16,7 +16,7 @@
         	[ "/{0.07\\\\columnwidth}/" , "{0.5\\\\columnwidth}" ],
         	[ "/{0.06\\\\columnwidth}/" , "{0.33\\\\columnwidth}" ],
 
-        	[ "/includegraphics/" , "includegraphics[width=\\\\columnwidth]" ]
+        	[ "/includegraphics/" , "includegraphics[width=\\\\textwidth]" ]
 		]
 	}
 }
