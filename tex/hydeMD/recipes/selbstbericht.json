@@ -1,6 +1,8 @@
 {
 	"srcPath": "../../_selbstbericht",
 	
+	"rootDir": "/mi-2017",
+	
 	"placeholder": {
 		"title": "Selbstbericht"
 	},

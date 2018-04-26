@@ -29,8 +29,8 @@ function expandHeadingHierarchy( &$headings, $currHeadingHierarchyLine, $item = 
 
   if( !isset( $headings[ 'sub' ][ $heading ] ) ) {
     $headings[ 'sub' ][ $heading ] = array(
-      'sub'   => array(),
-      'lines' => array()
+      'lines'   => array(),
+      'sub' => array()
     );
   }
 
@@ -84,8 +84,8 @@ function flattenHeadingHierarchy( $headings ) {
 function parseHierarchy( $lines ) {
 
   $headings = array(
-    'sub'   => array(),
-    'lines' => array()
+    'lines'   => array(),
+    'sub' => array()
   );
   $currHeadingHierarchyLine = array();
 
@@ -98,16 +98,17 @@ function parseHierarchy( $lines ) {
       $currHeading = trim( $match[0] );
 
       $currHeadingHierarchyLine = array_slice( $currHeadingHierarchyLine, 0, $currLvl - 1 );
-
       $currHeadingHierarchyLine[] = $currHeading;
 
       expandHeadingHierarchy( $headings, $currHeadingHierarchyLine );
 
     }
     else {
+
       expandHeadingHierarchy( $headings, $currHeadingHierarchyLine, $line );
     }
   }
+
 
   return $headings;
 
@@ -306,8 +307,13 @@ class Document {
 
         return '# ' . $page->infos[ 'title' ];
       }, $page->content );
+			
+			
+			$id = md5($page->infos["title"]);
+			if(isset($page->infos["kuerzel"])){
+				$id = $page->infos["kuerzel"];	
+			}
 
-      $id = $page->infos["kuerzel"];
       $metaData[$id] = $page->infos;
     }
   
@@ -453,12 +459,13 @@ class Document {
           $lines = array_filter( explode( "\n", $page->content ) );
 
           $headingHierarchy = parseHierarchy( $lines );
+
           removeEmptyHeadingSections( $headingHierarchy );
           $cleanedLines = flattenHeadingHierarchy( $headingHierarchy );
 
-          $page->content = implode( "\n", $cleanedLines );
+          //$page->content = implode( "\n", $cleanedLines );
 
-
+var_dump($page->content);
           /* Insert metadata table */
 
           /* No metadata table for "Schwerpunkte" */
