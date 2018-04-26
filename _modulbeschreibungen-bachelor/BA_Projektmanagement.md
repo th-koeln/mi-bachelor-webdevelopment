@@ -3,13 +3,12 @@ title: Projektmanagement
 modulverantwortlich: hg, mw
 modulniveau: Bachelor
 kuerzel: PM
-untertitel: null
+untertitel:
 studiensemester: 5
-kategorie: null
+kategorie:
 sprache: deutsch
-zuordnung-zum-curriculum: Medieninformatik Bachelor
 kreditpunkte: 5
-voraussetzungen-nach-pruefungsordnung:
+voraussetzungen-nach-pruefungsordnung: keine
 empfohlene-voraussetzungen: Es werden keine über die allgemeinen Zulassungsvoraussetzungen hinausgehende fachlichen Voraussetzungen gefordert, jedoch sollten Engagement, Motivation, Toleranz, Bereitschaft zur Teamarbeit mitgebracht werden.
 published: true
 type: pm
@@ -19,15 +18,15 @@ type: pm
 Managementaspekte der professionellen Entwicklung großer Softwaresysteme
 
 ## Lehrform/SWS: 
-4 SWS: Vorlesung 2 SWS, Übung 1 SWS, Praktikum 1 SWS; max. 6 Studierende / Praktikumsteam;
+4 SWS: Vorlesung 2 SWS, Übung 1 SWS, Praktikum 1 SWS; max. 6 Studierende pro Praktikumsteam;
 
 ## Arbeitsaufwand: 
-Gesamtaufwand 150 h, davon 
+Gesamtaufwand 150h, davon 
 
-* 36 h Vorlesung
-* 18 h Übung
-* 18 h Praktikum
-* 78 h Selbststudium
+* 36h Vorlesung
+* 18h Übung
+* 18h Praktikum
+* 78h Selbststudium
 
 ## Angestrebte Lernergebnisse:
 Die Studierenden sollen befähigt werden, 

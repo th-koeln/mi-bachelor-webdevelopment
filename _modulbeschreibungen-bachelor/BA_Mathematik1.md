@@ -7,7 +7,8 @@ untertitel:
 studiensemester: 1
 kategorie:
 sprache: deutsch
-zuordnung-zum-curriculum: Medieninformatik Bachelor
+voraussetzungen-nach-pruefungsordnung: keine
+empfohlene-voraussetzungen: 
 kreditpunkte: 7
 type: pm
 ---
@@ -17,12 +18,12 @@ type: pm
 
 ## Arbeitsaufwand:
 
-Gesamtaufwand 210 h, davon 
+Gesamtaufwand 210h, davon 
 
-- 54 h Vorlesung 
-- 18 h Praktikum
-- 36 h Übung
-- 102 h Selbststudium 
+- 54h Vorlesung 
+- 18h Praktikum
+- 36h Übung
+- 102h Selbststudium 
 
 ## Angestrebte Lernergebnisse:
 
@@ -39,9 +40,6 @@ Die Studierenden sollen die Fähigkeiten zur Analyse realer oder geplanter Syste
 
 ## Studien-/Prüfungsleistungen:
 Schriftliche Prüfung, sowie erfolgreiche Teilnahme am Praktikum als Prüfungsvorleistung.
-
-## Medienformen:
-
 
 ## Literatur:
 * Skript unter [www.gm.fh-koeln.de/~konen]( www.gm.fh-koeln.de/~konen)

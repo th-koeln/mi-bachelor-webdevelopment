@@ -7,9 +7,8 @@ untertitel:
 studiensemester: 1
 kategorie:
 sprache: deutsch
-zuordnung-zum-curriculum: Medieninformatik Bachelor
 kreditpunkte: 5
-voraussetzungen-nach-pruefungsordnung:
+voraussetzungen-nach-pruefungsordnung: keine
 empfohlene-voraussetzungen: 
 published: true
 type: pm
@@ -28,7 +27,6 @@ Gesamtaufwand 150h, davon
 - 78h Selbststudium 
 
 ## Angestrebte Lernergebnisse:
-
 Die Studierenden sollen die Basiskonzepte und Grundlagen der Betriebssysteme und der Rechnerarchitektur kennen und verstehen, sowie ein einheitliches konsistentes Begriffsgebäude zu, teilweise aus der persönlichen Praxis bekannten, Sachverhalten der IT aufbauen und anwenden können.
 
 ## Inhalt:
@@ -36,7 +34,6 @@ Die Studierenden sollen die Basiskonzepte und Grundlagen der Betriebssysteme und
 * bei Rechnerkomponenten: grundlegende Architekturen, Darstellung von Daten, interne Bussysteme, Prozessoren, Festplatten, Peripherieschnittstellen, Parallelrechner
 
 ## Studien-/Prüfungsleistungen:
-
 Schriftliche Prüfung.
 
 ## Literatur:

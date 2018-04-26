@@ -1,15 +1,14 @@
 ---
 title: Grundlagen des Web
 modulverantwortlich: kf
-modulniveau: null
+modulniveau:
 kuerzel: GW
-untertitel: null
+untertitel:
 studiensemester: 3
-kategorie: null
+kategorie:
 sprache: deutsch
-zuordnung-zum-curriculum: Medieninformatik Bachelor
 kreditpunkte: 5
-voraussetzungen-nach-pruefungsordnung: null
+voraussetzungen-nach-pruefungsordnung: keine
 empfohlene-voraussetzungen: Einführung in die Medieninformatik, Algorithmen und Programmierung
 published: true
 type: pm
@@ -22,11 +21,11 @@ In der Veranstaltung werden wesentliche Grundideen, Interaktionsprinzipien, Cont
 4 SWS: Vorlesung 2 SWS; Seminar 2 SWS
 
 ## Arbeitsaufwand: 
-Gesamtaufwand 150 h, davon 
+Gesamtaufwand 150h, davon 
 
-- 36 h Vorlesung 
-- 36 h Seminar
-- 78 h Selbststudium 
+- 36h Vorlesung 
+- 36h Seminar
+- 78h Selbststudium 
 
 ## Angestrebte Lernergebnisse:
 Die Studierenden 

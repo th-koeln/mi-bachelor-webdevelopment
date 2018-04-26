@@ -1,15 +1,14 @@
 ---
 title: Informatik, Recht und Gesellschaft
 modulverantwortlich: mw
-modulniveau: null
+modulniveau:
 kuerzel: IRG
-untertitel: null
+untertitel:
 studiensemester: 5
-kategorie: null
+kategorie:
 sprache: deutsch
-zuordnung-zum-curriculum: Medieninformatik Bachelor
 kreditpunkte: 5
-voraussetzungen-nach-pruefungsordnung:
+voraussetzungen-nach-pruefungsordnung: keine
 empfohlene-voraussetzungen: Einführung in die Medieninformatik, Grundlagen der BWL
 published: true
 type: pm
@@ -19,11 +18,11 @@ type: pm
 4 SWS: Vorlesung 2 SWS; Übung 2 SWS
 
 ## Arbeitsaufwand: 
-Gesamtaufwand: 150 h, davon
+Gesamtaufwand: 150h, davon
 
-* 36 h Vorlesung
-* 36 h Übung
-* 78 h Selbststudium
+* 36h Vorlesung
+* 36h Übung
+* 78h Selbststudium
 
 ## Angestrebte Lernergebnisse:
 Informatikerinnen und Informatiker analysieren und konstruieren sozio-technische Systeme und entwickeln dabei semiotische Artefakte wie z.B. Spezifikationen, Programme und Handbücher. Die entwickelten Systeme bilden einerseits soziale Wirklichkeit in vielfältiger Form ab und ändern andererseits diese Wirklichkeit durch ihren Einsatz. 

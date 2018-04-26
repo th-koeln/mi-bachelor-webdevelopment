@@ -1,16 +1,15 @@
 ---
 title: Screendesign
 modulverantwortlich: cn
-modulniveau: null
+modulniveau:
 kuerzel: SD
-untertitel: null
+untertitel:
 studiensemester: 3
-kategorie: null
+kategorie:
 sprache: deutsch
-zuordnung-zum-curriculum: Medieninformatik Bachelor
 kreditpunkte: 5
 voraussetzungen-nach-pruefungsordnung: keine
-empfohlene-voraussetzungen: Einführung in die Medieninformatik
+empfohlene-voraussetzungen: Einführung in die Medieninformatik, MCI
 published: true
 type: pm
 ---
@@ -19,12 +18,12 @@ type: pm
 4 SWS: Vorlesung 1 SWS; Seminar 3 SWS
 
 ## Arbeitsaufwand: 
-Gesamtaufwand 150 h, davon 
+Gesamtaufwand 150h, davon 
 
-- 15 h Vorlesung
-- 45 h Seminar 
-- 80 h Projektarbeit  
-- 10 h Selbststudium 
+- 15h Vorlesung
+- 45h Seminar 
+- 80h Projektarbeit  
+- 10h Selbststudium 
 
 ## Angestrebte Lernergebnisse:
 Die Studierenden kennen wesentliche Begriffe der visuellen Kommunikation und können diese anwenden um Briefings, Angebote oder Korrekturwünsche im Design-Kontext zu verstehen oder zu verfassen.
@@ -62,7 +61,7 @@ Die Studierenden können in einem gegebenen Gestaltungskontext, unter Berücksic
 - Modularisierung, Interface Inventar aufbauen & visualisieren
 
 ## Studien-/Prüfungsleistungen:
-Projektpräsentationsprüfung
+Projekt und Projektpräsentationsprüfung.
 
 ## Medienformen:
 Beamergestützte Vorträge, Rechnergestützte  Workshops

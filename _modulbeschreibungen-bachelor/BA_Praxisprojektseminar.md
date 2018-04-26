@@ -7,7 +7,6 @@ untertitel:
 studiensemester: 6
 kategorie:
 sprache: deutsch
-zuordnung-zum-curriculum: Medieninformatik Bachelor
 kreditpunkte: 5
 voraussetzungen-nach-pruefungsordnung: erreichte 140 Leistungspunkte
 empfohlene-voraussetzungen: 
@@ -19,29 +18,24 @@ type: pm
 4 SWS: Seminar
 
 ## Arbeitsaufwand:
-Gesamtaufwand 150 h, davon 
+Gesamtaufwand 150h, davon 
 
-* 32 h Seminar
-* 118 h Selbststudium
+* 32h Seminar
+* 118h Selbststudium
 
 ## Angestrebte Lernergebnisse:
 Die Studierenden  
 
 - kennen Techniken wissenschaftlichen Arbeitens und können diese anwenden
-
 - haben erste Erfahrungen mit aktiver Fachkommunikation gesammelt
-
 - gewinnen einen ersten Überblick über das Spektrum von aktuellen Themen in der Medieninformatik
-
 - können eigene Projektergebnisse vor einem Fachpublikum in Vortrag und Diskussion darstellen und verteidigen
 
 ## Inhalt:
 Das Praxisprojektseminar besteht aus
 
 - Veranstaltungen in denen Techniken wissenschaftlichen Arbeitens vermittelt werden,
-
 - Audits über den aktuellen Stand ihres Projektes,
-
 - Fachvorträgen von Studierenden über ihre Projektergebnisse.
 
 ## Studien-/Prüfungsleistungen:

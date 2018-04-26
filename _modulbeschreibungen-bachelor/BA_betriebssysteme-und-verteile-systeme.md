@@ -1,15 +1,14 @@
 ---
 title: Betriebssysteme und verteilte Systeme
 modulverantwortlich: mb, lk
-modulniveau: null
+modulniveau:
 kuerzel: BS1
-untertitel: null
+untertitel:
 studiensemester: 4
-kategorie: null
+kategorie:
 sprache: deutsch
-zuordnung-zum-curriculum: Medieninformatik Bachelor
 kreditpunkte: 5
-voraussetzungen-nach-pruefungsordnung:
+voraussetzungen-nach-pruefungsordnung: keine
 empfohlene-voraussetzungen: Einführung in die Medieninformatik, Algorithmen und Programmierung
 published: true
 type: pm
@@ -22,11 +21,11 @@ Systemprogrammierung am Beispiel von UNIX.
 4 SWS: Vorlesung 2 SWS; Praktikum 2 SWS
 
 ## Arbeitsaufwand: 
-Gesamtaufwand 150 h, davon 
+Gesamtaufwand 150h, davon 
 
-- 36 h Vorlesung 
-- 36 h Praktikum
-- 78 h Selbststudium 
+- 36h Vorlesung 
+- 36h Praktikum
+- 78h Selbststudium 
 
 ## Angestrebte Lernergebnisse:
 

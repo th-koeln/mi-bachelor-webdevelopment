@@ -7,10 +7,9 @@ untertitel:
 studiensemester: 2
 kategorie:
 sprache: deutsch
-zuordnung-zum-curriculum: Medieninformatik Bachelor
 kreditpunkte: 7
-voraussetzungen-nach-pruefungsordnung:
-empfohlene-voraussetzungen: 
+voraussetzungen-nach-pruefungsordnung: keine
+empfohlene-voraussetzungen: Algorithmen und Programmierung 1
 published: true
 type: pm
 ---
@@ -21,12 +20,12 @@ type: pm
 
 ## Arbeitsaufwand:
 
-Gesamtaufwand 210 h, davon 
+Gesamtaufwand 210h, davon 
 
-- 54 h Vorlesung 
-- 36 h Praktikum
-- 18 h Übung
-- 102 h Selbststudium 
+- 54h Vorlesung 
+- 36h Praktikum
+- 18h Übung
+- 102h Selbststudium 
 
 ## Angestrebte Lernergebnisse:
 

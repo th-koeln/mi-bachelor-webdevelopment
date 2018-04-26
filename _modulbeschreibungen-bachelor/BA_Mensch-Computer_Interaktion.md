@@ -1,16 +1,15 @@
 ---
 title: Mensch-Computer Interaktion
 modulverantwortlich: gh
-modulniveau: null
+modulniveau:
 kuerzel: MCI
-untertitel: null
+untertitel:
 studiensemester: 2
-kategorie: null
+kategorie:
 sprache: deutsch
-zuordnung-zum-curriculum: Medieninformatik Bachelor
 kreditpunkte: 10
 voraussetzungen-nach-pruefungsordnung: keine
-empfohlene-voraussetzungen: 
+empfohlene-voraussetzungen: Einführung in die Medieninformatik
 published: true
 type: pm
 ---
@@ -19,13 +18,11 @@ type: pm
 Vorlesung und Praktikum/Übung
 
 ## Arbeitsaufwand: 
-
-
-Gesamtaufwand 300 h, davon 
+Gesamtaufwand 300h, davon 
 
 * 65h Vorlesung
 * 65h Praktikum/Übung
-* 170 h Selbststudium
+* 170h Selbststudium
 
 ## Angestrebte Lernergebnisse:
 * Die Studierenden erwerben Grundkenntnisse in kognitions-, arbeits- und organisations-psychologischen Grundkonzepten und können diese auf Problemstellungen, im Kontext der Mensch-Computer Interaktion, anwenden. 

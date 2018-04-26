@@ -7,7 +7,6 @@ untertitel:
 studiensemester: 6
 kategorie:
 sprache: deutsch
-zuordnung-zum-curriculum: Medieninformatik Bachelor
 kreditpunkte: 12
 voraussetzungen-nach-pruefungsordnung: alle Modulprüfungen außer Bachelorarbeit und Kolloquium bestanden
 empfohlene-voraussetzungen: 

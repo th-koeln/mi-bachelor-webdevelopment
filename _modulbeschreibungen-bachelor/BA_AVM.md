@@ -7,10 +7,9 @@ untertitel: null
 studiensemester: 3
 kategorie: null
 sprache: deutsch
-zuordnung-zum-curriculum: Bachelor Medieninformatik – Pflichtbereich
 kreditpunkte: 5
-voraussetzungen-nach-pruefungsordnung:
-empfohlene-voraussetzungen:
+voraussetzungen-nach-pruefungsordnung: keine
+empfohlene-voraussetzungen: Einführung in die Medieninformatik
 published: true
 type: pm
 ---
@@ -23,10 +22,10 @@ Im Mittelpunkt dieses Moduls steht die digitale audiovisuelle Medienproduktion i
 4 SWS: Vorlesung 2 SWS; Projekt 2 SWS
 
 ## Arbeitsaufwand:
-Gesamtaufwand 150 h, davon
-- 36 h Vorlesung
-- 36 h Projektarbeit
-- 78 h Selbststudium
+Gesamtaufwand 150h, davon
+- 36h Vorlesung
+- 36h Projektarbeit
+- 78h Selbststudium
 
 
 ## Angestrebte Lernergebnisse:

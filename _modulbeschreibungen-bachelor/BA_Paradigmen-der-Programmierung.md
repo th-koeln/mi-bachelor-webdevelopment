@@ -7,9 +7,8 @@ untertitel:
 studiensemester: 3
 kategorie:
 sprache: deutsch
-zuordnung-zum-curriculum: Medieninformatik Bachelor
 kreditpunkte: 5
-voraussetzungen-nach-pruefungsordnung: 
+voraussetzungen-nach-pruefungsordnung: keine
 empfohlene-voraussetzungen: Einführung in die Medieninformatik, Algorithmen und Programmierung I, Algorithmen und Programmierung II
 published: true
 type: pm
@@ -19,12 +18,12 @@ type: pm
 4 SWS: Vorlesung 2 SWS; Praktikum 1 SWS; Übung 1 SWS
 
 ## Arbeitsaufwand:
-Gesamtaufwand 150 h, davon 
+Gesamtaufwand 150h, davon 
 
-* 36 h Vorlesung
-* 18 h Praktikum
-* 18 h Übung
-* 78 h Selbststudium
+* 36h Vorlesung
+* 18h Praktikum
+* 18h Übung
+* 78h Selbststudium
 
 ## Angestrebte Lernergebnisse:
 Die Studierenden sollen unterschiedliche Programmierparadigmen verstehen und anwenden können. Weiterhin sollen sie die Angemessenheit der verschiedenen Programmierparadigmen für eine Aufgabenstellung einordnen und bewerten können. Studierende sollen mithilfe von etablierten Paradigmen und Entwurfsmustern in der Lage sein, synchrone und asynchrone Programme zu konzipieren und ablaufsicher zu gestalten. 
@@ -39,7 +38,7 @@ Die Studierenden sollen unterschiedliche Programmierparadigmen verstehen und anw
 * Entwurfsmuster
 
 ## Studien-/Prüfungsleistungen:
-Klausur sowie erfolgreiche Teilnahme am Praktikum als Prüfungsvorleistung
+Klausur sowie erfolgreiche Teilnahme am Praktikum als Prüfungsvorleistung.
 
 ## Medienformen:
 * Foliensammlung

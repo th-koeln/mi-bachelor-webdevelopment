@@ -6,10 +6,9 @@ kuerzel: EMI
 untertitel:
 studiensemester: 1
 kategorie:
-sprache: Deutsch
-zuordnung-zum-curriculum: Medieninformatik Bachelor
+sprache: deutsch
 kreditpunkte: 5
-voraussetzungen-nach-pruefungsordnung: 
+voraussetzungen-nach-pruefungsordnung: keine
 empfohlene-voraussetzungen: 
 published: true
 type: pm
@@ -17,6 +16,7 @@ type: pm
 
 ## Lehrform/SWS:
 4 SWS: Seminar 3 SWS; Übung 1 SWS 
+
 Seminar mit eingebetteten Übungselementen und Projektarbeit.
 
 ## Arbeitsaufwand:

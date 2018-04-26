@@ -7,21 +7,20 @@ untertitel:
 studiensemester: 5
 kategorie:
 sprache: deutsch
-zuordnung-zum-curriculum: Medieninformatik Bachelor
 kreditpunkte: 10
-voraussetzungen-nach-pruefungsordnung: 
+voraussetzungen-nach-pruefungsordnung: keine
 empfohlene-voraussetzungen: Algorithmen und Programmierung, Theoretische Informatik, Audiovisuelles Medienprojekt, Kommunikationstechnik und Netze, Mensch Computer Interaktion, Grundlagen des Web, Betriebssysteme und verteilte Systeme, Screendesign, abgeschlossenes Schwerpunktmodul
 published: true
 type: pm
 ---
 
 ## Lehrform/SWS:
-Projekt / 2 SWS: Seminar
+2 SWS: Seminar 2 SWS; Projektarbeit
 
 ## Arbeitsaufwand:
-Gesamtaufwand 300 h, davon
-* 36 h Seminar
-* 264 h Selbststudium
+Gesamtaufwand 300h, davon
+* 36h Seminar
+* 264h Selbststudium
 
 ## Angestrebte Lernergebnisse:
 Die Studierenden sollen vertiefende Kenntnisse in die Methoden und Techniken aus zwei ausgewählten Modulen aus den ersten vier Fachsemestern des Studiums erlangen und diese in der Konzeption und prototypischen Realisierung eines interaktiven Systems oder Mediums anwenden. Dadurch sollen sie eigene Erfahrungen in der Projektabwicklung mit Medieninformatik-spezifischen Fragestellungen und in der Teamarbeit sammeln und eine reflektierend-kritische Haltung zu methodischen Ansätzen und Entwicklungsmodellen entwickeln. Ziel ist es eine, mit eigenen praktischen Erfahrungen fundierte Methodenkompetenz zu erlangen.
@@ -37,9 +36,4 @@ Die Lehrenden bieten dann während der Projektdurchführung Beratung bzgl. des a
 
 ## Studien-/Prüfungsleistungen:
 Die Projektergebnis, bestehend aus Prototyp und Dokumentation, geht mit 80% in die Projektnote ein, die Kommunikation der Zwischenergebnisse und des Endergebnisses mit 20%.
-
-## Medienformen:
-
-
-## Literatur:
 

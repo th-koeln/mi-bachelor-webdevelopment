@@ -3,13 +3,12 @@ title: Softwaretechnik
 modulverantwortlich: mw
 modulniveau: Bachelor
 kuerzel: ST1
-untertitel: null
+untertitel:
 studiensemester: 4
 kategorie: Winter
 sprache: deutsch
-zuordnung-zum-curriculum: Medieninformatik Bachelor, 4. Semester , Pflichtfach
 kreditpunkte: 5
-voraussetzungen-nach-pruefungsordnung:
+voraussetzungen-nach-pruefungsordnung: keine
 empfohlene-voraussetzungen: Grundkenntnisse Algorithmen, Datenbanken und objektorientierte Programmierung
 published: true
 type: pm
@@ -24,17 +23,17 @@ Prinzipien, Methoden und Techniken der modellbasierten methodischen objektorient
 max. 15 Studierende/Praktikumsgruppe;
 
 ## Arbeitsaufwand: 
-Gesamtaufwand 150 h, davon 
+Gesamtaufwand 150h, davon 
 
-- 36 h Vorlesung 
-- 36 h Praktikum
-- 78 h Selbststudium 
+- 36h Vorlesung 
+- 36h Praktikum
+- 78h Selbststudium 
 
 ## Angestrebte Lernergebnisse:
 Die Studierenden sollen befähigt werden, 
 - zu abstrahieren, Modelle zu entwickeln, Unterschiede zwischen Modell und Realität zu beurteilen sowie 
 - gegebene Modelle zu interpretieren, zu analysieren und zu bewerten, 
--  um komplexe Systeme zu analysieren, im Team zu entwerfen und dabei im Rahmen methodischer Vorgehensweisen Techniken und Werkzeuge der objektorientierten Modellierung und Softwareentwicklung in den Aktivitäten Anforderungsermittlung, Softwarespezifizierung und Entwurf einzusetzen.
+- um komplexe Systeme zu analysieren, im Team zu entwerfen und dabei im Rahmen methodischer Vorgehensweisen Techniken und Werkzeuge der objektorientierten Modellierung und Softwareentwicklung in den Aktivitäten Anforderungsermittlung, Softwarespezifizierung und Entwurf einzusetzen.
 
 ## Inhalt:
 

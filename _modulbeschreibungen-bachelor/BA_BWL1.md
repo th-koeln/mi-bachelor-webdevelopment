@@ -7,9 +7,8 @@ untertitel:
 studiensemester: 5
 kategorie:
 sprache: deutsch
-zuordnung-zum-curriculum: Medieninformatik Bachelor
 kreditpunkte: 5
-voraussetzungen-nach-pruefungsordnung:
+voraussetzungen-nach-pruefungsordnung: keine
 empfohlene-voraussetzungen: 
 published: true
 type: pm
@@ -19,7 +18,7 @@ type: pm
 4 SWS: Vorlesung 2 SWS; Übung 2 SWS
 
 ## Arbeitsaufwand: 
-Gesamtaufwand 150 h, davon 
+Gesamtaufwand 150h, davon 
 
 - 30h Vorlesung
 - 30h Übung
@@ -39,7 +38,7 @@ Die Studierenden verstehen die wichtigsten Entscheidungsbereiche wirtschaftliche
 * Absatz und Marketing
 
 ## Studien-/Prüfungsleistungen:
-schriftliche Klausur
+schriftliche Prüfung
 
 ## Literatur:
 * Wöhe (2016): Einführung in die Allgemeine Betriebswirtschaftslehre, 26. Aufl.

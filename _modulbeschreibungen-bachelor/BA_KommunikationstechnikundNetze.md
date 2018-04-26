@@ -6,10 +6,9 @@ kuerzel: KTN
 untertitel:
 studiensemester: 3
 kategorie:
-sprache: Deutsch
-zuordnung-zum-curriculum: Medieninformatik Bachelor
+sprache: deutsch
 kreditpunkte: 5
-voraussetzungen-nach-pruefungsordnung: Kenntnisse aus dem Grundstudium.
+voraussetzungen-nach-pruefungsordnung: keine
 empfohlene-voraussetzungen: 
 published: true
 type: pm
@@ -24,11 +23,8 @@ Vorlesung, Praktikum
 Die Studierenden sollen  
 
 - Prinzipien und Grundlagen von technischen Kommunikations­vor­gängen kennen lernen,
-
 - Protokolle als wesentliche Grundlage der Kommunikationstechnik im Detail verstehen (Internet-Protokolle, Multimedia-Protokolle, TK-Protokolle, Dienste)
-
 - Einsatz und Nutzung von Kommunikations­tech­nik praxistypisch kennen lernen,
-
 - in der Lage sein, selbstständig Netzstrukturen zu bewerten, Netze zu analysieren und zu konzipieren (unter Anwendung von Netz­analyse­werkzeugen und -methoden).
 
 ## Inhalt:

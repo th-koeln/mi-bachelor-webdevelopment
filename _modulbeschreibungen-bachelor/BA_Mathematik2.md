@@ -7,10 +7,9 @@ untertitel:
 studiensemester: 2
 kategorie:
 sprache: deutsch
-zuordnung-zum-curriculum: Medieninformatik Bachelor
 kreditpunkte: 8
-voraussetzungen-nach-pruefungsordnung: Keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden. Der vorherige Besuch von Mathematik I ist sinnvoll, aber keine zwingende Voraussetzung.
-empfohlene-voraussetzungen: 
+voraussetzungen-nach-pruefungsordnung: keine
+empfohlene-voraussetzungen: Mathematik I
 published: true
 type: pm
 ---
@@ -20,12 +19,12 @@ type: pm
 
 ## Arbeitsaufwand:
 
-Gesamtaufwand 240 h, davon 
+Gesamtaufwand 240h, davon 
 
-- 54 h Vorlesung 
-- 18 h Praktikum
-- 36 h Übung
-- 132 h Selbststudium 
+- 54h Vorlesung 
+- 18h Praktikum
+- 36h Übung
+- 132h Selbststudium 
 
 ## Angestrebte Lernergebnisse:
 
@@ -40,9 +39,6 @@ Die Studierenden sollen die Fähigkeiten zur Analyse realer oder geplanter Syste
 
 ## Studien-/Prüfungsleistungen:
 Schriftliche Prüfung, sowie erfolgreiche Teilnahme am Praktikum als Prüfungsvorleistung.
-
-## Medienformen:
-
 
 ## Literatur:
 * s. Literaturliste auf der Homepage [www.gm.fh-koeln.de/~konen](www.gm.fh-koeln.de/~konen)

@@ -7,7 +7,6 @@ untertitel:
 studiensemester: 1
 kategorie:
 sprache: deutsch
-zuordnung-zum-curriculum: Medieninformatik Bachelor
 kreditpunkte: 8
 voraussetzungen-nach-pruefungsordnung: keine
 empfohlene-voraussetzungen: 
@@ -48,11 +47,9 @@ Die Studierenden sollen
 * Entwicklungsumgebungen.
 
 ## Studien-/Prüfungsleistungen:
-
 Schriftliche Prüfung, sowie erfolgreiche Teilnahme am Praktikum als Prüfungsvorleistung.
 
 ## Medienformen:
-
 - Beamer-gestützte Vorlesungen (Folien in elektronischer Form) 
 - Praktikum an Rechnern des Labors
 
