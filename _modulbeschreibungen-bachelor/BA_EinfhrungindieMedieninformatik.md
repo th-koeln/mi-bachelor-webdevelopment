@@ -16,7 +16,7 @@ type: pm
 ---
 
 ## Lehrform/SWS:
-4 SWS: Seminar 3 SWS; Übung 1 SWS
+4 SWS: Seminar 3 SWS; Übung 1 SWS 
 Seminar mit eingebetteten Übungselementen und Projektarbeit.
 
 ## Arbeitsaufwand:
