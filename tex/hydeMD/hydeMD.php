@@ -66,16 +66,16 @@ function flattenHeadingHierarchy( $headings ) {
   foreach( $headings[ 'sub' ] as $heading => $headingInfo ) {
     $lines[] = "\n" . $heading . "\n";
 
+    $headingInfoLines = array_map( function( $item ) {
+      return $item . "\n";
+    }, $headingInfo[ 'lines' ] );
+
+    $lines = array_merge( $lines, $headingInfoLines );
+
     $headingLines = flattenHeadingHierarchy( $headingInfo );
 
     $lines = array_merge( $lines, $headingLines );
   }
-
-  $headings[ 'lines' ] = array_map( function( $item ) {
-    return $item . "\n";
-  }, $headings[ 'lines' ] );
-
-  $lines = array_merge( $lines, $headings[ 'lines' ] );
 
   return $lines;
 }
