@@ -15,20 +15,20 @@ parent: SPM3
 schwerpunkt: sc
 ---
 
-## Kurzbeschreibung:
+## Kurzbeschreibung
 Es werden Grundlagen für die Analyse und algorithmische Verarbeitung von Graph basierten Daten, insbesondere von Daten sozialer Netze eingeführt. 
 
-## Lehrform/SWS: 
+## Lehrform/SWS 
 4 SWS: Vorlesung 2 SWS; Übung 2 SWS
 
 
-## Arbeitsaufwand: 
+## Arbeitsaufwand 
 Gesamtaufwand 180 Stunden, davon
 - 36h Vorlesung 
 - 36h Übung  
 - 102h Selbststudium 
 
-## Angestrebte Lernergebnisse:
+## Angestrebte Lernergebnisse
 Die Studierenden
 
 - kennen die Bedeutung von formalen Modellen von heutigen technischen, Informations- und sozialen Netzen,
@@ -38,22 +38,22 @@ Die Studierenden
 um Methoden und Techniken zur Analyse sozialer und ggfs. anderer Netze auswählen zu können.
 
 
-## Inhalt:
+## Inhalt
 - Empirische Untersuchung von Netzwerken: technische Netze, Informationsnetze, soziale Netze
 - Psychologische Grundlagen Sozialer Netze
 - Graphentheorie: Grundlegende Konzepte, Kenngrößen, strukturelle Eigenschaften
 - Graph und Netzwerk Algorithmen
 
 
-## Studien-/Prüfungsleistungen:
+## Studien-/Prüfungsleistungen
 Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
 - Mündliche Prüfung (100%)
 
-## Medienformen:
+## Medienformen
 * Präsentationsmaterialien
 * Arbeitsblätter
 
-## Literatur:
+## Literatur
 - M.E.J. Newman: Networks - An Introduction, Oxford University Press 2010
 - S. Wassermann, K. Faust: Social Network Analysis - Methods and Applications, Cambridge University Press 1994
 - C. Kadushin: Understanding Social Networks: Theories, Concepts, and Findings, Oxford University Press 2011

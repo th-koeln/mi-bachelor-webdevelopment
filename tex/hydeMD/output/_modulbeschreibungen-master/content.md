@@ -9,6 +9,10 @@ Im Zentrum des Studiums steht in den ersten drei Fachsemestern jeweils eine Proj
 
 Das erforderliche Grundlagenwissen sowie schwerpunktbezogene Kenntnisse werden in den ersten drei Semestern parallel zur Projektarbeit in drei Grundlagen-, drei Schwerpunkt- und drei Wahlpflicht-Modulen sowie in projektbegleitenden Lehrveranstaltungen vermittelt. Das vierte Semester ist dann darauf aufbauend ganz der selbstständigen Arbeit an der Masterthesis gewidmet.
 
+![Studienverlaufsplan Medieninformatik Master, Studienbeginn zum Wintersemester](../anhaenge/bilder/ws-small.png)
+
+![Studienverlaufsplan Medieninformatik Master, Studienbeginn zum Sommersemester](../anhaenge/bilder/ss-small.png)
+
 
 
 # Schwerpunkt: Human-Computer Interaction§pathlabel:/mi-2017/modulbeschreibungen-master/schwerpunkt-human-computer-interaction§
@@ -43,11 +47,11 @@ Interaction Designer konzipieren und gestalten die vielfältigen Beziehungen zwi
 
 ## Schwerpunktspezifische Pflichtmodule§pathlabel:/mi-2017/modulbeschreibungen-master/schwerpunkt-human-computer-interaction§
 
-- Interaction Design
+- [Interaction Design](/mi-2017/modulbeschreibungen-master/MA_HCI_InteractionDesign)
 
-- Design Methodologies
+- [Design Methodologies](/mi-2017/modulbeschreibungen-master/MA_HCI_Design_Methodologies)
 
-- Angewandte Statistik für die Mensch-Computer Interaktion
+- [Angewandte Statistik für die Mensch-Computer Interaktion](/mi-2017/modulbeschreibungen-master/MA_HCI_Modul_Statistical_Methods_for_HCI)
 
 
 
@@ -97,11 +101,11 @@ Aufgrund der inhaltlich eher breiten Anlage können die Absolvent*inn*en des Stu
 
 ## Schwerpunktspezifische Pflichtmodule§pathlabel:/mi-2017/modulbeschreibungen-master/schwerpunkt-multiperspective-product-development§
 
-- Sicherheit, Privatsphäre und Vertrauen
+- [Sicherheit, Privatsphäre und Vertrauen](/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_IT-Sicherheit)
 
-- Interaction Design
+- [Interaction Design](/mi-2017/modulbeschreibungen-master/MA_HCI_InteractionDesign)
 
-- Qualitätssicherung und -management
+- [Qualitätssicherung und -management](/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_QUS_Winter)
 
 
 
@@ -124,11 +128,11 @@ Bitte nachtragen
 
 ## Schwerpunktspezifische Pflichtmodule§pathlabel:/mi-2017/modulbeschreibungen-master/schwerpunkt-soziotechnische-systeme§
 
-- Sicherheit, Privatsphäre und Vertrauen
+- [Sicherheit, Privatsphäre und Vertrauen](/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_IT-Sicherheit)
 
-- Soziotechnische Entwurfsmuster
+- [Soziotechnische Entwurfsmuster](/mi-2017/modulbeschreibungen-master/MA_SC_Soziotechnische_Entwurfsmuster)
 
-- Netzwerk-und Graphentheorie
+- [Netzwerk-und Graphentheorie](/mi-2017/modulbeschreibungen-master/MA_SC_Modul_Netzwerk--und-Graphentheorie)
 
 
 
@@ -153,18 +157,46 @@ Im Bereich der Bildanalyse und -verarbeitung werden die Studierenden in die Lage
 
 ## Berufsbilder§pathlabel:/mi-2017/modulbeschreibungen-master/schwerpunkt-visual-computing§
 
-Die hohe Interdisziplinarität ist ein Innovationsfaktor und bietet Schlüsseltechnologien zur Lösung aktueller Problemstellungen in der Informatik, wie z.B. Virtual Engineering, Visual Analytics und visuelle Datenanalyse, Virtual- und Augmented Reality, Medizintechnik, Robotik, Animation und Bildsynthese. Anwendungen des Visual Computing finden sich in den verschiedensten Bereichen, z.B. in der Unterhaltungsindustrie (Visuelle Effekte, Computerspiele, Filmindustrie, 360° und 3D Videos), der Medizin (medizinische Bildverarbeitung, digitale Operationsplanung), der Automobilindustrie (Fahrerassistenzsysteme), der industriellen Fertigung (visuelle Qualitätskontrolle), der Internettechnologien und Mobilgeräte (Remote Rendering, Multimediale Datenbanken, Augmented Reality Anwendungen) und der digitalen Fotografie.
+Die hohe Interdisziplinarität ist ein Innovationsfaktor und bietet Schlüsseltechnologien zur Lösung aktueller Problemstellungen in der Informatik.
+
+Typische Bereiche in denen Absolventen des Schwerpunktes arbeiten sind bspw.:
+
+- Simulatorenentwicklung für Virtual Engineering, Medizintechnik oder den Automotive Bereich
+
+- Visuelle Datenanalyse / Visual Analytics 
+
+- Anwendungsentwicklung für Virtual- und Augmented Reality, Medizintechnik, Robotik, Animation und Bildsynthese
+
+- Game Development (Rendering Engineer)
+
+- Anwendungsentwicklung für Design- und Grafikprogramme
+
+Anwendungen des Visual Computing finden sich in den verschiedensten Bereichen, bspw. in der
+
+- Unterhaltungsindustrie (Visuelle Effekte, Computerspiele, Filmindustrie, 360° und 3D Videos)
+
+- Medizin (medizinische Bildverarbeitung, digitale Operationsplanung)
+
+- Automobilindustrie (Fahrerassistenzsysteme)
+
+- industriellen Fertigung (visuelle Qualitätskontrolle)
+
+- Internettechnologien und Mobilgeräte (Remote Rendering, Multimediale Datenbanken, Augmented Reality Anwendungen) und 
+
+- digitalen Fotografie.
 
 Der Schwerpunkt Visual Computing bietet hervorragende Jobaussichten in wachsenden Industriezweigen wie maschinelles Sehen, der optischen Industrie, medizinische Bildverarbeitung, Automobilindustrie, Computerspiele und Mediendesign.
+
+Absolvent*inn*en können sowohl als SoftwareentwicklerIn in den oben genannten Branchen tätig sein, aber auch als GestalterIn von Benutzeroberflächen sowie in Projektmanagement, und Qualitätssicherung wirken. Sehr gute Chancen gibt es auch im Bereich der Start-Up Gründungen.
 
 
 ## Schwerpunktspezifische Pflichtmodule§pathlabel:/mi-2017/modulbeschreibungen-master/schwerpunkt-visual-computing§
 
-- Storytelling und Narrative Strukturen
+- [Storytelling und Narrative Strukturen](/mi-2017/modulbeschreibungen-master/MA_VC_Modul_Storytelling)
 
-- Bildbasierte Computergrafik
+- [Bildbasierte Computergrafik](/mi-2017/modulbeschreibungen-master/MA_VC_Modul_BildbasierteComputergrafik)
 
-- Visualisierung
+- [Visualisierung](/mi-2017/modulbeschreibungen-master/MA_VC_Modul_Visualisierung)
 
 
 
@@ -210,9 +242,9 @@ Berufsfelder für Absolventinnen und Absolventen sind
 
 - [Sicherheit, Privatsphäre und Vertrauen](/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_IT-Sicherheit)
 
-- Web Architekturen 
+- [Web Architekturen](/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_Web-Architekturen) 
 
-- Web Technologien
+- [Web Technologien](/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_Web-Technologien)
 
 
 
@@ -220,15 +252,15 @@ Berufsfelder für Absolventinnen und Absolventen sind
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Christian Kohls%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 2%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 1%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Christian Kohls%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 2%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 1%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden%end-modulMeta%%begin-modulMeta%**Empfohlene Voraussetzungen**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
 
 
-## Lehrform/SWS:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_All_Computerethik§
+## Lehrform/SWS§pathlabel:/mi-2017/modulbeschreibungen-master/MA_All_Computerethik§
 
 4 SWS: Vorlesung 2 SWS; Seminar 2 SWS
 
 
-## Arbeitsaufwand:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_All_Computerethik§
+## Arbeitsaufwand§pathlabel:/mi-2017/modulbeschreibungen-master/MA_All_Computerethik§
 
 Gesamtaufwand 180 Stunden, davon
 
@@ -239,12 +271,12 @@ Gesamtaufwand 180 Stunden, davon
 - 108h Selbststudium
 
 
-## Angestrebte Lernergebnisse:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_All_Computerethik§
+## Angestrebte Lernergebnisse§pathlabel:/mi-2017/modulbeschreibungen-master/MA_All_Computerethik§
 
 Die Studierenden sollen wesentliche Begriffe und Grundpositionen bezüglich ethischer und sozialer Fragen, die durch die Digitalisierung in Medien und Gesellschaft (z.B. mediale Kommunikation und der Einsatz von Informationssystemen) aufgeworfen werden, kennen. Sie sollen weiterhin Positionen aus wissenschaftlichen Veröffentlichungen in diesem Bereich erarbeiten, vortragen und dazu Stellung beziehen können.
 
 
-## Inhalt:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_All_Computerethik§
+## Inhalt§pathlabel:/mi-2017/modulbeschreibungen-master/MA_All_Computerethik§
 
 - Ethische Grundbegriffe
 
@@ -269,7 +301,7 @@ Die Studierenden sollen wesentliche Begriffe und Grundpositionen bezüglich ethi
 - Positive Computing
 
 
-## Studien-/Prüfungsleistungen:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_All_Computerethik§
+## Studien-/Prüfungsleistungen§pathlabel:/mi-2017/modulbeschreibungen-master/MA_All_Computerethik§
 
 Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
 
@@ -278,7 +310,7 @@ Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern ang
 - schriftliche Ausarbeitung (50%)
 
 
-## Medienformen:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_All_Computerethik§
+## Medienformen§pathlabel:/mi-2017/modulbeschreibungen-master/MA_All_Computerethik§
 
 - Beamer-gestützte Vorlesungen (Folien in elektronischer Form)
 
@@ -289,7 +321,7 @@ Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern ang
 - Anonyme Abstimmungen und Kommentare (PINGO)
 
 
-## Literatur:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_All_Computerethik§
+## Literatur§pathlabel:/mi-2017/modulbeschreibungen-master/MA_All_Computerethik§
 
 - Calvo, R. A., & Peters, D. (2014). Positive computing: Technology for wellbeing and human potential.
 
@@ -313,30 +345,30 @@ Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern ang
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: alle Informatik Professoren%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 4%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 4%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 30%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: Zur Masterarbeit kann zugelassen werden, wer die Zulassungsvoraussetzungen gemäß § 17 Abs. 2 und 5 erfüllt und aus den nach § 24 vorgeschriebenen Prüfungen insgesamt mindestens 75 Leistungspunkte gem. § 12 erreicht hat.%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: alle Informatik Professoren%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 4%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 4%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 30%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: Zur Masterarbeit kann zugelassen werden, wer die Zulassungsvoraussetzungen gemäß § 17 Abs. 2 und 5 erfüllt und aus den nach § 24 vorgeschriebenen Prüfungen insgesamt mindestens 75 Leistungspunkte gem. § 12 erreicht hat.%end-modulMeta%%begin-modulMeta%**Empfohlene Voraussetzungen**: &nbsp;%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
 
 
-## Kurzbeschreibung:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_All_Modul_Masterarbeit§
+## Kurzbeschreibung§pathlabel:/mi-2017/modulbeschreibungen-master/MA_All_Modul_Masterarbeit§
 
 Die Masterarbeit (Master Thesis) und das Kolloquium bilden den Abschluss des Studiums. Die Masterarbeit ist in der Regel eine eigenständige Untersuchung mit einer Aufgabenstellung aus der Medieninformatik und einer ausführlichen Beschreibung und Erläuterung ihrer Lösung. In fachlich geeigneten Fällen kann sie auch eine schriftliche Hausarbeit mit fachliterarischem Inhalt sein.
 
 
-## Lehrform/SWS:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_All_Modul_Masterarbeit§
+## Lehrform/SWS§pathlabel:/mi-2017/modulbeschreibungen-master/MA_All_Modul_Masterarbeit§
 
 Eigenständige betreute wissenschaftlich-fachpraktische Arbeit
 
 
-## Arbeitsaufwand:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_All_Modul_Masterarbeit§
+## Arbeitsaufwand§pathlabel:/mi-2017/modulbeschreibungen-master/MA_All_Modul_Masterarbeit§
 
 900 Stunden
 
 
-## Angestrebte Lernergebnisse:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_All_Modul_Masterarbeit§
+## Angestrebte Lernergebnisse§pathlabel:/mi-2017/modulbeschreibungen-master/MA_All_Modul_Masterarbeit§
 
 Ziel der Masterarbeit (Master Thesis) und des Kolloquiums ist die Befähigung, innerhalb einer vorgegebenen Frist eine wissenschaftlich orientierte Aufgabe aus der Medieninformatik, sowohl in ihren fachlichen Einzelheiten als auch in den fachübergreifenden Zusammenhängen, nach wissenschaftlichen, fachpraktischen und gestalterischen Methoden selbständig zu bearbeiten, zu dokumentieren und zu verteidigen. 
 
 
-## Inhalt:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_All_Modul_Masterarbeit§
+## Inhalt§pathlabel:/mi-2017/modulbeschreibungen-master/MA_All_Modul_Masterarbeit§
 
 - Die Masterarbeit ist in der Regel eine eigenständige Untersuchung mit einer Aufgabenstellung aus der Medieninformatik und einer ausführlichen Beschreibung und Erläuterung ihrer Lösung. 
 
@@ -345,7 +377,7 @@ Ziel der Masterarbeit (Master Thesis) und des Kolloquiums ist die Befähigung, i
 - Konkrete Inhalte je nach Thema.
 
 
-## Studien-/Prüfungsleistungen:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_All_Modul_Masterarbeit§
+## Studien-/Prüfungsleistungen§pathlabel:/mi-2017/modulbeschreibungen-master/MA_All_Modul_Masterarbeit§
 
 Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
 
@@ -354,12 +386,12 @@ Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern ang
 - Kolloquium (20%)
 
 
-## Medienformen:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_All_Modul_Masterarbeit§
+## Medienformen§pathlabel:/mi-2017/modulbeschreibungen-master/MA_All_Modul_Masterarbeit§
 
 Je nach Thema
 
 
-## Literatur:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_All_Modul_Masterarbeit§
+## Literatur§pathlabel:/mi-2017/modulbeschreibungen-master/MA_All_Modul_Masterarbeit§
 
 Je nach Thema
 
@@ -369,20 +401,20 @@ Je nach Thema
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Wolfgang Konen, Prof. Dr. Boris Naujoks%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 1%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Wolfgang Konen, Prof. Dr. Boris Naujoks%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 1%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden%end-modulMeta%%begin-modulMeta%**Empfohlene Voraussetzungen**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
 
 
-## Kurzbeschreibung:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_All_Modul_Mathematik§
+## Kurzbeschreibung§pathlabel:/mi-2017/modulbeschreibungen-master/MA_All_Modul_Mathematik§
 
 Es werden Grundlagen für die Analyse und algorithmische Verarbeitung von Graph basierten Daten eingeführt. 
 
 
-## Lehrform/SWS:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_All_Modul_Mathematik§
+## Lehrform/SWS§pathlabel:/mi-2017/modulbeschreibungen-master/MA_All_Modul_Mathematik§
 
 4 SWS: Vorlesung 2 SWS; Seminar 2 SWS
 
 
-## Arbeitsaufwand:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_All_Modul_Mathematik§
+## Arbeitsaufwand§pathlabel:/mi-2017/modulbeschreibungen-master/MA_All_Modul_Mathematik§
 
 Gesamtaufwand 150 Stunden, davon 
 
@@ -393,12 +425,12 @@ Gesamtaufwand 150 Stunden, davon
 - 102h Selbststudium 
 
 
-## Angestrebte Lernergebnisse:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_All_Modul_Mathematik§
+## Angestrebte Lernergebnisse§pathlabel:/mi-2017/modulbeschreibungen-master/MA_All_Modul_Mathematik§
 
 Mathematische Abstraktion und Fertigkeiten sind unverzichtbare Grundlagen wissenschaftlichen Arbeitens im Bereich der Informatik. Durch den Besuch dieser Veranstaltung sollen Studierende ihre mathematisch-abstrakte Analysefähigkeit weiter ausbauen, ihre Sicherheit im Umgang mit mathematischen Methoden mit Relevanz für die Informatik stärken, die Fähigkeit zur selbständigen Einarbeitung in neue mathematische Sachverhalte erhalten und ihre Beurteilungsfähigkeit im Umgang mit mathematisch-abstrakten Themen erhöhen.
 
 
-## Inhalt:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_All_Modul_Mathematik§
+## Inhalt§pathlabel:/mi-2017/modulbeschreibungen-master/MA_All_Modul_Mathematik§
 
 Exemplarische Fragestellungen der Mathematik in der Informatik mit beispielhaften Themen wie:
 
@@ -415,7 +447,7 @@ Exemplarische Fragestellungen der Mathematik in der Informatik mit beispielhafte
 - Differentialgleichung und ihre numerische Lösung
 
 
-## Studien-/Prüfungsleistungen:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_All_Modul_Mathematik§
+## Studien-/Prüfungsleistungen§pathlabel:/mi-2017/modulbeschreibungen-master/MA_All_Modul_Mathematik§
 
 Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
 
@@ -424,12 +456,12 @@ Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern ang
 - Klausur (50%)
 
 
-## Medienformen:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_All_Modul_Mathematik§
+## Medienformen§pathlabel:/mi-2017/modulbeschreibungen-master/MA_All_Modul_Mathematik§
 
 Präsentationsmaterialien, Arbeitsblätter
 
 
-## Literatur:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_All_Modul_Mathematik§
+## Literatur§pathlabel:/mi-2017/modulbeschreibungen-master/MA_All_Modul_Mathematik§
 
 - Liu, Eric Zhi-Feng, e.a., Web-based Peer Review: The learner as both Adapter and Reviewer, IEEE Transactions on Education, Vol 44, No 3, August 2001
 
@@ -445,15 +477,15 @@ Präsentationsmaterialien, Arbeitsblätter
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: alle Informatik Professoren%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 3%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 3%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: alle Informatik Professoren%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 3%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 3%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden%end-modulMeta%%begin-modulMeta%**Empfohlene Voraussetzungen**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
 
 
-## Kurzbeschreibung:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_All_Modul_Wahlpflichtmodule§
+## Kurzbeschreibung§pathlabel:/mi-2017/modulbeschreibungen-master/MA_All_Modul_Wahlpflichtmodule§
 
 Frei aus dem Katalog der Pflicht- und Wahlpflichtmodule der Masterstudiengänge der Informatik wählbar, ausgenommen der drei Grundlagenmodule und der drei Schwerpunktmodule des gewählten Studienschwerpunktes lt. Studienverlaufsplan. Ein Katalog mit weiteren Angeboten wird nach Maßgabe des Beschlusses des Fakultätsrats der Fakultät für Informatik und Ingenieurwissenschaften zusammengestellt und durch Aushang und auf den Webseiten der Fakultät bekannt gemacht.
 
 
-## Arbeitsaufwand:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_All_Modul_Wahlpflichtmodule§
+## Arbeitsaufwand§pathlabel:/mi-2017/modulbeschreibungen-master/MA_All_Modul_Wahlpflichtmodule§
 
 180 Stunden
 
@@ -463,15 +495,15 @@ Frei aus dem Katalog der Pflicht- und Wahlpflichtmodule der Masterstudiengänge 
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Gerhard Hartmann%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 2%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 1%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Gerhard Hartmann%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 2%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 1%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden%end-modulMeta%%begin-modulMeta%**Empfohlene Voraussetzungen**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
 
 
-## Lehrform/SWS:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_All_Research_Methods§
+## Lehrform/SWS§pathlabel:/mi-2017/modulbeschreibungen-master/MA_All_Research_Methods§
 
 4 SWS: Vorlesung 2 SWS; Übung / Projekt 2 SWS
 
 
-## Arbeitsaufwand:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_All_Research_Methods§
+## Arbeitsaufwand§pathlabel:/mi-2017/modulbeschreibungen-master/MA_All_Research_Methods§
 
 Gesamtaufwand 180 Stunden, davon 
 
@@ -484,7 +516,7 @@ Gesamtaufwand 180 Stunden, davon
 - 54h Selbststudium
 
 
-## Angestrebte Lernergebnisse:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_All_Research_Methods§
+## Angestrebte Lernergebnisse§pathlabel:/mi-2017/modulbeschreibungen-master/MA_All_Research_Methods§
 
 Die Teilnehmer sind in der Lage verschiedene methodische Rahmen für die Beantwortung empirischer Problem- oder Fragestellungen zu benennen, kritisch einzuordnen und für ihre konkreten Projekte (Zielsetzungen, Rahmenbedingungen, etc.) eine rational begründete Wahl eines (oder einer Kombination aus verschiedenen) methodischen Rahmen zu treffen und zu kommunizieren.
 
@@ -493,7 +525,7 @@ Sie sind in der Lage, die Methoden projektgerecht und methodenkompetent anzuwend
 kritisch zu diskutieren.
 
 
-## Inhalt:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_All_Research_Methods§
+## Inhalt§pathlabel:/mi-2017/modulbeschreibungen-master/MA_All_Research_Methods§
 
 - Forschungsdesign und -planung
 
@@ -506,21 +538,21 @@ kritisch zu diskutieren.
 - Datenweiterverarbeitung und Ergebnisinterpretation und -präsentation
 
 
-## Studien-/Prüfungsleistungen:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_All_Research_Methods§
+## Studien-/Prüfungsleistungen§pathlabel:/mi-2017/modulbeschreibungen-master/MA_All_Research_Methods§
 
 Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
 
 - schriftliche Modulprüfung (100%)
 
 
-## Medienformen:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_All_Research_Methods§
+## Medienformen§pathlabel:/mi-2017/modulbeschreibungen-master/MA_All_Research_Methods§
 
 - beamergestützte Vorlesung
 
 - E-Books
 
 
-## Literatur:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_All_Research_Methods§
+## Literatur§pathlabel:/mi-2017/modulbeschreibungen-master/MA_All_Research_Methods§
 
 - Bortz, J.; Döring, N.: „Forschungsmethoden und Evaluation für Human- und Sozialwissenschaftler“, Springer Heidelberg, Berlin, 2006
 
@@ -534,15 +566,15 @@ Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern ang
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Gerhard Hartmann, Prof. Dr. Christian Kohls%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 1%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktmodul%end-modulMeta%%begin-modulMeta%**Pflichtmodul im Schwerpunkt**: Human-Computer Interaction%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Gerhard Hartmann, Prof. Dr. Christian Kohls%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 1%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden%end-modulMeta%%begin-modulMeta%**Empfohlene Voraussetzungen**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktmodul%end-modulMeta%%begin-modulMeta%**Pflichtmodul im Schwerpunkt**: Human-Computer Interaction%end-modulMeta%
 
 
-## Lehrform/SWS:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_HCI_Design_Methodologies§
+## Lehrform/SWS§pathlabel:/mi-2017/modulbeschreibungen-master/MA_HCI_Design_Methodologies§
 
 4 SWS: Vorlesung 2 SWS; Übung / Projekt 2 SWS;
 
 
-## Arbeitsaufwand:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_HCI_Design_Methodologies§
+## Arbeitsaufwand§pathlabel:/mi-2017/modulbeschreibungen-master/MA_HCI_Design_Methodologies§
 
 Gesamtaufwand 180 Stunden, davon 
 
@@ -553,12 +585,12 @@ Gesamtaufwand 180 Stunden, davon
 - 108h Selbststudium
 
 
-## Angestrebte Lernergebnisse:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_HCI_Design_Methodologies§
+## Angestrebte Lernergebnisse§pathlabel:/mi-2017/modulbeschreibungen-master/MA_HCI_Design_Methodologies§
 
 Die Teilnehmer sind in der Lage verschiedene methodische Rahmen für die Gestaltung interaktiver Systeme zu benennen, kritisch einzuordnen und für ihre konkreten Projekte eine rational begründete Wahl eines (oder einer Kombination aus verschiedenen) methodischen Rahmen zu treffen und zu kommunizieren. Sie sind in der Lage, die Methoden projektgerecht und kompetent anzuwenden und Design-Entscheidungen und „trade-offs“ zu begründen sowie Designresultate unter Einbeziehung der Designmethoden kritisch zu diskutieren.
 
 
-## Inhalt:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_HCI_Design_Methodologies§
+## Inhalt§pathlabel:/mi-2017/modulbeschreibungen-master/MA_HCI_Design_Methodologies§
 
 - Gestaltungstheorien
 
@@ -577,14 +609,14 @@ Die Teilnehmer sind in der Lage verschiedene methodische Rahmen für die Gestalt
 - Design Thinking
 
 
-## Studien-/Prüfungsleistungen:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_HCI_Design_Methodologies§
+## Studien-/Prüfungsleistungen§pathlabel:/mi-2017/modulbeschreibungen-master/MA_HCI_Design_Methodologies§
 
 Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
 
 Mündliche Prüfung (100%)
 
 
-## Medienformen:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_HCI_Design_Methodologies§
+## Medienformen§pathlabel:/mi-2017/modulbeschreibungen-master/MA_HCI_Design_Methodologies§
 
 - Beamer-gestützte Vorlesungen
 
@@ -595,7 +627,7 @@ Mündliche Prüfung (100%)
 - Präsentationsmaterialien
 
 
-## Literatur:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_HCI_Design_Methodologies§
+## Literatur§pathlabel:/mi-2017/modulbeschreibungen-master/MA_HCI_Design_Methodologies§
 
 - Borchers: “A Pattern Approach to Interaction Design”, Wiley & Sons, 2001
 
@@ -617,15 +649,15 @@ Mündliche Prüfung (100%)
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Gerhard Hartmann%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 1%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktmodul%end-modulMeta%%begin-modulMeta%**Pflichtmodul in den Schwerpunkten**: Human-Computer Interaction, Multiperspective Product Development%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Gerhard Hartmann%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 1%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden%end-modulMeta%%begin-modulMeta%**Empfohlene Voraussetzungen**: Basismodul Mensch-Computer Interaktion, so wie durch die GI e.V. publiziert%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktmodul%end-modulMeta%%begin-modulMeta%**Pflichtmodul in den Schwerpunkten**: Human-Computer Interaction, Multiperspective Product Development%end-modulMeta%
 
 
-## Lehrform/SWS:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_HCI_InteractionDesign§
+## Lehrform/SWS§pathlabel:/mi-2017/modulbeschreibungen-master/MA_HCI_InteractionDesign§
 
 4 SWS: Vorlesung 2 SWS; Übung / Projekt 2 SWS
 
 
-## Arbeitsaufwand:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_HCI_InteractionDesign§
+## Arbeitsaufwand§pathlabel:/mi-2017/modulbeschreibungen-master/MA_HCI_InteractionDesign§
 
 Gesamtaufwand 180 Stunden, davon
 
@@ -636,14 +668,14 @@ Gesamtaufwand 180 Stunden, davon
 - 108h Selbststudium
 
 
-## Angestrebte Lernergebnisse:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_HCI_InteractionDesign§
+## Angestrebte Lernergebnisse§pathlabel:/mi-2017/modulbeschreibungen-master/MA_HCI_InteractionDesign§
 
 Ziel ist vor allem, die Benutzerperspektive im Entwicklungsprozess interaktiver Systeme zu berücksichtigen, nicht von der Technologie sondern von menschlichen Erfordernissen auszugehen und eine entsprechende Interaktionsmodellierung und –gestaltung erreichen zu können. Dabei wird besonderer Wert auf den Auf- bzw. Ausbau von Entwurfskompetenz („reflection in action“, „conversation with the material“) gelegt, die das systematische Entwickeln von Gestaltungsalternativen, deren Bewertung, der Synthese gefundener Qualitäten in kohärenten und konsistenten Systementwürfen und den systematischen, konstruktiven Umgang mit trade-offs und ein insgesamt iteratives Vorgehen beinhaltet.
 
 Die Studierenden haben konzeptionelles Design (Conceptual Design) verstanden, können es souverän anwenden und als Vorgehen kritisch einordnen, um aufgabenangemessene und aus Benutzersicht angenehme Technologienutzung zu gestalten. Die Studierenden haben den Ansatz „Designing for Life” verstanden und wissen, wie sie dies methodisch umsetzen können.
 
 
-## Inhalt:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_HCI_InteractionDesign§
+## Inhalt§pathlabel:/mi-2017/modulbeschreibungen-master/MA_HCI_InteractionDesign§
 
 - Analyse und Dokumentation menschlichen, situierten Handelns
 
@@ -662,14 +694,14 @@ Die Studierenden haben konzeptionelles Design (Conceptual Design) verstanden, k�
 - Evaluationsmethoden und –techniken
 
 
-## Studien-/Prüfungsleistungen:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_HCI_InteractionDesign§
+## Studien-/Prüfungsleistungen§pathlabel:/mi-2017/modulbeschreibungen-master/MA_HCI_InteractionDesign§
 
 Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
 
 Projektdokumentation und Designartefakte (100%)
 
 
-## Medienformen:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_HCI_InteractionDesign§
+## Medienformen§pathlabel:/mi-2017/modulbeschreibungen-master/MA_HCI_InteractionDesign§
 
 - Beamer-gestützte Vorlesungen
 
@@ -678,7 +710,7 @@ Projektdokumentation und Designartefakte (100%)
 - Präsentationsmaterialien
 
 
-## Literatur:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_HCI_InteractionDesign§
+## Literatur§pathlabel:/mi-2017/modulbeschreibungen-master/MA_HCI_InteractionDesign§
 
 - Winograd, Terry (ed.), Bringing Design to Software, Addison Wesley, 1996, ISBN: 0-201-85491-0
 
@@ -706,15 +738,15 @@ Projektdokumentation und Designartefakte (100%)
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Gerhard Hartmann%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 2%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 1%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktmodul%end-modulMeta%%begin-modulMeta%**Pflichtmodul im Schwerpunkt**: Human-Computer Interaction%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Gerhard Hartmann%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 2%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 1%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden%end-modulMeta%%begin-modulMeta%**Empfohlene Voraussetzungen**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktmodul%end-modulMeta%%begin-modulMeta%**Pflichtmodul im Schwerpunkt**: Human-Computer Interaction%end-modulMeta%
 
 
-## Lehrform/SWS:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_HCI_Modul_Statistical_Methods_for_HCI§
+## Lehrform/SWS§pathlabel:/mi-2017/modulbeschreibungen-master/MA_HCI_Modul_Statistical_Methods_for_HCI§
 
 4 SWS: Vorlesung 2 SWS; Übung / Projekt 2 SWS
 
 
-## Arbeitsaufwand:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_HCI_Modul_Statistical_Methods_for_HCI§
+## Arbeitsaufwand§pathlabel:/mi-2017/modulbeschreibungen-master/MA_HCI_Modul_Statistical_Methods_for_HCI§
 
 Gesamtaufwand 180 Stunden, davon
 
@@ -725,14 +757,14 @@ Gesamtaufwand 180 Stunden, davon
 - 108h Selbststudium
 
 
-## Angestrebte Lernergebnisse:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_HCI_Modul_Statistical_Methods_for_HCI§
+## Angestrebte Lernergebnisse§pathlabel:/mi-2017/modulbeschreibungen-master/MA_HCI_Modul_Statistical_Methods_for_HCI§
 
 Die Studierenden sind in der Lage empirische Daten so darzustellen, dass wesentlichen Strukturen erkennbar sind. Die Studierenden können angemessene Kennzahlen und Verfahren zur Charakterisierung von empirischen Daten spezifizieren und ermitteln. Sie beherrschen wesentliche Konzepte zur Visualisierung von empirischen Daten und können erste (explorative) Analysen durchführen. 
 
 Die Studierenden kennen grundlegende Konzepte und Verfahren der Inferenzstatistik. Sie sind in der Lage, empirische Daten zu analysieren, Hypothesen zu testen und die Ergebnisse hinsichtlich empirischer Fragestellungen zu interpretieren. Sie können Gütekriterien zur Auswahl unterschiedlicher Verfahren benennen und anwenden.
 
 
-## Inhalt:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_HCI_Modul_Statistical_Methods_for_HCI§
+## Inhalt§pathlabel:/mi-2017/modulbeschreibungen-master/MA_HCI_Modul_Statistical_Methods_for_HCI§
 
 Merkmale und Skalen, univariante Häufigkeitsverteilungen, Lagemaße, Streuung und Schiefe, Konzentration, bivariate Häufigkeitsverteilungen und Kontingenz, Korrelations- und Regressionsanalyse, Verhältnis – und Indexzahlen.
 
@@ -741,19 +773,19 @@ Diskrete und Stetige Zufallsvariablen, Population und Parameterschätzung, Hypot
 Konfidenzintervalle, Fehlertypen, Effektstärken und Power, multivariate Verfahren (ein- und mehrfaktorielle Varianzanalysen und entsprechendes Forschungsdesign).
 
 
-## Studien-/Prüfungsleistungen:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_HCI_Modul_Statistical_Methods_for_HCI§
+## Studien-/Prüfungsleistungen§pathlabel:/mi-2017/modulbeschreibungen-master/MA_HCI_Modul_Statistical_Methods_for_HCI§
 
 Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
 
 - Schriftliche Modulprüfung (100%)
 
 
-## Medienformen:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_HCI_Modul_Statistical_Methods_for_HCI§
+## Medienformen§pathlabel:/mi-2017/modulbeschreibungen-master/MA_HCI_Modul_Statistical_Methods_for_HCI§
 
 -	Beamer-gestützte Vorlesungen (Vorlesungschrift mittels tablet) und Übungsaufgaben
 
 
-## Literatur:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_HCI_Modul_Statistical_Methods_for_HCI§
+## Literatur§pathlabel:/mi-2017/modulbeschreibungen-master/MA_HCI_Modul_Statistical_Methods_for_HCI§
 
 - Statistik für Human- und Sozialwissenschaftler”; J. Bortz und C. Schuster, Springer, 2010
 
@@ -769,15 +801,15 @@ Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern ang
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Gerhard Hartmann%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 1%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden%end-modulMeta%%begin-modulMeta%**Typ**: Wahlpflichtmodul%end-modulMeta%%begin-modulMeta%**Pflichtmodul im Schwerpunkt**: Human-Computer Interaction%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Gerhard Hartmann%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 1%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden%end-modulMeta%%begin-modulMeta%**Empfohlene Voraussetzungen**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Wahlpflichtmodul%end-modulMeta%%begin-modulMeta%**Pflichtmodul im Schwerpunkt**: Human-Computer Interaction%end-modulMeta%
 
 
-## Lehrform/SWS:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_HCI_Sketching_and_Designing_for_User_Experience§
+## Lehrform/SWS§pathlabel:/mi-2017/modulbeschreibungen-master/MA_HCI_Sketching_and_Designing_for_User_Experience§
 
 4 SWS: Vorlesung 2 SWS; Übung / Projekt 2 SWS
 
 
-## Arbeitsaufwand:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_HCI_Sketching_and_Designing_for_User_Experience§
+## Arbeitsaufwand§pathlabel:/mi-2017/modulbeschreibungen-master/MA_HCI_Sketching_and_Designing_for_User_Experience§
 
 Gesamtaufwand 180 Stunden, davon
 
@@ -788,12 +820,12 @@ Gesamtaufwand 180 Stunden, davon
 - 108h Selbststudium
 
 
-## Angestrebte Lernergebnisse:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_HCI_Sketching_and_Designing_for_User_Experience§
+## Angestrebte Lernergebnisse§pathlabel:/mi-2017/modulbeschreibungen-master/MA_HCI_Sketching_and_Designing_for_User_Experience§
 
 Die Studierenden sind in der Lage de- und präskriptiv Nutzer- oder deren nutzungsbezogene Sachverhalte oder Situationen mit einem umfänglichen Vokabular visuell-graphisch adäquat für verschiedene Stakeholder auszudrücken. Sie können kognitive und emotionale Schemata identifizieren, analysieren, modellieren und aus den Modellen Designlösungen für interaktive Systeme generieren und skizzieren.
 
 
-## Inhalt:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_HCI_Sketching_and_Designing_for_User_Experience§
+## Inhalt§pathlabel:/mi-2017/modulbeschreibungen-master/MA_HCI_Sketching_and_Designing_for_User_Experience§
 
 - User Experience Modelle
 
@@ -806,14 +838,14 @@ Die Studierenden sind in der Lage de- und präskriptiv Nutzer- oder deren nutzun
 - Prototyping
 
 
-## Studien-/Prüfungsleistungen:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_HCI_Sketching_and_Designing_for_User_Experience§
+## Studien-/Prüfungsleistungen§pathlabel:/mi-2017/modulbeschreibungen-master/MA_HCI_Sketching_and_Designing_for_User_Experience§
 
 Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
 
 - Projektpräsentationsprüfung (100%)
 
 
-## Medienformen:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_HCI_Sketching_and_Designing_for_User_Experience§
+## Medienformen§pathlabel:/mi-2017/modulbeschreibungen-master/MA_HCI_Sketching_and_Designing_for_User_Experience§
 
 - Lehrfilme,
 
@@ -822,7 +854,7 @@ Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern ang
 - ebooks
 
 
-## Literatur:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_HCI_Sketching_and_Designing_for_User_Experience§
+## Literatur§pathlabel:/mi-2017/modulbeschreibungen-master/MA_HCI_Sketching_and_Designing_for_User_Experience§
 
 - Bill Buxton “Sketching User Experience”, Focal Press, 2007
 
@@ -836,25 +868,25 @@ Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern ang
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Kristian Fischer, Prof. Dr. Mario Winter, Prof. Hans Kornacher, Prof. Dr. Martin Eisemann, Prof. Dr. Christian Kohls, Prof. Dr. Gerhard Hartmann%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 2%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 3%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 12%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktprojekt%end-modulMeta%%begin-modulMeta%**Pflichtmodul in den Schwerpunkten**: Weaving the Web, Social Computing, Visual Computing, Multiperspective Product Development, Human-Computer Interaction%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Kristian Fischer, Prof. Dr. Mario Winter, Prof. Hans Kornacher, Prof. Dr. Martin Eisemann, Prof. Dr. Christian Kohls, Prof. Dr. Gerhard Hartmann%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 2%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 3%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 12%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden%end-modulMeta%%begin-modulMeta%**Empfohlene Voraussetzungen**: Algorithmen und Programmierung I und II (Bachelor), Softwaretechnik (Bachelor)%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktprojekt%end-modulMeta%%begin-modulMeta%**Pflichtmodul in den Schwerpunkten**: Weaving the Web, Social Computing, Visual Computing, Multiperspective Product Development, Human-Computer Interaction%end-modulMeta%
 
 
-## Kurzbeschreibung:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_Modul_Projekt_Entwicklung§
+## Kurzbeschreibung§pathlabel:/mi-2017/modulbeschreibungen-master/MA_Modul_Projekt_Entwicklung§
 
 In einem Projekt wird, basierend auf einem bereits erstellten Konzept, ein „minimal viable Prototype“ entwickelt oder weiterentwickelt.
 
 
-## Lehrform/SWS:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_Modul_Projekt_Entwicklung§
+## Lehrform/SWS§pathlabel:/mi-2017/modulbeschreibungen-master/MA_Modul_Projekt_Entwicklung§
 
 Projektarbeit
 
 
-## Arbeitsaufwand:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_Modul_Projekt_Entwicklung§
+## Arbeitsaufwand§pathlabel:/mi-2017/modulbeschreibungen-master/MA_Modul_Projekt_Entwicklung§
 
 360 Stunden
 
 
-## Angestrebte Lernergebnisse:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_Modul_Projekt_Entwicklung§
+## Angestrebte Lernergebnisse§pathlabel:/mi-2017/modulbeschreibungen-master/MA_Modul_Projekt_Entwicklung§
 
 Die Studierenden
 
@@ -867,7 +899,7 @@ Die Studierenden
 - können ihr Projekt so dokumentieren, dass es von einem anderen Team weitergeführt und -entwickelt werden kann.
 
 
-## Inhalt:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_Modul_Projekt_Entwicklung§
+## Inhalt§pathlabel:/mi-2017/modulbeschreibungen-master/MA_Modul_Projekt_Entwicklung§
 
 Das Projekt gliedert sich in zwei Teile:
 
@@ -876,7 +908,7 @@ Das Projekt gliedert sich in zwei Teile:
 - Zur Unterstützung werden Workshops/Seminare in den Bereichen Projektmanagement und Code-Management (Beautiful Code) angeboten.
 
 
-## Studien-/Prüfungsleistungen:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_Modul_Projekt_Entwicklung§
+## Studien-/Prüfungsleistungen§pathlabel:/mi-2017/modulbeschreibungen-master/MA_Modul_Projekt_Entwicklung§
 
 Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
 
@@ -887,12 +919,12 @@ Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern ang
 - Code-Management (Beautiful Code) (25%)
 
 
-## Medienformen:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_Modul_Projekt_Entwicklung§
+## Medienformen§pathlabel:/mi-2017/modulbeschreibungen-master/MA_Modul_Projekt_Entwicklung§
 
 Entwicklungsumgebung mit Artefakt-Repository, Kollaborationssysteme
 
 
-## Literatur:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_Modul_Projekt_Entwicklung§
+## Literatur§pathlabel:/mi-2017/modulbeschreibungen-master/MA_Modul_Projekt_Entwicklung§
 
 Je nach fachlicher Aufgabe
 
@@ -902,27 +934,27 @@ Je nach fachlicher Aufgabe
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Kristian Fischer, Prof. Dr. Mario Winter, Prof. Dr. Martin Eisemann, Prof. Dr. Christian Kohls, Prof. Dr. Gerhard Hartmann%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 3%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 1%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 12%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktprojekt%end-modulMeta%%begin-modulMeta%**Pflichtmodul in den Schwerpunkten**: Weaving the Web, Social Computing, Visual Computing, Multiperspective Product Development, Human-Computer Interaction%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Kristian Fischer, Prof. Dr. Mario Winter, Prof. Dr. Martin Eisemann, Prof. Dr. Christian Kohls, Prof. Dr. Gerhard Hartmann%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 3%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 1%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 12%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden%end-modulMeta%%begin-modulMeta%**Empfohlene Voraussetzungen**: Algorithmen und Programmierung I und II (Bachelor), Softwaretechnik (Bachelor), BWL I - Grundlagen (Bachelor)%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktprojekt%end-modulMeta%%begin-modulMeta%**Pflichtmodul in den Schwerpunkten**: Weaving the Web, Social Computing, Visual Computing, Multiperspective Product Development, Human-Computer Interaction%end-modulMeta%
 
 
-## Kurzbeschreibung:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_Modul_Projekt_Verwertung§
+## Kurzbeschreibung§pathlabel:/mi-2017/modulbeschreibungen-master/MA_Modul_Projekt_Verwertung§
 
 Auf Basis eines bereits ausgearbeiteten Prototypen werden in diesem Modul die Schritte Deployment, Qualitätssicherung und Evaluierung, Kontinuierliche Integration sowie Produktmanagement und -marketing geplant, durchgeführt und kritisch reflektiert.
 
 Bei einem Projekt mit Forschungsschwerpunkt werden die Schritte Entwicklung, Qualitätssicherung und Evaluierung, kritischer Vergleich, wissenschaftliches Schreiben und Präsentation geplant, durchgeführt und kritisch reflektiert.
 
 
-## Lehrform/SWS:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_Modul_Projekt_Verwertung§
+## Lehrform/SWS§pathlabel:/mi-2017/modulbeschreibungen-master/MA_Modul_Projekt_Verwertung§
 
 Projektarbeit
 
 
-## Arbeitsaufwand:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_Modul_Projekt_Verwertung§
+## Arbeitsaufwand§pathlabel:/mi-2017/modulbeschreibungen-master/MA_Modul_Projekt_Verwertung§
 
 360 Stunden
 
 
-## Angestrebte Lernergebnisse:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_Modul_Projekt_Verwertung§
+## Angestrebte Lernergebnisse§pathlabel:/mi-2017/modulbeschreibungen-master/MA_Modul_Projekt_Verwertung§
 
 Die Studentinnen und Studenten
 
@@ -935,7 +967,7 @@ Die Studentinnen und Studenten
 - können ihre Projektergebnisse so dokumentieren, dass das Projekt von einem anderen Team weitergeführt werden kann.
 
 
-## Inhalt:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_Modul_Projekt_Verwertung§
+## Inhalt§pathlabel:/mi-2017/modulbeschreibungen-master/MA_Modul_Projekt_Verwertung§
 
 Das Projekt gliedert sich in zwei Teile:
 
@@ -946,7 +978,7 @@ Das Projekt gliedert sich in zwei Teile:
 - Zur Unterstützung werden Workshops/Seminare in den Bereichen Forschung, Produkt Management, Qualitätssicherung und -Management sowie Medien- und Vertragsrecht angeboten.
 
 
-## Studien-/Prüfungsleistungen:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_Modul_Projekt_Verwertung§
+## Studien-/Prüfungsleistungen§pathlabel:/mi-2017/modulbeschreibungen-master/MA_Modul_Projekt_Verwertung§
 
 Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
 
@@ -955,12 +987,12 @@ Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern ang
 - Entrepreneurship und Businessplan (50%)
 
 
-## Medienformen:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_Modul_Projekt_Verwertung§
+## Medienformen§pathlabel:/mi-2017/modulbeschreibungen-master/MA_Modul_Projekt_Verwertung§
 
 Entwicklungs- und Deployment-Umgebung mit Artefakt-Repository, Kollaborationssysteme
 
 
-## Literatur:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_Modul_Projekt_Verwertung§
+## Literatur§pathlabel:/mi-2017/modulbeschreibungen-master/MA_Modul_Projekt_Verwertung§
 
 Je nach Studienschwerpunkt und fachlicher Aufgabe
 
@@ -970,25 +1002,25 @@ Je nach Studienschwerpunkt und fachlicher Aufgabe
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Kristian Fischer, Prof. Dr. Mario Winter, Prof. Dr. Martin Eisemann, Prof. Dr. Christian Kohls, Prof. Dr. Gerhard Hartmann%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 1%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 12%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktprojekt%end-modulMeta%%begin-modulMeta%**Pflichtmodul in den Schwerpunkten**: Weaving the Web, Social Computing, Visual Computing, Multiperspective Product Development, Human-Computer Interaction%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Kristian Fischer, Prof. Dr. Mario Winter, Prof. Dr. Martin Eisemann, Prof. Dr. Christian Kohls, Prof. Dr. Gerhard Hartmann%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 1%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 12%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden%end-modulMeta%%begin-modulMeta%**Empfohlene Voraussetzungen**: Einführung in die Medieninformatik (Bachelor), Mensch-Computer Interaktion (Bachelor)%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktprojekt%end-modulMeta%%begin-modulMeta%**Pflichtmodul in den Schwerpunkten**: Weaving the Web, Social Computing, Visual Computing, Multiperspective Product Development, Human-Computer Interaction%end-modulMeta%
 
 
-## Kurzbeschreibung:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_Modul_Projekt_Vision&Konzept§
+## Kurzbeschreibung§pathlabel:/mi-2017/modulbeschreibungen-master/MA_Modul_Projekt_Vision&Konzept§
 
 In einem Projekt wird eine Idee für ein Produkt oder einen Dienst entwickelt oder weiterentwickelt, eine Recherche des Marktes und Standes von Wissenschaft und Technik durchgeführt, und ein Konzept soweit definiert und dokumentiert, dass in einem nachfolgenden Projekt ein Entwicklerteam in der Lage ist, einen ersten Prototyp zu realisieren oder zu erweitern.
 
 
-## Lehrform/SWS:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_Modul_Projekt_Vision&Konzept§
+## Lehrform/SWS§pathlabel:/mi-2017/modulbeschreibungen-master/MA_Modul_Projekt_Vision&Konzept§
 
 Projektarbeit
 
 
-## Arbeitsaufwand:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_Modul_Projekt_Vision&Konzept§
+## Arbeitsaufwand§pathlabel:/mi-2017/modulbeschreibungen-master/MA_Modul_Projekt_Vision&Konzept§
 
 360 Stunden
 
 
-## Angestrebte Lernergebnisse:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_Modul_Projekt_Vision&Konzept§
+## Angestrebte Lernergebnisse§pathlabel:/mi-2017/modulbeschreibungen-master/MA_Modul_Projekt_Vision&Konzept§
 
 Die Studentinnen und Studenten
 
@@ -1003,7 +1035,7 @@ Die Studentinnen und Studenten
 - können ein Konzept so dokumentieren, dass es von einem anderen Projektteam weitergeführt und -entwickelt werden kann.
 
 
-## Inhalt:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_Modul_Projekt_Vision&Konzept§
+## Inhalt§pathlabel:/mi-2017/modulbeschreibungen-master/MA_Modul_Projekt_Vision&Konzept§
 
 Das Projekt gliedert sich in zwei Teile:
 
@@ -1012,7 +1044,7 @@ Das Projekt gliedert sich in zwei Teile:
 - In dem Teil „Advanced Seminar“ recherchieren und erschließen die Studierenden im Selbststudium für den Projektgegenstand relevante Literatur zum Stand von Wissenschaft und Technik. Sie wenden auch Analysetechniken für die Bewertung vorhandener kommerziellen Lösungen an. Hierbei kann es sich sowohl um Konkurrenzprodukte handeln als auch um Dienste oder Frameworks, auf die der Projektgegenstand aufbauen könnte. Als Schwerpunkt dieses Teils identifizieren die Studierenden wissenschaftliche Felder, die für den Projektgegenstand relevant sind, recherchieren entsprechende Literatur und vermitteln und diskutieren diese in einem wissenschaftlichen Seminar.
 
 
-## Studien-/Prüfungsleistungen:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_Modul_Projekt_Vision&Konzept§
+## Studien-/Prüfungsleistungen§pathlabel:/mi-2017/modulbeschreibungen-master/MA_Modul_Projekt_Vision&Konzept§
 
 Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
 
@@ -1021,12 +1053,12 @@ Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern ang
 - Projektergebnis und -dokumentation (50%)
 
 
-## Medienformen:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_Modul_Projekt_Vision&Konzept§
+## Medienformen§pathlabel:/mi-2017/modulbeschreibungen-master/MA_Modul_Projekt_Vision&Konzept§
 
 Artefakt-Repository, Kollaborationssysteme
 
 
-## Literatur:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_Modul_Projekt_Vision&Konzept§
+## Literatur§pathlabel:/mi-2017/modulbeschreibungen-master/MA_Modul_Projekt_Vision&Konzept§
 
 Je nach Studienschwerpunkt und fachlicher Aufgabe
 
@@ -1036,20 +1068,20 @@ Je nach Studienschwerpunkt und fachlicher Aufgabe
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Kristian Fischer%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 2%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 1%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktmodul%end-modulMeta%%begin-modulMeta%**Pflichtmodul im Schwerpunkt**: Social Computing%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Kristian Fischer%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 2%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 1%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden%end-modulMeta%%begin-modulMeta%**Empfohlene Voraussetzungen**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktmodul%end-modulMeta%%begin-modulMeta%**Pflichtmodul im Schwerpunkt**: Social Computing%end-modulMeta%
 
 
-## Kurzbeschreibung:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_SC_Modul_Netzwerk--und-Graphentheorie§
+## Kurzbeschreibung§pathlabel:/mi-2017/modulbeschreibungen-master/MA_SC_Modul_Netzwerk--und-Graphentheorie§
 
 Es werden Grundlagen für die Analyse und algorithmische Verarbeitung von Graph basierten Daten, insbesondere von Daten sozialer Netze eingeführt. 
 
 
-## Lehrform/SWS:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_SC_Modul_Netzwerk--und-Graphentheorie§
+## Lehrform/SWS§pathlabel:/mi-2017/modulbeschreibungen-master/MA_SC_Modul_Netzwerk--und-Graphentheorie§
 
 4 SWS: Vorlesung 2 SWS; Übung 2 SWS
 
 
-## Arbeitsaufwand:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_SC_Modul_Netzwerk--und-Graphentheorie§
+## Arbeitsaufwand§pathlabel:/mi-2017/modulbeschreibungen-master/MA_SC_Modul_Netzwerk--und-Graphentheorie§
 
 Gesamtaufwand 180 Stunden, davon
 
@@ -1060,7 +1092,7 @@ Gesamtaufwand 180 Stunden, davon
 - 102h Selbststudium 
 
 
-## Angestrebte Lernergebnisse:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_SC_Modul_Netzwerk--und-Graphentheorie§
+## Angestrebte Lernergebnisse§pathlabel:/mi-2017/modulbeschreibungen-master/MA_SC_Modul_Netzwerk--und-Graphentheorie§
 
 Die Studierenden
 
@@ -1073,7 +1105,7 @@ Die Studierenden
 um Methoden und Techniken zur Analyse sozialer und ggfs. anderer Netze auswählen zu können.
 
 
-## Inhalt:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_SC_Modul_Netzwerk--und-Graphentheorie§
+## Inhalt§pathlabel:/mi-2017/modulbeschreibungen-master/MA_SC_Modul_Netzwerk--und-Graphentheorie§
 
 - Empirische Untersuchung von Netzwerken: technische Netze, Informationsnetze, soziale Netze
 
@@ -1084,21 +1116,21 @@ um Methoden und Techniken zur Analyse sozialer und ggfs. anderer Netze auswähle
 - Graph und Netzwerk Algorithmen
 
 
-## Studien-/Prüfungsleistungen:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_SC_Modul_Netzwerk--und-Graphentheorie§
+## Studien-/Prüfungsleistungen§pathlabel:/mi-2017/modulbeschreibungen-master/MA_SC_Modul_Netzwerk--und-Graphentheorie§
 
 Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
 
 - Mündliche Prüfung (100%)
 
 
-## Medienformen:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_SC_Modul_Netzwerk--und-Graphentheorie§
+## Medienformen§pathlabel:/mi-2017/modulbeschreibungen-master/MA_SC_Modul_Netzwerk--und-Graphentheorie§
 
 * Präsentationsmaterialien
 
 * Arbeitsblätter
 
 
-## Literatur:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_SC_Modul_Netzwerk--und-Graphentheorie§
+## Literatur§pathlabel:/mi-2017/modulbeschreibungen-master/MA_SC_Modul_Netzwerk--und-Graphentheorie§
 
 - M.E.J. Newman: Networks - An Introduction, Oxford University Press 2010
 
@@ -1116,15 +1148,15 @@ Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern ang
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Christian Kohls%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 1%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktmodul%end-modulMeta%%begin-modulMeta%**Pflichtmodul im Schwerpunkt**: Social Computing%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Christian Kohls%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 1%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden%end-modulMeta%%begin-modulMeta%**Empfohlene Voraussetzungen**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktmodul%end-modulMeta%%begin-modulMeta%**Pflichtmodul im Schwerpunkt**: Social Computing%end-modulMeta%
 
 
-## Lehrform/SWS:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_SC_Soziotechnische_Entwurfsmuster§
+## Lehrform/SWS§pathlabel:/mi-2017/modulbeschreibungen-master/MA_SC_Soziotechnische_Entwurfsmuster§
 
 4 SWS: Vorlesung 2 SWS; Projekt 2 SWS
 
 
-## Arbeitsaufwand:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_SC_Soziotechnische_Entwurfsmuster§
+## Arbeitsaufwand§pathlabel:/mi-2017/modulbeschreibungen-master/MA_SC_Soziotechnische_Entwurfsmuster§
 
 Gesamtaufwand 180 Stunden, davon 
 
@@ -1135,7 +1167,7 @@ Gesamtaufwand 180 Stunden, davon
 - 108h Selbststudium 
 
 
-## Angestrebte Lernergebnisse:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_SC_Soziotechnische_Entwurfsmuster§
+## Angestrebte Lernergebnisse§pathlabel:/mi-2017/modulbeschreibungen-master/MA_SC_Soziotechnische_Entwurfsmuster§
 
 Die Studierenden sollen:
 
@@ -1148,7 +1180,7 @@ Die Studierenden sollen:
 - Konstruktives Feedback und Verbesserungsvorschläge für Entwurfsmuster geben können (Peer-Feedback)
 
 
-## Inhalt:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_SC_Soziotechnische_Entwurfsmuster§
+## Inhalt§pathlabel:/mi-2017/modulbeschreibungen-master/MA_SC_Soziotechnische_Entwurfsmuster§
 
 - Pattern Theorie nach Christopher Alexander
 
@@ -1173,14 +1205,14 @@ Die Studierenden sollen:
 - Schreiben von Entwurfsmustern
 
 
-## Studien-/Prüfungsleistungen:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_SC_Soziotechnische_Entwurfsmuster§
+## Studien-/Prüfungsleistungen§pathlabel:/mi-2017/modulbeschreibungen-master/MA_SC_Soziotechnische_Entwurfsmuster§
 
 Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
 
 - Schriftliche Ausarbeitung (100%)
 
 
-## Medienformen:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_SC_Soziotechnische_Entwurfsmuster§
+## Medienformen§pathlabel:/mi-2017/modulbeschreibungen-master/MA_SC_Soziotechnische_Entwurfsmuster§
 
 - Beamer-gestützte Vorlesungen (Folien in elektronischer Form)
 
@@ -1191,7 +1223,7 @@ Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern ang
 - Writers Workshop: Peer Feedback zu schriftlichen Ausarbeitung
 
 
-## Literatur:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_SC_Soziotechnische_Entwurfsmuster§
+## Literatur§pathlabel:/mi-2017/modulbeschreibungen-master/MA_SC_Soziotechnische_Entwurfsmuster§
 
 - Alexander, C., Ishikawa, S., Silverstein, M., Jacobson, M., Fiksdahl-King, I., & Angel, S. (1977). A pattern language. New York, USA: Oxford University Press.
 
@@ -1215,15 +1247,15 @@ Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern ang
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Christian Kohls%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 1%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden%end-modulMeta%%begin-modulMeta%**Typ**: Wahlpflichtmodul%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Christian Kohls%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 1%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden%end-modulMeta%%begin-modulMeta%**Empfohlene Voraussetzungen**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Wahlpflichtmodul%end-modulMeta%
 
 
-## Lehrform/SWS:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_SC_WPF_CSCL§
+## Lehrform/SWS§pathlabel:/mi-2017/modulbeschreibungen-master/MA_SC_WPF_CSCL§
 
 6 SWS: Vorlesung 2 SWS; Übung / Projekt 2 SWS
 
 
-## Arbeitsaufwand:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_SC_WPF_CSCL§
+## Arbeitsaufwand§pathlabel:/mi-2017/modulbeschreibungen-master/MA_SC_WPF_CSCL§
 
 Gesamtaufwand 180 Stunden, davon 
 
@@ -1234,7 +1266,7 @@ Gesamtaufwand 180 Stunden, davon
 - 108h Selbststudium
 
 
-## Angestrebte Lernergebnisse:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_SC_WPF_CSCL§
+## Angestrebte Lernergebnisse§pathlabel:/mi-2017/modulbeschreibungen-master/MA_SC_WPF_CSCL§
 
 Die Studierenden sollen:
 
@@ -1247,7 +1279,7 @@ Die Studierenden sollen:
 - Methoden für die nahtlose Integration von Präsenz- und Onlinephasen beherrschen (z.B. Blended Learning, Vor- und Nachbereitung von Meetings)
 
 
-## Inhalt:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_SC_WPF_CSCL§
+## Inhalt§pathlabel:/mi-2017/modulbeschreibungen-master/MA_SC_WPF_CSCL§
 
 - Klassifizierung von Systemen für die rechnergestützte Gruppenarbeit
 
@@ -1270,14 +1302,14 @@ Die Studierenden sollen:
 - Planung und Produktion von digitalen Lernmaterialien
 
 
-## Studien-/Prüfungsleistungen:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_SC_WPF_CSCL§
+## Studien-/Prüfungsleistungen§pathlabel:/mi-2017/modulbeschreibungen-master/MA_SC_WPF_CSCL§
 
 Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
 
 Planung und Durchführung einer ca. 15 minütigen Onlineveranstaltung (100% der Note)
 
 
-## Medienformen:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_SC_WPF_CSCL§
+## Medienformen§pathlabel:/mi-2017/modulbeschreibungen-master/MA_SC_WPF_CSCL§
 
 - Beamer-gestützte Vorlesungen (Folien in elektronischer Form)
 
@@ -1286,7 +1318,7 @@ Planung und Durchführung einer ca. 15 minütigen Onlineveranstaltung (100% der 
 - Projekte in Kleingruppen, um die erlernten Methoden und Techniken einzuüben und zu vertiefen (Kollaborationsraum mit Videokonferenz und digitalen Arbeitsmitteln
 
 
-## Literatur:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_SC_WPF_CSCL§
+## Literatur§pathlabel:/mi-2017/modulbeschreibungen-master/MA_SC_WPF_CSCL§
 
 - Bauer, R., & Waxmann Verlag. (2015). Didaktische Entwurfsmuster: Der Muster-Ansatz von Christopher Alexander und Implikationen für die Unterrichtsgestaltung. 
 
@@ -1318,15 +1350,15 @@ Planung und Durchführung einer ca. 15 minütigen Onlineveranstaltung (100% der 
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Christian Kohls%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 1%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden%end-modulMeta%%begin-modulMeta%**Typ**: Wahlpflichtmodul%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Christian Kohls%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 1%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden%end-modulMeta%%begin-modulMeta%**Empfohlene Voraussetzungen**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Wahlpflichtmodul%end-modulMeta%
 
 
-## Lehrform/SWS:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_SC_WPF_eScience§
+## Lehrform/SWS§pathlabel:/mi-2017/modulbeschreibungen-master/MA_SC_WPF_eScience§
 
 4 SWS: Vorlesung 2 SWS; Projekt 2 SWS
 
 
-## Arbeitsaufwand:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_SC_WPF_eScience§
+## Arbeitsaufwand§pathlabel:/mi-2017/modulbeschreibungen-master/MA_SC_WPF_eScience§
 
 Gesamtaufwand 180 Stunden, davon 
 
@@ -1337,12 +1369,12 @@ Gesamtaufwand 180 Stunden, davon
 - 108h Selbststudium
 
 
-## Angestrebte Lernergebnisse:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_SC_WPF_eScience§
+## Angestrebte Lernergebnisse§pathlabel:/mi-2017/modulbeschreibungen-master/MA_SC_WPF_eScience§
 
 Die Studierenden sollen quantitative und qualitative Forschungsmethoden mithilfe digitaler Medien durchführen können. Sie sollen elektronische Werkzeuge für die Datenerhebung und -auswertung beherrschen können. Sie sollen in der Lage sein, Forschungsergebnisse online zu diskutieren, sich international mit Forscherkollegen zu vernetzen und interdisziplinäre Forschungsprojekte durchzuführen. Zudem sollen Studierende in der Lage sein digitale Arbeitsumgebungen für die wissenschaftliche Zusammenarbeit zu gestalten.
 
 
-## Inhalt:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_SC_WPF_eScience§
+## Inhalt§pathlabel:/mi-2017/modulbeschreibungen-master/MA_SC_WPF_eScience§
 
 - Online-Interviews
 
@@ -1361,21 +1393,21 @@ Die Studierenden sollen quantitative und qualitative Forschungsmethoden mithilfe
 - Systeme für Peer-Reviews
 
 
-## Studien-/Prüfungsleistungen:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_SC_WPF_eScience§
+## Studien-/Prüfungsleistungen§pathlabel:/mi-2017/modulbeschreibungen-master/MA_SC_WPF_eScience§
 
 Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
 
 - Mündiche Prüfung (!00%)
 
 
-## Medienformen:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_SC_WPF_eScience§
+## Medienformen§pathlabel:/mi-2017/modulbeschreibungen-master/MA_SC_WPF_eScience§
 
 - Beamer-gestützte Vorlesungen (Folien in elektronischer Form)
 
 - Skript und Handouts
 
 
-## Literatur:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_SC_WPF_eScience§
+## Literatur§pathlabel:/mi-2017/modulbeschreibungen-master/MA_SC_WPF_eScience§
 
 - Döring, N. & Bortz, J. (2015). Forschungsmethoden und Evaluation: Für Human- und Sozialwissenschaftler. Berlin [u.a.]: Springer.
 
@@ -1393,22 +1425,22 @@ Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern ang
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Martin Eisemann%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 1%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: wahlweise deutsch oder englisch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktmodul%end-modulMeta%%begin-modulMeta%**Pflichtmodul im Schwerpunkt**: Visual Computing%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Martin Eisemann%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 1%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: wahlweise deutsch oder englisch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden%end-modulMeta%%begin-modulMeta%**Empfohlene Voraussetzungen**: Computergrafik und Animation (Bachelor), Algorithmen und Programmierung 1 und 2 (Bachelor), Mathematik 1 und 2 (Bachelor)%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktmodul%end-modulMeta%%begin-modulMeta%**Pflichtmodul im Schwerpunkt**: Visual Computing%end-modulMeta%
 
 
-## Kurzbeschreibung:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_VC_Modul_BildbasierteComputergrafik§
+## Kurzbeschreibung§pathlabel:/mi-2017/modulbeschreibungen-master/MA_VC_Modul_BildbasierteComputergrafik§
 
 Diese Vorlesung gibt eine Einführung in die grundlegenden Konzepte der bildbasierten Modellierung und der bildbasierten Synthese, Techniken, auf denen z.B. viele moderne Film-Spezialeffekte basieren. 
 
 Dabei werden verschiedenste Aspekte der Bild- und Videobe- und -verarbeitung,  wie sie in modernen Bearbeitungstools vorkommen, erarbeitet und selbst implementiert. Die Teilnehmer erlernen die grundlegenden Konzepte der Modellierung anhand von Fotos realer Objekte. Es werden Methoden zur Bildaufnahme, Bildverarbeitung und Bildsynthese erarbeitet. Die Studierenden sind bei erfolgreicher Teilnahme in der Lage, im Bereich Bild- und Videobearbeitung, sowie bildbasierter Modellierung, eigenständige Beiträge in Forschung und Wirtschaft leisten zu können.
 
 
-## Lehrform/SWS:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_VC_Modul_BildbasierteComputergrafik§
+## Lehrform/SWS§pathlabel:/mi-2017/modulbeschreibungen-master/MA_VC_Modul_BildbasierteComputergrafik§
 
 4 SWS: Vorlesung 2 SWS; Praktikum / Projekt 2 SWS
 
 
-## Arbeitsaufwand:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_VC_Modul_BildbasierteComputergrafik§
+## Arbeitsaufwand§pathlabel:/mi-2017/modulbeschreibungen-master/MA_VC_Modul_BildbasierteComputergrafik§
 
 Gesamtaufwand 180 Stunden, davon
 
@@ -1419,7 +1451,7 @@ Gesamtaufwand 180 Stunden, davon
 - 108h Selbststudium
 
 
-## Angestrebte Lernergebnisse:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_VC_Modul_BildbasierteComputergrafik§
+## Angestrebte Lernergebnisse§pathlabel:/mi-2017/modulbeschreibungen-master/MA_VC_Modul_BildbasierteComputergrafik§
 
 Nach erfolgreichem Abschluss
 
@@ -1448,7 +1480,7 @@ Nach erfolgreichem Abschluss
 - haben Sie ihre Fähigkeit vertieft, sich eigenständig in neue Themenbereiche einzuarbeiten und Problemstellungen, Technologien und wissenschaftliche Erkenntnisse im Umfeld der bildbasierten Verfahren zu erkennen und sich in relevante Theorien, Methoden und Techniken, sowohl aus theoretischer als auch aus technischer Sichtweise, einzuarbeiten und das erworbene Wissen effizient in die Lösung aktueller und auch zukünftiger Frage- und Problemstellungen einzubringen und anzuwenden. Dies wird durch eigene Recherche, Vorträge und ein Abschlussprojekt realisiert.
 
 
-## Inhalt:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_VC_Modul_BildbasierteComputergrafik§
+## Inhalt§pathlabel:/mi-2017/modulbeschreibungen-master/MA_VC_Modul_BildbasierteComputergrafik§
 
 - Filterverfahren: Lineare Filter (Box-, Gauss-, Sinc-), Nichtlineare Filter (Median, Vector-Median), kantenerhaltende Filter (Bilateral, Cross-Bilateral, Guided Image Filter), Kantendetektoren (Sobel, Laplace, Canny)
 
@@ -1469,7 +1501,7 @@ Nach erfolgreichem Abschluss
 - Python, C++, Cuda, OpenCL Programmierung
 
 
-## Studien-/Prüfungsleistungen:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_VC_Modul_BildbasierteComputergrafik§
+## Studien-/Prüfungsleistungen§pathlabel:/mi-2017/modulbeschreibungen-master/MA_VC_Modul_BildbasierteComputergrafik§
 
 Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
 
@@ -1478,14 +1510,14 @@ Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern ang
 - Projektumsetzung und Dokumentation (60%)
 
 
-## Medienformen:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_VC_Modul_BildbasierteComputergrafik§
+## Medienformen§pathlabel:/mi-2017/modulbeschreibungen-master/MA_VC_Modul_BildbasierteComputergrafik§
 
 - Beamergestützte Vorlesung; 
 
 - Praktika / Projekt in Kleingruppen, um die erlernten Methoden und Techniken einzuüben und zu vertiefen (Rechnerlabor)
 
 
-## Literatur:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_VC_Modul_BildbasierteComputergrafik§
+## Literatur§pathlabel:/mi-2017/modulbeschreibungen-master/MA_VC_Modul_BildbasierteComputergrafik§
 
 - Reinhard Klette, Concise Computer Vision: An introduction into theory and algorithms, Springer, 2014- Bernd Jähne, Digitale Bildverarbeitung und Bildgewinnung, Springer, 2012
 
@@ -1503,20 +1535,20 @@ Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern ang
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Martin Eisemann%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 3%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: wahlweise deutsch oder englisch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden%end-modulMeta%%begin-modulMeta%**Typ**: Wahlpflichtmodul%end-modulMeta%%begin-modulMeta%**Pflichtmodul im Schwerpunkt**: Visual Computing%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Martin Eisemann%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 3%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: wahlweise deutsch oder englisch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden%end-modulMeta%%begin-modulMeta%**Empfohlene Voraussetzungen**: Computergrafik und Animation (Bachelor), Algorithmen und Programmierung 1 und 2 (Bachelor), Mathematik 1 und 2 (Bachelor)%end-modulMeta%%begin-modulMeta%**Typ**: Wahlpflichtmodul%end-modulMeta%%begin-modulMeta%**Pflichtmodul im Schwerpunkt**: Visual Computing%end-modulMeta%
 
 
-## Kurzbeschreibung:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_VC_Modul_PhotorealistischeBildsynthese§
+## Kurzbeschreibung§pathlabel:/mi-2017/modulbeschreibungen-master/MA_VC_Modul_PhotorealistischeBildsynthese§
 
 Die Studierenden erlernen aktuelle Techniken zur Erzeugung photorealistischer Computergrafik, wie Sie in Filmen mittels vorhanden Tools wie Blender, Maya, 3DS Max verwendet wird. Dabei liegt der Schwerpunkt nicht auf der praktischen Anwendung sondern vor allem auf den darunterliegenden Algorithmen. Ziel ist es diese zu verstehen, zu erweitern und sinnvoll anwenden zu können.
 
 
-## Lehrform/SWS:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_VC_Modul_PhotorealistischeBildsynthese§
+## Lehrform/SWS§pathlabel:/mi-2017/modulbeschreibungen-master/MA_VC_Modul_PhotorealistischeBildsynthese§
 
 4 SWS: Vorlesung 2 SWS; Praktikum / Projekt 2 SWS
 
 
-## Arbeitsaufwand:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_VC_Modul_PhotorealistischeBildsynthese§
+## Arbeitsaufwand§pathlabel:/mi-2017/modulbeschreibungen-master/MA_VC_Modul_PhotorealistischeBildsynthese§
 
 Gesamtaufwand 180 Stunden, davon
 
@@ -1527,7 +1559,7 @@ Gesamtaufwand 180 Stunden, davon
 - 108h Selbststudium
 
 
-## Angestrebte Lernergebnisse:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_VC_Modul_PhotorealistischeBildsynthese§
+## Angestrebte Lernergebnisse§pathlabel:/mi-2017/modulbeschreibungen-master/MA_VC_Modul_PhotorealistischeBildsynthese§
 
 - Die Studierenden verstehen den Bildentstehungsprozess und die physikalischen Wechselwirkungen von Licht und Licht-Materie. Sie kennen Rendering-Equation, stochastische Methoden (Monte Carlo Raytracing) und Methoden der natürlichen Beleuchtung, und erarbeiten sich damit tiefgehende Fachkenntnisse im Gebiet der photorealistischen Bildsynthese und dringen dabei bis an die Grenze des heute vorhandenen Wissens und die Spitze der aktuellen Technologie vor, bspw. auf technischer Seite durch moderne CPU/GPU Programmierung, sowie auf theoretischer Seite durch neueste Algorithmen.
 
@@ -1538,7 +1570,7 @@ Gesamtaufwand 180 Stunden, davon
 - Die Studierenden können wissenschaftlich arbeiten, kritisch reflektieren und methodische Alternativen begründet auswählen, um in der Lage zu sein auch wissenschaftliche Beiträge zur Weiterentwicklung des Gebietes der Bildsynthese zu leisten.
 
 
-## Inhalt:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_VC_Modul_PhotorealistischeBildsynthese§
+## Inhalt§pathlabel:/mi-2017/modulbeschreibungen-master/MA_VC_Modul_PhotorealistischeBildsynthese§
 
 - Objekt- und Szenenmodellierung
 
@@ -1565,21 +1597,21 @@ Gesamtaufwand 180 Stunden, davon
 - Algorithmen der digitalen Bildverarbeitung zur Filterung von Monte Carlo Simulationen
 
 
-## Studien-/Prüfungsleistungen:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_VC_Modul_PhotorealistischeBildsynthese§
+## Studien-/Prüfungsleistungen§pathlabel:/mi-2017/modulbeschreibungen-master/MA_VC_Modul_PhotorealistischeBildsynthese§
 
 Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
 
 - Klausur (90 Minuten) oder mündliche Prüfung (30 Minuten) (100%)
 
 
-## Medienformen:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_VC_Modul_PhotorealistischeBildsynthese§
+## Medienformen§pathlabel:/mi-2017/modulbeschreibungen-master/MA_VC_Modul_PhotorealistischeBildsynthese§
 
 - Beamergestützte Vorlesung
 
 - Praktika / Projekt in Kleingruppen, um die erlernten Methoden und Techniken einzuüben und zu vertiefen (Rechnerlabor)
 
 
-## Literatur:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_VC_Modul_PhotorealistischeBildsynthese§
+## Literatur§pathlabel:/mi-2017/modulbeschreibungen-master/MA_VC_Modul_PhotorealistischeBildsynthese§
 
 - Matt Pharr, Greg Humphreys: Physically Based Rendering, 3rd Edition, Morgan Kaufmann 2016.
 
@@ -1597,20 +1629,20 @@ Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern ang
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: Prof. Hans Kornacher%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 1%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktmodul%end-modulMeta%%begin-modulMeta%**Pflichtmodul im Schwerpunkt**: Visual Computing%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: Prof. Hans Kornacher%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 1%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden%end-modulMeta%%begin-modulMeta%**Empfohlene Voraussetzungen**: Audiovisuelles Medienprojekt (Bachelor)%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktmodul%end-modulMeta%%begin-modulMeta%**Pflichtmodul im Schwerpunkt**: Visual Computing%end-modulMeta%
 
 
-## Kurzbeschreibung:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_VC_Modul_Storytelling§
+## Kurzbeschreibung§pathlabel:/mi-2017/modulbeschreibungen-master/MA_VC_Modul_Storytelling§
 
 Das Modul führt in die grundlegenden narrativen Modelle in unterschiedlichen Medien und Kontexten ein. Die Studierenden lernen diese Konzepte zu verstehen und sinnvoll einzusetzen.
 
 
-## Lehrform/SWS:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_VC_Modul_Storytelling§
+## Lehrform/SWS§pathlabel:/mi-2017/modulbeschreibungen-master/MA_VC_Modul_Storytelling§
 
 4 SWS: Vorlesung 2 SWS; Projekt 2 SWS
 
 
-## Arbeitsaufwand:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_VC_Modul_Storytelling§
+## Arbeitsaufwand§pathlabel:/mi-2017/modulbeschreibungen-master/MA_VC_Modul_Storytelling§
 
 Gesamtaufwand 180 Stunden, davon 
 
@@ -1621,7 +1653,7 @@ Gesamtaufwand 180 Stunden, davon
 - 108h Selbststudium
 
 
-## Angestrebte Lernergebnisse:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_VC_Modul_Storytelling§
+## Angestrebte Lernergebnisse§pathlabel:/mi-2017/modulbeschreibungen-master/MA_VC_Modul_Storytelling§
 
 Die Studierenden kennen die grundlegenden narrativen Modelle in unterschiedlichen Medien und Kontexten.
 
@@ -1632,7 +1664,7 @@ Die Studierenden haben die Entwicklungs- und Methodenkompetenz auf dem Gebiet de
 Pragmatisches Ziel ist es, in den unterschiedlichsten Berufsfeldern digitaler Medien die Entwicklung und den Einsatz narrativer Strukturen zu beraten, zu planen oder zu verantworten.
 
 
-## Inhalt:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_VC_Modul_Storytelling§
+## Inhalt§pathlabel:/mi-2017/modulbeschreibungen-master/MA_VC_Modul_Storytelling§
 
 - Storytelling Grundlagen
 
@@ -1641,7 +1673,7 @@ Pragmatisches Ziel ist es, in den unterschiedlichsten Berufsfeldern digitaler Me
 - Anwendung in verschiedenen Kontexten wie Film, Computerspiel, Entwicklungsumgebung und Kommunikation
 
 
-## Studien-/Prüfungsleistungen:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_VC_Modul_Storytelling§
+## Studien-/Prüfungsleistungen§pathlabel:/mi-2017/modulbeschreibungen-master/MA_VC_Modul_Storytelling§
 
 Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
 
@@ -1650,7 +1682,7 @@ Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern ang
 - Schriftliche Ausarbeitung (50%)
 
 
-## Medienformen:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_VC_Modul_Storytelling§
+## Medienformen§pathlabel:/mi-2017/modulbeschreibungen-master/MA_VC_Modul_Storytelling§
 
 - Beamer-gestützte Vorlesungen (Folien in elektronischer Form)
 
@@ -1661,7 +1693,7 @@ Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern ang
 - Projektarbeit in Teams, um die erlernten Methoden und Techniken einzuüben und zu vertiefen
 
 
-## Literatur:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_VC_Modul_Storytelling§
+## Literatur§pathlabel:/mi-2017/modulbeschreibungen-master/MA_VC_Modul_Storytelling§
 
 - Field, Syd (1987): Drehbuchschreiben für Film und Fernsehen, München
 
@@ -1675,20 +1707,20 @@ Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern ang
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Martin Eisemann%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 2%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 3%end-modulMeta%%begin-modulMeta%**Sprache**: wahlweise deutsch oder englisch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktmodul%end-modulMeta%%begin-modulMeta%**Pflichtmodul im Schwerpunkt**: Visual Computing%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Martin Eisemann%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 2%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 3%end-modulMeta%%begin-modulMeta%**Sprache**: wahlweise deutsch oder englisch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden%end-modulMeta%%begin-modulMeta%**Empfohlene Voraussetzungen**: Web Architekturen (Bachelor) bzw. Kenntnisse in HTML%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktmodul%end-modulMeta%%begin-modulMeta%**Pflichtmodul im Schwerpunkt**: Visual Computing%end-modulMeta%
 
 
-## Kurzbeschreibung:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_VC_Modul_Visualisierung§
+## Kurzbeschreibung§pathlabel:/mi-2017/modulbeschreibungen-master/MA_VC_Modul_Visualisierung§
 
 Die Studierenden sollen in die Lage versetzt werden, abstrakte, vorwiegend numerische Datenbestände in 2-und 3-dimensionalen Repräsentationen zu visualisieren und mit interaktiven Methoden zu untersuchen, um Strukturen aufzudecken, Hypothesen abzuleiten und zu verifizieren, sowie Ergebnisse zu kommunizieren. Die Studierenden sind in der Lage, die aus modernen Simulations- und Messmethoden resultierenden umfangreichere Datenvolumina durch Visualisierungsverfahren einer Analyse zuzuführen. Dies wird sowohl anhand von theoretischen Grundlagen, der Analyse und Präsentation aktueller Forschungsergebnisse als auch der Verifikation der erworbenen Kenntnisse an eigenen Visualisierungen vermittelt.
 
 
-## Lehrform/SWS:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_VC_Modul_Visualisierung§
+## Lehrform/SWS§pathlabel:/mi-2017/modulbeschreibungen-master/MA_VC_Modul_Visualisierung§
 
 4 SWS: Vorlesung 1 SWS; Seminar / Workshops 2 SWS; Projekt 1 SWS
 
 
-## Arbeitsaufwand:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_VC_Modul_Visualisierung§
+## Arbeitsaufwand§pathlabel:/mi-2017/modulbeschreibungen-master/MA_VC_Modul_Visualisierung§
 
 Gesamtaufwand 180 Stunden, davon
 
@@ -1703,7 +1735,7 @@ Gesamtaufwand 180 Stunden, davon
 - 102h Selbststudium
 
 
-## Angestrebte Lernergebnisse:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_VC_Modul_Visualisierung§
+## Angestrebte Lernergebnisse§pathlabel:/mi-2017/modulbeschreibungen-master/MA_VC_Modul_Visualisierung§
 
 - Die Studierenden sollen in die Lage versetzt werden, abstrakte, vorwiegend numerische Datenbestände in 2-und 3-dimensionalen Repräsentationen zu visualisieren und mit interaktiven Methoden zu untersuchen, um Strukturen aufzudecken, Hypothesen abzuleiten und zu verifizieren sowie Ergebnisse zu kommunizieren. 
 
@@ -1718,7 +1750,7 @@ Gesamtaufwand 180 Stunden, davon
 - Das erworbene Können kann in verschiedensten Bereichen eingesetzt werden, um als Datenanalyst, in der Qualitätskontrolle oder Informationsvisualisierung tätg zu werden.
 
 
-## Inhalt:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_VC_Modul_Visualisierung§
+## Inhalt§pathlabel:/mi-2017/modulbeschreibungen-master/MA_VC_Modul_Visualisierung§
 
 Grundlagen der Visualisierung und Exploration mehrdimensionaler Daten, aktuelle Visualisierungsverfahren und Interaktionsverfahren.
 
@@ -1755,7 +1787,7 @@ Im speziellen, aber nicht ausschließlich, werden folgende Themen behandelt:
 - Story Telling
 
 
-## Studien-/Prüfungsleistungen:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_VC_Modul_Visualisierung§
+## Studien-/Prüfungsleistungen§pathlabel:/mi-2017/modulbeschreibungen-master/MA_VC_Modul_Visualisierung§
 
 Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
 
@@ -1764,7 +1796,7 @@ Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern ang
 - Projektpräsentation und -dokumentation (40%)
 
 
-## Medienformen:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_VC_Modul_Visualisierung§
+## Medienformen§pathlabel:/mi-2017/modulbeschreibungen-master/MA_VC_Modul_Visualisierung§
 
 - Beamergestützte Vorlesung
 
@@ -1775,7 +1807,7 @@ Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern ang
 - Projekt in Kleingruppen, um die erlernten Methoden und Techniken einzuüben und zu vertiefen (Rechnerlabor)
 
 
-## Literatur:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_VC_Modul_Visualisierung§
+## Literatur§pathlabel:/mi-2017/modulbeschreibungen-master/MA_VC_Modul_Visualisierung§
 
 - Tufte, E.R., The Visual Display of Quantitative Information, Cheshire,CT, Graphics Press 1983, und Envisioning Information, Cheshire,CT, Graphics Press 1994
 
@@ -1795,20 +1827,20 @@ Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern ang
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Stefan Karsch%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 1%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktmodul%end-modulMeta%%begin-modulMeta%**Pflichtmodul in den Schwerpunkten**: Weaving the Web, Social Computing, Multiperspective Product Development%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Stefan Karsch%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 1%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden%end-modulMeta%%begin-modulMeta%**Empfohlene Voraussetzungen**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktmodul%end-modulMeta%%begin-modulMeta%**Pflichtmodul in den Schwerpunkten**: Weaving the Web, Social Computing, Multiperspective Product Development%end-modulMeta%
 
 
-## Kurzbeschreibung:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_IT-Sicherheit§
+## Kurzbeschreibung§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_IT-Sicherheit§
 
 Einsatzszenarien von IT und entsprechende Sicherheitseigenschaften und Sicherheitskonzepte; Wirkzusammenhänge zwischen Vertrauen und (IT-)Sicherheit; gesellschaftliche Bedeutung von Privatsphäre und Datenschutz.
 
 
-## Lehrform/SWS:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_IT-Sicherheit§
+## Lehrform/SWS§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_IT-Sicherheit§
 
 4 SWS: Vorlesung 2 SWS; Seminar 2 SWS
 
 
-## Arbeitsaufwand:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_IT-Sicherheit§
+## Arbeitsaufwand§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_IT-Sicherheit§
 
 Gesamtaufwand 180 Stunden, davon 
 
@@ -1821,7 +1853,7 @@ Gesamtaufwand 180 Stunden, davon
 - 72h Selbststudium 
 
 
-## Angestrebte Lernergebnisse:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_IT-Sicherheit§
+## Angestrebte Lernergebnisse§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_IT-Sicherheit§
 
 - Die Studierenden sind in der Lage, Einsatzszenarien von IT hinsichtlich ihrer Sicherheitseigenschaften zu analysieren und zu beschreiben.
 
@@ -1834,7 +1866,7 @@ Gesamtaufwand 180 Stunden, davon
 - Die Studierenden erkennen die gesellschaftliche Bedeutung von Privatsphäre und Datenschutz und sind in der Lage ein für sie individuell adäquates Niveau an Privatheit zu formulieren und ggf. zu beanspruchen. 
 
 
-## Inhalt:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_IT-Sicherheit§
+## Inhalt§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_IT-Sicherheit§
 
 * In der Praxis eingesetzte kryptographischen Verfahren und ihre Eigenschaften
 
@@ -1863,7 +1895,7 @@ Gesamtaufwand 180 Stunden, davon
 * Kernbereich der privaten Lebensgestaltung, Privatsphäre, Datenschutz, Große Datensammlungen (Data Science) als Antagonist
 
 
-## Studien-/Prüfungsleistungen:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_IT-Sicherheit§
+## Studien-/Prüfungsleistungen§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_IT-Sicherheit§
 
 Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
 
@@ -1872,14 +1904,14 @@ Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern ang
 - Fachvortrag und Projektdokumentation (50%)
 
 
-## Medienformen:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_IT-Sicherheit§
+## Medienformen§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_IT-Sicherheit§
 
 *	Beamer-gestützte Vorlesungen
 
 *	Seminar: Vortrag, schriftliche Ausarbeitung, Test und Vorführung von Werkzeugen
 
 
-## Literatur:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_IT-Sicherheit§
+## Literatur§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_IT-Sicherheit§
 
 *	Anderson, Ross : Security Egnineering, John Wiley & Sons Inc, 2001
 
@@ -1901,20 +1933,20 @@ Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern ang
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Kristian Fischer%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 2%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 3%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden%end-modulMeta%%begin-modulMeta%**Typ**: Wahlpflichtmodul%end-modulMeta%%begin-modulMeta%**Pflichtmodul im Schwerpunkt**: Multiperspective Product Development%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Kristian Fischer%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 2%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 3%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden%end-modulMeta%%begin-modulMeta%**Empfohlene Voraussetzungen**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Wahlpflichtmodul%end-modulMeta%%begin-modulMeta%**Pflichtmodul im Schwerpunkt**: Multiperspective Product Development%end-modulMeta%
 
 
-## Kurzbeschreibung:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_Logik-und-semantische-Modellierung§
+## Kurzbeschreibung§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_Logik-und-semantische-Modellierung§
 
 Die Studierenden werden in die Entwicklung von semantischen Modellen als Basis für den Datenaustausch in verteilten, offenen Web Anwendungen eingeführt. Neben der praktischen Modellierung wird auch die theoretische Fundierung in der Prädikaten- und Beschreibungslogik behandelt.
 
 
-## Lehrform/SWS:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_Logik-und-semantische-Modellierung§
+## Lehrform/SWS§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_Logik-und-semantische-Modellierung§
 
 4 SWS: Vorlesung 2 SWS; Übung / Projekt 2 SWS
 
 
-## Arbeitsaufwand:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_Logik-und-semantische-Modellierung§
+## Arbeitsaufwand§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_Logik-und-semantische-Modellierung§
 
 Gesamtaufwand 180 Stunden, davon:
 
@@ -1925,7 +1957,7 @@ Gesamtaufwand 180 Stunden, davon:
 - 102h Selbststudium 
 
 
-## Angestrebte Lernergebnisse:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_Logik-und-semantische-Modellierung§
+## Angestrebte Lernergebnisse§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_Logik-und-semantische-Modellierung§
 
 Die Teilnehmerinnen und Teilnehmer sollen die
 
@@ -1940,7 +1972,7 @@ Die Teilnehmerinnen und Teilnehmer sollen die
 um kompetent im Fachdiskurs die Eignung semantischer Modellierung für die Domänenmodellierung diskutieren zu können.
 
 
-## Inhalt:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_Logik-und-semantische-Modellierung§
+## Inhalt§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_Logik-und-semantische-Modellierung§
 
 - Prädikatenlogik 
 
@@ -1953,21 +1985,21 @@ um kompetent im Fachdiskurs die Eignung semantischer Modellierung für die Domä
 - Entwicklung von Ontologien 
 
 
-## Studien-/Prüfungsleistungen:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_Logik-und-semantische-Modellierung§
+## Studien-/Prüfungsleistungen§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_Logik-und-semantische-Modellierung§
 
 Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
 
 - Mündliche Prüfung (100%)
 
 
-## Medienformen:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_Logik-und-semantische-Modellierung§
+## Medienformen§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_Logik-und-semantische-Modellierung§
 
 * Präsentationsmaterialien
 
 * Arbeitsblätter
 
 
-## Literatur:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_Logik-und-semantische-Modellierung§
+## Literatur§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_Logik-und-semantische-Modellierung§
 
 - D. Allemang, J. Hendler: Semantic Web for the Working Ontologist, Morgan Kaufman 2011
 
@@ -1981,20 +2013,20 @@ Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern ang
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Mario Winter%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 2%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 1%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch, Seminar-Basisliteratur i.d.R. in englischer Sprache%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktmodul%end-modulMeta%%begin-modulMeta%**Pflichtmodul im Schwerpunkt**: Multiperspective Product Development%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Mario Winter%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 2%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 1%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch, Seminar-Basisliteratur i.d.R. in englischer Sprache%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden%end-modulMeta%%begin-modulMeta%**Empfohlene Voraussetzungen**: Grundkenntnisse Softwaretechnik und Projektmanagement%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktmodul%end-modulMeta%%begin-modulMeta%**Pflichtmodul im Schwerpunkt**: Multiperspective Product Development%end-modulMeta%
 
 
-## Kurzbeschreibung:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_QUS_Winter§
+## Kurzbeschreibung§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_QUS_Winter§
 
 Konstruktive und analytische Qualitätssicherung und Qualitätsmanagement für Web-Anwendungen
 
 
-## Lehrform/SWS:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_QUS_Winter§
+## Lehrform/SWS§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_QUS_Winter§
 
 4 SWS: Vorlesung 2 SWS; Übung 1 SWS; Seminar 1 SWS
 
 
-## Arbeitsaufwand:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_QUS_Winter§
+## Arbeitsaufwand§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_QUS_Winter§
 
 Gesamtaufwand 180 Stunden, davon
 
@@ -2007,7 +2039,7 @@ Gesamtaufwand 180 Stunden, davon
 - 108h Selbststudium
 
 
-## Angestrebte Lernergebnisse:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_QUS_Winter§
+## Angestrebte Lernergebnisse§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_QUS_Winter§
 
 Die Studierenden werden befähigt, 
 
@@ -2020,7 +2052,7 @@ Die Studierenden werden befähigt,
 um die Methoden, Techniken und Werkzeuge zur Qualitätssicherung und zum Qualitätsmanagement in eigenen, auch fachübergreifenden Projekten auswählen und anwenden zu können.
 
 
-## Inhalt:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_QUS_Winter§
+## Inhalt§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_QUS_Winter§
 
 Das Modul beschreibt Ziele, Methoden, Techniken und Werkzeuge sowie organisatorische Maßnahmen zur begleitenden Qualitätssicherung (QS) in der Entwicklung von Web-Anwendungen. Schwerpunkte liegen auf der QS in den frühen Phasen der Konzeption und Spezifikation sowie dem Qualitätsmanagement. Ausführungen zu einschlägigen Normen und Gesetzen runden das Modul ab.
 
@@ -2043,7 +2075,7 @@ Inhalte im Einzelnen:
 Aufbauend auf dem in der Vorlesung vermittelten Stoff erstellt jeder Teilnehmer im Seminar-Teil eine Ausarbeitung mit experimenteller Realisierung und eine Präsentation zu einem ausgewählten aktuellen Forschungsgebiet der Qualitätssicherung.
 
 
-## Studien-/Prüfungsleistungen:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_QUS_Winter§
+## Studien-/Prüfungsleistungen§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_QUS_Winter§
 
 Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
 
@@ -2054,7 +2086,7 @@ Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern ang
 * Klausur 60 Minuten (40%)
 
 
-## Medienformen:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_QUS_Winter§
+## Medienformen§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_QUS_Winter§
 
 * Beamer-gestützte Vorlesungen (Folien in elektronischer Form im Netz)
 
@@ -2063,7 +2095,7 @@ Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern ang
 * Fallbeispielgestützte Übungen in Gruppen, um die erlernten Modelle und Methoden einzuüben und zu vertiefen (Seminarraum, Rechnerlabor).
 
 
-## Literatur:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_QUS_Winter§
+## Literatur§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_QUS_Winter§
 
 - S. Wagner: Software Product Quality Control. Springer, Berlin, 2013
 
@@ -2079,10 +2111,10 @@ Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern ang
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Kristian Fischer%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 1%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktmodul%end-modulMeta%%begin-modulMeta%**Pflichtmodul im Schwerpunkt**: Weaving the Web%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Kristian Fischer%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 1%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden%end-modulMeta%%begin-modulMeta%**Empfohlene Voraussetzungen**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktmodul%end-modulMeta%%begin-modulMeta%**Pflichtmodul im Schwerpunkt**: Weaving the Web%end-modulMeta%
 
 
-## Kurzbeschreibung:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_Web-Architekturen§
+## Kurzbeschreibung§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_Web-Architekturen§
 
 In der Veranstaltung werden zwei Felder eingeführt:
 
@@ -2093,12 +2125,12 @@ In der Veranstaltung werden zwei Felder eingeführt:
 Basierend auf diesem Grundlagenwissen werden dann Lösungen aus fortschrittliche Anwendungsfelder im Web analysiert.
 
 
-## Lehrform/SWS:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_Web-Architekturen§
+## Lehrform/SWS§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_Web-Architekturen§
 
 4 SWS: Vorlesung 2 SWS; Seminar 2 SWS
 
 
-## Arbeitsaufwand:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_Web-Architekturen§
+## Arbeitsaufwand§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_Web-Architekturen§
 
 Gesamtaufwand 180 Stunden, davon 
 
@@ -2109,7 +2141,7 @@ Gesamtaufwand 180 Stunden, davon
 - 108h Selbststudium 
 
 
-## Angestrebte Lernergebnisse:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_Web-Architekturen§
+## Angestrebte Lernergebnisse§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_Web-Architekturen§
 
 Die Studentinnen und Studenten
 
@@ -2122,7 +2154,7 @@ Die Studentinnen und Studenten
 um in leitender Funktion zur Gestaltung der Architektur von Projekten für das Web beitragen zu können.
 
 
-## Inhalt:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_Web-Architekturen§
+## Inhalt§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_Web-Architekturen§
 
 Softwarearchitekturen: Designprozess, Kommunikationsmethoden (Connectoren), Sicherheit, Modellierung, Visualisierung, Analyse
 
@@ -2131,19 +2163,19 @@ Internet Governance: Governance der Infrastruktur des Web, Politik und Werte bei
 Fallstudien: Anwendungen beispielsweise aus den Bereichen Open Data, Internet of Things, Cloud Services
 
 
-## Studien-/Prüfungsleistungen:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_Web-Architekturen§
+## Studien-/Prüfungsleistungen§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_Web-Architekturen§
 
 Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
 
 - mündliche Prüfung (100%)
 
 
-## Medienformen:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_Web-Architekturen§
+## Medienformen§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_Web-Architekturen§
 
 Präsentationsmaterialien
 
 
-## Literatur:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_Web-Architekturen§
+## Literatur§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_Web-Architekturen§
 
 - R. Taylor et al.: Software Architecture - Foundations, Theory, and Practice, Wiley 2009
 
@@ -2159,20 +2191,20 @@ Präsentationsmaterialien
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: Prof. Christian Noss%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 2%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 3%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktmodul%end-modulMeta%%begin-modulMeta%**Pflichtmodul im Schwerpunkt**: Weaving the Web%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: Prof. Christian Noss%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Wintersemester**: 2%end-modulMeta%%begin-modulMeta%**Studiensemester für Start im Sommersemester**: 3%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 6%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden%end-modulMeta%%begin-modulMeta%**Empfohlene Voraussetzungen**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Schwerpunktmodul%end-modulMeta%%begin-modulMeta%**Pflichtmodul im Schwerpunkt**: Weaving the Web%end-modulMeta%
 
 
-## Kurzbeschreibung:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_Web-Technologien§
+## Kurzbeschreibung§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_Web-Technologien§
 
 In Modul werden fortgeschrittene Herangehensweisen, Technologien, Konzepte und Implementierungsansätze im Kontext Web-basierter Anwendungen adressiert.
 
 
-## Lehrform/SWS:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_Web-Technologien§
+## Lehrform/SWS§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_Web-Technologien§
 
 4 SWS: Seminar 2 SWS, Workshop 2 SWS
 
 
-## Arbeitsaufwand:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_Web-Technologien§
+## Arbeitsaufwand§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_Web-Technologien§
 
 Gesamtaufwand 180 Stunden, davon 
 
@@ -2183,7 +2215,7 @@ Gesamtaufwand 180 Stunden, davon
 - 108h Selbststudium 
 
 
-## Angestrebte Lernergebnisse:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_Web-Technologien§
+## Angestrebte Lernergebnisse§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_Web-Technologien§
 
 Die Studierenden sind in der Lage auf Basis eines dokumentierten Konzepts ein Entwicklungsprojekt für eine Web-basierte Anwendung zu strukturieren, das Konzept ggf. zu erweitern, um Entwicklungsprojekte im oder für ein Team aufsetzen zu können.
 
@@ -2194,7 +2226,7 @@ Die Studierenden kennen geeignete Vorgehensmodelle, Dokumentationstechniken, sow
 Die Studierenden sind in der Lage, neue Technologien und Strömungen im Kontext des Webs zu erkennen, einzuordnen, zu bewerten und zu durchdringen, um die Zukunftsfähigkeit der eigenen Skills, des Teams und den Projekts sicher zu stellen.   
 
 
-## Inhalt:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_Web-Technologien§
+## Inhalt§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_Web-Technologien§
 
 - Client-Server Kommunikation und Schnittstellen: REST, Nachrichtenbasierte Kommunikation, Web-Sockets, etc.
 
@@ -2217,7 +2249,7 @@ Die Studierenden sind in der Lage, neue Technologien und Strömungen im Kontext 
 - Kommunikations- und Kollaborationswerkzeuge
 
 
-## Studien-/Prüfungsleistungen:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_Web-Technologien§
+## Studien-/Prüfungsleistungen§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_Web-Technologien§
 
 Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
 
@@ -2226,15 +2258,15 @@ Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern ang
 - mündliche/praktische Prüfung (30%)
 
 
-## Medienformen:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_Web-Technologien§
+## Medienformen§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_Web-Technologien§
 
 Präsentationsmaterialien
 
 
-## Literatur:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_Web-Technologien§
+## Literatur§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_Web-Technologien§
 
 
-### Paper:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_Web-Technologien§
+### Paper§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_Web-Technologien§
 
 - Brad Frost: Atomic Design; Smashing Magazine GmbH, 2009
 
@@ -2243,7 +2275,7 @@ Präsentationsmaterialien
 - [Olaf Berberich: Trusted Web 4.0 - Konzepte einer digitalen Gesellschaft; Springer Vieweg, 2016](http://www.digibib.net/permalink/832/FHBK-x/HBZ:HT019048164)
 
 
-### Web:§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_Web-Technologien§
+### Web§pathlabel:/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_Web-Technologien§
 
 - [World Wide Web Consortium](https://www.w3.org/)
 

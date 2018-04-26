@@ -15,7 +15,7 @@ parent: SPM2
 schwerpunkt: wtw
 ---
 
-## Kurzbeschreibung:
+## Kurzbeschreibung
 In der Veranstaltung werden zwei Felder eingeführt:
 
 - Grundkonzepte der Software Architektur bezogen auf Web basierte Anwendungen
@@ -23,17 +23,17 @@ In der Veranstaltung werden zwei Felder eingeführt:
 
 Basierend auf diesem Grundlagenwissen werden dann Lösungen aus fortschrittliche Anwendungsfelder im Web analysiert.
 
-## Lehrform/SWS: 
+## Lehrform/SWS 
 4 SWS: Vorlesung 2 SWS; Seminar 2 SWS
 
-## Arbeitsaufwand: 
+## Arbeitsaufwand 
 Gesamtaufwand 180 Stunden, davon 
 - 36h Vorlesung 
 - 36h Seminar 
 - 108h Selbststudium 
 
 
-## Angestrebte Lernergebnisse:
+## Angestrebte Lernergebnisse
 Die Studentinnen und Studenten
 - kennen wesentliche Konzepte und Methoden aus dem Bereich Softwarearchitektur
 - kennen wesentliche Elemente der Internet Governance und können Problemfelder in diesem Bereich kritisch analysieren
@@ -41,7 +41,7 @@ Die Studentinnen und Studenten
 
 um in leitender Funktion zur Gestaltung der Architektur von Projekten für das Web beitragen zu können.
 
-## Inhalt:
+## Inhalt
 Softwarearchitekturen: Designprozess, Kommunikationsmethoden (Connectoren), Sicherheit, Modellierung, Visualisierung, Analyse
 
 Internet Governance: Governance der Infrastruktur des Web, Politik und Werte bei der Wahl von Protokollen, Softwarelizensierung, Systeme des Urheberrechts, Ethische Fragen bei Web Anwendungen
@@ -49,14 +49,14 @@ Internet Governance: Governance der Infrastruktur des Web, Politik und Werte bei
 Fallstudien: Anwendungen beispielsweise aus den Bereichen Open Data, Internet of Things, Cloud Services
 
 
-## Studien-/Prüfungsleistungen:
+## Studien-/Prüfungsleistungen
 Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
 - mündliche Prüfung (100%)
 
-## Medienformen:
+## Medienformen
 Präsentationsmaterialien
 
-## Literatur:
+## Literatur
 - R. Taylor et al.: Software Architecture - Foundations, Theory, and Practice, Wiley 2009
 - L. DeNardis: Protocol Politics, MIT Press 2009
 - F. Daniels et al.: Mashups: Concepts, Models, and Architectures, Springer 2014

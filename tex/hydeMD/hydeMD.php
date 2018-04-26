@@ -815,9 +815,6 @@ class Document {
 	/* Links ins Repo */
 	$latexContent = preg_replace( '=href{\.\./anhaenge=', "href{https://th-koeln.github.io/mi-2017/anhaenge", $latexContent);
 	$latexContent = preg_replace( '=href{\.\./download=', "href{https://th-koeln.github.io/mi-2017/download", $latexContent);
-	
-	/* Images */
-	$latexContent = preg_replace( '=includegraphics{=', "includegraphics[width=\\textwidth]{", $latexContent);
 
 	/* Hyperlinks im Latex */
 	$latexContent = preg_replace_callback( '/§pathlabel:(.*?)§/is', function( $matches ) {

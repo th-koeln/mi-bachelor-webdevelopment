@@ -15,11 +15,11 @@ parent: SPM2
 schwerpunkt: sc
 ---
 
-## Lehrform/SWS:
+## Lehrform/SWS
 
 4 SWS: Vorlesung 2 SWS; Projekt 2 SWS
 
-## Arbeitsaufwand:
+## Arbeitsaufwand
 
 Gesamtaufwand 180 Stunden, davon 
 
@@ -27,14 +27,14 @@ Gesamtaufwand 180 Stunden, davon
 - 36h Projekt
 - 108h Selbststudium 
 
-## Angestrebte Lernergebnisse:
+## Angestrebte Lernergebnisse
 Die Studierenden sollen:
 - die Designphilosophie von Entwurfsmustern verstehen und einordnen können
 - existierende Entwurfsmuster recherchieren, auswählen und umsetzen können
 - neue Entwurfsmuster identifizieren und beschreiben können
 - Konstruktives Feedback und Verbesserungsvorschläge für Entwurfsmuster geben können (Peer-Feedback)
 
-## Inhalt:
+## Inhalt
 - Pattern Theorie nach Christopher Alexander
 - Wissenschaftstheoretische Verortung von Entwurfsmustern
 - Kollaboratives Entwickeln von Entwurfsmustern
@@ -47,11 +47,11 @@ Die Studierenden sollen:
 - Forschungsmethoden zum Entdecken von neuen Entwurfsmustern (Pattern Mining)
 - Schreiben von Entwurfsmustern
 
-## Studien-/Prüfungsleistungen:
+## Studien-/Prüfungsleistungen
 Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
 - Schriftliche Ausarbeitung (100%)
 
-## Medienformen:
+## Medienformen
 - Beamer-gestützte Vorlesungen (Folien in elektronischer Form)
 - Vertiefende Materialien in elektronischer Form (Screencasts und Handouts)
 - Pattern Mining Workshop: Gemeinsames Identifizieren von Entwurfsmustern
@@ -59,7 +59,7 @@ Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern ang
 
 
 
-## Literatur:
+## Literatur
 - Alexander, C., Ishikawa, S., Silverstein, M., Jacobson, M., Fiksdahl-King, I., & Angel, S. (1977). A pattern language. New York, USA: Oxford University Press.
 - Alexander, C. (1979). The Timeless Way of Building. New York: Oxford University Press
 - Bauer, R., & Waxmann Verlag. (2015). Didaktische Entwurfsmuster: Der Muster-Ansatz von Christopher Alexander und Implikationen für die Unterrichtsgestaltung. 

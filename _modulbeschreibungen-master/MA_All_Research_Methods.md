@@ -13,10 +13,10 @@ published: true
 type: pm
 ---
 
-## Lehrform/SWS:
+## Lehrform/SWS
 4 SWS: Vorlesung 2 SWS; Übung / Projekt 2 SWS
 
-## Arbeitsaufwand:
+## Arbeitsaufwand
 
 Gesamtaufwand 180 Stunden, davon 
 
@@ -25,13 +25,13 @@ Gesamtaufwand 180 Stunden, davon
 - 54h Projektarbeit 
 - 54h Selbststudium
 
-## Angestrebte Lernergebnisse:
+## Angestrebte Lernergebnisse
 
 Die Teilnehmer sind in der Lage verschiedene methodische Rahmen für die Beantwortung empirischer Problem- oder Fragestellungen zu benennen, kritisch einzuordnen und für ihre konkreten Projekte (Zielsetzungen, Rahmenbedingungen, etc.) eine rational begründete Wahl eines (oder einer Kombination aus verschiedenen) methodischen Rahmen zu treffen und zu kommunizieren.
 Sie sind in der Lage, die Methoden projektgerecht und methodenkompetent anzuwenden und Resultate angemessen zu interpretieren und 
 kritisch zu diskutieren.
 
-## Inhalt:
+## Inhalt
 - Forschungsdesign und -planung
 - quantitative und qualitative Methoden
 - empirische und analytische Ansätze
@@ -39,15 +39,15 @@ kritisch zu diskutieren.
 - Datenweiterverarbeitung und Ergebnisinterpretation und -präsentation
 
 
-## Studien-/Prüfungsleistungen:
+## Studien-/Prüfungsleistungen
 Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
 - schriftliche Modulprüfung (100%)
 
-## Medienformen:
+## Medienformen
 - beamergestützte Vorlesung
 - E-Books
 
-## Literatur:
+## Literatur
 - Bortz, J.; Döring, N.: „Forschungsmethoden und Evaluation für Human- und Sozialwissenschaftler“, Springer Heidelberg, Berlin, 2006
 - Lazar, J. Feng, J., Hochheiser, H.: “Research Methods in Human-Computer Interaction”, Wiley, 2009
 - May, G., Mruck, K.: “Handbuch Qualitative Forschung in der Psychologie", Springer, 2010

@@ -13,9 +13,9 @@ zielmedium: web
 type: pm
 ---
 
-## Kurzbeschreibung:
+## Kurzbeschreibung
 Frei aus dem Katalog der Pflicht- und Wahlpflichtmodule der Masterstudiengänge der Informatik wählbar, ausgenommen der drei Grundlagenmodule und der drei Schwerpunktmodule des gewählten Studienschwerpunktes lt. Studienverlaufsplan. Ein Katalog mit weiteren Angeboten wird nach Maßgabe des Beschlusses des Fakultätsrats der Fakultät für Informatik und Ingenieurwissenschaften zusammengestellt und durch Aushang und auf den Webseiten der Fakultät bekannt gemacht.
 
-## Arbeitsaufwand:
+## Arbeitsaufwand
 180 Stunden
 

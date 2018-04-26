@@ -15,13 +15,13 @@ parent: SPM1
 schwerpunkt: wtw, sc, mpd
 ---
 
-## Kurzbeschreibung:
+## Kurzbeschreibung
 Einsatzszenarien von IT und entsprechende Sicherheitseigenschaften und Sicherheitskonzepte; Wirkzusammenhänge zwischen Vertrauen und (IT-)Sicherheit; gesellschaftliche Bedeutung von Privatsphäre und Datenschutz.
 
-## Lehrform/SWS: 
+## Lehrform/SWS 
 4 SWS: Vorlesung 2 SWS; Seminar 2 SWS
 
-## Arbeitsaufwand: 
+## Arbeitsaufwand 
 Gesamtaufwand 180 Stunden, davon 
 
 - 36h Vorlesung 
@@ -29,7 +29,7 @@ Gesamtaufwand 180 Stunden, davon
 - 36h Projektarbeit  
 - 72h Selbststudium 
 
-## Angestrebte Lernergebnisse:
+## Angestrebte Lernergebnisse
 
 - Die Studierenden sind in der Lage, Einsatzszenarien von IT hinsichtlich ihrer Sicherheitseigenschaften zu analysieren und zu beschreiben.
 - Darüber hinaus sind sie in der Lage, hinsichtlich Schutzbedarf und Risiko adäquate Sicherheitsmaßnahmen in einem Sicherheitskonzept zusammenzustellen. 
@@ -37,7 +37,7 @@ Gesamtaufwand 180 Stunden, davon
 - Sie kennen die Wirkzusammenhänge zwischen Vertrauen und (IT-)Sicherheit und sind in der Lage Maßnahmen zur Vertrauensbildung in kommerziell-technische (e-commerce) und sozio-technische Systeme zu entwickeln.
 - Die Studierenden erkennen die gesellschaftliche Bedeutung von Privatsphäre und Datenschutz und sind in der Lage ein für sie individuell adäquates Niveau an Privatheit zu formulieren und ggf. zu beanspruchen. 
 
-## Inhalt:
+## Inhalt
 * In der Praxis eingesetzte kryptographischen Verfahren und ihre Eigenschaften
 * Typische Sicherheitsmaßnahmen, um vorgegebene Sicherheitsziele zu erreichen
 * Grundlegende Zusammenhänge der IT-Sicherheit (Schutzziele, Schwachstellen, Bedrohungen und Risiken)
@@ -52,16 +52,16 @@ Gesamtaufwand 180 Stunden, davon
 * Charakteristika vertrauenswürdiger Systeme. Wirkzusammenhang zwischen Vertrauen und Sicherheit
 * Kernbereich der privaten Lebensgestaltung, Privatsphäre, Datenschutz, Große Datensammlungen (Data Science) als Antagonist
 
-## Studien-/Prüfungsleistungen:
+## Studien-/Prüfungsleistungen
 Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
 - mündliche Prüfung (50%) 
 - Fachvortrag und Projektdokumentation (50%)
 
-## Medienformen:
+## Medienformen
 *	Beamer-gestützte Vorlesungen
 *	Seminar: Vortrag, schriftliche Ausarbeitung, Test und Vorführung von Werkzeugen
 
-## Literatur:
+## Literatur
 
 *	Anderson, Ross : Security Egnineering, John Wiley & Sons Inc, 2001
 *	Eckert, Claudia: IT-Sicherheit. Konzepte - Verfahren - Protokolle, Oldenbourg, 2006

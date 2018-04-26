@@ -13,22 +13,22 @@ published: true
 type: spmw
 ---
 
-## Kurzbeschreibung:
+## Kurzbeschreibung
 Platzhalter - das konkrete Schwerpunktmodul 2 ist für die Studienschwerpunkte im Studienverlaufsplan der Master-Prüfungsordnung Medieninformatik aufgeführt.
 
-## Lehrform/SWS:
+## Lehrform/SWS
 
 
-## Arbeitsaufwand:
+## Arbeitsaufwand
 180 Stunden
 
-## Angestrebte Lernergebnisse:
+## Angestrebte Lernergebnisse
 
-## Inhalt:
+## Inhalt
 
-## Studien-/Prüfungsleistungen:
+## Studien-/Prüfungsleistungen
 
-## Medienformen:
+## Medienformen
 
-## Literatur:
+## Literatur
 

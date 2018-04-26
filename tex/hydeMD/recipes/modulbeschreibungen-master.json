@@ -11,7 +11,8 @@
 		"replace": [
 			[ "/\\\\section/"       , "\\\\chapter" ],
 			[ "/\\\\subsection/"    , "\\\\section*" ],
-			[ "/\\\\subsubsection/" , "\\\\subsection*" ]
+			[ "/\\\\subsubsection/" , "\\\\subsection*" ],
+			[ "/includegraphics/" , "includegraphics[width=\\\\columnwidth]" ]
 		]
 	}
 }

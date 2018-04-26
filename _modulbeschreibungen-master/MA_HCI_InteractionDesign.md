@@ -16,10 +16,10 @@ parent: SPM2
 schwerpunkt: hci, mpd
 ---
 
-## Lehrform/SWS:
+## Lehrform/SWS
 4 SWS: Vorlesung 2 SWS; Übung / Projekt 2 SWS
 
-## Arbeitsaufwand:
+## Arbeitsaufwand
 Gesamtaufwand 180 Stunden, davon
 - 36h Vorlesung
 - 36h Übung / Projekt
@@ -27,11 +27,11 @@ Gesamtaufwand 180 Stunden, davon
 
 
 
-## Angestrebte Lernergebnisse:
+## Angestrebte Lernergebnisse
 Ziel ist vor allem, die Benutzerperspektive im Entwicklungsprozess interaktiver Systeme zu berücksichtigen, nicht von der Technologie sondern von menschlichen Erfordernissen auszugehen und eine entsprechende Interaktionsmodellierung und –gestaltung erreichen zu können. Dabei wird besonderer Wert auf den Auf- bzw. Ausbau von Entwurfskompetenz („reflection in action“, „conversation with the material“) gelegt, die das systematische Entwickeln von Gestaltungsalternativen, deren Bewertung, der Synthese gefundener Qualitäten in kohärenten und konsistenten Systementwürfen und den systematischen, konstruktiven Umgang mit trade-offs und ein insgesamt iteratives Vorgehen beinhaltet.
 Die Studierenden haben konzeptionelles Design (Conceptual Design) verstanden, können es souverän anwenden und als Vorgehen kritisch einordnen, um aufgabenangemessene und aus Benutzersicht angenehme Technologienutzung zu gestalten. Die Studierenden haben den Ansatz „Designing for Life” verstanden und wissen, wie sie dies methodisch umsetzen können.
 
-## Inhalt:
+## Inhalt
 - Analyse und Dokumentation menschlichen, situierten Handelns
 - Entwicklung präskriptiver Handlungsmodelle
 - Analyse und kritische Einordnung präskriptiver Handlungsmodelle
@@ -41,17 +41,17 @@ Die Studierenden haben konzeptionelles Design (Conceptual Design) verstanden, k�
 - Case Studies
 - Evaluationsmethoden und –techniken
 
-## Studien-/Prüfungsleistungen:
+## Studien-/Prüfungsleistungen
 Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
 Projektdokumentation und Designartefakte (100%)
 
-## Medienformen:
+## Medienformen
 - Beamer-gestützte Vorlesungen
 - Lehrfilme
 - Präsentationsmaterialien
 
 
-## Literatur:
+## Literatur
 - Winograd, Terry (ed.), Bringing Design to Software, Addison Wesley, 1996, ISBN: 0-201-85491-0
 - Courage, Cathrine; Baxter, Kathy, „Understanding Your Users“. A practical guide to user requirements. Methods, Tools, & Techniques, Kaufman Morgan Publishers, Elsevier, 2005, ISBN: 1-55860-935-0
 - Dix, Allan; Filay, Janet; Abowd Gregory D.; Beale, Russel, Human-Computer Interaction, 3rd. edition, Pearson Prentice Hall, 2004, ISBN: 0130-461091

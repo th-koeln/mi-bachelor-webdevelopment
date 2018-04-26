@@ -13,3 +13,6 @@ Im Zentrum des Studiums steht in den ersten drei Fachsemestern jeweils eine Proj
 
 Das erforderliche Grundlagenwissen sowie schwerpunktbezogene Kenntnisse werden in den ersten drei Semestern parallel zur Projektarbeit in drei Grundlagen-, drei Schwerpunkt- und drei Wahlpflicht-Modulen sowie in projektbegleitenden Lehrveranstaltungen vermittelt. Das vierte Semester ist dann darauf aufbauend ganz der selbstständigen Arbeit an der Masterthesis gewidmet.
 
+{% include image.html url="bilder/ws-small.svg" caption="Studienverlaufsplan Medieninformatik Master, Studienbeginn zum Wintersemester" %}
+{% include image.html url="bilder/ss-small.svg" caption="Studienverlaufsplan Medieninformatik Master, Studienbeginn zum Sommersemester" %}
+

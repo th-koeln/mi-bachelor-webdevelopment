@@ -15,21 +15,21 @@ parent: WPM
 schwerpunkt: hci
 ---
 
-## Kurzbeschreibung:
+## Kurzbeschreibung
 Die Studierenden kennen die grundlegenden Konzepte der linearen Systemtheorie, kennen Eigenschaften linearer invarianter zeitdiskreter Systeme, können sie formal beschreiben und hinsichtlich medientechnischer Systeme (und auch bzgl. anderer Pragmatiken) interpretieren, anwenden und kritisch diskutieren. Sie sind in der Lage, Zielsetzungen einer Verarbeitung medienspezifischer Signale aus einer systemtheoretische Perspektive zu formulieren, unterschiedliche Ansätze sowie deren systemtheoretische Implikationen kritisch zu diskutieren und begründet gegeneinander abzuwägen. Die Studierenden kennen Beschreibungskonzepte von ein- und mehrdimensionalen Signalen, kennen Transformationen der Signale und können diese anwenden, (z.B. physikalisch) interpretieren und kritisch diskutieren. Die Studierenden können Diskretisierungen ein- und mehrdimensionaler Signale formal beschreiben, kennen Konzepte zur Beschreibung der Qualität der Diskretisierungen und können diese anwenden und kritisch diskutieren. Darüber hinaus kennen die Studierenden die Konzepte der Filterung von diskreten Signalen und kennen verschiedene Realisations-Ansätze sowie –Strukturen für Digitale Filter. Zudem sind sie in der Lage, diese formal zu beschreiben, anzuwenden, zu interpretieren und kritisch zu diskutieren. Die Studierenden kennen Konzepte der Verarbeitung (Transformationen, Modellierung und Extraktion von Merkmalsvektoren etc.) von diskreten medientechnischen Signalen, können sie formal beschreiben, bzgl. medientechnischer (oder anderer) Pragmatiken interpretieren und kritisch diskutieren.
 
-## Lehrform/SWS: 
+## Lehrform/SWS 
 4 SWS: Vorlesung 4 SWS
 
-## Arbeitsaufwand: 
+## Arbeitsaufwand 
 Gesamtaufwand 180 Stunden, davon
 - 72h Vorlesung
 - 108h Selbststudium
 
-## Angestrebte Lernergebnisse:
+## Angestrebte Lernergebnisse
 Die Studierenden kennen die grundlegenden Konzepte der linearen Systemtheorie, kennen Eigenschaften linearer invarianter zeitdiskreter Systeme, können sie formal beschreiben und hinsichtlich medientechnischer Systeme (und auch bzgl. anderer Pragmatiken) interpretieren, anwenden und kritisch diskutieren. Sie sind in der Lage, Zielsetzungen einer Verarbeitung medienspezifischer Signale aus einer systemtheoretische Perspektive zu formulieren, unterschiedliche Ansätze sowie deren systemtheoretische Implikationen kritisch zu diskutieren und begründet gegeneinander abzuwägen. Die Studierenden kennen Beschreibungskonzepte von ein- und mehrdimensionalen Signalen, kennen Transformationen der Signale und können diese anwenden, (z.B. physikalisch) interpretieren und kritisch diskutieren. Die Studierenden können Diskretisierungen ein- und mehrdimensionaler Signale formal beschreiben, kennen Konzepte zur Beschreibung der Qualität der Diskretisierungen und können sie diese anwenden und kritisch diskutieren. Darüber hinaus kennen die Studierenden die Konzepte der Filterung von diskreten Signalen und kennen verschiedene Realiations-Ansätze sowie –Strukturen für Digitale Filter. Zudem sind sie in der Lage, diese formal zu beschreiben, anzuwenden, zu interpretieren und kritisch zu diskutieren. Die Studierenden kennen Konzepte der Verarbeitung (Transformationen, Modellierung und Extraktion von Merkmalsvektoren etc.) von diskreten medientechnischen Signalen, können sie formal beschreiben, bzgl. medientechnischer (oder anderer) Pragmatiken zu interpretieren und kritisch zu diskutieren.
 
-## Inhalt:
+## Inhalt
 Quasiperiodische dynamische Systeme, Phasenraum, Wellen und deren Kenngrößen
 Transformationen von Funktionen mit einer kontinuierlichen Variablen
 - Fourier-Analyse, Amplitudensprektrum, spektrale Eigenschaften periodischer und aperiodischer
@@ -98,15 +98,15 @@ Video Verarbeitung
 - Region growing post-production
 Raum-zeitliche Gradienten
 
-## Studien-/Prüfungsleistungen:
+## Studien-/Prüfungsleistungen
 Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
 - mündlche Modulprüfung (100%)
 
-## Medienformen:
+## Medienformen
 - Beamer-gestützte Vorlesungen (Folien in elektronischer Form)
 - Skript und Handouts
 
-## Literatur:
+## Literatur
 - J. G. Proakis, D.G. Manolakis, Digital Signal Processing, 4th edition, Pearson Prentice Hall,
 2007, ISBN: 0-13-187374-1
 - A. V. Oppenheim, R.W. Schafer, Zeitdiskrete Signalverarbei-tung, Oldenburg Verlag, 3.te

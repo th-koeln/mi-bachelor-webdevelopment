@@ -14,19 +14,19 @@ parent:
 schwerpunkt: mpd
 ---
 
-## Kurzbeschreibung:
+## Kurzbeschreibung
 Die Studierenden werden in die Entwicklung von semantischen Modellen als Basis für den Datenaustausch in verteilten, offenen Web Anwendungen eingeführt. Neben der praktischen Modellierung wird auch die theoretische Fundierung in der Prädikaten- und Beschreibungslogik behandelt.
 
-## Lehrform/SWS: 
+## Lehrform/SWS 
 4 SWS: Vorlesung 2 SWS; Übung / Projekt 2 SWS
 
-## Arbeitsaufwand: 
+## Arbeitsaufwand 
 Gesamtaufwand 180 Stunden, davon:
 - 36h Vorlesung 
 - 36h Übung / Projekt
 - 102h Selbststudium 
 
-## Angestrebte Lernergebnisse:
+## Angestrebte Lernergebnisse
 Die Teilnehmerinnen und Teilnehmer sollen die
 - Grundgedanken, Potenziale und Grenzen von semantischer Modellierung und Semantic Web erfassen.
 - Sprachen des Semantic Web sowie deren Eigenschaften und Zusammenhänge verstehen,
@@ -35,22 +35,22 @@ Die Teilnehmerinnen und Teilnehmer sollen die
 
 um kompetent im Fachdiskurs die Eignung semantischer Modellierung für die Domänenmodellierung diskutieren zu können.
 
-## Inhalt:
+## Inhalt
 - Prädikatenlogik 
 - Die Sprachen Hierarchie: XML, RDF, RDFS 
 - Beschreibungslogik 
 - Ontologie- und Abfragesprachen 
 - Entwicklung von Ontologien 
 
-## Studien-/Prüfungsleistungen:
+## Studien-/Prüfungsleistungen
 Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
 - Mündliche Prüfung (100%)
 
-## Medienformen:
+## Medienformen
 * Präsentationsmaterialien
 * Arbeitsblätter
 
-## Literatur:
+## Literatur
 - D. Allemang, J. Hendler: Semantic Web for the Working Ontologist, Morgan Kaufman 2011
 - F. Baader (ed.): The description logic handbook: theory, implementation, and applications, Cambridge University Press 2010
 - M. Kreuzer, S. Kühling: Logik für Informatiker, Pearson 2006 

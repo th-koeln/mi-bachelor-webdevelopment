@@ -15,14 +15,14 @@ parent: SPM3
 schwerpunkt: vc
 ---
 
-## Kurzbeschreibung:
+## Kurzbeschreibung
 Die Studierenden sollen in die Lage versetzt werden, abstrakte, vorwiegend numerische Datenbestände in 2-und 3-dimensionalen Repräsentationen zu visualisieren und mit interaktiven Methoden zu untersuchen, um Strukturen aufzudecken, Hypothesen abzuleiten und zu verifizieren, sowie Ergebnisse zu kommunizieren. Die Studierenden sind in der Lage, die aus modernen Simulations- und Messmethoden resultierenden umfangreichere Datenvolumina durch Visualisierungsverfahren einer Analyse zuzuführen. Dies wird sowohl anhand von theoretischen Grundlagen, der Analyse und Präsentation aktueller Forschungsergebnisse als auch der Verifikation der erworbenen Kenntnisse an eigenen Visualisierungen vermittelt.
 
 
-## Lehrform/SWS: 
+## Lehrform/SWS 
 4 SWS: Vorlesung 1 SWS; Seminar / Workshops 2 SWS; Projekt 1 SWS
 
-## Arbeitsaufwand: 
+## Arbeitsaufwand 
 Gesamtaufwand 180 Stunden, davon
 - 18h Vorlesung 
 - 18h Workshops
@@ -30,7 +30,7 @@ Gesamtaufwand 180 Stunden, davon
 - 18h Projekt
 - 102h Selbststudium
 
-## Angestrebte Lernergebnisse:
+## Angestrebte Lernergebnisse
 - Die Studierenden sollen in die Lage versetzt werden, abstrakte, vorwiegend numerische Datenbestände in 2-und 3-dimensionalen Repräsentationen zu visualisieren und mit interaktiven Methoden zu untersuchen, um Strukturen aufzudecken, Hypothesen abzuleiten und zu verifizieren sowie Ergebnisse zu kommunizieren. 
 - Die Studierenden sind in der Lage, die aus modernen Simulations- und Messmethoden resultierenden umfangreicheren Datenvolumina durch Visualisierungsverfahren einer Analyse zuzuführen. Dies wird sowohl anhand von theoretischen Grundlagen, der Analyse und Präsentation aktueller Forschungsergebnisse als auch der Verifikation der erworbenen Kenntnisse an eigenen Visualisierungen vermittelt.
 - Die Studierenden sind fähig, Problemstellungen grundlagenbasiert, systemanalytisch und multiperspektivisch zu analysieren, zu formulieren, zu formalisieren und durch geeignete Visualisierungen zu lösen sowie diese Lösungen kritisch zu evaluieren.
@@ -38,7 +38,7 @@ Gesamtaufwand 180 Stunden, davon
 - Die Studierenden lernen ihre und andere Visualisierung zu verstehen, zu bewerten und angemessen in eigene wissenschaftliche Arbeiten einfließen zu lassen.
 - Das erworbene Können kann in verschiedensten Bereichen eingesetzt werden, um als Datenanalyst, in der Qualitätskontrolle oder Informationsvisualisierung tätg zu werden.
 
-## Inhalt:
+## Inhalt
 Grundlagen der Visualisierung und Exploration mehrdimensionaler Daten, aktuelle Visualisierungsverfahren und Interaktionsverfahren.
 Darüber hinaus werden Grundlagen der statistischen Datenanalyse und der 3D-Computergrafik einbezogen.
 Im speziellen, aber nicht ausschließlich, werden folgende Themen behandelt:
@@ -57,18 +57,18 @@ Im speziellen, aber nicht ausschließlich, werden folgende Themen behandelt:
 - Kognition
 - Story Telling
 
-## Studien-/Prüfungsleistungen:
+## Studien-/Prüfungsleistungen
 Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
 - 2 Fachvorträge (je 30%)
 - Projektpräsentation und -dokumentation (40%)
 
-## Medienformen:
+## Medienformen
 - Beamergestützte Vorlesung
 - Beamergestützte Seminarvorträge
 - Kombinierte Workshops aus beamergestütztem Vortrag und praktischer Übung am Rechner
 - Projekt in Kleingruppen, um die erlernten Methoden und Techniken einzuüben und zu vertiefen (Rechnerlabor)
 
-## Literatur:
+## Literatur
 - Tufte, E.R., The Visual Display of Quantitative Information, Cheshire,CT, Graphics Press 1983, und Envisioning Information, Cheshire,CT, Graphics Press 1994
 - Murray, S.: Interactive Data Visualization for the Web, O'Reilly
 - Meirelles, I.: Design for Information, Rockport

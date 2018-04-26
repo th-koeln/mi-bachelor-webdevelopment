@@ -14,10 +14,10 @@ type: wpm
 parent: WPM
 ---
 
-## Lehrform/SWS: 
+## Lehrform/SWS 
 4 SWS: Vorlesung 2 SWS; Projekt 2 SWS
 
-## Arbeitsaufwand:
+## Arbeitsaufwand
 
 Gesamtaufwand 180 Stunden, davon 
 - 36h Vorlesung 
@@ -25,10 +25,10 @@ Gesamtaufwand 180 Stunden, davon
 - 108h Selbststudium
 
 
-## Angestrebte Lernergebnisse:
+## Angestrebte Lernergebnisse
 Die Studierenden sollen quantitative und qualitative Forschungsmethoden mithilfe digitaler Medien durchführen können. Sie sollen elektronische Werkzeuge für die Datenerhebung und -auswertung beherrschen können. Sie sollen in der Lage sein, Forschungsergebnisse online zu diskutieren, sich international mit Forscherkollegen zu vernetzen und interdisziplinäre Forschungsprojekte durchzuführen. Zudem sollen Studierende in der Lage sein digitale Arbeitsumgebungen für die wissenschaftliche Zusammenarbeit zu gestalten.
 
-## Inhalt:
+## Inhalt
 - Online-Interviews
 - Experimente im virtuellen Raum
 - Gestaltung von Online-Fragebögen
@@ -38,16 +38,16 @@ Die Studierenden sollen quantitative und qualitative Forschungsmethoden mithilfe
 - Kollaboratives Online-Schreiben von wissenschaftlichen Publikaitonen
 - Systeme für Peer-Reviews
 
-## Studien-/Prüfungsleistungen:
+## Studien-/Prüfungsleistungen
 Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
 - Mündiche Prüfung (!00%)
 
-## Medienformen:
+## Medienformen
 - Beamer-gestützte Vorlesungen (Folien in elektronischer Form)
 - Skript und Handouts
 
 
-## Literatur:
+## Literatur
 - Döring, N. & Bortz, J. (2015). Forschungsmethoden und Evaluation: Für Human- und Sozialwissenschaftler. Berlin [u.a.]: Springer.
 - Flick, U. (2011). Qualitative Sozialforschung: Eine Einführung. Reinbek bei Hamburg: Rowohlt-Taschenbuch-Verl. 
 - Popper, K. R. (1972). The logic of scientific discovery. London: Hutchinson.

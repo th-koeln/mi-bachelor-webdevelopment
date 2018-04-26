@@ -14,19 +14,19 @@ type: wpm
 parent: WPM
 ---
 
-## Kurzbeschreibung:
+## Kurzbeschreibung
 Die Veranstaltung besteht aus wöchentlichen Vorlesungen, anschließendem Live-Coding und Hands-On Übungen. In den Vorlesungen werden verschiedene Inhalte mobiler Entwicklung, insbesondere der iOS Entwicklung mit Swift, behandelt. Dabei werden viele Aspekte und Konzepte der Informatik theoretisch und praktisch angewendet. Benotet wird ein durchzuführendes Projekt (2er Teams) und eine Abschlusspräsentation. Das Projekt ist frei zu wählen und beinhaltet die "Full Stack Entwicklung" einer iOS App mit Swift.
 
-## Lehrform/SWS: 
+## Lehrform/SWS 
 4 SWS: Vorlesung 2 SWS; Projekt 2 SWS
 
-## Arbeitsaufwand: 
+## Arbeitsaufwand 
 Gesamtaufwand 180 Stunden, davon
 - 36 h Vorlesung
 - 36 h Projektarbeit
 - 108 h Selbststudium
 
-## Angestrebte Lernergebnisse:
+## Angestrebte Lernergebnisse
 - Probleme Analysieren und Dekonstruieren, Lösungen Konzipieren, Fertigen und Bewerten
 - Bestehende Konzepte der Informatik konsolidieren
 - Neue Programmiersprache, Konzepte und Sprachfeatures
@@ -39,7 +39,7 @@ Gesamtaufwand 180 Stunden, davon
 - Kollaborative Arbeiten mit Git und GitHub
 - Agile Softwareentwicklung in einem Team
 
-## Inhalt:
+## Inhalt
 - Design und Implementierung einer iOS App mit Swift
 - Mobile Entwicklung, iOS, Xcode und Tools
 - Programmiersprache Swift, seine Konzepte und Patterns
@@ -54,18 +54,18 @@ Gesamtaufwand 180 Stunden, davon
 - Kollaboratives und agiles Arbeiten im Team
 - Arbeiten, Dokumentieren und Organisieren mithilfe von Versionsverwaltungs-Tools
 
-## Studien-/Prüfungsleistungen:
+## Studien-/Prüfungsleistungen
 Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
 - Projekt (50%)
 - Fachvortrag (50%)
 
-## Medienformen:
+## Medienformen
 - Folien, Live-Coding, GitHub, Smart- und White-Boards
 - Post-Its, Papier zum Skizzieren
 - Präsentationen, Praktischen Übungen und Aufgaben
 - Bücher, Links, Videos, PDFs
 
-## Literatur:
+## Literatur
 - Eidhof, C., Airspeed Velocity & Begemann, O. (2016). Advanced Swift: Updated for Swift 3.
 CreateSpace Independent Publishing Platform
 - Kugler, F. & Daniel, E. (2016). Core Data: Updated for Swift 3. CreateSpace Independent

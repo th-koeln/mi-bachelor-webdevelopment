@@ -12,11 +12,11 @@ published: true
 type: pm
 ---
 
-## Lehrform/SWS:
+## Lehrform/SWS
 
 4 SWS: Vorlesung 2 SWS; Seminar 2 SWS
 
-## Arbeitsaufwand:
+## Arbeitsaufwand
 
 Gesamtaufwand 180 Stunden, davon
 
@@ -25,10 +25,10 @@ Gesamtaufwand 180 Stunden, davon
 - 108h Selbststudium
 
 
-## Angestrebte Lernergebnisse:
+## Angestrebte Lernergebnisse
 Die Studierenden sollen wesentliche Begriffe und Grundpositionen bezüglich ethischer und sozialer Fragen, die durch die Digitalisierung in Medien und Gesellschaft (z.B. mediale Kommunikation und der Einsatz von Informationssystemen) aufgeworfen werden, kennen. Sie sollen weiterhin Positionen aus wissenschaftlichen Veröffentlichungen in diesem Bereich erarbeiten, vortragen und dazu Stellung beziehen können.
 
-## Inhalt:
+## Inhalt
 - Ethische Grundbegriffe
 - Relativismus, Utilitarismus, Deontologische Theorien
 - Ethik für Informatiker*innen
@@ -41,12 +41,12 @@ Die Studierenden sollen wesentliche Begriffe und Grundpositionen bezüglich ethi
 - Quantifizierung von persönlichen Informationen
 - Positive Computing
 
-## Studien-/Prüfungsleistungen:
+## Studien-/Prüfungsleistungen
 Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
 - Fachvortrag (50%)
 - schriftliche Ausarbeitung (50%)
 
-## Medienformen:
+## Medienformen
 - Beamer-gestützte Vorlesungen (Folien in elektronischer Form)
 
 
@@ -55,7 +55,7 @@ Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern ang
 - Anonyme Abstimmungen und Kommentare (PINGO)
 
 
-## Literatur:
+## Literatur
 - Calvo, R. A., & Peters, D. (2014). Positive computing: Technology for wellbeing and human potential.
 - Johnson: Computer Ethics, 4rd Edition, Prentice Hall 2007
 - Lawrence Lessing: Code Version 2.0 Basic Books, New York 2006

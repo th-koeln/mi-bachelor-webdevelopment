@@ -14,19 +14,19 @@ type: spmw
 ---
 
 
-## Lehrform/SWS:
+## Lehrform/SWS
 Platzhalter - das konkrete Schwerpunktmodul 1 ist für die Studienschwerpunkte im Studienverlaufsplan der Master-Prüfungsordnung Medieninformatik aufgeführt.
 
-## Arbeitsaufwand:
+## Arbeitsaufwand
 180 Stunden
 
-## Angestrebte Lernergebnisse:
+## Angestrebte Lernergebnisse
 
-## Inhalt:
+## Inhalt
 
-## Studien-/Prüfungsleistungen:
+## Studien-/Prüfungsleistungen
 
-## Medienformen:
+## Medienformen
 
-## Literatur:
+## Literatur
 
