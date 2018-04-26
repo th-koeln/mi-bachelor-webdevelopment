@@ -66,16 +66,16 @@ function flattenHeadingHierarchy( $headings ) {
   foreach( $headings[ 'sub' ] as $heading => $headingInfo ) {
     $lines[] = "\n" . $heading . "\n";
 
+    $headingInfoLines = array_map( function( $item ) {
+      return $item . "\n";
+    }, $headingInfo[ 'lines' ] );
+
+    $lines = array_merge( $lines, $headingInfoLines );
+
     $headingLines = flattenHeadingHierarchy( $headingInfo );
 
     $lines = array_merge( $lines, $headingLines );
   }
-
-  $headings[ 'lines' ] = array_map( function( $item ) {
-    return $item . "\n";
-  }, $headings[ 'lines' ] );
-
-  $lines = array_merge( $lines, $headings[ 'lines' ] );
 
   return $lines;
 }
@@ -316,9 +316,9 @@ class Document {
 
       $metaData[$id] = $page->infos;
     }
-  
+
     return  $metaData;
-    
+
   }
 
 
@@ -479,7 +479,7 @@ var_dump($page->content);
           /* No metadata table for "intros" */
           if( isset( $page->infos[ 'type' ] ) &&
             $page->infos[ 'type' ] === 'intro'    ) {
-            
+
             break;
           }
 
@@ -516,7 +516,7 @@ var_dump($page->content);
             // Schwerpunkt Ids holen
             $page->infos["schwerpunkt"] = str_replace(" ", "", $page->infos["schwerpunkt"]);
             $schwerpunktIds = explode(",", $page->infos["schwerpunkt"]);
-            
+
             // Namen auflösen
             $page->infos["schwerpunkt"] = array();
             foreach($schwerpunktIds as $id){
@@ -573,28 +573,28 @@ var_dump($page->content);
           $tableMarkdown = "\n";
 
           foreach( $tableData as $key => $field ) {
-	          
-	          if(preg_match("=[a-zA-Z0-9]=", $field[ 'value' ])){
-		        	$tableMarkdown .= "%begin-modulMeta%**" . $field[ 'title' ] . "**: " . $field[ 'value' ] . "%end-modulMeta%";  
-	          }
-            
+
+            if(preg_match("=[a-zA-Z0-9]=", $field[ 'value' ])){
+              $tableMarkdown .= "%begin-modulMeta%**" . $field[ 'title' ] . "**: " . $field[ 'value' ] . "%end-modulMeta%";
+            }
+
           }
 
           $tableMarkdown .= "\n";
 
-			
+
           $page->content = preg_replace( '/^\s*#(.*?)\n/', "$0\n\n" . $tableMarkdown, $page->content );
 
           break;
       }
-      
+
       $labelPath = $this->rewritePath($path);
-      
+
       $page->content = preg_replace_callback( '/# (.*?)\n/', function( $matches ) use($labelPath) {
-	      return "# ".$matches[1] . "§pathlabel:".$labelPath."§\n";
+        return "# ".$matches[1] . "§pathlabel:".$labelPath."§\n";
       } , $page->content );
 
-			//$page->content = "§pathlabel:".$this->rewritePath($path)."§\n" . $page->content;
+      //$page->content = "§pathlabel:".$this->rewritePath($path)."§\n" . $page->content;
 
     }
 
@@ -607,14 +607,14 @@ var_dump($page->content);
 
   }
 
-	private function rewritePath( $path ) {
-		
-		$path =  preg_replace("=.*\/_=", "/mi-2017/", $path);
-		$path =  preg_replace("=\.md=", "", $path);
-		
-		return $path;
-	}
-	
+  private function rewritePath( $path ) {
+
+    $path =  preg_replace("=.*\/_=", "/mi-2017/", $path);
+    $path =  preg_replace("=\.md=", "", $path);
+
+    return $path;
+  }
+
   private function prepareAttachments() {
     $attachments = $this->attachments;
 
@@ -668,7 +668,7 @@ var_dump($page->content);
         }
         $this->files = $introFiles + $this->files;
 
-    
+
     case 'modulbeschreibungen-master':
 
         $introFiles = array();
@@ -807,7 +807,7 @@ var_dump($page->content);
         return '\\' . $symMatches[1];
       }, $url );
 
-	  
+
       return '\url{'.$url.'}';
     }, $latexContent );
 
@@ -815,39 +815,39 @@ var_dump($page->content);
     $latexContent = preg_replace_callback( '/\\\begin{\\s*itemize\\s*}(.*?)\\\item/is', function( $matches ) {
       return "\\begin{itemize}\n\\tightlist\n\\item";
     }, $latexContent );
-	
-	/* SChöne Zitate */
-	$latexContent = preg_replace( '/{quote}/', "{siderules}", $latexContent);
-	
-	/* Links ins Repo */
-	$latexContent = preg_replace( '=href{\.\./anhaenge=', "href{https://th-koeln.github.io/mi-2017/anhaenge", $latexContent);
-	$latexContent = preg_replace( '=href{\.\./download=', "href{https://th-koeln.github.io/mi-2017/download", $latexContent);
 
-	/* Hyperlinks im Latex */
-	$latexContent = preg_replace_callback( '/§pathlabel:(.*?)§/is', function( $matches ) {
+  /* SChöne Zitate */
+  $latexContent = preg_replace( '/{quote}/', "{siderules}", $latexContent);
+
+  /* Links ins Repo */
+  $latexContent = preg_replace( '=href{\.\./anhaenge=', "href{https://th-koeln.github.io/mi-2017/anhaenge", $latexContent);
+  $latexContent = preg_replace( '=href{\.\./download=', "href{https://th-koeln.github.io/mi-2017/download", $latexContent);
+
+  /* Hyperlinks im Latex */
+  $latexContent = preg_replace_callback( '/§pathlabel:(.*?)§/is', function( $matches ) {
      return "\label{" . str_replace("\\", "", $matches[1]) . "}";
-	}, $latexContent );
-	$latexContent = preg_replace_callback( '/href{(.*?)}{(.*?)}/is', function( $matches ) {
-	
-		$ret = "href{".$matches[1]."}{". $matches[2] . "}";
-		$target = $matches[1];
-		$pattern = "=^".$this->recipe["rootDir"]."=";
-		
-		if(preg_match($pattern, $target )){
-			$ret = "hyperref[". $matches[1] . "]{" . $matches[2] . "}";
-		}
-    
+  }, $latexContent );
+  $latexContent = preg_replace_callback( '/href{(.*?)}{(.*?)}/is', function( $matches ) {
+
+    $ret = "href{".$matches[1]."}{". $matches[2] . "}";
+    $target = $matches[1];
+    $pattern = "=^".$this->recipe["rootDir"]."=";
+
+    if(preg_match($pattern, $target )){
+      $ret = "hyperref[". $matches[1] . "]{" . $matches[2] . "}";
+    }
+
     return $ret;
-    
-	}, $latexContent );
+
+  }, $latexContent );
 
 
-	
-	/* schönes Modulköpfe */
-	$latexContent = preg_replace_callback( '/\\\%begin-modulMeta\\\%(.*?)\\\%end-modulMeta\\\%/is', function( $matches ) {
+
+  /* schönes Modulköpfe */
+  $latexContent = preg_replace_callback( '/\\\%begin-modulMeta\\\%(.*?)\\\%end-modulMeta\\\%/is', function( $matches ) {
       return "\begin{modulHead}\n". $matches[1] . "\n\\end{modulHead}\n";
     }, $latexContent );
-    
+
     return $latexContent;
   }
 
