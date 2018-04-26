@@ -26,8 +26,8 @@ Der Titel des Studienschwerpunkt, „Weaving the Web” wurde gewählt, da neben
 ## Berufsbilder
 Die Vernetzung von Iformationen, Services, Daten und "Dingen" über das World Wide Web bietet Chancen, die das Geschäft in vielen Branchen tief greifend verändern. Aber auch die Risiken, die mit dieser Vernetzung einhergehen treten in den Vordergrund. Für die Konzeption, Realisierung und Etablierung von Systemen im Ökosystems des Web werden die Absolventinnen und Absolventen des Schwerpunkts Weabing the Web" qualifiziert. Dese Qualifikation ist in verschiedestens Berufsbilern der Informatik gefordert. Beispiele sind:
 * Entwickler und Entwicklerin von Web Anwendungen z.B. in Web Agenturen oder Softwarehäusern: Hier tritt neben die Fähigkeit der Konzipierung und Entwicklung von Apps und Browser-basierten Anwendungen die Herausforderung, ein adäquates Netz von Diesten ud Daten aus dem Web als Grundlage zu konzipieren und umzusetzen. Auch die gezielte Interaktion mit Communities um Web Technologien und Fragen des Web ist spezifisch für dieses Berufsbild.
-* Architekt oder Architektin für Web Projekte in größeren Unternehmen oder Organisationen 
-* Gründer oder Gründerin von Start Ups im innovativen Web Umfeld
+* Architekt oder Architektin für Web Projekte in größeren Unternehmen oder Organisationen: auch für die Konzeption und Entwicklung von IT Prozessen innerhalb größerer Unternehmen nehmen Technologien des Web und Services aus dem Web eine immer wichtigere Rolle ein. In diesem Kontext ist die Bewertung von Chancen und Risiken der Nutzung von Services des Web eine wichtige Qualifikation ebenso wie die Fähigkeit zur Teilhabe an Web communities.   
+* Gründer oder Gründerin von Start Ups im innovativen Web Umfeld: 
 * Berater oder Beraterin für die Integration von Prozessen mit dem Web
 * Web Enthusiast oder Web Enthusiastin
 
