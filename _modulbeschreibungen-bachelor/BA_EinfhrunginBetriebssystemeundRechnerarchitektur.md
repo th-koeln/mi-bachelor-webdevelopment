@@ -21,11 +21,11 @@ type: pm
 
 ## Arbeitsaufwand:
 
-Gesamtaufwand 150 h, davon 
+Gesamtaufwand 150h, davon 
 
-- 36 h Vorlesung 
-- 36 h Übung
-- 78 h Selbststudium 
+- 36h Vorlesung 
+- 36h Übung
+- 78h Selbststudium 
 
 ## Angestrebte Lernergebnisse:
 
@@ -38,9 +38,6 @@ Die Studierenden sollen die Basiskonzepte und Grundlagen der Betriebssysteme und
 ## Studien-/Prüfungsleistungen:
 
 Schriftliche Prüfung.
-
-## Medienformen:
-
 
 ## Literatur:
 - Vorlesungsunterlagen: kommentierte Foliensammlung

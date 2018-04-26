@@ -21,12 +21,12 @@ type: pm
 
 ## Arbeitsaufwand:
 
-Gesamtaufwand 240 h, davon 
+Gesamtaufwand 240h, davon 
 
-- 54 h Vorlesung 
-- 36 h Praktikum
-- 18 h Übung
-- 132 h Selbststudium 
+- 54h Vorlesung 
+- 36h Praktikum
+- 18h Übung
+- 132h Selbststudium 
 
 ## Angestrebte Lernergebnisse:
 

@@ -16,16 +16,16 @@ type: pm
 ---
 
 ## Lehrform/SWS:
-4 SWS: Seminar 3 SWS; Übung 1 SWS 
+4 SWS: Seminar 3 SWS; Übung 1 SWS
 Seminar mit eingebetteten Übungselementen und Projektarbeit.
 
 ## Arbeitsaufwand:
-Gesamtaufwand 150 h, davon
+Gesamtaufwand 150h, davon
 
-- 30 h Seminar
-- 10 h Übung
-- 40 h Projekt
-- 70 h Selbststudium
+- 30h Seminar
+- 10h Übung
+- 40h Projekt
+- 70h Selbststudium
 
 ## Angestrebte Lernergebnisse:
 Die Studierenden können die inhaltlichen Ausrichtungen und die Zielsetzungen der Lehr- und Anwendungsdisziplin Medieninformatik benennen und gegenüber verwandten oder ähnlichen Disziplinen abgrenzen. 
@@ -42,7 +42,7 @@ Workshops zu grundlegenden projektrelevanten Themenfeldern (wie: Datenmodellieru
 Teambasiertes Projekt, welches ausgehend von Kontextszenarien eine (oder mehrere) Problemstellung(en) umreist, zu dem Lösungen konzipiert und prototypisch umgesetzt, dokumentiert und einem Fachpublikum präsentiert werden müssen.
 
 ## Studien-/Prüfungsleistungen:
-Projektpräsentation und schriftliche Ausarbeitung.
+Projektpräsentation(30%) und schriftliche Ausarbeitung(70%).
 
 ## Medienformen:
 - Beamer-gestützte Vorlesungen (Folien in elektronischer Form)
