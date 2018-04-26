@@ -24,14 +24,15 @@ Als charakterisierende Merkmale für die Entwicklung von Produkten und Diensten 
 Der Titel des Studienschwerpunkt, „Weaving the Web” wurde gewählt, da neben dem klassischen Software Engineering vor allem auch die Integration eigener Produkte und Dienste in das Web thematisiert wird.
 
 ## Berufsbilder
-Berufsfelder für Absolventinnen und Absolventen sind 
-* Entwickler und Entwicklerin von Web Anwendungen z.B. in Web Agenturen oder Softwarehäusern
+Die Vernetzung von Iformationen, Services, Daten und "Dingen" über das World Wide Web bietet Chancen, die das Geschäft in vielen Branchen tief greifend verändern. Aber auch die Risiken, die mit dieser Vernetzung einhergehen treten in den Vordergrund. Für die Konzeption, Realisierung und Etablierung von Systemen im Ökosystems des Web werden die Absolventinnen und Absolventen des Schwerpunkts Weabing the Web" qualifiziert. Dese Qualifikation ist in verschiedestens Berufsbilern der Informatik gefordert. Beispiele sind:
+* Entwickler und Entwicklerin von Web Anwendungen z.B. in Web Agenturen oder Softwarehäusern: Hier tritt neben die Fähigkeit der Konzipierung und Entwicklung von Apps und Browser-basierten Anwendungen die Herausforderung, ein adäquates Netz von Diesten ud Daten aus dem Web als Grundlage zu konzipieren und umzusetzen. Auch die gezielte Interaktion mit Communities um Web Technologien und Fragen des Web ist spezifisch für dieses Berufsbild.
 * Architekt oder Architektin für Web Projekte in größeren Unternehmen oder Organisationen 
 * Gründer oder Gründerin von Start Ups im innovativen Web Umfeld
 * Berater oder Beraterin für die Integration von Prozessen mit dem Web
 * Web Enthusiast oder Web Enthusiastin
 
 ## Schwerpunktspezifische Pflichtmodule
-- [Sicherheit, Privatsphäre und Vertrauen](/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_IT-Sicherheit)
-- [Web Architekturen](/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_Web-Architekturen) 
-- [Web Technologien](/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_Web-Technologien)
+
+- Sicherheit, Privatsphäre und Vertrauen
+- Web Architekturen
+- Web Technologien
