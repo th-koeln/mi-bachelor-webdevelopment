@@ -123,7 +123,74 @@ Ziel ist es, soziale Innovation durch digitale Anwendungen entstehen zu lassen. 
 
 ## Berufsbilder§pathlabel:/mi-2017/modulbeschreibungen-master/schwerpunkt-soziotechnische-systeme§
 
-Bitte nachtragen
+
+### Service Designer§pathlabel:/mi-2017/modulbeschreibungen-master/schwerpunkt-soziotechnische-systeme§
+
+- Entwicklung von digitalen Diensten im sozialen Bereich (z.B. E-Health, therapeutische Apps)
+
+- Optimierung von Unternehmens- und Kundenbeziehungen
+
+- Verknüpfung vorhandener Dienstleistungen oder Ressourcen zu neuen Dienstleistungen (z.B. Sharing Economy)
+
+
+### Community Designer§pathlabel:/mi-2017/modulbeschreibungen-master/schwerpunkt-soziotechnische-systeme§
+
+- Effiziente Gestaltung von (Special Interest) Online Communities
+
+- Nutzung sozialer Plattformen für neue Dienste, virale Kommunikation, Kundenbindung und Vernetzung
+
+
+### Social Media Expert§pathlabel:/mi-2017/modulbeschreibungen-master/schwerpunkt-soziotechnische-systeme§
+
+- Optimierung von Unternehmenspräsenzen und -kommunikation in Social Media (auf technischer und partizipativer Basis)
+
+- Identifikation von Stimmungsbildern und Trends
+
+- Umsetzung von Social Media Angeboten 
+
+
+### Collaboration Architekt§pathlabel:/mi-2017/modulbeschreibungen-master/schwerpunkt-soziotechnische-systeme§
+
+- Neueste Technologien kennen, testen und bewerten
+
+- Change Management
+
+- Wissensmanagement
+
+- Konzeption und Gestaltung von Firmen-Intranets
+
+
+### Innovationsmanager§pathlabel:/mi-2017/modulbeschreibungen-master/schwerpunkt-soziotechnische-systeme§
+
+- Kultivierung von Design Thinking, Open Innovation und Eventorganisation
+
+- Umsetzung von Prototypen
+
+
+### Product Owner§pathlabel:/mi-2017/modulbeschreibungen-master/schwerpunkt-soziotechnische-systeme§
+
+- Identifikation von neuen Produkten z.B. im Bereich E-Health, Smart Home, E-Sports
+
+- Integration existierender Dienste und Komponenten
+
+- Ecosystem Management
+
+
+### IT Aktivist§pathlabel:/mi-2017/modulbeschreibungen-master/schwerpunkt-soziotechnische-systeme§
+
+- Ethikrat in großen Unternehmen
+
+- Beratung für E-Strategien
+
+- Politische Beratung
+
+- Vertretung von NGOs
+
+- Consulting
+
+- Lobbyarbeit
+
+Der Schwerpunkt Social Computing spricht sowohl etablierte als auch neu entstehende Berufsfelder an. Beispielhaft seien folgende Berufsfelder und dazugehörige Aufgaben genannt:
 
 
 ## Schwerpunktspezifische Pflichtmodule§pathlabel:/mi-2017/modulbeschreibungen-master/schwerpunkt-soziotechnische-systeme§
@@ -225,17 +292,26 @@ Der Titel des Studienschwerpunkt, „Weaving the Web” wurde gewählt, da neben
 
 ## Berufsbilder§pathlabel:/mi-2017/modulbeschreibungen-master/schwerpunkt-weaving-the-web§
 
-Berufsfelder für Absolventinnen und Absolventen sind 
 
-* Entwickler und Entwicklerin von Web Anwendungen z.B. in Web Agenturen oder Softwarehäusern
+### Entwickler und Entwicklerin von Web Anwendungen z.B. in Web Agenturen oder Softwarehäusern§pathlabel:/mi-2017/modulbeschreibungen-master/schwerpunkt-weaving-the-web§
 
-* Architekt oder Architektin für Web Projekte in größeren Unternehmen oder Organisationen 
+Hier tritt neben die Fähigkeit der Konzipierung und Entwicklung von Apps und Browser-basierten Anwendungen die Herausforderung, ein adäquates Netz von Diesten ud Daten aus dem Web als Grundlage zu konzipieren und umzusetzen. Auch die gezielte Interaktion mit Communities um Web Technologien und Fragen des Web ist spezifisch für dieses Berufsbild.
 
-* Gründer oder Gründerin von Start Ups im innovativen Web Umfeld
 
-* Berater oder Beraterin für die Integration von Prozessen mit dem Web
+### Architekt oder Architektin für Web Projekte in größeren Unternehmen oder Organisationen§pathlabel:/mi-2017/modulbeschreibungen-master/schwerpunkt-weaving-the-web§
 
-* Web Enthusiast oder Web Enthusiastin
+Auch für die Konzeption und Entwicklung von IT Prozessen innerhalb größerer Unternehmen nehmen Technologien des Web und Services aus dem Web eine immer wichtigere Rolle ein. In diesem Kontext ist die Bewertung von Chancen und Risiken der Nutzung von Services des Web eine wichtige Qualifikation ebenso wie die Fähigkeit zur Teilhabe an Web communities.   
+
+
+### Weitere Berufsfelder§pathlabel:/mi-2017/modulbeschreibungen-master/schwerpunkt-weaving-the-web§
+
+- Gründer oder Gründerin von Start Ups im innovativen Web Umfeld
+
+- Berater oder Beraterin für die Integration von Prozessen mit dem Web
+
+- Web Enthusiast oder Web Enthusiastin
+
+Die Vernetzung von Informationen, Services, Daten und "Dingen" über das World Wide Web bietet Chancen, die das Geschäft in vielen Branchen tief greifend verändern. Aber auch die Risiken, die mit dieser Vernetzung einhergehen treten in den Vordergrund. Für die Konzeption, Realisierung und Etablierung von Systemen im Ökosystems des Web werden die Absolventinnen und Absolventen des Schwerpunkts "Weaving the Web" qualifiziert. Diese Qualifikation ist in verschiedenen Berufsbildern der Informatik gefordert, z.B.:
 
 
 ## Schwerpunktspezifische Pflichtmodule§pathlabel:/mi-2017/modulbeschreibungen-master/schwerpunkt-weaving-the-web§
