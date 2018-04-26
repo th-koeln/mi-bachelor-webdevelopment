@@ -303,15 +303,21 @@ Hier tritt neben die Fähigkeit der Konzipierung und Entwicklung von Apps und Br
 Auch für die Konzeption und Entwicklung von IT Prozessen innerhalb größerer Unternehmen nehmen Technologien des Web und Services aus dem Web eine immer wichtigere Rolle ein. In diesem Kontext ist die Bewertung von Chancen und Risiken der Nutzung von Services des Web eine wichtige Qualifikation ebenso wie die Fähigkeit zur Teilhabe an Web communities.   
 
 
-### Weitere Berufsfelder§pathlabel:/mi-2017/modulbeschreibungen-master/schwerpunkt-weaving-the-web§
+### Gründer oder Gründerin von Start Ups im innovativen Web Umfeld§pathlabel:/mi-2017/modulbeschreibungen-master/schwerpunkt-weaving-the-web§
 
-- Gründer oder Gründerin von Start Ups im innovativen Web Umfeld
+Das Web ist ein hervorragendes Umfeld für Start Ups, da mit geringem Kapitaleinsatz und hoher Innnovationskraft Produkte und Dienste erfolgreich positioniert werden können.
 
-- Berater oder Beraterin für die Integration von Prozessen mit dem Web
 
-- Web Enthusiast oder Web Enthusiastin
+### Berater oder Beraterin für die Integration von Prozessen mit dem Web§pathlabel:/mi-2017/modulbeschreibungen-master/schwerpunkt-weaving-the-web§
 
-Die Vernetzung von Informationen, Services, Daten und "Dingen" über das World Wide Web bietet Chancen, die das Geschäft in vielen Branchen tief greifend verändern. Aber auch die Risiken, die mit dieser Vernetzung einhergehen treten in den Vordergrund. Für die Konzeption, Realisierung und Etablierung von Systemen im Ökosystems des Web werden die Absolventinnen und Absolventen des Schwerpunkts "Weaving the Web" qualifiziert. Diese Qualifikation ist in verschiedenen Berufsbildern der Informatik gefordert, z.B.:
+Die Informatik, generell, aber besonders innovative und schnelllebige Felder wie das Web bietet sehr gute Möglichkeiten, aktuelles Wissen als Berater oder Beraterin in Unternehmen einzubringen. 
+
+
+### Web Enthusiast oder Web Enthusiastin§pathlabel:/mi-2017/modulbeschreibungen-master/schwerpunkt-weaving-the-web§
+
+Neben den Auswirkungen des Web auf die Geschäftsfelder von Unternehmen hat das Web auch weit reichende gesellschaftliche Wirkungen. Hier hat sich eine Szene gebildet, in der Menschen auf Basis ihrer Web Kompetenz öffentliche Präsenz erlangen, die für publizistische Tätigkeit und Beratung von öffentlichen Verwaltungen und Unternehmen genutzt wird. 
+
+Die Vernetzung von Informationen, Diensten, Daten und "Dingen" über das World Wide Web bietet Chancen, die das Geschäft in vielen Branchen tief greifend verändern. Aber auch die Risiken, die mit dieser Vernetzung einhergehen treten in den Vordergrund. Für die Konzeption, Realisierung und Etablierung von Systemen im Ökosystems des Web werden die Absolventinnen und Absolventen des Schwerpunkts Weaving the Web" qualifiziert. Diese Qualifikation ist in verschiedenen Berufsbildern der Informatik gefordert. Beispiele sind:
 
 
 ## Schwerpunktspezifische Pflichtmodule§pathlabel:/mi-2017/modulbeschreibungen-master/schwerpunkt-weaving-the-web§
