@@ -14,16 +14,16 @@ published: true
 type: pm
 ---
 
-## Lehrform/SWS:
+## Lehrform/SWS
 4 SWS: Seminar
 
-## Arbeitsaufwand:
+## Arbeitsaufwand
 Gesamtaufwand 150h, davon 
 
 * 32h Seminar
 * 118h Selbststudium
 
-## Angestrebte Lernergebnisse:
+## Angestrebte Lernergebnisse
 Die Studierenden  
 
 - kennen Techniken wissenschaftlichen Arbeitens und können diese anwenden
@@ -31,17 +31,17 @@ Die Studierenden
 - gewinnen einen ersten Überblick über das Spektrum von aktuellen Themen in der Medieninformatik
 - können eigene Projektergebnisse vor einem Fachpublikum in Vortrag und Diskussion darstellen und verteidigen
 
-## Inhalt:
+## Inhalt
 Das Praxisprojektseminar besteht aus
 
 - Veranstaltungen in denen Techniken wissenschaftlichen Arbeitens vermittelt werden,
 - Audits über den aktuellen Stand ihres Projektes,
 - Fachvorträgen von Studierenden über ihre Projektergebnisse.
 
-## Studien-/Prüfungsleistungen:
+## Studien-/Prüfungsleistungen
 Seminarvortrag zur Praxisprojektarbeit
 
-## Literatur:
+## Literatur
 - Rechenberg: Technisches Schreiben (nicht nur) für Informatiker, 2. Aufl, Hanser Verlag 2003
 - M. Karmasin, R. Ribing: Die Gestaltung wissenschaftlicher Arbeiten, 2. Auflage WUV 2007
 

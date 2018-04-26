@@ -14,11 +14,11 @@ published: true
 type: pm
 ---
 
-## Lehrform/SWS:
+## Lehrform/SWS
 
 4 SWS: Vorlesung 2 SWS; Übung 1 SWS; Praktikum 1 SWS
 
-## Arbeitsaufwand:
+## Arbeitsaufwand
 
 Gesamtaufwand 150h, davon 
 
@@ -27,7 +27,7 @@ Gesamtaufwand 150h, davon
 - 18h Übung
 - 78h Selbststudium 
 
-## Angestrebte Lernergebnisse:
+## Angestrebte Lernergebnisse
 
 Die Studierenden sollen
 
@@ -38,7 +38,7 @@ Die Studierenden sollen
 - ein SQL-Statement tunen können
 - mit dem Transaktionsbegriff, der Mehrbenutzersynchronisation und Verfahren zur Fehlererholung sowie zur Sicherung der Datenintegrität vertraut sein
 
-## Inhalt:
+## Inhalt
 - Grundbegriffe und Architektur von Datenbanken  
 - Ein Vorgehensmodell zur Erstellung eines Datenbanksystems
 - Grundlagen des relationalen Modells
@@ -51,11 +51,11 @@ Die Studierenden sollen
 - Datenbanksprache SQL: DDL, DML, DAL, Integritätsbedingungen und Constraints unter dem jeweils aktuellen SQL-Standard, zur Zeit SQL2013
 - Transaktionskonzepte, Mehrbenutzersynchronisation, Fehlererholung und Datensicherheit
 
-## Studien-/Prüfungsleistungen:
+## Studien-/Prüfungsleistungen
 Schriftliche Prüfung, sowie erfolgreiche Teilnahme am Praktikum als Prüfungsvorleistung.
 Semesterbegleitende Multiple‐Choice‐Tests mit Punkten für die Klausur.
 
-## Medienformen:
+## Medienformen
 * Folien gestützer Vortrag - aber nur sehr selten  
 * I.d.R. erarbeiten der Theorie anhand von überschaubaren Problemstellungen und deren in der Veranstaltung entwickelten Lösungen - hauptsächliches Vorgehen  
 * Fragen der Studierenden beantworten - sehr erwünscht!  
@@ -63,7 +63,7 @@ Semesterbegleitende Multiple‐Choice‐Tests mit Punkten für die Klausur.
 * edb, die DB-eLearning-Plattform der TH Köln  
 * DB-Wiki, das Online Lexikon für Datenbank-Themen
 
-## Literatur:
+## Literatur
 - Elmasri, R.; Navathe, S. B.: Grundlagen von Datenbanksystemen. Pearson‐Studium. 2009
 - Faeskorn‐Woyke, H.; Bertelsmeier, B.; Riemer, P.; Bauer, E.: Datenbanksysteme ‐ Theorie und Praxis mit SQL2003, Oracle und MySQL. Pearson‐Studium. 2. Aufl. 2011
 - Kemper, A.; Eickler, A.: Datenbanksysteme – Eine Einführung. Oldenbourg‐Verlag, 2015

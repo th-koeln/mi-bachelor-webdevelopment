@@ -14,17 +14,17 @@ published: true
 type: pm
 ---
 
-## Lehrform/SWS:
+## Lehrform/SWS
 Vorlesung und Praktikum/Übung
 
-## Arbeitsaufwand: 
+## Arbeitsaufwand
 Gesamtaufwand 300h, davon 
 
 * 65h Vorlesung
 * 65h Praktikum/Übung
 * 170h Selbststudium
 
-## Angestrebte Lernergebnisse:
+## Angestrebte Lernergebnisse
 * Die Studierenden erwerben Grundkenntnisse in kognitions-, arbeits- und organisations-psychologischen Grundkonzepten und können diese auf Problemstellungen, im Kontext der Mensch-Computer Interaktion, anwenden. 
 * Die Studierenden kennen Modelle, Methoden, Arbeits- und Dokumentationstechniken der Mensch-Computer Interaktion, können sie anwenden, kritisch diskutieren und für konkrete Aktivitäten in Entwicklungsprojekten unter Abwägung der Alternativen auswählen. 
 * Sie kennen relevante internationale Normen und Standards, können sie anwenden und erarbeitete Ergebnisse kritisch diskutieren und einordnen.
@@ -33,7 +33,7 @@ Gesamtaufwand 300h, davon
 * Die Studierenden erlangen die Fähigkeit zum fachlichen Diskurs.
 
 
-## Inhalt:
+## Inhalt
 
 - kognitionspsychologische Grundlagen
 - Benutzermodellierung
@@ -47,15 +47,15 @@ Gesamtaufwand 300h, davon
 - Prototyping und Sketching
 - Evaluation
 
-## Studien-/Prüfungsleistungen:
+## Studien-/Prüfungsleistungen
 Schriftliche Prüfung.
 
-## Medienformen:
+## Medienformen
 * Beamergestützte Vorlesung
 * Case Studies
 * Lehrfilme
 
-## Literatur:
+## Literatur
 - Dix, A.; Finlay, J.; Abowd, G. & Beale, R.: Human-Computer Interaction. Harlow, Pearson, 2004 (3rd ed.),
 - Benyon, D., Turner, S. Turner, P.  Designing Interactive Systems: People, Activities, Contexts, Technologies, Addison Wesley, 2005,
 - Anderson, J.R.: Kognitive Psychologie. Heidelberg, Springer, 2001 (3. Auflage).

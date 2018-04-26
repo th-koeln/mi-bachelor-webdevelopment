@@ -1,30 +1,56 @@
 
-# Algorithmen und Programmierung 1
+# Einführung§pathlabel:/mi-2017/modulbeschreibungen-bachelor/einfuehrung§
+
+Der Medieninformatik Bachelor ist ein berufsqualifizierender, grundständiger Studiengang. Die Regelstudienzeit des anwendungsorientierten Informatikstudiengangs beträgt 6 Semester. Die Einschreibung ist ausschließlich zum Wintersemester möglich.
+
+Der Studiengang besteht im Kern aus zwei parallelen Strängen: einem Informatik und einem Medien-Strang. Die verschiedenen Module lassen sich mehr oder weniger gut diesen beiden Strängen zuordnen. Darüber hinaus gibt es eine Reihe von Modulen, die der Querschnittsqualifikation dienen, z.B. die Studierenden bei der Durchführung von Projekten oder im Umgang mit betriebswirtschaftlichen Frage- und Problemstellungen unterstützen. 
+
+Das Studium verfolgt drei grundlegende Ziele:
+
+- Aufbau von Kommunikations- und Methodenkompetenz
+
+- Vermittlung eines umfassenden Technologieverständnis
+
+- kennenlernen von Geschäftsprozessen und Kernaktivitäten der Medienwirtschaft
+
+Der zeitliche Ablauf des Studiums teilt sich in drei Abschnitte: Grundlagen, Vertiefung und Spezialisierung. In den ersten beiden Semestern überwiegen die Module aus dem Informatik Strang. Hier werden die mathematischen, theoretischen und technischen Grundlagen mit Lehrveranstaltungen wie Mathematik, Algorithmen und Programmierung, Theoretische Informatik und Einführung in Betriebssysteme und Rechnerarchitekturen vermittelt. Mit fortschreitender Fachsemesterzahl, nehmen die Module aus dem Medienstrang zunehmend Raum ein. 
+
+Im vierten Semester kann im großen Vertiefungsmodul eine von drei Vertiefungsrichtungen gewählt werden. Zur Auswahl stehen: Visual Computing, Social Computing und Web-Development. Im Vertiefungsmodul ist ein Projektanteil von etwa fünf Creditpoints vorgesehen. Das Entwicklungsprojekt im fünften Semester kann entsprechend der fachlichen Neigung der jeweiligen Studierenden ausgestaltet werden.
+
+Das vierte Semester eignet sich aus verschiedenen Gründen gut für ein Auslandssemester. Die Studierenden verfügen über ausreichende Qualifikationen und Projekterfahrungen, um in verschiedenen Kontexten handlungsfähig zu sein. Sie stehen aber noch vor dem Spezialisierungsteil des Studiums und verfügen damit idealerweise über die fachliche, mentale und organisatorische Offenheit für ein Austauschsemester. Wegen der wenigen Module im vierten Semester und vor allem wegen des großen Vertiefungsmoduls können im Ausland erworbene Qualifikationen sehr flexibel anerkannt werden. Die Anerkennung erfolgt auf Basis des “Übereinkommen über die Anerkennung von Qualifikationen im Hochschulbereich in der europäischen Region”.
+
+Den Abschluss des Studiums bildet die Bachelorarbeit. In dieser bearbeiten die Studierenden selbstständig eine praxisorientierte Aufgabe aus einem gewünschten Fachgebiet. Diese können sie in Kooperation mit einem Unternehmen schreiben und somit Kontakte zur Wirtschaft und damit potentiellen Arbeitgebern knüpfen.
+
+![Studienverlaufsplan Medieninformatik Bachelor](../anhaenge/bilder/studienverlaufsplan-mi-bachelor.png)
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Frank Victor%end-modulMeta%%begin-modulMeta%**Kürzel**: AP1%end-modulMeta%%begin-modulMeta%**Studiensemester**: 1%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 8%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
+# Algorithmen und Programmierung 1§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_AlgorithmenundProgrammierung1§
 
 
-## Lehrform/SWS:
+
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Frank Victor%end-modulMeta%%begin-modulMeta%**Studiensemester**: 1%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 8%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
+
+
+## Lehrform/SWS§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_AlgorithmenundProgrammierung1§
 
 6 SWS: Vorlesung 3 SWS; Übung 1 SWS; Praktikum 2 SWS
 
 
-## Arbeitsaufwand:
+## Arbeitsaufwand§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_AlgorithmenundProgrammierung1§
 
-Gesamtaufwand 240 h, davon 
+Gesamtaufwand 240h, davon 
 
-- 54 h Vorlesung 
+- 54h Vorlesung 
 
-- 36 h Praktikum
+- 36h Praktikum
 
-- 18 h Übung
+- 18h Übung
 
-- 132 h Selbststudium 
+- 132h Selbststudium 
 
 
-## Angestrebte Lernergebnisse:
+## Angestrebte Lernergebnisse§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_AlgorithmenundProgrammierung1§
 
 Die Studierenden sollen
 
@@ -37,7 +63,7 @@ Die Studierenden sollen
 - die Fähigkeit erlernen, algorithmische Entwurfsmuster zu erkennen und anzuwenden
 
 
-## Inhalt:
+## Inhalt§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_AlgorithmenundProgrammierung1§
 
 * Prozedurale Programmierung am Beispiel von C.
 
@@ -56,19 +82,19 @@ Die Studierenden sollen
 * Entwicklungsumgebungen.
 
 
-## Studien-/Prüfungsleistungen:
+## Studien-/Prüfungsleistungen§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_AlgorithmenundProgrammierung1§
 
-Klausur sowie erfolgreiche Teilnahme am Praktikum als Prüfungsvorleistung
+Schriftliche Prüfung, sowie erfolgreiche Teilnahme am Praktikum als Prüfungsvorleistung.
 
 
-## Medienformen:
+## Medienformen§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_AlgorithmenundProgrammierung1§
 
 - Beamer-gestützte Vorlesungen (Folien in elektronischer Form) 
 
 - Praktikum an Rechnern des Labors
 
 
-## Literatur:
+## Literatur§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_AlgorithmenundProgrammierung1§
 
 * Vorlesungsunterlagen: Foliensammlung, ausformuliertes Skript, Beispiellösungen, Übungsklausuren mit Lösungen
 
@@ -80,37 +106,37 @@ Klausur sowie erfolgreiche Teilnahme am Praktikum als Prüfungsvorleistung
 
 
 
-# Algorithmen und Programmierung 2
+# Algorithmen und Programmierung 2§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_AlgorithmenundProgrammierung2§
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Christian Kohls%end-modulMeta%%begin-modulMeta%**Kürzel**: AP2%end-modulMeta%%begin-modulMeta%**Studiensemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 7%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: Keine über die Zulassungsvorrausetzungen hinausgehenden Vorraussetzungen%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Christian Kohls%end-modulMeta%%begin-modulMeta%**Studiensemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 7%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Empfohlene Voraussetzungen**: Algorithmen und Programmierung 1%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
 
 
-## Lehrform/SWS:
+## Lehrform/SWS§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_AlgorithmenundProgrammierung2§
 
 6 SWS: Vorlesung 3 SWS; Übung 1 SWS; Praktikum 2 SWS
 
 
-## Arbeitsaufwand:
+## Arbeitsaufwand§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_AlgorithmenundProgrammierung2§
 
-Gesamtaufwand 210 h, davon 
+Gesamtaufwand 210h, davon 
 
-- 54 h Vorlesung 
+- 54h Vorlesung 
 
-- 36 h Praktikum
+- 36h Praktikum
 
-- 18 h Übung
+- 18h Übung
 
-- 102 h Selbststudium 
+- 102h Selbststudium 
 
 
-## Angestrebte Lernergebnisse:
+## Angestrebte Lernergebnisse§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_AlgorithmenundProgrammierung2§
 
 Die Studierende sollen Objektorientierung, die Prinzipien der Algorithmenentwicklung und grundlegende Algorithmen verstehen und die Grundstrukturen der Java-Bibliothek anwenden können.
 
 
-## Inhalt:
+## Inhalt§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_AlgorithmenundProgrammierung2§
 
 * Basisalgorithmen: Suchen u. Sortieren
 
@@ -121,19 +147,19 @@ Die Studierende sollen Objektorientierung, die Prinzipien der Algorithmenentwick
 * Methodik des objektorientierten Programmierens
 
 
-## Studien-/Prüfungsleistungen:
+## Studien-/Prüfungsleistungen§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_AlgorithmenundProgrammierung2§
 
-Klausur sowie erfolgreiche Teilnahme am Praktikum als Prüfungsvorleistung
+Schriftliche Prüfung, sowie erfolgreiche Teilnahme am Praktikum als Prüfungsvorleistung.
 
 
-## Medienformen:
+## Medienformen§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_AlgorithmenundProgrammierung2§
 
 * Beamer-gestützte Vorlesungen (Folien in elektronischer Form) 
 
 * Praktikum an Rechnern des Labors
 
 
-## Literatur:
+## Literatur§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_AlgorithmenundProgrammierung2§
 
 - Vorlesungsunterlagen: Foliensammlung, ausformuliertes Skript, Beispiellösungen
 
@@ -145,35 +171,35 @@ Klausur sowie erfolgreiche Teilnahme am Praktikum als Prüfungsvorleistung
 
 
 
-# Audiovisuelles Medienprojekt
+# Audiovisuelles Medienprojekt§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_AVM§
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: Prof. Hans Kornacher%end-modulMeta%%begin-modulMeta%**Kürzel**: AVM%end-modulMeta%%begin-modulMeta%**Studiensemester**: 3%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 5%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: Keine über die Zulassungsbedingungen hinausgehenden Voraussetzungen%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: Prof. Hans Kornacher%end-modulMeta%%begin-modulMeta%**Studiensemester**: 3%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 5%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Empfohlene Voraussetzungen**: Einführung in die Medieninformatik%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
 
 
-## Kurzbeschreibung
+## Kurzbeschreibung§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_AVM§
 
 Im Mittelpunkt dieses Moduls steht die digitale audiovisuelle Medienproduktion in den Formaten Porträt- und Dokumentarfilm.
 
 
-## Lehrform/SWS:
+## Lehrform/SWS§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_AVM§
 
 4 SWS: Vorlesung 2 SWS; Projekt 2 SWS
 
 
-## Arbeitsaufwand:
+## Arbeitsaufwand§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_AVM§
 
-Gesamtaufwand 150 h, davon
+Gesamtaufwand 150h, davon
 
-- 36 h Vorlesung
+- 36h Vorlesung
 
-- 36 h Projektarbeit
+- 36h Projektarbeit
 
-- 78 h Selbststudium
+- 78h Selbststudium
 
 
-## Angestrebte Lernergebnisse:
+## Angestrebte Lernergebnisse§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_AVM§
 
 - Die Studierenden kennen die grundlegenden Erzählformen und Formate audiovisueller Medien und können auf der Basis klassischer Erzählmuster eigene audiovisuelle Erzählformen entwickeln. 
 
@@ -184,7 +210,7 @@ Gesamtaufwand 150 h, davon
 - Die Studierenden können in den unterschiedlichsten Berufsfeldern digitaler audiovisueller Medien die Entwicklung und den Einsatz audiovisuellen Content beraten, planen, selbst durchführen und verantworten.
 
 
-## Inhalt:
+## Inhalt§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_AVM§
 
 Im Mittelpunkt dieses Moduls steht die digitale audiovisuelle Medienproduktion.
 
@@ -209,12 +235,12 @@ Begleitend zu der Produktion werden folgende fachspezifischen Inhalte thematisie
 - Schnitt und Montage
 
 
-## Studien-/Prüfungsleistungen:
+## Studien-/Prüfungsleistungen§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_AVM§
 
 Projektarbeit
 
 
-## Medienformen:
+## Medienformen§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_AVM§
 
 - Beamer-gestützte Vorlesungen
 
@@ -223,7 +249,7 @@ Projektarbeit
 - Audiovisuelle Aufnahme- und Wiedergabegeräte
 
 
-## Literatur:
+## Literatur§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_AVM§
 
 - James Monaco, Film verstehen, Rowolth Taschenbuch Verlag Hamburg, 1980, ISBN 3-499-162717
 
@@ -243,107 +269,144 @@ Projektarbeit
 
 
 
-# Bachelorarbeit
+# Bachelorarbeit§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Bachelorarbeit§
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: alle Informatik Professoren%end-modulMeta%%begin-modulMeta%**Kürzel**: BA%end-modulMeta%%begin-modulMeta%**Studiensemester**: 6%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 12%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: alle Modulprüfungen außer Bachelorarbeit und Kolloquium bestanden%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: alle Informatik Professoren%end-modulMeta%%begin-modulMeta%**Studiensemester**: 6%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 12%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: alle Modulprüfungen außer Bachelorarbeit und Kolloquium bestanden%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
 
 
-## Lehrform/SWS:
+## Lehrform/SWS§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Bachelorarbeit§
 
 Angeleitetes, eigenverantwortliches Arbeiten
 
 
-## Arbeitsaufwand:
+## Arbeitsaufwand§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Bachelorarbeit§
 
 360 Stunden
 
 
-## Angestrebte Lernergebnisse:
+## Angestrebte Lernergebnisse§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Bachelorarbeit§
 
 Die Bachelorarbeit soll zeigen, dass der Prüfling befähigt ist, innerhalb einer vorgegebenen Frist eine praxisorientierte Aufgabe aus seinem Fachgebiet sowohl in ihren fachlichen Einzelheiten als auch in den fachübergreifenden Zusammenhängen nach wissenschaftlichen, fachpraktischen und gestalterischen Methoden selbständig zu bearbeiten. Die Bachelorarbeit ist in der Regel eine eigenständige Untersuchung mit einer Aufgabenstellung aus der Medieninformatik und einer ausführlichen Beschreibung und Erläuterung ihrer Lösung. In fachlich geeigneten Fällen kann sie auch eine schriftliche Hausarbeit mit fachliterarischem Inhalt sein.
 
 
-## Inhalt:
+## Inhalt§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Bachelorarbeit§
 
 Selbstständiges wissenschaftliches, fachpraktisches und gestalterisches Bearbeiten einer Aufgabenstellung.
 
 
+## Studien-/Prüfungsleistungen§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Bachelorarbeit§
 
-# Bachelor Kolloquium
-
-
-
-%begin-modulMeta%**Modulverantwortlich**: alle Informatik Professoren%end-modulMeta%%begin-modulMeta%**Kürzel**: BK%end-modulMeta%%begin-modulMeta%**Studiensemester**: 6%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 3%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: alle Modulprüfungen außer Bachelor Kolloquium bestanden%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
+Schriftliche Ausarbeitung, ggf. Projektarbeit mit entsprechenden Artefakten.
 
 
-## Lehrform/SWS:
+
+# Bachelor Kolloquium§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Bachelorkolloquium§
+
+
+
+%begin-modulMeta%**Modulverantwortlich**: alle Informatik Professoren%end-modulMeta%%begin-modulMeta%**Studiensemester**: 6%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 3%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: alle Modulprüfungen außer Bachelor Kolloquium bestanden%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
+
+
+## Lehrform/SWS§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Bachelorkolloquium§
 
 Angeleitetes, eigenverantwortliches Arbeiten
 
 
-## Arbeitsaufwand:
+## Arbeitsaufwand§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Bachelorkolloquium§
 
 90 Stunden
 
 
-## Angestrebte Lernergebnisse:
+## Angestrebte Lernergebnisse§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Bachelorkolloquium§
 
 Das Kolloquium dient der Feststellung, ob der Prüfling befähigt ist, die Ergebnisse der Bachelorarbeit, ihre fachlichen Grundlagen, ihre fachübergreifenden Zusammenhänge und ihre außerfachlichen Bezüge mündlich darzustellen und selbständig zu begründen und ihre Bedeutung für die Praxis einzuschätzen. Dabei soll auch die Bearbeitung des Themas der Bachelorarbeit mit dem Prüfling erörtert werden.
 
 
-## Inhalt:
+## Inhalt§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Bachelorkolloquium§
 
 Vortrag über das Thema der Bachelorarbeit, Fachdiskussion und mündliche Verteidigung der Arbeit im Kontext der Medieninformatik.
 
 
-## Studien-/Prüfungsleistungen:
+## Studien-/Prüfungsleistungen§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Bachelorkolloquium§
 
 mündliche Prüfung, Vortrag
 
 
 
-# Betriebssysteme und verteilte Systeme
+# Betriebssysteme und verteilte Systeme§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_betriebssysteme-und-verteile-systeme§
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Matthias Böhmer, Prof. Dr. Lutz Köhler%end-modulMeta%%begin-modulMeta%**Kürzel**: BS1%end-modulMeta%%begin-modulMeta%**Studiensemester**: 4%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 5%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Matthias Böhmer, Prof. Dr. Lutz Köhler%end-modulMeta%%begin-modulMeta%**Studiensemester**: 4%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 5%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Empfohlene Voraussetzungen**: Einführung in die Medieninformatik, Algorithmen und Programmierung%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
 
 
-## Kurzbeschreibung
+## Kurzbeschreibung§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_betriebssysteme-und-verteile-systeme§
 
 Systemprogrammierung am Beispiel von UNIX.
 
 
-## Lehrform/SWS:
+## Lehrform/SWS§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_betriebssysteme-und-verteile-systeme§
 
 4 SWS: Vorlesung 2 SWS; Praktikum 2 SWS
 
 
-## Arbeitsaufwand:
+## Arbeitsaufwand§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_betriebssysteme-und-verteile-systeme§
 
-Gesamtaufwand 150 h, davon 
+Gesamtaufwand 150h, davon 
 
-- 36 h Vorlesung 
+- 36h Vorlesung 
 
-- 36 h Praktikum
+- 36h Praktikum
 
-- 78 h Selbststudium 
-
-
-## Angestrebte Lernergebnisse:
-
-Die Studierenden sollen:
-
-- die Prinzipien und Mechanismen von Betriebssystemen und verteilten Systemen am Beispiel von UNIX verstanden haben,
-
-- in der Lage sein, selbstständig Systemprogramme zu schreiben und Betriebssystemstrukturen zu bewerten und
-
-- die Mechanismen zur Implementierung verteilter Anwendungen anwenden können.
+- 78h Selbststudium 
 
 
-## Inhalt:
+## Angestrebte Lernergebnisse§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_betriebssysteme-und-verteile-systeme§
+
+Die Studierenden können den Aufbau von Betriebssystemen am Beispiel UNIX erläutern, indem sie
+
+- die Ziele der Entwicklung von UNIX nennen und beschreiben,
+
+- die Hauptaufgaben von Betriebssystemen nennen und beschreiben,
+
+- den Aufbau von Betriebssystemen darstellen und erklären,
+
+um die verschiedenen Bestandteile und Konzepte von Betriebssystemen nutzen zu können.
+
+Die Studierenden können eigene C-Programme für verteilte Systeme erstellen, indem sie
+
+- einen Computer über die Shell bedienen und dort eigene Programme ausführbar machen,
+
+- Daten mittels Systemschnittstellen in Dateien speichern, daraus lesen und diese verwalten,
+
+- Sockets für Client- und Serverprogramme nutzen und Daten darüber senden und empfangen,
+
+- Prozesse für nebenläufige Programmabläufe erzeugen,
+
+- Kommunikation zwischen Prozessen mit Shared Memory, Pipes und Message Queues realisieren,
+
+- Race Conditions erkennen, kritische Abschnitte festlegen und Prozesse synchronisieren,
+
+- die Lösungen klassischer Synchronisationsprobleme kennen und nutzen,
+
+um später hardware- oder systemnahe Software für verteilte Systeme zu entwickeln oder zu bewerten, bspw. im Bereich »Internet of Things«
+
+Die Studierenden können theoretische Grundlagen von Betriebssystemen erörtern, indem sie
+
+- Programme und Prozesse unterscheiden und letztere mit ihren Zuständen modellieren,
+
+- verschiedene Strategien für das Scheduling von Prozessen anwenden und bewerten,
+
+- die Organisation des Speichers auf einem Datenträger erklären und darstellen,
+
+- die Abbildung von Prozessen im Arbeitsspeicher erklären und verschiedene Ansätze zur Verwaltung erläutern,
+
+um später Auswirkungen von Betriebssystemvorgängen auf eigene Programme zu erkennen und darauf zu reagieren.
+
+
+## Inhalt§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_betriebssysteme-und-verteile-systeme§
 
 Systemprogrammierung am Beispiel von UNIX: 
 
@@ -378,17 +441,17 @@ Systemprogrammierung am Beispiel von UNIX:
 - Klassische Synchronisationsprobleme
 
 
-## Studien-/Prüfungsleistungen:
+## Studien-/Prüfungsleistungen§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_betriebssysteme-und-verteile-systeme§
 
-Klausur sowie erfolgreiche Teilnahme am Praktikum als Prüfungsvorleistung.
+Schriftliche Prüfung, sowie erfolgreiche Teilnahme am Praktikum als Prüfungsvorleistung.
 
 
-## Medienformen:
+## Medienformen§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_betriebssysteme-und-verteile-systeme§
 
 Foliensammlung, ausformuliertes Skript, Beispiellösungen
 
 
-## Literatur:
+## Literatur§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_betriebssysteme-und-verteile-systeme§
 
 + Tanenbaum, A. S.: „Moderne Betriebssysteme“
 
@@ -400,35 +463,35 @@ Foliensammlung, ausformuliertes Skript, Beispiellösungen
 
 
 
-# BWL I - Grundlagen
+# BWL I - Grundlagen§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_BWL1§
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Monika Engelen%end-modulMeta%%begin-modulMeta%**Kürzel**: BWL1%end-modulMeta%%begin-modulMeta%**Studiensemester**: 5%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 5%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Monika Engelen%end-modulMeta%%begin-modulMeta%**Studiensemester**: 5%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 5%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
 
 
-## Lehrform/SWS:
+## Lehrform/SWS§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_BWL1§
 
 4 SWS: Vorlesung 2 SWS; Übung 2 SWS
 
 
-## Arbeitsaufwand:
+## Arbeitsaufwand§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_BWL1§
 
-Gesamtaufwand 120 h, davon 
+Gesamtaufwand 150h, davon 
 
-- 30 h Vorlesung 
+- 30h Vorlesung
 
-- 30 h Übung
+- 30h Übung
 
-- 60 h Selbstlernphase 
-
-
-## Angestrebte Lernergebnisse:
-
-Die Studierenden verstehen die wichtigsten Entscheidungsbereiche wirtschaftlichen Handeln und können diese anwenden. Sie können grundlegenden Entscheidungen im Rahmen einer Unternehmensgründung, die Aufgaben der Unternehmensführung wie die Konzeption einer tragfähigen Strategie, und die Aufgaben der Teilbereiche Produktion, Absatz und Marketing sowie Investition und Finanzierung beschreiben und beurteilen. Investitionsentscheidungen können die Studierenden informationsgestützt treffen indem Sie die Kalkulationsverfahren der Investitionsrechnung anwenden und auswerten. Die Veranstaltung bereitet die Studierenden für weitere BWL-Veranstaltungen Ihres Studiums, sowie darauf, in ihrem Berufsleben wirtschaftliche Konzepte im Unternehmenskontext anzuwenden, vor.
+- 90h Selbststudium
 
 
-## Inhalt:
+## Angestrebte Lernergebnisse§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_BWL1§
+
+Die Studierenden verstehen die wichtigsten Entscheidungsbereiche wirtschaftlichen Handeln und können diese anwenden. Sie können grundlegenden Entscheidungen im Rahmen einer Unternehmensgründung, die Aufgaben der Unternehmensführung wie die Konzeption einer tragfähigen Strategie, und die Aufgaben der Teilbereiche Produktion, Absatz und Marketing sowie Investition und Finanzierung beschreiben und beurteilen. Investitionsentscheidungen können die Studierenden informationsgestützt treffen indem sie die Kalkulationsverfahren der Investitionsrechnung anwenden und auswerten. Die Veranstaltung bereitet die Studierenden für weitere BWL-Veranstaltungen ihres Studiums, sowie darauf, in ihrem Berufsleben wirtschaftliche Konzepte im Unternehmenskontext anzuwenden, vor.
+
+
+## Inhalt§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_BWL1§
 
 * Grundlagen
 
@@ -445,43 +508,43 @@ Die Studierenden verstehen die wichtigsten Entscheidungsbereiche wirtschaftliche
 * Absatz und Marketing
 
 
-## Studien-/Prüfungsleistungen:
+## Studien-/Prüfungsleistungen§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_BWL1§
 
-schriftliche Klausur
+schriftliche Prüfung
 
 
-## Literatur:
+## Literatur§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_BWL1§
 
 * Wöhe (2016): Einführung in die Allgemeine Betriebswirtschaftslehre, 26. Aufl.
 
 
 
-# Datenbanken 1
+# Datenbanken 1§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Datenbanken1§
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Birgit Bertelsmeier, Prof. Dr. Heide Faeskorn-Woyke%end-modulMeta%%begin-modulMeta%**Kürzel**: DB1%end-modulMeta%%begin-modulMeta%**Studiensemester**: 3%end-modulMeta%%begin-modulMeta%**Sprache**: Deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 5%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: Klausurteilnahme nur bei bestandenem DBS1-Praktikum%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Birgit Bertelsmeier, Prof. Dr. Heide Faeskorn-Woyke%end-modulMeta%%begin-modulMeta%**Studiensemester**: 3%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 5%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: Klausurteilnahme nur bei bestandenem DBS1-Praktikum%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
 
 
-## Lehrform/SWS:
+## Lehrform/SWS§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Datenbanken1§
 
-5 SWS: Vorlesung 2 SWS; Übung 1 SWS; Praktikum 1 SWS
-
-
-## Arbeitsaufwand:
-
-Gesamtaufwand 150 h, davon 
-
-- 36 h Vorlesung 
-
-- 18 h Praktikum
-
-- 18 h Übung
-
-- 78 h Selbststudium 
+4 SWS: Vorlesung 2 SWS; Übung 1 SWS; Praktikum 1 SWS
 
 
-## Angestrebte Lernergebnisse:
+## Arbeitsaufwand§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Datenbanken1§
+
+Gesamtaufwand 150h, davon 
+
+- 36h Vorlesung 
+
+- 18h Praktikum
+
+- 18h Übung
+
+- 78h Selbststudium 
+
+
+## Angestrebte Lernergebnisse§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Datenbanken1§
 
 Die Studierenden sollen
 
@@ -498,9 +561,9 @@ Die Studierenden sollen
 - mit dem Transaktionsbegriff, der Mehrbenutzersynchronisation und Verfahren zur Fehlererholung sowie zur Sicherung der Datenintegrität vertraut sein
 
 
-## Inhalt:
+## Inhalt§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Datenbanken1§
 
-* Grundbegriffe und Architektur von Datenbanken  
+- Grundbegriffe und Architektur von Datenbanken  
 
 - Ein Vorgehensmodell zur Erstellung eines Datenbanksystems
 
@@ -523,12 +586,14 @@ Die Studierenden sollen
 - Transaktionskonzepte, Mehrbenutzersynchronisation, Fehlererholung und Datensicherheit
 
 
-## Studien-/Prüfungsleistungen:
+## Studien-/Prüfungsleistungen§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Datenbanken1§
 
-Klausur, deren Voraussetzung das bestandene Praktikum ist, und semesterbegleitende Multiple-Choice-Tests mit Punkten für die Klausur
+Schriftliche Prüfung, sowie erfolgreiche Teilnahme am Praktikum als Prüfungsvorleistung.
+
+Semesterbegleitende Multiple-Choice-Tests mit Punkten für die Klausur.
 
 
-## Medienformen:
+## Medienformen§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Datenbanken1§
 
 * Folien gestützer Vortrag - aber nur sehr selten  
 
@@ -543,7 +608,7 @@ Klausur, deren Voraussetzung das bestandene Praktikum ist, und semesterbegleiten
 * DB-Wiki, das Online Lexikon für Datenbank-Themen
 
 
-## Literatur:
+## Literatur§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Datenbanken1§
 
 - Elmasri, R.; Navathe, S. B.: Grundlagen von Datenbanksystemen. Pearson-Studium. 2009
 
@@ -557,47 +622,47 @@ Klausur, deren Voraussetzung das bestandene Praktikum ist, und semesterbegleiten
 
 
 
-# Einführung in Betriebssysteme und Rechnerarchitektur
+# Einführung in Betriebssysteme und Rechnerarchitektur§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_EinfhrunginBetriebssystemeundRechnerarchitektur§
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Stefan Karsch%end-modulMeta%%begin-modulMeta%**Kürzel**: EBR%end-modulMeta%%begin-modulMeta%**Studiensemester**: 1%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 5%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: Erfolgreiche Modulprüfungen in den Modulen des Grundstudiums%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Stefan Karsch%end-modulMeta%%begin-modulMeta%**Studiensemester**: 1%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 5%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
 
 
-## Lehrform/SWS:
+## Lehrform/SWS§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_EinfhrunginBetriebssystemeundRechnerarchitektur§
 
 4 SWS: Vorlesung 2 SWS; Übung 2 SWS
 
 
-## Arbeitsaufwand:
+## Arbeitsaufwand§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_EinfhrunginBetriebssystemeundRechnerarchitektur§
 
-Gesamtaufwand 150 h, davon 
+Gesamtaufwand 150h, davon 
 
-- 36 h Vorlesung 
+- 36h Vorlesung 
 
-- 36 h Übung
+- 36h Übung
 
-- 78 h Selbststudium 
+- 78h Selbststudium 
 
 
-## Angestrebte Lernergebnisse:
+## Angestrebte Lernergebnisse§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_EinfhrunginBetriebssystemeundRechnerarchitektur§
 
 Die Studierenden sollen die Basiskonzepte und Grundlagen der Betriebssysteme und der Rechnerarchitektur kennen und verstehen, sowie ein einheitliches konsistentes Begriffsgebäude zu, teilweise aus der persönlichen Praxis bekannten, Sachverhalten der IT aufbauen und anwenden können.
 
 
-## Inhalt:
+## Inhalt§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_EinfhrunginBetriebssystemeundRechnerarchitektur§
 
 * Betriebssysteme aus Nutzersicht: Dateisysteme, Parallele Prozesse, Sicherheit in Betriebssystemen
 
 * bei Rechnerkomponenten: grundlegende Architekturen, Darstellung von Daten, interne Bussysteme, Prozessoren, Festplatten, Peripherieschnittstellen, Parallelrechner
 
 
-## Studien-/Prüfungsleistungen:
+## Studien-/Prüfungsleistungen§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_EinfhrunginBetriebssystemeundRechnerarchitektur§
 
-Schriftliche Prüfung, zuvor erfolgreiche Teilnahme am Praktikum als Prüfungsvorleistung
+Schriftliche Prüfung.
 
 
-## Literatur:
+## Literatur§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_EinfhrunginBetriebssystemeundRechnerarchitektur§
 
 - Vorlesungsunterlagen: kommentierte Foliensammlung
 
@@ -607,24 +672,34 @@ Schriftliche Prüfung, zuvor erfolgreiche Teilnahme am Praktikum als Prüfungsvo
 
 
 
-# Einführung in die Medieninformatik
+# Einführung in die Medieninformatik§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_EinfhrungindieMedieninformatik§
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Martin Eisemann, Prof. Dr. Kristian Fischer, Prof. Dr. Gerhard Hartmann, Prof. Dr. Christian Kohls, Prof. Hans Kornacher, Prof. Christian Noss, Prof. Dr. Mario Winter%end-modulMeta%%begin-modulMeta%**Kürzel**: EMI%end-modulMeta%%begin-modulMeta%**Studiensemester**: 1%end-modulMeta%%begin-modulMeta%**Sprache**: Deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 5%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: Keine%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Martin Eisemann, Prof. Dr. Kristian Fischer, Prof. Dr. Gerhard Hartmann, Prof. Dr. Christian Kohls, Prof. Hans Kornacher, Prof. Christian Noss, Prof. Dr. Mario Winter%end-modulMeta%%begin-modulMeta%**Studiensemester**: 1%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 5%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
 
 
-## Lehrform/SWS:
+## Lehrform/SWS§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_EinfhrungindieMedieninformatik§
 
-Vorlesung mit eingebetteten Übungselementen
+4 SWS: Seminar 3 SWS; Übung 1 SWS 
 
-
-## Arbeitsaufwand:
-
-150 Stunden
+Seminar mit eingebetteten Übungselementen und Projektarbeit.
 
 
-## Angestrebte Lernergebnisse:
+## Arbeitsaufwand§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_EinfhrungindieMedieninformatik§
+
+Gesamtaufwand 150h, davon
+
+- 30h Seminar
+
+- 10h Übung
+
+- 40h Projekt
+
+- 70h Selbststudium
+
+
+## Angestrebte Lernergebnisse§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_EinfhrungindieMedieninformatik§
 
 Die Studierenden können die inhaltlichen Ausrichtungen und die Zielsetzungen der Lehr- und Anwendungsdisziplin Medieninformatik benennen und gegenüber verwandten oder ähnlichen Disziplinen abgrenzen. 
 
@@ -635,19 +710,19 @@ Die Studierenden sind sensibilisiert für Modellierungs- und Entwicklungsaufgabe
 Sie kennen grundlegende Konzepte, Prozesse/Verfahren und Modelle der Medieninformatik und haben erste Projekterfahrungen gesammelt. Sie können Systemkonzeptionen, zugehörige Modellierungen, Abwägungen und Artefakte für ein Fachpublikum angemessen dokumentieren und mittels verschiedener medialer Formen kommunizieren.
 
 
-## Inhalt:
+## Inhalt§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_EinfhrungindieMedieninformatik§
 
 Workshops zu grundlegenden projektrelevanten Themenfeldern (wie: Datenmodellierung, Pseudo-Code, Kommunikation in verteilen medialen Systeme, Visual Thinking, Storytelling, Anforderungen) und deren Anwendung, illustriert anhand von Fallstudien.
 
 Teambasiertes Projekt, welches ausgehend von Kontextszenarien eine (oder mehrere) Problemstellung(en) umreist, zu dem Lösungen konzipiert und prototypisch umgesetzt, dokumentiert und einem Fachpublikum präsentiert werden müssen.
 
 
-## Studien-/Prüfungsleistungen:
+## Studien-/Prüfungsleistungen§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_EinfhrungindieMedieninformatik§
 
-mündliche Prüfung, Projektpräsentation, schriftliche Ausarbeitung
+Projektpräsentation(30%) und schriftliche Ausarbeitung(70%).
 
 
-## Medienformen:
+## Medienformen§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_EinfhrungindieMedieninformatik§
 
 - Beamer-gestützte Vorlesungen (Folien in elektronischer Form)
 
@@ -660,7 +735,7 @@ mündliche Prüfung, Projektpräsentation, schriftliche Ausarbeitung
 - Umgang mit Kameras im Projektteil
 
 
-## Literatur:
+## Literatur§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_EinfhrungindieMedieninformatik§
 
 * Michael Herczeg: Einführung in die Medieninformatik, Oldenbourg Verlag, 2006, ISBN: 3-486-581-031
 
@@ -668,31 +743,35 @@ mündliche Prüfung, Projektpräsentation, schriftliche Ausarbeitung
 
 
 
-# Entwicklungsprojekt
+# Entwicklungsprojekt§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Entwicklungsprojekt§
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Martin Eisemann, Prof. Dr. Kristian Fischer, Prof. Dr. Gerhard Hartmann, Prof. Dr. Christian Kohls, Prof. Hans Kornacher, Prof. Christian Noss, Prof. Dr. Mario Winter%end-modulMeta%%begin-modulMeta%**Kürzel**: EPM%end-modulMeta%%begin-modulMeta%**Studiensemester**: 5%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 10%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: Schwerpunktmodul%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Martin Eisemann, Prof. Dr. Kristian Fischer, Prof. Dr. Gerhard Hartmann, Prof. Dr. Christian Kohls, Prof. Hans Kornacher, Prof. Christian Noss, Prof. Dr. Mario Winter%end-modulMeta%%begin-modulMeta%**Studiensemester**: 5%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 10%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Empfohlene Voraussetzungen**: Algorithmen und Programmierung, Theoretische Informatik, Audiovisuelles Medienprojekt, Kommunikationstechnik und Netze, Mensch Computer Interaktion, Grundlagen des Web, Betriebssysteme und verteilte Systeme, Screendesign, abgeschlossenes Schwerpunktmodul%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
 
 
-## Lehrform/SWS:
+## Lehrform/SWS§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Entwicklungsprojekt§
 
-Projekt
-
-
-## Arbeitsaufwand:
-
-300 h
+2 SWS: Seminar 2 SWS; Projektarbeit
 
 
-## Angestrebte Lernergebnisse:
+## Arbeitsaufwand§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Entwicklungsprojekt§
+
+Gesamtaufwand 300h, davon
+
+* 36h Seminar
+
+* 264h Selbststudium
+
+
+## Angestrebte Lernergebnisse§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Entwicklungsprojekt§
 
 Die Studierenden sollen vertiefende Kenntnisse in die Methoden und Techniken aus zwei ausgewählten Modulen aus den ersten vier Fachsemestern des Studiums erlangen und diese in der Konzeption und prototypischen Realisierung eines interaktiven Systems oder Mediums anwenden. Dadurch sollen sie eigene Erfahrungen in der Projektabwicklung mit Medieninformatik-spezifischen Fragestellungen und in der Teamarbeit sammeln und eine reflektierend-kritische Haltung zu methodischen Ansätzen und Entwicklungsmodellen entwickeln. Ziel ist es eine, mit eigenen praktischen Erfahrungen fundierte Methodenkompetenz zu erlangen.
 
 Die Studierenden sollen darüberhinaus lernen, die Vorgehensweise und die Ergebnisse ihres Projektes in einem kritischen Diskurs vor einem Fachpublikum zu vertreten, um in der Berufspraxis ihre Herangehensweise und Projektergebnisse vertreten zu können.
 
 
-## Inhalt:
+## Inhalt§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Entwicklungsprojekt§
 
 Die Projekte werden in Teams durchgeführt. Zunächst werden von den Teams zwei Module aus den ersten vier Fachsemestern gewählt, welche die fachlichen Perspektiven für die Vertiefung bestimmen. In Absprache mit den Lehrenden werden dann Projektziele festgelegt.
 
@@ -701,41 +780,41 @@ Aus dem Methoden- und Technikkatalog (siehe Vorlesungen zu den Lehrbereichen) wi
 Die Lehrenden bieten dann während der Projektdurchführung Beratung bzgl. des adäquaten Einsatzes der gewählten Methoden und Techniken. Zwischenstände des Projektes werden zu definierten Meilensteinen von den Projektteams präsentiert. Die Präsentation der Projektergebnisse findet in einem Plenum mit kritischer Diskussion der Methoden und Ergebnisse statt.
 
 
-## Studien-/Prüfungsleistungen:
+## Studien-/Prüfungsleistungen§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Entwicklungsprojekt§
 
-Die Projektergebnis, bestehend aus Prototyp und Dokumentation,  geht mit 80% in die Projektnote ein, die Kommunikation der Zwischenergebnisse und des Endergebnisses mit 20%.
-
-
-
-# Grundlagen des Web
+Die Projektergebnis, bestehend aus Prototyp und Dokumentation, geht mit 80% in die Projektnote ein, die Kommunikation der Zwischenergebnisse und des Endergebnisses mit 20%.
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Kristian Fischer%end-modulMeta%%begin-modulMeta%**Kürzel**: GW%end-modulMeta%%begin-modulMeta%**Studiensemester**: 3%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 5%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
+# Grundlagen des Web§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Grundlagen_des_Web§
 
 
-## Kurzbeschreibung
+
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Kristian Fischer%end-modulMeta%%begin-modulMeta%**Studiensemester**: 3%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 5%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Empfohlene Voraussetzungen**: Einführung in die Medieninformatik, Algorithmen und Programmierung%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
+
+
+## Kurzbeschreibung§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Grundlagen_des_Web§
 
 In der Veranstaltung werden wesentliche Grundideen, Interaktionsprinzipien, Contentarchitekturen und Sicherheitsmechanismen eingeführt, die das Web als Medium konstituieren.
 
 
-## Lehrform/SWS:
+## Lehrform/SWS§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Grundlagen_des_Web§
 
 4 SWS: Vorlesung 2 SWS; Seminar 2 SWS
 
 
-## Arbeitsaufwand:
+## Arbeitsaufwand§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Grundlagen_des_Web§
 
-Gesamtaufwand 150 h, davon 
+Gesamtaufwand 150h, davon 
 
-- 36 h Vorlesung 
+- 36h Vorlesung 
 
-- 36 h Seminar
+- 36h Seminar
 
-- 78 h Selbststudium 
+- 78h Selbststudium 
 
 
-## Angestrebte Lernergebnisse:
+## Angestrebte Lernergebnisse§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Grundlagen_des_Web§
 
 Die Studierenden 
 
@@ -746,7 +825,7 @@ Die Studierenden
 um kompetent am fachlichen Diskurs über Eigenschaften, Auswirkungen und Gestaltungsalternativen von Web Anwendungen teilnehmen zu können.
 
 
-## Inhalt:
+## Inhalt§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Grundlagen_des_Web§
 
 - Web Architektur des W3C
 
@@ -763,19 +842,19 @@ um kompetent am fachlichen Diskurs über Eigenschaften, Auswirkungen und Gestalt
 Die Inhalte werden als Vorlesung vermittelt. In dem begleitenden Seminar werden die Konzepte mittels Fallstudien anwendungsbezogen analysiert und diskutiert. 
 
 
-## Studien-/Prüfungsleistungen:
+## Studien-/Prüfungsleistungen§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Grundlagen_des_Web§
 
 Mündliche Prüfung
 
 
-## Medienformen:
+## Medienformen§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Grundlagen_des_Web§
 
 - Folienpräsentation
 
 - Auschnitte aus der Literatur als Leseaufgaben und Fallstudien
 
 
-## Literatur:
+## Literatur§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Grundlagen_des_Web§
 
 - Randy Conolly, Richard Hoar: Fundamentals of Web Development, Pearson Publishing 2015
 
@@ -791,19 +870,19 @@ Mündliche Prüfung
 
 
 
-# Kommunikationstechnik und Netze
+# Kommunikationstechnik und Netze§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_KommunikationstechnikundNetze§
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Hans L. Stahl%end-modulMeta%%begin-modulMeta%**Kürzel**: KTN%end-modulMeta%%begin-modulMeta%**Studiensemester**: 3%end-modulMeta%%begin-modulMeta%**Sprache**: Deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 5%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: Kenntnisse aus dem Grundstudium.%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Hans L. Stahl%end-modulMeta%%begin-modulMeta%**Studiensemester**: 3%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 5%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
 
 
-## Lehrform/SWS:
+## Lehrform/SWS§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_KommunikationstechnikundNetze§
 
 Vorlesung, Praktikum
 
 
-## Angestrebte Lernergebnisse:
+## Angestrebte Lernergebnisse§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_KommunikationstechnikundNetze§
 
 Die Studierenden sollen  
 
@@ -816,55 +895,55 @@ Die Studierenden sollen
 - in der Lage sein, selbstständig Netzstrukturen zu bewerten, Netze zu analysieren und zu konzipieren (unter Anwendung von Netz­analyse­werkzeugen und -methoden).
 
 
-## Inhalt:
+## Inhalt§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_KommunikationstechnikundNetze§
 
 Grundbegriffe und Grundlagen, Kommunikationssysteme (Modelle, Grundbegriffe), Protokolle, Schnittstellen, Dienste, Architekturmodelle (OSI-Referenzmodell, TCP/IP-Protokollfamilie), Standardisierung, TCP/IP-Protokollfamilie als Grundlage des Internet, Schichtenmodell und Protokolle im Detail, Adressierung, ausgewählte Anwendungen, Klassifizierung von Netzen / Topologien / Technologien, Wegewahl / Vermittlung / Routing, Vermittlungsprinzipien, Routing-Verfahren und  Protokolle, Internet-spezifische Verfahren, Multimedia-Netze, Dienstgüte, Internet-Telefonie, Realisierung von Multimedia-Netzen, Netzsicherheit, grundlegende Begriffe der „IT-Sicherheit“, typische Bedrohungen in Netzen, Beispielszenarien
 
 
-## Medienformen:
+## Medienformen§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_KommunikationstechnikundNetze§
 
 * Vorlesung im Hörsaal (PowerPoint und Beamer)  
 
 * Praktikum an Rechnern des KTDS-Labors; Ressourcen: Netzanalysesoftware,div. Netzüberwachungssoftware, E-Mail-Server und -Clients, DNS-Server, ggf. weitereServer-Implementierungen
 
 
-## Literatur:
+## Literatur§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_KommunikationstechnikundNetze§
 
 * Wird in der Veranstaltung bekannt gegeben
 
 
 
-# Mathematik 1
+# Mathematik 1§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Mathematik1§
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Wolfgang Konen%end-modulMeta%%begin-modulMeta%**Kürzel**: MA1%end-modulMeta%%begin-modulMeta%**Studiensemester**: 1%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 7%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: &nbsp;%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Wolfgang Konen%end-modulMeta%%begin-modulMeta%**Studiensemester**: 1%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 7%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
 
 
-## Lehrform/SWS:
+## Lehrform/SWS§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Mathematik1§
 
 6 SWS: Vorlesung  3 SWS; Praktikum 1 SWS; Übung 2 SWS
 
 
-## Arbeitsaufwand:
+## Arbeitsaufwand§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Mathematik1§
 
-Gesamtaufwand 210 h, davon 
+Gesamtaufwand 210h, davon 
 
-- 54 h Vorlesung 
+- 54h Vorlesung 
 
-- 18 h Praktikum
+- 18h Praktikum
 
-- 36 h Übung
+- 36h Übung
 
-- 102 h Selbststudium 
+- 102h Selbststudium 
 
 
-## Angestrebte Lernergebnisse:
+## Angestrebte Lernergebnisse§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Mathematik1§
 
 Die Studierenden sollen die Fähigkeiten zur Analyse realer oder geplanter Systeme entwickeln, indem sie praktische Aufgabenstellungen aus dem Informatik-Umfeld in mathematische Strukturen abstrahieren und lernen, selbstständig  die Modellfindung und die Ergebnisbeurteilung vorzunehmen. Dabei sollen die Anwendungsbezüge der Mathematik deutlich werden, z.B. die Bedeutung funktionaler Beziehungen für kontinuierliche Zusammenhänge, die lineare Algebra z.B als Grundlage der grafischen Datenverarbeitung und die Analysis zur Verarbeitung von Signalen und zur Lösung von mathematischen Modellen.
 
 
-## Inhalt:
+## Inhalt§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Mathematik1§
 
 * Grundlagen
 
@@ -879,14 +958,14 @@ Die Studierenden sollen die Fähigkeiten zur Analyse realer oder geplanter Syste
 * Lineare Algebra
 
 
-## Studien-/Prüfungsleistungen:
+## Studien-/Prüfungsleistungen§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Mathematik1§
 
-Klausur (60 min) sowie erfolgreiche Teilnahme am Praktikum als Zulassungsvoraussetzung
+Schriftliche Prüfung, sowie erfolgreiche Teilnahme am Praktikum als Prüfungsvorleistung.
 
 
-## Literatur:
+## Literatur§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Mathematik1§
 
-* Skript unter [www.gm.fh-koeln.de/~konen]( www.gm.fh-koeln.de/~konen)
+* Skript unter [www.gm.fh-koeln.de/~konen](http://www.gm.fh-koeln.de/~konen)
 
 * Teschl, Gerald und Teschl, Susanne: "Mathematik für Informatiker", Springer Verlag, 4. Auflage, 2013
 
@@ -898,37 +977,37 @@ Klausur (60 min) sowie erfolgreiche Teilnahme am Praktikum als Zulassungsvorauss
 
 
 
-# Mathematik 2
+# Mathematik 2§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Mathematik2§
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Wolfgang Konen%end-modulMeta%%begin-modulMeta%**Kürzel**: MA2%end-modulMeta%%begin-modulMeta%**Studiensemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 8%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: Keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden. Der vorherige Besuch von Mathematik I ist sinnvoll, aber keine zwingende Voraussetzung.%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Wolfgang Konen%end-modulMeta%%begin-modulMeta%**Studiensemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 8%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Empfohlene Voraussetzungen**: Mathematik I%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
 
 
-## Lehrform/SWS:
+## Lehrform/SWS§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Mathematik2§
 
 6 SWS: Vorlesung  3 SWS; Praktikum 1 SWS; Übung 2 SWS
 
 
-## Arbeitsaufwand:
+## Arbeitsaufwand§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Mathematik2§
 
-Gesamtaufwand 240 h, davon 
+Gesamtaufwand 240h, davon 
 
-- 54 h Vorlesung 
+- 54h Vorlesung 
 
-- 18 h Praktikum
+- 18h Praktikum
 
-- 36 h Übung
+- 36h Übung
 
-- 132 h Selbststudium 
+- 132h Selbststudium 
 
 
-## Angestrebte Lernergebnisse:
+## Angestrebte Lernergebnisse§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Mathematik2§
 
 Die Studierenden sollen die Fähigkeiten zur Analyse realer oder geplanter Systeme entwickeln, indem sie praktische Aufgabenstellungen aus dem Informatik-Umfeld in mathematische Strukturen abstrahieren und lernen, selbstständig die Modellfindung und die Ergebnisbeurteilung vorzunehmen. Dabei sollen die Anwendungsbezüge der Mathematik deutlich werden, z.B. die Beziehungen diskreter Strukturen wie der Graphen zu vielfältigen grundlegenden Datenstrukturen, die Statistik zur Deskription und Beurteilung von Beobachtungen und die Analysis zur Verarbeitung von Signalen und zur Lösung von mathematischen Modellen.
 
 
-## Inhalt:
+## Inhalt§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Mathematik2§
 
 * Mehrdimensionale Differenzialrechnung, 
 
@@ -941,43 +1020,43 @@ Die Studierenden sollen die Fähigkeiten zur Analyse realer oder geplanter Syste
 * Differentialgleichungen.
 
 
-## Studien-/Prüfungsleistungen:
+## Studien-/Prüfungsleistungen§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Mathematik2§
 
-Klausur (60 min) sowie erfolgreiche Teilnahme am Praktikum als Zulassungsvoraussetzung
-
-
-## Literatur:
-
-* s. Literaturliste auf der Homepage [www.gm.fh-koeln.de/~konen](www.gm.fh-koeln.de/~konen)
-
-* Skript unter [www.gm.fh-koeln.de/~konen/Mathe2-SS](www.gm.fh-koeln.de/~konen/Mathe2-SS ) 
+Schriftliche Prüfung, sowie erfolgreiche Teilnahme am Praktikum als Prüfungsvorleistung.
 
 
+## Literatur§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Mathematik2§
 
-# Mensch-Computer Interaktion
+* s. Literaturliste auf der Homepage [www.gm.fh-koeln.de/~konen](http://www.gm.fh-koeln.de/~konen)
+
+* Skript unter [www.gm.fh-koeln.de/~konen/Mathe2-SS](http://www.gm.fh-koeln.de/~konen/Mathe2-SS ) 
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Gerhard Hartmann%end-modulMeta%%begin-modulMeta%**Kürzel**: MCI%end-modulMeta%%begin-modulMeta%**Studiensemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 10%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
+# Mensch-Computer Interaktion§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Mensch-Computer_Interaktion§
 
 
-## Lehrform/SWS:
 
-Vorlesung und Übung
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Gerhard Hartmann%end-modulMeta%%begin-modulMeta%**Studiensemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 10%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Empfohlene Voraussetzungen**: Einführung in die Medieninformatik%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
 
 
-## Arbeitsaufwand:
+## Lehrform/SWS§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Mensch-Computer_Interaktion§
 
-Gesamtaufwand 300 h, davon 
+Vorlesung und Praktikum/Übung
+
+
+## Arbeitsaufwand§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Mensch-Computer_Interaktion§
+
+Gesamtaufwand 300h, davon 
 
 * 65h Vorlesung
 
-* 65h Übung
+* 65h Praktikum/Übung
 
-* 170 h Selbststudium
+* 170h Selbststudium
 
 
-## Angestrebte Lernergebnisse:
+## Angestrebte Lernergebnisse§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Mensch-Computer_Interaktion§
 
 * Die Studierenden erwerben Grundkenntnisse in kognitions-, arbeits- und organisations-psychologischen Grundkonzepten und können diese auf Problemstellungen, im Kontext der Mensch-Computer Interaktion, anwenden. 
 
@@ -992,7 +1071,7 @@ Gesamtaufwand 300 h, davon
 * Die Studierenden erlangen die Fähigkeit zum fachlichen Diskurs.
 
 
-## Inhalt:
+## Inhalt§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Mensch-Computer_Interaktion§
 
 - kognitionspsychologische Grundlagen
 
@@ -1017,12 +1096,12 @@ Gesamtaufwand 300 h, davon
 - Evaluation
 
 
-## Studien-/Prüfungsleistungen:
+## Studien-/Prüfungsleistungen§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Mensch-Computer_Interaktion§
 
-schriftliche Modulprüfung
+Schriftliche Prüfung.
 
 
-## Medienformen:
+## Medienformen§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Mensch-Computer_Interaktion§
 
 * Beamergestützte Vorlesung
 
@@ -1031,7 +1110,7 @@ schriftliche Modulprüfung
 * Lehrfilme
 
 
-## Literatur:
+## Literatur§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Mensch-Computer_Interaktion§
 
 - Dix, A.; Finlay, J.; Abowd, G. & Beale, R.: Human-Computer Interaction. Harlow, Pearson, 2004 (3rd ed.),
 
@@ -1071,30 +1150,30 @@ schriftliche Modulprüfung
 
 
 
-# Informatik, Recht und Gesellschaft
+# Informatik, Recht und Gesellschaft§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_MUG§
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Mario Winter%end-modulMeta%%begin-modulMeta%**Kürzel**: IRG%end-modulMeta%%begin-modulMeta%**Studiensemester**: 5%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 5%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Mario Winter%end-modulMeta%%begin-modulMeta%**Studiensemester**: 5%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 5%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Empfohlene Voraussetzungen**: Einführung in die Medieninformatik, Grundlagen der BWL%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
 
 
-## Lehrform/SWS:
+## Lehrform/SWS§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_MUG§
 
 4 SWS: Vorlesung 2 SWS; Übung 2 SWS
 
 
-## Arbeitsaufwand:
+## Arbeitsaufwand§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_MUG§
 
-Gesamtaufwand: 150 h, davon
+Gesamtaufwand: 150h, davon
 
-* 36 h Vorlesung
+* 36h Vorlesung
 
-* 36 h Übung
+* 36h Übung
 
-* 78 h Selbststudium
+* 78h Selbststudium
 
 
-## Angestrebte Lernergebnisse:
+## Angestrebte Lernergebnisse§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_MUG§
 
 Informatikerinnen und Informatiker analysieren und konstruieren sozio-technische Systeme und entwickeln dabei semiotische Artefakte wie z.B. Spezifikationen, Programme und Handbücher. Die entwickelten Systeme bilden einerseits soziale Wirklichkeit in vielfältiger Form ab und ändern andererseits diese Wirklichkeit durch ihren Einsatz. 
 
@@ -1109,10 +1188,10 @@ Die Studierenden sollen befähigt werden
 * um die unterschiedlichen Wechselwirkungen zwischen Informatik-Systemen und ihrem Einsatzumfeld erkennen und bewerten und insbesondere im Bereich des Vertragsrechts selbständige Lösungsvorschläge erarbeiten zu können.
 
 
-## Inhalt:
+## Inhalt§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_MUG§
 
 
-### Informatik und Gesellschaft
+### Informatik und Gesellschaft§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_MUG§
 
 Die Wechselwirkungen zwischen den von Informatikern entwickelten Systemen und ihrem Einsatzumfeld werden in drei großen Themenblöcken behandelt:
 
@@ -1147,7 +1226,7 @@ Beispielhafte Inhalte:
 - philosophische Aspekte der Informatik
 
 
-### Recht
+### Recht§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_MUG§
 
 * Einführung in das deutsche Privatrecht, insbesondere in das BGB. 
 
@@ -1158,28 +1237,28 @@ Beispielhafte Inhalte:
 * Im Allgemeinen Teil des BGB wird auf den Vertragsschluss, die Willenerklärung als rechtsgeschäftliches Gestaltungsmittel und die allgemeinen Anforderungen an die Vertragspartner eingegangen.
 
 
-## Studien-/Prüfungsleistungen:
+## Studien-/Prüfungsleistungen§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_MUG§
 
 
-### Informatik und Gesellschaft
+### Informatik und Gesellschaft§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_MUG§
 
 Präsentation im OpenSpace, Klausur (60 Min).
 
 
-### Recht
+### Recht§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_MUG§
 
 Klausur (60 Min.)
 
 
-## Medienformen:
+## Medienformen§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_MUG§
 
 Beamergestützte Vorträge
 
 
-## Literatur:
+## Literatur§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_MUG§
 
 
-### IUG
+### IUG§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_MUG§
 
 - Sara Baase: A Gift of Fire. Social, Legal, and Ethical Issues in Computing. Prentice Hall, Upper Saddle River, 1997
 
@@ -1200,12 +1279,12 @@ Beamergestützte Vorträge
 - [http://www.big-brother-award.org](http://www.big-brother-award.org) Überwachungsinformationen
 
 
-### Recht
+### Recht§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_MUG§
 
 - Bürgerliches Gesetzbuch in der aktuellen Taschenbuchausgabe des dtv
 
 
-### Fakultativ
+### Fakultativ§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_MUG§
 
 - Eugen Klunziger, Einführung in das Bürgerliche Recht, Verlag Vahlen
 
@@ -1213,37 +1292,37 @@ Beamergestützte Vorträge
 
 
 
-# Paradigmen der Programmierung
+# Paradigmen der Programmierung§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Paradigmen-der-Programmierung§
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Christian Kohls%end-modulMeta%%begin-modulMeta%**Kürzel**: PP%end-modulMeta%%begin-modulMeta%**Studiensemester**: 3%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 5%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: Keine über die Zulassungsvorrausetzungen hinausgehenden Vorraussetzungen%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Christian Kohls%end-modulMeta%%begin-modulMeta%**Studiensemester**: 3%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 5%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Empfohlene Voraussetzungen**: Einführung in die Medieninformatik, Algorithmen und Programmierung I, Algorithmen und Programmierung II%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
 
 
-## Lehrform/SWS:
+## Lehrform/SWS§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Paradigmen-der-Programmierung§
 
-4 SWS: Vorlesung 2 SWS; Praktikum SWS; Übung 1SWS
-
-
-## Arbeitsaufwand:
-
-Gesamtaufwand 150 h, davon 
-
-* 36 h Vorlesung
-
-* 18 h Praktikum
-
-* 18 h Übung
-
-* 78 h Selbststudium
+4 SWS: Vorlesung 2 SWS; Praktikum 1 SWS; Übung 1 SWS
 
 
-## Angestrebte Lernergebnisse:
+## Arbeitsaufwand§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Paradigmen-der-Programmierung§
+
+Gesamtaufwand 150h, davon 
+
+* 36h Vorlesung
+
+* 18h Praktikum
+
+* 18h Übung
+
+* 78h Selbststudium
+
+
+## Angestrebte Lernergebnisse§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Paradigmen-der-Programmierung§
 
 Die Studierenden sollen unterschiedliche Programmierparadigmen verstehen und anwenden können. Weiterhin sollen sie die Angemessenheit der verschiedenen Programmierparadigmen für eine Aufgabenstellung einordnen und bewerten können. Studierende sollen mithilfe von etablierten Paradigmen und Entwurfsmustern in der Lage sein, synchrone und asynchrone Programme zu konzipieren und ablaufsicher zu gestalten. 
 
 
-## Inhalt:
+## Inhalt§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Paradigmen-der-Programmierung§
 
 * Grundlagen von Programmiersprachen
 
@@ -1260,12 +1339,12 @@ Die Studierenden sollen unterschiedliche Programmierparadigmen verstehen und anw
 * Entwurfsmuster
 
 
-## Studien-/Prüfungsleistungen:
+## Studien-/Prüfungsleistungen§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Paradigmen-der-Programmierung§
 
-Klausur sowie erfolgreiche Teilnahme am Praktikum als Prüfungsvorleistung
+Klausur sowie erfolgreiche Teilnahme am Praktikum als Prüfungsvorleistung.
 
 
-## Medienformen:
+## Medienformen§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Paradigmen-der-Programmierung§
 
 * Foliensammlung
 
@@ -1276,7 +1355,7 @@ Klausur sowie erfolgreiche Teilnahme am Praktikum als Prüfungsvorleistung
 * Beispiellösungen
 
 
-## Literatur:
+## Literatur§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Paradigmen-der-Programmierung§
 
 * Abelson, Sussman, Struktur und Interpretation von Computer Programmen,Springer-Verlag 2001
 
@@ -1292,24 +1371,24 @@ Klausur sowie erfolgreiche Teilnahme am Praktikum als Prüfungsvorleistung
 
 
 
-# Praxisprojekt
+# Praxisprojekt§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Praxisprojektarbeit§
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: alle Informatik Professoren%end-modulMeta%%begin-modulMeta%**Kürzel**: PP%end-modulMeta%%begin-modulMeta%**Studiensemester**: 6%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 10%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: alle Modulprüfungen außer Praxisprojekt, Bachelorarbeit und Kolloquium bestanden%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: alle Informatik Professoren%end-modulMeta%%begin-modulMeta%**Studiensemester**: 6%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 10%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: erreichte 140 Leistungspunkte (CP)%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
 
 
-## Lehrform/SWS:
+## Lehrform/SWS§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Praxisprojektarbeit§
 
 Angeleitetes, eigenverantwortliches Arbeiten
 
 
-## Arbeitsaufwand:
+## Arbeitsaufwand§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Praxisprojektarbeit§
 
 300 h Projektarbeit
 
 
-## Angestrebte Lernergebnisse:
+## Angestrebte Lernergebnisse§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Praxisprojektarbeit§
 
 Die Studierenden 
 
@@ -1318,39 +1397,39 @@ Die Studierenden
 - haben erste Erfahrungen mit der Selbststeuerung und proaktiven Kommunikation in einem Projekt mittlerer Größe und der Einordnung von Projektarbeit in betriebliche, gesellschaftliche und rechtliche Rahmenbedingungen gesammelt
 
 
-## Inhalt:
+## Inhalt§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Praxisprojektarbeit§
 
 Modulinhalte des ersten bis fünften Semesters anhand von realen Anforderungen in einem praxisrelevanten Kontext anwenden und den Studierenden durch die Betreuung des Dozenten an eine selbstständige Projektdurchführung und Kommunikation heranführen. Das Praxisprojekt kann entweder in einem Unternehmen oder in der Hochschule - dann eingebettet in Forschungsprojekte - erfolgen.
 
 
-## Studien-/Prüfungsleistungen:
+## Studien-/Prüfungsleistungen§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Praxisprojektarbeit§
 
 Schriftliche Ausarbeitung, Projektdokumentation
 
 
 
-# Praxisprojektseminar
+# Praxisprojektseminar§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Praxisprojektseminar§
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: Prof. Christian Noss%end-modulMeta%%begin-modulMeta%**Kürzel**: PPS%end-modulMeta%%begin-modulMeta%**Studiensemester**: 6%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 5%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: alle Modulprüfungen außer Bachelorarbeit und Kolloquium bestanden%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: Prof. Christian Noss%end-modulMeta%%begin-modulMeta%**Studiensemester**: 6%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 5%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: erreichte 140 Leistungspunkte%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
 
 
-## Lehrform/SWS:
+## Lehrform/SWS§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Praxisprojektseminar§
 
-Seminar
-
-
-## Arbeitsaufwand:
-
-Gesamtaufwand 150 h, davon 
-
-* 32 h Seminar
-
-* 118 h Selbststudium
+4 SWS: Seminar
 
 
-## Angestrebte Lernergebnisse:
+## Arbeitsaufwand§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Praxisprojektseminar§
+
+Gesamtaufwand 150h, davon 
+
+* 32h Seminar
+
+* 118h Selbststudium
+
+
+## Angestrebte Lernergebnisse§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Praxisprojektseminar§
 
 Die Studierenden  
 
@@ -1363,21 +1442,23 @@ Die Studierenden
 - können eigene Projektergebnisse vor einem Fachpublikum in Vortrag und Diskussion darstellen und verteidigen
 
 
-## Inhalt:
+## Inhalt§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Praxisprojektseminar§
 
 Das Praxisprojektseminar besteht aus
 
 - Veranstaltungen in denen Techniken wissenschaftlichen Arbeitens vermittelt werden,
 
-- Fachvorträgen von Studierenden über Ihre Projektergebnisse.
+- Audits über den aktuellen Stand ihres Projektes,
+
+- Fachvorträgen von Studierenden über ihre Projektergebnisse.
 
 
-## Studien-/Prüfungsleistungen:
+## Studien-/Prüfungsleistungen§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Praxisprojektseminar§
 
 Seminarvortrag zur Praxisprojektarbeit
 
 
-## Literatur:
+## Literatur§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Praxisprojektseminar§
 
 - Rechenberg: Technisches Schreiben (nicht nur) für Informatiker, 2. Aufl, Hanser Verlag 2003
 
@@ -1385,37 +1466,37 @@ Seminarvortrag zur Praxisprojektarbeit
 
 
 
-# Projektmanagement
+# Projektmanagement§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Projektmanagement§
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Holger Günther, Prof. Dr. Mario Winter%end-modulMeta%%begin-modulMeta%**Kürzel**: PM%end-modulMeta%%begin-modulMeta%**Studiensemester**: 5%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 5%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: Zulassungsbedingung - Abgeschlossenes Grundstudium; Sonst keine besonderen Voraussetzungen;%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Holger Günther, Prof. Dr. Mario Winter%end-modulMeta%%begin-modulMeta%**Studiensemester**: 5%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 5%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Empfohlene Voraussetzungen**: Es werden keine über die allgemeinen Zulassungsvoraussetzungen hinausgehende fachlichen Voraussetzungen gefordert, jedoch sollten Engagement, Motivation, Toleranz, Bereitschaft zur Teamarbeit mitgebracht werden.%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
 
 
-## Kurzbeschreibung:
+## Kurzbeschreibung§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Projektmanagement§
 
 Managementaspekte der professionellen Entwicklung großer Softwaresysteme
 
 
-## Lehrform/SWS:
+## Lehrform/SWS§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Projektmanagement§
 
-4 SWS: Vorlesung 2 SWS, Übung 1 SWS, Praktikum 1 SWS; max. 6 Studierende / Praktikumsteam;
-
-
-## Arbeitsaufwand:
-
-Gesamtaufwand 150 h, davon 
-
-* 36 h Vorlesung
-
-* 18 h Übung
-
-* 18 h Praktikum
-
-* 78 h Selbststudium
+4 SWS: Vorlesung 2 SWS, Übung 1 SWS, Praktikum 1 SWS; max. 6 Studierende pro Praktikumsteam;
 
 
-## Angestrebte Lernergebnisse:
+## Arbeitsaufwand§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Projektmanagement§
+
+Gesamtaufwand 150h, davon 
+
+* 36h Vorlesung
+
+* 18h Übung
+
+* 18h Praktikum
+
+* 78h Selbststudium
+
+
+## Angestrebte Lernergebnisse§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Projektmanagement§
 
 Die Studierenden sollen befähigt werden, 
 
@@ -1426,7 +1507,7 @@ Die Studierenden sollen befähigt werden,
 - die erforderlichen soziologischen und kommunikativen Aspekte zu berücksichtigen, um, mit dem Ziel einer menschengerechten und soziologisch fundierten Menschenführung, eine wirkliche und optimale Produktivität bei komplexen Projekten erreichen zu können.
 
 
-## Inhalt:
+## Inhalt§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Projektmanagement§
 
 Das Modul befasst sich mit den Managementaspekten der professionellen Entwicklung großer Softwaresysteme. 
 
@@ -1459,7 +1540,7 @@ Damit die Studierenden die vorgestellten Methoden und Techniken zum Management v
 - Ablauf- und Ressourcenplanung (Netzplantechnik, Einsatz von PM-Software wie z.B. MS-Project)
 
 
-## Studien-/Prüfungsleistungen:
+## Studien-/Prüfungsleistungen§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Projektmanagement§
 
 * Projekt-Ausarbeitung (30%)
 
@@ -1468,7 +1549,7 @@ Damit die Studierenden die vorgestellten Methoden und Techniken zum Management v
 * Schriftliche Prüfung (40%).
 
 
-## Medienformen:
+## Medienformen§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Projektmanagement§
 
 * Beamer-gestützte Vorlesungen (Folien in elektronischer Form im Netz);
 
@@ -1477,7 +1558,7 @@ Damit die Studierenden die vorgestellten Methoden und Techniken zum Management v
 * Projektarbeit in Kleingruppen, um die erlernten Methoden und Techniken einzuüben und zu vertiefen (Seminarraum, Rechnerlabor);
 
 
-## Literatur:
+## Literatur§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Projektmanagement§
 
 - A. Buhl: Grundkurs Projektmanagement. Carl Hanser Verlag, München, 2004
 
@@ -1493,30 +1574,32 @@ Damit die Studierenden die vorgestellten Methoden und Techniken zum Management v
 
 
 
-# Screendesign
+# Screendesign§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Screendesign§
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: Prof. Christian Noss%end-modulMeta%%begin-modulMeta%**Kürzel**: SD%end-modulMeta%%begin-modulMeta%**Studiensemester**: 3%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 5%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: Prof. Christian Noss%end-modulMeta%%begin-modulMeta%**Studiensemester**: 3%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 5%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Empfohlene Voraussetzungen**: Einführung in die Medieninformatik, MCI%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
 
 
-## Lehrform/SWS:
+## Lehrform/SWS§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Screendesign§
 
-4 SWS: Vorlesung 1 SWS; Seminar/Workshops 3 SWS; Projekt 1 SWS
-
-
-## Arbeitsaufwand:
-
-Gesamtaufwand 150 h, davon 
-
-- 40 h Seminar 
-
-- 80 h Projektarbeit  
-
-- 30 h Selbststudium 
+4 SWS: Vorlesung 1 SWS; Seminar 3 SWS
 
 
-## Angestrebte Lernergebnisse:
+## Arbeitsaufwand§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Screendesign§
+
+Gesamtaufwand 150h, davon 
+
+- 15h Vorlesung
+
+- 45h Seminar 
+
+- 80h Projektarbeit  
+
+- 10h Selbststudium 
+
+
+## Angestrebte Lernergebnisse§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Screendesign§
 
 Die Studierenden kennen wesentliche Begriffe der visuellen Kommunikation und können diese anwenden um Briefings, Angebote oder Korrekturwünsche im Design-Kontext zu verstehen oder zu verfassen.
 
@@ -1525,10 +1608,10 @@ Die Studierenden können Gestaltungslösungen und -kontexte analysieren, argumen
 Die Studierenden können in einem gegebenen Gestaltungskontext, unter Berücksichtigung von Gestaltungsregeln (Raster, Layout, Typographie, etc.), eigene Gestaltungslösungen entwickeln, systematisch variieren und argumentieren um gegebene funktionale und/oder kommunikative Ziele zu adressieren.
 
 
-## Inhalt:
+## Inhalt§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Screendesign§
 
 
-### Vorlesung:
+### Vorlesung§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Screendesign§
 
 - Design Basics
 
@@ -1559,7 +1642,7 @@ Die Studierenden können in einem gegebenen Gestaltungskontext, unter Berücksic
 - Gestaltungsziele, Gestaltungsprozess
 
 
-### Seminar:
+### Seminar§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Screendesign§
 
 - Designprojekte strukturieren
 
@@ -1578,17 +1661,17 @@ Die Studierenden können in einem gegebenen Gestaltungskontext, unter Berücksic
 - Modularisierung, Interface Inventar aufbauen & visualisieren
 
 
-## Studien-/Prüfungsleistungen:
+## Studien-/Prüfungsleistungen§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Screendesign§
 
-Projektpräsentationsprüfung
+Projekt und Projektpräsentationsprüfung.
 
 
-## Medienformen:
+## Medienformen§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Screendesign§
 
 Beamergestützte Vorträge, Rechnergestützte  Workshops
 
 
-## Literatur:
+## Literatur§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Screendesign§
 
 - Stapelkamp, Torsten: Informationsvisualisierung
 
@@ -1610,37 +1693,37 @@ Beamergestützte Vorträge, Rechnergestützte  Workshops
 
 
 
-# Softwaretechnik
+# Softwaretechnik§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Softwaretechnik§
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Mario Winter%end-modulMeta%%begin-modulMeta%**Kürzel**: ST1%end-modulMeta%%begin-modulMeta%**Studiensemester**: 4%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 5%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: Keine über die Zulassungsbedingungen hinausgehenden Voraussetzungen%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Mario Winter%end-modulMeta%%begin-modulMeta%**Studiensemester**: 4%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 5%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Empfohlene Voraussetzungen**: Grundkenntnisse Algorithmen, Datenbanken und objektorientierte Programmierung%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
 
 
-## Kurzbeschreibung:
+## Kurzbeschreibung§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Softwaretechnik§
 
 Prinzipien, Methoden und Techniken der modellbasierten methodischen objektorientierten Softwareentwicklung
 
 
-## Lehrform/SWS:
+## Lehrform/SWS§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Softwaretechnik§
 
-4 SWS: Vorlesung 2 SWS; Parktikum 2 SWS
+4 SWS: Vorlesung 2 SWS; Praktikum 2 SWS
 
 max. 15 Studierende/Praktikumsgruppe;
 
 
-## Arbeitsaufwand:
+## Arbeitsaufwand§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Softwaretechnik§
 
-Gesamtaufwand 150 h, davon 
+Gesamtaufwand 150h, davon 
 
-- 36 h Vorlesung 
+- 36h Vorlesung 
 
-- 36 h Praktikum
+- 36h Praktikum
 
-- 78 h Selbststudium 
+- 78h Selbststudium 
 
 
-## Angestrebte Lernergebnisse:
+## Angestrebte Lernergebnisse§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Softwaretechnik§
 
 Die Studierenden sollen befähigt werden, 
 
@@ -1648,10 +1731,10 @@ Die Studierenden sollen befähigt werden,
 
 - gegebene Modelle zu interpretieren, zu analysieren und zu bewerten, 
 
--  um komplexe Systeme zu analysieren, im Team zu entwerfen und dabei im Rahmen methodischer Vorgehensweisen Techniken und Werkzeuge der objektorientierten Modellierung und Softwareentwicklung in den Aktivitäten Anforderungsermittlung, Softwarespezifizierung und Entwurf einzusetzen.
+- um komplexe Systeme zu analysieren, im Team zu entwerfen und dabei im Rahmen methodischer Vorgehensweisen Techniken und Werkzeuge der objektorientierten Modellierung und Softwareentwicklung in den Aktivitäten Anforderungsermittlung, Softwarespezifizierung und Entwurf einzusetzen.
 
 
-## Inhalt:
+## Inhalt§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Softwaretechnik§
 
 Die Vorlesung skizziert zunächst das Gesamtgebiet Softwaretechnik und behandelt dann ausschließlich grundlegende „Informatikaspekte” der objektorientierten Softwareentwicklung. Als wesentliche Grundlage werden die wichtigsten Elemente der Unified Modelling Language (UML) vorgestellt und anhand kleinerer Beispiele erläutert. Danach werden typische Aktivitäten der Softwareentwicklung besprochen, wobei die UML als Modellierungssprache benutzt wird. Im Praktikum werden die Anwendung der Modellierungselemente und die Durchführung der Aktivitäten in Gruppenarbeit vertieft.  
 
@@ -1666,12 +1749,12 @@ Das Modul gliedert sich in folgende Inhalte:
 - (10%) Zusammenfassung und Ausblick (Modellgetriebene Softwareentwicklung);
 
 
-## Studien-/Prüfungsleistungen:
+## Studien-/Prüfungsleistungen§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Softwaretechnik§
 
-Klausur 120 Minuten
+Schriftliche Prüfung, sowie erfolgreiche Teilnahme am Praktikum als Prüfungsvorleistung.
 
 
-## Medienformen:
+## Medienformen§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Softwaretechnik§
 
 - Flipped-Classroom mit Diskussion und Übungen als Einzel- und Kleinstgrupen
 
@@ -1682,7 +1765,7 @@ Klausur 120 Minuten
 - Praktika in Kleingruppen, um die erlernten Modelle und Methoden einzuüben und zu vertiefen (Seminarraum, Rechnerlabor); In den Praktika werden Modellierungs- und Entwicklungswerkzeuge eingesetzt.
 
 
-## Literatur:
+## Literatur§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Softwaretechnik§
 
 - Helmut Balzert: Lehrbuch der Software-Technik Bd. I: Basiskonzepte und Requirements Engineering; Spektrum Akademischer Verlag, Heidelberg, 3. Aufl. 2009
 
@@ -1702,30 +1785,30 @@ Klausur 120 Minuten
 
 
 
-# Theoretische Informatik 1
+# Theoretische Informatik 1§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_TheoretischeInformatik1§
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Martin Eisemann%end-modulMeta%%begin-modulMeta%**Kürzel**: TI1%end-modulMeta%%begin-modulMeta%**Studiensemester**: 1%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 5%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: Einfache Kenntnisse der naiven Mengenlehre, wie sie in der Schule vermittelt und bei der mathematischen Begriffsbildung verwendet werden.%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Martin Eisemann%end-modulMeta%%begin-modulMeta%**Studiensemester**: 1%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 5%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Empfohlene Voraussetzungen**: Einfache Kenntnisse der naiven Mengenlehre, wie sie in der Schule vermittelt und bei der mathematischen Begriffsbildung verwendet werden.%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
 
 
-## Lehrform/SWS:
+## Lehrform/SWS§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_TheoretischeInformatik1§
 
 4 SWS: Vorlesung 2 SWS; Übung 2 SWS
 
 
-## Arbeitsaufwand:
+## Arbeitsaufwand§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_TheoretischeInformatik1§
 
-Gesamtaufwand 150 h, davon
+Gesamtaufwand 150h, davon
 
-- 50h Vorlesung (inkl. Vor- und Nachbearbeitung)
+- 36h Vorlesung
 
-- 50h Übung (inkl. Vor- und Nachbearbeitung)
+- 36h Übung
 
-- 50h Selbstlernphase 
+- 78h Selbstlernphase 
 
 
-## Angestrebte Lernergebnisse:
+## Angestrebte Lernergebnisse§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_TheoretischeInformatik1§
 
 - Grundsätzliches Ziel des Kurses ist eine Einführung in die Begriffe, Methoden, Modelle und Arbeitsweise der Theoretischen Informatik anhand der ausgewählten Teilgebiete.
 
@@ -1738,7 +1821,7 @@ Gesamtaufwand 150 h, davon
 - Aufgaben zu den Lehrinhalten (s.u.) werden in kleinen Gruppen (Teamarbeit) selbständig gelöst. Die Lösungen sollen in den Übungsstunden vorgetragen und der Lösungsweg den Kommilitonen hierbei erläutert werden.
 
 
-## Inhalt:
+## Inhalt§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_TheoretischeInformatik1§
 
 - Mengen
 
@@ -1763,87 +1846,54 @@ Gesamtaufwand 150 h, davon
 - Prädikatenlogik
 
 
-## Studien-/Prüfungsleistungen:
+## Studien-/Prüfungsleistungen§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_TheoretischeInformatik1§
 
-Schriftliche Modulprüfung von 60 Min.
-
-
-## Medienformen:
-
-Vorlesung mit Übung
+Schriftliche Prüfung.
 
 
-## Literatur:
+## Literatur§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_TheoretischeInformatik1§
 
 - Hoffmann, D. (2011): Theoretische Informatik, 2. Auflage
-
-- Brill, M. ( 2005 ): Mathematik für Informatiker. Carl Hanser Verlag, München.
-
-- Vossen, G., Witt K. (2004): Grundlagen der Theoretischen Informatik mit Anwendungen. 3. Aufl.  Vieweg & Sohn, Braunschweig.
 
 - Hedtstück, U. ( 2004 ): Einführung in die Theoretische Informatik. Oldenbourg, München.
 
 - Kelly, J. ( 2003 ): Logik. Pearson Studium, München.
 
-- Kelch, R. ( 2003 ): Rechnergrundlagen. Von der Binärlogik zum Schaltwerk. Fachbuchverlag Leipzig im Carl Hanser Verlag.
-
-- Dean, N. ( 2003 ): Diskrete Mathematik. Pearson Studium. München.
-
-- Asteroth, A., Baier, C. (2002) Theoretische Informatik. Pearson Studium München
-
-- Hopcroft, J. E.  et al. (2002): Einführung in die Automatentheorie, Formale Sprachen und Kom plexitätstheorie. Pearson Studium, München.
-
-- Meinel, C., Mundhenk, M. ( 2002 ): Mathematische Grundlagen der Informatik. B. G. Teubner, Stuttgart.
-
 - Ehrig, H. et al. (1999): Mathematisch-strukturelle Grundlagen der Informatik. Springer,  Heidelberg.
-
-- Schöning, U. (1997): Theoretische Informatik - kurzgefaßt. 3. Aufl. Spektrum Akademischer Verlag, Heidelberg.
-
-- Schiffmann, W. und Schmitz, R. (1993): Technische Informatik 1. 2.Aufl. Springer, Heidelberg.
-
-- Urbanski, K. und Woitowitz, R. (1993): Digitaltechnik.   BI-Wiss.- Verlag, Mannheim.
 
 - Beuth, K. (1992): Digitaltechnik. 9.Aufl.Vogel, Würzburg.
 
-- Morgenstern, B. (1992): Elektronik III, Digitale Schaltungen und Systeme. Vieweg & Sohn, Braunschweig.
 
-- Rembold, U. et al.  (1991): Einführung in die Informatik. 2.  Aufl. Hanser, München.                               
 
-- Rembold, U. et al.  (1990): Aufgaben zur Informatik. Hanser, München.
-
-- Tietze, U. und Schenk, C. (1990): Halbleiter-Schaltungstechnik. 9.Aufl. Springer, Berlin.
+# Theoretische Informatik 2§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_TheoretischeInformatik2§
 
 
 
-# Theoretische Informatik 2
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Martin Eisemann%end-modulMeta%%begin-modulMeta%**Studiensemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 5%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Empfohlene Voraussetzungen**: Einfache Kenntnisse der naiven Mengenlehre, wie sie in der Schule vermittelt und bei der mathematischen Begriffsbildung verwendet werden.%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
 
 
-
-%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Martin Eisemann%end-modulMeta%%begin-modulMeta%**Kürzel**: TI2%end-modulMeta%%begin-modulMeta%**Studiensemester**: 2%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 5%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: Einfache Kenntnisse der naiven Mengenlehre, wie sie in der Schule vermittelt und bei der mathematischen Begriffsbildung verwendet werden.%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
-
-
-## Lehrform/SWS:
+## Lehrform/SWS§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_TheoretischeInformatik2§
 
 4 SWS: Vorlesung 2 SWS; Übung 2 SWS
 
 
-## Arbeitsaufwand:
+## Arbeitsaufwand§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_TheoretischeInformatik2§
 
-Gesamtaufwand 150 h, davon
+Gesamtaufwand 150h, davon
 
-- 50h Vorlesung (inkl. Vor- und Nachbearbeitung)
+- 36h Vorlesung
 
-- 50h Übung (inkl. Vor- und Nachbearbeitung)
+- 36h Übung
 
-- 50h Selbstlernphase 
+- 78h Selbstlernphase
 
 
-## Angestrebte Lernergebnisse:
+## Angestrebte Lernergebnisse§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_TheoretischeInformatik2§
 
 siehe Theoretische Informatik 1.
 
 
-## Inhalt:
+## Inhalt§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_TheoretischeInformatik2§
 
 - Reguläre (Typ-3) Sprachen: Endliche Automaten, Reguläre Ausdrücke; Typ3-Grammatiken, Syntaxdiagramme; Chomsky-Hierarchie
 
@@ -1854,66 +1904,35 @@ siehe Theoretische Informatik 1.
 - Kontextsensitive (Typ-1) und rekursiv aufzählende (Typ-0) Sprachen: Grammatiken, Monotonie, Normalform; Turingautomaten; Einführung in die Begriffe: Berechenbarkeit, Entscheidbarkeit und Komplexität
 
 
-## Studien-/Prüfungsleistungen:
+## Studien-/Prüfungsleistungen§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_TheoretischeInformatik2§
 
-Schirftliche Modulprüfung von 60 Min.
-
-
-## Medienformen:
-
-Vorlesung und praktische Übungen
+Schriftliche Prüfung.
 
 
-## Literatur:
+## Literatur§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_TheoretischeInformatik2§
 
 - Hoffmann, D. (2011): Theoretische Informatik, 2. Auflage
-
-- Brill, M. ( 2005 ): Mathematik für Informatiker. Carl Hanser Verlag, München.
 
 - Vossen, G., Witt K. (2004): Grundlagen der Theoretischen Informatik mit Anwendungen. 3. Aufl.  Vieweg & Sohn, Braunschweig.
 
 - Hedtstück, U. ( 2004 ): Einführung in die Theoretische Informatik. Oldenbourg, München.
 
-- Kelly, J. ( 2003 ): Logik. Pearson Studium, München.
-
-- Kelch, R. ( 2003 ): Rechnergrundlagen. Von der Binärlogik zum Schaltwerk. Fachbuchverlag Leipzig im Carl Hanser Verlag.
-
-- Dean, N. ( 2003 ): Diskrete Mathematik. Pearson Studium. München.
-
 - Asteroth, A., Baier, C. (2002) Theoretische Informatik. Pearson Studium München
 
-- Hopcroft, J. E.  et al. (2002): Einführung in die Automatentheorie, Formale Sprachen und Kom plexitätstheorie. Pearson Studium, München.
-
-- Meinel, C., Mundhenk, M. ( 2002 ): Mathematische Grundlagen der Informatik. B. G. Teubner, Stuttgart.
-
-- Ehrig, H. et al. (1999): Mathematisch-strukturelle Grundlagen der Informatik. Springer,  Heidelberg.
+- Hopcroft, J. E.  et al. (2002): Einführung in die Automatentheorie, Formale Sprachen und Komplexitätstheorie. Pearson Studium, München.
 
 - Schöning, U. (1997): Theoretische Informatik - kurzgefaßt. 3. Aufl. Spektrum Akademischer Verlag, Heidelberg.
 
-- Schiffmann, W. und Schmitz, R. (1993): Technische Informatik 1. 2.Aufl. Springer, Heidelberg.
 
-- Urbanski, K. und Woitowitz, R. (1993): Digitaltechnik.   BI-Wiss.- Verlag, Mannheim.
 
-- Beuth, K. (1992): Digitaltechnik. 9.Aufl.Vogel, Würzburg.
-
-- Morgenstern, B. (1992): Elektronik III, Digitale Schaltungen und Systeme. Vieweg & Sohn, Braunschweig.
-
-- Rembold, U. et al.  (1991): Einführung in die Informatik. 2.  Aufl. Hanser, München.                               
-
-- Rembold, U. et al.  (1990): Aufgaben zur Informatik. Hanser, München.
-
-- Tietze, U. und Schenk, C. (1990): Halbleiter-Schaltungstechnik. 9.Aufl. Springer, Berlin.
+# Visual Computing§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung-Visual-Computing§
 
 
 
-# Visual Computing
+%begin-modulMeta%**Modulverantwortlich**: Prof. Hans Kornacher, Prof. Dr. Martin Eisemann%end-modulMeta%%begin-modulMeta%**Studiensemester**: 4%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 20%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Empfohlene Voraussetzungen**: Einführung in die Medieninformatik, Algorithmen und Programmierung, Paradigmen der Programmierung, Mensch-Computer Interaktion, Screendesign, Audiovisuelles Medienprojekt%end-modulMeta%%begin-modulMeta%**Typ**: Vertiefungsmodul%end-modulMeta%
 
 
-
-%begin-modulMeta%**Modulverantwortlich**: Prof. Hans Kornacher, Prof. Dr. Martin Eisemann%end-modulMeta%%begin-modulMeta%**Kürzel**: VC%end-modulMeta%%begin-modulMeta%**Studiensemester**: 4%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 20%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Vertiefungsmodul%end-modulMeta%
-
-
-## Kurzbeschreibung
+## Kurzbeschreibung§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung-Visual-Computing§
 
 Das Modul „Visual Computing” im Medieninformatik Bachelor beschäftigt sich mit der Erzeugung und Verarbeitung visueller Informationen, sowohl in realen als auch computergenerierten Szenarien.
 
@@ -1928,14 +1947,17 @@ Die Kurse werden nach Verfügbarkeit angeboten.
 Die Kurse sind in der Regel projektbasiert aufgebaut, so dass sowohl theoretischer Hintergrund als auch praxisnahes Wissen vermittelt wird und zur Anwendung kommt.
 
 
-## Lehrform/SWS:
+## Lehrform/SWS§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung-Visual-Computing§
 
 Vorlesung, Praktikum / Projekt, Übung mit kursabhängigen Schwerpunkten
 
+4 SWS: Vorlesung 2 SWS; Praktikum 2 SWS
 
-## Lehrveranstaltungen
 
-Pflichtbereich im Gesamtumfang von 10 CP:
+## Lehrveranstaltungen§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung-Visual-Computing§
+
+
+### Pflichtmovule im Gesamtumfang von 10CP§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung-Visual-Computing§
 
 - Audiovisuelle Medientechnik
 
@@ -1943,38 +1965,60 @@ Pflichtbereich im Gesamtumfang von 10 CP:
 
 Aus den folgenden Wahlkatalogen sind zwei weitere Kurse zu jeweils 5CP zu belegen, welche nach Verfügbarkeit angeboten werden.
 
-Wahlkatalog Film/Video:
+
+### Wahlkatalog Film/Video§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung-Visual-Computing§
 
 - Audiovisuelles Medienprojekt 2
 
 - Visuelle Effekte und Animation
 
-Wahlkatalog Game Development:
+
+### Wahlkatalog Game Development§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung-Visual-Computing§
 
 - Crossplatform Game Development mit Unity3D
 
 - Prozedurale Generierung virtueller Welten
 
 
-## Arbeitsaufwand:
-
-- Audiovisuelle Medientechnik: Gesamtaufwand 150 h, davon - 50h Vorlesung (inkl. Vor- und Nachbearbeitung) - 50h Praktikum / Projekt - 50h Selbstlernphase
-
-- Computergrafik und Animation: Gesamtaufwand 150 h, davon - 50h Vorlesung (inkl. Vor- und Nachbearbeitung) - 50h Praktikum / Projekt - 50h Selbstlernphase
-
-- Audiovisuelles Medienprojekt 2: Gesamtaufwand 150 h, davon - 50h Vorlesung (inkl. Vor- und Nachbearbeitung) - 50h Praktikum / Projekt - 50h Selbstlernphase
-
-- Visuelle Effekte und Animation: Gesamtaufwand 150 h, davon - 50h Vorlesung (inkl. Vor- und Nachbearbeitung) - 50h Praktikum / Projekt - 50h Selbstlernphase
-
-- Crossplatform Game Development mit Unity3D: Gesamtaufwand 150 h, davon - 50h Vorlesung (inkl. Vor- und Nachbearbeitung) - 60h Praktikum / Projekt - 40h Selbstlernphase
-
-- Prozedurale Generierung virtueller Welten: Gesamtaufwand 150 h, davon - 40 h Vorlesung (inkl. Vor- und Nachbereitung), - 40 h Live-Coding und Übungen - 40 h Selbstlernphase - 30 h Begleitetes Abschlussprojekt
+## Arbeitsaufwand§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung-Visual-Computing§
 
 
-## Angestrebte Lernergebnisse:
+### Audiovisuelle Medientechnik§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung-Visual-Computing§
+
+36h Vorlesung; 36h Praktikum / Projekt; 78h Selbstlernphase 
 
 
-### Audiovisuelle Medientechnik
+### Computergrafik und Animation§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung-Visual-Computing§
+
+36h Vorlesung; 36h Praktikum / Projekt; 78h Selbstlernphase 
+
+
+### Audiovisuelles Medienprojekt 2§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung-Visual-Computing§
+
+36h Vorlesung; 36h Praktikum / Projekt; 78h Selbstlernphase 
+
+
+### Visuelle Effekte und Animation§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung-Visual-Computing§
+
+36h Vorlesung; 36h Praktikum / Projekt; 78h Selbstlernphase 
+
+
+### Crossplatform Game Development mit Unity3D§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung-Visual-Computing§
+
+36h Vorlesung; 36h Praktikum / Projekt; 78h Selbstlernphase 
+
+
+### Prozedurale Generierung virtueller Welten§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung-Visual-Computing§
+
+36h Vorlesung; 36h Praktikum / Projekt; 78h Selbstlernphase 
+
+600h Gesamtaufwand
+
+
+## Angestrebte Lernergebnisse§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung-Visual-Computing§
+
+
+### Audiovisuelle Medientechnik§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung-Visual-Computing§
 
 Die Studierenden sollen durch dieses Modul dazu befähigt werden, auf Basis der technischen Grundlagen der Video- und Fernsehtechnik weitergehende Fragestellungen selbstständig zu erarbeiten und sich so auch zukünftige technische Entwicklungen autonom erschließen zu können. 
 
@@ -1985,7 +2029,7 @@ Gerade der Umgang mit Technologien und Methoden aus der Film- und Fernsehprodukt
 Pragmatisches Ziel ist es, in den unterschiedlichsten Berufsfeldern audiovisueller Medien die Entwicklung und den Einsatz digitaler Medientechnik zu beraten, zu planen, durchzuführen oder zu verantworten.
 
 
-### Computergrafik und Animation
+### Computergrafik und Animation§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung-Visual-Computing§
 
 Die Grundlagen der zwei- und insbesondere der dreidimensionalen Computergraphik und Animation stellen ein hervorragendes Paradigma zur Vermittlung zentraler Inhalte und Kompetenzen der Medieninformatik dar.
 
@@ -2010,7 +2054,7 @@ Die Inhalte des Moduls befähigen die Studierenden die grundlegenden Algorithmen
 Die Studierenden können ihr erworbenes Können und Wissen zur Implementierung einer eigenen Game/Visualisierungs-Engine einsetzen. Dies zeigen Sie durch Umsetzung eines eigenen Projektes in Kleingruppen, wo sie zusätzlich lernen mündlich überzeugend zu präsentieren, abweichende Positionen zu erkennen und in eine sach- und interessengerechte Lösung zu integrieren. Sie zeigen dadurch, dass Sie in der Lage sind sich selbstständig neues Wissen anzueigenen und zu erkennen, welches Wissen relevant ist, können mediengestalterische Grundkompetenzen anwenden und besitzen aktive Vokabularien zur Beschreibung und Realisierung angemessener Konzeptionen. Zudem können sie die Realisationen bezüglich der Zielsetzungen kritisch diskutieren.
 
 
-### Audiovisuelles Medienprojekt 2
+### Audiovisuelles Medienprojekt 2§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung-Visual-Computing§
 
 Die praktische Umsetzung des Vorlesungsstoffes, die Kommunikation und Zusammenarbeit im Team über Themenbereiche dieses Faches und die Präsentation von eigenen Projekten und Untersuchungsergebnissen sind die Lernziele des Moduls Audiovisuelles Medienprojekt 2. Neben dieser formulierten Fachkompetenz, Methodenkompetenz und Kommunikationskompetenz stehen gerade die sogenannten Softskills Teamfähigkeit und Kommunikationsfähigkeit im Focus der Ausbildung in diesem Modul.
 
@@ -2019,7 +2063,7 @@ Die Studierenden kennen über die grundlegenden Erzählformen audiovisueller Med
 Pragmatisches Ziel ist es, in den unterschiedlichsten Berufsfeldern digitaler audiovisueller Medien die Entwicklung und den Einsatz audiovisuellen Content zu beraten, zu planen, durchzuführen oder zu verantworten.
 
 
-### Visuelle Effekte und Animation
+### Visuelle Effekte und Animation§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung-Visual-Computing§
 
 Die Studierenden kennen die grundlegenden Produktionsschritte und Abläufe einer Film- und TV-Produktion mit visuellen Effekten sowie die in diesem Zusammenhang eingesetzten Softwaretools.
 
@@ -2030,7 +2074,7 @@ Unter Entwicklungs- und Methodenkompetenz auf dem Gebiet der Visual Effects ist 
 Berufsbilder, die von diesem Modul angesprochen werden, sind zum einen in der Visual-Effects-spezifischen Softwareentwicklung, als auch im Anwendungskontext zu finden: So zum Beispiel in der Planung, Organisation, Durchführung und Verantwortung von VFX-Projekten.
 
 
-### Cross-Platform Game Development mit Unity 3D
+### Cross-Platform Game Development mit Unity 3D§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung-Visual-Computing§
 
 Die Studierenden kennen wesentliche Konzepte und Technologien des Game Developments mit Unity 3D und können diese anwenden, um eigenständig im Team Interaktive Applikationen zu konzipieren, realisieren und optimieren.
 
@@ -2039,7 +2083,7 @@ Die Studierenden kennen die grundlegenden Möglichkeiten von Game Engine Framewo
 Die Kursteilnehmer sammeln im Rahmen ihres eigenständig entwickelten Projektes Erfahrungen in der Entwicklung von Kleinprojekten bis mindestens zum Grad einer spielbaren Alphaversion oder eines Prototypen.
 
 
-### Prozedurale Generierung virtueller Welten
+### Prozedurale Generierung virtueller Welten§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung-Visual-Computing§
 
 Die Studierenden haben die Möglichkeit ihr Wissen über 3D-Computergrafik, 3D-Geometrie und Programmierung zu vertiefen und praktisch anzuwenden. Durch den Einsatz von Unity als Crossplatform-Game-Development-Tool können die Studierenden ihre Erfahrung mit einer aktuellen Game-Engine und der dazugehörigen Entwicklungsumgebung vertiefen und werden befähigt diese um Funktionalitäten zu erweitern. 
 
@@ -2053,13 +2097,11 @@ Nach Abschluss des Moduls besitzen die Studierenden grundlegende Kenntnisse übe
 
 Je nach gewählten Vertiefungskursen entwickeln die Studierenden Fähigkeiten zur selbstverantwortlichen Durchführung von Projekten im Bereich Gamedevelopment, dreidimensionaler Darstellung virtueller Szenen, Film- und Fernsehtechnik, sowie Visueller Effekte.
 
-Im Detail:
+
+## Inhalt§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung-Visual-Computing§
 
 
-## Inhalt:
-
-
-### Audiovisuelle Medientechnik
+### Audiovisuelle Medientechnik§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung-Visual-Computing§
 
 - Grundlagen der Fernsehtechnik
 
@@ -2084,7 +2126,7 @@ Im Detail:
 - Lichttechnik und Beleuchtung
 
 
-### Computergrafik und Animation
+### Computergrafik und Animation§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung-Visual-Computing§
 
 - Graphikhardware, 
 
@@ -2111,7 +2153,7 @@ Im Detail:
 - Grundlagen des Ray Tracings
 
 
-### Audiovisuelles Medienprojekt 2
+### Audiovisuelles Medienprojekt 2§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung-Visual-Computing§
 
 - Vertiefung der Video- und Audioaufnahmetechnik
 
@@ -2126,7 +2168,7 @@ Im Detail:
 - Medienproduktion in den Formaten Spielfilm, Imagefilm und Studioproduktion
 
 
-### Visuelle Effekte und Animation
+### Visuelle Effekte und Animation§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung-Visual-Computing§
 
 - Storyboard
 
@@ -2141,7 +2183,7 @@ Im Detail:
 - Umgang mit Bild-/Videobearbeitungswerkzeugen
 
 
-### Cross-Platform Game Development mit Unity 3D
+### Cross-Platform Game Development mit Unity 3D§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung-Visual-Computing§
 
 - Aufbau einer Game Engine
 
@@ -2154,7 +2196,7 @@ Im Detail:
 - Spielmechaniken
 
 
-### Prozedurale Generierung virtueller Welten
+### Prozedurale Generierung virtueller Welten§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung-Visual-Computing§
 
 - Einführung in die Game-Engine Unity
 
@@ -2181,42 +2223,42 @@ Im Detail:
 - Erweiterung des Unity-Editors
 
 
-## Studien-/Prüfungsleistungen:
+## Studien-/Prüfungsleistungen§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung-Visual-Computing§
 
 
-### Audiovisuelle Medientechnik
+### Audiovisuelle Medientechnik§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung-Visual-Computing§
 
-Schriftliche Prüfung von 90 Minuten
-
-
-### Computergrafik und Animation
-
-Die erfolgreiche Teilnahme an den Praktikas ist Voraussetzung für die Klausur (120 Minuten) oder mündliche Prüfung
+Schriftliche Prüfung.
 
 
-### Audiovisuelles Medienprojekt 2
+### Computergrafik und Animation§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung-Visual-Computing§
+
+Die erfolgreiche Teilnahme an den Praktika ist Voraussetzung für die Klausur oder mündliche Prüfung
+
+
+### Audiovisuelles Medienprojekt 2§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung-Visual-Computing§
 
 Projektarbeit
 
 
-### Visuelle Effekte und Animation
+### Visuelle Effekte und Animation§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung-Visual-Computing§
 
-Projektarbeit (50%) und schriftliche Ausarbeitung (50%)
+Projektarbeit(50%) und schriftliche Ausarbeitung(50%)
 
 
-### Cross-Platform Game Development mit Unity 3D
+### Cross-Platform Game Development mit Unity 3D§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung-Visual-Computing§
 
 Präsentation und Dokumentation eines eigenständig entwickelten Projekts
 
 
-### Prozedurale Generierung virtueller Welten
+### Prozedurale Generierung virtueller Welten§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung-Visual-Computing§
 
 Die erfolgreiche Teilnahme am Abschlussprojekt (eigenständiges Projekt, auch in Kleingruppen möglich) und Fachgespräch
 
-Teilprüfungen in den jeweiligen Kursen.
+Teilprüfungen in den jeweiligen Kursen. Die Benotung ergibt sich als Mittel aus den jeweiligen Teilnoten.
 
 
-## Medienformen:
+## Medienformen§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung-Visual-Computing§
 
 - Beamer-gestützte Vorlesungen
 
@@ -2227,10 +2269,10 @@ Teilprüfungen in den jeweiligen Kursen.
 - Audiovisuelle Aufnahme- und Wiedergabegeräte
 
 
-## Literatur:
+## Literatur§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung-Visual-Computing§
 
 
-### Audiovisuelle Medientechnik
+### Audiovisuelle Medientechnik§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung-Visual-Computing§
 
 - Schmidt Ulrich, Professionelle Videotechnik, Springer-Verlag Berlin Heidelberg New York 2013, ISBN 978-3-642-38992-4
 
@@ -2239,7 +2281,7 @@ Teilprüfungen in den jeweiligen Kursen.
 - Möllering, Slansky, Handbuch der professionellen Videoaufnahme Edition Filmwerkstatt, Essen, 1993, ISBN 3 - 9 802 581 - 3 - 0
 
 
-### Computergrafik und Animation
+### Computergrafik und Animation§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung-Visual-Computing§
 
 - Peter Shirley, Fundamentals of Computer Graphics, Peters, Wellesley
 
@@ -2256,7 +2298,7 @@ Teilprüfungen in den jeweiligen Kursen.
 - James Foley, Andries Van Dam, et al., Computer Graphics : Principles and Practice, 2. Ausgabe, Addison-Wesley
 
 
-### Audiovisuelles Medienprojekt 2
+### Audiovisuelles Medienprojekt 2§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung-Visual-Computing§
 
 - James Monaco, Film verstehen, Rowolth Taschenbuch Verlag Hamburg, 1980, ISBN 3-499-162717
 
@@ -2277,14 +2319,14 @@ Teilprüfungen in den jeweiligen Kursen.
 - Wolfgang Lanzenberger, Michael Müller, Unternehmensfilme drehen: Business Movies im digitalen Zeitalter, ISBN 978-386764367
 
 
-### Visuelle Effekte und Animation
+### Visuelle Effekte und Animation§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung-Visual-Computing§
 
 - Flückiger Barbara, Visual Effects: Filmbilder aus dem Computer (Zürcher Filmstudien), Schüren Verlag GmbH, 2008, ISBN 978-3894725181
 
 - Bertram Sascha, VFX (Praxis Film), UVK, 2005, ISBN 978-3896695154
 
 
-### Cross-Platform Game Development mit Unity 3D
+### Cross-Platform Game Development mit Unity 3D§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung-Visual-Computing§
 
 - Unity 3D API ([https://docs.unity3d.com/ScriptReference/](https://docs.unity3d.com/ScriptReference/))
 
@@ -2299,7 +2341,7 @@ Teilprüfungen in den jeweiligen Kursen.
 - Steve Rabin et al.,  AI Game Programming Wisdom 1-4, Cengage Learning
 
 
-### Prozedurale Generierung virtueller Welten
+### Prozedurale Generierung virtueller Welten§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung-Visual-Computing§
 
 - Peter Shirley, Steve Marschner, “Fundamentals of Computer Graphics“, CRC Press
 
@@ -2315,24 +2357,24 @@ Teilprüfungen in den jeweiligen Kursen.
 
 
 
-# Web Development
+# Web Development§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung-Web_Development§
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Kristian Fischer%end-modulMeta%%begin-modulMeta%**Kürzel**: WD%end-modulMeta%%begin-modulMeta%**Studiensemester**: 4%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 20%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Vertiefungsmodul%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Kristian Fischer%end-modulMeta%%begin-modulMeta%**Studiensemester**: 4%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 20%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Empfohlene Voraussetzungen**: Einführung in die Medieninformatik, Web Architekturen, Algorithmen und Programmierung, Paradigmen der Programmierung, MCI, Screendesign, Betriebssysteme und verteilte Systeme%end-modulMeta%%begin-modulMeta%**Typ**: Vertiefungsmodul%end-modulMeta%
 
 
-## Kurzbeschreibung
+## Kurzbeschreibung§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung-Web_Development§
 
 Einführungen in Konzepte, Techniken und Arbeitsweisen der Web Entwicklung.
 
 
-## Lehrform/SWS:
+## Lehrform/SWS§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung-Web_Development§
 
-18 SWS: Vorlesung 6 SWS, Praktikum 6 SWS, Projekt 4 SWS
+16 SWS: Vorlesung 6 SWS, Praktikum 6 SWS, Projekt 4 SWS
 
 
-## Lehrveranstaltungen
+## Lehrveranstaltungen§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung-Web_Development§
 
 - Web Frontend Entwicklung
 
@@ -2343,21 +2385,35 @@ Einführungen in Konzepte, Techniken und Arbeitsweisen der Web Entwicklung.
 - Web Development Projekt
 
 
-## Arbeitsaufwand:
-
-- Web-Frontend Entwicklung: Vorlesung, Seminar(50 Stunden); Selbstlernphase (100 Stunden)
-
-- Serverseitige Frameworks und Dienste: Vorlesung, Seminar(50 Stunden); Selbstlernphase (100 Stunden)
-
-- Internet of Things: Vorlesung, Seminar (50 Stunden); Selbstlernphase (100 Stunden)
-
-- Web Development Projekt: Projekt (150 Stunden)
+## Arbeitsaufwand§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung-Web_Development§
 
 
-## Angestrebte Lernergebnisse:
+### Web-Frontend Entwicklung§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung-Web_Development§
+
+50h Vorlesung, Seminar; 100h Selbstlernphase
 
 
-### Web Frontend Entwicklung:
+### Serverseitige Frameworks und Dienste§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung-Web_Development§
+
+50h Vorlesung, Seminar; 100h Selbstlernphase
+
+
+### Internet of Things§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung-Web_Development§
+
+50h Vorlesung, Seminar; 100h Selbstlernphase
+
+
+### Web Development Projekt§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung-Web_Development§
+
+150h Projekt
+
+600h Gesamtaufwand
+
+
+## Angestrebte Lernergebnisse§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung-Web_Development§
+
+
+### Web Frontend Entwicklung§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung-Web_Development§
 
 Die Studierenden kennen wesentliche Konzepte und Technologien des Web-Frontend Developments und können diese anwenden, um eigenständig im Team Web-Frontends zu konzipieren, realisieren und optimieren.
 
@@ -2368,7 +2424,7 @@ Die Studierenden kennen Web-Frontend Frameworks und sind in der Lage diese kriti
 Die Studierenden kennen das Zusammenspiel von server- und clientseitigen Komponenten im Bereich des Webs und können Web-Frontends konzipieren und realisieren, die mit serverseitigen Komponenten und Diensten möglichst optimal zusammen arbeiten. Sie können außerdem, bezogen auf eine konkrete Aufgabenstellung, abwägen, welche Funktionalitäten clientseitig und welche serverseitig gelöst werden sollten.
 
 
-### Serverseitige Frameworks und Dienste:
+### Serverseitige Frameworks und Dienste§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung-Web_Development§
 
 Die Studentinnen und Studenten kennen 
 
@@ -2385,7 +2441,7 @@ Den Teilnehmern steht eine Auswahl an Techniken und Frameworks zur Verfügung, a
 Die StudentenInnen sind in der Lage eine komplexe Anwendung im Web über mehrere Endgeräte hinweg zu planen, zu realisieren und zu dokumentieren. 
 
 
-### Internet of Things:
+### Internet of Things§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung-Web_Development§
 
 In diesem Modul lernen die Teilnehmer das Gebiet Internet of Things kennen. Dabei liegt ein besonderer Fokus auf der Bedeutung des Web für Applikationen jenseits eines Browsers. Immer mehr Alltagsgegenstände werden mit Technologien angereichert, die eine Dienste-Bereitstellung oder Dienst-Nutzung über das Web ermöglichen (beispielsweise das Steuern von Gegenständen oder das Erfassen von Sensordaten). In diesem Modul werden relevante Konzepte und aktuelle Technologien für das Internet der Dinge diskutiert und in prototypischen Anwendungen erprobt.
 
@@ -2414,10 +2470,10 @@ Die Studierenden
 - um kompetent in Web Entwicklungs Teams mitwirken zu können.
 
 
-## Inhalt:
+## Inhalt§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung-Web_Development§
 
 
-### Web Frontend Entwicklung:
+### Web Frontend Entwicklung§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung-Web_Development§
 
 - Web Basics: HTML, CSS, Javascript
 
@@ -2438,7 +2494,7 @@ Die Studierenden
 - Microdata, Internationalisierung, SEO, Barrierefreiheit
 
 
-### Serverseitige Frameworks und Dienste:
+### Serverseitige Frameworks und Dienste§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung-Web_Development§
 
 - NodeJS
 
@@ -2451,11 +2507,7 @@ Die Studierenden
 Ausgewählte Tools sollen tiefgreifend erarbeitet werden und in einem Projektkontext angewendet werden. Dies erfolgt in der Regel in dem begleitenden Projekt
 
 
-### Internet of Things:
-
-Zu Begin des Moduls findet eine Einführung durch den Dozenten statt. Danach werden in seminaristischem Unterricht verschiedene aktuelle und relevante Technologie des Internet of Things vermittelt, demonstriert und erprobt (bspw. Raspberry Pi, Arduino, MQTT, Node-Red, Johnny Five, AndroidThings). Diese werden in Teams zur Entwicklung eines eigenen IoT-Prototypen eingesetzt. 
-
-Weitere Inhalte sind:
+### Internet of Things§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung-Web_Development§
 
 - Physical Computing
 
@@ -2472,17 +2524,17 @@ Weitere Inhalte sind:
 - Mobile Web- und Smartphone-Sensoren (bspw. GPS, Beacons)
 
 
-## Studien-/Prüfungsleistungen:
+## Studien-/Prüfungsleistungen§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung-Web_Development§
 
 Projektarbeit mit Projektpräsentationsprüfung und Fachgespräch.
 
 
-## Medienformen:
+## Medienformen§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung-Web_Development§
 
 Beamergestützte Vorträge, Rechnergestützte Workshops
 
 
-## Literatur:
+## Literatur§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung-Web_Development§
 
 - Randy Connolly, Ricardo Hoar: Fundamentals of Web Development
 
@@ -2500,26 +2552,26 @@ Beamergestützte Vorträge, Rechnergestützte Workshops
 
 
 
-# Social Computing
+# Social Computing§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung_SocialComputing§
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Christian Kohls%end-modulMeta%%begin-modulMeta%**Kürzel**: SC%end-modulMeta%%begin-modulMeta%**Studiensemester**: 4%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 20%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Vertiefungsmodul%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: Prof. Dr. Christian Kohls%end-modulMeta%%begin-modulMeta%**Studiensemester**: 4%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 20%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Empfohlene Voraussetzungen**: Einführung in die Medieninformatik, Algorithmen und Programmierung, Paradigmen der Programmierung, Mensch-Computer Interaktion, Screendesign, Audiovisuelles Medienprojekt%end-modulMeta%%begin-modulMeta%**Typ**: Vertiefungsmodul%end-modulMeta%
 
 
-## Kurzbeschreibung
+## Kurzbeschreibung§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung_SocialComputing§
 
 In der Vertiefung „Social Computing” werden die Wechselwirkungen zwischen Gesellschaft und Informatik in den Mittelpunkt gestellt. Rechnersysteme und Netzwerke werden von Menschen intentional gestaltet, ausgerichtet an gesellschaftlichen Normen, Prozessen und Bedürfnissen. Gleichzeitig beeinflussen IT-Systeme diese gesellschaftlichen Normen und verändern Prozesse in allen Lebensbereichen. Die verantwortungsbewusste Konzeption und Realisierung von soziotechnischen Systemen (z.B. Social Software, Online Communities, e-Health, e-Government und e-Learning Angebote) sowie die empirische Evaluation existierender Systeme sind zentrale Ziele. Lösungen sollen unter ganzheitlichen Gesichtspunkten entwickelt werden. Verschiedene Wertvorstellungen und Interessen unterschiedlicher Stakeholder müssen identifiziert und berücksichtig werden. 
 
 Das Modul verbindet daher Theorien, Modelle und Methodik der Human- und Sozialwissenschaften mit anwendungsorientierter Informatik.
 
 
-## Lehrform/SWS:
+## Lehrform/SWS§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung_SocialComputing§
 
 16 SWS: Vorlesung 6 SWS, Praktikum 6 SWS, Projekt 4 SWS
 
 
-## Lehrveranstaltungen
+## Lehrveranstaltungen§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung_SocialComputing§
 
 * Soziotechnische Systeme
 
@@ -2530,33 +2582,45 @@ Das Modul verbindet daher Theorien, Modelle und Methodik der Human- und Sozialwi
 * Social Computing Projekt
 
 
-## Arbeitsaufwand:
-
-Gesamtaufwand 600 h, davon
-
-* Soziotechnische Systeme: Vorlesung, Seminar(50 Stunden); Selbstlernphase (100 Stunden)
-
-* Empirische Forschungsmethoden: Vorlesung, Seminar(50 Stunden); Selbstlernphase (100 Stunden)
-
-* Gamification: Vorlesung, Seminar (50 Stunden); Selbstlernphase (100 Stunden)
-
-* Social Computing Projekt: Projekt (150 Stunden)
+## Arbeitsaufwand§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung_SocialComputing§
 
 
-## Angestrebte Lernergebnisse:
+### Soziotechnische Systeme§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung_SocialComputing§
+
+50h Vorlesung, Seminar; 100h Selbstlernphase
 
 
-### Soziotechnische Systeme
+### Empirische Forschungsmethoden§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung_SocialComputing§
+
+50h Vorlesung, Seminar; 100h Selbstlernphase
+
+
+### Gamification§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung_SocialComputing§
+
+50h Vorlesung, Seminar; 100h Selbstlernphase
+
+
+### Social Computing Projekt§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung_SocialComputing§
+
+150h Projekt
+
+600h Gesamtaufwand
+
+
+## Angestrebte Lernergebnisse§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung_SocialComputing§
+
+
+### Soziotechnische Systeme§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung_SocialComputing§
 
 Die Studierenden sollen das komplexe Wechselspiel zwischen informationstechnischen Systemen und gesellschaftlichen Normen und Prozessen verstehen, analysieren und einordnen können. Sie sollen in der Lage sein, Systeme nach ethischen, psychologischen und soziologischen Kriterien zu gestalten und die Auswirkungen einschätzen zu können. Die grundlegenden Modelle der verschiedenen Disziplinen sollen bekannt und verstanden werden.
 
 
-### Empirische Forschungsmethoden
+### Empirische Forschungsmethoden§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung_SocialComputing§
 
 Die Studierenden sollen die unterschiedlichen Herangehensweisen quantitativer und qualitativer Forschungsmethoden verstehen. Darüber hinaus sollen ausgewählte quantitative und qualitative Methoden angewendet werden können. Die Studierenden sollen in der Lage sein, einfache Forschungsdesigns zu entwickeln und nach wissenschaftlichen Standards durchzuführen. 
 
 
-### Gamification
+### Gamification§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung_SocialComputing§
 
 Die Studierenden sollen in der Lage sein, die Möglichkeiten und Grenzen des Gamification-Ansatzes, sowohl für die analoge als auch die digitale Welt, einordnen zu können. Die verschiedenen Stufen der Gamification sollen verstanden und die Maßnahmen in Gestaltungsprozessen eingesetzt werden. Die Studierenden sollen die psychologischen Grundlagen verstehen und die gesellschaftlichen Implikationen bewerten können. Die Analyse von Regeln und Prozessen und daraus abgeleitete Gamification-Maßnahmen sowie die Entwicklung von Serious Games sollen praktisch umgesetzt werden, z.B. für Lernanwendungen, Online-Communities oder soziale Dienste.
 
@@ -2565,10 +2629,10 @@ Studierende sollen in der Lage sein, computergestützte Systeme nach ethischen, 
 Ziel ist es, soziale Innovation durch digitale Anwendungen entstehen zu lassen. Neben den empirischen Methoden werden Designmethoden vermittelt, sowohl auf der konzeptionellen als auch auf der softwaretechnischen Implementierungsebene, um robuste, sichere und flexible Systeme zu gestalten. 
 
 
-## Inhalt:
+## Inhalt§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung_SocialComputing§
 
 
-### Soziotechnische Systeme
+### Soziotechnische Systeme§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung_SocialComputing§
 
 * Modelle der Sozioinformatik
 
@@ -2593,7 +2657,7 @@ Ziel ist es, soziale Innovation durch digitale Anwendungen entstehen zu lassen. 
 * E-Goverment
 
 
-### Empirische Forschungsmethoden
+### Empirische Forschungsmethoden§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung_SocialComputing§
 
 * Wissenschaftstheoretische Grundlagen
 
@@ -2616,7 +2680,7 @@ Ziel ist es, soziale Innovation durch digitale Anwendungen entstehen zu lassen. 
 * Aussagekraft der Ergebnisse (statistische Signifikanz, interne und externe Valididät)
 
 
-### Gamification
+### Gamification§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung_SocialComputing§
 
 * Grundelemente der Gamification
 
@@ -2639,12 +2703,12 @@ Ziel ist es, soziale Innovation durch digitale Anwendungen entstehen zu lassen. 
 * Serious Games
 
 
-## Studien-/Prüfungsleistungen:
+## Studien-/Prüfungsleistungen§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung_SocialComputing§
 
-Projektarbeit mit Projektpräsentationsprüfung und Fachgespräch, schriftliche Ausarbeitung.
+Projektarbeit mit Projektpräsentationsprüfung und Fachgespräch, sowie schriftliche Ausarbeitung.
 
 
-## Medienformen:
+## Medienformen§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung_SocialComputing§
 
 *	Beamer-gestützte Vorlesungen (Folien in elektronischer Form)
 
@@ -2655,7 +2719,7 @@ Projektarbeit mit Projektpräsentationsprüfung und Fachgespräch, schriftliche 
 * Arbeit im Innovationsraum mit digitalen Whiteboards, Spiel-Arcarde, Tablets und Gestaltungsmaterialien
 
 
-## Literatur:
+## Literatur§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung_SocialComputing§
 
 * DeKoven, B., & MIT Press. (2013). The well-played game: A player's philosophy. Cambridge: The MIT Press. 
 
@@ -2681,43 +2745,18 @@ Projektarbeit mit Projektpräsentationsprüfung und Fachgespräch, schriftliche 
 
 
 
-# Wahlpflichtmodul
+# Wahlpflichtmodul§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_WPF§
 
 
 
-%begin-modulMeta%**Modulverantwortlich**: alle Informatik Professoren%end-modulMeta%%begin-modulMeta%**Kürzel**: WPF%end-modulMeta%%begin-modulMeta%**Studiensemester**: 5%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 5%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
+%begin-modulMeta%**Modulverantwortlich**: alle Informatik Professoren%end-modulMeta%%begin-modulMeta%**Studiensemester**: 5%end-modulMeta%%begin-modulMeta%**Sprache**: deutsch%end-modulMeta%%begin-modulMeta%**Kreditpunkte**: 5%end-modulMeta%%begin-modulMeta%**Voraussetzungen nach Prüfungsordnung**: keine%end-modulMeta%%begin-modulMeta%**Typ**: Pflichtmodul%end-modulMeta%
 
 
-## Lehrform/SWS:
-
-Je nach Modul
-
-
-## Arbeitsaufwand:
+## Arbeitsaufwand§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_WPF§
 
 150 Stunden
 
 
-## Angestrebte Lernergebnisse:
+## Angestrebte Lernergebnisse§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_WPF§
 
 Fachliche Vertiefung oder Verbreiterung, nach persönlichem Interesse. Es kann eines der Module aus dem Katalog aller Module der Informatik Bachelorstudiengänge gewählt werden. Auch Pflichtmodule anderer Informatik Studiengänge am Campus können als Wahlpflichtmodule in der Medieninformatik belegt werden.
-
-
-## Inhalt:
-
-Je nach Modul
-
-
-## Studien-/Prüfungsleistungen:
-
-Je nach Modul
-
-
-## Medienformen:
-
-Je nach Modul
-
-
-## Literatur:
-
-Je nach Modul

@@ -14,11 +14,11 @@ published: true
 type: pm
 ---
 
-## Lehrform/SWS:
+## Lehrform/SWS
 
 6 SWS: Vorlesung 3 SWS; Übung 1 SWS; Praktikum 2 SWS
 
-## Arbeitsaufwand:
+## Arbeitsaufwand
 
 Gesamtaufwand 210h, davon 
 
@@ -27,26 +27,26 @@ Gesamtaufwand 210h, davon
 - 18h Übung
 - 102h Selbststudium 
 
-## Angestrebte Lernergebnisse:
+## Angestrebte Lernergebnisse
 
 Die Studierende sollen Objektorientierung, die Prinzipien der Algorithmenentwicklung und grundlegende Algorithmen verstehen und die Grundstrukturen der Java-Bibliothek anwenden können.
 
-## Inhalt:
+## Inhalt
 * Basisalgorithmen: Suchen u. Sortieren
 * Datenstrukturen
 * Dictionaries
 * Methodik des objektorientierten Programmierens
 
-## Studien-/Prüfungsleistungen:
+## Studien-/Prüfungsleistungen
 
 Schriftliche Prüfung, sowie erfolgreiche Teilnahme am Praktikum als Prüfungsvorleistung.
 
-## Medienformen:
+## Medienformen
 
 * Beamer-gestützte Vorlesungen (Folien in elektronischer Form) 
 * Praktikum an Rechnern des Labors
 
-## Literatur:
+## Literatur
 
 - Vorlesungsunterlagen: Foliensammlung, ausformuliertes Skript, Beispiellösungen
 - Fachliteratur: Bishop, J.: „Java Lernen“

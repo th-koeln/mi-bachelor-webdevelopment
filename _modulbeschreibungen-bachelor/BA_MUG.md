@@ -14,17 +14,17 @@ published: true
 type: pm
 ---
 
-## Lehrform/SWS: 
+## Lehrform/SWS
 4 SWS: Vorlesung 2 SWS; Übung 2 SWS
 
-## Arbeitsaufwand: 
+## Arbeitsaufwand
 Gesamtaufwand: 150h, davon
 
 * 36h Vorlesung
 * 36h Übung
 * 78h Selbststudium
 
-## Angestrebte Lernergebnisse:
+## Angestrebte Lernergebnisse
 Informatikerinnen und Informatiker analysieren und konstruieren sozio-technische Systeme und entwickeln dabei semiotische Artefakte wie z.B. Spezifikationen, Programme und Handbücher. Die entwickelten Systeme bilden einerseits soziale Wirklichkeit in vielfältiger Form ab und ändern andererseits diese Wirklichkeit durch ihren Einsatz. 
 
 Die Studierenden sollen befähigt werden
@@ -34,7 +34,7 @@ Die Studierenden sollen befähigt werden
 * die Grundbegriffe des deutschen Privatrechts zu verstehen und sich im dazugehörigen Gesetzeswerk zu orientieren, 
 * um die unterschiedlichen Wechselwirkungen zwischen Informatik-Systemen und ihrem Einsatzumfeld erkennen und bewerten und insbesondere im Bereich des Vertragsrechts selbständige Lösungsvorschläge erarbeiten zu können.
 
-## Inhalt:
+## Inhalt
 
 ### Informatik und Gesellschaft
 
@@ -65,17 +65,17 @@ Beispielhafte Inhalte:
 * Im Allgemeinen Teil des BGB wird auf den Vertragsschluss, die Willenerklärung als rechtsgeschäftliches Gestaltungsmittel und die allgemeinen Anforderungen an die Vertragspartner eingegangen.
 
 
-## Studien-/Prüfungsleistungen:
+## Studien-/Prüfungsleistungen
 ### Informatik und Gesellschaft
 Präsentation im OpenSpace, Klausur (60 Min).
 
 ### Recht
 Klausur (60 Min.)
 
-## Medienformen:
+## Medienformen
 Beamergestützte Vorträge
 
-## Literatur:
+## Literatur
 ### IUG
 
 - Sara Baase: A Gift of Fire. Social, Legal, and Ethical Issues in Computing. Prentice Hall, Upper Saddle River, 1997

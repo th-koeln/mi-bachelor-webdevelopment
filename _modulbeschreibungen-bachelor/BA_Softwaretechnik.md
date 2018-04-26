@@ -14,28 +14,28 @@ published: true
 type: pm
 ---
 
-## Kurzbeschreibung:
+## Kurzbeschreibung
 Prinzipien, Methoden und Techniken der modellbasierten methodischen objektorientierten Softwareentwicklung
 
-## Lehrform/SWS: 
+## Lehrform/SWS
 4 SWS: Vorlesung 2 SWS; Praktikum 2 SWS
 
 max. 15 Studierende/Praktikumsgruppe;
 
-## Arbeitsaufwand: 
+## Arbeitsaufwand
 Gesamtaufwand 150h, davon 
 
 - 36h Vorlesung 
 - 36h Praktikum
 - 78h Selbststudium 
 
-## Angestrebte Lernergebnisse:
+## Angestrebte Lernergebnisse
 Die Studierenden sollen befähigt werden, 
 - zu abstrahieren, Modelle zu entwickeln, Unterschiede zwischen Modell und Realität zu beurteilen sowie 
 - gegebene Modelle zu interpretieren, zu analysieren und zu bewerten, 
 - um komplexe Systeme zu analysieren, im Team zu entwerfen und dabei im Rahmen methodischer Vorgehensweisen Techniken und Werkzeuge der objektorientierten Modellierung und Softwareentwicklung in den Aktivitäten Anforderungsermittlung, Softwarespezifizierung und Entwurf einzusetzen.
 
-## Inhalt:
+## Inhalt
 
 Die Vorlesung skizziert zunächst das Gesamtgebiet Softwaretechnik und behandelt dann ausschließlich grundlegende „Informatikaspekte” der objektorientierten Softwareentwicklung. Als wesentliche Grundlage werden die wichtigsten Elemente der Unified Modelling Language (UML) vorgestellt und anhand kleinerer Beispiele erläutert. Danach werden typische Aktivitäten der Softwareentwicklung besprochen, wobei die UML als Modellierungssprache benutzt wird. Im Praktikum werden die Anwendung der Modellierungselemente und die Durchführung der Aktivitäten in Gruppenarbeit vertieft.  
 
@@ -46,17 +46,17 @@ Das Modul gliedert sich in folgende Inhalte:
 - (10%) Zusammenfassung und Ausblick (Modellgetriebene Softwareentwicklung);
 
 
-## Studien-/Prüfungsleistungen:
+## Studien-/Prüfungsleistungen
 Schriftliche Prüfung, sowie erfolgreiche Teilnahme am Praktikum als Prüfungsvorleistung.
 
-## Medienformen:
+## Medienformen
 - Flipped-Classroom mit Diskussion und Übungen als Einzel- und Kleinstgrupen
 - e-Vorlesungen (Video-Clips und Folien in elektronischer Form zum Selbststudium);
 - Vertiefende Materialien in elektronischer Form (z.B. SWEBOK)
 - Praktika in Kleingruppen, um die erlernten Modelle und Methoden einzuüben und zu vertiefen (Seminarraum, Rechnerlabor); In den Praktika werden Modellierungs- und Entwicklungswerkzeuge eingesetzt.
 
 
-## Literatur:
+## Literatur
 - Helmut Balzert: Lehrbuch der Software-Technik Bd. I: Basiskonzepte und Requirements Engineering; Spektrum Akademischer Verlag, Heidelberg, 3. Aufl. 2009
 - Helmut Balzert: Lehrbuch der Software-Technik Bd. II: Entwurf, Implementierung, Installation und Betrieb; Spektrum Akademischer Verlag, Heidelberg, 3. Aufl. 2012
 - Helmut Balzert: Lehrbuch der Software-Technik Bd. III: Software Management; Spektrum Akademischer Verlag, Heidelberg, 2. Aufl. 2008

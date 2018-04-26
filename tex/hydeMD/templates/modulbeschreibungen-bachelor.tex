@@ -49,8 +49,8 @@
   bottomline=false,
   rightline=false,
   linewidth=1pt,
-  linecolor=m_pink!20,
-  innertopmargin=7pt,
+  linecolor=m_lila!20,
+  innertopmargin=5pt,
   innerbottommargin=0,
   innerleftmargin=0,
   skipabove=\topsep,
@@ -100,7 +100,7 @@
 \setlength\footheight{40pt}
 %\lfoot{\includegraphics[height=40pt]{../assets/box.pdf}}
 \rfoot{\thepage}
-\lfoot{\changefont <| title |> Medieninformatik\\TH Köln // Institut für Informatik\\ \today}
+\lfoot{\changefont <| title |>\\TH Köln // Institut für Informatik\\ \today}
 
 
 %\UTF{0192}ndert die Seitennummerierung beim Inhaltsverzeichnis mit eigenem Stil
@@ -204,12 +204,13 @@
   \titlespacing*{\chapter}{0cm}{0pt}{14pt}[0pt]
 % {\chaptertitlename\ \thechapter}{14pt}{\huge\raggedright}
 \titleformat{\section}
-  {\singlespacing\normalfont\sffamily\mdseries\large\color{m_pink}\raggedright}
-  {\thesection}{1em}{\large}
+  {\singlespacing\normalfont\sffamily\mdseries\Large\color{m_pink}\raggedright}
+  {\thesection}{1em}{\Large}
   \titlespacing*{\section}{0pt}{0pt}{-\topskip/2}[0pt]
 \titleformat{\subsection}
-  {\singlespacing\normalfont\sffamily\mdseries\large\raggedright}
-  {\thesubsection}{1em}{\large}
+  {\singlespacing\normalfont\sffamily\bfseries\normalsize\raggedright}
+  {\thesection}{1em}{\normalsize}
+  \titlespacing*{\subsection}{0pt}{0pt}{-\topskip/2}[0pt]
 % Zeilenumbruch und Spacing fÃŒr AbsÃ€tze
 \titleformat{\paragraph}[hang]
   {\singlespacing\normalfont\normalsize\bfseries}

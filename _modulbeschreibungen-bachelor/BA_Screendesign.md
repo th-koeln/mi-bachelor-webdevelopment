@@ -14,10 +14,10 @@ published: true
 type: pm
 ---
 
-## Lehrform/SWS: 
+## Lehrform/SWS
 4 SWS: Vorlesung 1 SWS; Seminar 3 SWS
 
-## Arbeitsaufwand: 
+## Arbeitsaufwand
 Gesamtaufwand 150h, davon 
 
 - 15h Vorlesung
@@ -25,16 +25,16 @@ Gesamtaufwand 150h, davon
 - 80h Projektarbeit  
 - 10h Selbststudium 
 
-## Angestrebte Lernergebnisse:
+## Angestrebte Lernergebnisse
 Die Studierenden kennen wesentliche Begriffe der visuellen Kommunikation und können diese anwenden um Briefings, Angebote oder Korrekturwünsche im Design-Kontext zu verstehen oder zu verfassen.
 
 Die Studierenden können Gestaltungslösungen und -kontexte analysieren, argumentieren, diskutieren, dokumentieren und bewerten, um eigene Lösungen innerhalb eines Gestaltungskontextes generieren zu können.
 
 Die Studierenden können in einem gegebenen Gestaltungskontext, unter Berücksichtigung von Gestaltungsregeln (Raster, Layout, Typographie, etc.), eigene Gestaltungslösungen entwickeln, systematisch variieren und argumentieren um gegebene funktionale und/oder kommunikative Ziele zu adressieren.
 
-## Inhalt:
+## Inhalt
 
-### Vorlesung:
+### Vorlesung
 - Design Basics
 - Axis Map & Semantisches Differential
 - Kommunikationsmodelle 
@@ -50,7 +50,7 @@ Die Studierenden können in einem gegebenen Gestaltungskontext, unter Berücksic
 - Ordnung, visuelle Struktur, Flow & Transistion
 - Gestaltungsziele, Gestaltungsprozess
 
-### Seminar:
+### Seminar
 - Designprojekte strukturieren
 - Layoutentwicklung mit Wireframes
 - Layoutentwicklung für verschiedene Endgeräte
@@ -60,13 +60,13 @@ Die Studierenden können in einem gegebenen Gestaltungskontext, unter Berücksic
 - Variantenbildung
 - Modularisierung, Interface Inventar aufbauen & visualisieren
 
-## Studien-/Prüfungsleistungen:
+## Studien-/Prüfungsleistungen
 Projekt und Projektpräsentationsprüfung.
 
-## Medienformen:
+## Medienformen
 Beamergestützte Vorträge, Rechnergestützte  Workshops
 
-## Literatur:
+## Literatur
 - Stapelkamp, Torsten: Informationsvisualisierung
 - Joachim Böhringer, Peter Bühler & Patrick Schlaich: Kompendium der Mediengestaltung - Konzeption und Gestaltung für Digital- und Printmedien
 - Stapelkamp, Torsten: Screen- und Interfacedesign

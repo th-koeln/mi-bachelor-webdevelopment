@@ -1,37 +1,21 @@
 ---
 title: Wahlpflichtmodul
 modulverantwortlich: all
-modulniveau: null
+modulniveau: 
 kuerzel: WPF
-untertitel: null
+untertitel: 
 studiensemester: 5
-kategorie: null
+kategorie: 
 sprache: deutsch
-zuordnung-zum-curriculum: Medieninformatik Bachelor
 kreditpunkte: 5
-voraussetzungen-nach-pruefungsordnung:
+voraussetzungen-nach-pruefungsordnung: keine
 empfohlene-voraussetzungen: 
 published: true
 type: pm
 ---
 
-## Lehrform/SWS: 
-Je nach Modul
-
-## Arbeitsaufwand: 
+## Arbeitsaufwand
 150 Stunden
 
-## Angestrebte Lernergebnisse:
+## Angestrebte Lernergebnisse
 Fachliche Vertiefung oder Verbreiterung, nach persönlichem Interesse. Es kann eines der Module aus dem Katalog aller Module der Informatik Bachelorstudiengänge gewählt werden. Auch Pflichtmodule anderer Informatik Studiengänge am Campus können als Wahlpflichtmodule in der Medieninformatik belegt werden.
-
-## Inhalt:
-Je nach Modul
-
-## Studien-/Prüfungsleistungen:
-Je nach Modul
-
-## Medienformen:
-Je nach Modul
-
-## Literatur:
-Je nach Modul

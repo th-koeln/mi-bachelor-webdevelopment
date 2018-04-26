@@ -14,11 +14,11 @@ published: true
 type: pm
 ---
 
-## Lehrform/SWS:
+## Lehrform/SWS
 
 6 SWS: Vorlesung 3 SWS; Übung 1 SWS; Praktikum 2 SWS
 
-## Arbeitsaufwand:
+## Arbeitsaufwand
 
 Gesamtaufwand 240h, davon 
 
@@ -27,7 +27,7 @@ Gesamtaufwand 240h, davon
 - 18h Übung
 - 132h Selbststudium 
 
-## Angestrebte Lernergebnisse:
+## Angestrebte Lernergebnisse
 
 Die Studierenden sollen
 
@@ -36,7 +36,7 @@ Die Studierenden sollen
 - Systementwürfe evaluieren und bewerten können, insbesondere sollen sie die Arbeitsweise, die Randbedingungen und den Komplexitätsgrad von einfachen Algorithmen verstehen.
 - die Fähigkeit erlernen, algorithmische Entwurfsmuster zu erkennen und anzuwenden
 
-## Inhalt:
+## Inhalt
 * Prozedurale Programmierung am Beispiel von C.
 * Objektorientierte Programmierung am Beispiel von Java.
 * Kontroll- und Datenstrukturen.
@@ -46,14 +46,14 @@ Die Studierenden sollen
 * Elementare Algorithmen und Aufwandsschätzung.
 * Entwicklungsumgebungen.
 
-## Studien-/Prüfungsleistungen:
+## Studien-/Prüfungsleistungen
 Schriftliche Prüfung, sowie erfolgreiche Teilnahme am Praktikum als Prüfungsvorleistung.
 
-## Medienformen:
+## Medienformen
 - Beamer-gestützte Vorlesungen (Folien in elektronischer Form) 
 - Praktikum an Rechnern des Labors
 
-## Literatur:
+## Literatur
 
 * Vorlesungsunterlagen: Foliensammlung, ausformuliertes Skript, Beispiellösungen, Übungsklausuren mit Lösungen
 * Fachliteratur: Diverse C-Bücher, u.a.: Kernighan, B.W., Ritchie, D.M.: „Programmieren in C“

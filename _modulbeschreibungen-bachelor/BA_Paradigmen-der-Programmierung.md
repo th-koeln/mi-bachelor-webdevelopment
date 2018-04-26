@@ -14,10 +14,10 @@ published: true
 type: pm
 ---
 
-## Lehrform/SWS:
+## Lehrform/SWS
 4 SWS: Vorlesung 2 SWS; Praktikum 1 SWS; Übung 1 SWS
 
-## Arbeitsaufwand:
+## Arbeitsaufwand
 Gesamtaufwand 150h, davon 
 
 * 36h Vorlesung
@@ -25,10 +25,10 @@ Gesamtaufwand 150h, davon
 * 18h Übung
 * 78h Selbststudium
 
-## Angestrebte Lernergebnisse:
+## Angestrebte Lernergebnisse
 Die Studierenden sollen unterschiedliche Programmierparadigmen verstehen und anwenden können. Weiterhin sollen sie die Angemessenheit der verschiedenen Programmierparadigmen für eine Aufgabenstellung einordnen und bewerten können. Studierende sollen mithilfe von etablierten Paradigmen und Entwurfsmustern in der Lage sein, synchrone und asynchrone Programme zu konzipieren und ablaufsicher zu gestalten. 
 
-## Inhalt:
+## Inhalt
 * Grundlagen von Programmiersprachen
 * Vergleich imperativer und deklarativer Paradigmen
 * prozedurale und objektorientierte Programmierung
@@ -37,16 +37,16 @@ Die Studierenden sollen unterschiedliche Programmierparadigmen verstehen und anw
 * Nebenläufigkeit
 * Entwurfsmuster
 
-## Studien-/Prüfungsleistungen:
+## Studien-/Prüfungsleistungen
 Klausur sowie erfolgreiche Teilnahme am Praktikum als Prüfungsvorleistung.
 
-## Medienformen:
+## Medienformen
 * Foliensammlung
 * Screencasts
 * Skript
 * Beispiellösungen
 
-## Literatur:
+## Literatur
 * Abelson, Sussman, Struktur und Interpretation von Computer Programmen,Springer-Verlag 2001
 * W.F. Clocksin, C.S. Mellish, Programming in Prolog, Springer-Verlag 2003
 * Gamma, E., Helm, R., Johnson, R., & Vlissides, J. (2015). Design patterns: Entwurfsmuster als Elemente wiederverwendbarer objektorientierter Software. Frechen: Mitp.

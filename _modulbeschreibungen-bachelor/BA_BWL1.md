@@ -14,21 +14,21 @@ published: true
 type: pm
 ---
 
-## Lehrform/SWS: 
+## Lehrform/SWS
 4 SWS: Vorlesung 2 SWS; Übung 2 SWS
 
-## Arbeitsaufwand: 
+## Arbeitsaufwand
 Gesamtaufwand 150h, davon 
 
 - 30h Vorlesung
 - 30h Übung
 - 90h Selbststudium
 
-## Angestrebte Lernergebnisse:
+## Angestrebte Lernergebnisse
 Die Studierenden verstehen die wichtigsten Entscheidungsbereiche wirtschaftlichen Handeln und können diese anwenden. Sie können grundlegenden Entscheidungen im Rahmen einer Unternehmensgründung, die Aufgaben der Unternehmensführung wie die Konzeption einer tragfähigen Strategie, und die Aufgaben der Teilbereiche Produktion, Absatz und Marketing sowie Investition und Finanzierung beschreiben und beurteilen. Investitionsentscheidungen können die Studierenden informationsgestützt treffen indem sie die Kalkulationsverfahren der Investitionsrechnung anwenden und auswerten. Die Veranstaltung bereitet die Studierenden für weitere BWL-Veranstaltungen ihres Studiums, sowie darauf, in ihrem Berufsleben wirtschaftliche Konzepte im Unternehmenskontext anzuwenden, vor.
 
 
-## Inhalt:
+## Inhalt
 * Grundlagen
 * Unternehmensführung 1: Ziele, Planung und Entscheidung
 * Investition und Finanzierung
@@ -37,8 +37,8 @@ Die Studierenden verstehen die wichtigsten Entscheidungsbereiche wirtschaftliche
 * Produktion
 * Absatz und Marketing
 
-## Studien-/Prüfungsleistungen:
+## Studien-/Prüfungsleistungen
 schriftliche Prüfung
 
-## Literatur:
+## Literatur
 * Wöhe (2016): Einführung in die Allgemeine Betriebswirtschaftslehre, 26. Aufl.

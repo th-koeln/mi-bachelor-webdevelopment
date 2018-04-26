@@ -14,11 +14,11 @@ published: true
 type: pm
 ---
 
-## Lehrform/SWS:
+## Lehrform/SWS
 
 4 SWS: Vorlesung 2 SWS; Übung 2 SWS
 
-## Arbeitsaufwand:
+## Arbeitsaufwand
 
 Gesamtaufwand 150h, davon 
 
@@ -26,17 +26,17 @@ Gesamtaufwand 150h, davon
 - 36h Übung
 - 78h Selbststudium 
 
-## Angestrebte Lernergebnisse:
+## Angestrebte Lernergebnisse
 Die Studierenden sollen die Basiskonzepte und Grundlagen der Betriebssysteme und der Rechnerarchitektur kennen und verstehen, sowie ein einheitliches konsistentes Begriffsgebäude zu, teilweise aus der persönlichen Praxis bekannten, Sachverhalten der IT aufbauen und anwenden können.
 
-## Inhalt:
+## Inhalt
 * Betriebssysteme aus Nutzersicht: Dateisysteme, Parallele Prozesse, Sicherheit in Betriebssystemen
 * bei Rechnerkomponenten: grundlegende Architekturen, Darstellung von Daten, interne Bussysteme, Prozessoren, Festplatten, Peripherieschnittstellen, Parallelrechner
 
-## Studien-/Prüfungsleistungen:
+## Studien-/Prüfungsleistungen
 Schriftliche Prüfung.
 
-## Literatur:
+## Literatur
 - Vorlesungsunterlagen: kommentierte Foliensammlung
 - Tanenbaum: „Rechnerarchitektur“
 - Tanenbaum: „Modern Operating Systems“

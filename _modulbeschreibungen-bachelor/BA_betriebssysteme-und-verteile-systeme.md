@@ -17,17 +17,17 @@ type: pm
 ## Kurzbeschreibung
 Systemprogrammierung am Beispiel von UNIX.
 
-## Lehrform/SWS: 
+## Lehrform/SWS
 4 SWS: Vorlesung 2 SWS; Praktikum 2 SWS
 
-## Arbeitsaufwand: 
+## Arbeitsaufwand
 Gesamtaufwand 150h, davon 
 
 - 36h Vorlesung 
 - 36h Praktikum
 - 78h Selbststudium 
 
-## Angestrebte Lernergebnisse:
+## Angestrebte Lernergebnisse
 
 Die Studierenden können den Aufbau von Betriebssystemen am Beispiel UNIX erläutern, indem sie
 - die Ziele der Entwicklung von UNIX nennen und beschreiben,
@@ -55,7 +55,7 @@ Die Studierenden können theoretische Grundlagen von Betriebssystemen erörtern,
 
 um später Auswirkungen von Betriebssystemvorgängen auf eigene Programme zu erkennen und darauf zu reagieren.
 
-## Inhalt:
+## Inhalt
 
 Systemprogrammierung am Beispiel von UNIX: 
 - Shell-Programmierung
@@ -74,13 +74,13 @@ Systemprogrammierung am Beispiel von UNIX:
 - Strategien zum Scheduling und zur Speicherverwaltung
 - Klassische Synchronisationsprobleme
 
-## Studien-/Prüfungsleistungen:
+## Studien-/Prüfungsleistungen
 Schriftliche Prüfung, sowie erfolgreiche Teilnahme am Praktikum als Prüfungsvorleistung.
 
-## Medienformen:
+## Medienformen
 Foliensammlung, ausformuliertes Skript, Beispiellösungen
 
-## Literatur:
+## Literatur
 + Tanenbaum, A. S.: „Moderne Betriebssysteme“
 + Brown, C.: „Programmieren verteilter UNIX-Anwendungen“
 + Kernighan, B. W., Pike, R.: „Der UNIX-Werkzeugkasten“

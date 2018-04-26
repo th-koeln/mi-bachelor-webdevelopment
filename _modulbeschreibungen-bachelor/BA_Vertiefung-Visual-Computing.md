@@ -1,15 +1,15 @@
 ---
 title: Visual Computing
 modulverantwortlich: hk, me
-modulniveau: null
+modulniveau:
 kuerzel: VC
-untertitel: null
+untertitel:
 studiensemester: 4
-kategorie: null
+kategorie:
 sprache: deutsch
 zuordnung-zum-curriculum: Medieninformatik Bachelor
 kreditpunkte: 20
-voraussetzungen-nach-pruefungsordnung: Keine über die Zulassungsvorrausetzungen hinausgehenden Vorraussetzungen.
+voraussetzungen-nach-pruefungsordnung: keine
 empfohlene-voraussetzungen: Einführung in die Medieninformatik, Algorithmen und Programmierung, Paradigmen der Programmierung, Mensch-Computer Interaktion, Screendesign, Audiovisuelles Medienprojekt
 published: true
 type: vpm
@@ -26,37 +26,49 @@ Die Kurse werden nach Verfügbarkeit angeboten.
 
 Die Kurse sind in der Regel projektbasiert aufgebaut, so dass sowohl theoretischer Hintergrund als auch praxisnahes Wissen vermittelt wird und zur Anwendung kommt.
 
-## Lehrform/SWS: 
+## Lehrform/SWS
 Vorlesung, Praktikum / Projekt, Übung mit kursabhängigen Schwerpunkten
 4 SWS: Vorlesung 2 SWS; Praktikum 2 SWS
 
 ## Lehrveranstaltungen
-Pflichtbereich im Gesamtumfang von 10 CP:
+
+### Pflichtmovule im Gesamtumfang von 10CP
 - Audiovisuelle Medientechnik
 - Computergrafik und Animation
 
 Aus den folgenden Wahlkatalogen sind zwei weitere Kurse zu jeweils 5CP zu belegen, welche nach Verfügbarkeit angeboten werden.
 
-Wahlkatalog Film/Video:
+### Wahlkatalog Film/Video
 - Audiovisuelles Medienprojekt 2
 - Visuelle Effekte und Animation
 
-Wahlkatalog Game Development:
+### Wahlkatalog Game Development
 - Crossplatform Game Development mit Unity3D
 - Prozedurale Generierung virtueller Welten
 
-## Arbeitsaufwand: 
-- Audiovisuelle Medientechnik: Gesamtaufwand 150 h, davon - 36h Vorlesung - 36h Praktikum / Projekt - 78h Selbstlernphase
-- Computergrafik und Animation: Gesamtaufwand 150 h, davon - 36h Vorlesung - 36h Praktikum / Projekt - 78h Selbstlernphase
-- Audiovisuelles Medienprojekt 2: Gesamtaufwand 150 h, davon - 36h Vorlesung - 36h Praktikum / Projekt - 78h Selbstlernphase
-- Visuelle Effekte und Animation: Gesamtaufwand 150 h, davon - 36h Vorlesung - 36h Praktikum / Projekt - 78h Selbstlernphase
-- Crossplatform Game Development mit Unity3D: Gesamtaufwand 150 h, davon - 36h Vorlesung - 36h Praktikum / Projekt - 78h Selbstlernphase
-- Prozedurale Generierung virtueller Welten: Gesamtaufwand 150 h, davon - 36h Vorlesung, - 36h Übungen - 36h Selbstlernphase - 36 h Projekt
+## Arbeitsaufwand
+600h Gesamtaufwand
 
-## Angestrebte Lernergebnisse:
+### Audiovisuelle Medientechnik
+36h Vorlesung; 36h Praktikum / Projekt; 78h Selbstlernphase 
+
+### Computergrafik und Animation
+36h Vorlesung; 36h Praktikum / Projekt; 78h Selbstlernphase 
+
+### Audiovisuelles Medienprojekt 2
+36h Vorlesung; 36h Praktikum / Projekt; 78h Selbstlernphase 
+
+### Visuelle Effekte und Animation
+36h Vorlesung; 36h Praktikum / Projekt; 78h Selbstlernphase 
+
+### Crossplatform Game Development mit Unity3D
+36h Vorlesung; 36h Praktikum / Projekt; 78h Selbstlernphase 
+
+### Prozedurale Generierung virtueller Welten
+36h Vorlesung; 36h Praktikum / Projekt; 78h Selbstlernphase 
+
+## Angestrebte Lernergebnisse
 Je nach gewählten Vertiefungskursen entwickeln die Studierenden Fähigkeiten zur selbstverantwortlichen Durchführung von Projekten im Bereich Gamedevelopment, dreidimensionaler Darstellung virtueller Szenen, Film- und Fernsehtechnik, sowie Visueller Effekte.
-
-Im Detail:
 
 ### Audiovisuelle Medientechnik
 Die Studierenden sollen durch dieses Modul dazu befähigt werden, auf Basis der technischen Grundlagen der Video- und Fernsehtechnik weitergehende Fragestellungen selbstständig zu erarbeiten und sich so auch zukünftige technische Entwicklungen autonom erschließen zu können. 
@@ -116,7 +128,7 @@ Konzepte aus der 3D-Computergrafik und der prozeduralen Generierung werden in di
 
 Nach Abschluss des Moduls besitzen die Studierenden grundlegende Kenntnisse über verschiedene Techniken der prozeduralen Generierung zur Erstellung von 3D Content für Visualisierungen, Simulationen und Spiele, sowie die Fähigkeiten diese einzusetzen, sowie selbst zu entwickeln. 
 
-## Inhalt:
+## Inhalt
 
 ### Audiovisuelle Medientechnik
 - Grundlagen der Fernsehtechnik
@@ -183,20 +195,20 @@ Nach Abschluss des Moduls besitzen die Studierenden grundlegende Kenntnisse übe
 - Grundlagen 3D-Geometrie
 - Erweiterung des Unity-Editors
 
-## Studien-/Prüfungsleistungen:
+## Studien-/Prüfungsleistungen
 Teilprüfungen in den jeweiligen Kursen. Die Benotung ergibt sich als Mittel aus den jeweiligen Teilnoten.
 
 ### Audiovisuelle Medientechnik
-Schriftliche Prüfung von 90 Minuten
+Schriftliche Prüfung.
 
 ### Computergrafik und Animation
-Die erfolgreiche Teilnahme an den Praktikas ist Voraussetzung für die Klausur (120 Minuten) oder mündliche Prüfung
+Die erfolgreiche Teilnahme an den Praktika ist Voraussetzung für die Klausur oder mündliche Prüfung
 
 ### Audiovisuelles Medienprojekt 2
 Projektarbeit
 
 ### Visuelle Effekte und Animation
-Projektarbeit (50%) und schriftliche Ausarbeitung (50%)
+Projektarbeit(50%) und schriftliche Ausarbeitung(50%)
 
 ### Cross-Platform Game Development mit Unity 3D
 Präsentation und Dokumentation eines eigenständig entwickelten Projekts
@@ -204,13 +216,13 @@ Präsentation und Dokumentation eines eigenständig entwickelten Projekts
 ### Prozedurale Generierung virtueller Welten
 Die erfolgreiche Teilnahme am Abschlussprojekt (eigenständiges Projekt, auch in Kleingruppen möglich) und Fachgespräch
 
-## Medienformen:
+## Medienformen
 - Beamer-gestützte Vorlesungen
 - Rechnergestützte Workshops
 - Beispiele aus verschiedenen Medien in elektronischer Form: Filmbeispiele, Webvideos
 - Audiovisuelle Aufnahme- und Wiedergabegeräte
 
-## Literatur:
+## Literatur
 
 ### Audiovisuelle Medientechnik
 - Schmidt Ulrich, Professionelle Videotechnik, Springer-Verlag Berlin Heidelberg New York 2013, ISBN 978-3-642-38992-4

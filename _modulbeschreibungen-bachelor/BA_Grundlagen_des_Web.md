@@ -17,24 +17,24 @@ type: pm
 ## Kurzbeschreibung
 In der Veranstaltung werden wesentliche Grundideen, Interaktionsprinzipien, Contentarchitekturen und Sicherheitsmechanismen eingeführt, die das Web als Medium konstituieren.
 
-## Lehrform/SWS: 
+## Lehrform/SWS
 4 SWS: Vorlesung 2 SWS; Seminar 2 SWS
 
-## Arbeitsaufwand: 
+## Arbeitsaufwand
 Gesamtaufwand 150h, davon 
 
 - 36h Vorlesung 
 - 36h Seminar
 - 78h Selbststudium 
 
-## Angestrebte Lernergebnisse:
+## Angestrebte Lernergebnisse
 Die Studierenden 
 - kennen wesentliche Grundideen, Interaktionsprinzipien, Contentarchitekturen und Sicherheitsmechanismen, die das Web als Medium konstituieren und 
 - können moderne Webanwendungen auf der Basis von Fachbegriffen analysieren und einordnen
 
 um kompetent am fachlichen Diskurs über Eigenschaften, Auswirkungen und Gestaltungsalternativen von Web Anwendungen teilnehmen zu können.
 
-## Inhalt:
+## Inhalt
 - Web Architektur des W3C
 - Offfenheit und Verwendung von Standards als Prinzip
 - Interaktionsformen: Synchrone Interaktion auf der Basis von REST, asynchrone Interaktion mit Publish/Subscribe
@@ -44,15 +44,15 @@ um kompetent am fachlichen Diskurs über Eigenschaften, Auswirkungen und Gestalt
 
 Die Inhalte werden als Vorlesung vermittelt. In dem begleitenden Seminar werden die Konzepte mittels Fallstudien anwendungsbezogen analysiert und diskutiert. 
 
-## Studien-/Prüfungsleistungen:
+## Studien-/Prüfungsleistungen
 Mündliche Prüfung
 
-## Medienformen:
+## Medienformen
 - Folienpräsentation
 - Auschnitte aus der Literatur als Leseaufgaben und Fallstudien
 
 
-## Literatur:
+## Literatur
 - Randy Conolly, Richard Hoar: Fundamentals of Web Development, Pearson Publishing 2015
 - Hugh Taylor et al.: Event-Driven Architecture - How SOA Enables the Real-Time Enterprise, Addison-Wesley 2009
 - Webber: REST in Practice, OReilly 2011

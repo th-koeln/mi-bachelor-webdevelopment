@@ -1,15 +1,14 @@
 ---
 title: Social Computing
 modulverantwortlich: ck
-modulniveau: null
+modulniveau:
 kuerzel: SC
-untertitel: null
+untertitel:
 studiensemester: 4
-kategorie: null
+kategorie:
 sprache: deutsch
-zuordnung-zum-curriculum: Medieninformatik Bachelor
 kreditpunkte: 20
-voraussetzungen-nach-pruefungsordnung:
+voraussetzungen-nach-pruefungsordnung: keine
 empfohlene-voraussetzungen: Einführung in die Medieninformatik, Algorithmen und Programmierung, Paradigmen der Programmierung, Mensch-Computer Interaktion, Screendesign, Audiovisuelles Medienprojekt
 published: true
 type: vpm
@@ -20,7 +19,7 @@ In der Vertiefung „Social Computing” werden die Wechselwirkungen zwischen Ge
 
 Das Modul verbindet daher Theorien, Modelle und Methodik der Human- und Sozialwissenschaften mit anwendungsorientierter Informatik.
 
-## Lehrform/SWS: 
+## Lehrform/SWS
 16 SWS: Vorlesung 6 SWS, Praktikum 6 SWS, Projekt 4 SWS
 
 ## Lehrveranstaltungen
@@ -29,15 +28,22 @@ Das Modul verbindet daher Theorien, Modelle und Methodik der Human- und Sozialwi
 * Gamification
 * Social Computing Projekt
 
-## Arbeitsaufwand: 
-Gesamtaufwand 600 h, davon
+## Arbeitsaufwand
+600h Gesamtaufwand
 
-* Soziotechnische Systeme: Vorlesung, Seminar (50 Stunden); Selbstlernphase (100 Stunden)
-* Empirische Forschungsmethoden: Vorlesung, Seminar (50 Stunden); Selbstlernphase (100 Stunden)
-* Gamification: Vorlesung, Seminar (50 Stunden); Selbstlernphase (100 Stunden)
-* Social Computing Projekt: Projekt (150 Stunden)
+### Soziotechnische Systeme
+50h Vorlesung, Seminar; 100h Selbstlernphase
 
-## Angestrebte Lernergebnisse:
+### Empirische Forschungsmethoden
+50h Vorlesung, Seminar; 100h Selbstlernphase
+
+### Gamification
+50h Vorlesung, Seminar; 100h Selbstlernphase
+
+### Social Computing Projekt
+150h Projekt
+
+## Angestrebte Lernergebnisse
 Studierende sollen in der Lage sein, computergestützte Systeme nach ethischen, politischen, sozialen und psychologischen Kriterien zu bewerten, zu planen und umsetzen zu können. 
 Ziel ist es, soziale Innovation durch digitale Anwendungen entstehen zu lassen. Neben den empirischen Methoden werden Designmethoden vermittelt, sowohl auf der konzeptionellen als auch auf der softwaretechnischen Implementierungsebene, um robuste, sichere und flexible Systeme zu gestalten. 
 
@@ -51,7 +57,7 @@ Die Studierenden sollen die unterschiedlichen Herangehensweisen quantitativer un
 Die Studierenden sollen in der Lage sein, die Möglichkeiten und Grenzen des Gamification-Ansatzes, sowohl für die analoge als auch die digitale Welt, einordnen zu können. Die verschiedenen Stufen der Gamification sollen verstanden und die Maßnahmen in Gestaltungsprozessen eingesetzt werden. Die Studierenden sollen die psychologischen Grundlagen verstehen und die gesellschaftlichen Implikationen bewerten können. Die Analyse von Regeln und Prozessen und daraus abgeleitete Gamification-Maßnahmen sowie die Entwicklung von Serious Games sollen praktisch umgesetzt werden, z.B. für Lernanwendungen, Online-Communities oder soziale Dienste.
 
 
-## Inhalt:
+## Inhalt
 
 ### Soziotechnische Systeme
 * Modelle der Sozioinformatik
@@ -91,18 +97,18 @@ Die Studierenden sollen in der Lage sein, die Möglichkeiten und Grenzen des Gam
 * Serious Games
 
 
-## Studien-/Prüfungsleistungen:
-Projektarbeit mit Projektpräsentationsprüfung und Fachgespräch, schriftliche Ausarbeitung.
+## Studien-/Prüfungsleistungen
+Projektarbeit mit Projektpräsentationsprüfung und Fachgespräch, sowie schriftliche Ausarbeitung.
 
 
-## Medienformen:
+## Medienformen
 *	Beamer-gestützte Vorlesungen (Folien in elektronischer Form)
 *	Screencasts und Handouts
 * Beispielmedien
 * Arbeit im Innovationsraum mit digitalen Whiteboards, Spiel-Arcarde, Tablets und Gestaltungsmaterialien
 
 
-## Literatur:
+## Literatur
 * DeKoven, B., & MIT Press. (2013). The well-played game: A player's philosophy. Cambridge: The MIT Press. 
 * Döring, N. & Bortz, J. (2015). Forschungsmethoden und Evaluation: Für Human- und Sozialwissenschaftler. Berlin [u.a.]: Springer.
 * Flick, U. (2011). Qualitative Sozialforschung: Eine Einführung. Reinbek bei Hamburg: Rowohlt-Taschenbuch-Verl. 

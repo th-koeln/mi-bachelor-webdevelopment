@@ -14,16 +14,16 @@ published: true
 type: pm
 ---
 
-## Lehrform/SWS:
+## Lehrform/SWS
 4 SWS: Vorlesung 2 SWS; Übung 2 SWS
 
-## Arbeitsaufwand:
+## Arbeitsaufwand
 Gesamtaufwand 150h, davon
 - 36h Vorlesung
 - 36h Übung
 - 78h Selbstlernphase 
 
-## Angestrebte Lernergebnisse:
+## Angestrebte Lernergebnisse
 
 - Grundsätzliches Ziel des Kurses ist eine Einführung in die Begriffe, Methoden, Modelle und Arbeitsweise der Theoretischen Informatik anhand der ausgewählten Teilgebiete.
 - Dabei lernen die Studierenden Probleme und Sachverhalte zu abstrahieren und zu modellieren (etwa logische und algebraische Kalküle, graphentheoretische Notationen, formale Sprachen und Automaten sowie spezielle Kalküle wie Petri-Netze)
@@ -31,7 +31,7 @@ Gesamtaufwand 150h, davon
 - In verschiedenen Grundlagengebieten der Informatik lernen die Studierenden Verfahrensweisen kennen, um den algorithmischen Kern eines Problems zu identifizieren und können passende Algorithmen entwerfen (Automaten, Turing Maschinen, Logik). Dabei können Sie bekannte Problemstellungen im Anwendungskontext erkennen und sind mit den zugehörigen Lösungsmustern vertraut (Modellierung mittels Automaten, Petri-Netzen, Boolescher Algebra, etc.).
 - Aufgaben zu den Lehrinhalten (s.u.) werden in kleinen Gruppen (Teamarbeit) selbständig gelöst. Die Lösungen sollen in den Übungsstunden vorgetragen und der Lösungsweg den Kommilitonen hierbei erläutert werden.
 
-## Inhalt:
+## Inhalt
 - Mengen
 - Relationen
 - Graphen
@@ -44,10 +44,10 @@ Gesamtaufwand 150h, davon
 - Aussagenlogik
 - Prädikatenlogik
 
-## Studien-/Prüfungsleistungen:
+## Studien-/Prüfungsleistungen
 Schriftliche Prüfung.
 
-## Literatur:
+## Literatur
 - Hoffmann, D. (2011): Theoretische Informatik, 2. Auflage
 - Hedtstück, U. ( 2004 ): Einführung in die Theoretische Informatik. Oldenbourg, München.
 - Kelly, J. ( 2003 ): Logik. Pearson Studium, München.

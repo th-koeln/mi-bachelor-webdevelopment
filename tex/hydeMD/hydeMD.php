@@ -498,6 +498,7 @@ class Document {
             // 'zuordnung-zum-curriculum'              => 'Zuordnung zum Curriculum',
             'kreditpunkte'                          => 'Kreditpunkte',
             'voraussetzungen-nach-pruefungsordnung' => 'Voraussetzungen nach Prüfungsordnung',
+            'empfohlene-voraussetzungen'            => 'Empfohlene Voraussetzungen',
             'type'                                  => 'Typ',
             'schwerpunkt'                           => 'Schwerpunkt'
           );
@@ -565,7 +566,11 @@ class Document {
           $tableMarkdown = "\n";
 
           foreach( $tableData as $key => $field ) {
-            $tableMarkdown .= "%begin-modulMeta%**" . $field[ 'title' ] . "**: " . $field[ 'value' ] . "%end-modulMeta%";
+	          
+	          if(preg_match("=[a-zA-Z0-9]=", $field[ 'value' ])){
+		        	$tableMarkdown .= "%begin-modulMeta%**" . $field[ 'title' ] . "**: " . $field[ 'value' ] . "%end-modulMeta%";  
+	          }
+            
           }
 
           $tableMarkdown .= "\n";
@@ -644,7 +649,20 @@ class Document {
 
     switch( $this->getSimpleDocumentName() ) {
 
-      case 'modulbeschreibungen-master':
+      case 'modulbeschreibungen-bachelor':
+
+        $introFiles = array();
+        foreach( $this->files as $path => $page ) {
+          if( isset( $page->infos[ 'type' ] ) &&
+              $page->infos[ 'type' ] === 'intro'    ) {
+            $introFiles[ $path ] = $page;
+            unset( $this->files[ $path ] );
+          }
+        }
+        $this->files = $introFiles + $this->files;
+
+    
+    case 'modulbeschreibungen-master':
 
         $introFiles = array();
         foreach( $this->files as $path => $page ) {
@@ -797,6 +815,9 @@ class Document {
 	/* Links ins Repo */
 	$latexContent = preg_replace( '=href{\.\./anhaenge=', "href{https://th-koeln.github.io/mi-2017/anhaenge", $latexContent);
 	$latexContent = preg_replace( '=href{\.\./download=', "href{https://th-koeln.github.io/mi-2017/download", $latexContent);
+	
+	/* Images */
+	$latexContent = preg_replace( '=includegraphics{=', "includegraphics[width=\\textwidth]{", $latexContent);
 
 	/* Hyperlinks im Latex */
 	$latexContent = preg_replace_callback( '/§pathlabel:(.*?)§/is', function( $matches ) {
