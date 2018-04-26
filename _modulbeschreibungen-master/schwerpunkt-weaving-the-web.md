@@ -32,7 +32,6 @@ Berufsfelder für Absolventinnen und Absolventen sind
 * Web Enthusiast oder Web Enthusiastin
 
 ## Schwerpunktspezifische Pflichtmodule
-
-- Sicherheit, Privatsphäre und Vertrauen
-- Web Architekturen
+- [Sicherheit, Privatsphäre und Vertrauen](/mi-2017/modulbeschreibungen-master/MA_WTW_Modul_IT-Sicherheit)
+- Web Architekturen 
 - Web Technologien

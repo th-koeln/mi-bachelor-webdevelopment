@@ -20,6 +20,8 @@
 \definecolor{m_lila}{HTML}{9313ce}
 \definecolor{m_blau}{HTML}{4952e1}
 
+
+
 % Paket Positionierung von Grafiken
 \usepackage[export]{adjustbox}
 
@@ -89,6 +91,10 @@
 \cfoot{} %Fußzeile mitte
 \rfoot{} %Fußzeile rechts
 \makeatother
+
+\newcommand*\link[2]{%
+  \hyperref[#1]{#2}\,\raisebox{-1pt}{\footnotesize\FourStarOpen}%
+}
 
 
 \newcommand{\changefont}{%
@@ -168,6 +174,10 @@
             pdftitle={ Modulhandbuch Medieninformatik Master Medieninformatik // TH Köln // Institut für Informatik},
             pdfauthor={}
             ]{hyperref}
+\hypersetup{
+    colorlinks = true,
+    allcolors = {m_blau}
+}
 
 \usepackage{pdfpages}
 
