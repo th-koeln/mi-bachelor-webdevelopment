@@ -29,7 +29,7 @@ Die Vernetzung von Informationen, Diensten, Daten und "Dingen" über das World W
 * Architekt oder Architektin für Web Projekte in größeren Unternehmen oder Organisationen: auch für die Konzeption und Entwicklung von IT Prozessen innerhalb größerer Unternehmen nehmen Technologien des Web und Services aus dem Web eine immer wichtigere Rolle ein. In diesem Kontext ist die Bewertung von Chancen und Risiken der Nutzung von Services des Web eine wichtige Qualifikation ebenso wie die Fähigkeit zur Teilhabe an Web communities.   
 * Gründer oder Gründerin von Start Ups im innovativen Web Umfeld: Das Web ist ein hervorragendes Umfeld für Start Ups, da mit geringem Kapitaleinsatz und hoher Innnovationskraft Produkte und Dienste erfolgreich positioniert werden können.
 * Berater oder Beraterin für die Integration von Prozessen mit dem Web: Die Innformatik, generell, aber besonders innovative und schnelllebige Felder wie das Web bietet sehr gute Möglichkeiten, aktuelles Wissen als Berater oder Beraterin in Unternehmen einzubringen. 
-* Web Enthusiast oder Web Enthusiastin: Neben den Auswirkungen des Web auf die Geschäftsfelder von Unternehmen hat das Web auch weit reichende gesellschaftliche Wirkungen. Hier hat sich eine Szene gebildet, in der Menschen auf Basis ihrer Web Kompetenz öffentliche Präsenz erlangen.  
+* Web Enthusiast oder Web Enthusiastin: Neben den Auswirkungen des Web auf die Geschäftsfelder von Unternehmen hat das Web auch weit reichende gesellschaftliche Wirkungen. Hier hat sich eine Szene gebildet, in der Menschen auf Basis ihrer Web Kompetenz öffentliche Präsenz erlangen, die für publizistische Tätigkeit und Beratung von öffentlichen Verwaltungen und Unternehmen genutzt wird. 
 
 ## Schwerpunktspezifische Pflichtmodule
 
