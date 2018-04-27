@@ -44,9 +44,13 @@ Bitte beachten Sie, dass das Diploma Supplement auf speziellem Papier gedruckt w
 ### A3. (AR 2.1) 
 > Für die fünf Spezialisierungen des Masterstudiengangs ist eine gleichmäßige detaillierte Beschreibung der Berufsfelder in den Qualifikationszielen vorzunehmen. Die Module sind als eigenständige Lehr-/Lerneinheiten darzustellen (unabhängig von der Darstellung der Schwerpunkte, zu denen sie gehören).
 
-Die Beschreibung der Spezialisierungen des Masterstudiengangs wurden um den Punkt «Berufsbilder» ergänzt. Aufgrund der fachbedingten Unterschiede der Spezialisierungen, sind diese Erläuterungen teilweise unterschiedlich aufgebaut, verfolgen aber alle das Ziel, den Studierenden und Studieninteressierten klar zu machen, welche beruflichen Perspektiven sich mit der jeweiligen Spezialisierung eröffnen. 
+Die Beschreibung der Spezialisierungen des Masterstudiengangs wurden im Modulhandbuch um den Punkt «Berufsbilder» ergänzt. Aufgrund der fachbedingten Unterschiede der Spezialisierungen, sind diese Erläuterungen teilweise unterschiedlich aufgebaut, verfolgen aber alle das Ziel, den Studierenden und Studieninteressierten klar zu machen, welche beruflichen Perspektiven sich mit der jeweiligen Spezialisierung eröffnen. 
 
 Die Schwerpunktspezifische Pflichtmodule der jeweiligen Spezialisierung sind jetzt als farblich gekennzeichnete Hyperlinks im Handbuch hinterlegt und führen direkt zur entsprechenden Modulbeschreibung des jeweiligen Moduls. Die Modulbeschreibungen selbst, enthalten im Factsheet zum Modul jetzt den Punkt «Pflichtmodul(e) im Schwerpunkt», um die entsprechenden Zugehörigkeiten transparent zu machen.
+
+Das überarbeitete Modulhandbucher ist über folgende URL erreichbar:
+
+- [Modulhandbuch Medieninformatik Master](http://www.medieninformatik.th-koeln.de/download/modulbeschreibungen-master-mpo4.pdf)
 
 {% include image.html url="bilder/hyperlinks.png" caption="Hyperlinks zu den Modulbeschreibungen" %}
 
