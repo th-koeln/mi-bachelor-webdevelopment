@@ -463,9 +463,8 @@ class Document {
           removeEmptyHeadingSections( $headingHierarchy );
           $cleanedLines = flattenHeadingHierarchy( $headingHierarchy );
 
-          //$page->content = implode( "\n", $cleanedLines );
+          $page->content = implode( "\n", $cleanedLines );
 
-var_dump($page->content);
           /* Insert metadata table */
 
           /* No metadata table for "Schwerpunkte" */
