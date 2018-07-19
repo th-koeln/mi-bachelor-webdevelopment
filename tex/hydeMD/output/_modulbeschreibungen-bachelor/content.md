@@ -1957,7 +1957,7 @@ Vorlesung, Praktikum / Projekt, Übung mit kursabhängigen Schwerpunkten
 ## Lehrveranstaltungen§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung-Visual-Computing§
 
 
-### Pflichtmovule im Gesamtumfang von 10CP§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung-Visual-Computing§
+### Pflichtmodule im Gesamtumfang von 10CP§pathlabel:/mi-2017/modulbeschreibungen-bachelor/BA_Vertiefung-Visual-Computing§
 
 - Audiovisuelle Medientechnik
 

@@ -32,7 +32,7 @@ Vorlesung, Praktikum / Projekt, Übung mit kursabhängigen Schwerpunkten
 
 ## Lehrveranstaltungen
 
-### Pflichtmovule im Gesamtumfang von 10CP
+### Pflichtmodule im Gesamtumfang von 10CP
 - Audiovisuelle Medientechnik
 - Computergrafik und Animation
 
