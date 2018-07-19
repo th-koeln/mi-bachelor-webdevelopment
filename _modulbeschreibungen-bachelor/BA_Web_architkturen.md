@@ -1,5 +1,5 @@
 ---
-title: Grundlagen des Web
+title: Web Architekturen
 modulverantwortlich: kf
 modulniveau:
 kuerzel: GW
