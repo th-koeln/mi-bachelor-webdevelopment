@@ -37,12 +37,12 @@ Die Studentinnen und Studenten
 Das Projekt gliedert sich in zwei Teile:
 - In der eigentlichen Projektarbeit wird ein fertiger, lauffähiger Prototyp im Rahmen eines betreuten Forschungs- und Entwicklungsprojekts evaluiert und getestet und in Form eines "minimal viable product" zugänglich gemacht. Im Rahmen des Moduls werden eine Produktmanagement-Strategie und ein Qualitätsmanagement-Konzept entwickelt und das Produkt unter Qualitätsgesichtspunkten beleuchtet. Die Betreuer definieren zusammen mit den Studierenden die Zielsetzung und führen mit den Studierenden einen regelmäßigen Diskurs über den Fortgang des Projekts. Sie vereinbaren außerdem Meilensteine, deren Ergebnisse in geeigneter Form in die Endnote einfließen. Kommunikations- und Kooperationsformen werden vorab gemeinsam zwischen Betreuern und Studierenden festgelegt und in periodischen Abständen gemeinsam reflektiert.
 - Variante: In der eigentlichen Projektarbeit wird ein fertiger, lauffertiger Prototyp evaluiert und in Form eines minimal viable product zugänglich gemacht. Im Rahmen des Projekts werden Konzepte und Techniken der Kontinuierlichen Integration auf das minimal viable product angewendet. 
-- Zur Unterstützung werden Workshops/Seminare in den Bereichen Forschung, Produkt Management, Qualitätssicherung und -Management sowie Medien- und Vertragsrecht angeboten.
+- Zur Unterstützung werden Workshops/Seminare nach Verfügbarkeit in den Bereichen Forschung, Produkt Management, Qualitätssicherung und -Management sowie Medien- und Vertragsrecht angeboten.
 
 ## Studien-/Prüfungsleistungen
 Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
 - Projektergebnis und -dokumentation (50%)
-- Entrepreneurship und Businessplan (50%)
+- Begleitende Workshops / Seminare (50%)
 
 
 ## Medienformen
