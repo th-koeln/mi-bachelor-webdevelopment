@@ -1,5 +1,5 @@
 ---
-title: Informatik, Recht und Gesellschaft
+title: Medienrecht, Medien & Gesellschaft
 modulverantwortlich: mw
 modulniveau:
 kuerzel: IRG
