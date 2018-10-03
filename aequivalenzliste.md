@@ -6,29 +6,30 @@ date: 2018-09-20
 
 Übersicht für die Anrechenbarkeit von Modulen beim Wechsel von der BPO3 in die BPO4 in der Medieninformatik.
 
-| Modul BPO4 | Modul BPO3 | Kommentar|
+| Modul BPO4(CP)| Modul BPO3(CP) | Anzuerkennende Prüfungsnummer | Kommentar |
 | ----- | ----- | --- |
-| Algorithmen und Programmierung 1 | Algorithmen und Programmierung 1 ||
-| Einführung in Betriebssysteme und Rechnerarchitektur | Einführung in Betriebssysteme und Rechnerarchitektur ||
-| Einführung in die Medieninformatik | Einführung in die Medieninformatik ||
-| Mathematik 1 | Mathematik 1 ||
-| Theoretische Informatik 1 | Theoretische Informatik 1 ||
+| Algorithmen und Programmierung 1 (8) | Algorithmen und Programmierung 1 (8) | 1030 ||
+| Einführung in Betriebssysteme und Rechnerarchitektur (5) | Einführung in Betriebssysteme und Rechnerarchitektur (5) | 1020 | |
+| Einführung in die Medieninformatik (5) | Einführung in die Medieninformatik (5) | 1010 ||
+| Mathematik 1 (7) | Mathematik 1 (7) | 1050 | |
+| Theoretische Informatik 1 (5) | Theoretische Informatik 1 & 2 (10) |||
+| Theoretische Informatik 2 (5) |  |||
 | Algorithmen und Programmierung 2 | Algorithmen und Programmierung 2 ||
 | Mathematik 2 | Mathematik 2 ||
-| Mensch-Computer Interaktion | Mensch-Computer Interaktion | nur Teilleistung [^mci] |
+| Mensch-Computer Interaktion (10) | Mensch-Computer Interaktion (5) | |nur Teilleistung [^mci] |
 | Theoretische Informatik 2 | Theoretische Informatik 2 | |
-| Audiovisuelles Medienprojekt | Audiovisuelles Medienprojekt | |
-| Datenbanken 1 | Datenbanken 1 | |
-| Grundlagen des Web | Web-basierte Anwendungen 2: Verteilte Systeme | |
-| Kommunikationstechnik und Netze | Kommunikationstechnik und Netze | |
-| Paradigmen der Programmierung | - | |
-| Screendesign | Grundlagen der visuellen Kommunikation |
-| Betriebssysteme und verteilte Systeme | Betriebssysteme und verteilte Systeme | |
-| Softwaretechnik | Softwaretechnik | |
-| BWL I - Grundlagen | BWL I - Grundlagen | |
+| Audiovisuelles Medienprojekt (5) | Audiovisuelles Medienprojekt (5) | |
+| Datenbanken 1 (5) | Datenbanken 1 (5) | |
+| Grundlagen des Web (5) | Web-basierte Anwendungen 2: Verteilte Systeme  (5) | |
+| Kommunikationstechnik und Netze (5) | Kommunikationstechnik und Netze (5) | |
+| Paradigmen der Programmierung  (5) | - | |
+| Screendesign (5) | Grundlagen der visuellen Kommunikation (5) |
+| Betriebssysteme und verteilte Systeme (5) | Betriebssysteme und verteilte Systeme (5) | |
+| Softwaretechnik (5) | Softwaretechnik (5) | |
+| BWL I - Grundlagen (5) | BWL I - Grundlagen (5) | |
 | Entwicklungsprojekt | Entwicklungsprojekt interaktive Systeme | |
-| Projektmanagement | Projektmanagement | |
-| Wahlpflichtmodul | Wahlpflichtmodul I oder II | |
+| Projektmanagement (5) | Projektmanagement (5) | |
+| Wahlpflichtmodul (5) | Wahlpflichtmodul I oder II (5) | |
 | Praxisprojekt | ? | |
 | Praxisprojektseminar | ? | |
 
