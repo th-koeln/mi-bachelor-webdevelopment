@@ -48,8 +48,8 @@ Gesamtaufwand 180 Stunden, davon
 
 ## Studien-/Prüfungsleistungen
 Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern angegeben.
-- Klausur (60 Minuten) oder mündliche Prüfung (30 Minuten) (60%)
-- Fachvortrag (20 Minuten) (40%)
+- Klausur (60 Minuten) oder mündliche Prüfung (15 Minuten) (60%)
+- Fachvortrag (15 Minuten) (40%)
 
 ## Medienformen
 - Beamergestützte Vorlesung
