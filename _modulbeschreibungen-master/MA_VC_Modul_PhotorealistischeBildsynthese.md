@@ -29,7 +29,7 @@ Gesamtaufwand 180 Stunden, davon
 
 ## Angestrebte Lernergebnisse
 - Die Studierenden verstehen den Bildentstehungsprozess und die physikalischen Wechselwirkungen von Licht und Licht-Materie. Sie kennen Rendering-Equation, stochastische Methoden (Monte Carlo Raytracing) und Methoden der natürlichen Beleuchtung, und erarbeiten sich damit tiefgehende Fachkenntnisse im Gebiet der photorealistischen Bildsynthese und dringen dabei bis an die Grenze des heute vorhandenen Wissens und die Spitze der aktuellen Technologie vor, bspw. auf technischer Seite durch moderne CPU/GPU Programmierung, sowie auf theoretischer Seite durch neueste Algorithmen.
-- Dadurch erlangen Sie grundlegende Fähigkeiten im Umgang mit 3D Modellierungstools. Sie können dieses Wissen einsetzen, sowohl um in einem praktischen 3D Modellierungstool gezielt eigene Renderings zu entwickeln als auch vor allem einen eigenen Renderer selbst zu entwickeln.
+- Dadurch erlangen Sie grundlegende Fähigkeiten im Bereich der Computergrafik. Sie können dieses Wissen einsetzen, sowohl um in einem praktischen 3D Modellierungstool gezielt geeignete Methoden zur Bildsynthese auszuwählen als auch vor allem, um einen eigenen Renderer selbst von Grund auf zu entwickeln.
 - Die Studierenden können wissenschaftlich arbeiten, kritisch reflektieren und methodische Alternativen begründet auswählen, um in der Lage zu sein auch wissenschaftliche Beiträge zur Weiterentwicklung des Gebietes der Bildsynthese zu leisten.
 
 ## Inhalt
