@@ -1,7 +1,7 @@
 ---
 title: Photorealistische Bildsynthese
 modulverantwortlich: me
-kuerzel: PCG
+kuerzel: PB
 studiensemester-ws: 3
 studiensemester-ss: 2
 sprache: wahlweise deutsch oder englisch
