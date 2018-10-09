@@ -4,14 +4,15 @@ title: Äquivalenzliste Master (Entwurf)
 date: 2018-09-20
 ---
 
-Übersicht für die Anrechenbarkeit von Modulen beim Wechsel von der MPO3 in die MPO4 in der Medieninformatik.
+Übersicht über die Anrechenbarkeit von Modulen beim Wechsel von der MPO3 in die MPO4 in der Medieninformatik.
+Bitte beachten Sie, dass anderweitige Anrechnungen möglich sein können, diese bedürfen aber der individuellen Prüfung, wenden Sie sich dafür bitte an ihr Prüfungsamt bzw. den Prüfungsausschuss.
 
 | Modul MPO3 | Modul MPO4 | Kommentar|
 | ----- | ----- | --- |
 | Visualistik | Visualisierung | mit 1CP Zusatzleistung |
 | Spezielle Gebiete der Mathematik | Spezielle Gebiete der Mathematik | mit 1CP Zusatzleistung |
 | IT-Sicherheit | Sicherheit, Privatsphäre und Vertrauen | mit 1CP Zusatzleistung |
-| Interactions Design | Interaction Design | mit 1CP Zusatzleistung (@Gerhard: hieß das in der BPO3 wirklich Interactions Design?) |
+| Interaction Design | Interaction Design | mit 1CP Zusatzleistung  |
 | Logik und semantische Modellierung | Logik und semantische Modellierung  | mit 1CP Zusatzleistung |
 | Informations- und Prozessmanagement | Informations- und Prozessmanagement | mit 1CP Zusatzleistung |
 | Modellierung und Analyse technischer Systeme | Modellierung und Analyse technischer Systeme  | mit 1CP Zusatzleistung |
@@ -23,6 +24,5 @@ date: 2018-09-20
 | Entwicklungsmethoden in Medienprojekte und Qualitätssicherung | Qualitätssicherung und Qualitätsmanagement | mit 1CP Zusatzleistung |
 | Research Methods in Human-Computer Interaction | Research Methods | mit 1CP Zusatzleistung |
 | Open Data: Technik und Anwendung | Open Data: Technik und Anwendung | mit 1CP Zusatzleistung |
-| Medien und Gesellschaft plus Medienrezeption | Computerethik | mit 1CP Zusatzleistung (@Christian Kohls: Ist das Inhaltlich in Ordnung?)|
 
 

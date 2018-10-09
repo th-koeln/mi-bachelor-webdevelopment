@@ -15,7 +15,7 @@ type: pm
 ---
 
 ## Kurzbeschreibung
-Es werden Grundlagen für die Analyse und algorithmische Verarbeitung von Graph basierten Daten eingeführt. 
+Ausbau der mathematisch-abstrakten Analysefähigkeit, der Sicherheit im Umgang mit mathematischen Methoden mit Relevanz für die Informatik.
 
 ## Lehrform/SWS 
 4 SWS: Vorlesung 2 SWS; Seminar 2 SWS
