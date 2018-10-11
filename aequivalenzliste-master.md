@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Äquivalenzliste Master (Entwurf)
+title: Äquivalenzliste Master
 date: 2018-09-20
 ---
 
