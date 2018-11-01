@@ -17,7 +17,7 @@ resources: true
 wma:
   anzahl: 3
   sws: 5
-resources-skillset: basics  
+resources-skillset: general  
 ---
 
 ## Lehrform/SWS:
