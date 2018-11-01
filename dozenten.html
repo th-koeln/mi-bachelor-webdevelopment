@@ -7,7 +7,9 @@ layout: default
 
 <section class="section">
 	<div class="container">
-	    <h1 class="title is-1">Dozenten</h1>
+		<div class="content">
+	    	<h1>Dozenten</h1>
+	    </div>
 	</div>
 </section>
 
@@ -55,12 +57,3 @@ layout: default
 		</div>
 	</div>
 </section>
-
-{% for member in sorted_people %}
-{% include /functions/collect-courses.html dozent=member %}
-{% assign ws = false %}
-### {{ member[1].name}}<br>
-- {{module_ws}}<br>
-- {{module_ss}}<br>
-<br>
-{% endfor %}

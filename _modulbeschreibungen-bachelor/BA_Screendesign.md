@@ -12,6 +12,14 @@ voraussetzungen-nach-pruefungsordnung: keine
 empfohlene-voraussetzungen: Einführung in die Medieninformatik, MCI
 published: true
 type: pm
+resources: true
+tutor:
+  anzahl: 1
+  sws: 8
+wma:
+  anzahl: 2
+  sws: 8
+resources-skillset: ux
 ---
 
 ## Lehrform/SWS

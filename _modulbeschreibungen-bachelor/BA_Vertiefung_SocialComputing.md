@@ -12,6 +12,14 @@ voraussetzungen-nach-pruefungsordnung: keine
 empfohlene-voraussetzungen: Einführung in die Medieninformatik, Algorithmen und Programmierung, Paradigmen der Programmierung, Mensch-Computer Interaktion, Screendesign, Audiovisuelles Medienprojekt
 published: true
 type: vpm
+resources: true
+tutor:
+  anzahl: 1
+  sws: 1
+wma:
+  anzahl: 1
+  sws: 1
+ressources-skillset: dev  
 ---
 
 ## Kurzbeschreibung

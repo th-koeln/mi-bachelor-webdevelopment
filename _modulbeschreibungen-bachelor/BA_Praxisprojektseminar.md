@@ -5,6 +5,7 @@ modulniveau:
 kuerzel: PPS
 untertitel:
 studiensemester: 6
+jedes-semester: true
 kategorie:
 sprache: deutsch
 kreditpunkte: 5
@@ -12,6 +13,11 @@ voraussetzungen-nach-pruefungsordnung: erreichte 140 Leistungspunkte
 empfohlene-voraussetzungen: 
 published: true
 type: pm
+resources: true
+wma:
+  anzahl: 1
+  sws: 6
+resources-skillset: general
 ---
 
 ## Lehrform/SWS

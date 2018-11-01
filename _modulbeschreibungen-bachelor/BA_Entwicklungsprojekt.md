@@ -12,6 +12,14 @@ voraussetzungen-nach-pruefungsordnung: keine
 empfohlene-voraussetzungen: Algorithmen und Programmierung, Theoretische Informatik, Audiovisuelles Medienprojekt, Kommunikationstechnik und Netze, Mensch Computer Interaktion, Grundlagen des Web, Betriebssysteme und verteilte Systeme, Screendesign, abgeschlossenes Schwerpunktmodul
 published: true
 type: pm
+resources: true
+tutor:
+  anzahl: 1
+  sws: 1
+wma:
+  anzahl: 1
+  sws: 1
+resources-skillset: dev  
 ---
 
 ## Lehrform/SWS

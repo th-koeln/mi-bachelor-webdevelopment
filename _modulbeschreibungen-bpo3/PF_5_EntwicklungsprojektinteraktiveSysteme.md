@@ -1,6 +1,6 @@
 ---
 title: Entwicklungsprojekt interaktive Systeme
-modulverantwortlich: Herr Prof. Dr. Kristian Fischer, Herr Prof. Dr. Gerhard Hartmann
+modulverantwortlich: kf, gh
 modulniveau:
 kuezel: EIS
 untertitel:
@@ -12,6 +12,12 @@ kreditpunkte: 10
 voraussetzungen-nach-pruefungsordnung: Abgeschlossenes Grundstudium
 empfohlene-voraussetzungen: Algorithmen und Programmierung, Theoretische Informatik, Kommunikationstechnik, Netzbasierte Anwendungen, Datenbanken, Multimedia Anwendungen, Mensch Computer Interaktion, Betriebssysteme, Grundlagen der visuellen Kommunikation
 published: true
+type: pm
+resources: true
+wma:
+  anzahl: 3
+  sws: 5
+resources-skillset: basics  
 ---
 
 ## Lehrform/SWS:

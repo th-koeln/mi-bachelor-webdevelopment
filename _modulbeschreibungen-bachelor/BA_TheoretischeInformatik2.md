@@ -12,6 +12,14 @@ voraussetzungen-nach-pruefungsordnung: keine
 empfohlene-voraussetzungen: Einfache Kenntnisse der naiven Mengenlehre, wie sie in der Schule vermittelt und bei der mathematischen Begriffsbildung verwendet werden.
 published: true
 type: pm
+resources: true
+tutor:
+  anzahl: 1
+  sws: 1
+wma:
+  anzahl: 1
+  sws: 1
+resources-skillset: general  
 ---
 
 ## Lehrform/SWS

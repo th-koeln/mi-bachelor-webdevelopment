@@ -12,6 +12,11 @@ voraussetzungen-nach-pruefungsordnung: keine
 empfohlene-voraussetzungen: 
 published: true
 type: pm
+resources: true
+wma:
+  anzahl: 8
+  sws: 5
+resources-skillset: general  
 ---
 
 ## Lehrform/SWS

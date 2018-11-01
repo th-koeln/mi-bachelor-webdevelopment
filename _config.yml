@@ -109,6 +109,9 @@ collections:
     layout: selbstbericht
   ideen:
     layout: ideen
+  activities-resources:
+    layout: activities
+    output: true
     
 defaults:
   - 
@@ -123,6 +126,12 @@ defaults:
       type: modulbeschreibungen-bachelor
     values:
       layout: modulbeschreibung
+  - 
+    scope:
+      path: ""
+      type: activities-resources
+    values:
+      layout: activities
   - 
     scope:
       path: ""
