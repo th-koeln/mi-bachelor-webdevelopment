@@ -14,11 +14,11 @@ published: true
 type: pm
 resources: true
 tutor:
-  anzahl: 1
-  sws: 1
+  anzahl: 0
+  sws: 0
 wma:
-  anzahl: 1
-  sws: 1
+  anzahl: 4
+  sws: 2
 resources-skillset: dev  
 ---
 
@@ -26,7 +26,7 @@ resources-skillset: dev
 In der Veranstaltung werden wesentliche Grundideen, Interaktionsprinzipien, Contentarchitekturen und Sicherheitsmechanismen eingeführt, die das Web als Medium konstituieren.
 
 ## Lehrform/SWS
-4 SWS: Vorlesung 2 SWS; Seminar 2 SWS
+4 SWS: Seminar 2 SWS; Workshop 2 SWS
 
 ## Arbeitsaufwand
 Gesamtaufwand 150h, davon 
@@ -37,10 +37,9 @@ Gesamtaufwand 150h, davon
 
 ## Angestrebte Lernergebnisse
 Die Studierenden 
-- kennen wesentliche Grundideen, Interaktionsprinzipien, Contentarchitekturen und Sicherheitsmechanismen, die das Web als Medium konstituieren und 
-- können moderne Webanwendungen auf der Basis von Fachbegriffen analysieren und einordnen
-
-um kompetent am fachlichen Diskurs über Eigenschaften, Auswirkungen und Gestaltungsalternativen von Web Anwendungen teilnehmen zu können.
+- können wesentliche Grundideen, Interaktionsprinzipien, Contentarchitekturen und Sicherheitsmechanismen, die das Web als Medium konstituieren erklären und 
+- können moderne Webanwendungen auf der Basis von Fachbegriffen analysieren und einordnen um kompetent am fachlichen Diskurs über Eigenschaften, Auswirkungen und Gestaltungsalternativen von Web Anwendungen teilnehmen zu können.
+-  können verteilte Web Anwendungen ggfs. nach einer Einarbeitung in konkrete Technologien oder Rahmenwerke realisieren (programmieren)
 
 ## Inhalt
 - Web Architektur des W3C
@@ -53,7 +52,9 @@ um kompetent am fachlichen Diskurs über Eigenschaften, Auswirkungen und Gestalt
 Die Inhalte werden als Vorlesung vermittelt. In dem begleitenden Seminar werden die Konzepte mittels Fallstudien anwendungsbezogen analysiert und diskutiert. 
 
 ## Studien-/Prüfungsleistungen
-Mündliche Prüfung
+Zu je 50% wird die Modulnote bestimmt durch
+- Mündliche Prüfung zu den Inhalten des Seminars 
+- Projektarbeit für den Workshop
 
 ## Medienformen
 - Folienpräsentation
