@@ -14,12 +14,12 @@ published: true
 type: pm
 resources: true
 tutor:
-  anzahl: 1
-  sws: 1
+  anzahl: 0 (wäre aber wünschenswert)
+  sws: 2
 wma:
   anzahl: 1
-  sws: 1
-resources-skillset: general  
+  sws: 2
+resources-skillset: general 
 ---
 
 ## Lehrform/SWS
