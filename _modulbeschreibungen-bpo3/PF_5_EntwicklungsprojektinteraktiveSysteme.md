@@ -9,13 +9,13 @@ kategorie:
 sprache: deutsch
 zuordnung-zum-curriculum: Medieninformatik Bachelor
 kreditpunkte: 10
-voraussetzungen-nach-pruefungsordnung: Abgeschlossenes Grundstudium
+voraussetzungen-nach-pruefungsordnung: 
 empfohlene-voraussetzungen: Algorithmen und Programmierung, Theoretische Informatik, Kommunikationstechnik, Netzbasierte Anwendungen, Datenbanken, Multimedia Anwendungen, Mensch Computer Interaktion, Betriebssysteme, Grundlagen der visuellen Kommunikation
 published: true
 type: pm
 resources: true
 wma:
-  anzahl: 3
+  anzahl: 6
   sws: 5
 resources-skillset: general  
 ---
@@ -29,10 +29,10 @@ Praktikum
 
 
 ## Inhalt:
-Praktikum zu MC2
+Praktikum zu MCI und WBA2
 
 ## Studien-/Prüfungsleistungen:
-
+Projektergebnis (Code ubd Doku) im git und Vortrag
 
 ## Medienformen:
 
