@@ -14,12 +14,12 @@ published: true
 type: pm
 resources: true
 tutor:
-  anzahl: 1
-  sws: 1
+  anzahl: 0
+  sws: 0
 wma:
-  anzahl: 1
-  sws: 1
-resources-skillset: ux  
+  anzahl: 3
+  sws: 4
+resources-skillset: MCI  
 ---
 
 ## Lehrform/SWS
