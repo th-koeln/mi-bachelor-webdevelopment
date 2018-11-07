@@ -14,11 +14,11 @@ published: true
 type: pm
 resources: true
 tutor:
-  anzahl: 1
-  sws: 1
+  anzahl: 2
+  sws: 8
 wma:
   anzahl: 1
-  sws: 1
+  sws: 8
 resources-skillset: av  
 ---
 
