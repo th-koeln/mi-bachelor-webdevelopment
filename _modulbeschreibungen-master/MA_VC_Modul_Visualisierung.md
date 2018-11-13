@@ -12,6 +12,11 @@ empfohlene-voraussetzungen: Web Architekturen (Bachelor) bzw. Kenntnisse in HTML
 published: true
 type: spm
 parent: SPM3
+resources: true
+wma:
+  anzahl: 1
+  sws: 2
+resources-skillset: dev 
 schwerpunkt: vc
 ---
 
