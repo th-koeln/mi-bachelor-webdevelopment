@@ -15,8 +15,8 @@ published: true
 type: vpm
 resources: true
 wma:
-  anzahl: 5
-  sws: 4
+  anzahl: 5 (CGA)
+  sws: 4 (CGA)
 resources-skillset: visual
 ---
 
