@@ -35,10 +35,10 @@ Gesamtaufwand 150h, davon
 siehe Theoretische Informatik 1.
 
 ## Inhalt
-- Reguläre (Typ-3) Sprachen: Endliche Automaten, Reguläre Ausdrücke; Typ3-Grammatiken, Syntaxdiagramme; Chomsky-Hierarchie
-- Modellierung sequentieller und paralleler (Ausgabe-) Prozesse: Endliche Maschinen, Berechnungen; Automatennetze, Petri-Netze, Zelluläre Automaten
-- Kontextfreie (Typ-2) Sprachen: Kontextfreie Grammatiken, Chomsky- und Greibach-Normalform; Kellerautomaten; Anwendungen (Ableitungs- und Syntaxbäume, Syntax von Programmiersprachen, Backus-Naur-Form)
-- Kontextsensitive (Typ-1) und rekursiv aufzählende (Typ-0) Sprachen: Grammatiken, Monotonie, Normalform; Turingautomaten; Einführung in die Begriffe: Berechenbarkeit, Entscheidbarkeit und Komplexität
+- Reguläre (Typ-3) Sprachen: Endliche Automaten, Reguläre Ausdrücke; Typ3-Grammatiken, Zustandsübergangsdiagramme; Chomsky-Hierarchie
+- Modellierung sequentieller und paralleler (Ausgabe-) Prozesse: Endliche Maschinen / Automaten; Automatennetze, Petri-Netze, Zelluläre Automaten
+- Kontextfreie (Typ-2) Sprachen: Kontextfreie Grammatiken, Chomsky-Normalform; Kellerautomaten; Anwendungen (Ableitungs- und Syntaxbäume, Syntax von Programmiersprachen, Backus-Naur-Form)
+- Kontextsensitive (Typ-1) und rekursiv aufzählende (Typ-0) Sprachen: Grammatiken, Turingautomaten, Einführung in die Begriffe: Berechenbarkeit, Entscheidbarkeit und Komplexität
 
 
 ## Studien-/Prüfungsleistungen
