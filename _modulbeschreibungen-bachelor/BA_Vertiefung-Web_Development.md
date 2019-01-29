@@ -1,6 +1,6 @@
 ---
 title: Web Development 
-modulverantwortlich: kf
+modulverantwortlich: kf, cn
 modulniveau:
 kuerzel: WD
 untertitel:
