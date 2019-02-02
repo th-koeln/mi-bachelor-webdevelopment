@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+  <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+
+  <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, maximum-scale=1.0">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
+  <link href="https://fonts.googleapis.com/css?family=PT+Sans" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/mi-lib/assets/styles/mi-jekyll.css" />
+  <link rel="shortcut icon" type="image/x-icon" href="{{site.baseurl}}/mi-lib/assets/images/favicon.ico">
+
+</head>
+
+<body data-url="{{page.url}}">
+  <section class="hero is-info is-large" style="background-image: url({{ site.baseurl }}/images/hero.svg); background-size: contain; background-repeat: no-repeat; background-position: center center;">
+    <!-- Hero header: will stick at the top -->
+    <div class="hero-head">
+      <header class="nav">
+        <div class="container">
+          <div class="nav-left">
+            <a href="{{ site.baseurl }}/" class="nav-item"><img src="{{ site.avatar }}" /></a>
+          </div>
+          <span class="nav-toggle">
+            <span></span>
+            <span></span>
+            <span></span>
+          </span>
+          <div class="nav-right nav-menu">
+            {% for item in site.navigation %}
+            <a class="nav-item" href="{{ site.baseurl }}/{{item.url}}" class="nav-item">{{item.name}}</a>
+            {% endfor %}
+          </div>
+        </div>
+      </header>
+    </div>
+
+    <!-- Hero content: will be in the middle -->
+    <div class="hero-body is-header">
+      <div class="container">
+        <h1 class="title is-1">
+          {{ site.name }}
+        </h1>
+        <h2 class="subtitle is-3">
+          {{ site.description }}
+        </h2>
+      </div>
+    </div>
+
+  </section>
+
+  {{ content }}
+
+  <footer class="footer is-non-print">
+    <div class="container">
+      <ul class="menu-list">
+        {% for item in site.navigation %}
+        <li><a href="{{ site.baseurl }}/{{item.url}}" class="nav-item">{{item.name}}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+  </footer>
+
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.8.3/showdown.min.js"></script>
+  <script type="text/javascript" src="{{ site.baseurl }}/mi-lib/assets/js/mi-jekyll.js"></script>
+
+</body>
+
+</html>

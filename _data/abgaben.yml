@@ -1,0 +1,35 @@
+artefakt0:
+  name: Individuelles Gestaltungsportfolio
+  date: 2018-11-15 00:00
+  format: Sammlung der Übungsergebnisse als Einzeldateien
+  anteil: 1/5
+  gruppe: Einzelartefakt
+  uebergabepunkt-text: Ilias
+  uebergabepunkt-link: https://ilias.th-koeln.de/goto.php?target=exc_1166244&client_id=ILIAS_FH_Koeln
+
+artefakt1:
+  name: Angebot & Anschreiben
+  date: 2018-03-24 00:00
+  format: PDF und Ausdruck zur Präsentation
+  gruppe: Teamartefakt
+  anteil: 1/5
+  uebergabepunkt-text: Ilias
+  uebergabepunkt-link: https://ilias.th-koeln.de/goto.php?target=exc_1166244&client_id=ILIAS_FH_Koeln
+  
+artefakt2:
+  name: Designkonzept als Mockup
+  date: 2019-03-24 00:00
+  format: zip Archiv mit Einzelscreens als Bilddateien (*.jpg,*.png) und einer PDF mit allen Screens
+  gruppe: Teamartefakt
+  anteil: 2/5
+  uebergabepunkt-text: Ilias
+  uebergabepunkt-link: https://ilias.th-koeln.de/goto.php?target=exc_1166244&client_id=ILIAS_FH_Koeln
+  
+artefakt3:
+  name: Patternlab/ StyleGuide
+  date: 2019-03-24 00:00
+  format: PDF
+  gruppe: Teamartefakt
+  anteil: 1/5
+  uebergabepunkt-text: Ilias
+  uebergabepunkt-link: https://ilias.th-koeln.de/goto.php?target=exc_1166244&client_id=ILIAS_FH_Koeln

@@ -1,0 +1,19 @@
+mi-wiki:
+  name: Medieninformatik Wiki
+  url: http://www.medieninformatik.fh-koeln.de/w/
+  
+mi-wiki-abgabe:
+  name: Medieninformatik Wiki
+  url: http://www.medieninformatik.fh-koeln.de/w/
+  
+mi-wiki-pruefung:
+  name: Medieninformatik Wiki
+  url: http://www.medieninformatik.fh-koeln.de/w/
+
+ilias:
+  name: Ilias
+  url: https://ilias.th-koeln.de/goto.php?target=crs_1161102&client_id=ILIAS_FH_Koeln
+
+ilias-pruefung:
+  name: Ilias
+  url: https://ilias.th-koeln.de/goto.php?target=crs_1161102&client_id=ILIAS_FH_Koeln

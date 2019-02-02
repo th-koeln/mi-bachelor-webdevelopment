@@ -1,0 +1,10 @@
+{% assign news = include.news %}
+
+{% for item in news %}
+<div class="card is-news-item is-news">	
+	<div class="card-content">
+		<h3><date>{{item.datum}}</date> // {{item.title}}</h3>
+		<p>{{item.content}}</p>
+	</div>
+</div>
+{% endfor %}

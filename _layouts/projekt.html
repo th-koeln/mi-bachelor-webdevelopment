@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+  <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+
+  <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, maximum-scale=1.0">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
+  <link href="https://fonts.googleapis.com/css?family=PT+Sans" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/styles/projekt.css" />
+  <link rel="shortcut icon" type="image/x-icon" href="{{site.baseurl}}/favicon.ico">
+  <!--script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.8.2/showdown.min.js"></script-->
+</head>
+
+<body data-url="{{page.url}}">
+  <section class="hero is-info is-large has-margin">
+    <!-- Hero header: will stick at the top -->
+    <div class="hero-head">
+      <header class="nav">
+        <div class="container">
+          <div class="nav-left">
+            <a href="{{ site.baseurl }}/" class="nav-item"><img src="{{ site.avatar }}" /></a>
+          </div>
+          <span class="nav-toggle">
+            <span></span>
+            <span></span>
+            <span></span>
+          </span>
+          <a href="{{ site.baseurl }}/" class="nav-item">Zur Modulseite</a>
+          <a href="https://ilias.th-koeln.de/ilias.php?ref_id=1161102&cmdClass=ilobjcoursegui&cmd=view&cmdNode=u7:jo&baseClass=ilrepositorygui"
+            class="nav-item">Ilias</a>
+        </div>
+      </header>
+    </div>
+
+    <!-- Hero content: will be in the middle -->
+    <div class="hero-body is-header">
+      <div class="container ">
+        <div class="columns">
+          <div class="column is-half">
+            <h1 class="title">Projekt 2018</h1>
+            <h2 class="subtitle">Screendesign Mobile App Lucas Cranach Archiv</h2>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  {{content}}
+
+  <footer class="footer is-non-print">
+    <div class="container">
+      <div class="columns">
+        <div class="column is-8">
+          <ul class="menu-list">
+            <li><a href="{{ site.baseurl }}/" class="nav-item">Zur Modulseite</a></li>
+            <li><a href="https://ilias.th-koeln.de/ilias.php?ref_id=1161102&cmdClass=ilobjcoursegui&cmd=view&cmdNode=u7:jo&baseClass=ilrepositorygui"
+                class="nav-item">Ilias</a></li>
+          </ul>
+        </div>
+        <div class="column">
+          <div class="content is-small">
+            <p markdown="1">Projektseite zum Modul "Screendesign" im [Studiengang
+              Medieninformatik Bachelor](https://www.th-koeln.de/studium/medieninformatik-bachelor_2379.php) der [TH
+              Köln](https://www.th-koeln.de/hochschule/impressum_8159.php).</p>
+            <p markdown="1">Verantwortlicher Dozent ist [Prof. Christian Noss](https://github.com/cnoss).</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.8.3/showdown.min.js"></script>
+  <script async defer src="//assets.pinterest.com/js/pinit.js"></script>
+  <script src="{{ site.baseurl }}/assets/js/screendesign.js"></script>
+
+</body>
+
+</html>
