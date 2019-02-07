@@ -12,6 +12,11 @@ empfohlene-voraussetzungen: Einführung in die Medieninformatik (Bachelor), Mens
 published: true
 type: spp
 parent: 
+resources: true
+wma:
+  anzahl: 1
+  sws: 2
+resources-skillset: dev 
 schwerpunkt: wtw, sc, vc, mpd, hci
 ---
 

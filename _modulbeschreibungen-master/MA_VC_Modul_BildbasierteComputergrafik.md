@@ -12,6 +12,11 @@ empfohlene-voraussetzungen: Computergrafik und Animation (Bachelor), Algorithmen
 published: true
 type: spm
 parent: SPM2
+resources: true
+wma:
+  anzahl: 1
+  sws: 2
+resources-skillset: dev 
 schwerpunkt: vc
 ---
 
