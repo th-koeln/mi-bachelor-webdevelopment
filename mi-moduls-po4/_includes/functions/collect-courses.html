@@ -1,0 +1,80 @@
+{% comment %}  Daten übernehmen {% endcomment %} 
+{% assign dozent = include.dozent %}
+
+{% comment %}  Leeres Array für Module deklarieren {% endcomment %} 
+{% assign module_ss = "" | split:"|"  %}
+{% assign module_ws = "" | split:"|"  %}
+
+{% comment %}  Modulbeschreibungen Bachelor auslesen und durch iterieren{% endcomment %} 
+{% assign module = (site.modulbeschreibungen-bachelor) %}
+{% for modul in module %}
+
+{% comment %}  Wenn dies ein Modul des aktuellen Dozenten ist, dann selbiges speichern {% endcomment %} 
+{% if(modul.modulverantwortlich contains dozent[0]) %}
+
+{% comment %}  Liegt das Modul im Sommersemester oder Wintersemester? {% endcomment %} 
+{% assign value = modul.studiensemester | modulo:2 %}
+
+{% if value == 0 %}
+
+{% capture item %}
+<a href="{{site.baseurl}}{{modul.url}}">Bachelor: {{modul.title}}</a>
+{%if modul.typ == "spm" %} * {% endif %}
+{%if modul.typ == "pm" %} * {% endif %}
+{% endcapture %}
+{% assign module_ss = module_ss | push: item %}
+
+{% else %}
+
+{% capture item %}
+<a href="{{site.baseurl}}{{modul.url}}">Bachelor: {{modul.title}}</a>
+{%if modul.typ == "spm" %} * {% endif %}
+{%if modul.typ == "pm" %} * {% endif %}
+{% endcapture %}
+{% assign module_ws = module_ws | push: item %}
+
+{% endif %}
+
+{% endif %}
+{% endfor %}
+
+
+{% comment %}  Modulbeschreibungen Master auslesen und durch iterieren{% endcomment %} 
+{% assign module_master = (site.modulbeschreibungen-master) %}
+{% for modul in module_master %}
+
+{% comment %}  Wenn dies ein Modul des aktuellen Dozenten ist, dann selbiges speichern {% endcomment %} 
+{% if(modul.modulverantwortlich contains dozent[0]) %}
+
+{% comment %}  Liegt das Modul im Sommersemester oder Wintersemester? {% endcomment %} 
+{% assign value = modul.studiensemester-ws | modulo:2 %}
+
+{% if value == 0 %}
+
+{% capture item %}
+<a href="{{site.baseurl}}{{modul.url}}">Master: {{modul.title}}</a>
+{%if modul.typ == "spm" %} * {% endif %}
+{%if modul.typ == "spp" %} * {% endif %}
+{%if modul.typ == "pm" %} * {% endif %}
+{% endcapture %}
+{% assign module_ss = module_ss | push: item %}
+
+{% else %}
+
+{% capture item %}
+<a href="{{site.baseurl}}{{modul.url}}">Master: {{modul.title}}</a>
+{%if modul.typ == "spm" %} * {% endif %}
+{%if modul.typ == "spp" %} * {% endif %}
+{%if modul.typ == "pm" %} * {% endif %}
+{% endcapture %}
+{% assign module_ws = module_ws | push: item %}
+
+{% endif %}
+
+{% endif %}
+{% endfor %}
+
+
+{% comment %}  Ausgabe vorbereiten {% endcomment %} 
+{% assign module_ss = module_ss | join: '<br>' %}
+{% assign module_ws = module_ws | join: '<br>' %}

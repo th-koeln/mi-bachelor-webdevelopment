@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+<section class="section selbstbericht">
+	<div class="container">
+		<h2 class="title is-4">Leitfragen der ASIIN</h2>
+		
+		<div class="toc">
+			<ol class="menu-list">
+			{% for doc in site.leitfragen-asiin %}
+				<li><a href="#{{doc.id}}">{{doc.title}}</a></li>
+			{% endfor %}
+			</ol>
+		</div>
+	</div>
+</section>
+
+<div id="selbstbericht">
+	{% for doc in site.leitfragen-asiin %}
+	<section class="section selbstbericht" id="{{doc.id}}">
+		<div class="container">
+			<div class="content">
+				<h1>{{doc.title}}</h1>
+				{{doc.content}}
+			</div>
+	
+		</div>
+	</section>
+	{% endfor %}
+	
+</div>

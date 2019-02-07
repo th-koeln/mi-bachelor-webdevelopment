@@ -1,0 +1,20 @@
+{
+	"srcPath": "../../_modulbeschreibungen-master",
+	
+	"rootDir": "/mi-2017",
+			
+	"placeholder": {
+		"title": "Modulhandbuch Medieninformatik Master"
+	},
+
+	"postprocessLatex": {
+		"replace": [
+			[ "/\\\\section/"       , "\\\\chapter" ],
+			[ "/\\\\subsection/"    , "\\\\section*" ],
+			[ "/\\\\subsubsection/" , "\\\\subsection*" ],
+			[ "/includegraphics/" , "includegraphics[width=\\\\columnwidth]" ]
+		]
+	}
+}
+
+

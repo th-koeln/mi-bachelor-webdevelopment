@@ -1,0 +1,190 @@
+{% assign alle_fachsemester = "1,2,3,4" | split: "," %}
+{% assign alle_startsemester = "ws,ss" | split: "," %}
+{% assign is_shown = "" | split: "," %}
+{% assign count_schwerpunkte = 0 %}
+{% assign cps = 0 %}
+
+{% assign schwerpunkte = (site.modulbeschreibungen-master | where:"typ","sp" | sort: "title") %}
+{% assign pflichtmodule = (site.modulbeschreibungen-master | where:"typ","pm" | where_exp: "item", "item.zielmedium != 'print'" ) %}
+{% assign teilmodule = (site.modulbeschreibungen-master | where:"typ","tm") %}
+{% assign wahlpflichtmodule = (site.modulbeschreibungen-master | where:"typ","wpm") %}
+{% assign schwerpunktmodule = (site.modulbeschreibungen-master | where:"typ","spm") %} 
+{% assign schwerpunktmodulwraps = (site.modulbeschreibungen-master | where:"typ","spmw") %} 
+{% assign schwerpunktprojekte = (site.modulbeschreibungen-master | where:"typ","spp") %}
+
+{% assign wahlpflichtmodule = (wahlpflichtmodule | where: "zielmedium","web" | sort: 'title') %}
+{% assign schwerpunktmodule = (schwerpunktmodule | sort: 'title') %}
+{% assign pflichtmodule = (pflichtmodule | sort: 'title') %}
+
+{% for schwerpunktprojekt in schwerpunktprojekte %}
+{% assign pflichtmodule = pflichtmodule | push: schwerpunktprojekt %}
+{% endfor %}
+				
+{% for schwerpunktmodulwrap in schwerpunktmodulwraps %}
+{% assign pflichtmodule = pflichtmodule | push: schwerpunktmodulwrap %}
+{% endfor %}
+
+{% assign schwerpunkt = (site.modulbeschreibungen-master | where:"kuerzel",include.schwerpunkt_kuerzel | first) %}
+
+<section class="section">
+	<div class="container">
+	    <h1 class="title is-1">Studienverlaufsplan Medieninformatik Master</h1>
+	    <h2 class="subtitle is-3">Schwerpunkt {{schwerpunkt.title}}</h2>
+	</div>
+</section>
+
+<section class="section">
+	<div class="container">    
+		
+		<div class="content is-non-print" id="{{schwerpunkt.id}}">
+			{{schwerpunkt.content}}
+	    </div> 
+		<div class="tabs is-tab-navigation is-non-print">
+			<ul>
+	        {% for startsemester in alle_startsemester %}
+	        
+				{% assign semester_id = "studiensemester-ws" %}
+				{% assign semester_name = "Wintersemester" %}        					
+				{% if startsemester == "ss" %}
+					{% assign semester_id = "studiensemester-ss" %}
+					{% assign semester_name = "Sommersemester" %}
+				{% endif %}
+				
+				<li class="tab-item" data-tab="{{startsemester}}-{{schwerpunkt.kuerzel}}"><a >Start im {{semester_name}}</a></li>
+				
+			{% endfor %}
+			</ul>
+		</div>
+		
+		<div class="content is-tab-wrap">	        
+	        {% for startsemester in alle_startsemester %}
+	        
+				{% assign semester_id = "studiensemester-ws" %}
+				{% assign semester_name = "Wintersemester" %}        					
+				{% if startsemester == "ss" %}
+					{% assign semester_id = "studiensemester-ss" %}
+					{% assign semester_name = "Sommersemester" %}
+				{% endif %}
+			
+			<h2 class="subtitle is-3 is-print">Start im {{semester_name}}</h2>
+			
+			<table class="table is-tab-content is-{{startsemester}}" id="{{startsemester}}-{{schwerpunkt.kuerzel}}">
+				<thead>
+					<tr>
+						<th width="5px"></th>
+						<th width="50%">Modulname</th>
+						<th>Kürzel</th>
+						<th>CP</th>
+						<th>Modulverantwortlicher</th>
+					</tr>
+				</thead>
+				{% for fachsemester in alle_fachsemester%}
+					{% assign value = fachsemester | modulo:2 %}
+
+					{% if startsemester == "ws" %}
+						{% assign aktuelles_semester = "Wintersemester" %}
+					{% else %}
+						{% assign aktuelles_semester = "Sommersemester" %}
+					{% endif %}
+					
+					{% if value == 0 %}
+						{% if startsemester == "ws" %}
+							{% assign aktuelles_semester = "Sommersemester" %}
+						{% else %}
+							{% assign aktuelles_semester = "Wintersemester" %}
+						{% endif %}
+					{% endif %}
+
+					<tr class="no-border">
+						<th colspan="4">{{fachsemester}}. Fachsemester ({{aktuelles_semester}})</th>
+					</tr>
+					{% assign sorted_pages = (pflichtmodule | where: semester_id,fachsemester) %}
+					{% for modulbeschreibung in sorted_pages %}
+					
+					
+					{% assign show = false %}
+					{% if modulbeschreibung.typ == "pm" %}{% assign show = true %}{% endif %}
+					{% if modulbeschreibung.typ == "spmw" %}{% assign show = true %}{% endif %}
+					{% if modulbeschreibung.typ == "spp" %}
+						{% if modulbeschreibung.schwerpunkt contains schwerpunkt.kuerzel %}
+						{% assign show = true %}
+						{% endif %}
+					{% endif %}
+					{% if show %}
+					{% assign cps = cps | plus: modulbeschreibung.kreditpunkte %}
+					{% assign modulverantwortlich = modulbeschreibung.modulverantwortlich %}
+					<tr>
+						{% assign kennung = modulbeschreibung.typ %}
+						{% if modulbeschreibung.title == "Wahlpflichtmodul" %}
+						{% assign kennung = "pm-grau" %}
+						{% endif %}
+						<td class="kennung {{kennung}}"></td>
+						<td>
+							{% if modulbeschreibung.typ == "spmw" %}
+							{{modulbeschreibung.title}}:
+							
+							{% for schwerpunktmodul in schwerpunktmodule %}
+								{% if schwerpunktmodul.parent == modulbeschreibung.kuerzel %}
+									{% if schwerpunktmodul.schwerpunkt contains schwerpunkt.kuerzel %}
+										{% assign modulverantwortlich = schwerpunktmodul.modulverantwortlich %}
+										{% assign is_shown = is_shown | push: schwerpunktmodul.kuerzel %} 
+										<a href="{{site.baseurl}}{{schwerpunktmodul.url}}">{{schwerpunktmodul.title}}</a>
+											{% if schwerpunktmodul.informatik-master %}
+											(InfMa: {{schwerpunktmodul.informatik-master}})
+											{% endif %}
+										<br>
+									{% endif %}
+								{% endif %}
+								
+							{% endfor %}
+							
+							{% else %}
+							{% assign is_shown = is_shown | push: modulbeschreibung.kuerzel %}
+							<a href="{{site.baseurl}}{{modulbeschreibung.url}}">{{modulbeschreibung.title}}</a>
+								{% if modulbeschreibung.informatik-master %}
+								(InfMa: {{modulbeschreibung.informatik-master}})
+								{% endif %}
+							{% endif %}
+						</td>
+						<td>{{modulbeschreibung.kuerzel}}</td>
+						<td>{{modulbeschreibung.kreditpunkte}}</td>
+						<td>
+							{% include /functions/resolve-names.html modulverantwortlich=modulverantwortlich %}
+							{{modulverantwortliche}}
+						</td>
+					</tr>
+					{% endif %}
+					{% endfor %}
+					
+					<tr class="lighten">
+						<td colspan="3" class="has-text-right">Summe CP</td>
+						<td colspan="3">{{cps}}</td>
+					</tr>
+					{% assign cps = 0 %}
+	  			{% endfor %}
+  			
+  			</table>
+  			{% endfor %}
+		</div>
+	</div>
+</section>
+
+<section class="section">
+	<div class="container">
+		<div class="content">
+	        <h2>Wahlmodule Wintersemester</h2>
+			<ol>
+			{% include /functions/show-wpfs.html module=schwerpunktmodule zielsemester="2" suffix="wird immer angeboten, weil Pflichtmodul in anderem Schwerpunkt" %}
+			{% include /functions/show-wpfs.html module=wahlpflichtmodule zielsemester="2" %}
+			</ol>
+		</div>
+		
+		<div class="content">
+	        <h2>Wahlmodule Sommersemester</h2>
+			<ol>
+			{% include /functions/show-wpfs.html module=schwerpunktmodule zielsemester="1" suffix="wird immer angeboten, weil Pflichtmodul in anderem Schwerpunkt" %}
+			{% include /functions/show-wpfs.html module=wahlpflichtmodule zielsemester="1" %}
+			</ol>
+		</div>
+	</div>
+</section>

@@ -1,0 +1,21 @@
+{% assign doc = include.doc %}
+{% assign status = "is-info" %}
+
+{% assign check = doc.aktueller-bearbeiter | strip_newlines %}
+{% if check != ""  %}
+<div class="notification is-danger doc-status">
+	<span class="is-less-important">Derzeit bearbeitet von</span> {{doc.aktueller-bearbeiter}} <br>
+</div>
+{% endif %}
+
+{% if doc.status == "fertig"  %}
+{% assign status = "is-success" %}
+{% endif %}
+
+<div class="notification {{status}} doc-status">
+	<span class="is-less-important">Bearbeiterhistorie:</span> {{doc.bearbeiterhistorie}} <br>
+	<span class="is-less-important">Datum der letzten Bearbeitung:</span> {{doc.date | date_to_string }} <br>
+	<span class="is-less-important">Kommentar:</span> {{doc.comment}} <br>
+	<span class="is-less-important">Status:</span> {{doc.status}} <br>
+	<span class="is-less-important">Peer Reviewed von:</span> {{doc.reviewed-von}} <br>
+</div>

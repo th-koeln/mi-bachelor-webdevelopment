@@ -1,0 +1,67 @@
+moe:
+  name: Prof. Dr. Monika Engelen
+
+pb:
+  name: Paul Bagiu
+cn:
+  name: Prof. Christian Noss
+  
+kf:
+  name: Prof. Dr. Kristian Fischer
+  
+ck:
+  name: Prof. Dr. Christian Kohls
+  
+gh:
+  name: Prof. Dr. Gerhard Hartmann
+  
+hk:
+  name: Prof. Hans Kornacher
+  
+mw:
+  name: Prof. Dr. Mario Winter
+  
+me:
+  name: Prof. Dr. Martin Eisemann
+  
+fv:
+  name: Prof. Dr. Frank Victor
+  
+lk:
+  name: Prof. Dr. Lutz Köhler
+  
+mb:
+  name: Prof. Dr. Matthias Böhmer
+  
+ab:
+  name: Prof. Dr. Arno Bitzer
+  
+bb:
+  name: Prof. Dr. Birgit Bertelsmeier
+  
+hfw:
+  name: Prof. Dr. Heide Faeskorn-Woyke
+  
+sk:
+  name: Prof. Dr. Stefan Karsch
+
+hls:
+  name: Prof. Dr. Hans L. Stahl
+  
+wk:
+  name: Prof. Dr. Wolfgang Konen
+  
+hg:
+  name: Prof. Dr. Holger Günther
+  
+db:
+  name: Dipl.-Inform. (FH) Dennis Buderus
+  
+bn: 
+  name: Prof. Dr. Boris Naujoks
+
+mi:
+  name: Prof. Dr. Martin Eisemann, Prof. Dr. Kristian Fischer, Prof. Dr. Gerhard Hartmann, Prof. Dr. Christian Kohls, Prof. Hans Kornacher, Prof. Christian Noss, Prof. Dr. Mario Winter
+  
+all:
+  name: alle Informatik Professoren

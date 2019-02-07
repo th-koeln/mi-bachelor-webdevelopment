@@ -1,0 +1,22 @@
+{
+	"srcPath": "../../_selbstbericht/auflagen",
+	
+	"rootDir": "/mi-2017",
+	
+	"placeholder": {
+		"title": "Erläuterung zur Auflagenerfüllung zum Akkreditierungsbericht der Gutachter"
+	},
+
+	"postprocessLatex": {
+		"replace": [
+			[ "/\\\\section/"       , "\\\\chapter" ],
+        	[ "/\\\\subsection/"    , "\\\\section" ],
+        	[ "/\\\\subsubsection/" , "\\\\subsection" ],
+
+        	[ "/{0.07\\\\columnwidth}/" , "{0.5\\\\columnwidth}" ],
+        	[ "/{0.06\\\\columnwidth}/" , "{0.33\\\\columnwidth}" ],
+
+        	[ "/includegraphics/" , "includegraphics[width=\\\\textwidth]" ]
+		]
+	}
+}

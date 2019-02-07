@@ -1,0 +1,281 @@
+%styles
+%Da Latex für englischsprachige Texte ausgerichtet ist,
+%wird als Dokumentenklasse das "`scrbook"' von Markus Kohm verwendet.
+%Dieses ist für deutschsprachige Texte ausgelegt.
+%BCOR12mm: 12mm Bindekorrektur (Verbreiterung des linken Randes)
+%DIV11: entspricht in etwas der geforderten Textgröße und Seitenränder
+%titlepage: eine Titelseite wird verwendet
+%a4paper: DIN A4
+%oneside: für eine spätere einseitige Bedruckung
+\documentclass[BCOR12mm,DIV11,titlepage,a4paper,oneside,10pt]{scrbook}
+
+
+% Farben definieren
+\usepackage{color}
+\usepackage[html]{xcolor}
+\definecolor{m_green}{HTML}{00AD2F}
+%\definecolor{m_pink}{HTML}{D40B6F}
+\definecolor{m_pink}{HTML}{dd1166}
+\definecolor{m_grey}{HTML}{555555}
+\definecolor{m_lila}{HTML}{9313ce}
+\definecolor{m_blau}{HTML}{4952e1}
+
+% Paket Positionierung von Grafiken
+\usepackage[export]{adjustbox}
+
+%Paket für deutsche Silbentrennung etc.
+\usepackage{ngerman}
+
+%Paket für Zeichenkodierung, entspricht UTF-8
+\usepackage[utf8x]{inputenc}
+
+\usepackage{tocloft}
+\newcommand{\listfootnotesname}{Fußnoten}% 'Fußnoten' title
+\newlistof{footnotes}{fnt}{\listfootnotesname}% New 'List of...' for footnotes
+\let\oldfootnote\footnote % Save the old \footnote{...} command
+\renewcommand\footnote[1]{% Redefine the new footnote to also add 'List of Footnote' entries.
+    \refstepcounter{footnotes}% Add and step a reference to the footnote/counter.
+    \oldfootnote{#1}% Make a regular footnote.
+    \addcontentsline{fnt}{footnotes}{\protect\numberline{\thefootnotes}#1}% Add the 'List of...' entry.
+}
+
+\newcommand{\listattachmentsname}{Anhang}% 'Anhang' title
+\newlistof{attachments}{att}{\listattachmentsname}% New 'List of...' for attachments
+
+%Paket das die Ausgabefonts definiert
+\usepackage[T1]{fontenc}
+
+%Paket für das Einbinden von Grafiken über die figure-Umgebung
+\usepackage{graphicx}
+\usepackage{grffile}
+
+\usepackage{float}
+
+\usepackage{mdframed}
+\newmdenv[
+  topline=false,
+  bottomline=false,
+  rightline=false,
+  linewidth=2pt,
+  linecolor=m_pink,
+  innertopmargin=14pt,
+  innerbottommargin=14pt,
+  backgroundcolor=black!5,
+  skipabove=\topsep,
+  skipbelow=\topsep
+]{siderules}
+
+%Paket für mehrseitige Tabellen
+\usepackage{longtable}
+\setlength\LTleft{0pt}
+\setlength\LTright{0pt}
+
+\usepackage{booktabs}
+
+%Paket zum \UTF{0192}ndern der Kopf- und Fußzeile
+\usepackage{fancyhdr}
+
+%Benutzt das Paket für eigenen Seitenstil
+\pagestyle{fancy}
+
+%Erzeugt eine Linie in der Kopfzeile (lässt sich mit 0.0pt ausblenden)
+\renewcommand*{\headrulewidth}{0.1pt}
+\renewcommand{\headrule}{\hbox to\headwidth{%
+  \color{m_pink}\leaders\hrule height \headrulewidth\hfill}}
+\lhead{} %Kopfzeile links
+
+%\chead{\thepage} %Kopfzeile mitte
+\chead{\includegraphics[height=20pt]{../assets/box.pdf}}
+\rhead{} %Kopfzeile rechts
+\lfoot{} %Fußzeile links
+\cfoot{} %Fußzeile mitte
+\rfoot{} %Fußzeile rechts
+\makeatother
+
+
+\newcommand{\changefont}{%
+    \fontsize{9}{11}\selectfont
+}
+
+
+\setlength\headheight{60pt}
+\setlength\footheight{40pt}
+%\lfoot{\includegraphics[height=40pt]{../assets/box.pdf}}
+\rfoot{\thepage}
+\lfoot{\changefont Stellungnahme zum Akkreditierungsbericht der Gutachter\\TH Köln // Institut für Informatik\\ \today}
+
+
+%\UTF{0192}ndert die Seitennummerierung beim Inhaltsverzeichnis mit eigenem Stil
+\renewcommand*{\indexpagestyle}{fancy}
+%Verhindert die Seitennummerierung auf den Part-Seiten
+\renewcommand*{\partpagestyle}{empty}
+%\UTF{0192}ndert die Seitennummerierung bei Chapter mit eigenem Stil
+\renewcommand*{\chapterpagestyle}{fancy}
+
+%Abbildungsnummerierung ändern (abhängig von chapter, z.B. Abbildung 1.1)
+\renewcommand*{\thefigure}{\thechapter.\arabic{figure}}
+%Tabellennummerierung ändern (abhängig von chapter, z.B. Tabelle 1.1)
+\renewcommand*{\thetable}{\thechapter.\arabic{table}}
+
+%Paket, um ein Glossar/Abkürzungsverzeichnis anzulegen
+\usepackage{nomencl}
+\let\abbrev\nomenclature
+%Der Name wird in Glossar geändert
+\renewcommand{\nomname}{Glossar}
+%Definiert die Aufteilung im Glossar zwischen Begriffen und Erläuterung
+\setlength{\nomlabelwidth}{.25\hsize}
+%Definiert die Punktelinien im Glossar
+\renewcommand{\nomlabel}[1]{#1 \dotfill}
+\setlength{\nomitemsep}{-\parsep}
+%Veranlasst die Erstellung des Glossars
+\makenomenclature
+
+%Einrückungen nach Absätzen und Grafiken verhindern
+\setlength{\parindent}{0pt}
+
+%Verhindern, dass eine neue Seite für ein einzelnes Wort/Zeile verwendet wird
+\clubpenalty = 10000 % schliesst Schusterjungen aus
+\widowpenalty = 10000 % schliesst Hurenkinder aus (keine Beleidigung, sondern wirklich ein Fachbegriff)
+
+%Paket für ein deutsches Literaturverzeichnis
+\usepackage{bibgerm}
+
+%Paket für die Verwendung von URLs durch den Befehl \url{}
+%\usepackage{url}
+\usepackage[hyphens]{url}
+
+%Paket für Zeilenabstand (onehalfspace, singlespace)
+\usepackage{setspace}
+
+%Paket zur Erzeugung von Anführungszeichen durch \enquote{Text}
+\usepackage[ngerman]{babel}
+\usepackage[babel, german=quotes]{csquotes}
+
+%Paket für farbigen Text
+%black,white,green,red,blue,yellow,cyan,magenta
+\usepackage{color}
+
+%Paket für farbigen Hintergrund für Verbatim-Umgebung (Quelltext-Umgebung)
+\usepackage{fancyvrb}
+\usepackage{verbatim,moreverb}
+%Grauton für Quelltext-Umgebung definieren 80% Grau
+\definecolor{sourcegray}{gray}{.80}
+%Paket für Quelltext-Umgebung
+\usepackage{listings}
+
+%Paket für Positionierung der Objekte ohne Float (Verwendungsbsp.: \begin{figure}[H])
+\usepackage{float}
+
+%Paket zur Erzeugung von Hyperrefs und PDF Informationen
+\usepackage[pdftex,plainpages=false,pdfpagelabels,
+            pdftitle={ Stellungnahme zum Akkreditierungsbericht der Gutachter // TH Köln // Institut für Informatik},
+            pdfauthor={}
+            ]{hyperref}
+
+\usepackage{pdfpages}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+\usepackage{tabularx}
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
+\newcolumntype{C}[1]{>{\centering\arraybackslash}p{#1}}
+\newcolumntype{R}[1]{>{\raggedleft\arraybackslash}p{#1}}
+
+% URL
+\PassOptionsToPackage{hyphens}{url}
+\usepackage[pdftex]{hyperref}
+
+% Sonderzeichen
+\usepackage{textcomp}
+\usepackage{eurosym}
+
+\usepackage{setspace}
+\renewcommand{\baselinestretch}{1.2}
+\setlength{\parskip}{1em}
+
+\usepackage[sfdefault,light]{roboto}  %% Option 'sfdefault' only if the base font of the document is to be sans serif
+
+
+\usepackage[raggedright]{titlesec}
+\titleformat{\chapter}[display]
+  {\normalfont\sffamily\mdseries}
+  {}{14pt}{\huge\raggedright}
+% {\chaptertitlename\ \thechapter}{14pt}{\huge\raggedright}
+\titleformat{\section}
+  {\singlespacing\normalfont\sffamily\mdseries\Large\color{m_pink}\raggedright}
+  {\thesection}{1em}{\Large}
+\titleformat{\subsection}
+  {\singlespacing\normalfont\sffamily\mdseries\large\raggedright}
+  {\thesubsection}{1em}{\large}
+% Zeilenumbruch und Spacing für Absätze
+\titleformat{\paragraph}[hang]
+  {\singlespacing\normalfont\normalsize\bfseries}
+  {\theparagraph}{1em}{}
+\titlespacing*{\paragraph}{0pt}{3.25ex plus 1ex minus .2ex}{0.5em}
+
+
+\usepackage[font=footnotesize]{caption}
+
+
+% Footer definieren
+\makeatletter
+\def\footrule{{
+  \vskip-\footruleskip\vskip-\footrulewidth
+  \color{\footrulecolor}
+  \hrule\@width\headwidth\@height
+  \footrulewidth\vskip\footruleskip
+}}
+\makeatother
+\renewcommand{\footrulewidth}{0.1pt}
+\newcommand{\footrulecolor}{m_green}
+
+
+
+\begin{document}
+
+%=== Deckblatt =======================================================
+\include{coversheet}
+
+%=== Inhaltsverzeichnis ==============================================
+\tableofcontents
+
+%=== Hauptteil =======================================================
+%Seitennummerierung des Hauptteils
+\mainmatter
+
+
+\include{content}
+
+\begin{sloppypar}
+\begin{flushleft}
+
+\listoffootnotes
+
+\end{flushleft}
+\end{sloppypar}
+
+
+\newpage
+
+\listofattachments
+
+\begin{sloppypar}
+\begin{flushleft}
+
+\begin{enumerate}
+\item{Übersicht über alle Mitarbeiter und deren Einbindung in die Kernmodule des Medieninformatik Bachelor Studiengangs am Campus Gummersbach: \url{https://th-koeln.github.io/mi-2017/anhaenge/stellungsnahme/mitarbeiter-und-module-mi-kern-2017.pdf} } 
+\item{Übersicht über alle Dozenten und deren Module in den Informatik Studiengängen des Campus Gummersbach: \url{https://th-koeln.github.io/mi-2017/anhaenge/stellungsnahme/dozenten-und-module-2017.pdf} } 
+\item{Zeugnismuster für die neue Studiengangsstruktur: \url{https://th-koeln.github.io/mi-2017/anhaenge/stellungsnahme/Urkunde\_Zeugnis\_Entwurf\_black.pdf} } 
+
+\end{enumerate}
+
+\end{flushleft}
+\end{sloppypar}
+
+%=== Schlussteil =====================================================
+%%Seitennummerierung für den Anhang
+\backmatter
+
+
+\end{document}

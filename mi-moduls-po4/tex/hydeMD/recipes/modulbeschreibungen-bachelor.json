@@ -1,0 +1,19 @@
+{
+	"srcPath": "../../_modulbeschreibungen-bachelor",
+	
+		"rootDir": "/mi-2017",
+
+	"placeholder": {
+		"title": "Modulhandbuch Medieninformatik Bachelor"
+	},
+
+	"postprocessLatex": {
+		"replace": [
+			[ "/\\\\section/"       , "\\\\chapter" ],
+        	[ "/\\\\subsection/"    , "\\\\section*" ],
+        	[ "/\\\\subsubsection/" , "\\\\subsection*" ],
+        	
+        	[ "/includegraphics/" , "includegraphics[width=\\\\columnwidth]" ]
+		]
+	}
+}
