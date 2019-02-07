@@ -11,7 +11,9 @@ kreditpunkte: 5
 voraussetzungen-nach-pruefungsordnung: keine
 empfohlene-voraussetzungen: Einführung in die Medieninformatik, Grundlagen der BWL
 published: true
-type: pm
+layout: modulbeschreibung
+
+typ: pm
 ---
 
 ## Lehrform/SWS

@@ -1,7 +1,9 @@
 ---
 title: Social Computing
 verantwortlich: ck
-type: sp
+layout: modulbeschreibung
+
+typ: sp
 kuerzel: sc
 
 ---

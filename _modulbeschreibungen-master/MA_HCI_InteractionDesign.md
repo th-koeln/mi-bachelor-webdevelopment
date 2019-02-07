@@ -11,7 +11,9 @@ kreditpunkte: 6
 voraussetzungen-nach-pruefungsordnung: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden
 empfohlene-voraussetzungen: Basismodul Mensch-Computer Interaktion, so wie durch die GI e.V. publiziert
 published: true
-type: spm
+layout: modulbeschreibung
+
+typ: spm
 parent: SPM2
 schwerpunkt: hci, mpd
 ---

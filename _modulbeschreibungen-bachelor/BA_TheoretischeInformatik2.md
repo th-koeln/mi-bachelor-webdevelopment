@@ -11,7 +11,9 @@ kreditpunkte: 5
 voraussetzungen-nach-pruefungsordnung: keine
 empfohlene-voraussetzungen: Einfache Kenntnisse der naiven Mengenlehre, wie sie in der Schule vermittelt und bei der mathematischen Begriffsbildung verwendet werden.
 published: true
-type: pm
+layout: modulbeschreibung
+
+typ: pm
 resources: true
 tutor:
   anzahl: 0 (wäre aber wünschenswert)

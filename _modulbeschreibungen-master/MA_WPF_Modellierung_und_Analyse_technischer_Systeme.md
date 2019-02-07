@@ -9,7 +9,9 @@ kreditpunkte: 6
 voraussetzungen-nach-pruefungsordnung: keine über die Zulassungsvoraussetzungen zum Studium hinausgehenden
 empfohlene-voraussetzungen: Kenntnisse in UML
 published: true
-type: wpm
+layout: modulbeschreibung
+
+typ: wpm
 parent: 
 schwerpunkt: mpd
 ---

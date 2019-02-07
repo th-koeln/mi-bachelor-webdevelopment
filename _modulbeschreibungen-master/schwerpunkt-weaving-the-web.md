@@ -1,7 +1,9 @@
 ---
 title: Weaving the Web
 verantwortlich: kf
-type: sp
+layout: modulbeschreibung
+
+typ: sp
 kuerzel: wtw
 ---
 

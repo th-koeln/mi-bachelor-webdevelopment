@@ -10,7 +10,9 @@ kreditpunkte: 6
 voraussetzungen-nach-pruefungsordnung: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden
 empfohlene-voraussetzungen: Web Architekturen (Bachelor) bzw. Kenntnisse in HTML
 published: true
-type: spm
+layout: modulbeschreibung
+
+typ: spm
 parent: SPM3
 resources: true
 wma:

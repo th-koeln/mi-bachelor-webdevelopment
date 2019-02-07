@@ -11,7 +11,9 @@ kreditpunkte: 5
 voraussetzungen-nach-pruefungsordnung: keine
 empfohlene-voraussetzungen: Einführung in die Medieninformatik, Algorithmen und Programmierung I, Algorithmen und Programmierung II
 published: true
-type: pm
+layout: modulbeschreibung
+
+typ: pm
 ---
 
 ## Lehrform/SWS

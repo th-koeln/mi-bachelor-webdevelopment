@@ -1,7 +1,9 @@
 ---
 title: Einführung
 verantwortlich: mi
-type: intro
+layout: modulbeschreibung
+
+typ: intro
 kuerzel: intro-master-schwerpunkte
 ---
 

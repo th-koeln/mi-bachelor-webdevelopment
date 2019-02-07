@@ -11,7 +11,9 @@ kreditpunkte: 20
 voraussetzungen-nach-pruefungsordnung: keine
 empfohlene-voraussetzungen: Einführung in die Medieninformatik, Algorithmen und Programmierung, Paradigmen der Programmierung, Mensch-Computer Interaktion, Screendesign, Audiovisuelles Medienprojekt
 published: true
-type: vpm
+layout: modulbeschreibung
+
+typ: vpm
 resources: true
 tutor:
   anzahl: 1

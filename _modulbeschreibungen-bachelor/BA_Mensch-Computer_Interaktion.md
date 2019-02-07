@@ -11,7 +11,9 @@ kreditpunkte: 10
 voraussetzungen-nach-pruefungsordnung: keine
 empfohlene-voraussetzungen: Einführung in die Medieninformatik
 published: true
-type: pm
+layout: modulbeschreibung
+
+typ: pm
 resources: true
 tutor:
   anzahl: 0

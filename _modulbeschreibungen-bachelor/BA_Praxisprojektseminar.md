@@ -12,7 +12,9 @@ kreditpunkte: 5
 voraussetzungen-nach-pruefungsordnung: erreichte 140 Leistungspunkte
 empfohlene-voraussetzungen: 
 published: true
-type: pm
+layout: modulbeschreibung
+
+typ: pm
 resources: true
 wma:
   anzahl: 1

@@ -11,7 +11,9 @@ kreditpunkte: 5
 voraussetzungen-nach-pruefungsordnung: Klausurteilnahme nur bei bestandenem DBS1‐Praktikum
 empfohlene-voraussetzungen: 
 published: true
-type: pm
+layout: modulbeschreibung
+
+typ: pm
 ---
 
 ## Lehrform/SWS

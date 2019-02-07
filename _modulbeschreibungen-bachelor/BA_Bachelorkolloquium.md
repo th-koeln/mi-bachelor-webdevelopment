@@ -11,7 +11,9 @@ kreditpunkte: 3
 voraussetzungen-nach-pruefungsordnung: alle Modulprüfungen außer Bachelor Kolloquium bestanden
 empfohlene-voraussetzungen: 
 published: true
-type: pm
+layout: modulbeschreibung
+
+typ: pm
 ---
 
 ## Lehrform/SWS

@@ -1,7 +1,9 @@
 ---
 title: Multiperspective Product Development
 verantwortlich: mw
-type: sp
+layout: modulbeschreibung
+
+typ: sp
 kuerzel: mpd
 ---
 

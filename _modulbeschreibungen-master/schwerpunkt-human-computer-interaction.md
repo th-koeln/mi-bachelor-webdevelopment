@@ -1,7 +1,9 @@
 ---
 title: Human-Computer Interaction
 verantwortlich: gh
-type: sp
+layout: modulbeschreibung
+
+typ: sp
 kuerzel: hci
 
 ---

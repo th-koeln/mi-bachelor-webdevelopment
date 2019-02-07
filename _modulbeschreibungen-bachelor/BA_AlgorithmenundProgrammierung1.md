@@ -11,7 +11,9 @@ kreditpunkte: 8
 voraussetzungen-nach-pruefungsordnung: keine
 empfohlene-voraussetzungen: 
 published: true
-type: pm
+layout: modulbeschreibung
+
+typ: pm
 resources: true
 tutor:
   anzahl: 1

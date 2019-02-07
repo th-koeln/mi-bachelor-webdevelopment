@@ -1,7 +1,9 @@
 ---
 title: Visual Computing
 verantwortlich: hk, me
-type: sp
+layout: modulbeschreibung
+
+typ: sp
 kuerzel: vc
 
 ---

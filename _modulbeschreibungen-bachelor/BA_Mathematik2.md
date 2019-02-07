@@ -11,7 +11,9 @@ kreditpunkte: 8
 voraussetzungen-nach-pruefungsordnung: keine
 empfohlene-voraussetzungen: Mathematik I
 published: true
-type: pm
+layout: modulbeschreibung
+
+typ: pm
 ---
 
 ## Lehrform/SWS

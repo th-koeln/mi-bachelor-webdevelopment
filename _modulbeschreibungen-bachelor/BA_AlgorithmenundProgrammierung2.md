@@ -11,7 +11,9 @@ kreditpunkte: 7
 voraussetzungen-nach-pruefungsordnung: keine
 empfohlene-voraussetzungen: Algorithmen und Programmierung 1
 published: true
-type: pm
+layout: modulbeschreibung
+
+typ: pm
 resources: true
 tutor:
   anzahl: 1

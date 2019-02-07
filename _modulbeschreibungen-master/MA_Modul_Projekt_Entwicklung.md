@@ -10,7 +10,9 @@ kreditpunkte: 12
 voraussetzungen-nach-pruefungsordnung: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden
 empfohlene-voraussetzungen: Algorithmen und Programmierung I und II (Bachelor), Softwaretechnik (Bachelor)
 published: true
-type: spp
+layout: modulbeschreibung
+
+typ: spp
 parent:
 resources: true
 wma:

@@ -4,13 +4,13 @@
 {% assign count_schwerpunkte = 0 %}
 {% assign cps = 0 %}
 
-{% assign schwerpunkte = (site.modulbeschreibungen-master | where:"type","sp" | sort: "title") %}
-{% assign pflichtmodule = (site.modulbeschreibungen-master | where:"type","pm" | where_exp: "item", "item.zielmedium != 'print'" ) %}
-{% assign teilmodule = (site.modulbeschreibungen-master | where:"type","tm") %}
-{% assign wahlpflichtmodule = (site.modulbeschreibungen-master | where:"type","wpm") %}
-{% assign schwerpunktmodule = (site.modulbeschreibungen-master | where:"type","spm") %} 
-{% assign schwerpunktmodulwraps = (site.modulbeschreibungen-master | where:"type","spmw") %} 
-{% assign schwerpunktprojekte = (site.modulbeschreibungen-master | where:"type","spp") %}
+{% assign schwerpunkte = (site.modulbeschreibungen-master | where:"typ","sp" | sort: "title") %}
+{% assign pflichtmodule = (site.modulbeschreibungen-master | where:"typ","pm" | where_exp: "item", "item.zielmedium != 'print'" ) %}
+{% assign teilmodule = (site.modulbeschreibungen-master | where:"typ","tm") %}
+{% assign wahlpflichtmodule = (site.modulbeschreibungen-master | where:"typ","wpm") %}
+{% assign schwerpunktmodule = (site.modulbeschreibungen-master | where:"typ","spm") %} 
+{% assign schwerpunktmodulwraps = (site.modulbeschreibungen-master | where:"typ","spmw") %} 
+{% assign schwerpunktprojekte = (site.modulbeschreibungen-master | where:"typ","spp") %}
 
 {% assign wahlpflichtmodule = (wahlpflichtmodule | where: "zielmedium","web" | sort: 'title') %}
 {% assign schwerpunktmodule = (schwerpunktmodule | sort: 'title') %}
@@ -103,9 +103,9 @@
 					
 					
 					{% assign show = false %}
-					{% if modulbeschreibung.type == "pm" %}{% assign show = true %}{% endif %}
-					{% if modulbeschreibung.type == "spmw" %}{% assign show = true %}{% endif %}
-					{% if modulbeschreibung.type == "spp" %}
+					{% if modulbeschreibung.typ == "pm" %}{% assign show = true %}{% endif %}
+					{% if modulbeschreibung.typ == "spmw" %}{% assign show = true %}{% endif %}
+					{% if modulbeschreibung.typ == "spp" %}
 						{% if modulbeschreibung.schwerpunkt contains schwerpunkt.kuerzel %}
 						{% assign show = true %}
 						{% endif %}
@@ -114,13 +114,13 @@
 					{% assign cps = cps | plus: modulbeschreibung.kreditpunkte %}
 					{% assign modulverantwortlich = modulbeschreibung.modulverantwortlich %}
 					<tr>
-						{% assign kennung = modulbeschreibung.type %}
+						{% assign kennung = modulbeschreibung.typ %}
 						{% if modulbeschreibung.title == "Wahlpflichtmodul" %}
 						{% assign kennung = "pm-grau" %}
 						{% endif %}
 						<td class="kennung {{kennung}}"></td>
 						<td>
-							{% if modulbeschreibung.type == "spmw" %}
+							{% if modulbeschreibung.typ == "spmw" %}
 							{{modulbeschreibung.title}}:
 							
 							{% for schwerpunktmodul in schwerpunktmodule %}

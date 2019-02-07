@@ -11,7 +11,9 @@ kreditpunkte: 10
 voraussetzungen-nach-pruefungsordnung: erreichte 140 Leistungspunkte (CP)
 empfohlene-voraussetzungen: 
 published: true
-type: pm
+layout: modulbeschreibung
+
+typ: pm
 ---
 
 ## Lehrform/SWS

@@ -5,10 +5,10 @@ layout: default
 {% assign alle_fachsemester = "1,2,3,4,5,6" | split: "," %}
 {% assign cps = 0 %}
 
-{% assign pflichtmodule = (site.modulbeschreibungen-bachelor | where:"type","pm") %}
-{% assign teilmodule = (site.modulbeschreibungen-bachelor | where:"type","tm") %}
-{% assign wahlpflichtmodule = (site.modulbeschreibungen-bachelor | where:"type","wpm") %}
-{% assign vertiefungsmodule = (site.modulbeschreibungen-bachelor | where:"type","vpm") %} 
+{% assign pflichtmodule = (site.modulbeschreibungen-bachelor | where:"typ","pm") %}
+{% assign teilmodule = (site.modulbeschreibungen-bachelor | where:"typ","tm") %}
+{% assign wahlpflichtmodule = (site.modulbeschreibungen-bachelor | where:"typ","wpm") %}
+{% assign vertiefungsmodule = (site.modulbeschreibungen-bachelor | where:"typ","vpm") %} 
 
 {% assign sorted_teilmodule = (teilmodule | sort: 'title') %}
 

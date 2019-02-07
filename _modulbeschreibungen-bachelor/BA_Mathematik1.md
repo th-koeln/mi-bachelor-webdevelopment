@@ -10,7 +10,9 @@ sprache: deutsch
 voraussetzungen-nach-pruefungsordnung: keine
 empfohlene-voraussetzungen: 
 kreditpunkte: 7
-type: pm
+layout: modulbeschreibung
+
+typ: pm
 ---
 
 ## Lehrform/SWS

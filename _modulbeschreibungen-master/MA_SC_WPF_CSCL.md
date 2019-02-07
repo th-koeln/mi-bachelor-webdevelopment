@@ -10,7 +10,9 @@ kreditpunkte: 6
 voraussetzungen-nach-pruefungsordnung: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden
 empfohlene-voraussetzungen: keine
 published: true
-type: wpm
+layout: modulbeschreibung
+
+typ: wpm
 parent: WPM
 ---
 

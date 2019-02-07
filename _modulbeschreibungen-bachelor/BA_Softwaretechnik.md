@@ -11,7 +11,9 @@ kreditpunkte: 5
 voraussetzungen-nach-pruefungsordnung: keine
 empfohlene-voraussetzungen: Grundkenntnisse Algorithmen, Datenbanken und objektorientierte Programmierung
 published: true
-type: pm
+layout: modulbeschreibung
+
+typ: pm
 ---
 
 ## Kurzbeschreibung

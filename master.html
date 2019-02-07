@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% assign schwerpunkte = (site.modulbeschreibungen-master | where:"type","sp" | sort: "title") %}
+{% assign schwerpunkte = (site.modulbeschreibungen-master | where:"typ","sp" | sort: "title") %}
 {% assign schwerpunkte = (schwerpunkte | sort: 'title') %}
 
 {% assign intro = (site.modulbeschreibungen-master | where:"kuerzel","intro-master-schwerpunkte" | first) %}
@@ -49,10 +49,10 @@ layout: default
 {% assign alle_fachsemester = "1,2,3,4" | split: "," %}
 {% assign alle_startsemester = "ws,ss" | split: "," %}
 
-{% assign pflichtmodule = (site.modulbeschreibungen-master | where:"type","pm") %}
-{% assign wahlpflichtmodule = (site.modulbeschreibungen-master | where:"type","wpm") %}
-{% assign schwerpunktmodule = (site.modulbeschreibungen-master | where:"type","spm") %} 
-{% assign schwerpunktprojekte = (site.modulbeschreibungen-master | where:"type","spp") %}
+{% assign pflichtmodule = (site.modulbeschreibungen-master | where:"typ","pm") %}
+{% assign wahlpflichtmodule = (site.modulbeschreibungen-master | where:"typ","wpm") %}
+{% assign schwerpunktmodule = (site.modulbeschreibungen-master | where:"typ","spm") %} 
+{% assign schwerpunktprojekte = (site.modulbeschreibungen-master | where:"typ","spp") %}
 
 {% assign module = pflichtmodule %}
 
@@ -113,7 +113,7 @@ layout: default
 				<tbody>
 				{% for modul in module_ws %}
 					<tr>
-						{% assign kennung = modul.type %}
+						{% assign kennung = modul.typ %}
 						{% if modul.title == "Wahlpflichtmodul" %}
 						{% assign kennung = "pm-grau" %}
 						{% endif %}
@@ -143,7 +143,7 @@ layout: default
 				<tbody>
 				{% for modul in module_ss %}
 					<tr>
-						{% assign kennung = modul.type %}
+						{% assign kennung = modul.typ %}
 						{% if modul.title == "Wahlpflichtmodul" %}
 						{% assign kennung = "pm-grau" %}
 						{% endif %}

@@ -10,7 +10,9 @@ voraussetzungen-nach-pruefungsordnung: keine über die Zulassungsvorrausetzungen
 empfohlene-voraussetzungen: keine
 published: true
 zielmedium: print
-type: pm
+layout: modulbeschreibung
+
+typ: pm
 ---
 
 ## Kurzbeschreibung

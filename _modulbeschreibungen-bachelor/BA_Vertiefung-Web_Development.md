@@ -11,7 +11,9 @@ kreditpunkte: 20
 voraussetzungen-nach-pruefungsordnung: keine
 empfohlene-voraussetzungen: Einführung in die Medieninformatik, Grundlagen des Web, Algorithmen und Programmierung, Paradigmen der Programmierung, MCI, Screendesign, Betriebssysteme und verteilte Systeme
 published: true
-type: vpm
+layout: modulbeschreibung
+
+typ: vpm
 ressources: true
 tutor:
   anzahl: 1
