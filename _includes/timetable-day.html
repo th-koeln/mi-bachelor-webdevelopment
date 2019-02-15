@@ -15,7 +15,7 @@
 {% assign overlap-8 = 0 %}
 {% assign overlap-9 = 0 %}
 
-<!--div class="column"-->
+<div class="column">
 <h3 class="datum is-3 title">{{day.name}}, {{day.datum | date: '%d. %B %Y' | replace:"January","Januar" |
   replace:"February","Februar" | replace:"March","März" | replace:"May","Mai" | replace:"June","Juni" |
   replace:"July","Juli" | replace:"December","Dezember" | replace:"October","Oktober" }}</h3>
@@ -77,13 +77,16 @@
       <div class="column">
         {% include /functions/resolve-types.html typ=veranstaltung.typ %}
         <a href="{{site.baseurl}}{{veranstaltung.url}}">
-          <div class="veranstaltung {{veranstaltung.typ}}" style="margin-top: {{termin-start-min}}px;  height: {{veranstaltung.dauer}}px">
+          <div class="veranstaltung {{veranstaltung.typ}}" style="{{typ-farbe}} margin-top: {{termin-start-min}}px;  height: {{veranstaltung.dauer}}px">
             {% assign verantwortlich = veranstaltung.verantwortlich %}
             {% if dozent != "" and dozent != nil %}
             {% assign verantwortlich = dozent %}
             {% endif %}
             {% include /functions/resolve-names.html verantwortlich=verantwortlich %}
-            <p class="title"><span class="is-hidden-tablet">{{termin | date: '%d. %B %Y, %H:%M Uhr'}}: </span>{{typ-name}}:
+            <p class="title"><span class="is-hidden-tablet">{{termin | date: '%d. %B %Y, %H:%M Uhr'}}: </span>
+              {% if typ-name != "none" %}
+              {{typ-name}}:
+              {% endif %}
               {{veranstaltung.titel}}</p>
 
             {% if (veranstaltung.raum | append: "") != "" %}
@@ -93,8 +96,6 @@
             {% if raum.size > 1 %}
             {% assign raumnummer = raum | append: "" %}
             {% endif %}
-
-
 
             {% assign check = typ-max-teilnehmer | strip_newlines %}
             {% if check != "" %}
@@ -133,4 +134,4 @@
   {% endfor %}
 
 </div>
-<!--/div-->
+</div>

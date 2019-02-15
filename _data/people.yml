@@ -13,4 +13,19 @@ alle:
 js:
   name: Julian Schoemaker
   email: julian.schoemaker@smail.th-koeln.de
+sk:
+  name: Stefan Karsch
+  email: stefan.karsch@th-koeln.de
+mb:
+  name: Matthias Böhmer
+  email: matthias.boehmer@th-koeln.de
+kf:
+  name: Kristian Fischer
+  email: kristian.fischer@th-koeln.de
+sl:
+  name: Sascha Lemke
+  email: sascha.lemke@th-koeln.de
+db:
+  name: Dirk Breuer
+  email: mail@breuer.io  
 

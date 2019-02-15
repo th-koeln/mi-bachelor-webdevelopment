@@ -3,3 +3,8 @@
 
 {% assign typ-name = site.data.typen[typ_clean].name %}
 {% assign typ-max-teilnehmer = site.data.typen[typ_clean].max-teilnehmer %}
+{% assign typ-farbe = site.data.typen[typ_clean].farbe %}
+
+{% if typ-farbe != "" %}
+{% assign typ-farbe = "background-color: #" | append: typ-farbe | append: "; " %}
+{% endif %}

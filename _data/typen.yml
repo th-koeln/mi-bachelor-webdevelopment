@@ -1,10 +1,32 @@
-training:
-  name: Training
+praxisteil:
+  name: Projekt/ Praxisblock
   max-teilnehmer: 40
+  farbe: 9313ce
 
-workshop:
-  name: Workshop
-  max-teilnehmer: 30
+fddw:
+  name: Frameworks, Dienste und Daten im Web
+  max-teilnehmer: 40
+  farbe: F26524
+
+iot:
+  name: Internet of Things
+  max-teilnehmer: 40
+  farbe: 4952e1
+
+fd1:
+  name: Frontend Development 1
+  max-teilnehmer: 40
+  farbe: B11D52
+
+fd2:
+  name: Frontend Development 2
+  max-teilnehmer: 40
+  farbe: dfdfdf
+
+pits:
+  name: Praktische IT-Sicherheit
+  max-teilnehmer: 40
+  farbe: 00AD2F
 
 ganztagesworkshop:
   name: Workshop
@@ -27,7 +49,7 @@ pruefung:
   max-teilnehmer: 30
 
 other:
-  name: Orga 
+  name: none 
 
 
   
