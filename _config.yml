@@ -9,7 +9,7 @@ name: Web Development
 description: Vertiefungsmodul im Medieninformatik Bachelor
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://www.medieninformatik.th-koeln.de/img/box-100.png
+avatar: https://www.medieninformatik.th-koeln.de/img/mi-box-100.png
 
 # Where are we?
 timezone: Europe/Berlin
@@ -66,18 +66,6 @@ exclude: ['Gemfile', 'Gemfile.lock', 'LICENSE', 'README.md', 'CNAME', '_tools/']
 navigation:
   - url: timetable/
     name: Zeitplan
-    
-  - url: angebote/
-    name: Angebote
-
-  - url: links/
-    name: Links
-
-  - url: faq/
-    name: FAQ
-
-  - url: niveaustufen/
-    name: Bewertung
 
 collections:
   lehrveranstaltungen:

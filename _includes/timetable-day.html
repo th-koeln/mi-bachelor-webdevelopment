@@ -84,10 +84,8 @@
             {% endif %}
             {% include /functions/resolve-names.html verantwortlich=verantwortlich %}
             <p class="title"><span class="is-hidden-tablet">{{termin | date: '%d. %B %Y, %H:%M Uhr'}}: </span>
-              {% if typ-name != "none" %}
-              {{typ-name}}:
-              {% endif %}
-              {{veranstaltung.titel}}</p>
+              {% if typ-name != "none" %}{{typ-name}}{% endif %}{% if typ-name != "none" and veranstaltung.titel != "none" %}: {% endif %}{% if veranstaltung.titel != "none" %}{{veranstaltung.titel}}{% endif %}
+              </p>
 
             {% if (veranstaltung.raum | append: "") != "" %}
             {% assign raumnummer = veranstaltung.raum | append: "" %}
