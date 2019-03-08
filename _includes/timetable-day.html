@@ -97,7 +97,7 @@
 
             {% assign check = typ-max-teilnehmer | strip_newlines %}
             {% if check != "" %}
-            <p class="subtitle">{{verantwortliche}} // {{typ-max-teilnehmer}} Teilnehmer{% if termine.size > 1 %}
+            <p class="subtitle">{{verantwortliche}} <!--// {{typ-max-teilnehmer}} Teilnehmer-->{% if termine.size > 1 %}
               ({{termine.size}} Termine){% endif %}{% if raumnummer.size > 1 %} // Raum {{raumnummer}}{% endif %}</p>
             {% endif %}
 

@@ -1,5 +1,5 @@
-praxisteil:
-  name: Projekt/ Praxisblock
+tooling:
+  name: Tooling/ Projekt/ Praxisblock
   max-teilnehmer: 40
   farbe: 9313ce
 
@@ -21,12 +21,17 @@ fd1:
 fd2:
   name: Frontend Development 2
   max-teilnehmer: 40
-  farbe: dfdfdf
+  farbe: dd1166
 
 pits:
   name: Praktische IT-Sicherheit
   max-teilnehmer: 40
   farbe: 00AD2F
+
+overall:
+  name: none
+  max-teilnehmer: 40
+  farbe: 222
 
 ganztagesworkshop:
   name: Workshop
