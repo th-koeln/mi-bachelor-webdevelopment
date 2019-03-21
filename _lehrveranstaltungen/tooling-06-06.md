@@ -1,10 +1,10 @@
 ---
-titel: Lokale Entwicklungsumgebung und Helferleins
+titel: Thema folgt
 kuerzel: tooling
-verantwortlich: cn
+verantwortlich: cn, sl
 typ: tooling
 pflicht: false
-termine: 2019-04-05 09:00
+termine: 2019-06-06 14:30
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
@@ -13,7 +13,6 @@ info: Heute geht es um …
 ---
 
 ## Worum geht es?
-
 
 ## Was muss ich mitbringen?
 

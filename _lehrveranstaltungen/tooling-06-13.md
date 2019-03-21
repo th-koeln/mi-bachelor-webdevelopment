@@ -1,19 +1,18 @@
 ---
 titel: Thema folgt
-kuerzel: fd1
-verantwortlich: vs
-typ: fd1
+kuerzel: tooling
+verantwortlich: cn, sl
+typ: tooling
 pflicht: false
-termine: 2019-05-10 10:00
+termine: 2019-06-13 14:30
 empfohlene-voraussetzungen: 
 published: true
-dauer: 360
+dauer: 180
 raum: 0.505
 info: Heute geht es um …
 ---
 
 ## Worum geht es?
-
 
 ## Was muss ich mitbringen?
 

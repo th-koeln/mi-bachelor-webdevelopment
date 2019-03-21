@@ -34,3 +34,4 @@ Jeder Kurs schließt mit einer Prüfung ab. Hier kommen unterschiedliche Prüfun
 <tr><th>Frontend Development 2</th><td>3</td></tr>
 <tr><th>Projektarbeit</th><td>5</td></tr>
 </table>
+

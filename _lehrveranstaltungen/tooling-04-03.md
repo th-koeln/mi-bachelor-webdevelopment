@@ -1,13 +1,13 @@
 ---
-titel: Thema folgt
-kuerzel: fd1
-verantwortlich: vs
-typ: fd1
+titel: Lokale Entwicklungsumgebung und Basics
+kuerzel: tooling
+verantwortlich: cn, sl
+typ: tooling
 pflicht: false
-termine: 2019-05-10 10:00
+termine: 2019-04-04 10:00
 empfohlene-voraussetzungen: 
 published: true
-dauer: 360
+dauer: 120
 raum: 0.505
 info: Heute geht es um …
 ---
