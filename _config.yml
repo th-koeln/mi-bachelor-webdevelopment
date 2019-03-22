@@ -24,6 +24,10 @@ url: https://th-koeln.github.io/
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: "/mi-bachelor-webdevelopment"
 
+# Basis URL zum Editieren im Repo
+editBase: https://github.com/th-koeln/mi-bachelor-webdevelopment/tree/master/
+editParams: 
+
 
 permalink: /:title/
 
