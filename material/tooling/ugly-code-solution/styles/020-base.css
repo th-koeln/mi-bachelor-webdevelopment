@@ -1,0 +1,143 @@
+/*-----------------------------------------------------------------------------
+base.css                                                                  
+Enthält alle CSS Variabeln und grundlegende Regeln sowie zentrale helper. 
+
+Wer es noch schöner möchte, möge sich mal https://cssguidelin.es/ anschauen.
+----------------------------------------------------------------------------*/
+
+
+/* Variables
+-----------------------------------------------------------------------------*/
+
+:root {
+    /* 
+    Farben
+    ----------------------------------------*/
+    --color-mi-blau: rgb(73, 82, 225);
+    --color-mi-pink: #dd1166;
+    --color-mi-gruen: #00AD2F;
+    --color-mi-lila: #9313ce;
+    --color-mi-lila-light: #C8BBCE;
+    --color-mi-black: #231f20;
+    --color-mi-grau: #aaaaaa;
+    --color-text: #000;
+    --color-headlines: #666;
+    --color-backgrounds: #efefef;
+    --color-borders: rgba(0, 0, 0, 0.3);
+    /* 
+    Abstände. Hierzu gibt es auch ein schönes Konzept
+    https://medium.com/eightshapes-llc/space-in-design-systems-188bcbae0d62 */
+    --content-width: 960px;
+    /*
+    Innenabstände umlaufend, z.B. für Buttons.
+    ----------------------------------------*/
+    --space-inset: 1rem;
+    --space-inset-s: 0.5rem;
+    --space-inset-l: 1.5rem;
+    --space-inset-xl: 2rem;
+    /* 
+    Vertikale Abstände von Stapeln, also
+    Elementen, die untereinander angeordnet 
+    werden.
+    ----------------------------------------*/
+    --space-stack: 1rem;
+    --space-stack-xs: 0.25rem;
+    --space-stack-s: 0.5rem;
+    --space-stack-l: 1.5rem;
+    --space-stack-xl: 2rem;
+    --space-stack-xxl: 4rem;
+    /* 
+    Horizontale Abstände von Reihen, also
+    Elementen, die nebeneinander angeordnet 
+    werden.
+    ----------------------------------------*/
+    --space-inline: 1rem;
+    --space-inline-xs: 0.25rem;
+    --space-inline-s: 0.5rem;
+    --space-inline-l: 1.5rem;
+    --space-inline-xl: 2rem;
+    /* 
+    Schrift
+    ----------------------------------------*/
+    --fontsize: 1em;
+    --fontsize-s: 0.75em;
+    --fontsize-l: 1.25em;
+    --fontsize-xl: 1.5em;
+    --fontsize-xxl: 2.5em;
+}
+
+
+/* Basic Styles 
+-----------------------------------------------------------------------------*/
+
+body {
+    font-size: 1.8rem;
+    color: var(--color-text);
+}
+
+li,
+a,
+p,
+td,
+th {
+    hyphens: auto;
+    -webkit-hyphens: auto;
+}
+
+
+/* helper 
+-----------------------------------------------------------------------------*/
+
+.hidden {
+    display: none !important;
+}
+
+
+/* Material Design Icons
+http://google.github.io/material-design-icons/
+-----------------------------------------------------------------------------*/
+
+.material-icons {
+    padding-right: var(--space-inline-l);
+}
+
+
+/* Rules for sizing the icon. */
+
+.material-icons.md-18 {
+    font-size: 18px;
+}
+
+.material-icons.md-24 {
+    font-size: 24px;
+}
+
+.material-icons.md-36 {
+    font-size: 36px;
+}
+
+.material-icons.md-48 {
+    font-size: 48px;
+}
+
+
+/* Rules for using icons as black on a light background. */
+
+.material-icons.md-dark {
+    color: rgba(0, 0, 0, 0.54);
+}
+
+.material-icons.md-dark.md-inactive {
+    color: rgba(0, 0, 0, 0.26);
+}
+
+
+/* Rules for using icons as white on a dark background. */
+
+.material-icons.md-light {
+    color: rgba(255, 255, 255, 1);
+}
+
+.material-icons.md-light.md-inactive {
+    color: rgba(255, 255, 255, 0.3);
+}
