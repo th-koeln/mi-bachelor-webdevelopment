@@ -15,6 +15,9 @@ info: Eine Einführung in Git, die Verwendung eines Terminals und die Verwendung
 ## Worum geht es?
 - Einführung in die Benutzungen eines Terminals 
 - Git Basics
+- Verbindung aufbauen mit ADV Server über SSH/SFTP
+- “Hello World!” via VIM auf ADV Server
+- “Hello World!” via Git auf ADV Server deployen
 - Einführung in die IDE Visual Studio Code
 - Aufgaben um die wichtigsten Features von VSC kennenzulernen 
 
@@ -26,7 +29,3 @@ info: Eine Einführung in Git, die Verwendung eines Terminals und die Verwendung
 ## Material
 - [Terminal Cheatsheet](https://github.com/th-koeln/mi-bachelor-webdevelopment/blob/master/material/tooling/TerminalCheatSheet.pdf)
 - [Fingerübung](https://github.com/th-koeln/mi-bachelor-webdevelopment/tree/master/material/tooling/ugly-code-example)
-
-## Weiterführendes Material
-
-## Sie haben keinen Rechner?
