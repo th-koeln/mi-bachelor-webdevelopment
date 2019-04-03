@@ -9,15 +9,23 @@ empfohlene-voraussetzungen:
 published: true
 dauer: 120
 raum: 0.505
-info: Heute geht es um …
+info: Eine Einführung in Git, die Verwendung eines Terminals und die Verwendung einer IDE
 ---
 
 ## Worum geht es?
-
+- Einführung in die Benutzungen eines Terminals 
+- Git Basics
+- Einführung in die IDE Visual Studio Code
+- Aufgaben um die wichtigsten Features von VSC kennenzulernen 
 
 ## Was muss ich mitbringen?
+- Laptop
+- [Git](https://git-scm.com/downloads) sollte installiert sein
+- [Visual Studio Code](https://code.visualstudio.com/) sollte installiert sein 
 
 ## Material
+- [Terminal Cheatsheet](https://github.com/th-koeln/mi-bachelor-webdevelopment/blob/master/material/tooling/TerminalCheatSheet.pdf)
+- [Fingerübung](https://github.com/th-koeln/mi-bachelor-webdevelopment/tree/master/material/tooling/ugly-code-example)
 
 ## Weiterführendes Material
 
