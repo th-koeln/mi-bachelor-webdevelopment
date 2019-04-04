@@ -32,3 +32,5 @@ info: Eine Einführung in Git, die Verwendung eines Terminals und die Verwendung
 - [Windows Subsystem for Linux](https://docs.microsoft.com/de-de/windows/wsl/install-win10)
 - [gitignore.io](https://www.gitignore.io/)
 - [Regex 101](https://regex101.com/)
+- [Visual Studio Code MacOS Cheat Sheet](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
+- [Visual Studio Code Windows Cheat Sheet](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
