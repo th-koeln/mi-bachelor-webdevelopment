@@ -73,6 +73,9 @@ navigation:
     
   - url: https://ilias.th-koeln.de/ilias.php?ref_id=1238198&cmd=frameset&cmdClass=ilrepositorygui&cmdNode=u0&baseClass=ilrepositorygui
     name: Kurs im Ilias
+    
+  - url: https://github.com/th-koeln/mi-bachelor-webdevelopment
+    name: Repo
 
 
 collections:
