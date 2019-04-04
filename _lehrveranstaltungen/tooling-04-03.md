@@ -31,3 +31,4 @@ info: Eine Einführung in Git, die Verwendung eines Terminals und die Verwendung
 - [Fingerübung](https://github.com/th-koeln/mi-bachelor-webdevelopment/tree/master/material/tooling/ugly-code-example)
 - [Windows Subsystem for Linux](https://docs.microsoft.com/de-de/windows/wsl/install-win10)
 - [gitignore.io](https://www.gitignore.io/)
+- [Regex 101](https://regex101.com/)
