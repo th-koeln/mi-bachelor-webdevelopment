@@ -29,3 +29,4 @@ info: Eine Einführung in Git, die Verwendung eines Terminals und die Verwendung
 ## Material
 - [Terminal Cheatsheet](https://github.com/th-koeln/mi-bachelor-webdevelopment/blob/master/material/tooling/TerminalCheatSheet.pdf)
 - [Fingerübung](https://github.com/th-koeln/mi-bachelor-webdevelopment/tree/master/material/tooling/ugly-code-example)
+- [Windows Subsystem for Linux](https://docs.microsoft.com/de-de/windows/wsl/install-win10)
