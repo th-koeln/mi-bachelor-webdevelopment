@@ -33,4 +33,4 @@ info: Eine Einführung in Git, die Verwendung eines Terminals und die Verwendung
 - [gitignore.io](https://www.gitignore.io/)
 - [Regex 101](https://regex101.com/)
 - [Visual Studio Code MacOS Cheat Sheet](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
-- [Visual Studio Code Windows Cheat Sheet](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
+- [Visual Studio Code Windows Cheat Sheet](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
