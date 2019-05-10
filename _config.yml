@@ -68,7 +68,7 @@ exclude: ['Gemfile', 'Gemfile.lock', 'LICENSE', 'README.md', 'CNAME', '_tools/']
 
   # Hier bitte Navigationsitems eintragen
 navigation:
-  - url: timetable/
+  - url: /mi-bachelor-webdevelopment/timetable/
     name: Zeitplan
 
   - url: https://ilias.th-koeln.de/ilias.php?ref_id=1238198&cmd=frameset&cmdClass=ilrepositorygui&cmdNode=u0&baseClass=ilrepositorygui
