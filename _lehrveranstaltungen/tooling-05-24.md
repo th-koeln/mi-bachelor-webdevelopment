@@ -9,7 +9,7 @@ empfohlene-voraussetzungen:
 published: true
 dauer: 300
 raum: 0.505
-info: Heute geht es um …
+info: Heute geht es um die grundlagen von Docker
 ---
 
 ## Worum geht es?
@@ -25,5 +25,8 @@ Dieser Workshop richtet sich an Entwickler und Technikinteressierte, welche die 
 
 
 ## Material
-.tbd
-
+- Beispielprojekt mit Nginx (Dockerfile)
+- Beispielprojekt mit Hugo (Docker Basics + Dockerfile)
+https://github.com/th-koeln/mi-bachelor-webdevelopment-docker
+- Beispielprojekt mit Node + MongoDB (Docker-Compsoe + Docker network)
+https://github.com/JannDeterling/docker-seminar-compose-sample
