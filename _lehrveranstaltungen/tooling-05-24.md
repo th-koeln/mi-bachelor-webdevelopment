@@ -26,6 +26,7 @@ Dieser Workshop richtet sich an Entwickler und Technikinteressierte, welche die 
 
 ## Material
 - Beispielprojekt mit Nginx (Dockerfile)
+https://github.com/JannDeterling/how-to-dockerfile
 - Beispielprojekt mit Hugo (Docker Basics + Dockerfile)
 https://github.com/th-koeln/mi-bachelor-webdevelopment-docker
 - Beispielprojekt mit Node + MongoDB (Docker-Compsoe + Docker network)
