@@ -30,3 +30,4 @@ Dieser Workshop richtet sich an Entwickler und Technikinteressierte, welche die 
 - [Beispielprojekt mit Node + MongoDB (Docker-Compsoe + Docker network)](https://github.com/JannDeterling/docker-seminar-compose-sample)
 - [Dockerfile reference](https://docs.docker.com/engine/reference/builder/)
 - [Docker Compose reference](https://docs.docker.com/compose/compose-file/)
+- [Slides](https://slides.com/jann-1/deck)
