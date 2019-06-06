@@ -749,6 +749,20 @@ pre code {
   font-family: $family-monospace;
 }
 
+.codesnippet{
+  figure.highlight{
+    text-align: left;
+    background-color: $mi-grau;
+    color: #000;
+    margin: 0;
+    padding: 0;
+
+    code{
+      color: #000;
+    }
+  }
+}
+
 
 /* Für die fianle Version werden ein paar Angaben nicht gezeigt */
 

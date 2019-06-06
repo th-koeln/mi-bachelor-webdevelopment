@@ -82,8 +82,8 @@ collections:
     output: true
   faq:
     output: false
-  snippets:
-    output: false
+  codesnippets:
+    output: true
   links:
     output: false
   news:
@@ -99,6 +99,6 @@ defaults:
   -
     scope:
       path: ""
-      type: faq
+      type: codesnippets
     values:
-      layout: faq
+      layout: codesnippets
