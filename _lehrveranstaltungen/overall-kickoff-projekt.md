@@ -12,3 +12,4 @@ raum: 0.505
 info:
 ---
 
+In dieser Session werden die Projektthemen & -leitplanken vorgestellt, bzw. erarbeitet. Weitere Infos folgen …
