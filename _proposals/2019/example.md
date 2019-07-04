@@ -1,7 +1,8 @@
 ---
 title: Name des Vorschlags
 team: <a href="https://github.com/vschaefer">Volker Schaefer</a>, <a href="https://github.com/cnoss">Christian Noss</a>
-typ: Dive Deep
+field: Lucas Cranach Archiv
+type: Dive Deep
 repo: https://github.com/cnoss/cranach-graphics-content-mockups
 ---
 
