@@ -1,5 +1,5 @@
 ---
-titel: Feedback & Support zum WD Projekt
+titel: Projektvorschläge WD Projekt finalisieren
 kuerzel: o-ft
 verantwortlich: cn, kf, mb, sl
 typ: tooling
@@ -12,3 +12,4 @@ raum: 0.505
 info:
 ---
 
+Heute werden wir gemeinsam Ihre Projektvorschläge begutachten und uns auf einen finales Projekt für jedes Team einigen. 
