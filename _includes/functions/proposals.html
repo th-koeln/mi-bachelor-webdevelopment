@@ -1,0 +1,27 @@
+{% comment %}##################################################################
+-------------------------------------------------------------------------------
+
+function proposals
+
+input:
+include.path: Pfad zum Ordner
+
+output:
+Erzeugt eine Übersicht der Vorschläge durch auslesen der Inhalte eines Ordners
+
+Aufruf:
+{% include functions/proposals.html path='' %}
+
+author:
+cn
+
+-------------------------------------------------------------------------------
+###############################################################{% endcomment %}
+
+{% if include.path %}
+{% for proposal in site.proposals %}
+{% if proposal.path contains include.path %}
+{% include proposal.html data=proposal %}
+{% endif %}
+{% endfor %}
+{% endif %}

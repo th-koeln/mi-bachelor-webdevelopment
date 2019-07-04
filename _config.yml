@@ -88,6 +88,8 @@ collections:
     output: false
   news:
     output: false
+  proposals:
+    output: false
 
 defaults:
   -
@@ -102,3 +104,4 @@ defaults:
       type: codesnippets
     values:
       layout: codesnippets
+

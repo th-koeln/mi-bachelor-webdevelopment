@@ -12,4 +12,4 @@ raum: 0.505
 info:
 ---
 
-In dieser Session werden die Projektthemen & -leitplanken vorgestellt, bzw. erarbeitet. Weitere Infos folgen …
+In dieser Session werden die Projektthemen & -leitplanken vorgestellt, bzw. erarbeitet. Hier gibt es erste [Informationen zum Projekt](/mi-bachelor-webdevelopment/projekt-2019/)

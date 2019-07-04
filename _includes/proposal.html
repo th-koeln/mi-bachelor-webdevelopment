@@ -1,0 +1,26 @@
+{% assign proposal = inculde.proposal %}
+<div class="has-seperator">
+<h3>{{proposal.title}}</h3>
+
+<dl>
+    {% assign check = proposal.team | strip_newlines %}
+    {% if check != ""  %}
+    <dt>Team</dt>
+    <dd>{{proposal.team}}</dd>
+    {% endif %}
+
+    {% assign check = proposal.repo | strip_newlines %}
+    {% if check != ""  %}
+    <dt>Git Repository</dt>
+    <dd><a href="{{proposal.repo}}">{{proposal.repo}}</a></dd>
+    {% endif %}
+
+    {% assign check = proposal.repo | strip_newlines %}
+    {% if check != ""  %}
+    <dt>Typ</dt>
+    <dd>{{proposal.typ}}</dd>
+    {% endif %}
+</dl>
+
+{{proposal.content}}
+</div>
