@@ -569,3 +569,24 @@ pre code {
 .hero.is-info {
   background-color: #000 !important;
 }
+
+
+
+
+/**************/
+/* Proposals  */
+/**************/
+
+.proposal {
+
+  border-top: solid #ccc 1px;
+  padding-top: $bfs;
+  
+  h1, h2, h3, h4, h5{
+    font-size: 1em;
+  }
+
+  h1.title{
+    font-size: $size-2;
+  }
+}

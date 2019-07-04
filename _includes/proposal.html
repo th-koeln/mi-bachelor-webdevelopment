@@ -1,6 +1,6 @@
 {% assign proposal = inculde.proposal %}
-<div class="has-seperator">
-<h3>{{proposal.title}}</h3>
+<article class="proposal">
+<h1 class="title">{{proposal.title}}</h1>
 
 <dl>
     {% assign check = proposal.team | strip_newlines %}
@@ -23,4 +23,4 @@
 </dl>
 
 {{proposal.content}}
-</div>
+</article>
