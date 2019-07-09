@@ -68,11 +68,16 @@ exclude: ['Gemfile', 'Gemfile.lock', 'LICENSE', 'README.md', 'CNAME', '_tools/']
 
   # Hier bitte Navigationsitems eintragen
 navigation:
-  - url: timetable/
+  - url: /mi-bachelor-webdevelopment/timetable/
     name: Zeitplan
-    
+
+  - url: /mi-bachelor-webdevelopment/projekt-2019/
+    name: Projekt
+
   - url: https://ilias.th-koeln.de/ilias.php?ref_id=1238198&cmd=frameset&cmdClass=ilrepositorygui&cmdNode=u0&baseClass=ilrepositorygui
     name: Kurs im Ilias
+    
+
 
 
 collections:
@@ -80,11 +85,13 @@ collections:
     output: true
   faq:
     output: false
-  snippets:
-    output: false
+  codesnippets:
+    output: true
   links:
     output: false
   news:
+    output: false
+  proposals:
     output: false
 
 defaults:
@@ -97,6 +104,7 @@ defaults:
   -
     scope:
       path: ""
-      type: faq
+      type: codesnippets
     values:
-      layout: faq
+      layout: codesnippets
+

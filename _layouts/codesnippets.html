@@ -1,0 +1,43 @@
+---
+layout: default
+---
+
+{% assign codesnippets=site.codesnippets | sort:'title' %}
+
+<section class="section">
+  <div class="container">
+    <div class="content">
+      <div class="columns">
+        <div class="column is-8">
+          <h1>{{ page.titel }}</h1>
+        </div>
+
+        <div class="column is-4 has-text-right">
+          <a target="_blank" href="{{site.editBase}}{{ page.path }}{{site.edit-params}}"><span class="icon"><i class="fa fa-edit"></i></span>
+            Bearbeiten</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <hr>
+  
+  <div class="container codesnippet">
+    <div class="content">
+      {{page.content}}
+    </div>
+  </div>
+</section>
+
+<!--section class="section">
+	<div class="modulbeschreibung">
+		<div class="container">
+			<div class="content">
+				
+			{% for codesnippet in codesnippets %}
+			{{ codesnippet.titel }}
+	  	{% endfor %}
+	  	</div>
+		</div>
+	</div>
+</section-->

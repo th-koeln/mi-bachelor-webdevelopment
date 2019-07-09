@@ -1,0 +1,2326 @@
+<div id="top" class="mp-menu-scope js-holy-wheel-skip">
+
+<div id="mp-pusher" class="mp-pusher">
+
+<div class="mp-level">
+
+[](https://www.dive.is)
+Dive.is
+-------
+
+-   [<span class="mp-level-indicator"></span>Tours](#)
+    <div class="mp-level">
+
+    [](https://www.dive.is/diving-snorkeling-tours)
+    Tours
+    -----
+
+    [<span class="back-indicator">❮</span> back](#)
+    -   [Diving
+        Tours](https://www.dive.is/diving-snorkeling-tours/diving-day-tours)
+    -   [Snorkeling
+        Tours](https://www.dive.is/diving-snorkeling-tours/snorkeling-day-tours)
+    -   [Freediving
+        Tours](https://www.dive.is/diving-snorkeling-tours/freediving-tours)
+    -   [Multiple Day Dive
+        Tours](https://www.dive.is/diving-snorkeling-tours/multiple-day-tours)
+    -   [Private
+        Tours](https://www.dive.is/diving-snorkeling-tours/private-tours)
+    -   [Media & Film Crew
+        Services](https://www.dive.is/diving-snorkeling-tours/media-film-crew-services)
+
+    </div>
+
+-   [Sites](https://www.dive.is/dive-sites)
+-   [<span class="mp-level-indicator"></span>Courses](#)
+    <div class="mp-level">
+
+    [](https://www.dive.is/dive-courses)
+    Courses
+    -------
+
+    [<span class="back-indicator">❮</span> back](#)
+    -   [Beginner
+        Courses](https://www.dive.is/dive-courses/padi-beginner-dive-courses)
+    -   [Advanced
+        Courses](https://www.dive.is/dive-courses/padi-advanced-dive-courses)
+    -   [Pro
+        Courses](https://www.dive.is/dive-courses/padi-pro-dive-courses)
+    -   [PADI Specialty Dive
+        Courses](https://www.dive.is/dive-courses/padi-specialty-dive-courses)
+
+    </div>
+
+-   [<span class="mp-level-indicator"></span>About Us](#)
+    <div class="mp-level">
+
+    [](https://www.dive.is/about-us)
+    About Us
+    --------
+
+    [<span class="back-indicator">❮</span> back](#)
+    -   [Our People](https://www.dive.is/about-us/our-people)
+    -   [Behind the
+        Scenes](https://www.dive.is/about-us/dive-is-behind-the-scenes)
+    -   [Our Philosophy](https://www.dive.is/about-us/our-philosophy)
+    -   [Safety &
+        Equipment](https://www.dive.is/about-us/safety-and-equipment)
+    -   [News](https://www.dive.is/about-us/news)
+    -   [Article &
+        Movies](https://www.dive.is/about-us/article-and-movies)
+    -   [Souvenirs](https://www.dive.is/about-us/souvenirs)
+    -   [Cancellation
+        Policy](https://www.dive.is/about-us/cancellation-policy)
+    -   [Newsletter](https://www.dive.is/about-us/newsletter)
+
+    </div>
+
+-   [Contact](https://www.dive.is/contact)
+-   [FAQs](https://www.dive.is/faq)
+-   [<span class="mp-level-indicator"></span>English](#)
+    <div class="mp-level">
+
+    Select a language
+    -----------------
+
+    [<span class="back-indicator">❮</span> back](#)
+    -   [English](https://www.dive.is)
+    -   [Deutsch](https://www.dive.is/de)
+    -   [Français](https://www.dive.is/fr)
+    -   [Chinese](https://www.dive.is/cn)
+    -   [Polish](https://www.dive.is/pl)
+    -   [Español](https://www.dive.is/es)
+    -   [Nederlands](https://www.dive.is/nl)
+    -   [Italiano](https://www.dive.is/it)
+    -   [Finnish](https://www.dive.is/fi)
+    -   [Russian](https://www.dive.is/ru)
+
+    </div>
+
+-   <div class="socialmediaicons">
+
+    ![Facebook]( "Visit us on Facebook")
+    ![Facebook](https://www.dive.is/assets/images/facebook.svg "Visit us on Facebook")
+    ![YouTube]( "Visit us on YouTube")
+    ![YouTube](https://www.dive.is/assets/images/youtube.svg "Visit us on YouTube")
+    ![Instagram]( "Visit us on Instagram")
+    ![Instagram](https://www.dive.is/assets/images/instagram.svg "Visit us on Instagram")
+
+    </div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="page-content">
+
+<div class="sticky-container js-sticky-container"
+data-keep-in-place="false" data-in-stack="true">
+
+<div class="sticky-content">
+
+<div
+class="section hero is-medium has-text-centered is-primary hero-navigation js-hero-header">
+
+<div class="hero-head">
+
+<div class="container">
+
+<div class="nav-left">
+
+<span id="mp-menu-trigger"></span> <span class="nav-toggle">
+<span></span> <span></span> <span></span> </span>
+<div class="nav-toggle-label">
+
+Menu
+
+</div>
+
+</div>
+
+<div class="nav-center">
+
+![DIVE.IS](https://www.dive.is/assets/images/dive_logo_blue_border.svg "PADI 5 Star Center: ICELANDS LEADING DIVE & SNORKEL TOUR OPERATOR")
+![DIVE.IS](https://www.dive.is/assets/images/dive_logo_blue_border.svg "PADI 5 Star Center: ICELANDS LEADING DIVE & SNORKEL TOUR OPERATOR")
+
+</div>
+
+<div class="nav-right">
+
+[](https://www.dive.is/booking/checkout)
+<div class="shopping-cart">
+
+![Cart]( "Go to the shopping cart")
+![Cart](https://www.dive.is/assets/images/cart.svg "Go to the shopping cart")
+<span class="tag is-danger is-small item-count-tag"> <span
+class="item-count"> </span></span>
+<div class="ajax-content"
+data-ajax-url="https://www.dive.is/ajax/shopping-cart"
+data-response-key="size">
+
+0
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div
+class="section hero hero-header is-fullheight is-primary overlay tour-hero is-blue">
+
+<div class="image-figure">
+
+![A snorkeler from the divers perspective in Silfra
+Cathedral]( "A snorkeler from the divers perspective in Silfra Cathedral")
+![A snorkeler from the divers perspective in Silfra
+Cathedral](https://www.dive.is/content/home/snorkeler-diver-perspective-silfra-cathedral.jpg "A snorkeler from the divers perspective in Silfra Cathedral")
+Iceland's leading dive & snorkel tour operator since 1997 {#icelands-leading-dive-snorkel-tour-operator-since-1997 .subtitle}
+---------------------------------------------------------
+
+</div>
+
+**
+
+</div>
+
+<div class="section section cb-tours">
+
+<div class="container">
+
+<div class="columns is-multiline">
+
+<div class="column is-6-tablet is-6-desktop is-3-fullhd">
+
+<div class="overview-item">
+
+<div class="hero is-primary teaser-box is-condensed has-badge">
+
+<div class="teaser-box-wrapper">
+
+[](https://www.dive.is/diving-snorkeling-tours/snorkeling-day-tours/silfra-snorkeling-day-tour "Visit https://www.dive.is/diving-snorkeling-tours/snorkeling-day-tours/silfra-snorkeling-day-tour")
+<div class="badge tour-badge">
+
+Most popular
+
+</div>
+
+<div class="image-figure">
+
+![Happy Silfra snorkeler close up from beneath reflecting crystal water
+surface of Silfra hall in Thingvellir
+Iceland]( "happy-Silfra-snorkeler-close-up-by-anders-nyberg")
+![Happy Silfra snorkeler close up from beneath reflecting crystal water
+surface of Silfra hall in Thingvellir
+Iceland](https://www.dive.is/content/1-diving-snorkeling-tours/2-snorkeling-day-tours/1-silfra-snorkeling-day-tour/happy-silfra-snorkeler-close-up-by-anders-nyberg.jpg "happy-Silfra-snorkeler-close-up-by-anders-nyberg")
+<div class="teaser-box-content">
+
+### Silfra Snorkeling Day Tour {#silfra-snorkeling-day-tour .title}
+
+#### Snorkel the world's clearest water {#snorkel-the-worlds-clearest-water .subtitle}
+
+<div class="meta">
+
+<div class="left-wrapper">
+
+<div class="price">
+
+<span class="is-price"> From 14.990</span>
+
+</div>
+
+</div>
+
+<div class="right-wrapper is-right">
+
+[Book
+here](https://www.dive.is/diving-snorkeling-tours/snorkeling-day-tours/silfra-snorkeling-day-tour "Open Page")
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="column is-6-tablet is-6-desktop is-3-fullhd">
+
+<div class="overview-item">
+
+<div class="hero is-primary teaser-box is-condensed">
+
+<div class="teaser-box-wrapper">
+
+[](https://www.dive.is/diving-snorkeling-tours/snorkeling-day-tours "Visit https://www.dive.is/diving-snorkeling-tours/snorkeling-day-tours")
+<div class="image-figure">
+
+![below-surface-by-tobias-friedrich-1600x1200.jpg]( "below-surface-by-tobias-friedrich-1600x1200")
+![below-surface-by-tobias-friedrich-1600x1200.jpg](https://www.dive.is/content/home/content-builder/1-best-of-silfra-tours/below-surface-by-tobias-friedrich-1600x1200.jpg "below-surface-by-tobias-friedrich-1600x1200")
+<div class="teaser-box-content">
+
+### All Snorkeling Tours {#all-snorkeling-tours .title}
+
+#### Overview {#overview .subtitle}
+
+<div class="meta">
+
+<div class="right-wrapper">
+
+[Read
+more](https://www.dive.is/diving-snorkeling-tours/snorkeling-day-tours "Open Page")
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="column is-6-tablet is-6-desktop is-3-fullhd">
+
+<div class="overview-item">
+
+<div class="hero is-primary teaser-box is-condensed">
+
+<div class="teaser-box-wrapper">
+
+[](https://www.dive.is/diving-snorkeling-tours/diving-day-tours/silfra-diving-day-tour "Visit https://www.dive.is/diving-snorkeling-tours/diving-day-tours/silfra-diving-day-tour")
+<div class="image-figure">
+
+![Diver enjoying his dive in the pristine water of
+Silfra]( "Diving in crystal clear waters")
+![Diver enjoying his dive in the pristine water of
+Silfra](https://www.dive.is/content/1-diving-snorkeling-tours/1-diving-day-tours/1-silfra-diving-day-tour/diving-in-crystal-clear-waters.jpg "Diving in crystal clear waters")
+<div class="teaser-box-content">
+
+### Diving Silfra Day Tour {#diving-silfra-day-tour .title}
+
+#### The Dive between the continents {#the-dive-between-the-continents .subtitle}
+
+<div class="meta">
+
+<div class="left-wrapper">
+
+<div class="price">
+
+<span class="is-price"> From 39.990</span>
+
+</div>
+
+</div>
+
+<div class="right-wrapper is-right">
+
+[Book
+here](https://www.dive.is/diving-snorkeling-tours/diving-day-tours/silfra-diving-day-tour "Open Page")
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="column is-6-tablet is-6-desktop is-3-fullhd">
+
+<div class="overview-item">
+
+<div class="hero is-primary teaser-box is-condensed">
+
+<div class="teaser-box-wrapper">
+
+[](https://www.dive.is/diving-snorkeling-tours/diving-day-tours "Visit https://www.dive.is/diving-snorkeling-tours/diving-day-tours")
+<div class="image-figure">
+
+![wideangle-lagoon-diver-reflection-1800x1197.jpg]( "wideangle-lagoon-diver-reflection-1800x1197")
+![wideangle-lagoon-diver-reflection-1800x1197.jpg](https://www.dive.is/content/home/content-builder/1-best-of-silfra-tours/wideangle-lagoon-diver-reflection-1800x1197.jpg "wideangle-lagoon-diver-reflection-1800x1197")
+<div class="teaser-box-content">
+
+### All Diving Day Tours {#all-diving-day-tours .title}
+
+#### Overview {#overview-1 .subtitle}
+
+<div class="meta">
+
+<div class="right-wrapper">
+
+[Read
+more](https://www.dive.is/diving-snorkeling-tours/diving-day-tours "Open Page")
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="section-spacer">
+
+<div class="container">
+
+<div class="dive-icon-sprite mask">
+
+</div>
+
+</div>
+
+</div>
+
+<div class="section section cb-text text-is-large">
+
+<div class="container">
+
+<div class="columns">
+
+<div class="column">
+
+</div>
+
+<div class="column is-9">
+
+<div class="content">
+
+Experience Silfra and more with us! {#experience-silfra-and-more-with-us .headline}
+-----------------------------------
+
+### Diving and snorkeling is what we love {#diving-and-snorkeling-is-what-we-love .headline .is-subline}
+
+Our company was founded in 1997 to provide sport diving education and
+training to the Reykjavík population. We soon began taking both local
+and visiting divers to [Silfra](https://www.dive.is/dive-sites/silfra),
+one of our favorite [dive sites](https://www.dive.is/dive-sites) near
+Reykjavík. We loved sharing this incredible site with our friends, old
+and new. Through our promotion and by word of mouth, Silfra became an
+internationally renowned dive site. We are proud to set the industry
+standards for
+[diving](https://www.dive.is/diving-snorkeling-tours/diving-day-tours)
+and
+[snorkeling](https://www.dive.is/diving-snorkeling-tours/snorkeling-day-tours)
+operations at Silfra and in Iceland more broadly. Our [team
+members](https://www.dive.is/about-us/our-people) at DIVE.IS are
+sustained and motivated by a sincere love and respect for Icelandic
+nature, the underwater world, and each other. It gives us great joy to
+be able to continue sharing our favorite experiences with our friends
+and guests.
+
+</div>
+
+</div>
+
+<div class="column">
+
+</div>
+
+</div>
+
+<div class="section-spacer">
+
+<div class="container">
+
+<div class="dive-icon-sprite flippers">
+
+</div>
+
+</div>
+
+</div>
+
+<div class="section section cb-image is-collapsed-bottom">
+
+<div class="container">
+
+<div class="columns">
+
+<div class="column">
+
+<div class="content-image">
+
+<div class="image-wrapper has-ratio is-4_3">
+
+![Snorkeling guide poring hot chocolate for his customers after their
+snorkel
+tour]( "Hot chocolate - the secret ingredient to a successful tour :)")
+![Snorkeling guide poring hot chocolate for his customers after their
+snorkel
+tour](https://www.dive.is/thumbs/home/content-builder/first-images/dive-guide-with-hot-chocolate-1800x1350-q70.jpg "Hot chocolate - the secret ingredient to a successful tour :)")
+
+</div>
+
+</div>
+
+</div>
+
+<div class="column">
+
+<div class="content-image">
+
+<div class="image-wrapper has-ratio is-4_3">
+
+![Happy snorkelers having fun putting on their dry suit before their
+Snorkeling tour]( "The famous dry-suit-rebirthing-laughter")
+![Happy snorkelers having fun putting on their dry suit before their
+Snorkeling
+tour](https://www.dive.is/thumbs/home/content-builder/first-images/smiling-people-in-dry-suits-1800x1350-q70.jpg "The famous dry-suit-rebirthing-laughter")
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="section section cb-image is-collapsed-top">
+
+<div class="container">
+
+<div class="columns">
+
+<div class="column">
+
+<div class="content-image">
+
+<div class="image-wrapper has-ratio is-16_9">
+
+![Changing Room at Silfra,
+Iceland]( "The one & only DIVE.IS Changing Room for happy divers & snorkelers")
+![Changing Room at Silfra,
+Iceland](https://www.dive.is/thumbs/home/content-builder/changing-room/changing-room-silfra-iceland-dive-is-anders-nyberg-1800x1012.5-q70.jpg "The one & only DIVE.IS Changing Room for happy divers & snorkelers")
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="section-spacer">
+
+<div class="container">
+
+<div class="dive-icon-sprite mask">
+
+</div>
+
+</div>
+
+</div>
+
+<div class="section section cb-image-and-text">
+
+<div class="container">
+
+<div class="columns">
+
+<div class="column">
+
+<div class="content-image image-with-text text-is-on-top">
+
+<div class="image-wrapper has-ratio is-4_3">
+
+![Smiling Dry suit diver next to our TripAdvisor
+badge]( "Smiling DIVE.IS dive guide next to our TripAdvisor badge")
+![Smiling Dry suit diver next to our TripAdvisor
+badge](https://www.dive.is/thumbs/home/content-builder/tripadvisor-rave/dive.is-no.1-rated-on-tripadvisor-silfra-iceland-1016x762-q70.jpg "Smiling DIVE.IS dive guide next to our TripAdvisor badge")
+
+</div>
+
+<div class="content">
+
+#### No.1 on Tripadvisor {#no.1-on-tripadvisor .headline}
+
+DIVE.IS is rated No. 1 of all 279 Outdoor Activities in Iceland and No.
+1 of all 55 Water Sport Activities in Iceland. We are a family owned
+company with a close-knit team and we are passionate about exploring
+nature through diving and snorkeling. We care about each and every guest
+and we are delighted that this is reflected in our reviews.
+
+<div class="responsive-element-holder">
+
+<div class="element">
+
+[Read our reviews on
+Tripadvisor](https://www.tripadvisor.com/Attraction_Review-g189970-d1625653-Reviews-DIVE_IS-Reykjavik_Capital_Region.html "Read our reviews on Tripadvisor")
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="section-spacer">
+
+<div class="container">
+
+<div class="dive-icon-sprite diver-o">
+
+</div>
+
+</div>
+
+</div>
+
+<div class="section section cb-tours">
+
+<div class="container">
+
+<div class="columns is-multiline">
+
+<div class="column is-6-tablet is-6-desktop is-3-fullhd">
+
+<div class="overview-item">
+
+<div class="hero is-primary teaser-box is-condensed has-badge">
+
+<div class="teaser-box-wrapper">
+
+[](https://www.dive.is/diving-snorkeling-tours/snorkeling-day-tours/silfra-snorkeling-day-tour "Visit https://www.dive.is/diving-snorkeling-tours/snorkeling-day-tours/silfra-snorkeling-day-tour")
+<div class="badge tour-badge">
+
+Most popular
+
+</div>
+
+<div class="image-figure">
+
+![Happy Silfra snorkeler close up from beneath reflecting crystal water
+surface of Silfra hall in Thingvellir
+Iceland]( "happy-Silfra-snorkeler-close-up-by-anders-nyberg")
+![Happy Silfra snorkeler close up from beneath reflecting crystal water
+surface of Silfra hall in Thingvellir
+Iceland](https://www.dive.is/content/1-diving-snorkeling-tours/2-snorkeling-day-tours/1-silfra-snorkeling-day-tour/happy-silfra-snorkeler-close-up-by-anders-nyberg.jpg "happy-Silfra-snorkeler-close-up-by-anders-nyberg")
+<div class="teaser-box-content">
+
+### Silfra Snorkeling Day Tour {#silfra-snorkeling-day-tour-1 .title}
+
+#### Snorkel the world's clearest water {#snorkel-the-worlds-clearest-water-1 .subtitle}
+
+<div class="meta">
+
+<div class="left-wrapper">
+
+<div class="price">
+
+<span class="is-price"> From 14.990</span>
+
+</div>
+
+</div>
+
+<div class="right-wrapper is-right">
+
+[Book
+here](https://www.dive.is/diving-snorkeling-tours/snorkeling-day-tours/silfra-snorkeling-day-tour "Open Page")
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="column is-6-tablet is-6-desktop is-3-fullhd">
+
+<div class="overview-item">
+
+<div class="hero is-primary teaser-box is-condensed has-badge">
+
+<div class="teaser-box-wrapper">
+
+[](https://www.dive.is/diving-snorkeling-tours/freediving-tours/silfra-freedive-day-tour "Visit https://www.dive.is/diving-snorkeling-tours/freediving-tours/silfra-freedive-day-tour")
+<div class="badge tour-badge">
+
+New
+
+</div>
+
+<div class="image-figure">
+
+![Free diver swimming in Silfra,
+Iceland]( "freediver-swimming-silfra-iceland")
+![Free diver swimming in Silfra,
+Iceland](https://www.dive.is/content/1-diving-snorkeling-tours/3-freediving-tours/1-silfra-freedive-day-tour/freediver-swimming-silfra-iceland.jpg "freediver-swimming-silfra-iceland")
+<div class="teaser-box-content">
+
+### Silfra Freedive Tour {#silfra-freedive-tour .title}
+
+#### Freedive in the clearest water on earth {#freedive-in-the-clearest-water-on-earth .subtitle}
+
+<div class="meta">
+
+<div class="left-wrapper">
+
+<div class="price">
+
+<span class="is-price"> ISK 24.900</span>
+
+</div>
+
+</div>
+
+<div class="right-wrapper is-right">
+
+[Book
+Here](https://www.dive.is/diving-snorkeling-tours/freediving-tours/silfra-freedive-day-tour "Open Page")
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="column is-6-tablet is-6-desktop is-3-fullhd">
+
+<div class="overview-item">
+
+<div class="hero is-primary teaser-box is-condensed">
+
+<div class="teaser-box-wrapper">
+
+[](https://www.dive.is/diving-snorkeling-tours/diving-day-tours/dry-suit-diver-course-diving-silfra-day-tour-combo "Visit https://www.dive.is/diving-snorkeling-tours/diving-day-tours/dry-suit-diver-course-diving-silfra-day-tour-combo")
+<div class="image-figure">
+
+![Dry suit course student learning to dry suit diving in
+Iceland]( "Dry suit course student iceland")
+![Dry suit course student learning to dry suit diving in
+Iceland](https://www.dive.is/content/1-diving-snorkeling-tours/1-diving-day-tours/2-dry-suit-diver-course-diving-silfra-day-tour-combo/dry-suit-course-student-iceland.jpg "Dry suit course student iceland")
+<div class="teaser-box-content">
+
+### Dry suit course & Dive Silfra 2-day package {#dry-suit-course-dive-silfra-2-day-package .title}
+
+#### Get dry suit certified and dive Silfra! {#get-dry-suit-certified-and-dive-silfra .subtitle}
+
+<div class="meta">
+
+<div class="left-wrapper">
+
+<div class="price">
+
+<span class="is-price"> ISK 94.980</span>
+
+</div>
+
+</div>
+
+<div class="right-wrapper is-right">
+
+[Book
+Here](https://www.dive.is/diving-snorkeling-tours/diving-day-tours/dry-suit-diver-course-diving-silfra-day-tour-combo "Open Page")
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="column is-6-tablet is-6-desktop is-3-fullhd">
+
+<div class="overview-item">
+
+<div class="hero is-primary teaser-box is-condensed has-badge">
+
+<div class="teaser-box-wrapper">
+
+[](https://www.dive.is/diving-snorkeling-tours/snorkeling-day-tours/snorkeling-silfra-the-golden-circle-combo "Visit https://www.dive.is/diving-snorkeling-tours/snorkeling-day-tours/snorkeling-silfra-the-golden-circle-combo")
+<div class="badge tour-badge">
+
+Special offer
+
+</div>
+
+<div class="image-figure">
+
+![Strokkur erupting on a summers day in
+Iceland]( "Strokkur erupting on a summers day in Iceland")
+![Strokkur erupting on a summers day in
+Iceland](https://www.dive.is/content/1-diving-snorkeling-tours/2-snorkeling-day-tours/2-snorkeling-silfra-the-golden-circle-combo/strokkur-erupting-summers-day-iceland.jpg "Strokkur erupting on a summers day in Iceland")
+<div class="teaser-box-content">
+
+### Snorkeling Silfra & the Golden Circle {#snorkeling-silfra-the-golden-circle .title}
+
+#### All the highlights in one day {#all-the-highlights-in-one-day .subtitle}
+
+<div class="meta">
+
+<div class="left-wrapper">
+
+<div class="price">
+
+<span class="is-price is-striked"> ISK 29.990</span>
+
+</div>
+
+<div class="price">
+
+<span class="is-price"> ISK 27.091</span>
+
+</div>
+
+</div>
+
+<div class="right-wrapper is-right">
+
+[Book
+Here](https://www.dive.is/diving-snorkeling-tours/snorkeling-day-tours/snorkeling-silfra-the-golden-circle-combo "Open Page")
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="section-spacer">
+
+<div class="container">
+
+<div class="dive-icon-sprite flippers">
+
+</div>
+
+</div>
+
+</div>
+
+<div class="section section cb-image-and-text has-expanded-image">
+
+<div class="fullsize-wrapper">
+
+![diver-coming-out-of-the-cathedral-in-silfra.jpg]( "diver-coming-out-of-the-cathedral-in-silfra")
+![diver-coming-out-of-the-cathedral-in-silfra.jpg](https://www.dive.is/content/home/content-builder/7-silfra/diver-coming-out-of-the-cathedral-in-silfra.jpg "diver-coming-out-of-the-cathedral-in-silfra")
+<div class="section">
+
+<div class="container">
+
+<div class="columns">
+
+<div class="content-holder text-is-left">
+
+<div class="content">
+
+#### Silfra {#silfra .headline}
+
+Silfra is famous for good reason: the basalt-filtered water is the
+clearest water on earth and trickles into a crack between two
+continental plates. Divers and snorkelers travel from all over the world
+to experience the absolutely unique underwater world of Silfra.
+
+</div>
+
+<div class="responsive-element-holder">
+
+<div class="element">
+
+[Read more about
+Silfra](https://www.dive.is/dive-sites/silfra "Read more about Silfra")
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="section-spacer">
+
+<div class="container">
+
+<div class="dive-icon-sprite bottle">
+
+</div>
+
+</div>
+
+</div>
+
+<div class="section section cb-image-and-text has-expanded-image">
+
+<div class="fullsize-wrapper">
+
+![snorkeler-floating-in-crystal-clear-water-silfra-fissure-tobias-friedrich.jpg]( "snorkeler-floating-in-crystal-clear-water-silfra-fissure-tobias-friedrich")
+![snorkeler-floating-in-crystal-clear-water-silfra-fissure-tobias-friedrich.jpg](https://www.dive.is/content/home/content-builder/8-one-image-with-text/snorkeler-floating-in-crystal-clear-water-silfra-fissure-tobias-friedrich.jpg "snorkeler-floating-in-crystal-clear-water-silfra-fissure-tobias-friedrich")
+<div class="section">
+
+<div class="container">
+
+<div class="columns">
+
+<div class="content-holder text-is-right">
+
+<div class="content">
+
+#### Snorkeling Tours {#snorkeling-tours .headline}
+
+Feel what it is like to fly in the endless visibility of a lava fissure
+ripped open by earthquakes! With glacial water temperature just above
+freezing, snorkeling in the Silfra crack is a truly Icelandic adventure.
+You can also combine the [Snorkeling Silfra Day
+Tour](https://www.dive.is/diving-snorkeling-tours/snorkeling-day-tours/silfra-snorkeling-day-tour)
+with other great activities and sightseeing opportunities in the area,
+such as the [Golden
+Circle](https://www.dive.is/diving-snorkeling-tours/snorkeling-day-tours/snorkeling-silfra-the-golden-circle-combo).
+
+</div>
+
+<div class="responsive-element-holder">
+
+<div class="element">
+
+[Browse all our Snorkeling
+Tours](https://www.dive.is/diving-snorkeling-tours/snorkeling-day-tours "Browse all our Snorkeling Tours")
+
+</div>
+
+<div class="element">
+
+[Book The Snorkeling Silfra Day
+Tour](https://www.dive.is/diving-snorkeling-tours/snorkeling-day-tours/silfra-snorkeling-day-tour "Book The Snorkeling Silfra Day Tour")
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="section-spacer">
+
+<div class="container">
+
+<div class="dive-icon-sprite mask">
+
+</div>
+
+</div>
+
+</div>
+
+<div class="section section cb-image-and-text has-expanded-image">
+
+<div class="fullsize-wrapper">
+
+![Diver decending into Silfra, Thingvellir,
+Iceland]( "Diver between the continental plates, Silfra, Iceland")
+![Diver decending into Silfra, Thingvellir,
+Iceland](https://www.dive.is/content/home/content-builder/9-diving-tours/diver-desending-into-silfra-iceland-thingvellir-magnus-lundgren.jpg "Diver between the continental plates, Silfra, Iceland")
+<div class="section">
+
+<div class="container">
+
+<div class="columns">
+
+<div class="content-holder text-is-left">
+
+<div class="content">
+
+#### Diving Day Tours {#diving-day-tours .headline}
+
+You will be mesmerized by unparalleled visibility between tectonic
+plates in the famous Silfra fissure. You can also join us for a dive
+tour of the nearby sites we love, such as in the bubbling geothermal
+lake Kleifarvatn on the mid-Atlantic ridge or off of the stunning
+Icelandic coast in the north Atlantic Ocean .
+
+</div>
+
+<div class="responsive-element-holder">
+
+<div class="element">
+
+[Browse all our Diving Day
+Tours](https://www.dive.is/diving-snorkeling-tours/diving-day-tours "Browse all our Diving Day Tours")
+
+</div>
+
+<div class="element">
+
+[Book the Diving Silfra Day
+Tour](https://www.dive.is/diving-snorkeling-tours/diving-day-tours/silfra-diving-day-tour "Book the Diving Silfra Day Tour")
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="section-spacer">
+
+<div class="container">
+
+<div class="dive-icon-sprite diver-o">
+
+</div>
+
+</div>
+
+</div>
+
+<div class="section section cb-image-and-text has-expanded-image">
+
+<div class="fullsize-wrapper">
+
+![Freediver in Silfra swimming between rock
+formations]( "Freediver swimming between the algae grown rock formations in Silfra")
+![Freediver in Silfra swimming between rock
+formations](https://www.dive.is/content/home/content-builder/10-freediving-tours/freedive-swimming-green-algae-silfra-rock-formations.jpg "Freediver swimming between the algae grown rock formations in Silfra")
+<div class="section">
+
+<div class="container">
+
+<div class="columns">
+
+<div class="content-holder text-is-right">
+
+<div class="content">
+
+#### Freediving Tours {#freediving-tours .headline}
+
+Experience the underwater world on your own terms for as long as you can
+hold your breath! Enjoy the crystal clear glacial water of Silfra or go
+hunting for the catch of the day in the adventurous foodhunt tour.
+
+</div>
+
+<div class="responsive-element-holder">
+
+<div class="element">
+
+[Browse all our Freediving
+Tours](https://www.dive.is/diving-snorkeling-tours/freediving-tours "Browse all our Freediving Tours")
+
+</div>
+
+<div class="element">
+
+[Book the Silfra Freedive
+Tour](https://www.dive.is/diving-snorkeling-tours/freediving-tours/silfra-freedive-day-tour "Book the Silfra Freedive Tour")
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="section-spacer">
+
+<div class="container">
+
+<div class="dive-icon-sprite flippers">
+
+</div>
+
+</div>
+
+</div>
+
+<div class="section section cb-image-and-text has-expanded-image">
+
+<div class="fullsize-wrapper">
+
+![Diver with a wolffish and a cod in
+Strýtan]( "Diver making new friends at the geothermal chimneys")
+![Diver with a wolffish and a cod in
+Strýtan](https://www.dive.is/content/home/content-builder/11-multiple-day-tours-expeditions/strytan-wolffish-diver-cod-iceland.jpg "Diver making new friends at the geothermal chimneys")
+<div class="section">
+
+<div class="container">
+
+<div class="columns">
+
+<div class="content-holder text-is-left">
+
+<div class="content">
+
+#### Multiple Day Tours & Dive Expeditions {#multiple-day-tours-dive-expeditions .headline}
+
+We will take you off the beaten path and travel through Iceland’s
+spectacular nature to the amazing [dive
+sites](https://www.dive.is/dive-sites) all over Iceland. The
+[Strýtan](https://www.dive.is/dive-sites/strytan) hydrothermal chimneys
+in a northern fjord, a [shipwreck in the
+east](https://www.dive.is/dive-sites/el-grillo), and a hidden crater in
+the interior are all possible on our [Multiple Day Dive
+Tours](https://www.dive.is/diving-snorkeling-tours/multiple-day-tours)
+and [Dive Expeditions](http://www.diveexpeditions.is).
+
+</div>
+
+<div class="responsive-element-holder">
+
+<div class="element">
+
+[Explore our Multiple Day Dive
+Tours](https://www.dive.is/diving-snorkeling-tours/multiple-day-tours "Explore our Multiple Day Dive Tours")
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="section-spacer">
+
+<div class="container">
+
+<div class="dive-icon-sprite bottle">
+
+</div>
+
+</div>
+
+</div>
+
+<div class="section section cb-tours">
+
+<div class="container">
+
+<div class="columns is-multiline">
+
+<div class="column is-6-tablet is-6-desktop is-3-fullhd">
+
+<div class="overview-item">
+
+<div class="hero is-primary teaser-box is-condensed">
+
+<div class="teaser-box-wrapper">
+
+[](https://www.dive.is/diving-snorkeling-tours/multiple-day-tours/3-day-reykjavik-dive-tour "Visit https://www.dive.is/diving-snorkeling-tours/multiple-day-tours/3-day-reykjavik-dive-tour")
+<div class="image-figure">
+
+![A split view of divers on a sunny day in Silfra lagoon,
+Iceland]( "silfra lagoon split view divers sunny day iceland")
+![A split view of divers on a sunny day in Silfra lagoon,
+Iceland](https://www.dive.is/content/1-diving-snorkeling-tours/4-multiple-day-tours/1-3-day-reykjavik-dive-tour/silfra-lagoon-split-view-divers-sunny-day-iceland.jpg "silfra lagoon split view divers sunny day iceland")
+<div class="teaser-box-content">
+
+### 3-Day Reykjavík Dive Tour {#day-reykjavík-dive-tour .title}
+
+#### Your introduction into arctic diving {#your-introduction-into-arctic-diving .subtitle}
+
+<div class="meta">
+
+<div class="right-wrapper">
+
+[Read
+more](https://www.dive.is/diving-snorkeling-tours/multiple-day-tours/3-day-reykjavik-dive-tour "Open Page")
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="column is-6-tablet is-6-desktop is-3-fullhd">
+
+<div class="overview-item">
+
+<div class="hero is-primary teaser-box is-condensed">
+
+<div class="teaser-box-wrapper">
+
+[](https://www.dive.is/diving-snorkeling-tours/multiple-day-tours/10-day-greenland-iceland-highlights-dive-tour "Visit https://www.dive.is/diving-snorkeling-tours/multiple-day-tours/10-day-greenland-iceland-highlights-dive-tour")
+<div class="image-figure">
+
+![Diver diving in an Iceberg in
+Greenland]( "diver-iceberg-Greenland-dive-is")
+![Diver diving in an Iceberg in
+Greenland](https://www.dive.is/content/1-diving-snorkeling-tours/4-multiple-day-tours/2-10-day-greenland-iceland-highlights-dive-tour/diver-iceberg-greenland-dive-is.jpg "diver-iceberg-Greenland-dive-is")
+<div class="teaser-box-content">
+
+### Fire & Ice {#fire-ice .title}
+
+#### Iceland Highlights & Greenland Expedition {#iceland-highlights-greenland-expedition .subtitle}
+
+<div class="meta">
+
+<div class="right-wrapper">
+
+[Read
+more](https://www.dive.is/diving-snorkeling-tours/multiple-day-tours/10-day-greenland-iceland-highlights-dive-tour "Open Page")
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="column is-6-tablet is-6-desktop is-3-fullhd">
+
+<div class="overview-item">
+
+<div class="hero is-primary teaser-box is-condensed">
+
+<div class="teaser-box-wrapper">
+
+[](https://www.dive.is/diving-snorkeling-tours/multiple-day-tours/the-2-day-reykjavik-winter-diving-tour "Visit https://www.dive.is/diving-snorkeling-tours/multiple-day-tours/the-2-day-reykjavik-winter-diving-tour")
+<div class="image-figure">
+
+![Two divers in Davíðsgjá]( "two-divers-davidsgja-dive-is")
+![Two divers in
+Davíðsgjá](https://www.dive.is/content/1-diving-snorkeling-tours/4-multiple-day-tours/8-the-2-day-reykjavik-winter-diving-tour/two-divers-davidsgja-dive-is.jpg "two-divers-davidsgja-dive-is")
+<div class="teaser-box-content">
+
+### The 2-Day Reykjavík Winter Diving Tour {#the-2-day-reykjavík-winter-diving-tour .title}
+
+#### Divers perfect getaway {#divers-perfect-getaway .subtitle}
+
+<div class="meta">
+
+<div class="right-wrapper">
+
+[Read
+more](https://www.dive.is/diving-snorkeling-tours/multiple-day-tours/the-2-day-reykjavik-winter-diving-tour "Open Page")
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="column is-6-tablet is-6-desktop is-3-fullhd">
+
+<div class="overview-item">
+
+<div class="hero is-primary teaser-box is-condensed">
+
+<div class="teaser-box-wrapper">
+
+[](https://www.dive.is/diving-snorkeling-tours/multiple-day-tours/the-ultimate-iceland-diver-tour "Visit https://www.dive.is/diving-snorkeling-tours/multiple-day-tours/the-ultimate-iceland-diver-tour")
+<div class="image-figure">
+
+![Diver in Nesgjá amd an algae
+carpet]( "diver-nesgja-algae-carpet-rene-lipmann")
+![Diver in Nesgjá amd an algae
+carpet](https://www.dive.is/content/1-diving-snorkeling-tours/4-multiple-day-tours/9-the-ultimate-iceland-diver-tour/diver-nesgja-algae-carpet-rene-lipmann.jpg "diver-nesgja-algae-carpet-rene-lipmann")
+<div class="teaser-box-content">
+
+### The Ultimate Iceland Dive Tour {#the-ultimate-iceland-dive-tour .title}
+
+#### Dive and drive Iceland's ring road {#dive-and-drive-icelands-ring-road .subtitle}
+
+<div class="meta">
+
+<div class="right-wrapper">
+
+[Read
+more](https://www.dive.is/diving-snorkeling-tours/multiple-day-tours/the-ultimate-iceland-diver-tour "Open Page")
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="section-spacer">
+
+<div class="container">
+
+<div class="dive-icon-sprite mask">
+
+</div>
+
+</div>
+
+</div>
+
+<div class="section section cb-image-and-text">
+
+<div class="container">
+
+<div class="columns">
+
+<div class="column">
+
+<div class="content-image image-with-text text-is-on-top">
+
+<div class="image-wrapper has-ratio is-4_3">
+
+![Split view image of a snorkeler on a private tour swimming from the
+Silfra platform]( "Snorkeler taking off from the Silfra entry platform")
+![Split view image of a snorkeler on a private tour swimming from the
+Silfra
+platform](https://www.dive.is/thumbs/home/content-builder/private-tours/snorkeler-swimming-silfra-platform-split-view-private-tour-iceland-anders-nyberg-1800x1350-q70.jpg "Snorkeler taking off from the Silfra entry platform")
+
+</div>
+
+<div class="content">
+
+#### Private Tours {#private-tours .headline}
+
+Would you like to propose to your partner during a dive in Silfra? Or
+would you like to have a private guide for your family at a time that
+suits you the best? All of our dive and snorkel tours can be custom-made
+with a private guide and vehicle. For any reason and at any time, we
+will take you there!
+
+<div class="responsive-element-holder">
+
+<div class="element">
+
+[Read more about our Private
+Tours](https://www.dive.is/diving-snorkeling-tours/private-tours "Read more about our Private Tours")
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="section-spacer">
+
+<div class="container">
+
+<div class="dive-icon-sprite diver-o">
+
+</div>
+
+</div>
+
+</div>
+
+<div class="section section cb-image-and-text">
+
+<div class="container">
+
+<div class="columns">
+
+<div class="column">
+
+<div class="content-image image-with-text text-is-on-top">
+
+<div class="image-wrapper has-ratio is-4_3">
+
+![Dry suit course students and their instructor assembling dive
+equipment]( "A dry suit diver course on a beautiful Icelandic winter day")
+![Dry suit course students and their instructor assembling dive
+equipment](https://www.dive.is/thumbs/home/content-builder/courses/dry-suit-course-instructor-students-assembling-dive-equipment-dive-is-1800x1350-q70.jpg "A dry suit diver course on a beautiful Icelandic winter day")
+
+</div>
+
+<div class="content">
+
+#### Courses {#courses-1 .headline}
+
+DIVE.IS, Iceland's PADI 5 Star IDC Development Dive Centre offers the
+whole range of PADI Dive Courses. From taking your first breath
+underwater to becoming a PADI Divemaster, Dive Instructor or Staff
+Instructor. You have come to the right place.
+
+<div class="responsive-element-holder">
+
+<div class="element">
+
+[Explore our Dive
+Courses](https://www.dive.is/dive-courses "Explore our Dive Courses")
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="section-spacer">
+
+<div class="container">
+
+<div class="dive-icon-sprite flippers">
+
+</div>
+
+</div>
+
+</div>
+
+<div class="section section cb-image-and-text">
+
+<div class="container">
+
+<div class="columns">
+
+<div class="column">
+
+<div class="content-image image-with-text">
+
+<div class="image-wrapper has-ratio is-16_9">
+
+![Our amazing Dive.is team]( "The best team in the world")
+![Our amazing Dive.is
+team](https://www.dive.is/thumbs/home/content-builder/behind-the-scenes/diveis-team-1800x1012.5-q70.jpg "The best team in the world")
+
+</div>
+
+<div class="content">
+
+#### Who we are {#who-we-are .headline}
+
+We look forward to dive or snorkel with you here in Iceland! We are
+proud of our highly trained and international team. Here you can get to
+know us.
+
+<div class="responsive-element-holder">
+
+<div class="element">
+
+[Get to know Our
+People](https://www.dive.is/about-us/our-people "Get to know Our People")
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="column">
+
+<div class="content-image image-with-text">
+
+<div class="image-wrapper has-ratio is-16_9">
+
+![Our office located in Reykjavík, Iceland is always ready to assist our
+diving and snorkeling customers before their
+tour]( "Dive.is office helping dive and snorkeling customers")
+![Our office located in Reykjavík, Iceland is always ready to assist our
+diving and snorkeling customers before their
+tour](https://www.dive.is/thumbs/home/content-builder/behind-the-scenes/diveis-office-helping-dive-and-snorkeling-customers-1800x1012.5-q70.jpg "Dive.is office helping dive and snorkeling customers")
+
+</div>
+
+<div class="content">
+
+#### Behind the scenes {#behind-the-scenes .headline}
+
+There is a lot we do to make sure that your snorkeling or diving tour
+runs as perfectly as possible and that the experience is unforgettable
+and enjoyable. Get a peek into what we are up to behind the scenes and
+what happens on tour.
+
+<div class="responsive-element-holder">
+
+<div class="element">
+
+[Take a peek Behind the
+Scenes](https://www.dive.is/about-us/dive-is-behind-the-scenes "Take a peek Behind the Scenes")
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="section-spacer">
+
+<div class="container">
+
+<div class="dive-icon-sprite bottle">
+
+</div>
+
+</div>
+
+</div>
+
+<div class="section section cb-image-and-text">
+
+<div class="container">
+
+<div class="columns">
+
+<div class="column">
+
+<div class="content-image image-with-text">
+
+<div class="image-wrapper has-ratio is-4_3">
+
+![News crew divers filming a video about
+Silfra]( "Divers Filming In Silfra")
+![News crew divers filming a video about
+Silfra](https://www.dive.is/thumbs/home/content-builder/articles-movies/divers_filming_in_silfra-1692x1269-q70.jpg "Divers Filming In Silfra")
+
+</div>
+
+<div class="content">
+
+#### Articles & Movies {#articles-movies .headline}
+
+Take a look at all the great things that have been said about diving and
+snorkelling in Iceland!
+
+<div class="responsive-element-holder">
+
+<div class="element">
+
+[Read Articles & Watch
+Movies](https://www.dive.is/about-us/article-and-movies "Read Articles & Watch Movies")
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="column">
+
+<div class="content-image image-with-text">
+
+<div class="image-wrapper has-ratio is-4_3">
+
+![Beautiful Green Algae can be found in Silfra,
+Thingvellir]( "Silfra Algae")
+![Beautiful Green Algae can be found in Silfra,
+Thingvellir](https://www.dive.is/thumbs/home/content-builder/articles-movies/silfra_algae-1800x1350-q70.jpg "Silfra Algae")
+
+</div>
+
+<div class="content">
+
+#### Sustainability {#sustainability .headline}
+
+We all want to do our part in protecting our planet. Read about the
+steps we take to do so.
+
+<div class="responsive-element-holder">
+
+<div class="element">
+
+[Read about our approach to
+sustainability](https://www.dive.is/about-us/our-philosophy "Read about our approach to sustainability")
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="section-spacer">
+
+<div class="container">
+
+<div class="dive-icon-sprite mask">
+
+</div>
+
+</div>
+
+</div>
+
+<div class="section section cb-news-block">
+
+<div class="container">
+
+<div class="columns is-multiline">
+
+<div class="column is-12">
+
+<div class="content">
+
+<span class="highlight is-primary">Read the latest news</span>\
+on our diving and snorkeling university {#read-the-latest-news-on-our-diving-and-snorkeling-university .headline .is-bold .has-break}
+---------------------------------------------------------------
+
+</div>
+
+------------------------------------------------------------------------
+
+</div>
+
+<div class="column is-12 is-9-desktop">
+
+<div class="media-col">
+
+<div class="content-image">
+
+<div class="image-wrapper has-ratio is-16_9">
+
+![Special April offer for Golden
+Circle]( "Beautiful Gullfoss under the Icelandic summer sky")
+![Special April offer for Golden
+Circle](https://www.dive.is/thumbs/about-us/news/special-april-offer-2018/golden-circle-special-april-offer-gullfoss-waterfall-photo-shutterstock-1800x1012.5-q70.jpg "Beautiful Gullfoss under the Icelandic summer sky")
+
+</div>
+
+</div>
+
+</div>
+
+<div class="content-col">
+
+<div class="content">
+
+### Special April Offer 2018 {#special-april-offer-2018 .headline .is-uppcercase}
+
+<div class="text-long">
+
+<div class="text is-toggled-text">
+
+<div class="content">
+
+<span class="is-info">01.04.2018</span>
+**SPECIAL APRIL OFFER!**\
+ We are offering a 10% discount for Silfra & Golden Circle Combo! The
+offer is valid for all Silfra & Golden Circle tour bookings made in
+April 2018 regardless of the tour date using the promocode GOLDEN18 when
+booking your tour. You can go ahead and book your Snorkeling Silfra &
+The Golden Circle
+[here](https://www.dive.is/diving-snorkeling-tours/snorkeling-day-tours/snorkeling-silfra-the-golden-circle-combo)
+or Diving Silfra & The Golden Circle
+[here](https://www.dive.is/diving-snorkeling-tours/diving-day-tours/dive-silfra-the-golden-circle-combo).
+This is the perfect experience to share with your family as this tour
+can be done together even though one of you is snorkeling and the other
+diving. You can even combine this tour with non-water participants as
+well! Send us an email and ask!
+
+Don't miss out on this great oppurtunity to see all the highlights in
+South-Iceland in just one day!
+
+</div>
+
+<div class="text-overlay is-white">
+
+<div class="show-more" data-handle="toogle-longtext">
+
+**
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="column is-12 is-9-desktop">
+
+<div class="media-col">
+
+<div class="content-image">
+
+<div class="image-wrapper has-ratio is-4_3">
+
+![Instructor and student during the IDC course
+2017]( "Instructor Development Course")
+![Instructor and student during the IDC course
+2017](https://www.dive.is/thumbs/about-us/news/padi-instructor-development-course-in-iceland/instructor-student-idc-course-1024x768-q70.jpg "Instructor Development Course")
+
+</div>
+
+</div>
+
+</div>
+
+<div class="content-col">
+
+<div class="content">
+
+### Padi instructor development course in iceland {#padi-instructor-development-course-in-iceland .headline .is-uppcercase}
+
+<div class="text-long">
+
+<div class="text is-toggled-text">
+
+<div class="content">
+
+<span class="is-info">19.09.2017</span>
+We are very excited to be planning two Instructor Development Courses in
+2018, our normal October one and for the first time ever one in April as
+well. Our Spring IDC will be held 16th to 23rd April and will include a
+special dive trip to [Silfra](https://www.dive.is/dive-sites/silfra),
+[Strytan](https://www.dive.is/dive-sites/strytan) and perhaps a few
+other secret spots as well, specially put together for our candidates.
+We have had an overwhelming response to our announcements for this IDC
+and have already got 7 candidates, one a local Icelandic guide and the
+other 6 from all over the world who will also be joining us as part of
+our summer staff team. We are looking forward to introducing these
+candidates, not only to the joys of teaching, but also, for some of
+them, to the world of drysuit diving and of course to the fantastic
+nature and culture of Iceland!
+
+During this fun-filled course, the candidates will be learning from our
+Course Director, Anders Holmberg from [Fantasea
+Diving](http://www.fantasea.se/) in Sweden, as well as our inhouse
+Master Instructors and IDC Staff Instructors. The course will include
+pool sessions, classroom sessions and open water dives, during which
+they will learn to teach all aspects of diving courses from Discover
+Scuba, all the way through to Divemaster. It is an intense action packed
+week, but everyone always has a blast!
+
+There are still spaces available if there are any Divemasters out there
+who would like to join us. For more information please contact
+Siobhan@dive.is
+
+</div>
+
+<div class="text-overlay is-white">
+
+<div class="show-more" data-handle="toogle-longtext">
+
+**
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div
+class="column is-offset-4-tablet is-offset-3-desktop is-12 is-6-desktop is-8-tablet">
+
+<div class="is-clearfix">
+
+[Show all News](https://www.dive.is/about-us/news)
+
+</div>
+
+</div>
+
+</div>
+
+------------------------------------------------------------------------
+
+<div class="columns is-multiline">
+
+<div class="column is-12 is-4-tablet is-3-desktop">
+
+<div class="content">
+
+### Newsletter {#newsletter .headline .is-uppercase}
+
+</div>
+
+</div>
+
+<div class="column is-12 is-6-desktop is-8-tablet">
+
+Every couple of months or if something interesting is happending in the
+Icelandic world of diving and snorkeling, we send out a newsletter.
+
+\
+\
+<div class="field has-addons">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="section-spacer">
+
+<div class="container">
+
+<div class="dive-icon-sprite diver-o">
+
+</div>
+
+</div>
+
+</div>
+
+<div class="section section cb-image-and-text">
+
+<div class="container">
+
+<div class="columns">
+
+<div class="column">
+
+<div class="content-image image-with-text text-is-on-top">
+
+<div class="image-wrapper has-ratio is-4_3">
+
+![Our guide giving his customers a briefing before their snorkeling tour
+in Icelandic winter
+time]( "Our guide giving his customers a briefing before their snorkeling tour in Icelandic winter time")
+![Our guide giving his customers a briefing before their snorkeling tour
+in Icelandic winter
+time](https://www.dive.is/thumbs/home/content-builder/faq/guide-briefing-customer-in-winter-1480x1110-q70.jpg "Our guide giving his customers a briefing before their snorkeling tour in Icelandic winter time")
+
+</div>
+
+<div class="content">
+
+#### Our most frequently asked questions {#our-most-frequently-asked-questions .headline}
+
+Have a question? You are likely to find the answer in our FAQs along
+with more information about your dive or snorkel tour. Here are three
+that you might find helpful:
+
+-   [Do you offer photo packages from the dive and snorkel
+    tours?](https://www.dive.is/faq/do-you-offer-photo-packages-from-the-dive-and-snorkel-tours)
+-   [How cold is the water in
+    Silfra?](https://www.dive.is/faq/how-cold-is-the-water-in-silfra)
+-   [What type of certification do I need in order to participate in the
+    Diving Silfra Day
+    Tour?](https://www.dive.is/faq/what-type-of-certification-do-i-need-in-order-to-participate-in-this-tour)
+
+<div class="responsive-element-holder">
+
+<div class="element">
+
+[Read more FAQS](https://www.dive.is/faq "Read more FAQS")
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="container">
+
+<div class="columns is-multiline is-vertically-centered is-flex">
+
+<div class="column is-4-desktop is-12-tablet is-12-mobile">
+
+<div class="columns is-mobile is-multiline contact-col">
+
+<div class="column is-12">
+
+<div class="footer-content">
+
+<div class="content">
+
+DIVE.IS - Sport Diving School of Iceland\
+ Hólmaslóð 2 - 101 Reykjavík - Iceland
+
+[dive@dive.is](mailto:%20dive@dive.is)\
+[+(354) 578 6200](tel:%20+3545786200)\
+
+</div>
+
+</div>
+
+</div>
+
+<div class="column is-12 social-col">
+
+<div class="socialmediaicons">
+
+![Facebook]( "Visit us on Facebook")
+![Facebook](https://www.dive.is/assets/images/facebook.svg "Visit us on Facebook")
+![YouTube]( "Visit us on YouTube")
+![YouTube](https://www.dive.is/assets/images/youtube.svg "Visit us on YouTube")
+![Instagram]( "Visit us on Instagram")
+![Instagram](https://www.dive.is/assets/images/instagram.svg "Visit us on Instagram")
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="button-column">
+
+[** <span class="has-horizontal-space"> Call us +(354) 578 6200
+</span>](tel:%20+3545786200) [Terms and
+Conditions](https://www.dive.is/terms-and-conditions)
+
+</div>
+
+<div class="padi-column">
+
+![PADI 5 STAR CENTER]( "PADI 5 STAR CENTER")
+![PADI 5 STAR
+CENTER](https://www.dive.is/assets/images/padi.svg "PADI 5 STAR CENTER")
+<span class="subtext">PADI 5 STAR CENTER</span>
+
+</div>
+
+<div class="certificates-column">
+
+<div class="columns is-mobile certificates">
+
+<div class="column is-6">
+
+![Tripadvisor]( "Tripadvisor 5 star rating")
+![Tripadvisor](https://www.dive.is/assets/images/TripAdvisorNumber1Ratedai.png "Tripadvisor 5 star rating")
+
+</div>
+
+<div class="column is-6">
+
+![VAKINN]( "VAKINN Certification")
+![VAKINN](https://www.dive.is/assets/images/vakinn.png "VAKINN Certification")
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="columns">
+
+<div class="column">
+
+<div class="section-spacer is-transparent">
+
+<div class="container">
+
+<div class="dive-icon-sprite diver-o">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="columns sitemapcolumns">
+
+<div class="column">
+
+[Tours](https://www.dive.is/diving-snorkeling-tours)
+
+------------------------------------------------------------------------
+
+<div class="content">
+
+-   [Diving
+    Tours](https://www.dive.is/diving-snorkeling-tours/diving-day-tours)
+-   [Snorkeling
+    Tours](https://www.dive.is/diving-snorkeling-tours/snorkeling-day-tours)
+-   [Freediving
+    Tours](https://www.dive.is/diving-snorkeling-tours/freediving-tours)
+-   [Multiple Day Dive
+    Tours](https://www.dive.is/diving-snorkeling-tours/multiple-day-tours)
+-   [Private
+    Tours](https://www.dive.is/diving-snorkeling-tours/private-tours)
+-   [Media & Film Crew
+    Services](https://www.dive.is/diving-snorkeling-tours/media-film-crew-services)
+
+</div>
+
+</div>
+
+<div class="column">
+
+[Sites](https://www.dive.is/dive-sites)
+
+------------------------------------------------------------------------
+
+<div class="content">
+
+-   [Silfra](https://www.dive.is/dive-sites/silfra)
+-   [Strýtan](https://www.dive.is/dive-sites/strytan)
+-   [Gullfoss & Geysir](https://www.dive.is/dive-sites/gullfoss-geysir)
+-   [Kleifarvatn](https://www.dive.is/dive-sites/kleifarvatn)
+-   [Garður](https://www.dive.is/dive-sites/gardur)
+-   [Bjarnagjá](https://www.dive.is/dive-sites/bjarnagja)
+-   [Davíðsgjá](https://www.dive.is/dive-sites/davidsgja)
+-   [Nesgjá](https://www.dive.is/dive-sites/nesgja)
+-   [Litlaá](https://www.dive.is/dive-sites/litlaa)
+-   [Westfjords](https://www.dive.is/dive-sites/westfjords)
+-   [El Grillo](https://www.dive.is/dive-sites/el-grillo)
+-   [Gullkistuvik](https://www.dive.is/dive-sites/gullkistuvik)
+
+</div>
+
+</div>
+
+<div class="column">
+
+[Courses](https://www.dive.is/dive-courses)
+
+------------------------------------------------------------------------
+
+<div class="content">
+
+-   [Beginner
+    Courses](https://www.dive.is/dive-courses/padi-beginner-dive-courses)
+-   [Advanced
+    Courses](https://www.dive.is/dive-courses/padi-advanced-dive-courses)
+-   [Pro
+    Courses](https://www.dive.is/dive-courses/padi-pro-dive-courses)
+-   [PADI Specialty Dive
+    Courses](https://www.dive.is/dive-courses/padi-specialty-dive-courses)
+
+</div>
+
+</div>
+
+<div class="column">
+
+[About Us](https://www.dive.is/about-us)
+
+------------------------------------------------------------------------
+
+<div class="content">
+
+-   [Our People](https://www.dive.is/about-us/our-people)
+-   [Behind the
+    Scenes](https://www.dive.is/about-us/dive-is-behind-the-scenes)
+-   [Our Philosophy](https://www.dive.is/about-us/our-philosophy)
+-   [Safety &
+    Equipment](https://www.dive.is/about-us/safety-and-equipment)
+-   [News](https://www.dive.is/about-us/news)
+-   [Article & Movies](https://www.dive.is/about-us/article-and-movies)
+-   [Souvenirs](https://www.dive.is/about-us/souvenirs)
+-   [Cancellation
+    Policy](https://www.dive.is/about-us/cancellation-policy)
+-   [Newsletter](https://www.dive.is/about-us/newsletter)
+
+</div>
+
+</div>
+
+</div>
+
+<div class="copyright-col">
+
+<div class="content">
+
+© DIVE.IS - Sport Diving School of Iceland 1997 - 2018
+
+[Privacy Policy](https://www.dive.is/privacy-policy) - [Terms and
+Conditions](https://www.dive.is/terms-and-conditions) -
+[Imprint](https://www.dive.is/imprint)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div
+class="section section header-disclaimer cookie-disclaimer is-collapsed">
+
+<div class="hero-head">
+
+<div class="container">
+
+<div class="columns is-mobile">
+
+<div class="column is-left-column">
+
+<div class="content">
+
+We use cookies to give you a better experience on our website and
+chocolate covered cookies to give you an even better experience on our
+tour.\
+ By continuing to use our site, you are agreeing to the use of cookies
+as set in our [Privacy Policy](https://www.dive.is/privacy-policy).
+
+</div>
+
+</div>
+
+<div class="column is-right-column">
+
+OK
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[**](#top "Go to top")
+-   [**](https://www.facebook.com/sharer/sharer.php?u=https://www.dive.is "Share via Facebook")
+-   [**](https://twitter.com/intent/tweet?text=https%3A%2F%2Fwww.dive.is%0APADI+5+STAR+DIVE+CENTER%0AICELANDS+LEADING+DIVE+%26+SNORKEL+TOUR+OPERATOR+SINCE+1997 "Share via Twitter")
+-   [**](https://plus.google.com/share?url=https://www.dive.is "Share via Google+")
+-   [**](https://pinterest.com/pin/create/link/?url=https%3A%2F%2Fwww.dive.is&description=https%3A%2F%2Fwww.dive.is%3Cbr%3E%0APADI+5+STAR+DIVE+CENTER%3Cbr%3E%0AICELANDS+LEADING+DIVE+%26+SNORKEL+TOUR+OPERATOR+SINCE+1997 "Share via Pinterest")
+-   [**](https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.dive.is%20-%20%0APADI%205%20STAR%20DIVE%20CENTER%20-%20%0AICELANDS%20LEADING%20DIVE%20%26%20SNORKEL%20TOUR%20OPERATOR%20SINCE%201997 "Share via Whatsapp")
+-   [**](mailto:?body=https://www.dive.is%3Cbr%3E%0APADI%205%20STAR%20DIVE%20CENTER%3Cbr%3E%0AICELANDS%20LEADING%20DIVE%20&%20SNORKEL%20TOUR%20OPERATOR%20SINCE%201997 "Share via EMail")
+-   [**](#close "Close Share-Bar") [**](#open "Open Share-Bar")
+
+</div>
+
+</div>

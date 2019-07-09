@@ -10,8 +10,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, maximum-scale=1.0">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
   <link href="https://fonts.googleapis.com/css?family=PT+Sans" rel="stylesheet">
-  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/styles/projekt.css" />
-  <link rel="shortcut icon" type="image/x-icon" href="{{site.baseurl}}/favicon.ico">
+  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/mi-lib/assets/styles/projekt.css" />
+  <link rel="shortcut icon" type="image/x-icon" href="{{site.baseurl}}/mi-lib/assets/images/favicon.ico">
   <!--script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.8.2/showdown.min.js"></script-->
 </head>
 
@@ -37,18 +37,17 @@
     </div>
 
     <!-- Hero content: will be in the middle -->
-    <div class="hero-body is-header">
+    <div class="hero-body is-header" style="background-image: linear-gradient(to left, rgba(0, 0, 0, 0), rgba(0, 0, 0, 1)), url({{ site.baseurl }}/images/hero-projekt-{{page.year}}.jpg);">
       <div class="container ">
         <div class="columns">
-          <div class="column is-half">
-            <h1 class="title">Projekt 2018</h1>
-            <h2 class="subtitle">Screendesign Mobile App Lucas Cranach Archiv</h2>
+          <div class="column">
+            <h1 class="title">WebDev Projekt {{page.year}}</h1>
+            <h2 class="subtitle is-2">{{page.title}}</h2>
           </div>
         </div>
       </div>
     </div>
   </section>
-
 
   {{content}}
 
@@ -64,19 +63,19 @@
         </div>
         <div class="column">
           <div class="content is-small">
-            <p markdown="1">Projektseite zum Modul "Screendesign" im [Studiengang
+            <p markdown="1">Projektseite zum Modul "Web Development" im [Studiengang
               Medieninformatik Bachelor](https://www.th-koeln.de/studium/medieninformatik-bachelor_2379.php) der [TH
               Köln](https://www.th-koeln.de/hochschule/impressum_8159.php).</p>
-            <p markdown="1">Verantwortlicher Dozent ist [Prof. Christian Noss](https://github.com/cnoss).</p>
+            <p markdown="1">Verantwortliche Dozenten sind [Prof. Christian Noss](https://github.com/cnoss) und [Prof. Dr. Kristian Fischer](https://www.th-koeln.de/personen/kristian.fischer/).</p>
           </div>
         </div>
       </div>
     </div>
   </footer>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.8.3/showdown.min.js"></script>
-  <script async defer src="//assets.pinterest.com/js/pinit.js"></script>
-  <script src="{{ site.baseurl }}/assets/js/screendesign.js"></script>
+  <script src="{{ site.baseurl }}/mi-lib/assets/js/mi-jekyll.js"></script>
 
 </body>
 
 </html>
+

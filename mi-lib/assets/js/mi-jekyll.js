@@ -87,6 +87,7 @@ more.func = (function () {
       item.classList.add("fa-angle-down");
       item.classList.add("fa-lg");
       item.classList.add("more-button");
+      item.classList.add("pull-right");
 
       item.onclick = function () {
 
@@ -180,10 +181,11 @@ panelTabs.func = (function () {
 
 var urlParams = new URLSearchParams(window.location.search);
 if (!urlParams.has('media')) {
-  more.func.init();
   tabs.func.init();
   panelTabs.func.init();
 }
+
+more.func.init();
 
 
 /* Zwischenstand Video

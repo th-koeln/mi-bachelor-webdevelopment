@@ -27,5 +27,13 @@ sl:
   email: sascha.lemke@th-koeln.de
 db:
   name: Dirk Breuer
-  email: mail@breuer.io  
-
+  email: mail@breuer.io
+ms:
+  name: Marc Schmidt
+  email: marc.schmidt1@th-koeln.de
+jl:
+  name: Julian Lengelsen
+  email: julian.lengelsen@th-koeln.de
+jd:
+  name: Jann Deterling
+  email: jann.deterling@th-koeln.de

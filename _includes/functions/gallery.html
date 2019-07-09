@@ -1,0 +1,69 @@
+{% comment %}##################################################################
+-------------------------------------------------------------------------------
+
+function create-image-gallery
+
+input:
+include.path: Pfad zum Ordner
+include.lb: Bezeichnung für die Lightbox-Sammlung
+include.size: Groesse der Bilder: small, medium, large
+
+output:
+Erzeugt eine Light-Box Image-Gallery durch Auslesen aller Bilder eines Ordners
+
+Aufruf:
+{% include functions/create-image-gallery.html path='' %}
+
+author:
+se
+
+-------------------------------------------------------------------------------
+###############################################################{% endcomment %}
+
+{% if include.path %}
+<!-- Slider main container -->
+<div class="swiper-container">
+  <!-- Additional required wrapper -->
+  <div class="swiper-wrapper">
+    <!-- Slides -->
+    {% for image in site.static_files %}
+    {% if image.path contains include.path %}
+    {% assign img-name = image.path | replace: "-", " " %}
+    {% assign img-name = img-name | replace: "_", " " %}
+    {% assign img-name = img-name | replace: ".jpg", "" %}
+    {% assign img-name = img-name | replace: ".png", "" %}
+    {% assign img-name = img-name | replace: include.path, "" %}
+    {% assign img-name = img-name | replace: "/assets", "" %}
+    {% assign img-name = img-name | replace: "Koeln", "Köln" %}
+
+    <div class="swiper-slide">
+      <img src="{{ site.baseurl }}{{ image.path }}" alt="{{ img-name }}" />
+    </div>
+    {% endif %}
+    {% endfor %}
+
+  </div>
+  <!-- If we need pagination -->
+  <div class="swiper-pagination"></div>
+
+  <!-- If we need navigation buttons -->
+  <div class="swiper-button-prev"></div>
+  <div class="swiper-button-next"></div>
+
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.5.0/js/swiper.min.js"></script>
+<!-- Initialize Swiper -->
+<script>
+  var swiper = new Swiper('.swiper-container', {
+    pagination: {
+      el: '.swiper-pagination',
+      type: 'progressbar',
+    },
+    navigation: {
+      nextEl: '.swiper-button-next',
+      prevEl: '.swiper-button-prev',
+    },
+  });
+</script>
+{% endif %}

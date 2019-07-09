@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+    <html>
+    <head>
+        <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+        <title>Worum geht es?</title>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.10.0/dist/katex.min.css" integrity="sha384-9eLZqc9ds8eNjO3TmqPeYcDj8n+Qfa4nuSiGYa6DjLNcv9BtN69ZIulL9+8CqC9Y" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/markdown.css">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/highlight.css">
+        <link href="https://cdn.jsdelivr.net/npm/katex-copytex@latest/dist/katex-copytex.min.css" rel="stylesheet" type="text/css">
+        <style>
+.task-list-item { list-style-type: none; } .task-list-item-checkbox { margin-left: -20px; vertical-align: middle; }
+</style>
+        <style>
+            body {
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', 'Ubuntu', 'Droid Sans', sans-serif;
+                font-size: 14px;
+                line-height: 1.6;
+            }
+        </style>
+        
+        <script src="https://cdn.jsdelivr.net/npm/katex-copytex@latest/dist/katex-copytex.min.js"></script>
+    </head>
+    <body>
+        <hr>
+<h2 id="titel-javascript-advancedkuerzel-fd1verantwortlich-vstyp-fd1pflicht-falsetermine-2019-05-03-1000empfohlene-voraussetzungenpublished-truedauer-360raum-0505info-heute-geht-es-um">titel: Javascript Advanced
+kuerzel: fd1
+verantwortlich: vs
+typ: fd1
+pflicht: false
+termine: 2019-05-03 10:00
+empfohlene-voraussetzungen:
+published: true
+dauer: 360
+raum: 0.505
+info: Heute geht es um …</h2>
+<h2 id="worum-geht-es">Worum geht es?</h2>
+<p>Zuerst beschäftigen wir uns mit CSS Selektoren und der Cascade in CSS.</p>
+<p>Anschließend geht es um die Verwendung von Javascript auf der Clientseite im Browser.
+Wir schauen uns das Document Object Model, lernen  Methoden kennen, über die man das DOM manipuliert und wie man über Events auf Interaktionen reagieren kann.</p>
+<p>Zum Schlussa beschäftigen wir uns noch mit dem Thema CSS Animationen.</p>
+<h2 id="was-muss-ich-mitbringen">Was muss ich mitbringen?</h2>
+<p>Eigenen Computer mit Web-Editor und Basiskenntnissen zu Javascript (Variablen, Datentypen, If Anweisung, Schleifen, Arrays)</p>
+<h2 id="material">Material</h2>
+<ul>
+<li><a href="../../material/frontend-development-1/session-4/slides/Chapter08-JavaScript1LanguageFundamentals.pdf">JavaScript 1: Language Fundamentals - Folien</a></li>
+<li><a href="../../material/frontend-development-1/session-4/slides/Chapter09-JavaScript2UsingJavaScript.pdf">JavaScript 2: Using JavaScript - Folien</a></li>
+<li><a href="../../material/frontend-development-1/session-3/slides/Chapter07-AdvancedCSSLayout.pdf">Advanced CSS Layout - Folien</a></li>
+<li><a href="https://blog.kulturbanause.de/2014/05/interaktionen-und-mouse-over-effekte-mit-css3-transitions/">Interaktionen und Mouse-Over-Effekte mit CSS-Transitions </a></li>
+<li><a href="https://blog.kulturbanause.de/2015/10/css-keyframe-animationen/">CSS Keyframe-Animationen</a></li>
+</ul>
+<h2 id="sie-haben-keinen-rechner">Sie haben keinen Rechner?</h2>
+<p>Kein Problem, denn wir haben welche. Allerdings nur Macs. Uuuuuhh. Wenn Sie einen brauchen, bitte rechtzeitig an Volker Schaefer wenden. Unsere Rechner können nur für die Workshops und Trainings ausgeliehen werden. Im MI Pool stehen aber immer Rechner für Sie bereit.</p>
+<p>##Übungen</p>
+<h3 id="vorbereitung">Vorbereitung</h3>
+<p>Wir werden zur Bearbeitung der Aufgaben wieder GitHub Classroom nutzen.</p>
+<p>Verwenden Sie dazu das Repository, aus dem vorherigen Workshop. Falls Sie noch kein Repository erzeugt haben, folgen Sie diesem <a href="https://classroom.github.com/a/Bh-v2UbH">Einladungslink</a>.</p>
+<p>Erzeugen Sie auf Basis des Master Branches einen Branch mit dem Namen „session-4” und wechseln Sie bitte in diesen Branch.</p>
+<p>Die Aufgaben bauen auf dem Markup und CSS von den Übungen aus den vorangegangen Workshops auf. Falls Sie kein Markup und CSS haben, laden Sie sich bitte folgendes <a href="../../material/frontend-development-1/session-3/lucas-cranach-archiv.zip">Material</a> herunter, kopieren Sie es in ihr Repository und comitten Sie die Änderungen.</p>
+<p>Ziel der folgenden Aufgaben ist es auf Basis der Bildübersicht, die wir in der ersten Session erstellt haben, eine interaktive Slideshow zu erstellen.</p>
+<h3 id="aufgabe-1--basis-layout">Aufgabe 1 // Basis Layout</h3>
+<p>Öffnen Sie die Datei tour.html mit der Bildübersicht, welche Sie in der ersten Session erstellt haben.</p>
+<p>Binden Sie die bereits verwendete <code>reset.css</code> oder <code>normalize.css</code>, den Roboto Font und ihre erstelle CSS Datei ein.</p>
+<p>Passen Sie nun das Markup und CSS an, so dass das das Grundlayout, bestehend aus Header und dem Contentbereich, wie in der <a href="../../material/frontend-development-1/session-1/aufgabe-4/layout-bilduebersicht.png">Vorlage</a> vorgegeben,  entsteht.</p>
+<h3 id="aufgabe-2--layout">Aufgabe 2 // Layout</h3>
+<p>Fügen Sie folgende [SVG Grafik] ihrem img-Ordner hinzu.</p>
+<p>Erzeugen Sie unter den Bildunterschriften eine Navigation aus zwei Schaltflächen zum Vor- und Zurückschalten der Bilder.</p>
+<p>Erweitern Sie das CSS so dass alle Bilder und Bildunterschriften jeweils zu einem Stapel übereinander gelegt werden, horizontal zentriert sind und sich die Schaltflächen nebeneinander unter den Bildunterschriften befinden.</p>
+<h3 id="aufgabe-3--slideshow">Aufgabe 3 // Slideshow</h3>
+<p>Erzeugen Sie in dem Ordner <code>lucas-cranach-archiv</code> einen Ordner mit der Bezeichnung <code>JS</code> und darin eine Datei mit dem Namen <code>script.js</code>.</p>
+<p>Binden Sie die Datei in die tour.html ein.</p>
+<p>Erstellen Sie nun aus den Bildern und Bildunterschriften eine Slideshow via CSS und Javascript. Über die beiden Schaltflächen soll es möglich sein, ein Bild vor und zurück zu schalten, wobei sich die Bildunterschrift auch entsprechend ändern soll.</p>
+<h3 id="aufgabe-3--slideshow-animation">Aufgabe 3 // Slideshow Animation</h3>
+<p>Die gesamte Seite soll nun in 0.5 Sekunden über die Transparenz einfaden, nachdem das DOM fertig geladen ist.</p>
+<p>Der gleiche Effekt soll bei einem Bildwechsel auf die Bilder in der Slidehow angewendet werden.</p>
+<h3 id="aufgabe-4--gallery">Aufgabe 4 // Gallery</h3>
+<p>Duplizieren Sie die tour.html und passen Sie das Markup und CSS so an, dass die Fotos in einem Bildstreifen nebeneiander angeordnet werden. Die Bildunterschriften sollen jeweils unter dem dazugehörigen Bild stehen.</p>
+<p>Erweitern Sie ihr Javascript dahingegend, dass beim Betätigen der Schaltflächen für den Bildwechsel der Bildstreifen um ein Bild vor oder zurück geschoben wird und das zentrierte Bild größer dargestellt wird.</p>
+<p>Das Verschieben und Skalieren soll jeweils über eine Animation stattfinden.</p>
+<h3 id="augabe-5--mehrere-slideshows-auf-einer-seite">Augabe 5 // Mehrere Slideshows auf einer Seite</h3>
+<p>Öffnen Sie die Datei <code>tour.html</code> und duplizieren Sie die Section mit der Slideshow.</p>
+<p>Ändern Sie für die zweite Slideshow die Headline in „Bereits angesehene Bilder”</p>
+<p>Modifizieren Sie das Javascript dahingegend, dass beide Slideshows unabhängig voneinander funktioineren. Vermeiden Sie dabei den Javascript Code zu duplizieren.</p>
+
+    </body>
+    </html>

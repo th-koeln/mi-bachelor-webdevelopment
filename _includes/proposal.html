@@ -1,0 +1,30 @@
+{% assign proposal = inculde.proposal %}
+<article class="proposal">
+<h1 class="title" data-target="{{ proposal.id }}">{{proposal.title}}</h1>
+<p class="subtitle is-3">{{proposal.team}}</p>
+
+<div id="{{proposal.id}}" class="is-hidden">
+<dl>
+    {% assign check = proposal.repo | strip_newlines %}
+    {% if check != ""  %}
+    <dt>Git Repository</dt>
+    <dd><a href="{{proposal.repo}}">{{proposal.repo}}</a></dd>
+    {% endif %}
+
+    {% assign check = proposal.field | strip_newlines %}
+    {% if check != ""  %}
+    <dt>Anwendungsgebiet</dt>
+    <dd>{{proposal.field}}</dd>
+    {% endif %}
+
+    {% assign check = proposal.type | strip_newlines %}
+    {% if check != ""  %}
+    <dt>Typ</dt>
+    <dd>{{proposal.type}}</dd>
+    {% endif %}
+</dl>
+
+{{proposal.content}}
+
+</div>
+</article>

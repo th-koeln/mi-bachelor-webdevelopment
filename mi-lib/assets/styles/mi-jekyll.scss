@@ -746,6 +746,21 @@ $tt-grid-height: 60px;
 pre code {
   background-color: transparent;
   color: #fff;
+  font-family: $family-monospace;
+}
+
+.codesnippet{
+  figure.highlight{
+    text-align: left;
+    background-color: $mi-grau;
+    color: #000;
+    margin: 0;
+    padding: 0;
+
+    code{
+      color: #000;
+    }
+  }
 }
 
 
