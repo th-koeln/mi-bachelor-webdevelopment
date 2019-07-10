@@ -7,7 +7,7 @@ pflicht: false
 termine: 2019-07-11 14:30
 empfohlene-voraussetzungen: 
 published: true
-dauer: 180
+dauer: 90
 raum: 0.505
 info:
 ---
