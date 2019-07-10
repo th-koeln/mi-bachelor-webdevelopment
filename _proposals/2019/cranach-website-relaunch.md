@@ -8,7 +8,7 @@ repo: https://github.com/JanKoll/cranach-website-relaunch
 
 ## Idee
 
-Eine umfassende Neugestalltung und Umsetzung der Cranach Webseite auf auf Basis eines CMSs.
+Eine umfassende Neugestaltung und Umsetzung der Cranach Webseite auf auf Basis eines CMSs.
 
 ## Besonderheit
 

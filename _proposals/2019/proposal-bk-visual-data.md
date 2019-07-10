@@ -8,7 +8,3 @@ repo: https://github.com/bogdankrenz/wd-projekt-2019
 
 ## Idee
 Open Data von dem Verkehrsminesterium nutzen, um diese in einer Website in Tabellen und Graphen zu visualisieren und ggf. zu vergleichen.
-
-
-## Besonderheit
-

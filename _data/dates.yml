@@ -313,5 +313,26 @@ week-15:
     start: "09:00"
     end: "18:00"
     name: Freitag
+week-16:
+  day-1:
+    datum: 2019-07-16
+    start: "13:00"
+    end: "18:00"
+    name: Dienstag
+  day-2:
+    datum: 2019-07-17
+    start: "09:00"
+    end: "18:00"
+    name: Mittwoch
+  day-3:
+    datum: 2019-07-18
+    start: "09:00"
+    end: "18:00"
+    name: Donnerstag
+  day-4:
+    datum: 2019-07-19
+    start: "09:00"
+    end: "18:00"
+    name: Freitag
 
     
