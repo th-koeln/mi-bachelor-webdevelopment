@@ -1,0 +1,208 @@
+#+TITLE: Git Basics
+#+AUTHOR: Dirk Breuer <mail@breuer.io>
+#+DATE: 03.05.2017
+
+** Init git Repository
+
+=git init git-basics=
+=cd git-basics=
+=git status=
+
+** Create a file =README.md=
+
+#+NAME: README.md
+#+BEGIN_SRC md
+# Git Basics
+
+Learning the git basics
+#+END_SRC
+
+=git status=
+=git add README.md=
+=git commit -m "Added placeholder README"=
+=git status=
+
+** Inspect git history
+
+=git log=
+=git show <commit-sha>=
+=git show HEAD=
+
+** Explain the HEAD
+
+Pointer to the current branch
+
+=cat .git/HEAD=
+=git checkout <commit-sha>= -> detached HEAD
+=cat .git/HEAD=
+
+Edit =README.md=
+
+=git status=
+=git reset --hard HEAD=
+=git status=
+
+What are branches?
+
+** Add another file
+
+First, create a branch
+
+=git checkout -b add-index-html=
+
+#+NAME: index.html
+#+BEGIN_SRC html
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>WPF Social Coding</title>
+  </head>
+
+  <body>
+    <h1>Willkommen</h1>
+  </body>
+</html>
+#+END_SRC
+
+=git status=
+=git add index.html=
+=git commit -m "Added index.html"=
+
+What happens without =-m=?
+
+Add an image
+
+#+NAME: index.html
+#+BEGIN_SRC html
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>WPF Social Coding</title>
+  </head>
+
+  <body>
+    <h1>Willkommen</h1>
+
+    <img src="taco.gif" />
+  </body>
+</html>
+#+END_SRC
+
+=cp /tmp/taco.gif .=
+=git status=
+=git add index.html=
+=git add taco.gif=
+=git commit=
+=git diff master=
+
+=taco.gif= is a binary file!
+
+What is this =git diff=?
+
+=git diff HEAD~=
+=git diff HEAD~3=
+=git diff master=
+=git diff origin/master=
+=git diff 38d87ef=
+=git diff origin/master..HEAD=
+
+Getting the branch back into master
+
+=git checkout master=
+=git merge add-index-html=
+
+"Fast Forward"????
+
+=git reset --hard HEAD~=
+=git merge --no-ff add-index-html=
+
+This creates a merge commit
+
+=git log=
+=git log --graph --pretty=onelin=
+
+** Inspecting git objects
+
+=ls -lsa=
+
+=.git= directory?
+=ls -lsa .git=
+=tree 2 .git/objects=
+=less .git/objects/xx/xxx=
+=git cat-file -p xxxxxx=
+
+*** Manually write and read git objects: see manual-git.rb
+    =pry=
+
+=echo -n 'There is no spoon!' | git hash-object -w --stdin=
+
+** gitignore
+
+=mkdir tmp/=
+=git status=
+
+=tmp= doesn't show. Git tracks content and an empty directory is not content!
+=touch tmp/cache.txt=
+=git status=
+=echo "tmp/" > .gitignore=
+=git status=
+=git add .gitignore=
+=git commit -m "Don't track tmp directory"=
+
+** Adding hunks
+
+#+NAME: index.html
+#+BEGIN_SRC html
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta robots="nofollow,index">
+    <title>WPF Social Coding</title>
+  </head>
+
+  <body>
+    <h1>Willkommen</h1>
+
+    <img src="taco.gif" />
+
+    <p>
+      Take a look, his speed, his ferocity, his training. I see the power of belief. I see the League of Shadows resurgent.
+    </p>
+  </body>
+</html>
+#+END_SRC
+
+=git add -p=
+
+** Reverting commits
+** Rebase
+** Going remote
+** git send-email
+
+# NAME: .git/config
+#+BEGIN_SRC
+[sendemail]
+  smtpserver = /usr/local/bin/msmtp
+#+END_SRC
+
+=git am ~/Documents/Mail/runbox/INBOX/cur/`ls -t ~/Documents/Mail/runbox/INBOX/cur | head -1`=
+
+** SSH Zugriff, aber nur lesend
+
+# NAME: bin/gitserver
+#+BEGIN_SRC bash
+  #!/bin/bash
+  case "$SSH_ORIGINAL_COMMAND" in
+    git-receive-pack*) exit 1 ;;
+    ,*) exec git-shell -c "$SSH_ORIGINAL_COMMAND" ;;
+  esac
+#+END_SRC
+
+In =~/.ssh/authorized_keys= diese Anweisung for den entsprechenden Key:
+
+~command="/home/dbreuer1/bin/gitserve",no-port-forwarding,no-agent-forwarding,no-X11-forwarding,no-pty~
+
+Kurzer Hinweis auf =~/.ssh/config=
