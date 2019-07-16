@@ -25,7 +25,7 @@ Für die Prüfung wird das Repo noch etwas erweitert und dann via GitHub Classro
 - alle Features sind gepusht
 - ein großes Zusatz-Feature und mindestens zwei kleine Zusatz-Features sind implementiert, dokumentiert und funktionieren
 - die Zusatzfeatures decken die Bereiche HTML, CSS und Javascript ab
-- die erzeugte Code zeigt, dass der Verfasser*In ein sehr gutes Verständnis der zugrunde liegenden Technologien und Konzepte hat 
+- der erzeugte Code zeigt, dass der Verfasser\*In ein sehr gutes Verständnis der zugrunde liegenden Technologien und Konzepte hat 
 - die Änderungen wurden im Sinne der Projektstruktur in den passenden Dateien gemacht
 - der erzeugte Code ist nachvollziehbar, selbsterklärend und effizient (semantisches HTML, Nutzung von SCSS, robustes Javascript)
 
@@ -35,20 +35,20 @@ Für die Prüfung wird das Repo noch etwas erweitert und dann via GitHub Classro
 - alle Features sind gepusht
 - mindestens drei Zusatz-Features sind implementiert und funktionieren
 - die Zusatzfeatures decken die Bereiche HTML, CSS und Javascript ab
-- die erzeugte Code zeigt, dass der Verfasser*In ein gutes Verständnis der zugrunde liegenden Technologien und Konzepte hat
+- der erzeugte Code zeigt, dass der Verfasser\*In ein gutes Verständnis der zugrunde liegenden Technologien und Konzepte hat
 
 ### Passable Lösung
 - die **Must Features** sind vollständig umgesetzt und funktionieren
 - die Änderungen für die Features sind in der Commit Historie ersichtlich
 - alle Features sind gepusht
 - mindestens zwei Zusatz-Features sind implementiert und funktionieren
-- die erzeugte Code zeigt, dass der Verfasser*In ein grundlegendes Verständnis der zugrunde liegenden Technologien und Konzepte hat
+- der erzeugte Code zeigt, dass der Verfasser\*In ein grundlegendes Verständnis der zugrunde liegenden Technologien und Konzepte hat
 
 ### Akzeptable Lösung
 - die **Must Features** sind vollständig umgesetzt und funktionieren
 - die Änderungen für die Features sind in der Commit Historie ersichtlich
 - alle Features sind gepusht
-- die erzeugte Code zeigt, dass der Verfasser*In die zugrunde liegenden Technologien und Konzepte in wesentlichen Teilen verstanden hat
+- der erzeugte Code zeigt, dass der Verfasser\*In die zugrunde liegenden Technologien und Konzepte in wesentlichen Teilen verstanden hat
 
 ### Schlechte Lösung
 - die **Must Features** sind nicht vollständig umgesetzt oder funktionieren nicht umfänglich
