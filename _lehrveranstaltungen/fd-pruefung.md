@@ -38,14 +38,14 @@ Für die Prüfung wird das Repo noch etwas erweitert und dann via GitHub Classro
 - die erzeugte Code zeigt, dass der Verfasser*In ein gutes Verständnis der zugrunde liegenden Technologien und Konzepte hat
 
 ### Passable Lösung
-- die **Must Features** sind vollständig umgesetzt und funktionieren
+- die **Must Features** sind vollständig umgesetzt und funktionieren mir kleinen Ausnahmen
 - die Änderungen für die Features sind in der Commit Historie ersichtlich
 - alle Features sind gepusht
 - mindestens zwei Zusatz-Features sind implementiert und funktionieren
 - die erzeugte Code zeigt, dass der Verfasser*In ein grundlegendes Verständnis der zugrunde liegenden Technologien und Konzepte hat
 
 ### Akzeptable Lösung
-- die **Must Features** sind vollständig umgesetzt und funktionieren
+- die **Must Features** sind vollständig umgesetzt und funktionieren überwiegend
 - die Änderungen für die Features sind in der Commit Historie ersichtlich
 - alle Features sind gepusht
 - die erzeugte Code zeigt, dass der Verfasser*In die zugrunde liegenden Technologien und Konzepte in wesentlichen Teilen verstanden hat
@@ -55,3 +55,47 @@ Für die Prüfung wird das Repo noch etwas erweitert und dann via GitHub Classro
 - die Änderungen für die Features sind nicht in der Commit Historie ersichtlich, weil z.B. insgesamt nur ein großer Commit erzeugt wurde.
 - die Projektstruktur wurde nicht verstanden und Änderungen wurden an völlig sinnlosen Dateien vorgenommen
 - die Commits wurden nicht gepusht
+
+## Material
+
+[Github Classroom Assignment](https://classroom.github.com/a/MuFQLUFT)
+
+### M1: HTML auf Validität prüfen
+- [W3C Validator](https://validator.w3.org/nu/#textarea)
+
+### M2: Gestaltung der Kacheln anpassen
+- [Layout](../../material/frontend-development-pruefung/m2-kachel.jpg)
+
+### M3: Responsive Design
+- [Layout](../../material/frontend-development-pruefung/m3-responsive.jpg)
+
+
+### M4: Formular zur Eingabe von Metadaten zum Bild
+- [Layout](../../material/frontend-development-pruefung/m4-form.jpg)
+
+### M5: Formularvalidierung der Metadateneingabe
+
+### O1: Gleiche Höhe der Zelleninhalte
+
+### O2: Anpassung Typographie für kleine Screens
+
+
+### O3: Breite des Herotextes
+- [Layout](../../material/frontend-development-pruefung/O3-herotext.jpg)
+
+### O4: View Switcher Übersichtsseite
+- [Feature als Demo](https://www.youtube.com/watch?v=_K7BeXSGECw&feature=youtu.be)
+
+### O5: Zuschreibung als Subtitle
+- [::before](https://developer.mozilla.org/de/docs/Web/CSS/::before)
+- [Layout A](../../material/frontend-development-pruefung/05-zuschreibung-a.jpg)
+- [Layout B](../../material/frontend-development-pruefung/05-zuschreibung-b.jpg)
+
+### O6: Akkordion bei den Bildinformationen
+- [Akkordion](https://kulturbanause.de/faq/accordion/)
+- [createElement](https://developer.mozilla.org/de/docs/Web/API/Document/createElement)
+- [Layout](../../material/frontend-development-pruefung/06-akkordion.jpg)
+
+### O7: Navigation zum nächsten oder vorherigen Bild
+
+
