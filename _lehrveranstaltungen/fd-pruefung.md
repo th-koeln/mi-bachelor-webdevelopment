@@ -97,5 +97,5 @@ Für die Prüfung wird das Repo noch etwas erweitert und dann via GitHub Classro
 - [Layout](../../material/frontend-development-pruefung/O6-akkordion.jpg)
 
 ### O7: Navigation zum nächsten oder vorherigen Bild
-
+- [Layout](../../material/frontend-development-pruefung/O7-navigation.jpg)
 
