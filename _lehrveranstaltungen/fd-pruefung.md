@@ -98,4 +98,33 @@ Für die Prüfung wird das Repo noch etwas erweitert und dann via GitHub Classro
 
 ### O7: Navigation zum nächsten oder vorherigen Bild
 
+## Fixes
+
+### Schriften sind falsch
+
+Dazu bitte in der *010-variables.scss* den *assets* Folder und *app* ändern:
+
+<pre>
+@font-face {
+  font-family: 'Roboto-light';
+  font-style: normal;
+  font-weight: 100;
+  src: local('Roboto-light'), url(/app/fonts/Roboto/Roboto-Light.ttf);
+}
+
+@font-face {
+  font-family: 'Roboto-regular';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Roboto-regular'), url(/app/fonts/Roboto/Roboto-Regular.ttf);
+}
+
+@font-face {
+  font-family: 'Roboto-bold';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Roboto-bold'), url(/app/fonts/Roboto/Roboto-Bold.ttf);
+}
+</pre>
+
 
