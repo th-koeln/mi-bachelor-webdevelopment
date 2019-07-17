@@ -88,15 +88,16 @@ Für die Prüfung wird das Repo noch etwas erweitert und dann via GitHub Classro
 
 ### O5: Zuschreibung als Subtitle
 - [::before](https://developer.mozilla.org/de/docs/Web/CSS/::before)
-- [Layout A](../../material/frontend-development-pruefung/05-zuschreibung-a.jpg)
-- [Layout B](../../material/frontend-development-pruefung/05-zuschreibung-b.jpg)
+- [Layout A](../../material/frontend-development-pruefung/O5-zuschreibung-a.jpg)
+- [Layout B](../../material/frontend-development-pruefung/O5-zuschreibung-b.jpg)
 
 ### O6: Akkordion bei den Bildinformationen
 - [Akkordion](https://kulturbanause.de/faq/accordion/)
 - [createElement](https://developer.mozilla.org/de/docs/Web/API/Document/createElement)
-- [Layout](../../material/frontend-development-pruefung/06-akkordion.jpg)
+- [Layout](../../material/frontend-development-pruefung/O6-akkordion.jpg)
 
 ### O7: Navigation zum nächsten oder vorherigen Bild
+- [Layout](../../material/frontend-development-pruefung/O7-navigation.jpg)
 
 ## Fixes
 
