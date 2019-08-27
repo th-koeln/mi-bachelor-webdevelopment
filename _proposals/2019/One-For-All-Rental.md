@@ -1,9 +1,9 @@
 ---
-title: One For All Rental
+title: All-for-One-Rentals
 team: <a href="https://github.com/CCB-Git">Carlos Bystron</a>, <a href="https://github.com/Felix2019">Felix Günthner</a>, <a href="https://github.com/Marius998">Marius Hammer</a>
 field: Open Data
 type: Multiperspective
-repo: folgt
+repo: <a href="https://github.com/Marius998/All-for-One-Rentals">One For All Rental</a>
 ---
 
 ## Idee
