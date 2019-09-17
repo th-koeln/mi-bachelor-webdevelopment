@@ -90,7 +90,7 @@ collections:
   links:
     output: false
   news:
-    output: false
+    output: true
   proposals:
     output: false
 

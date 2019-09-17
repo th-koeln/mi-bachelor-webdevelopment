@@ -1,0 +1,29 @@
+{% assign news = (site.news | sort: 'datum') | reverse %}
+
+<div class="news-box">
+  <h2 class="is-underlined">Neuigkeiten rund um das Vertiefungsmodul</h2>
+  <div class="columns is-multiline">
+    {% for item in news %}
+    <div class="column is-one-third-tablet is-one-quarter-desktop">
+      <a href="{{site.baseurl}}{{item.url}}">
+      <div class="card bm--card-equal-height">
+        <div class="card-image">
+          <figure class="image is-16by9">
+            <img src="{{ item.bild | prepend: item.url | prepend: site.baseurl }}">
+          </figure>
+        </div>
+        <div class="card-content">
+          <div class="content">
+            <h3>{{item.titel}}</h3>
+            <dl>
+              <dd>{{item.termin}}</dd>
+              <dd>{{item.dauer}}</dd>
+              <dd>Raum {{item.raum}}</dd>
+            </dt>
+          </div>
+        </div>
+      </div>
+    </div></a>
+    {% endfor %}
+  </div>
+</div>
