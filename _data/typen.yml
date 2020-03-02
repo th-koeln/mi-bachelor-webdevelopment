@@ -13,10 +13,10 @@ iot:
   max-teilnehmer: 40
   farbe: 4952e1
 
-fd1:
-  name: Frontend Development 1
+fd:
+  name: Frontend Development
   max-teilnehmer: 40
-  farbe: B11D52
+  farbe: dd1166
 
 fd2:
   name: Frontend Development 2

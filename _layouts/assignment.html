@@ -1,0 +1,26 @@
+---
+layout: reduced
+---
+
+<section class="section is-inverted">
+  <div class="container">
+    <div class="content is-large">
+      <div class="columns">
+        <div class="column is-8">
+          <h1>{{ page.titel }}</h1>
+        </div>
+        <div class="column is-4 has-text-right">
+          <a target="_blank" href="{{site.editbase}}{{ page.path }}"><span
+              class="icon"><i class="fa fa-edit"></i></span> Bearbeiten</a>
+        </div>
+      </div>
+      <hr>
+    </div>
+  </div>
+  
+  <div class="container">
+    <div class="content is-large">
+      {{ content }}
+    </div>
+  </div>
+</section>

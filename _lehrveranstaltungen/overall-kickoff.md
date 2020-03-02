@@ -4,7 +4,7 @@ kuerzel: o-ft
 verantwortlich: alle
 typ: overall
 pflicht: false
-termine: 2019-04-02 12:00
+termine: 2020-03-31 12:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 60

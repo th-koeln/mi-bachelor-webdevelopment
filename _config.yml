@@ -93,6 +93,8 @@ collections:
     output: true
   proposals:
     output: false
+  assignments:
+    output: true
 
 defaults:
   -
