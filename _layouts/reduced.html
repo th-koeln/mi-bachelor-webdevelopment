@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+  <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+
+  <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, maximum-scale=1.0">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
+  <link href="https://fonts.googleapis.com/css?family=PT+Sans" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/mi-lib/assets/styles/mi-jekyll.css" />
+  <link rel="shortcut icon" type="image/x-icon" href="{{site.baseurl}}/favicon.ico">
+
+</head>
+
+<body data-url="{{page.url}}">
+<section class="hero is-info is-large">
+    <!-- Hero header: will stick at the top -->
+    <div class="hero-head">
+      <header class="nav">
+        <div class="container">
+          <div class="nav-left">
+            <a href="{{ site.baseurl }}/" class="nav-item"><img src="{{ site.avatar }}" /></a>
+          </div>
+          <span class="nav-toggle">
+            <span></span>
+            <span></span>
+            <span></span>
+          </span>
+          <div class="nav-right nav-menu">
+            <a href="{{ site.baseurl }}/angebote/" class="nav-item">Veranstaltungen</a>
+            <a href="{{ site.baseurl }}/timetable/" class="nav-item">Zeitplan</a>
+            <a href="{{ site.baseurl }}/niveaustufen/" class="nav-item">Artefakte & Bewertung</a>
+            <a href="{{ site.baseurl }}/nomenklatur/" class="nav-item">Nomenklatur</a>
+            <!--a href="{{ site.baseurl }}/gestaltungsportfolio/" class="nav-item">Gestaltungsportfolio</a-->
+            <!--a href="{{ site.baseurl }}/projekt-2018/" class="nav-item">Projekt</a-->
+            <!--a href="{{ site.baseurl }}/challenge-2017/" class="nav-item">Challenge</a-->
+            <a href="{{ site.baseurl }}/links/" class="nav-item">Links</a>
+            <!--a href="{{ site.baseurl }}/faq/" class="nav-item">FAQ</a-->
+            <!--a href="https://github.com/th-koeln/mi-bachelor-wba1/issues/new" class="nav-item">Frage stellen</a-->
+            <!--a href="https://github.com/th-koeln/mi-bachelor-wba1/wiki" class="nav-item">WBA1 Wiki</a-->
+
+          </div>
+        </div>
+      </header>
+    </div>
+
+
+  </section>
+
+  {{ content }}
+
+</body>
+
+</html>

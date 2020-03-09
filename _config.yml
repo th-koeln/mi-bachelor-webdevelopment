@@ -110,3 +110,15 @@ defaults:
     values:
       layout: codesnippets
 
+  -
+    scope:
+      path: ""
+      type: aufgaben
+    values:
+      layout: aufgabe
+  -
+    scope:
+      path: ""
+      type: assignments
+    values:
+      layout: assignment
