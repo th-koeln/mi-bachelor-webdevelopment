@@ -11,7 +11,7 @@ Wenn Sie auf den Link klicken, wird automatisch ein Repository, auf Basis des As
 
 Klonen Sie bitte anschließend das Repository auf ihren Rechner und bearbeiten Sie die Aufgaben darin.
 
-Pushen Sie in regelmäßigen Abständen ihre Änderungen in das entferne Repository.
+Comitten und pushen ihre Änderungen in kurzen Intervallen in das entferne Repository, so dass eine aussagekräfige Commit History entsteht.
 
 ## Aufgabe 1 - Inhalte auszeichnen
 Wir werden uns in dieser Aufgabe mit einer Detailansicht zu einem Gemälde aus dem Lucas Cranach Archiv beschäftigen. Gegeben sind hierzu folgendes  [Layout](../../material/frontend-development-1/session-1/aufgabe-1/layout-detailansicht.png) und Inhalte, einmal als [PDF](../../material/frontend-development-1/session-1/aufgabe-1/text-detailansicht.pdf) und [Markdown Datei](../../material/frontend-development-1/session-1/aufgabe-1/text-detailansicht.md)
@@ -30,7 +30,7 @@ Laden Sie sich folgendes [Icon Set](../../material/frontend-development-1/sessio
 
 Erstellen Sie in dem HTML Dokument die Hauptnavigation im Headerbereich und benutzen Sie dazu die heruntergeladenen Icons.
 
-Erzeugen Sie die Datei `tour.html`. Verlinken Sie in der Detailansicht den Navigationspunkt `tour` mit der Datei `tour.html` über eine relative Referenz. 
+Erzeugen Sie die Datei `index.html` im root Ordner. Verlinken Sie in der Detailansicht den Navigationspunkt `tour` mit der Datei `index.html` über eine absolute Referenz. 
 
 ## Aufgabe 4 - Bildübersicht erstellen
 
@@ -44,4 +44,4 @@ Erzeugen Sie auf Basis des vorgegebenen [Layouts](../../material/frontend-develo
 * Bildnis der Anna Cuspinian
 * Bildnis eines Juristen
 
-Verlinken Sie bitte das Bild mit der Bezeichnung `kreuzigung-christi.jpg` mit der Seite `kreuzigung-christi.html`
+Verlinken Sie bitte das Bild mit der Bezeichnung `kreuzigung-christi.jpg` mit der Detailseite.
