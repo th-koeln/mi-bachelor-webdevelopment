@@ -5,7 +5,7 @@ tags: HTML
 
 Wir werden zur Bearbeitung der Aufgaben GitHub Classroom nutzen.
 
-Das Assignment, welches für diese Session erstellt wurde, ist über diesen [Einladungslink](https://classroom.github.com/a/Bh-v2UbH) erreichbar.
+Das Assignment, welches für diese Session erstellt wurde, ist über diesen [Einladungslink (folgt noch)]() erreichbar.
 
 Wenn Sie auf den Link klicken, wird automatisch ein Repository, auf Basis des Assignments, erstellt.
 
@@ -30,13 +30,13 @@ Laden Sie sich folgendes [Icon Set](../../material/frontend-development-1/sessio
 
 Erstellen Sie in dem HTML Dokument die Hauptnavigation im Headerbereich und benutzen Sie dazu die heruntergeladenen Icons.
 
-Erzeugen Sie die Datei `index.html` im root Ordner. Verlinken Sie in der Detailansicht den Navigationspunkt `tour` mit der Datei `index.html` über eine absolute Referenz. 
+Erzeugen Sie die Datei `index.html` im root Ordner. Verlinken Sie in der Detailansicht `kreuzigung-christi.html` den Navigationspunkt `Tour` mit der Datei `index.html` über eine absolute Referenz. 
 
 ## Aufgabe 4 - Bildübersicht erstellen
 
 Laden Sie sich folgendes [Bilderarchiv](../../material/frontend-development-1/session-1/aufgabe-4/img.zip) herunter und legen Sie es in einen Unterordner mit der Bezeichnung `img` ab.
 
-Erzeugen Sie auf Basis des vorgegebenen [Layouts](../../material/frontend-development-1/session-1/aufgabe-4/layout-bilduebersicht.png) semantisch sauberes Markup. Fügen Sie den Bildern bitte auch die entsprechenden BUs hin:
+Erzeugen Sie auf Basis des vorgegebenen [Layouts](../../material/frontend-development-1/session-1/aufgabe-4/layout-bilduebersicht.png) in der `index.html` semantisch sauberes Markup. Fügen Sie den Bildern bitte auch die entsprechenden BUs hin:
 
 * Kreuzigung Christi, sog. "Schottenkreuzigung"
 * Büssender Hl. Hieronymus
@@ -44,4 +44,4 @@ Erzeugen Sie auf Basis des vorgegebenen [Layouts](../../material/frontend-develo
 * Bildnis der Anna Cuspinian
 * Bildnis eines Juristen
 
-Verlinken Sie bitte das Bild mit der Bezeichnung `kreuzigung-christi.jpg` mit der Detailseite.
+Verlinken Sie bitte das Bild mit der Bezeichnung `kreuzigung-christi.jpg` mit der Detailseite `kreuzigung-christi.html`.
