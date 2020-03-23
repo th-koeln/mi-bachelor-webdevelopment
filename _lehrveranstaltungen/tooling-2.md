@@ -8,7 +8,7 @@ termine: 2020-04-22 09:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 300
-raum: 0.505
+raum: https://conf.dfn.de/webapp/conference/979113103
 info: Heute geht es um …
 ---
 
@@ -35,10 +35,13 @@ Ein wesentlicher Teil moderner Software Entwicklung ist die Kollaboration über 
 * Was ist ein "Fork"? 
 * Praktische Übungen zu GitHub 
 
-## Was muss ich mitbringen?
+## Online Session
+Die heutige Veranstaltung wird nicht vor Ort in Gummersbach stattfinden, sondern als Online Veranstaltung.
 
-## Material
+Wir treffen uns im oben angegebenen Raum. Wenn Sie den Raum betreten, geben Sie bitte Vor- und Nachnamen als Usernamen an, damit wir die Personen in dem Raum zuordnen können. Es werden voraussichtlich relativ viele Personen sein, die sich gleichzeitg in der Online Konferenz befinden. Das ist eine kleine Herausforderung. Um störende Nebengeräusche während der Veranstaltung zu vermeiden, gibt es folgende Dinge zu beachten:
 
-## Weiterführendes Material
+- benutzen Sie nach Möglichkeit ein Headset oder sorgen Sie dafür, dass Sie in einem ruhigen Raum sitzen
+- muten Sie bitte ihr Mikrofon, wenn Sie nicht sprechen
+- prüfen Sie bitte, am Besten vor der Veranstaltung, ob die korrekten Audio Ein- und Ausgabegeräte auf ihrem Computer eingestellt sind
 
-## Sie haben keinen Rechner?
+Prüfen Sie diese Seite bitte, falls Sie nicht in den Raum kommen, denn ggf. müssen wir den Raum kurzfristig wechseln.
