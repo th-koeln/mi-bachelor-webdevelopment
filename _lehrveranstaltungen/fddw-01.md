@@ -1,5 +1,5 @@
 ---
-titel: Thema folgt
+titel: Workshop 1
 kuerzel: fddw
 verantwortlich: kf
 typ: fddw
