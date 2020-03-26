@@ -2,6 +2,7 @@
 titel: Ziele
 layout: block-simpletext
 kuerzel: fddw
+additionalClasses: has-top-seperator
 ---
 - Den Grundgedanken der asynchronen, serverseitigen Kommunikation und die zugehörigen Standards, Frameworks und Protokolle erklären und im Fachdiskurs vertreten können
 - Den Grundgedanken und die Standards, Frameworks und Protokolle für offene Daten erklären und im Fachdiskurs vertreten können
