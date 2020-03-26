@@ -1,0 +1,44 @@
+.has-top-seperator{
+  border-top: $straight-line;
+  margin-top: 0;
+  padding-top: $size-1;
+}
+
+.has-transparent-seperator{
+  padding-bottom: $size-1;
+  margin-bottom: $size-1;
+}
+
+.has-transparent-double-seperator{
+  padding-bottom: $size-0;
+  margin-bottom: $size-0;
+}
+
+.has-background{
+  background-color: rgba(0,0,0,0.7);
+}
+
+.has-text-shadow{
+  text-shadow: 0 0 10px rgba(0,0,0,0.8);
+}
+
+.has-background-radient{
+  position: relative;
+}
+
+.has-background-radient::before{
+  content: '';
+  top: 0;
+  bottom: 0;
+  position: absolute;
+  right: 0;
+  left: 0;
+  background-size: auto;
+  background-image: linear-gradient(to left,rgba(0,0,0,0),#000);
+  background-repeat: no-repeat;
+  background-position: bottom;
+  opacity: 1;
+  z-index: 0;
+}
+
+

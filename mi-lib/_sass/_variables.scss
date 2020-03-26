@@ -17,11 +17,15 @@ $warning: $mi-grau;
 $bfs: 1rem;
 $size-normal: $bfs;
 $radius: 0;
+$size-0: $bfs *1.8;
 $size-1: $bfs *1.4;
 $size-2: $bfs *1.2;
 $size-3: $bfs;
 $size-4: $bfs;
 $dotted-line: dotted 1px #000;
+$straight-line: solid 1px $mi-grau;;
+$straight-line-light: solid 1px $mi-grau;
 $modal-card-head-background-color: #000;
 $modal-card-body-background-color: #000;
 //$modal-content-width: 80vw;
+

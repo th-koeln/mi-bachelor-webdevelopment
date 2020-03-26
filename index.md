@@ -30,7 +30,7 @@ Jeder Kurs schließt mit einer Prüfung ab. Hier kommen unterschiedliche Prüfun
 <table class="table is-striped">
 <tr><th>Frameworks, Dienste und Daten im Web</th><td>3</td></tr>
 <tr><th>Internet of Things</th><td>3</td></tr>
-<tr><th>Frontend Development</th><td>5</td></tr>
+<tr><th><a href="/mi-bachelor-webdevelopment/frontend-development/">Frontend Development</a></th><td>5</td></tr>
 <tr><th>Praktische IT-Sicherheit</th><td>5</td></tr>
 <tr><th>Projektarbeit</th><td>4</td></tr>
 </table>

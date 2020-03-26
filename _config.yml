@@ -56,7 +56,7 @@ sass:
   sass_dir: mi-lib/_sass
 
 # Zur Abtrannung der Aufgabe
-excerpt_separator: "<!--aufgabe-->"
+excerpt_separator: "<!--more-->"
 
 # Use the following plug-ins
 plugins_dir:
@@ -95,6 +95,8 @@ collections:
     output: false
   assignments:
     output: true
+  kurse:
+    output: false
 
 defaults:
   -

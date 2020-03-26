@@ -1,0 +1,33 @@
+{% assign items = site.lehrveranstaltungen | sort: 'title' %}
+{% assign count = 1 %}
+
+<div class="section buildingBlock itemsOverview">
+  {% if page.options != "no-title" %}
+  <div class="container {{page.additionalClasses}} has-transparent-seperator">
+    <h2 class="title" id="{{page.titel |slugify}}">{{page.titel}}</h2>
+  </div>
+  {% endif %}
+  {% for item in items %}
+  {% if item.flag == "show-at-homepage" %}
+  {% assign variant = count | modulo: 2 %}
+  <div class="container has-transparent-double-seperator is-align-variant-{{variant}}">
+    <div class="columns is-vcentered">
+      <div class="column is-one-half is-image">
+        <figure class="image is-square is-max-half has-border">
+          <img src="{{ site.baseurl }}{{item.teaserImageURL}}" alt="{{item.titel}}">
+        </figure>
+      </div>
+      <div class="column">
+        <div class="content is-text">
+          <div>
+          <h3>{{item.titel}}</h3>
+          {{item.info}}
+        </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  {% assign count = count | plus: 1 %}
+  {% endif %}
+  {% endfor %}
+</div>

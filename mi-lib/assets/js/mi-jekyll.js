@@ -252,7 +252,6 @@ markdown.convert = function (ele) {
 }
 markdown.init = function () {
   document.querySelectorAll("[markdown]").forEach(function (ele) {
-    console.log(ele);
     markdown.convert(ele);
   });
 }
@@ -260,3 +259,19 @@ markdown.init = function () {
 document.addEventListener("DOMContentLoaded", function (event) {
   markdown.init();
 });
+
+/* Link Hijacking
+------------------------------------------------------------------------------*/
+
+var linkHijacking = function () {
+
+  document.querySelectorAll("[data-href]").forEach((ele) => { 
+    let url = ele.dataset.href;
+    ele.addEventListener("click", function (event) {
+      event.preventDefault();
+      location.href = url;
+    }, false);  
+  });
+}
+
+linkHijacking();

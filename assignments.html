@@ -43,7 +43,7 @@ layout: default
           <div class="assignment-overview__item">
             <a href="{{assignment.url | relative_url}}">
             <h2 class="title is-2" id="{{ assignment.id }}">{{ assignment.titel }}</h2>
-            <p style="color: #999999;">{{assignment.tags | join:' '}}</p>
+            <p class="tag is-rounded" style="color: #999999;">{{assignment.tags | join:' '}}</p>
             </a>
           </div>
           {% endfor %}
@@ -58,7 +58,7 @@ layout: default
           <div class="assignment-overview__item">
               <a href="{{assignment.url | relative_url}}">
               <h2 class="title is-2" id="{{ assignment.id }}">{{ assignment.titel }}</h2>
-              <p style="color: #999999;">{{assignment.tags | join:' '}}</p>
+              <p class="tag is-rounded" style="color: #999999;">{{assignment.tags | join:' '}}</p>
               </a>
             </div>
           {% endif %} {% endfor %}

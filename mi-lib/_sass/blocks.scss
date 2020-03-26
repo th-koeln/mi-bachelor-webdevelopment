@@ -1,0 +1,103 @@
+/* BuildingBlock
+########################################################################### */
+
+.buildingBlock{
+
+  .title{
+    font-size: $size-1;
+    font-weight: normal;
+  }
+
+  h2, h3{
+    font-size: $bfs;
+    font-weight: 700;
+  }
+
+  p,li, table{
+    max-width: 100% !important;
+  }
+
+}
+
+
+
+
+/* Herotext
+########################################################################### */
+
+.herotext{
+  font-size: $size-1;
+
+  line-height: 120%;
+  @media (min-width: 999px) {
+    line-height: 130%;
+  }
+  @media (min-width: 768px) {
+    line-height: 140%;
+  }
+
+}
+
+
+
+/* Simpletext
+########################################################################### */
+
+.simpletext{
+
+}
+
+
+
+/* ItemsOverview
+########################################################################### */
+
+.itemsOverview{
+
+
+  .image.has-border img{
+    border: $straight-line-light; 
+  }
+
+  .image.is-max-half{
+
+    padding-top: 50%;
+
+    & > img{
+      bottom: 0;
+      left: 25%;
+      position: absolute;
+      right: 25%;
+      top: 0;
+      height: 100%;
+      width: 50%;
+    }
+  }
+
+  .is-align-variant-1 .columns{
+    flex-direction: row-reverse;
+  }
+
+  @media (min-width: 999px) {
+    .is-text{
+      margin-top: $bfs * -2;
+    }
+
+    .is-align-variant-0{
+      .image.is-max-half{
+        & > img{
+          left: 50%;
+          right: 0;
+        }
+      }
+    }
+    .is-align-variant-1{
+      .image.is-max-half{
+        & > img{
+          left: 0;
+          right: 25%;
+        }
+      }
+    }
+  }
+}
