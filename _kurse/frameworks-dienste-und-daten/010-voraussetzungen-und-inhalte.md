@@ -13,7 +13,7 @@ Im Grundlagenteil werden Themen auf der Basis von Vorlesungsinput und Literatura
 - Open Data Technik: RDF, RDFS SPARQL, Schema.org, ...
 Dazu wird an jedem Veranstaltungstag ein Block von 1,5 Stunden vorgesehen.
 
-
+<!--more-->
 
 #### Inhalte Workshop Teil
 Im Workshop sollen die Studentinnen und Studenten als architekturelles Proof of Concept eine serverseitige Anwendung auf Basis eines asynchronen Frameworks wie RabbitMQ oder alternativer Broker wie Kafka oder XMPP entwickeln, die Daten aus dem offenen Web nutzt. Basis dafür soll ein gemeinsames Problemszenario sein.
