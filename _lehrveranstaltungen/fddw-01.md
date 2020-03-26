@@ -25,7 +25,7 @@ Das Ziel des Tages ist es
 
 14:30 - 15:00 Vorstellung Workshopaufgabe und Organisation
 
-15:00 - 17:00 Arbeitam Projekt, individuelle Abstimmung mit Mentoren
+15:00 - 17:00 Arbeit am Projekt, individuelle Abstimmung mit Mentoren
 
 ## Material
 [Präsentation während der Veranstaltung](https://th-koeln.sciebo.de/s/kB6hDZKngecitEE)
