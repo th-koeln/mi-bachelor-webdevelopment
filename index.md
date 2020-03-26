@@ -28,7 +28,7 @@ Die verschiedenen Kurse finden teils durchlaufend, in der Regel wöchentlich, ü
 Jeder Kurs schließt mit einer Prüfung ab. Hier kommen unterschiedliche Prüfungsformen zum Einsatz. Nach etwa 2/3 der Vorlesungszeit startet ein Projekt, dass am Ende der Vorlesungsfreien Zeit mit einer Projektpräsenation mit anschließendem Fachgespräch vorgestellt und bewertet wird. Die Modulnote ergibt sich aus dem gewichteten Mittel der Einzelbewertungen, d.h. nicht bestandende Einzelbewertungen können ausgeglichen werden. Die Gewichtung der einzelnen Bewertungen sieht wie folgt aus:
 
 <table class="table is-striped">
-<tr><th>Frameworks, Dienste und Daten im Web</th><td>3</td></tr>
+<tr><th><a href="/mi-bachelor-webdevelopment/frameworks-dienste-und-daten/">Frameworks, Dienste und Daten im Web</a></th><td>3</td></tr>
 <tr><th>Internet of Things</th><td>3</td></tr>
 <tr><th><a href="/mi-bachelor-webdevelopment/frontend-development/">Frontend Development</a></th><td>5</td></tr>
 <tr><th>Praktische IT-Sicherheit</th><td>5</td></tr>

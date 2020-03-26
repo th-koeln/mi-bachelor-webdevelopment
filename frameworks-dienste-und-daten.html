@@ -1,0 +1,38 @@
+---
+layout: default
+---
+
+{% assign lehrveranstaltungen=site.lehrveranstaltungen|where: "kuerzel","fddw" %}
+{% assign cards="" | split: "" %}
+
+{% for lehrveranstaltung in lehrveranstaltungen %}
+{% if lehrveranstaltung.typ != "other" %}
+{% capture card %}
+{% include veranstaltungsinfo-klein.html lehrveranstaltung=lehrveranstaltung %}
+{% endcapture %}
+{% assign cards=cards|push:card %}
+{% endif %}
+{% endfor %}
+
+
+{% assign kursinfoBlocks=site.kurse|where: "kuerzel","fddw" %}
+
+<section class="section">
+  <div class="container">
+
+    <h1 class="title is-1">Frameworks, Dienste und Daten im Web</h1>
+    <h2 class="subtitle">Prof. Dr. Kristian Fischer</h2>
+</div>
+</section>
+
+{% include kursinfo.html blocks=kursinfoBlocks %}
+<section class="section buildingBlock">
+  <div class="container has-top-seperator">
+   <h2 class="title" id="termine">Termine</h2>
+    <div class="is-tab-wrap">
+      {% for card in cards %}
+      {{card}}
+      {% endfor %}
+    </div>
+  </div>
+</section>
