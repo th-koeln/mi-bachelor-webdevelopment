@@ -27,15 +27,15 @@ Das Ziel des Tages ist es
 
 17:00 - 18:00 Wrap-Up; Vorstellung der Resultate der Teams
 
+## Aufgabe für die kommende Veranstaltung
+- Erarbeiten Sie individuell aus den im Grundlagenteil vorgestellten Konzepten und aus den unten angegebenen Internetquellen zu Open Data ein Verständnis für das Gebiet. Suchen Sie sich einen oder mehrere Aspekte, die Sie vertiefen!
+- Erarbeiten Sie im Team den Prototyp der Phase II
+
 ## Material
 - [RabbitMQ](https://www.rabbitmq.com/) - Open Source Message Broker
 - [Clients und Developer Tools für RabbitMQ](https://www.rabbitmq.com/devtools.html)
 - [Apache ActiveMQ](https://github.com/apache/activemq) - Open Source Message Broker
 - [Apache Kafka](http://kafka.apache.org/) - A distributed streaming plattform
-
-## Aufgabe für die kommende Veranstaltung
-- Erarbeiten Sie individuell aus den im Grundlagenteil vorgestellten Konzepten und aus den unten angegebenen Internetquellen zu Open Data ein Verständnis für das Gebiet. Suchen Sie sich einen oder mehrere Aspekte, die Sie vertiefen!
-- Erarbeiten Sie im Team den Prototyp der Phase II
 
 ## Internet Quellen zu verschiedenen Aspekten von Open Data
 - [Open Government Partnership (OGP)](https://opengovpartnership.de/)
