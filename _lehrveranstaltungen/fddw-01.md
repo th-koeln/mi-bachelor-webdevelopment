@@ -22,7 +22,9 @@ Das Ziel des Tages ist es
 
 ## Ablauf
 13:00 - 14:15 Intro und Inputvorlesung /Grundlagen
+
 14:30 - 15:00 Vorstellung Workshopaufgabe und Organisation
+
 15:00 - 17:00 Arbeitam Projekt, individuelle Abstimmung mit Mentoren
 
 ## Material
