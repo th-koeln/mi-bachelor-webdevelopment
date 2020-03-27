@@ -1,5 +1,5 @@
 ---
-titel: none
+titel: Praktische IT Sicherheit
 kuerzel: pits
 verantwortlich: sk
 typ: pits
@@ -8,16 +8,14 @@ termine: 2020-03-31 13:00, 2020-04-07 13:00, 2020-04-14 13:00, 2020-04-21 13:00,
 empfohlene-voraussetzungen: 
 published: true
 dauer: 240
-raum: 3.221
+raum: zunächst Online
 info: Heute geht es um …
 ---
 
-## Worum geht es?
+## Infos für Studierende zum Vorgehen
+Bitte treten Sie dem u.g. Ilias-Kurs bei. Die Freischaltung Ihres Beitritts erfolgt durch den Kursadministrator. Der Kurs enthält die Vorlesungs- und Praktikumsunterlagen. Es finden Online-Beratungs- und Besprechungstermine statt. Weiteres zum Vorgehen (bspw. Gruppenarbeit und Projektorganisation) finden Sie im Kurs (Datei oder Ordner README).
+Ilias-Kurs mit aktuellen Informationen vorhanden:
 
-## Was muss ich mitbringen?
+[Ilias-Kurs Praktische IT Sicherheit](https://ilias.th-koeln.de/goto.php?target=crs_772146&client_id=ILIAS_FH_Koeln)
 
-## Material
-
-## Weiterführendes Material
-
-## Sie haben keinen Rechner?
+Der Kurs geht am 30. März 2020 online. Die Aufgaben stehen ab dem 1. April zur Verfügung.

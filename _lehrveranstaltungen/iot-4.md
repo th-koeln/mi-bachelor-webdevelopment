@@ -12,6 +12,9 @@ raum: 3.209
 info: Heute geht es um …
 ---
 
+Infos gibt es auf der [Website zum Kurs](https://moxd.io/iot2020).
+
+<!--
 ## Worum geht es?
 
 
@@ -26,3 +29,4 @@ info: Heute geht es um …
 ### Freitag
 * Vormittags ist Zeit, um unter Anleitung und mit Feedback an den eigenen Ideen weiter zu arbeiten.
 * Nachmittags machen wir eine kleine Demo Session der fertigen Prototypen und diskutieren auf Basis der Ergebnisse Lessons Learned und Herausforderungen im IoT.
+-->

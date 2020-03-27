@@ -29,10 +29,10 @@ Jeder Kurs schließt mit einer Prüfung ab. Hier kommen unterschiedliche Prüfun
 
 <table class="table is-striped">
 <tr><th><a href="/mi-bachelor-webdevelopment/frameworks-dienste-und-daten/">Frameworks, Dienste und Daten im Web</a></th><td>3</td></tr>
-<tr><th>Internet of Things</th><td>3</td></tr>
+<tr><th><a href="https://moxd.io/iot2020">Internet of Things</a></th><td>3</td></tr>
 <tr><th><a href="/mi-bachelor-webdevelopment/frontend-development/">Frontend Development</a></th><td>5</td></tr>
-<tr><th>Praktische IT-Sicherheit</th><td>5</td></tr>
-<tr><th>Projektarbeit</th><td>4</td></tr>
+<tr><th><a href="https://ilias.th-koeln.de/goto.php?target=crs_772146&client_id=ILIAS_FH_Koeln">Praktische IT-Sicherheit</a></th><td>5</td></tr>
+<tr><th>Projektarbeit/ Tooling</th><td>4</td></tr>
 </table>
 
 

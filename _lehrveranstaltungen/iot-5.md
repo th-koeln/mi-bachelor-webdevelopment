@@ -12,12 +12,4 @@ raum: 3.209
 info: Heute geht es um …
 ---
 
-## Worum geht es?
-
-## Was muss ich mitbringen?
-
-## Material
-
-## Weiterführendes Material
-
-## Sie haben keinen Rechner?
+Infos gibt es auf der [Website zum Kurs](https://moxd.io/iot2020).
