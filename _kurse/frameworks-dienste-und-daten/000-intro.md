@@ -1,9 +1,11 @@
 ---
 titel: Ziele
-layout: block-simpletext
+layout: block-herotext
 kuerzel: fddw
 additionalClasses: has-top-seperator
 ---
+
+Mit dem Kurs werden folgende Ziele verfolgt:
 - Den Grundgedanken der asynchronen, serverseitigen Kommunikation und die zugehörigen Standards, Frameworks und Protokolle erklären und im Fachdiskurs vertreten können
 - Den Grundgedanken und die Standards, Frameworks und Protokolle für offene Daten erklären und im Fachdiskurs vertreten können
 - Zugang zum gezielten, selbstständigen Wissenserwerb durch Literatur, Webinars und Recherchen im Web gewonnen haben
