@@ -9,8 +9,14 @@ titel: Über das Modul
 {% include functions/resolve-urls.html target="ilias" %}
 {% assign ilias = link %}
 
-
 Das Web hat in den letzten Jahrzehnten, wie kaum eine andere Technologie, zu drastischen Veränderungen der Gesellschaft geführt und gilt auch heute noch als ein wesentlicher Innovationstreiber. Web-Technologien und Prinzipien des Webs finden in den verschiedensten Systemen, Geräten und Organisationen statt. Das Web ist ein absolut faszinierendes und lebendiges Forschungs- und Tätigkeitsfeld und seit jeher ein wesentlicher Bestandteil der Medieninformatik.
+
+### Sommersemester 2020
+
+Ein paar Worte zum Modul im Sommersemester.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fNIsupAZRl4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
 
 ### Worum geht es?
 
