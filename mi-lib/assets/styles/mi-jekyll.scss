@@ -560,6 +560,40 @@ $tt-grid-height: 60px;
   }
 }
 
+.content.is-large{
+
+  @media screen and (min-width: $desktop){
+
+    h1{
+      font-size: $bfs;
+    }
+
+    h2{
+      padding-top: $bfs *2;
+      font-size: $bfs * 2.2;
+    }
+
+    h3{
+      font-size: $bfs * 1.8;
+    }
+
+    h1, h2, h3{
+      font-weight: bold;
+      max-width: 100%;
+    }
+
+    p, li, td, code, pre{
+      font-size: $bfs * 1.8;
+      line-height: 130%;
+      max-width: 100%;
+    }
+
+    code{
+      font-size: $bfs * 1.4;
+    }
+  }
+}
+
 .zweispalter {
   h2 {
     border-top: dotted 1px $grey-light;
@@ -737,32 +771,21 @@ $tt-grid-height: 60px;
 @import "svg-icons";
 
 .highlight {
-  background-color: $mi-pink;
-  color: #fff;
   border: none;
   box-shadow: none;
-  margin: 20px 0;
   overflow: auto;
-  padding: 7px 7px 7px 10px;
-}
+  text-align: left;
+  background-color: $mi-bg;
+  color: #000;
+  margin: 0;
+  padding: 0;
 
-pre code {
-  background-color: transparent;
-  color: #fff;
-  font-family: $family-monospace;
-}
+  pre{
+    padding: $bfs;
+  }
 
-.codesnippet{
-  figure.highlight{
-    text-align: left;
-    background-color: $mi-grau;
+  code{
     color: #000;
-    margin: 0;
-    padding: 0;
-
-    code{
-      color: #000;
-    }
   }
 }
 
@@ -780,6 +803,7 @@ pre code {
   padding-bottom: 56.5%;
   position: relative;
   overflow: hidden;
+
 }
 
 .js-video.widescreen {
@@ -800,6 +824,7 @@ pre code {
   height: 100%;
   position: absolute;
 }
+
 
 /**************/
 /* Assingsments  */

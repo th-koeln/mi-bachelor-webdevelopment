@@ -22,5 +22,6 @@ Wir treffen uns im oben angegebenen Raum. Wenn Sie den Raum betreten, geben Sie 
 - benutzen Sie nach Möglichkeit ein Headset oder sorgen Sie dafür, dass Sie in einem ruhigen Raum sitzen
 - muten Sie bitte ihr Mikrofon, wenn Sie nicht sprechen
 - prüfen Sie bitte, am Besten vor der Veranstaltung, ob die korrekten Audio Ein- und Ausgabegeräte auf ihrem Computer eingestellt sind
+- bitte geben Sie beim Beitritt in die Session Ihren vollen Namen ein
 
 Prüfen Sie diese Seite bitte, falls Sie nicht in den Raum kommen, denn ggf. müssen wir den Raum kurzfristig wechseln.
