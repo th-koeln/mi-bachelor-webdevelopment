@@ -26,7 +26,7 @@ info: Eine Einführung in Git, die Verwendung eines Terminals und die Verwendung
 ### Code Editor
 Alle sollten [Visual Studio Code](https://code.visualstudio.com/) oder einen anderen guten Code Editor auf ihrem Rechner installiert haben. Dazu gibt es weiter unten ein kleines Video (die Bootstrap Extension brauchen wir nicht) und hier noch die [offiziellen Tipps vom VSC Team](https://code.visualstudio.com/docs/getstarted/tips-and-tricks). 
 
-Es wäre gut, wenn alle die [Live Share-Erweiterung](https://visualstudio.microsoft.com/de/services/live-share/) für VSC installiert hätte. Dies ist sehr praktisch, wenn es um die parallele Entwicklung oder Hilfe bei Problemen geht. Dabei wird nicht nur der aktuelle Code live geteilt, sondern auch etwaige zugehörige Server, z.B. für Jekyll oder React.
+Es wäre gut, wenn alle die [Live Share-Erweiterung](https://visualstudio.microsoft.com/de/services/live-share/) für VSC installiert hätten. Dies ist sehr praktisch, wenn es um die parallele Entwicklung oder Hilfe bei Problemen geht. Dabei wird nicht nur der aktuelle Code live geteilt, sondern auch etwaige zugehörige Server, z.B. für Jekyll oder React.
 
 <div class="columns">
 <div class="column">
