@@ -59,10 +59,9 @@ Für die erste Tooling Session brauchen alle einen (S)FTP Client. Auch hier gibt
 ### GM Account
 Alle sollten ihre GM-ID parat haben, denn diese brauchen wir, um uns in der Session auf der [advm1.gm.fh-koeln.de](advm1.gm.fh-koeln.de) anzumelden.
 
-
 ## Material
+- [Assignment Tooling 1](/mi-bachelor-webdevelopment/assignments/tooling-1/)
 - [Terminal Cheatsheet](https://github.com/th-koeln/mi-bachelor-webdevelopment/blob/master/material/tooling/TerminalCheatSheet.pdf)
-- [Fingerübung](https://github.com/th-koeln/mi-bachelor-webdevelopment/tree/master/material/tooling/ugly-code-example)
 - [Windows Subsystem for Linux](https://docs.microsoft.com/de-de/windows/wsl/install-win10)
 - [gitignore.io](https://www.gitignore.io/)
 - [Regex 101](https://regex101.com/)
