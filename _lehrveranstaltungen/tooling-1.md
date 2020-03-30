@@ -57,7 +57,7 @@ Für die erste Tooling Session brauchen alle einen (S)FTP Client. Auch hier gibt
 
 
 ### GM Account
-Alle sollten ihre GM-ID parat haben, denn diese brauchen wir, um uns in der Session auf der [advm1.gm.fh-koeln.de](advm1.gm.fh-koeln.de) anzumelden.
+Alle sollten ihre GM-ID parat haben, denn diese brauchen wir, um uns in der Session auf der `advm1.gm.fh-koeln.de` anzumelden.
 
 ## Material
 - [Assignment Tooling 1](/mi-bachelor-webdevelopment/assignments/tooling-1/)
