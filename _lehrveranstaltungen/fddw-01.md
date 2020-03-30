@@ -70,7 +70,7 @@ Ein mögliches ARchitekturdiagramm für das technische PoC (https://th-koeln.sci
 ## Literatur
 - Edward Steel et al.: Hootsuite: In Pursuit of Reactive Systems ([Link in die ACM DL](https://dlnext.acm.org/doi/abs/10.1145/3121437.3131240))
 - J. Bonér et al.: Reactive Microsystems: The Evolution of Microservices at Scale, O'Reilly (siehe auch [Seite des Unternehmens Lightbend](https://www.lightbend.com/ebooks/reactive-microsystems-evolution-of-microservices-scalability-oreilly)), [Webinar](https://on.acm.org/c/acm-learning-webinars)
-- Roland Kuhn: Reactive Design Patterns, Manning 2017
+- Roland Kuhn: Reactive Design Patterns, Manning 2017, Da die Bibliothek geschlossen, hier ein Auszug für Ihren persönlichen Gebrauch (https://th-koeln.sciebo.de/s/lL0Qmu5Hq3OzNKB)
 - Engineer Bainomugisha, Andoni Lombide Carreton, Tom van Cutsem, Stijn Mostinckx, and Wolfgang de Meuter. 2013. [A survey on reactive programming](http://dx.doi.org/10.1145/2501654.2501666). ACM Comput. Surv. 45, 4, Article 52 (August 2013), 34 pages
 - Jack Moffitt: Professional XMPP Programming with JavaScript and JQuery, John Wiley 2010
 - Saint-André et al.: XMPP - The Definitive Guide, O'Reilly 2009
