@@ -17,7 +17,6 @@ Die Veranstaltung findet online statt, der virtuelle Raum wird rechtzeitig bekan
 Das Ziel des Tages ist es
 - einen Überblick über die Inhalte, Anforderungen und Erfolgskriterien des Kurses erlangt zu haben,
 - die Motivation und das Grundverständnis asynchroner Systemarchitekturen aus dem Modul "Grundlagen des Web" aufgefrischt zu haben,
-- Im Rahmen des Self Assessment geprüft haben inwieweit eine erfolgreiche Teilnahme an der Veranstaltung möglich erscheint
 - Individuelle auf die Workshopaufgabe ausgerichtete Kompetenzziele identifiziert haben und einen Plan zur Erreichung mit den Mentoren abgestimmt haben und im Git dokumentiert haben
 
 ## Ablauf
@@ -28,7 +27,7 @@ Das Ziel des Tages ist es
 15:00 - 17:00 Arbeit am Projekt, individuelle Abstimmung mit Mentoren
 
 ## Aufgabe für die kommende Veranstaltung
-- Erarbeiten Sie die im Grundlagenteil vorgestellten Konzepten und und die Inhalte den Kapiteln 1 (Why reactive) und 2 (A walk-through of the Reactive Manifesto) der Monographie von Kuhn die wesentlichen Begriffe und Zusammenhänge! Nutzen Sie dazu die [LeitfragenKuhn1](https://ilias.th-koeln.de/goto.php?target=wiki_1245621_LeitfragenKuhn1)!
+- Erarbeiten Sie die im Grundlagenteil vorgestellten Konzepten und und die Inhalte den Kapiteln 1 (Why reactive) und 2 (A walk-through of the Reactive Manifesto) der Monographie von Kuhn die wesentlichen Begriffe und Zusammenhänge! Nutzen Sie dazu die in der Folge angegebenen Leitfragen!
 - Arbeiten Sie individuell an den den mit Ihren Mentoren identifizierten Kompetenzzielen und dokumentieren Sie den Fortschritt im Wiki des Repositories.
 - Arbeiten Sie an des abgesprochenen Zielen des technischen PoC!
 
@@ -58,7 +57,7 @@ Im Rahmen des technischen PoC soll sowohl eine sinnvolle Nutzung von externe Dat
 
 Es solle eine Anwendung entwickelt werden, die für einige mögliche Ausflusziele eines Nutzers sowohl die Wetterbedingungungen als auch die Verkehrsverhältnisse für die Anreise überwacht und den Nutzer über signifikante Änderungen (Ereignisse) informiert. Für den Technischen PoC kommt es dabei nicht auf ausgefeilte Anwendungslogik an sondern im Wesentlichen auf den Informationsfluss zwischen den Softwarekomponenten. 
 
-Ein mögliches ARchitekturdiagramm für das technische PoC (https://th-koeln.sciebo.de/s/ZKm6kp2VY40nZ4c)
+Ein mögliches ARchitekturdiagramm für das [technische PoC](https://th-koeln.sciebo.de/s/ZKm6kp2VY40nZ4c)
 
 ## Material
 - [Präsentation während der Veranstaltung](https://th-koeln.sciebo.de/s/kB6hDZKngecitEE)
