@@ -17,7 +17,8 @@ Die Veranstaltung findet online statt, der virtuelle Raum wird rechtzeitig bekan
 Das Ziel des Tages ist es
 - einen Überblick über die Inhalte, Anforderungen und Erfolgskriterien des Kurses erlangt zu haben,
 - die Motivation und das Grundverständnis asynchroner Systemarchitekturen aus dem Modul "Grundlagen des Web" aufgefrischt zu haben,
-- Individuelle auf die Workshopaufgabe ausgerichtete Kompetenzziele identifiziert haben und einen Plan zur Erreichung mit den Mentoren abgestimmt haben und im Git dokumentiert haben
+- Individuelle auf die Workshopaufgabe ausgerichtete Kompetenzziele identifiziert haben und einen Plan zur Erreichung mit den Mentoren abgestimmt haben und im Git dokumentiert haben.
+- Die Aufgabe der Erstellung eines technischen PoC verstanden haben und erste Schritte zur Realisierung unternommen haben.
 
 ## Ablauf
 13:00 - 14:15 Intro und Inputvorlesung /Grundlagen
