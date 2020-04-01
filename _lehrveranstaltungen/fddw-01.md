@@ -11,7 +11,7 @@ dauer: 240
 raum: 
 info: Heute geht es um …
 ---
-Die Veranstaltung findet [in diesem virtuellen Raum](https://zoom.us/j/179543606) statt.
+Die Veranstaltung findet [in diesem virtuellen Raum]( https://zoom.us/j/975614083) statt.
 
 ## Worum geht es?
 Das Ziel des Tages ist es
