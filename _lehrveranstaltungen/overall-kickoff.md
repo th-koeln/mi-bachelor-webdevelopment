@@ -8,11 +8,15 @@ termine: 2020-04-02 09:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 60
-raum: https://webconf.vc.dfn.de/webdevkickoff/
+raum: https://zoom.us/j/593897854
 info:
 ---
 
+
 In diesem Semester starten wir mit einem Online Kick-Off. Wir sind gespannt :)
+
+## Update 01.2020 // Raumänderung
+Wir haben die Veranstaltung in einen [Zoom Raum](https://zoom.us/j/593897854) verlegt. Weitersagen!
 
 ## Online Session
 Die heutige Veranstaltung wird nicht vor Ort in Gummersbach stattfinden, sondern als Online Veranstaltung.
