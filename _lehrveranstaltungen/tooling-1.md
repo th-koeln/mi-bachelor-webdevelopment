@@ -36,6 +36,8 @@ Alle sollten [Visual Studio Code](https://code.visualstudio.com/) oder einen and
 
 Es wäre gut, wenn alle die [Live Share-Erweiterung](https://visualstudio.microsoft.com/de/services/live-share/) für VSC installiert hätten. Dies ist sehr praktisch, wenn es um die parallele Entwicklung oder Hilfe bei Problemen geht. Dabei wird nicht nur der aktuelle Code live geteilt, sondern auch etwaige zugehörige Server, z.B. für Jekyll oder React.
 
+
+## Videos
 <div class="columns">
 <div class="column">
 <div class="js-video">
@@ -43,7 +45,8 @@ Es wäre gut, wenn alle die [Live Share-Erweiterung](https://visualstudio.micros
 </div>
 
 </div>
-<div class="column"></div>
+<div class="column">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2gTVm4VB5qw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 </div>
 
 
