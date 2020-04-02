@@ -53,12 +53,12 @@ Erklären Sie das CAP Theorem!
 9. Aus welchem Grund verzichtet man bei reactive systems soweit möglich auf die Forderung der strong consistency?
 9. Erklären Sie die Probleme die aus network partitions entstehen anhand des hypothetischen Gmail Service!
 
-## Tecchnisches Proof of Concept
-Im Rahmen des technischen PoC soll sowohl eine sinnvolle Nutzung von externe Datenquellen als auch eine nicht-triviale zwischen Anwendungskomponentwen getestet werden. Dazu mag auch ein Szenarioals Anregung dienen:
+## Technisches Proof of Concept
+Im Rahmen des technischen PoC soll sowohl eine sinnvolle Nutzung von externe Datenquellen als auch eine nicht-triviale Kommunikation zwischen Anwendungskomponenten getestet werden. Dazu mag auch ein Szenario als Anregung dienen:
 
-Es solle eine Anwendung entwickelt werden, die für einige mögliche Ausflusziele eines Nutzers sowohl die Wetterbedingungungen als auch die Verkehrsverhältnisse für die Anreise überwacht und den Nutzer über signifikante Änderungen (Ereignisse) informiert. Für den Technischen PoC kommt es dabei nicht auf ausgefeilte Anwendungslogik an sondern im Wesentlichen auf den Informationsfluss zwischen den Softwarekomponenten. 
+Es solle eine Anwendung entwickelt werden, die für einige mögliche Ausflugsziele eines Nutzers sowohl die Wetterbedingungungen als auch die Verkehrsverhältnisse für die Anreise überwacht und den Nutzer über signifikante Änderungen (Ereignisse) informiert. Für den Technischen PoC kommt es dabei nicht auf ausgefeilte Anwendungslogik an sondern im Wesentlichen auf den Informationsfluss zwischen den Softwarekomponenten. 
 
-Ein mögliches ARchitekturdiagramm für das [technische PoC](https://th-koeln.sciebo.de/s/ZKm6kp2VY40nZ4c)
+Ein mögliches Architekturdiagramm für das [technische PoC](https://th-koeln.sciebo.de/s/ZKm6kp2VY40nZ4c)
 
 ## Material
 - [Präsentation während der Veranstaltung](https://th-koeln.sciebo.de/s/kB6hDZKngecitEE)
