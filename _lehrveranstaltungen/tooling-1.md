@@ -15,6 +15,11 @@ info: Eine Einführung in Git, die Verwendung eines Terminals und die Verwendung
 ## Update 02.04.2020 // Neuer Raum
 Wir haben in einen [Zoom Raum](https://zoom.us/j/436288625) gewechselt.
 
+## Aufzeichnung der Session von heute
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2gTVm4VB5qw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ## Worum geht es?
 - Einführung in die Benutzungen eines Terminals 
 - Git Basics
