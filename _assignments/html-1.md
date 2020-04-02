@@ -5,7 +5,7 @@ tags: HTML
 
 Wir werden zur Bearbeitung der Aufgaben GitHub Classroom nutzen.
 
-Das Assignment, welches für diese Session erstellt wurde, ist über diesen [Einladungslink (folgt noch)]() erreichbar.
+Das Assignment, welches für diese Session erstellt wurde, ist über diesen [Einladungslink](https://classroom.github.com/a/_9J7IXc9) erreichbar.
 
 Wenn Sie auf den Link klicken, wird automatisch ein Repository, auf Basis des Assignments, erstellt.
 
