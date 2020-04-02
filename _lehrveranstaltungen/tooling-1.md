@@ -54,16 +54,16 @@ Alle sollten ihre GM-ID parat haben, denn diese brauchen wir, um uns in der Sess
 
 ## Videos
 <div class="columns">
-  <div class="column">
-    <div class="js-video">
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/4NfFFsQC77M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>
-  </div>
-  <div class="column">
-    <div class="js-video">
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/2gTVm4VB5qw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>
-  </div>
+<div class="column">
+<div class="js-video">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4NfFFsQC77M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+</div>
+<div class="column">
+<div class="js-video">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2gTVm4VB5qw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+</div>
 </div>
 
 ## Material
