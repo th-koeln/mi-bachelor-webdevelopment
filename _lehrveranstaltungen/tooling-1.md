@@ -61,7 +61,7 @@ Alle sollten ihre GM-ID parat haben, denn diese brauchen wir, um uns in der Sess
 </div>
 <div class="column">
 <div class="js-video">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2gTVm4VB5qw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Die Aufzeichnung der Tooling Session ist via [Ilias](https://ilias.th-koeln.de/goto.php?target=fold_1491213&client_id=ILIAS_FH_Koeln) verfügbar.
 </div>
 </div>
 </div>
