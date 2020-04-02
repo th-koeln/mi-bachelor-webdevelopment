@@ -12,6 +12,9 @@ raum: https://conf.dfn.de/webapp/conference/979113103
 info: Eine Einführung in Git, die Verwendung eines Terminals und die Verwendung einer IDE
 ---
 
+## Update 02.04.2020 // Neuer Raum
+Wir haben in einen [Zoom Raum](https://zoom.us/j/436288625) gewechselt.
+
 ## Worum geht es?
 - Einführung in die Benutzungen eines Terminals 
 - Git Basics
