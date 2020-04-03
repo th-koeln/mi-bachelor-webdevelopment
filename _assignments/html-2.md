@@ -5,7 +5,7 @@ tags: HTML
 
 Wir werden zur Bearbeitung der Aufgaben wieder GitHub Classroom nutzen.
 
-Verwenden Sie dazu das Repository, aus dem Workshop „HTML Basics”. Falls sie noch kein Repository erzeugt haben, folgen Sie diesem [Einladungslink](https://classroom.github.com/a/Bh-v2UbH).
+Verwenden Sie dazu das Repository, aus dem Workshop „HTML Basics”. 
 
 Die Aufgaben bauen auf den Markup von den Übungen aus dem Workshop „HTML Basics”auf. Falls Sie kein Markup haben, laden Sie sich bitte folgendes [Material](../../material/frontend-development-1/session-2/lucas-cranach-archiv.zip) herunter, kopieren Sie es in das Repository und comitten Sie die Änderungen.
 
@@ -23,8 +23,8 @@ Die Daten für die Gemäldeübersicht finden Sie hier als [Markdown Datei](../..
 ## Aufgabe 2 - CSS // Typografie
 
 Als Basis für diese und die folgenden Aufgaben dient folgende Dokumente:  
-* [Styleguide](../../material/frontend-development-1/session-2/aufgabe-2/styleguide.pdf) 
-* [Layout](../../material/frontend-development-1/session-1/aufgabe-1/layout-detailansicht.png)
+* [Styleguide](../../material/frontend-development-1/session-2/aufgabe-2/sd201819styleguideleppkoll.pdf) 
+* [Layout](../../material/frontend-development-1/session-2/aufgabe-2/sd201819designkonzeptleppkollibilduebersicht01.png)
 
 Wir konzentrieren uns  zunächst ausschließlich auf das iPad Layout.
 
