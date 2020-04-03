@@ -8,12 +8,9 @@ termine: 2020-04-02 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 120
-raum: https://conf.dfn.de/webapp/conference/979113103
+raum: Online
 info: Eine Einführung in Git, die Verwendung eines Terminals und die Verwendung einer IDE
 ---
-
-## Update 02.04.2020 // Neuer Raum
-Wir haben in einen [Zoom Raum](https://zoom.us/j/436288625) gewechselt.
 
 
 ## Worum geht es?
