@@ -15,6 +15,7 @@ info: Eine Einführung in Git, die Verwendung eines Terminals und die Verwendung
 ## Update 02.04.2020 // Neuer Raum
 Wir haben in einen [Zoom Raum](https://zoom.us/j/436288625) gewechselt.
 
+
 ## Worum geht es?
 - Einführung in die Benutzungen eines Terminals 
 - Git Basics
@@ -30,17 +31,6 @@ Wir haben in einen [Zoom Raum](https://zoom.us/j/436288625) gewechselt.
 Alle sollten [Visual Studio Code](https://code.visualstudio.com/) oder einen anderen guten Code Editor auf ihrem Rechner installiert haben. Dazu gibt es weiter unten ein kleines Video (die Bootstrap Extension brauchen wir nicht) und hier noch die [offiziellen Tipps vom VSC Team](https://code.visualstudio.com/docs/getstarted/tips-and-tricks). 
 
 Es wäre gut, wenn alle die [Live Share-Erweiterung](https://visualstudio.microsoft.com/de/services/live-share/) für VSC installiert hätten. Dies ist sehr praktisch, wenn es um die parallele Entwicklung oder Hilfe bei Problemen geht. Dabei wird nicht nur der aktuelle Code live geteilt, sondern auch etwaige zugehörige Server, z.B. für Jekyll oder React.
-
-<div class="columns">
-<div class="column">
-<div class="js-video">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4NfFFsQC77M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-</div>
-<div class="column"></div>
-</div>
-
 
 ### Versionskontrolle
 Auf allen Rechnern muss [git](https://git-scm.com/downloads) installiert sein. Wir nutzen git ausschließlich via Terminal. Folgende Aktionen sollten für Sie kein Problem darstellen: Repo anlegen, Repo clonen, Commits erzeugen, Änderungen auf den Remote pushen, Änderungen vom Remote holen, Branches erstellen, Branches mergen, Branches löschen, Mergekonflikte beheben.
@@ -61,6 +51,20 @@ Für die erste Tooling Session brauchen alle einen (S)FTP Client. Auch hier gibt
 
 ### GM Account
 Alle sollten ihre GM-ID parat haben, denn diese brauchen wir, um uns in der Session auf der `advm1.gm.fh-koeln.de` anzumelden.
+
+## Videos
+<div class="columns">
+<div class="column">
+<div class="js-video">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4NfFFsQC77M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+</div>
+<div class="column">
+<div class="js-video">
+Die Aufzeichnung der Tooling Session ist via [Ilias](https://ilias.th-koeln.de/goto.php?target=fold_1491213&client_id=ILIAS_FH_Koeln) verfügbar.
+</div>
+</div>
+</div>
 
 ## Material
 - [Assignment Tooling 1](/mi-bachelor-webdevelopment/assignments/tooling-1/)
