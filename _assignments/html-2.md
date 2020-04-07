@@ -5,9 +5,7 @@ tags: HTML
 
 Wir werden zur Bearbeitung der Aufgaben wieder GitHub Classroom nutzen.
 
-Verwenden Sie dazu das Repository, aus dem Workshop „HTML Basics”. 
-
-Die Aufgaben bauen auf den Markup von den Übungen aus dem Workshop „HTML Basics”auf. Falls Sie kein Markup haben, laden Sie sich bitte folgendes [Material](../../material/frontend-development-1/session-2/lucas-cranach-archiv.zip) herunter, kopieren Sie es in das Repository und comitten Sie die Änderungen.
+Die Aufgaben bauen auf den Markup von den Übungen aus dem Workshop „HTML Basics”auf. Verwenden Sie daher das Repository/ Assignment, aus dem Workshop „HTML Basics”. 
 
 Erzeugen Sie nun einen neuen Branch mit dem Namen „session-2” und wechseln Sie bitte in diesen Branch.
 
@@ -22,26 +20,24 @@ Die Daten für die Gemäldeübersicht finden Sie hier als [Markdown Datei](../..
 
 ## Aufgabe 2 - CSS // Typografie
 
-Als Basis für diese und die folgenden Aufgaben dient folgende Dokumente:  
-* [Styleguide](../../material/frontend-development-1/session-2/aufgabe-2/sd201819styleguideleppkoll.pdf) 
-* [Layout](../../material/frontend-development-1/session-2/aufgabe-2/sd201819designkonzeptleppkollibilduebersicht01.png)
+Bitte überarbeiten Sie Ihre Bildübersicht mit den Angaben aus der [Cranach Demodaten Tabelle](https://docs.google.com/spreadsheets/d/1T8-dNZ3tzjTfWEBIOKQ9T9W2DakeFC0ohKwd2e8o90Y/edit#gid=1448846531). Erzeugen Sie bitte Markup für 16 Bilder.
 
-Wir konzentrieren uns  zunächst ausschließlich auf das iPad Layout.
+Als Basis für diese und die folgenden Aufgaben dienen folgende Dokumente:  
+* [Styleguide](https://finnge.github.io/mi-sd-cranachproject/assets/img/style-guide.svg) 
+* [Layout](../../material/frontend-development-1/session-2/aufgabe-2/cda_timeline_size-small.png)
 
 Um ein browserübergreifend konsistentes Grundlayout zu erhalten, binden Sie zunächst eine `reset.css` oder `normalize.css` aus einem  Content Delivery Network ein.
 
-Erzeugen Sie nun ein Verzeichnis mit der Bezeichnung `CSS` und darin eine Datei mit dem Namen `style.css`.
+Erzeugen Sie nun ein Verzeichnis mit der Bezeichnung `styles` und darin eine Datei mit dem Namen `cda-base.css`. Binden Sie diese CSS-Datei in die Datei `tour.html`, aus dem HTML Basics Workshop, ein.
 
-Binden Sie diese CSS-Datei in die Datei `tour.html`,  aus dem HTML Basics Workshop, ein.
-
-Definieren Sie in der `style.css` folgende Regeln:
+Definieren Sie in der `cda-base.css` folgende Regeln:
 
 * Alle Elemente sollen die im Styleguide angegebene Schriftart verwenden. Binden Sie die Schriftart dazu bitte über [Google Fonts](https://fonts.google.com) ein.
 * Die Textelemente sollen, hinsichtlich der typografischen Angaben (Schriftgröße, -schnitt, -farbe und Zeilenabstand), mit dem Styleguide im Einklang sein.
 
 ## Augabe 3 - CSS // Basislayout
 
-Legen Sie in der `style.css` die im Styleguide definierten Hintergrundfarben für den Header und Contentbereich fest. Nutzen Sie dazu bitte class-Attribute im HTML und die dazugehörigen CSS-Selektoren.
+Legen Sie in der `cda-base.css` die im Styleguide definierten Hintergrundfarben für den Header und Contentbereich fest. Nutzen Sie dazu bitte class-Attribute im HTML und die dazugehörigen CSS-Selektoren.
 
 Erzeugen Sie mit Hilfe von CSS-Grids das Grundlayout, bestehend aus Header und dem zwei spaltigen Contentbereich. Verwenden Sie dazu die Angaben unter „Grid” im Styleguide.
 
