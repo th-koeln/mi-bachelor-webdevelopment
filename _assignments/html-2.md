@@ -20,7 +20,7 @@ Die Daten für die Gemäldeübersicht finden Sie hier als [Markdown Datei](../..
 
 ## Aufgabe 2 - CSS // Typografie
 
-Bitte überarbeiten Sie Ihre Bildübersicht mit den Angaben aus der [Cranach Demodaten Tabelle](https://docs.google.com/spreadsheets/d/1T8-dNZ3tzjTfWEBIOKQ9T9W2DakeFC0ohKwd2e8o90Y/edit#gid=1448846531). Erzeugen Sie bitte Markup für 16 Bilder.
+Bitte überarbeiten Sie Ihre Bildübersicht mit den Angaben aus der [Cranach Demodaten Tabelle](https://docs.google.com/spreadsheets/d/e/2PACX-1vSZDap28Dr0Q7gV3RFQ_rSa-KXBNwzSEvmsWp3p26qbQc0nBuoh0jo6cF-q_FclOTMl7dmgLcJ07b6w/pub?output=csv). Erzeugen Sie bitte Markup für 16 Bilder.
 
 Als Basis für diese und die folgenden Aufgaben dienen folgende Dokumente:  
 * [Styleguide](https://finnge.github.io/mi-sd-cranachproject/assets/img/style-guide.svg) 
