@@ -28,7 +28,7 @@ Als Basis für diese und die folgenden Aufgaben dienen folgende Dokumente:
 
 Um ein browserübergreifend konsistentes Grundlayout zu erhalten, binden Sie zunächst eine `reset.css` oder `normalize.css` aus einem  Content Delivery Network ein.
 
-Erzeugen Sie nun ein Verzeichnis mit der Bezeichnung `styles` und darin eine Datei mit dem Namen `cda-base.css`. Binden Sie diese CSS-Datei in die Datei `tour.html`, aus dem HTML Basics Workshop, ein.
+Erzeugen Sie nun ein Verzeichnis mit der Bezeichnung `styles` und darin eine Datei mit dem Namen `cda-base.css`. Binden Sie diese CSS-Datei in die Datei `index.html`, aus dem HTML Basics Workshop, ein.
 
 Definieren Sie in der `cda-base.css` folgende Regeln:
 
