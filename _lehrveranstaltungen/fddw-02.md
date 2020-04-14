@@ -24,7 +24,7 @@ Das Ziel des Tages ist es
 ## Ablauf
 14:00 - 15:00 Diskussion der Literaturaufgabe
 
-15:00 - 13:00 Pause
+15:00 - 15:30 Pause
 
 15:30 - 17:00 Diskussion des Stands der individuellen Kompetenzziele, Arbeit am Projekt, individuelle Abstimmung mit Mentoren
 
