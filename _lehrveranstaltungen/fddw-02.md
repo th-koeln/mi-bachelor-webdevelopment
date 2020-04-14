@@ -22,11 +22,13 @@ Das Ziel des Tages ist es
 - einen im git dokumentierten Plan für die Aktivitäten bis zum Beginn des nächsten Termins vorstellen
 
 ## Ablauf
-14:00 - 15:00 Diskussion des Stands der individuellen Kompetenzziele 
+14:00 - 15:00 Diskussion der Literaturaufgabe
 
-15:00 - 16:00 Diskussion der Literaturaufgabe
+15:00 - 13:00 Pause
 
-16:00 - 18:00 Arbeit am Projekt, individuelle Abstimmung mit Mentoren
+15:30 - 17:00 Diskussion des Stands der individuellen Kompetenzziele, Arbeit am Projekt, individuelle Abstimmung mit Mentoren
+
+17:00 - 18:00 Wrap-Up, Q&A
 
 ## Aufgabe für die kommende Veranstaltung
 - Erarbeiten Sie individuell aus den im Grundlagenteil vorgestellten Konzepten und aus den Kapiteln 4 (Message Passing), 5 (Location Transparency) und 6 (Dive and Conquer) der Monographie von Kuhn die wesentlichen Begriffe und Zusammenhänge! Nutzen Sie dazu die Leitfragen (Link kommt noch)!
