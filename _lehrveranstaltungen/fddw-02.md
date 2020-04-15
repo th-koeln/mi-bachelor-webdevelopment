@@ -44,6 +44,8 @@ Auf dieser Seite sind einige Fragen formuliert die zum Erarbeiten eines Verstän
 6. Welche Möglichkeiten der Flow-Control bei Queuing Systemenwerden genannt?
 7. Welche Abwägungen sind in verteilten Systemen bzgl. message-delivery guarantees anzustellen?
 8. Welche Alternativen gibt es für delivery guarantees?
+9. Wie kann der Begriff *location transparency* definiert werden?
+10. Wie wird *location transparency* von *transparent remoting* abgegrenzt?
 
 ## Material
 - [RabbitMQ](https://www.rabbitmq.com/) - Open Source Message Broker
