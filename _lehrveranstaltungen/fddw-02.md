@@ -46,6 +46,11 @@ Auf dieser Seite sind einige Fragen formuliert die zum Erarbeiten eines Verstän
 8. Welche Alternativen gibt es für delivery guarantees?
 9. Wie kann der Begriff *location transparency* definiert werden?
 10. Wie wird *location transparency* von *transparent remoting* abgegrenzt?
+11. Welche Gründe sprechen dafür, nicht die gleiche Erwartung an die *Semantik von lokaler und entfernter Interaktion* zu haben?
+12. Warum kann es sinnvoll sein *location transpsarency nur für auf grob garanularen Komponenten der Architektur* (higher levels of abstraction) anzustreben?
+13. Welchen Nutzen bringt das *circuit breaker pattern* in dem Szenario der Abbildungen 5.2 und 5.3?
+14. Wie kann die *horizontal scalability* bei rechenzeitintensiven Komponenten wie den Szenario in Abbildung 5.4 eingesetzt werden?
+15. Inwiefern erleichtert die konsequente Umsetzung von location transparency das Testen?
 
 ## Material
 - [RabbitMQ](https://www.rabbitmq.com/) - Open Source Message Broker
