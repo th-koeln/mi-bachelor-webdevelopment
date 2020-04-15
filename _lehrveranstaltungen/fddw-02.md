@@ -34,6 +34,17 @@ Das Ziel des Tages ist es
 - Arbeiten Sie individuell an den den mit Ihren Mentoren identifizierten Kompetenzzielen und dokumentieren Sie Ihre Arbeit im Lernportfolio!
 - Erarbeiten Sie im Team den technischen PoC, sodass er spätestens während des nächsten PoC fertiggestellt werden kann!
 
+## Leitfragen für den Grundlagenteil
+Auf dieser Seite sind einige Fragen formuliert die zum Erarbeiten eines Verständnisses der Kapitel 4, 5 und 6 der Monographie von Kuhn genutzt werden können. Die Fragen können auch als Grundlage der Fachdiskussion in den Workshop Terminen genutzt werden.
+1. Was versteht man unter den Begriffen horizintal und vertical scalability?
+2. Wie charakterisiert Kuhn die Funktionsweise von klassischen Event-basierten Systemen, die mit Callbacks arbeiten?
+3. Wie werden im Kontrast Message-basierte Systeme charakterisiert?
+4. Wie ist der Unterschied von synchroner und asynchroner Interaktion von producer und consumer einer Nachricht charakterisiert?
+5. Welche Vorteile der Kommunikation von Objekten über das Zusenden von Nachrichten gegenüber einer Aufruf-orientierten Kommunikation klassischer Programmiersprachen werden genannt?
+6. Welche Möglichkeiten der Flow-Control bei Queuing Systemenwerden genannt?
+7. Welche Abwägungen sind in verteilten Systemen bzgl. message-delivery guarantees anzustellen?
+8. Welche Alternativen gibt es für delivery guarantees?
+
 ## Material
 - [RabbitMQ](https://www.rabbitmq.com/) - Open Source Message Broker
 - [Clients und Developer Tools für RabbitMQ](https://www.rabbitmq.com/devtools.html)
