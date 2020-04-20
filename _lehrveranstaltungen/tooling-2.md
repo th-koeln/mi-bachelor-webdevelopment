@@ -8,7 +8,7 @@ termine: 2020-04-22 09:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 300
-raum: https://conf.dfn.de/webapp/conference/979113103
+raum: https://zoom.us/j/92526318744 (Zugangscode ist webdev)
 info: Heute geht es um …
 ---
 

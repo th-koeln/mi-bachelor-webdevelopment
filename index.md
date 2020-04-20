@@ -20,8 +20,7 @@ Ein paar Worte zum Modul im Sommersemester.
 
 ### Worum geht es?
 
-Im Rahmen dieses Moduls wird eine, praktisch orienierte, 360° Sicht auf den Bereich Web-Development vermittelt. Die Vertiefung besteht aus folgenden Bausteinen: „Frameworks, Dienste und Daten im Web”
-, Praktische IT-Sicherheit, „Internet of Things”, „Developmenttools und -prozess” und „Webdesign & Frontend Development”. Diese Bausteine werden im Modul über Kurse abgebildet. Vorausgesetzt wird das Know-how aus den vorhergegangenen Modulen wie „Algorithmen und Programmierung”, „Grundlagen des Web” oder „Kommunikationstechnik und Netze”. 
+Im Rahmen dieses Moduls wird eine, praktisch orienierte, 360° Sicht auf den Bereich Web-Development vermittelt. Die Vertiefung besteht aus folgenden Bausteinen: „Frameworks, Dienste und Daten im Web”, Praktische IT-Sicherheit, „Internet of Things”, „Developmenttools und -prozess” und „Webdesign & Frontend Development”. Diese Bausteine werden im Modul über Kurse abgebildet. Vorausgesetzt wird das Know-how aus den vorhergegangenen Modulen wie „Algorithmen und Programmierung”, „Grundlagen des Web” oder „Kommunikationstechnik und Netze”. 
 
 
 ### Wie ist die Organisation
