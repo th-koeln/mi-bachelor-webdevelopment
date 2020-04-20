@@ -22,6 +22,7 @@ Das Ziel des Tages ist es
 
 ## Ablauf
 09:00 - 11:00 Diskussion der Literatur des heutigen Termins
+
 11:00 - 13:00 Fachgespräche mit dem Dozenten zum Grundlagenteil (20 - 30 Minuten pro Team, ohne Bewertung) 
 parallel Arbeit im Team, an der Fertigstellung des technischen PoC, individuelle Abstimmung mit Mentoren
 
