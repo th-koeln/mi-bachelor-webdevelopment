@@ -51,6 +51,10 @@ Auf dieser Seite sind einige Fragen formuliert die zum Erarbeiten eines Verstän
 13. Welchen Nutzen bringt das *circuit breaker pattern* in dem Szenario der Abbildungen 5.2 und 5.3?
 14. Wie kann die *horizontal scalability* bei rechenzeitintensiven Komponenten wie den Szenario in Abbildung 5.4 eingesetzt werden?
 15. Inwiefern erleichtert die konsequente Umsetzung von location transparency das Testen?
+16. Was ist die ERklärung für die Aussage von Kuhn, dass Module, die höher in der Hierarchie angeordnet sind spezifischer auf den Use Case ausgerichtet sind als Module, die niedriger in der Hierarchie sind?
+17. Was ist der UnterUnterschied zwischen den Modulbeziehungen "Dependence" und "Hierarchy (descendent)"?
+18. Was spricht gegen eine an einer TEchnologie-orientierten Organisation ausgerichtete Modulisierung (e.g. Frontend, application, database)?
+19. Was versteht Kuhn unter "testability-driven design?
 
 ## Material
 - [RabbitMQ](https://www.rabbitmq.com/) - Open Source Message Broker
