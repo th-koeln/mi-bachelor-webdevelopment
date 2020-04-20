@@ -21,10 +21,12 @@ Das Ziel des Tages ist es
 - Ziele und Aufgabenaufteilung für die zweite Projektphase definiert und im git dokumentiert zu haben
 
 ## Ablauf
-09:00 - 14:00 Fachgespräche mit dem Dozenten zum Grundlagenteil (20 - 30 Minuten pro Team, ohne Bewertung) 
+09:00 - 11:00 Diskussion der Literatur des heutigen Termins
+
+11:00 - 13:00 Fachgespräche mit dem Dozenten zum Grundlagenteil (20 - 30 Minuten pro Team, ohne Bewertung) 
 parallel Arbeit im Team, an der Fertigstellung des technischen PoC, individuelle Abstimmung mit Mentoren
 
-15:00 - 18:00 Vorstellung und Diskussion der technischen PoC im Plenum
+15:00 - 17:00 Vorstellung und Diskussion der technischen PoC im Plenum
 
 ## Aufgabe für die kommende Veranstaltung
 - Erarbeiten Sie individuell aus den im Grundlagenteil vorgestellten Konzepten und aus dem unten angegebenen Artikel von Guha über Schema.org ein Verständnis von strukturierten, offenen Daten im Web. Recherchieren Sie zu dem Thema möglichst mindestens eine weitere Quelle in der Sie ebenfalls arbeiten! 
