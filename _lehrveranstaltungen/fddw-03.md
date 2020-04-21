@@ -75,9 +75,12 @@ Hinzu kommt, dass derartige Systeme üblicherweise geschlossene Systeme sind - a
 - J. Bonér et al.: Reactive Microsystems: The Evolution of Microservices at Scale, O'Reilly (siehe auch [Seite des Unternehmens Lightbend](https://www.lightbend.com/ebooks/reactive-microsystems-evolution-of-microservices-scalability-oreilly)), [Webinar](https://on.acm.org/c/acm-learning-webinars)
 - Roland Kuhn: Reactive Design Patterns, Manning 2017
 - Engineer Bainomugisha, Andoni Lombide Carreton, Tom van Cutsem, Stijn Mostinckx, and Wolfgang de Meuter. 2013. [A survey on reactive programming](http://dx.doi.org/10.1145/2501654.2501666). ACM Comput. Surv. 45, 4, Article 52 (August 2013), 34 pages
-- Jack Moffitt: Professional XMPP Programming with JavaScript and JQuery, John Wiley 2010
-- Saint-André et al.: XMPP - The Definitive Guide, O'Reilly 2009
 - Dean Allemang, Jim Hendler: Semantic Web for the Working Ontologist, Morgan Kaufman 2014
 - R.V. Guha et al.: Schema.org: Evolution of Structured Data on the Web, COMMUNICATIONS OF THE ACM | FEBRUARY 2016 | VOL. 59 | NO. 2,https://doi.org/10.1145/2844544
 - Tim Berners-Lee: Linked Data, W3c 2006 [Web SEite](https://www.w3.org/DesignIssues/LinkedData)
+- T. Tanon et al.: From Freebase to Wikidata: The Great Migration, WWW 2016, April 11–15, 2016, Montréal, Québec, Canada.
+ACM 978-1-4503-4143-1/16/04. http://dx.doi.org/10.1145/2872427.2874809
+- schema.org: Getting started with Schema.org, https://schema.org/docs/gs.html Letzter Abruf: 21.4.20
+- sq digital: What Is Schema Markup And How Structured Data Can Benefit Your Business, https://www.sqdigital.co.uk/insights/what-is-schema-markup-and-how-structured-data-can-benefit-your-business/ Letzter Abruf: 21.4.20
+
 
