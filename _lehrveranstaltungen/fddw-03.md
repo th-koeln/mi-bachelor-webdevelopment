@@ -82,5 +82,6 @@ Hinzu kommt, dass derartige Systeme üblicherweise geschlossene Systeme sind - a
 ACM 978-1-4503-4143-1/16/04. http://dx.doi.org/10.1145/2872427.2874809
 - schema.org: Getting started with Schema.org, https://schema.org/docs/gs.html Letzter Abruf: 21.4.20
 - sq digital: What Is Schema Markup And How Structured Data Can Benefit Your Business, https://www.sqdigital.co.uk/insights/what-is-schema-markup-and-how-structured-data-can-benefit-your-business/ Letzter Abruf: 21.4.20
+- S. Staab et al.: Structured Knowledge on the Web 7.0, WWW ’18 Companion, April 23–27, 2018, Lyon, France, https://doi.org/10.1145/3184558.3190666
 
 
