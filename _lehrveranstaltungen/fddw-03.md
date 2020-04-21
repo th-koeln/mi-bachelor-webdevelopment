@@ -53,6 +53,17 @@ Für diese Kolonialisierung sind geeignete IT-Systeme notwendig. So müssen Astr
 Die NASA möchte daher eine geeignete Testimplementierung für webbasierte Systeme in einer Marsstation, welche die Kommunikation von der Erde zur Station, sowie innerhalb der Station erlaubt. Da die Station aus einzelnen Modulen besteht, die untereinander kommunizieren müssen, welche aber nicht zwangsweise über eine einheitliche Schnittstelle verfügen, soll eine übergeordnete und eventbasierte Architektur implementiert werden. Diese Architektur soll eine asynchrone Kommunikation zwischen den einzelnen Modulen erlauben, sodass Astronauten Informationen über Luftdruck, Temperaturen oder andere relevante Daten erhalten können.
 Hinzu kommt, dass derartige Systeme üblicherweise geschlossene Systeme sind - also ohne Verbindung zum Internet. Da auf Dauer auch ein interplanetares Internet geschaffen werden soll gilt es geeignete Services zu implementieren, welche Daten aus dem Web verwenden. Dabei verlangt die NASA die Verwendung von Open Data Portalen, um den Astronauten so viel Informationen wie möglich zukommen zu lassen.
 
+## Leitfragen für den Grundlagenteil
+
+1. Für welchen Zweck wurde Schema.org entwickelt?
+2. Was ist die Bedeutung der Knoten und Kanten in dem Graph in Abbildung 1  (Guha)?
+3. Welche Informationen finden sich in den Formaten hCalendar, FOAF?
+4. Was versteht man unter einem Knowledge Graph?
+5. Was ist Zweck und Aufbau von JSON-LD?
+6. Was ist die Begründung für die Einführung von Polymorphismus in schema.org?
+7. Was ist das Ziel des vom W3C betreuten Formats RDF?
+8. Was versteht man unter exttensions in Schema.org und warum wurden sie eingeführt?
+
 ## Material
 - [RabbitMQ](https://www.rabbitmq.com/) - Open Source Message Broker
 - [Clients und Developer Tools für RabbitMQ](https://www.rabbitmq.com/devtools.html)
