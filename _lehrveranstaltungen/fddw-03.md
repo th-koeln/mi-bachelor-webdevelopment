@@ -47,6 +47,6 @@ parallel Arbeit im Team, an der Fertigstellung des technischen PoC, individuelle
 - Jack Moffitt: Professional XMPP Programming with JavaScript and JQuery, John Wiley 2010
 - Saint-André et al.: XMPP - The Definitive Guide, O'Reilly 2009
 - Dean Allemang, Jim Hendler: Semantic Web for the Working Ontologist, Morgan Kaufman 2014
-- R.V. Guha et al.: Schema.org: Evolution of Structured Data on the Web, COMMUNICATIONS OF THE ACM | FEBRUARY 2016 | VOL. 59 | NO. 2, DOI:10.1145/2844544
+- R.V. Guha et al.: Schema.org: Evolution of Structured Data on the Web, COMMUNICATIONS OF THE ACM | FEBRUARY 2016 | VOL. 59 | NO. 2,https://doi.org/10.1145/2844544
 - Tim Berners-Lee: Linked Data, W3c 2006 [Web SEite](https://www.w3.org/DesignIssues/LinkedData)
 
