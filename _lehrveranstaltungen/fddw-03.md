@@ -33,6 +33,26 @@ parallel Arbeit im Team, an der Fertigstellung des technischen PoC, individuelle
 - Arbeiten Sie individuell an den den mit Ihren Mentoren identifizierten Kompetenzzielen und dokumentieren Sie Ihre Arbeit im Lernportfolio!
 - Erarbeiten Sie im Team an dem architekturellen PoC!
 
+## Problenszenarien für den architekturellen PoC
+
+### Koordination von Reisegruppen
+Nina und Paul gehören einer weit verzweigten Familie an, die jedes Jahr über das Himmelfahrtswochenende einen gemeinsamen Kurzurlaub auf einer Berghütte in den Schweizer Alpen verbringen. Diue Koordination gestaltet sich äusserst schwierig und ist ineffektiv:
+
+- Teile der Familie leben in unterschiedlichen Städten in Deutschland, der Schweiz und Frankreich
+- Sie Reisen mit unterschiedlichen Verkehrsmitteln an: Fahrgemeinschaft, Zug, Flugzeug/Mietwagen
+- Sie nutzen unterschiedliche Kommunikationskanäle: manche sind in Messaging Gruppen in WhatsApp, Signal, Threema verbunden, andere nutzen nur E-Mail oder gar nur Telefon
+- Informationen über Wetter, Lawinenlage, Verkehrbehinderungen (Zug, Auto, Flug), Veranstaltungen im Talort werden von Einzelnen wahrgenommen aber nur sporadisch geteilt.
+
+Da Nina und Paul Medieninformatik an verschiedenen Hochschulen studieren, haben Sie sich vorgenommen in einem gemeinsamen Projekt einen "Kommunikationskanal zu konzipieren, der es allen Familienmitgliedern erlaubt über enen Kanal zu kommunizieren und aktuelle Informationen (zu Wetter, Verkehr, ..) zu erhalten, sofern Sie dies wünschen.
+Nina und Paul möchten dieses Projekt in einer ersten Version in Github entwickeln und dabei auch eine Cousine, die noch Schülerin ist beteiligen. Später möchten Sie es zu einem Open Source GitHub Projekt machen und versuchen eine Communityy zu etablieren, die ein System entwickelt, das einen über das spezielle Familienszenarion hinaus generell die Koordination von "inhomogenen" Gruppen (Vereine, Klassentreffen, ...) ermöglicht. Nina und Paul wollen neben dem Spaß an dieser Arbeit durch dieses Projekt auch ein "Vorzeigeprojekt" für spätere Bewerbungen erreichen.
+
+### Kolonisation des Mars
+
+In den letzten Jahren ist das Ziel einer Kolonialisierung des Mars deutlich konkreter und realistischer geworden. Weltraumorganisationen, wie NASA oder SpaceX, planen erste bemannte Missionen ab 2030.
+Für diese Kolonialisierung sind geeignete IT-Systeme notwendig. So müssen Astronauten über Änderungen bestimmter Messwerte informiert werden und zusätzliche Daten zu den eigenen Aufgaben erhalten. Außerdem müssen die Astronauten auch mit Informationen von zu Hause versorgt werden, um die eigene Moral hoch zu halten. Hinzu kommt, dass eine einfache Übertragung im Schnitt zwischen 13 und 24 Minuten dauert, was zusätzlich berücksichtigt werden muss. Darüber hinaus sollen die Astronauten auch erstmals Zugriff auf Daten aus dem Internet erhalten.
+Die NASA möchte daher eine geeignete Testimplementierung für webbasierte Systeme in einer Marsstation, welche die Kommunikation von der Erde zur Station, sowie innerhalb der Station erlaubt. Da die Station aus einzelnen Modulen besteht, die untereinander kommunizieren müssen, welche aber nicht zwangsweise über eine einheitliche Schnittstelle verfügen, soll eine übergeordnete und eventbasierte Architektur implementiert werden. Diese Architektur soll eine asynchrone Kommunikation zwischen den einzelnen Modulen erlauben, sodass Astronauten Informationen über Luftdruck, Temperaturen oder andere relevante Daten erhalten können.
+Hinzu kommt, dass derartige Systeme üblicherweise geschlossene Systeme sind - also ohne Verbindung zum Internet. Da auf Dauer auch ein interplanetares Internet geschaffen werden soll gilt es geeignete Services zu implementieren, welche Daten aus dem Web verwenden. Dabei verlangt die NASA die Verwendung von Open Data Portalen, um den Astronauten so viel Informationen wie möglich zukommen zu lassen.
+
 ## Material
 - [RabbitMQ](https://www.rabbitmq.com/) - Open Source Message Broker
 - [Clients und Developer Tools für RabbitMQ](https://www.rabbitmq.com/devtools.html)
