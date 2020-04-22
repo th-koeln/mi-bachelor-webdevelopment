@@ -8,7 +8,7 @@ termine: 2020-04-23 09:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 480
-raum: 0.505
+raum: https://th-koeln.zoom.us/j/7684755654, Kennwort 116927
 info: Heute geht es um …
 ---
 
