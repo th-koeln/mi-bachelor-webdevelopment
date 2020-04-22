@@ -33,7 +33,10 @@ Ein wesentlicher Teil moderner Software Entwicklung ist die Kollaboration über 
 * "Magische" Dateien (README.md, LICENSE, PR Templates, etc) 
 * Welche Workflows zur Zusammenarbeit lassen sich abbilden? 
 * Was ist ein "Fork"? 
-* Praktische Übungen zu GitHub 
+* Praktische Übungen zu GitHub
+
+## Material
+- [Hilfestellung bei der Auswahl einer Lizenz](https://choosealicense.com/)
 
 ## Online Session
 Die heutige Veranstaltung wird nicht vor Ort in Gummersbach stattfinden, sondern als Online Veranstaltung.
