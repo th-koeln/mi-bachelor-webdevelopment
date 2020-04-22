@@ -37,6 +37,13 @@ Ein wesentlicher Teil moderner Software Entwicklung ist die Kollaboration über 
 
 ## Material
 - [Hilfestellung bei der Auswahl einer Lizenz](https://choosealicense.com/)
+- [Folien zur heutigen Veranstaltung](https://github.com/th-koeln/mi-bachelor-webdevelopment/blob/master/material/tooling/session-2-versionskontrolle/slides-versionskontrolle.pdf)
+- [Wichtige git Befehle](https://github.com/th-koeln/mi-bachelor-webdevelopment/blob/master/material/tooling/session-2-versionskontrolle/git-basics.org)
+- **Bonus** [git Objekte manuell erzeugen](https://github.com/th-koeln/mi-bachelor-webdevelopment/blob/master/material/tooling/session-2-versionskontrolle/manual-git.rb)
+- [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
+- Einfache Webseite mit [GitHub Pages](https://pages.github.com/)
+- [Git Buch](https://git-scm.com/book/en/v2)
+- [Pragmatic Programmer Buch](https://pragprog.com/book/tpp/the-pragmatic-programmer)
 
 ## Online Session
 Die heutige Veranstaltung wird nicht vor Ort in Gummersbach stattfinden, sondern als Online Veranstaltung.
