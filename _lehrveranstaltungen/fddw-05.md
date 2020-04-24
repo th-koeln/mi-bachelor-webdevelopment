@@ -8,7 +8,7 @@ termine: 2020-05-07 09:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 480
-raum: 0.505
+raum: https://th-koeln.zoom.us/j/7684755654, Kennwort 116927
 info: Heute geht es um …
 ---
 
@@ -19,10 +19,10 @@ Das Ziel des Tages ist es
 - Arbeit und Ergebnis des Projektteils  im Plenunm in 15 Minuten präsentiert haben
 
 ## Ablauf
-09:00 - 14:00 Fachgespräche mit dem Dozenten zum Grubdlagenteil (20 - 30 Minuten pro Team) 
+09:00 - 13:00 Fachgespräche mit dem Dozenten zum Grubdlagenteil (20 - 30 Minuten pro Team) 
 parallel Arbeit im Team, an der Fertigsellung des architekturellen PoC, individuelle Abstimmung mit Mentoren
 
-15:00 - 18:00 Vorstellung und Diskussion des Projekteils und des architekturellen PoC im Plenum
+14:00 - 17:00 Vorstellung und Diskussion des Projekteils und des architekturellen PoC im Plenum
 
 ## Material
 - [RabbitMQ](https://www.rabbitmq.com/) - Open Source Message Broker
