@@ -24,10 +24,10 @@ Das Ziel des Tages ist es
 
 16:30 - 17:45 Arbeit im Team, individuelle Abstimmung mit Mentoren
 
-17:45 - 18:00 Wrap-Up; V
+17:45 - 18:00 Wrap-Up; 
 
 ## Aufgabe für die kommende Veranstaltung
-- Erarbeiten Sie individuell aus den im Grundlagenteil vorgestellten Konzepten und aus den unten angegebenen Internetquellen zu Open Data ein Verständnis für das Gebiet. Suchen Sie sich einen oder mehrere Aspekte, die Sie vertiefen!
+
 - Erarbeiten Sie im Team den Prototyp der Phase II
 
 ## Material
@@ -36,17 +36,7 @@ Das Ziel des Tages ist es
 - [Apache ActiveMQ](https://github.com/apache/activemq) - Open Source Message Broker
 - [Apache Kafka](http://kafka.apache.org/) - A distributed streaming plattform
 
-## Internet Quellen zu verschiedenen Aspekten von Open Data
-- [Open Government Partnership (OGP)](https://opengovpartnership.de/)
-- [Open Knowledge International](https://okfn.org/)
-- [Datenjournalist](https://www.datenjournalist.de/)
-- [Open Data Portal der EU](https://www.europeandataportal.eu/en)
-- [Open Data Portal UK](https://data.gov.uk/)
-- [Open Data bei der Société nationale des chemins de fer français](https://data.sncf.com/explore/?sort=modified)
-- [The Open Data Institute (ODI)](https://theodi.org/)
-- [dbpedia](https://wiki.dbpedia.org/)
-- [Linked Data Patterns](https://patterns.dataincubator.org/book/)
-- [Eintrittspunkt in die Linked Open Data Cloud](http://lodlaundromat.org/)
+
 
 ## Literatur
 - Edward Steel et al.: Hootsuite: In Pursuit of Reactive Systems ([Link in die ACM DL](https://dlnext.acm.org/doi/abs/10.1145/3121437.3131240))
