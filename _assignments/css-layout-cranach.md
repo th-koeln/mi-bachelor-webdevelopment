@@ -30,10 +30,13 @@ Teilen Sie Ihr Frontend CSS auf eine sinnvolle Struktur auf, z.B.
 /styles
   10-reset.css
   20-fonts.css
-  30-icons.css
-  40-base.css
-  50-components.css
+  30-variable.css
+  40-icons.css
+  50-base.css
+  60-components.css
 ```
+Überführen Sie alle Angaben aus dem Styleguide in Custom Properties. Refactoren Sie Ihren Code unter der Zuhilfenahme der BEM Methodologie. 
+
 Committen, Pushen, Glücklich sein!
 
 ## Aufgabe 3
