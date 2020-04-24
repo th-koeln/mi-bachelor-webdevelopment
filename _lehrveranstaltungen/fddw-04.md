@@ -8,7 +8,7 @@ termine: 2020-04-30 14:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 240
-raum: 0.505
+raum: https://th-koeln.zoom.us/j/7684755654, Kennwort 116927
 info: Heute geht es um …
 ---
 
@@ -19,13 +19,12 @@ Das Ziel des Tages ist es
 - ein Ziel für den Phase II Prototypen definiert haben und die Schritte dahin im repo dokumentiert haben
 
 ## Ablauf
-14:00 - 15:00 Diskussion des Stands der individuellen Kompetenzziele 
 
-15:00 - 16:00 Diskussion der Literaturaufgabe
+14:00 - 16:00 Diskussion der Literaturaufgabe
 
-16:00 - 17:00 Arbeit im Team, individuelle Abstimmung mit Mentoren
+16:30 - 17:45 Arbeit im Team, individuelle Abstimmung mit Mentoren
 
-17:00 - 18:00 Wrap-Up; Vorstellung der Resultate der Teams
+17:45 - 18:00 Wrap-Up; V
 
 ## Aufgabe für die kommende Veranstaltung
 - Erarbeiten Sie individuell aus den im Grundlagenteil vorgestellten Konzepten und aus den unten angegebenen Internetquellen zu Open Data ein Verständnis für das Gebiet. Suchen Sie sich einen oder mehrere Aspekte, die Sie vertiefen!
