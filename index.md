@@ -33,11 +33,11 @@ Die verschiedenen Kurse finden teils durchlaufend, in der Regel wöchentlich, ü
 Jeder Kurs schließt mit einer Prüfung ab. Hier kommen unterschiedliche Prüfungsformen zum Einsatz. Nach etwa 2/3 der Vorlesungszeit startet ein Projekt, dass am Ende der Vorlesungsfreien Zeit mit einer Projektpräsenation mit anschließendem Fachgespräch vorgestellt und bewertet wird. Die Modulnote ergibt sich aus dem gewichteten Mittel der Einzelbewertungen, d.h. nicht bestandende Einzelbewertungen können ausgeglichen werden. Die Gewichtung der einzelnen Bewertungen sieht wie folgt aus:
 
 <table class="table is-striped">
-<tr><th><a href="/mi-bachelor-webdevelopment/frameworks-dienste-und-daten/">Frameworks, Dienste und Daten im Web</a></th><td>3</td></tr>
-<tr><th><a href="https://moxd.io/iot2020">Internet of Things</a></th><td>3</td></tr>
+<tr><th><a href="/mi-bachelor-webdevelopment/frameworks-dienste-und-daten/">Frameworks, Dienste und Daten im Web</a></th><td>5</td></tr>
+<tr><th><a href="https://moxd.io/iot2020">Internet of Things</a></th><td>5</td></tr>
 <tr><th><a href="/mi-bachelor-webdevelopment/frontend-development/">Frontend Development</a></th><td>5</td></tr>
 <tr><th><a href="https://ilias.th-koeln.de/goto.php?target=crs_772146&client_id=ILIAS_FH_Koeln">Praktische IT-Sicherheit</a></th><td>5</td></tr>
-<tr><th>Projektarbeit/ Tooling</th><td>4</td></tr>
+<!--tr><th>Projektarbeit/ Tooling</th><td>4</td></tr-->
 </table>
 
 
