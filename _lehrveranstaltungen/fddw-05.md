@@ -28,9 +28,9 @@ parallel Arbeit im Team, an der Fertigsellung des architekturellen PoC, individu
 Die Bewertung des Projektteils erfolgt auf Basis der Projektpräsentation und der im Repository hinterlegten Artefakte. Für die Präsentation sollte eine Folienpräsentation mit Notizen erstellt werden. Aus den Notizen sollen die Begründungen, Überlegungen und Alternativen für die Artefakte hervorgehen, die auch mündlich vorgetragen werden.
 
 Die Bewertungskriterien sind im Folgenden aufgeführt. Jeweils sind neben den Artefakten die Begründungen und die Betrachtung von Alternativen wichtig.
-- Das System leistet etwas signifikantes für die Nutzer: eine aus dem Problermszenario abgeleitete signifikante Anwendungslogik wurde modelliert, umgesetzt und die Verteilungauf mehrere Softwarekomponenten realisiert.
+- Das System leistet etwas signifikantes für die Nutzer: eine aus dem Problemszenario abgeleitete signifikante Anwendungslogik wurde modelliert, umgesetzt und die Verteilung auf mehrere Softwarekomponenten realisiert.
 - Qualität der Modellierung der Kommunikation über Topics/Queues: insbesondere soll eime umfangreiche und dem Problemszenario angemessene Nutzung dieser Kommunikation erfolgt sein.
-- Verteilung der Anwendungslogik auf mehrere Prozesse: die Anwendungslogik muss auf mehrere Prozesse verteilt sein und die location transparency so sollte so gegeben sein, dass eine Verteilung des Systems auf mehrere Rechner möglich ist.
+- Verteilung der Anwendungslogik auf mehrere Prozesse: die Anwendungslogik muss auf mehrere Prozesse verteilt sein und die location transparency sollte so gegeben sein, dass eine Verteilung des Systems auf mehrere Rechner möglich ist.
 - Prozess der Erarbeitung, Teamarbeit: ein iteratives Vorgehen findet sich im Repository, alle Teammitglieder liefern einen signifikanten Beitrag an der Erstellung des Systems 
 
 
