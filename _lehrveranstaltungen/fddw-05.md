@@ -24,6 +24,16 @@ parallel Arbeit im Team, an der Fertigsellung des architekturellen PoC, individu
 
 14:00 - 17:00 Vorstellung und Diskussion des Projekteils und des architekturellen PoC im Plenum
 
+## Bewertungskriterien für die Projektarbeit und -präsentation
+Die Bewertung des Projektteils erfolgt auf Basis der Projektpräsentation und der im Repository hinterlegten Artefakte. Für die Präsentation sollte eine Folienpräsentation mit Notizen erstellt werden. Aus den Notizen sollen die Begründungen, Überlegungen und Alternativen für die Artefakte hervorgehen, die auch mündlich vorgetragen werden.
+
+Die Bewertungskriterien sind im Folgenden aufgeführt. Jeweils sind neben den Artefakten die Begründungen und die Betrachtung von Alternativen wichtig.
+- Das System leistet etwas signifikantes für die Nutzer: eine aus dem Problermszenario abgeleitete signifikante Anwendungslogik wurde modelliert, umgesetzt und die Verteilungauf mehrere Softwarekomponenten realisiert.
+- Qualität der Modellierung der Kommunikation über Topics/Queues: insbesondere soll eime umfangreiche und dem Problemszenario angemessene Nutzung dieser Kommunikation erfolgt sein.
+- Verteilung der Anwendungslogik auf mehrere Prozesse: die Anwendungslogik muss auf mehrere Prozesse verteilt sein und die location transparency so sollte so gegeben sein, dass eine Verteilung des Systems auf mehrere Rechner möglich ist.
+- Prozess der Erarbeitung, Teamarbeit: ein iteratives Vorgehen findet sich im Repository, alle Teammitglieder liefern einen signifikanten Beitrag an der Erstellung des Systems 
+
+
 ## Material
 - [RabbitMQ](https://www.rabbitmq.com/) - Open Source Message Broker
 - [Clients und Developer Tools für RabbitMQ](https://www.rabbitmq.com/devtools.html)
