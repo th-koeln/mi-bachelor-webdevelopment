@@ -8,7 +8,7 @@ termine: 2020-04-30 09:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 240
-raum: 0.505
+raum: https://us02web.zoom.us/j/83162746779?pwd=ZkJpQjZWanJBd2RNMGE5ME9sdUk0QT09 (Zugangscode webdev)
 info: Heute geht es um …
 ---
 
