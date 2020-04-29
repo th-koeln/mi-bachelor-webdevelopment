@@ -8,7 +8,7 @@ termine: 2020-04-22 09:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 300
-raum: https://zoom.us/j/92526318744 (Zugangscode ist webdev)
+raum: Online
 info: Heute geht es um …
 ---
 
