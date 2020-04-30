@@ -38,6 +38,9 @@ Alle Punkte sind eng mit der Kollaboration über eine Git Forge verknüpft und m
 
 ## Material
 
+* [Folien zur heutigen Veranstaltung](https://github.com/th-koeln/mi-bachelor-webdevelopment/blob/master/material/tooling/session-3-testing/slides-testing.pdf)
+* [Repo zum Testing Beispiel](https://github.com/code-later/word_count_demo)
+
 ## Weiterführendes Material
 
 ## Sie haben keinen Rechner?
