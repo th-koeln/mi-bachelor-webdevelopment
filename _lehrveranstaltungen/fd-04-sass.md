@@ -26,7 +26,7 @@ Heute befassen wir und mit SASS um unser CSS noch besser strukturieren zu könne
 - [Responsive Web Design](https://alistapart.com/article/responsive-web-design/)
 - [Responsive Web Design @Smashing](https://www.smashingmagazine.com/category/responsive-web-design/)
 - [Respsonsive Design Slides](https://media.kulturbanause.de/2012/11/responsive-webdesign/index.html#/)
-
+- [Vertical Centering via Flexbox](https://philipwalton.github.io/solved-by-flexbox/demos/vertical-centering/)
 
 
 
