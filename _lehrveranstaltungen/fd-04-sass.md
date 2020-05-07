@@ -25,9 +25,14 @@ Heute befassen wir und mit SASS um unser CSS noch besser strukturieren zu könne
 - [3 Säulen für Responsive Webdesign](https://www.konversionskraft.de/trends/die-3-saeulen-des-responsive-webdesign.html)
 - [Responsive Web Design](https://alistapart.com/article/responsive-web-design/)
 - [Responsive Web Design @Smashing](https://www.smashingmagazine.com/category/responsive-web-design/)
-- [Respsonsive Design Slides](https://media.kulturbanause.de/2012/11/responsive-webdesign/index.html#/)
+- [Advanced CSS Layout - Folien](../../material/frontend-development-1/session-3/slides/Chapter07-AdvancedCSSLayout.pdf)
 - [Vertical Centering via Flexbox](https://philipwalton.github.io/solved-by-flexbox/demos/vertical-centering/)
-
+- [Easy SASS project and compile with npm](https://medium.com/@kanokpit.skuberg/easy-sass-project-and-compile-with-npm-5861457195b5)
+- [How to Use npm as a Build Tool](https://www.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/)
+- [Using Npm Scripts as a Build Tool](https://deliciousbrains.com/npm-build-script/)
+- [4 Solutions To Run Multiple Node.js or NPM Commands Simultaneously](https://itnext.io/4-solutions-to-run-multiple-node-js-or-npm-commands-simultaneously-9edaa6215a93)
+- [Simple pure npm scripts build process](https://gist.github.com/adamreisnz/9edf1f48e19c104b81f8102a27de0940)
+- [Responsive Images – <picture>, srcset, sizes & Co.](https://blog.kulturbanause.de/2014/09/responsive-images-srcset-sizes-adaptive/)
 
 
 
