@@ -32,7 +32,7 @@ Heute befassen wir und mit SASS um unser CSS noch besser strukturieren zu könne
 - [Using Npm Scripts as a Build Tool](https://deliciousbrains.com/npm-build-script/)
 - [4 Solutions To Run Multiple Node.js or NPM Commands Simultaneously](https://itnext.io/4-solutions-to-run-multiple-node-js-or-npm-commands-simultaneously-9edaa6215a93)
 - [Simple pure npm scripts build process](https://gist.github.com/adamreisnz/9edf1f48e19c104b81f8102a27de0940)
-- [Responsive Images – <picture>, srcset, sizes & Co.](https://blog.kulturbanause.de/2014/09/responsive-images-srcset-sizes-adaptive/)
+- [Responsive Images](https://blog.kulturbanause.de/2014/09/responsive-images-srcset-sizes-adaptive/)
 
 
 
