@@ -23,7 +23,7 @@ README.md
 ```
 
 ## Step 2: SASS Struktur anlegen
-Legen Sie im Verzeichn `styles/scss/` zusätzlich zur `main.scss` folgende Dateien an:
+Legen Sie im Verzeichnis `styles/scss/` zusätzlich zur `main.scss` folgende Dateien an:
 ```
 _base.scss
 _components.scss
@@ -45,7 +45,7 @@ Importieren Sie die Partials in die `main.scss`.
 ```
 
 ## Step 4: package.json für Developmentumgebung anpassen
-Passen Sie Ihre script Einträge in der `package.json` dahingehend an, dass die Quelldatein jetzt im `src` Folder liegen:
+Passen Sie Ihre script Einträge in der `package.json` dahingehend an, dass die Quelldateien jetzt im `src` Folder liegen:
 
 ```
   "dev:css": "node-sass --source-map true src/styles/scss src/styles/scss/main.scss -o src/styles/",
