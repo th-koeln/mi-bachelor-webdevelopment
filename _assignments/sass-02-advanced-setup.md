@@ -6,7 +6,7 @@ tags: CSS, SASS
 Diese Aufgabe baut auf [SASS Basic Setup](../sass-01-basic-setup/) auf.
 
 ## Step 1: Verzeichnisstruktur aufbauen
-Erzeugen Sie ein `dist` einen `src` Verzeichnis in Ihrem Projektverzeichnis. Verschieben Sie Ihre html-Dateien, das `styles` Verzeichnis, das `images` Verzeichnis und `assets` Verzeichnis in den `src` Folder. Folgende Struktur sollte resultieren:
+Erzeugen Sie ein `dist` und ein `src` Verzeichnis in Ihrem Projektverzeichnis. Verschieben Sie Ihre html-Dateien, das `styles` Verzeichnis, das `images` Verzeichnis und `assets` Verzeichnis in den `src` Folder. Folgende Struktur sollte resultieren:
 
 ```
 dist/
