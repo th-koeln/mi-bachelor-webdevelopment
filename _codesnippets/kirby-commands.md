@@ -1,6 +1,7 @@
 ---
 titel:  Kirby Commands
 autor: cn
+tags: kirby
 ---
 
 Ein paar Kirby Commands für die Übung. Eine komplette Übersicht gibt es auf der [Kirby Site](https://getkirby.com/docs/guide).

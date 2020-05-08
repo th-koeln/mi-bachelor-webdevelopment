@@ -74,6 +74,9 @@ navigation:
   - url: /mi-bachelor-webdevelopment/assignments/
     name: Assignments
 
+  - url: /mi-bachelor-webdevelopment/codesnippets/
+    name: Codesnippets
+
   - url: https://ilias.th-koeln.de/ilias.php?ref_id=1238198&cmd=frameset&cmdClass=ilrepositorygui&cmdNode=u0&baseClass=ilrepositorygui
     name: Kurs im Ilias
     

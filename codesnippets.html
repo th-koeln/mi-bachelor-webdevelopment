@@ -2,14 +2,14 @@
 layout: default
 ---
 
-{% assign assignments = site.assignments | sort: 'title' %}
-{% assign tabtags = "HTML|CSS|Javascript|Tooling|SASS" | split: "|" %}
+{% assign codesnippets = site.codesnippets | sort: 'title' %}
+{% assign tabtags = "HTML|CSS|SASS|npm|misc" | split: "|" %}
 
 <section class="section">
   <div class="container">
 
-    <h1 class="title is-1">Assignments</h1>
-    <h2 class="subtitle">Hier die Übersicht über alle Aufgaben.</h2>
+    <h1 class="title is-1">Codesnippets</h1>
+    <h2 class="subtitle">Hier die Übersicht über alle Snippets.</h2>
 
   </div>
 
@@ -39,11 +39,11 @@ layout: default
 
       <div class="assignments is-tab-content column is-two-thirds is-overview-item">
         <div class="content assignment-overview">
-          {% for assignment in assignments %}
+          {% for codesnippet in codesnippets %}
           <div class="assignment-overview__item">
-            <a href="{{assignment.url | relative_url}}">
-            <h2 class="title is-2" id="{{ assignment.id }}">{{ assignment.titel }}</h2>
-            <p class="tag is-rounded" style="color: #999999;">{{assignment.tags | join:' '}}</p>
+            <a href="{{codesnippet.url | relative_url}}">
+            <h2 class="title is-2" id="{{ codesnippet.id }}">{{ codesnippet.titel }}</h2>
+            <p class="tag is-rounded" style="color: #999999;">{{codesnippet.tags | join:' '}}</p>
             </a>
           </div>
           {% endfor %}
@@ -56,9 +56,9 @@ layout: default
 
           {% for assignment in assignments %} {% if assignment.tags contains navEle %}
           <div class="assignment-overview__item">
-              <a href="{{assignment.url | relative_url}}">
-              <h2 class="title is-2" id="{{ assignment.id }}">{{ assignment.titel }}</h2>
-              <p class="tag is-rounded" style="color: #999999;">{{assignment.tags | join:' '}}</p>
+              <a href="{{codesnippet.url | relative_url}}">
+              <h2 class="title is-2" id="{{ codesnippet.id }}">{{ codesnippet.titel }}</h2>
+              <p class="tag is-rounded" style="color: #999999;">{{codesnippet.tags | join:' '}}</p>
               </a>
             </div>
           {% endif %} {% endfor %}
