@@ -10,6 +10,7 @@ Initialisieren Sie npm via `npm init` und installieren Sie die folgenden Pakete 
 - [node-sass](https://www.npmjs.com/package/node-sass)
 - [npm-run-all](https://www.npmjs.com/package/npm-run-all)
 - [rimraf](https://www.npmjs.com/package/rimraf)
+- [mkdirp](https://www.npmjs.com/package/mkdirp)
 
 ## Step 2: SASS Datei zum Testen anlegen
 Legen Sie im Verzeichnis `styles/` ein neues Verzeichnis `scss` an und erzeugen dort die Datei `main.scss`mit folgendem Inhalt an:

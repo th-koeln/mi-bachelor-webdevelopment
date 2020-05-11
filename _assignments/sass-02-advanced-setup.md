@@ -62,17 +62,18 @@ Ergänzen Sie Ihre script Einträge in der `package.json` um folgende Einträge:
   "build:copy": "npm run copy",
   "build:css": "node-sass --include-path src/styles/scss src/styles/scss/main.scss dist/styles/main.css --output-style compressed",
   "build": "npm run build:clean && npm run build:copy && npm run build:css",
-
-  "//": " --- BUILD (GENERIC) --- ",
+   "//": " --- GENERIC --- ",
   "clean": "rimraf dist",
-  "mkdirs": "mkdir -p dist/js && mkdir -p dist/styles && mkdir -p dist/assets && mkdir -p dist/images",
+  "mkdirs": "npx mkdirp -p dist/js && npx mkdirp -p dist/styles && npx mkdirp -p dist/assets && npx mkdirp -p dist/images",
   "copy:assets": "cp -r src/assets/* dist/assets/",
   "copy:images": "cp -r src/images/* dist/images/",
-  "copy:html": "find src -name '*.html' -type f -exec cp {} dist \\;",
+  "copy:html": "node helper/copy-html.js .html",
   "copy": "npm run copy:assets && npm run copy:html && npm run copy:images"
 ```
+## Step 6: Copy-html Helperscript integrieren
+Legen Sie das Verzeichnis `helper`im Projektverzeichnis an und legen Sie folgende Datei dort hinein: [copy-html.js](https://gist.github.com/cnoss/71c00c962a9784bb8523393f06f40026)
 
-## Step 6: Testläufe
+## Step 7: Testläufe
 `npm run watch` sollte jetzt nach wie vor funktionieren und mit `npm run build` sollte eine Produktivversion im `dist` Verzeichnis erzeugt werden.
 
 
