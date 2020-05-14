@@ -8,7 +8,7 @@ termine: 2020-05-15 11:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
-raum: Online
+raum:  https://us02web.zoom.us/j/89911085038 (Zugangscode webdev)
 info: Support für Interessierte
 ---
 
