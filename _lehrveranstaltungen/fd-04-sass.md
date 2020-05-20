@@ -13,7 +13,7 @@ info: Heute geht es um SASS, CSS Transitions & Responsive Design.
 ---
 
 ## Worum geht es?
-Heute befassen wir und mit SASS um unser CSS noch besser strukturieren zu können. In dem Zuge setzen wir uns auch mit Task Runnern, bzw. `npm scripts` auseinander. Wir werden ersten Schritte in Richtung Responsive Design gehen, um unser Layout reaktionsfähig zu machen und setzen CSS Transistions für geschmeidige Übergänge und zur Unterstüzung von Interaktionen ein. Außerdem wird eine Ich-hab-HTML-und-CSS-im-Griff-Aufgabe für die Projektwoche vorgestellt.
+Heute befassen wir und mit SASS um unser CSS noch besser strukturieren zu können. In dem Zuge setzen wir uns auch mit Task Runnern, bzw. `npm scripts` auseinander. Wir werden erste Schritte in Richtung Responsive Design gehen, um unser Layout reaktionsfähig zu machen und setzen CSS Transistions für geschmeidige Übergänge und zur Unterstüzung von Interaktionen ein. Außerdem wird eine Ich-hab-HTML-und-CSS-im-Griff-Aufgabe für die Projektwoche vorgestellt.
 
 ## Material
 - [SASS](https://sass-lang.com/)
