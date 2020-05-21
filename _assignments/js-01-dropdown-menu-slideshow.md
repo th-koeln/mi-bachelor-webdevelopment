@@ -3,7 +3,7 @@ titel: Javascript // Dropdown Menü und Slideshow
 tags: Javascript
 ---
 
-Ausgangspunkt zur Bearbeitung der Aufgaben ist der Code aus der Musikfestivals Aufgabe. Dieser ist über folgenden [Einladungslink (folgt)]() erreichbar.
+Ausgangspunkt zur Bearbeitung der Aufgaben ist der Code aus der Musikfestivals Aufgabe. Dieser ist über folgenden [Einladungslink](https://classroom.github.com/a/6OEnL7PT) erreichbar.
 
 Bitte comitten und pushen Sie ihren Code nach jedem Step.
 
