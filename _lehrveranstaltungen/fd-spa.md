@@ -4,10 +4,10 @@ kuerzel: fd
 verantwortlich: jp
 typ: fd
 pflicht: false
-termine: 12020-07-03 10:00
+termine: 2020-06-19 10:00
 published: true
 dauer: 360
-raum: 0.505
+raum: https://us02web.zoom.us/j/81117580841 (Zugangscode webdev)
 ---
 
 ## Worum geht es?
