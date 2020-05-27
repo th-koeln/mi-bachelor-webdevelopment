@@ -8,8 +8,8 @@ termine: 2020-05-28 14:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
-raum: 0.505
-info: Heute geht es um die grundlagen von Docker
+raum: https://us02web.zoom.us/j/82670810311 (Zugangscode webdev)
+info: Heute geht es um die Grundlagen von Docker
 ---
 
 ## Worum geht es?
@@ -25,9 +25,3 @@ Dieser Workshop richtet sich an Entwickler und Technikinteressierte, welche die 
 
 
 ## Material
-- [Beispielprojekt mit Nginx (Dockerfile)](https://github.com/JannDeterling/how-to-dockerfile)
-- [Beispielprojekt mit Hugo (Docker Basics + Dockerfile)](https://github.com/th-koeln/mi-bachelor-webdevelopment-docker)
-- [Beispielprojekt mit Node + MongoDB (Docker-Compsoe + Docker network)](https://github.com/JannDeterling/docker-seminar-compose-sample)
-- [Dockerfile reference](https://docs.docker.com/engine/reference/builder/)
-- [Docker Compose reference](https://docs.docker.com/compose/compose-file/)
-- [Slides](https://slides.com/jann-1/deck)
