@@ -3,7 +3,9 @@ titel: Javascript // extended Slideshow
 tags: Javascript
 ---
 
-Ausgangspunkt zur Bearbeitung der Aufgaben ist der Code aus der [vorangegangenen JavaScript Übung](../js-01-dropdown-menu-slideshow.md/).
+Die Aufgaben bauen auf die [vorangegangene JavaScript Übung](../js-01-dropdown-menu-slideshow/) auf.
+
+[Startercode](https://github.com/mi-classroom/js-aufgabe-dropdown-menu-slideshow-cnoss) zur Bearbeitung der Aufgaben.
 
 Bitte comitten und pushen Sie ihren Code nach jedem Step.
 
