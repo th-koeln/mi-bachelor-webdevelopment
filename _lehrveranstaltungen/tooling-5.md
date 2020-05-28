@@ -4,10 +4,10 @@ kuerzel: tooling
 verantwortlich: db
 typ: tooling
 pflicht: false
-termine: 2020-06-03 09:00
+termine: 2020-06-10 14:00
 empfohlene-voraussetzungen: 
 published: true
-dauer: 300
+dauer: 180
 raum: 0.505
 info: Heute geht es um …
 ---
