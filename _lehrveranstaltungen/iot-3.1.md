@@ -4,10 +4,10 @@ kuerzel: iot
 verantwortlich: mb
 typ: iot
 pflicht: false
-termine: 2020-06-04 11:00
+termine: 2020-06-04 10:45
 empfohlene-voraussetzungen: 
 published: true
-dauer: 150
+dauer: 165
 raum: 3.209
 info: Heute geht es um …
 ---
