@@ -8,7 +8,7 @@ termine: 2020-06-10 14:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
-raum: 0.505
+raum:  https://us02web.zoom.us/j/81108493594 (zugangscode webdev)
 info: Heute geht es um …
 ---
 
