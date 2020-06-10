@@ -53,5 +53,3 @@ CSS Regeln zum Stylen der Dot Navigation:
   }
 }
 ```
-
-
