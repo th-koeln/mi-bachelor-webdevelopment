@@ -3,14 +3,14 @@ titel: Javascript // Touch Gesten und Fetch API
 tags: Javascript
 ---
 
-Die Aufgaben bauen auf die [vorangegangene JavaScript Übung](../js-02-extended-slideshow/) auf.
+Die Aufgaben bauen auf der [vorangegangenen JavaScript Übung](../js-02-extended-slideshow/) auf.
 
 [Startercode](https://github.com/mi-classroom/js-aufgabe-dropdown-menu-slideshow-cnoss) zur Bearbeitung der Aufgaben.
 
 Bitte comitten und pushen Sie ihren Code nach jedem Step.
 
 ## Step 1: Navigation über Touch Gesten
-Erweitern Sie die Slideshow Klasse so, dass eine Navigation innerhalb der Slideshow über Swipe Gesten möglich ist.
+Erweitern Sie die gegebene Slideshow Klasse so, dass eine Navigation innerhalb der Slideshow über Swipe Gesten möglich ist.
 Bei einem Swipe nach links soll das nächste Bild und bei einem Swipe nach rechts das vorherige Bild eingeblendet werden.
 
 Die Erkennung der Fingergesten ist in der Klasse `Swipe` implementiert. Bitte verwenden Sie diese zur Lösung der Aufgabe.
