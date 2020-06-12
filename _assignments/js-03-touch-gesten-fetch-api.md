@@ -5,7 +5,7 @@ tags: Javascript
 
 Die Aufgaben bauen auf der [vorangegangenen JavaScript Übung](../js-02-extended-slideshow/) auf.
 
-[Startercode](https://github.com/mi-classroom/js-aufgabe-dropdown-menu-slideshow-cnoss) zur Bearbeitung der Aufgaben.
+[GitHub Classroom Assignment](https://classroom.github.com/a/pDYcNTqI) zur Bearbeitung der Aufgaben.
 
 Bitte comitten und pushen Sie ihren Code nach jedem Step.
 
