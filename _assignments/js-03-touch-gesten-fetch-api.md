@@ -18,6 +18,19 @@ Die Erkennung der Fingergesten ist in der Klasse `Swipe` implementiert. Bitte ve
 ## Step 2: Dynamische Generierung der Slides
 Jetzt geht es darum die Slideshow Klasse so zu erweitern, dass die Slides dynamisch generiert werden.
 
+Codesnippet zum Abrufen von Daten über die Fetch API
+```javascript
+async function fetchData(apiURL) {
+  let response = await fetch(apiURL);
+  if(!response.ok) {
+    throw new Error(response.statusText);
+  }
+  let data = await response.json();
+  return data;
+}
+```
+
+
 Laden Sie dazu mit Hilfe der Fetch API die `content.json` aus dem JSON-Ordner vom Server.
 Erzeugen Sie nun auf Basis der Response die benötigten DOM Elemente für die Slides.
 
