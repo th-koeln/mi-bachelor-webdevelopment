@@ -28,6 +28,17 @@ async function fetchData(apiURL) {
   let data = await response.json();
   return data;
 }
+
+
+fetchData(url)
+.then((data) => {
+  console.log(data);
+})
+.catch((error) => {
+  console.log('error', error);
+});
+;
+
 ```
 
 
