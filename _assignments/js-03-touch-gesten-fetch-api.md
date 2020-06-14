@@ -5,7 +5,7 @@ tags: Javascript
 
 Die Aufgaben bauen auf der [vorangegangenen JavaScript Übung](../js-02-extended-slideshow/) auf.
 
-[Startercode](https://github.com/mi-classroom/js-aufgabe-dropdown-menu-slideshow-cnoss) zur Bearbeitung der Aufgaben.
+[GitHub Classroom Assignment](https://classroom.github.com/a/pDYcNTqI) zur Bearbeitung der Aufgaben.
 
 Bitte comitten und pushen Sie ihren Code nach jedem Step.
 
@@ -17,6 +17,30 @@ Die Erkennung der Fingergesten ist in der Klasse `Swipe` implementiert. Bitte ve
 
 ## Step 2: Dynamische Generierung der Slides
 Jetzt geht es darum die Slideshow Klasse so zu erweitern, dass die Slides dynamisch generiert werden.
+
+Codesnippet zum Abrufen von Daten über die Fetch API
+```javascript
+async function fetchData(apiURL) {
+  let response = await fetch(apiURL);
+  if(!response.ok) {
+    throw new Error(response.statusText);
+  }
+  let data = await response.json();
+  return data;
+}
+
+
+fetchData(url)
+.then((data) => {
+  console.log(data);
+})
+.catch((error) => {
+  console.log('error', error);
+});
+
+
+```
+
 
 Laden Sie dazu mit Hilfe der Fetch API die `content.json` aus dem JSON-Ordner vom Server.
 Erzeugen Sie nun auf Basis der Response die benötigten DOM Elemente für die Slides.
