@@ -2,6 +2,7 @@
 {% assign week-count = 0 %}
 {% assign starttime = 09 %}
 {% assign endtime = 18 %}
+
 {% assign difftime = endtime | minus: starttime %}
 {% for week in site.data.dates %} {% assign week-count = week-count | plus: 1 %}
 
@@ -42,3 +43,4 @@
 </div>
 
 {% endfor %}
+
