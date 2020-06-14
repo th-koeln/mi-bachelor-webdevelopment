@@ -1,5 +1,5 @@
 ---
-titel: Development-Challenge // Hackday
+titel: Templating in JS // Development-Challenge // Hackday
 kuerzel: fd
 verantwortlich: cn
 typ: fd
@@ -12,33 +12,32 @@ raum: https://us02web.zoom.us/j/81117580841 (Zugangscode webdev)
 
 ## Worum geht es?
 
-Heute wenden wir das Gelernte aus den letzten Wochen für die Implementierung eines konkreten Features an. Wir stellen das Feature vor, geben ein paar Tipps und stehen den ganzen Tag für Fragen und Support zur Verfügung. Um 14:30 Uhr müssen die Ergebnisse gepusht sein und wir schauen uns den Code gemeinsam an. 
+Heute befassen wir uns kurz mit dem Thema «Templating» und wenden uns dann der Implementierung eines konkreten Features an. Wir stellen das Feature vor, geben ein paar Tipps und stehen den restlichen Tag für Fragen und Support zur Verfügung. Um 14:30 Uhr müssen die Ergebnisse gepusht sein und wir schauen uns den Code gemeinsam an. 
 
 ## Was muss ich kennen und können?
 
 Neben den Kenntnissen und Fertigkeiten aus den Inhaltsbereichen Kollabortation(via git), HTML und CSS(SASS), gehen wir davon aus, dass Sie folgende Skills mitbringen und einsetzen können:
 
 ### BuildChain 
-  - Was ist eine BuildChain? 
-  - Was ist die Idee und das Konzept dahinter?
-  - Wofür brauche ich Sie? 
-  - Wie kann ich sie starten? 
-  - Wie kann ich sie ggf. anpassen?
+- Was ist eine BuildChain? 
+- Was ist die Idee und das Konzept dahinter?
+- Wofür brauche ich Sie? 
+- Wie kann ich sie starten? 
+- Wie kann ich sie ggf. anpassen?
 
 ### Docker
-  - Was ist Docker? 
-  - Was ist die Idee und das Konzept dahinter?
-  - Wofür brauche ich Docker? 
-  - Wie kann ich Docker starten? 
-  - Wie kann ich die Dockerumgebung ggf. anpassen?
+- Was ist Docker? 
+- Was ist die Idee und das Konzept dahinter?
+- Wofür brauche ich Docker? 
+- Wie kann ich Docker starten? 
+- Wie kann ich die Dockerumgebung ggf. anpassen?
 
 ### Javascript
-  - JS einbinden
-  - DOM Traversion
-  - DOM Manipulation
-  - Funktionen & Classen
-  - FetchAPI
-  - Variabeln, Arrays und Objekte
-  - JSON
-
-  
+- JS einbinden
+- DOM Traversion
+- DOM Manipulation
+- Funktionen & Classen
+- FetchAPI
+- Variabeln, Arrays und Objekte
+- JSON
+- Templating ([Vanilla](https://jonsuh.com/blog/javascript-templating-without-a-library/) oder via [Template Engine](https://colorlib.com/wp/top-templating-engines-for-javascript/))

@@ -1,5 +1,5 @@
 ---
-titel: JavaScript Advanced
+titel: JavaScript Basics 2
 kuerzel: fd
 verantwortlich: vs
 typ: fd
