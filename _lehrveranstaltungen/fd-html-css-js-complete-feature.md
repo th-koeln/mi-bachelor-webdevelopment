@@ -41,3 +41,6 @@ Neben den Kenntnissen und Fertigkeiten aus den Inhaltsbereichen Kollabortation(v
 - Variabeln, Arrays und Objekte
 - JSON
 - Templating ([Vanilla](https://jonsuh.com/blog/javascript-templating-without-a-library/) oder via [Template Engine](https://colorlib.com/wp/top-templating-engines-for-javascript/))
+
+## Assignment und Startercode
+Wie immer haben wir für die Challenge ein [Assignment und Startercode](https://classroom.github.com/g/w8WfoeOi). Sie können die Aufgabe alleine oder zu zweit bearbeiten.
