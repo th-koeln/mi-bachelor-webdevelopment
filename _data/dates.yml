@@ -336,22 +336,22 @@ week-16:
     name: Freitag
 week-17:
   day-1:
-    datum: 2020-09-15
+    datum: 2020-09-08
     start: "13:00"
     end: "18:00"
     name: Dienstag
   day-2:
-    datum: 2020-09-16
+    datum: 2020-09-09
     start: "09:00"
     end: "18:00"
     name: Mittwoch
   day-3:
-    datum: 2020-09-17
+    datum: 2020-09-10
     start: "09:00"
     end: "18:00"
     name: Donnerstag
   day-4:
-    datum: 2020-09-18
+    datum: 2020-09-11
     start: "09:00"
     end: "18:00"
     name: Freitag

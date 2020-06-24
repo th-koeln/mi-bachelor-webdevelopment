@@ -4,7 +4,7 @@ kuerzel: fd2
 verantwortlich: cn
 typ: fd2
 pflicht: false
-termine: 2020-09-18 10:00
+termine: 2020-09-09 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 420
