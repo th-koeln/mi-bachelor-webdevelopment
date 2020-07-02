@@ -16,7 +16,9 @@ Heute geht es um das Thema Single-Page-Applications und wie diese mit Hilfe des 
 
 ## Was muss ich mitbringen?
 * Laptop mit Visual Studio Code und der Extension "Live Server"
-* Google Chrome mit der Extension [Vue.js devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=en)
+* Installierte Vue.js devtools Extension
+	* [für Google Chrome](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=en)
+	* [für Firefix](https://addons.mozilla.org/de/firefox/addon/vue-js-devtools/)
 * Git
 * Github Account
 
@@ -24,7 +26,7 @@ Heute geht es um das Thema Single-Page-Applications und wie diese mit Hilfe des 
 
 * [Vue.js Webseite](https://vuejs.org/)
 * [Vue.js Guide](https://vuejs.org/v2/guide/)
+* [Vue.js API](https://vuejs.org/v2/api/)
+* [Vuex](https://vuex.vuejs.org/)
 * [Vue CLI](https://cli.vuejs.org/)
-* [Github Classroom: Intro](https://classroom.github.com/a/ZeKzaYMr)
-* [Github Classroom: Übung](https://classroom.github.com/a/X_CDsNqx)
-* [JSON-Datei mit Bildern](https://raw.githubusercontent.com/th-koeln/frontend-development-spa-cranach-Snapstromegon/master/paintings_with_img.json)
+* [Übung: Startercode](https://github.com/jhfpereira/feature-playlist-vue-startercode)
