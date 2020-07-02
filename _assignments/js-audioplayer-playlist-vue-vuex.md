@@ -7,7 +7,7 @@ tags: Javascript
 
 Dieses Assignment baut grob auf den Ergebnissen der vergangenen Assignments und der Development-Challenge auf.
 
-[Startercode](https://github.com/jhfpereira/feature-playlist-vue-startercode) zur Bearbeitung der Aufgaben.
+[Github Classroom Assignment](https://classroom.github.com/g/_hI1yUMF) zur Bearbeitung der Aufgaben.
 
 
 Im Rahmen dieses Assignments soll der Umgang mit Vue.js als Front-End-Framework und Vuex für das Central State Management geübt werden.
