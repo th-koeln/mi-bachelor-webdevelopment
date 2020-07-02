@@ -29,4 +29,4 @@ Heute geht es um das Thema Single-Page-Applications und wie diese mit Hilfe des 
 * [Vue.js API](https://vuejs.org/v2/api/)
 * [Vuex](https://vuex.vuejs.org/)
 * [Vue CLI](https://cli.vuejs.org/)
-* [Übung: Startercode](https://github.com/jhfpereira/feature-playlist-vue-startercode)
+* [GitHub Classroom Assignment](https://classroom.github.com/g/_hI1yUMF)
