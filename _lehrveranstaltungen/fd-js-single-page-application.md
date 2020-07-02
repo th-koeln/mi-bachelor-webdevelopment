@@ -18,7 +18,7 @@ Heute geht es um das Thema Single-Page-Applications und wie diese mit Hilfe des 
 * Laptop mit Visual Studio Code und der Extension "Live Server"
 * Installierte Vue.js devtools Extension
 	* [für Google Chrome](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=en)
-	* [für Firefix](https://addons.mozilla.org/de/firefox/addon/vue-js-devtools/)
+	* [für Firefox](https://addons.mozilla.org/de/firefox/addon/vue-js-devtools/)
 * Git
 * Github Account
 
