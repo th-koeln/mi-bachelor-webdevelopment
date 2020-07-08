@@ -7,7 +7,7 @@ pflicht: false
 termine: 2020-07-10 10:00
 empfohlene-voraussetzungen: 
 published: true
-dauer: 360
+dauer: 300
 raum: https://us02web.zoom.us/j/88508399908 (Zugangscode webdev)
 info: 
 ---
@@ -27,3 +27,4 @@ Heute schließen wir das Thema Vue.js ab und wenden uns dem [JAMstack](https://j
 - [MAKING A SIMPLE WEB SITE WITH THE SIMPLEST STATIC SITE GENERATOR](https://www.11ty.dev/docs/tutorials/)
 - [11ty Base Blog](https://github.com/11ty/eleventy-base-blog)
 - [Harp](https://github.com/sintaxi/harp)
+- [JAMstack Demodata](https://github.com/cnoss/jamstack-demodata)
