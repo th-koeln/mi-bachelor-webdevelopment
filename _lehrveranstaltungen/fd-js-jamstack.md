@@ -13,14 +13,14 @@ info:
 ---
 
 ## Worum geht es?
-Heute schließen wir das Thema Vue.js ab und wenden uns dem [JAMstack](https://jamstack.org/) zu.
+Heute schließen wir das Thema Vue.js ab und wenden uns dem [JAMstack](https://jamstack.org/) zu. Außerdem schließen wir die Veranstaltung ab und gleichen die Inhalte noch mal mit der [Web Developer Roadmap für's Frontend ab](https://roadmap.sh/frontend).
 
 ## Material
 - [Intro zum JAMstack](../../material/frontend-development-2/jam-stack)
 - [StaticGen - A List of Static Site Generators for Jamstack Sites](https://www.staticgen.com/)
 - [Jekyll](https://jekyllrb.com/)
 - [Nuxt.js](https://nuxtjs.org/)
-- [WARUM NUXT.JS UND NICHT „PURES“ VUE.JS?](https://www.tarcgn.de/warum-nuxt-js-und-nicht-pures-vue-js/)
+- [Warum Nuxt.js und nicht pures Vue.js?](https://www.tarcgn.de/warum-nuxt-js-und-nicht-pures-vue-js/)
 - [Create a frontmatter Markdown powered Blog with Nuxt.JS](https://regenrek.com/posts/create-a-frontmatter-markdown-powered-blog-with-nuxt.js/)
 - [Hugo](https://gohugo.io/)
 - [Eleventy – a simpler static site generator](https://www.11ty.dev/)
