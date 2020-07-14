@@ -49,6 +49,8 @@ Die Site muss via GitHub Pages ausgeliefert werden.
 
 ## Niveaustufen
 
+Die Bewertung erfolgt mit Hilfe des [Niveaustufenmodells](https://www.th-koeln.de/mam/downloads/deutsch/hochschule/profil/lehre/steckbrief_niveaustufen.pdf).
+
 ### Beste Lösung
 - Layout oder Features wurden, ggf. im Sinne des Projekts optimiert/ angepasst
 - zu wesentlichen Elementen und Entscheidungen gibt es Erläuterungen in der *Readme.md*

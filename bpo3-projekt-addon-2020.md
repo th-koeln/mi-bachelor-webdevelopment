@@ -27,6 +27,9 @@ Es müssen nicht alle Datenfelder aus den JSON Files ausgeliefert werden, sonder
 
 ## Niveaustufen
 
+Die Bewertung erfolgt mit Hilfe des [Niveaustufenmodells](https://www.th-koeln.de/mam/downloads/deutsch/hochschule/profil/lehre/steckbrief_niveaustufen.pdf).
+<br><br>
+
 ### Beste Lösung
 - Datenstrukturen sind optimiert und bilden weitere Use-Cases ab
 - zu wesentlichen Elementen und Entscheidungen gibt es professionelle Erläuterungen in der *Readme.md*
