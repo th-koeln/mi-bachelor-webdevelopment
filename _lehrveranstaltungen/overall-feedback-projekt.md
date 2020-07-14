@@ -1,15 +1,15 @@
 ---
-titel: Projektvorschläge WD Projekt finalisieren
+titel: Feedback zum Miniprojekt
 kuerzel: o-ft
-verantwortlich: cn, kf, mb, sl
-typ: tooling
+verantwortlich: cn
+typ: fd
 pflicht: false
-termine: 2019-07-11 14:30
+termine: 2020-08-04 16:00
 empfohlene-voraussetzungen: 
 published: true
-dauer: 90
-raum: 0.505
+dauer: 120
+raum: https://us02web.zoom.us/j/3691635119
 info:
 ---
 
-Heute werden wir gemeinsam Ihre Projektvorschläge begutachten und uns auf einen finales Projekt für jedes Team einigen. 
+Feedback zum Stand Ihres Miniprojekts.
