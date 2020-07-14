@@ -89,11 +89,6 @@ Die Site muss via GitHub Pages ausgeliefert werden.
 - Layouts und Features sind in wesentlichen Teilen implementiert
 - der erzeugte Code zeigt, dass der/ die Verfasser\*In die zugrunde liegenden Technologien und Konzepte in wesentlichen Teilen verstanden hat
 
-### Schlechte Lösung
-- die **Must Features** sind nicht vollständig umgesetzt oder funktionieren nicht umfänglich
-- die Änderungen für die Features sind nicht in der Commit Historie ersichtlich, weil z.B. insgesamt nur ein großer Commit erzeugt wurde.
-- die Projektstruktur wurde nicht verstanden und Änderungen wurden an völlig sinnlosen Dateien vorgenommen
-- die Commits wurden nicht gepusht
 
 
 
