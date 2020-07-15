@@ -12,7 +12,7 @@ raum: https://th-koeln.zoom.us/j/94618201125 (Zugangscode webdev)
 info: 
 ---
 
-Heute wird die Aufgabe für das Miniprojekt im Teilmodul Frontend Development herausgegeben. Ihre Lösung bildet die Basis für den zweiten Prüfungsteil, die [Coding Challenge](/mi-bachelor-webdevelopment/lehrveranstaltungen/fd-pruefung-teil-2).
+Heute wird die Aufgabe für das Miniprojekt im Teilmodul Frontend Development herausgegeben. Ihre Lösung bildet (voraussichtlich) die Basis für den zweiten Prüfungsteil, die [Coding Challenge](/mi-bachelor-webdevelopment/lehrveranstaltungen/fd-pruefung-teil-2).
 
 Die Aufgabe muss selbstständig und alleine bearbeitet werden. Jeder Teilnehmer hat die Möglichkeit Feedback im Rahmen eines Beratungstermins und eines Codereviews durch uns zu bekommen. 
 
@@ -91,6 +91,10 @@ Die Bewertung erfolgt mit Hilfe des [Niveaustufenmodells](https://www.th-koeln.d
 - Layouts und Features sind in wesentlichen Teilen implementiert
 - der erzeugte Code zeigt, dass der/ die Verfasser\*In die zugrunde liegenden Technologien und Konzepte in wesentlichen Teilen verstanden hat
 
+---
 
+<div class="notification is-danger is-light">
+Nutzen Sie das [Miniprojekt Assignment](https://classroom.github.com/a/fRD_jdPR) für das Projekt und fügen Sie der finalen Abgabe unbedingt eine ausgefüllte *Eidesstattliche Erklärung* bei.
+</div>
 
 

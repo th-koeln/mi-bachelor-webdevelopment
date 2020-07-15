@@ -61,8 +61,15 @@ Die Bewertung erfolgt mit Hilfe des [Niveaustufenmodells](https://www.th-koeln.d
 - erforderliche Ressourcen werden bereit gestellt
 - API läuft auf einem Server im Internet
 
-
 ### Akzeptable Lösung
 - wesentliche Anforderungen sind erfüllt
 - erforderliche Ressourcen werden bereit gestellt
 - API läuft auf einem Server im Internet
+
+---
+
+<div class="notification is-danger is-light">
+Nutzen Sie für den Backend Teil das [Projekt BPO3 Wechsler // Backend Assignment](https://classroom.github.com/a/YjgbeZFD) und fügen Sie der finalen Abgabe unbedingt eine ausgefüllte *Eidesstattliche Erklärung* bei.
+</div>
+
+
