@@ -60,7 +60,6 @@ Die Bewertung erfolgt mit Hilfe des [Niveaustufenmodells](https://www.th-koeln.d
 - die Implementierung bildet die vorgegebenen Layouts sehr gut ab
 - Verzeichnis- und Codestruktur sind sauber und greifen die Lerninhalte des Moduls auf 
 - Website läuft auf GitHub Pages
-- Repo und Code sind gut strukturiert und aufgeräumt
 - Code ist valide
 - der Code ist nachvollziehbar, selbsterklärend und effizient (semantisches HTML, Nutzung von SCSS, robustes Javascript)
 - der erzeugte Code zeigt, dass der/ die Verfasser\*In ein tiefes Verständnis der zugrunde liegenden Technologien und Konzepte hat
@@ -73,7 +72,6 @@ Die Bewertung erfolgt mit Hilfe des [Niveaustufenmodells](https://www.th-koeln.d
 - die Implementierung bildet die vorgegebenen Layouts gut ab
 - Verzeichnis- und Codestruktur sind sauber und greifen die Lerninhalte des Moduls auf 
 - Website läuft auf GitHub Pages
-- Repo und Code sind gut strukturiert und aufgeräumt
 - Code ist valide
 - der erzeugte Code zeigt, dass der/ die Verfasser\*In ein gutes Verständnis der zugrunde liegenden Technologien und Konzepte hat
 

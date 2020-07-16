@@ -31,12 +31,11 @@ Die Bewertung erfolgt mit Hilfe des [Niveaustufenmodells](https://www.th-koeln.d
 <br><br>
 
 ### Beste Lösung
-- Datenstrukturen sind optimiert und bilden weitere Use-Cases ab
+- Strukturen der zurückgegebenen Daten sind optimiert und bilden weitere Use-Cases ab
 - zu wesentlichen Elementen und Entscheidungen gibt es professionelle Erläuterungen in der *Readme.md*
 - *Readme.md* ist verständlich und macht einen professionellen Eindruck
 - die Commits und die Commithistorie sind gut lesbar und verständlich
 - Verzeichnis- und Codestruktur sind sauber
-- Repo und Code sind gut strukturiert und aufgeräumt
 - der erzeugte Code zeigt, dass der/ die Verfasser\*In ein tiefes Verständnis der zugrunde liegenden Technologien und Konzepte hat
 - alle Anforderungen sind erfüllt
 - erforderliche Ressourcen werden bereit gestellt
@@ -47,7 +46,6 @@ Die Bewertung erfolgt mit Hilfe des [Niveaustufenmodells](https://www.th-koeln.d
 - *Readme.md* ist verständlich und macht einen professionellen Eindruck
 - die Commits und die Commithistorie sind gut lesbar und verständlich
 - Verzeichnis- und Codestruktur sind sauber
-- Repo und Code sind gut strukturiert und aufgeräumt
 - der erzeugte Code zeigt, dass der/ die Verfasser\*In ein gutes Verständnis der zugrunde liegenden Technologien und Konzepte hat
 - fast alle Anforderungen sind erfüllt
 - erforderliche Ressourcen werden bereit gestellt
