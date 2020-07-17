@@ -45,6 +45,9 @@ Beim Klick/ Tap auf ein Bild wird die Detailansicht geöffnet. Hierbei gibt es f
 
 Die Site muss via GitHub Pages ausgeliefert werden.
 
+## Abgabetermin
+31. August 2020
+
 ## Material
 - [Content Pack](https://github.com/mi-classroom/content-pack-wd-miniprojekt-2020)
 
