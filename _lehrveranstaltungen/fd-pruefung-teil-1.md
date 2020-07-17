@@ -47,6 +47,7 @@ Die Site muss via GitHub Pages ausgeliefert werden.
 
 ## Abgabetermin
 31. August 2020
+Ende August 2020
 
 ## Material
 - [Content Pack](https://github.com/mi-classroom/content-pack-wd-miniprojekt-2020)
