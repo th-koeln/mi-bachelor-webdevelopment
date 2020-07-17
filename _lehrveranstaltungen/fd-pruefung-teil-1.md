@@ -48,6 +48,9 @@ Die Site muss via GitHub Pages ausgeliefert werden.
 ## Material
 - [Content Pack](https://github.com/mi-classroom/content-pack-wd-miniprojekt-2020)
 
+## Hinweis
+Bitte betreiben Sie kein *Overengineering* … falls Sie zusätzliche Features implementieren möchten, sprechen Sie das bitte vorab via Slack ab :)
+
 ## Niveaustufen
 
 Die Bewertung erfolgt mit Hilfe des [Niveaustufenmodells](https://www.th-koeln.de/mam/downloads/deutsch/hochschule/profil/lehre/steckbrief_niveaustufen.pdf).
