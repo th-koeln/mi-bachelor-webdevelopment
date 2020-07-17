@@ -38,6 +38,7 @@ Beim Klick/ Tap auf ein Bild wird die Detailansicht geöffnet. Hierbei gibt es f
 
 - Navigation in der Detailansicht: wenn die Detailansicht geöffnet ist, soll der User mit Hilfe der Pfeilnavigation zum vorherigen und nächsten Gemälde wechseln können.
 - Sprachwechsler: Wenn der User den Sprachwähler betätigt, sollen die Inhalte in der jeweils anderen Sprache angezeigt werden
+- Akkordeon: mit Klick auf den schwarzen Balken, bzw. das Icon sollen die Bilder innerhalb des zugehörigen Jahres ein- und ausgeblendet werden können.
 - GUI Element, mit dem auf kleinen Viewports alle Bilder in der Bildübersicht ausgeblendet werden können, so dass nur die schwarzen Balken mit den Jahreszahlen sichtbar sind.
 
 ### Deployment
