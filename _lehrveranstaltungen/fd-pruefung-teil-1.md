@@ -46,8 +46,6 @@ Beim Klick/ Tap auf ein Bild wird die Detailansicht geöffnet. Hierbei gibt es f
 Die Site muss via GitHub Pages ausgeliefert werden.
 
 ## Abgabetermin
-- 31. August 2020
-- Ende August 2020
 - 31.08.2020
 
 ## Material
