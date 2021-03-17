@@ -60,8 +60,8 @@ excerpt_separator: "<!--more-->"
 
 # Use the following plug-ins
 plugins_dir:
-  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
-  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  - "jekyll-sitemap" # Create a sitemap using the official Jekyll sitemap gem
+  - "jekyll-feed" # Create an Atom feed using the official Jekyll feed gem
 
 # Exclude these files from your production _site
 exclude: ['Gemfile', 'Gemfile.lock', 'LICENSE', 'README.md', 'CNAME', '_tools/','_repos']
@@ -77,11 +77,8 @@ navigation:
   - url: /mi-bachelor-webdevelopment/codesnippets/
     name: Codesnippets
 
-  - url: https://ilias.th-koeln.de/ilias.php?ref_id=1238198&cmd=frameset&cmdClass=ilrepositorygui&cmdNode=u0&baseClass=ilrepositorygui
+  - url: https://ilias.th-koeln.de/goto.php?target=crs_1238198&client_id=ILIAS_FH_Koeln
     name: Kurs im Ilias
-    
-
-
 
 collections:
   lehrveranstaltungen:

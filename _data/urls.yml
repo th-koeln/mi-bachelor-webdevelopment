@@ -1,6 +1,6 @@
 ilias:
   name: Ilias
-  url: https://ilias.th-koeln.de/ilias.php?ref_id=1238198&cmdClass=ilrepositorygui&cmdNode=u0&baseClass=ilrepositorygui
+  url: https://ilias.th-koeln.de/goto.php?target=crs_1238198&client_id=ILIAS_FH_Koeln
 
 ilias-pruefung:
   name: Ilias
