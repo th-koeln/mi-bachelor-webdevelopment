@@ -4,7 +4,7 @@ kuerzel: fddw
 verantwortlich: kf
 typ: fddw
 pflicht: false
-termine: 2020-04-30 14:00
+termine: 2021-05-06 14:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 240

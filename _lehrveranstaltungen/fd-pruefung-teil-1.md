@@ -1,10 +1,10 @@
 ---
 titel: Kick-Off Miniprojekt Frontend Development // Prüfungsteil 1
-kuerzel: fd2
+kuerzel: fd
 verantwortlich: cn
-typ: fd2
+typ: fd
 pflicht: false
-termine: 2020-07-17 10:00
+termine: 2021-07-23 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 90

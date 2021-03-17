@@ -4,7 +4,7 @@ kuerzel: fd
 verantwortlich: vs
 typ: fd
 pflicht: false
-termine: 2020-06-12 10:00
+termine: 2021-06-25 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 360

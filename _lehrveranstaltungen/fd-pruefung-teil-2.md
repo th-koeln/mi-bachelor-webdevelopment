@@ -1,8 +1,8 @@
 ---
 titel: Coding Challenge // Prüfungsteil 2
-kuerzel: fd2
+kuerzel: fd
 verantwortlich: cn
-typ: fd2
+typ: fd
 pflicht: false
 termine: 2020-09-11 10:00
 empfohlene-voraussetzungen: 

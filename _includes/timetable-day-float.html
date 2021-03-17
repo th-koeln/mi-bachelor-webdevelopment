@@ -24,7 +24,7 @@
 		<div class="timetable-grid">
 			<div class="columns is-gapless">
 				<div class="column is-1">
-					{% assign stunde = i | plus: starttime | append: "" %}
+					{% assign stunde = i | plus: starttime | append: "" %}
 					<p class="grid-time">{{stunde | append: ":00"}}</p>
 				</div>
 			</div>
@@ -34,19 +34,22 @@
 		<div class="veranstaltungen-wrap">
 		{% for i in (0..difftime) %}
 		
-			{% assign stunde = i | plus: starttime | append: "" %}
+			{% assign stunde = i | plus: starttime | append: "" %}
 			{% for veranstaltung in lehrveranstaltungen %}
 			
 				{% assign termine = veranstaltung.termine | split: "," %}
+
+				{% assign default-data = veranstaltung.raum | split: "|" %}
+				{% assign default-raum = default-data[0] %}
 								
 				{% for entry in termine %}
 					
-					{% assign entry-data = entry | split: "|" %}
-					{% assign termin = entry-data[0] %}
-					{% assign raum = entry-data[1] %}
+					{% assign entry-data = entry | split: "|" %}
+					{% assign termin = entry-data[0] %}
+					{% assign raum = entry-data[1] %}
 					{% assign termin-start-min = termin | date: '%M'  %}
-					{% assign startzeit = termin | date: "%H" | append: "" %}
-					{% assign termin-zone = termin | date: '%s' | minus: time-correction %}
+					{% assign startzeit = termin | date: "%H" | append: "" %}
+					{% assign termin-zone = termin | date: '%s' | minus: time-correction %}
 					{% assign termin-to-check = termin-zone | date: '%Y-%m-%d' %}
 					{% assign aktueller-tag = day.datum | date: '%Y-%m-%d' %}
 					
@@ -64,8 +67,8 @@
 								{% include /functions/resolve-names.html verantwortlich=veranstaltung.verantwortlich %}
 								<p class="title"><span class="is-hidden-tablet">{{termin | date: '%d. %B %Y, %H:%M Uhr'}}: </span>{{veranstaltung.titel}}</p>
 
-								{% if (veranstaltung.raum | append: "") != "" %}
-								{% assign raumnummer = veranstaltung.raum | append: "" %}
+								{% if (default-raum | append: "") != "" %}
+								{% assign raumnummer = default-raum | append: "" %}
 								{% endif %}
 								
 								{% if raum.size > 1 %}
@@ -86,16 +89,16 @@
 						{% assign dauer-in-std = veranstaltung.dauer | divided_by: 60 %}
 						{% assign i2 = dauer-in-std | plus: i | minus: 1 %}
 						{% for ol in (i..i2) %}
-							{% if ol==0 %}{% assign overlap-0 = overlap-0 | plus: 1 %}{% endif %}
-							{% if ol==1 %}{% assign overlap-1 = overlap-1 | plus: 1 %}{% endif %}
-							{% if ol==2 %}{% assign overlap-2 = overlap-2 | plus: 1 %}{% endif %}
-							{% if ol==3 %}{% assign overlap-3 = overlap-3 | plus: 1 %}{% endif %}
-							{% if ol==4 %}{% assign overlap-4 = overlap-4 | plus: 1 %}{% endif %}
-							{% if ol==5 %}{% assign overlap-5 = overlap-5 | plus: 1 %}{% endif %}
-							{% if ol==6 %}{% assign overlap-6 = overlap-6 | plus: 1 %}{% endif %}
-							{% if ol==7 %}{% assign overlap-7 = overlap-7 | plus: 1 %}{% endif %}
-							{% if ol==8 %}{% assign overlap-8 = overlap-8 | plus: 1 %}{% endif %}
-							{% if ol==9 %}{% assign overlap-9 = overlap-9 | plus: 1 %}{% endif %}
+							{% if ol==0 %}{% assign overlap-0 = overlap-0 | plus: 1 %}{% endif %}
+							{% if ol==1 %}{% assign overlap-1 = overlap-1 | plus: 1 %}{% endif %}
+							{% if ol==2 %}{% assign overlap-2 = overlap-2 | plus: 1 %}{% endif %}
+							{% if ol==3 %}{% assign overlap-3 = overlap-3 | plus: 1 %}{% endif %}
+							{% if ol==4 %}{% assign overlap-4 = overlap-4 | plus: 1 %}{% endif %}
+							{% if ol==5 %}{% assign overlap-5 = overlap-5 | plus: 1 %}{% endif %}
+							{% if ol==6 %}{% assign overlap-6 = overlap-6 | plus: 1 %}{% endif %}
+							{% if ol==7 %}{% assign overlap-7 = overlap-7 | plus: 1 %}{% endif %}
+							{% if ol==8 %}{% assign overlap-8 = overlap-8 | plus: 1 %}{% endif %}
+							{% if ol==9 %}{% assign overlap-9 = overlap-9 | plus: 1 %}{% endif %}
 						{% endfor %}
 						
 						{% endif %} 

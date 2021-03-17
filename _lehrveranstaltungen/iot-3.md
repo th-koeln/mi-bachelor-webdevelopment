@@ -4,11 +4,11 @@ kuerzel: iot
 verantwortlich: mb
 typ: iot
 pflicht: false
-termine: 2020-06-04 09:00
+termine: 2021-06-17 09:00
 empfohlene-voraussetzungen: 
 published: true
-dauer: 60
-raum: 3.209
+dauer: 240
+raum: moxd.io/iot2021 | https://moxd.io/iot2021
 info: Heute geht es um …
 ---
 

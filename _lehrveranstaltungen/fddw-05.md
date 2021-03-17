@@ -4,7 +4,7 @@ kuerzel: fddw
 verantwortlich: kf
 typ: fddw
 pflicht: false
-termine: 2020-05-07 09:00
+termine: 2021-05-27 09:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 480
@@ -16,7 +16,7 @@ info: Heute geht es um …
 Das Ziel des Tages ist es
 - Die mündliche Prüfung zum Grundlagenteil absolviert haben.
 - den architekturellen PoC und die Abschlussräsentation bis 15:00 fertiggestellt zu haben
-- Arbeit und Ergebnis des Projektteils  im Plenunm in 15 Minuten präsentiert haben
+- Arbeit und Ergebnis des Projektteils im Plenunm in 15 Minuten präsentiert haben
 
 ## Ablauf
 09:00 - 13:00 Fachgespräche mit dem Dozenten zum Grubdlagenteil (20 - 30 Minuten pro Team) 

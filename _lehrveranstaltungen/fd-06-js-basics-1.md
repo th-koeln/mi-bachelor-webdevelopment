@@ -1,10 +1,10 @@
 ---
-titel: Javascript Basics
+titel: JavaScript Basics 1
 kuerzel: fd
 verantwortlich: vs
 typ: fd
 pflicht: false
-termine: 2020-05-22 10:00
+termine: 2021-05-28 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 360

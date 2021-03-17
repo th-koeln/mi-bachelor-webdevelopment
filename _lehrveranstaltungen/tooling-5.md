@@ -4,7 +4,7 @@ kuerzel: tooling
 verantwortlich: db
 typ: tooling
 pflicht: false
-termine: 2020-06-10 14:00
+termine: 2021-06-17 14:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180

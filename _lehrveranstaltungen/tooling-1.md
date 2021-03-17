@@ -4,7 +4,7 @@ kuerzel: tooling
 verantwortlich: cn
 typ: tooling
 pflicht: false
-termine: 2020-04-02 10:00
+termine: 2021-04-15 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 120

@@ -1,8 +1,8 @@
 ---
 titel: Prüfung FD 1 & 2
-kuerzel: fd2
+kuerzel: fd
 verantwortlich: cn
-typ: fd2
+typ: fd
 pflicht: false
 termine: 2019-07-17 10:00
 empfohlene-voraussetzungen: 

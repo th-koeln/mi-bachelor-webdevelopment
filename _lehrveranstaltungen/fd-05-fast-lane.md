@@ -4,11 +4,11 @@ kuerzel: fd
 verantwortlich: cn
 typ: fd
 pflicht: false
-termine: 2020-05-15 11:00|https://us02web.zoom.us/j/86042583004 (Zugangscode webdev)
+termine: 2021-05-20 11:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
-raum: https://us02web.zoom.us/j/86042583004 (Zugangscode webdev)
+raum: https://us02web.zoom.us/j/86042583004 (Zugangscode webdev) | https://us02web.zoom.us/j/86042583004
 info: Support für Interessierte
 ---
 

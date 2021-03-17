@@ -4,7 +4,7 @@ kuerzel: fd
 verantwortlich: cn
 typ: fd
 pflicht: false
-termine: 2020-06-19 10:00
+termine: 2021-07-02 10:00
 published: true
 dauer: 360
 raum: https://us02web.zoom.us/j/81117580841 (Zugangscode webdev)

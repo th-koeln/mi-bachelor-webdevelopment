@@ -1,5 +1,5 @@
 tooling:
-  name: Tooling/ Projekt/ Praxisblock
+  name: Tooling
   max-teilnehmer: 40
   farbe: 9313ce
 
@@ -15,11 +15,6 @@ iot:
 
 fd:
   name: Frontend Development
-  max-teilnehmer: 40
-  farbe: dd1166
-
-fd2:
-  name: Frontend Development 2
   max-teilnehmer: 40
   farbe: dd1166
 

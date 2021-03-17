@@ -4,14 +4,14 @@ kuerzel: fddw
 verantwortlich: kf
 typ: fddw
 pflicht: false
-termine: 2020-04-16 14:00
+termine: 2021-04-22 14:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 240
 raum: 
 info: Heute geht es um … 
 ---
-Die Veranstaltung findet online im Zoom Meeting https://th-koeln.zoom.us/j/97909773075 statt. Für den Beitritt ist das Meetingkennwort 730898 erforderlich.
+
 ## Worum geht es?
 Das Ziel des Tages ist es
 - Fragen und Erkenntnisse aus dem Studium der Literaturaufgabe in der Diskussion geklärt haben,

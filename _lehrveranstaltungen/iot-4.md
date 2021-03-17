@@ -1,14 +1,14 @@
 ---
-titel: Prototyping Workshop
+titel: Input
 kuerzel: iot
 verantwortlich: mb
 typ: iot
 pflicht: false
-termine: 2020-06-10 9:00
+termine: 2021-06-24 9:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 240
-raum: 3.209
+raum: moxd.io/iot2021 | https://moxd.io/iot2021
 info: Heute geht es um …
 ---
 

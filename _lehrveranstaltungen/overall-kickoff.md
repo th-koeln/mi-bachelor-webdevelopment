@@ -4,11 +4,11 @@ kuerzel: o-ft
 verantwortlich: alle
 typ: overall
 pflicht: false
-termine: 2020-04-02 09:00
+termine: 2021-04-15 09:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 60
-raum: Online
+raum: zoom-webdev | https://th-koeln.de
 info:
 ---
 

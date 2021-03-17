@@ -5,3 +5,7 @@ ilias:
 ilias-pruefung:
   name: Ilias
   url: https://ilias.th-koeln.de/goto.php?target=crs_1161102&client_id=ILIAS_FH_Koeln
+
+zoom-webdev:
+  name: Zomm-Raum wird noch bekanntgegeben (Passwort im Ilias)
+  url: https://th-koeln.zoom.us/

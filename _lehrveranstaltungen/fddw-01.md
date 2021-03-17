@@ -4,14 +4,13 @@ kuerzel: fddw
 verantwortlich: kf
 typ: fddw
 pflicht: false
-termine: 2020-04-02 13:00
+termine: 2021-04-15 13:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 240
 raum: 
 info: Heute geht es um …
 ---
-Die Veranstaltung findet [in diesem virtuellen Raum]( https://zoom.us/j/975614083) statt.
 
 ## Worum geht es?
 Das Ziel des Tages ist es
@@ -33,7 +32,7 @@ Das Ziel des Tages ist es
 - Arbeiten Sie an des abgesprochenen Zielen des technischen PoC!
 
 ## Leitfragen für den Grundlagenteil
-Auf dieser Seite sind einige Fragen formuliert die zum Erarbeiten eines Verständnisses der Kapitel 1 und 2 der Monographie von Kuhn genutzt werden können. Die Fragen können auchals Grundlage der Fachdiskussion in den Workshop Terminen genutzt werden.  
+Auf dieser Seite sind einige Fragen formuliert die zum Erarbeiten eines Verständnisses der Kapitel 1 und 2 der Monographie von Kuhn genutzt werden können. Die Fragen können auch als Grundlage der Fachdiskussion in den Workshop Terminen genutzt werden.  
 1. Beschreiben Sie den den Einsatz von sharding anhand des von Kuhn dargestellten fiktiven E-Mail Dienstes! 
 2. Aus welchen Gründen kann in einem verteilten System die Replikation von Daten sinnvoll sein?
 3. Beschreiben Sie die von Kuhn genannten Replikationsansätze Active-passive, Consensus-based multiple-master und Optimistic replication with conflict detection!
@@ -43,15 +42,15 @@ Auf dieser Seite sind einige Fragen formuliert die zum Erarbeiten eines Verstän
 7. Wie können Non-Reactive (synchrone) Dienste in eine  Reactive Architectur integriert werden? 
 8. Erklären Sie das Beispiel des Bildabrufs im Non-Reactive Fall anhand der Abbildungen 2.1 und 2.2!
 9. Erklären Sie Amdahl's Law und Litttle's Law!
-9. Wie kann die maximale Latenzzeit mit Hilfe von queues begrenzt werden?
-9. Erklären Sie wie durch Verwendung von programmiersprachlichen Mitteln wie (composable) Futures bzw. Promises Parallelität bei der Verarbeitung von Anfragen ausgenutzt werden kann?
-9. Durch welche Faktoren wird die Beschleunigung der Verarbeitung durch Parallelisierung begrenzt?
-9. Erklären Sie den Begriff resilience und grenzen Sie ihn zu den Begriffen reliability und fault tolerance ab!
-9. Zu welchem Zweck werden circuit-breaker eingesetzt und wie funktionieren sie?
-9. Was ist die Rolle eines Supervisors in einer verteilten Service Architektur?
+10. Wie kann die maximale Latenzzeit mit Hilfe von queues begrenzt werden?
+11. Erklären Sie wie durch Verwendung von programmiersprachlichen Mitteln wie (composable) Futures bzw. Promises Parallelität bei der Verarbeitung von Anfragen ausgenutzt werden kann?
+12. Durch welche Faktoren wird die Beschleunigung der Verarbeitung durch Parallelisierung begrenzt?
+13. Erklären Sie den Begriff resilience und grenzen Sie ihn zu den Begriffen reliability und fault tolerance ab!
+14. Zu welchem Zweck werden circuit-breaker eingesetzt und wie funktionieren sie?
+15. Was ist die Rolle eines Supervisors in einer verteilten Service Architektur?
 Erklären Sie das CAP Theorem!
-9. Aus welchem Grund verzichtet man bei reactive systems soweit möglich auf die Forderung der strong consistency?
-9. Erklären Sie die Probleme die aus network partitions entstehen anhand des hypothetischen Gmail Service!
+16. Aus welchem Grund verzichtet man bei reactive systems soweit möglich auf die Forderung der strong consistency?
+17. Erklären Sie die Probleme die aus network partitions entstehen anhand des hypothetischen Gmail Service!
 
 ## Technisches Proof of Concept
 Im Rahmen des technischen PoC soll sowohl eine sinnvolle Nutzung von externe Datenquellen als auch eine nicht-triviale Kommunikation zwischen Anwendungskomponenten getestet werden. Dazu mag auch ein Szenario als Anregung dienen:
