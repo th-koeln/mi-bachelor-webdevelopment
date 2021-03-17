@@ -29,7 +29,8 @@ Auf Basis des Wertes in `wrapAround`, soll die Slideshow unterschiedlich konfigu
 Bitte erstellen Sie eine Dot Navigation unterhalb der Slides. Die dazugehörigen HTML Elemente sollen via JavaScript dynamisch erzeugt und dem DOM hinzufügt werden. Beim durchschalten der Slides soll der Dot hervorgehoben werden, welchem dem aktuellen Bild zugeordnet ist. Zudem soll die Slideshow über die Dots steuerbar sein.
 
 CSS Regeln zum Stylen der Dot Navigation:
-```
+
+```scss
 .dot-navigation {
   margin: 0 0 0 0;
   padding: 0 0 $s 0;

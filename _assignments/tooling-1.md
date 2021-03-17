@@ -14,7 +14,7 @@ Mit diesen Aufgaben wollen wir Ihnen einen kleinen Einblick in die einige Featur
 Zu dem eben erstellten Fork wechseln und den Fork via `git clone`auf die lokale Maschine klonen. 
 
 ### Repo in VSC öffnen
-```
+```bash
 cd mi-webdev-tooling-ugly-code
 code .
 ```

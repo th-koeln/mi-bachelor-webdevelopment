@@ -11,7 +11,7 @@ Starten Sie im Terminal den Watchmode via `npm run watch`.
 ## Step 2: CSS in SASS überführen
 Überführen Sie jetzt Ihre CSS Regeln in die SASS Dateien. Versuchen Sie alle zentralen Angaben/ Definitionen in das `_variables.scss` Partial auszulagern, z.B. Farben, Abstände, etc. Hier ein Beispiel des `_variables.scss` Partials.
 
-```
+```scss
 /* Sizes
 Using Lucas Numbers 1, 3, 4, 7, 11, 18, 29, 47, 76, 
 ---------------------------------------------------------------------------- */

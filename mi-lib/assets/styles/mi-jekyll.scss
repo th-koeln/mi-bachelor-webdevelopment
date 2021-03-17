@@ -787,6 +787,7 @@ $tt-grid-height: 60px;
   color: #000;
   margin: 0;
   padding: 0;
+  text-align: left;
 
   pre{
     padding: $bfs;
@@ -794,6 +795,15 @@ $tt-grid-height: 60px;
 
   code{
     color: #000;
+  }
+
+  .c, .cm, .cp, .c1, .cs, .p {
+    opacity: 0.5;
+  }
+
+  .nc, .nt, .nb,
+  .k, .kc, .kd, .kn, .kp, .kr, .kt {
+    font-weight: bold;
   }
 }
 
