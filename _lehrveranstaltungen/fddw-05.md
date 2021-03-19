@@ -1,14 +1,14 @@
 ---
 titel: Meilenstein 2
 kuerzel: fddw
-verantwortlich: kf
+verantwortlich: db
 typ: fddw
 pflicht: false
 termine: 2021-05-27 09:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 480
-raum: https://th-koeln.zoom.us/j/7684755654, Kennwort 116927
+raum: zoom-fddw
 info: Heute geht es um …
 ---
 

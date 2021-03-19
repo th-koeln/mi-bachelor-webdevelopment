@@ -8,7 +8,7 @@ termine: 2021-04-15 09:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 60
-raum: zoom-webdev | https://th-koeln.de
+raum: zoom-webdev
 info:
 ---
 

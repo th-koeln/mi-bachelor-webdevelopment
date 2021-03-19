@@ -8,7 +8,7 @@ termine: 2021-05-07 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 360
-raum: https://us02web.zoom.us/j/85481629144 (Zugangscode webdev)
+raum: zoom-fd
 info: Heute geht es um SASS, CSS Transitions & Responsive Design.
 ---
 

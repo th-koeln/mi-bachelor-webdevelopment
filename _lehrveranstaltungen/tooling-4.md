@@ -8,7 +8,7 @@ termine: 2021-06-10 14:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
-raum: https://us02web.zoom.us/j/82670810311 (Zugangscode webdev)
+raum: zoom-tooling
 info: Heute geht es um die Grundlagen von Docker
 ---
 

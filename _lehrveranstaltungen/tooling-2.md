@@ -8,7 +8,7 @@ termine: 2021-04-28 09:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 300
-raum: Online
+raum: zoom-tooling
 info: Heute geht es um …
 ---
 

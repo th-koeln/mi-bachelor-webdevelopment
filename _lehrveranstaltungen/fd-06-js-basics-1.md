@@ -8,7 +8,7 @@ termine: 2021-05-28 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 360
-raum:  https://us02web.zoom.us/j/82835184413 (Zugangscode webdev)
+raum: zoom-fd
 info: Heute gibt es eine Einführung in clientseitiges JavaScript
 ---
 

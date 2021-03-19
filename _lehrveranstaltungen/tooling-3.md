@@ -8,7 +8,7 @@ termine: 2021-05-06 09:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 240
-raum: https://us02web.zoom.us/j/83162746779 (Zugangscode webdev)
+raum: zoom-tooling
 info: Heute geht es um …
 ---
 

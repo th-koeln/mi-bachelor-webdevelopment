@@ -8,7 +8,7 @@ termine: 2021-07-07 09:00, 2021-07-08 09:00, 2021-07-09 09:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 420
-raum: moxd.io/iot2021 | https://moxd.io/iot2021
+raum: zoom-iot
 info: Heute geht es um …
 ---
 

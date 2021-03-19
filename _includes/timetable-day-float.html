@@ -75,7 +75,12 @@
 								{% assign raumnummer = raum | append: "" %}
 								{% endif %}
 
-								
+								{% include functions/resolve-urls.html target=raumnummer %}
+								{% assign preset-raum = name %}
+
+								{% if preset-raum != nil %}
+								{% assign raumnummer = preset-raum %}
+								{% endif %}
 
 								{% assign check = typ-max-teilnehmer | strip_newlines %}
 								{% if check != ""  %}

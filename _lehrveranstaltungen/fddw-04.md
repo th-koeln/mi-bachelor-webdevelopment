@@ -1,14 +1,14 @@
 ---
 titel: Workshop 3
 kuerzel: fddw
-verantwortlich: kf
+verantwortlich: db
 typ: fddw
 pflicht: false
 termine: 2021-05-06 14:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 240
-raum: https://th-koeln.zoom.us/j/7684755654, Kennwort 116927
+raum: zoom-fddw
 info: Heute geht es um …
 ---
 

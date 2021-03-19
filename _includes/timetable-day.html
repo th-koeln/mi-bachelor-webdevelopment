@@ -27,9 +27,9 @@
     <div class="columns is-gapless">
       <div class="column is-1">
         {% assign stunde = i | plus: starttime | append: "" %}
-
         <p class="grid-time">{{stunde | append: ":00"}}</p>
       </div>
+
       {% assign offset = 0 %}
       {% if i==0 %}{% assign offset = overlap-0 %}{% endif %}
       {% if i==1 %}{% assign offset = overlap-1 %}{% endif %}
@@ -43,67 +43,77 @@
       {% if i==9 %}{% assign offset = overlap-9 %}{% endif %}
 
       {% capture offset-divs %}
-      {% for os in (1..offset) %}
-      <div class="column"></div>
-      {% endfor %}
+        {% for os in (1..offset) %}
+        <div class="column"></div>
+        {% endfor %}
       {% endcapture %}
 
       {{offset-divs}}
 
       {% for veranstaltung in lehrveranstaltungen %}
 
-      {% assign termine = veranstaltung.termine | split: "," %}
+        {% assign termine = veranstaltung.termine | split: "," %}
+        {% assign default-data = veranstaltung.raum | split: "|" %}
+        {% assign default-raum = default-data[0] %}
 
-      {% assign default-data = veranstaltung.raum | split: "|" %}
-      {% assign default-raum = default-data[0] %}
+        {% for entry in termine %}
 
-      {% for entry in termine %}
-
-      {% assign entry-data = entry | split: "|" %}
-      {% assign termin = entry-data[0] %}
-      {% assign raum = entry-data[1] %}
-      {% assign dozent = entry-data[3] %}
-      {% assign termin-start-min = termin | date: '%M' %}
-      {% assign startzeit = termin | date: "%H" | append: "" %}
-      {% assign termin-zone = termin | date: '%s' | minus: time-correction %}
-      {% assign termin-to-check = termin-zone | date: '%Y-%m-%d' %}
-      {% assign aktueller-tag = day.datum | date: '%Y-%m-%d' %}
+          {% assign entry-data = entry | split: "|" %}
+          {% assign termin = entry-data[0] %}
+          {% assign raum = entry-data[1] %}
+          {% assign dozent = entry-data[3] %}
+          {% assign termin-start-min = termin | date: '%M' %}
+          {% assign startzeit = termin | date: "%H" | append: "" %}
+          {% assign termin-zone = termin | date: '%s' | minus: time-correction %}
+          {% assign termin-to-check = termin-zone | date: '%Y-%m-%d' %}
+          {% assign aktueller-tag = day.datum | date: '%Y-%m-%d' %}
 
 
-      {% if stunde == "8" %}{% assign stunde = "08" %}{% endif %}
-      {% if stunde == "9" %}{% assign stunde = "09" %}{% endif %}
+          {% if stunde == "8" %}{% assign stunde = "08" %}{% endif %}
+          {% if stunde == "9" %}{% assign stunde = "09" %}{% endif %}
 
-      {% if startzeit == stunde %}
+          {% if startzeit == stunde %}
 
-      {% if termin-to-check == aktueller-tag %}
-      {% assign raumnummer = "" %}
-      <div class="column">
-        {% include /functions/resolve-types.html typ=veranstaltung.typ %}
-        <a href="{{site.baseurl}}{{veranstaltung.url}}">
-          <div class="veranstaltung {{veranstaltung.typ}}" style="{{typ-farbe}} margin-top: {{termin-start-min}}px;  height: {{veranstaltung.dauer}}px">
-            {% assign verantwortlich = veranstaltung.verantwortlich %}
-            {% if dozent != "" and dozent != nil %}
-            {% assign verantwortlich = dozent %}
-            {% endif %}
-            {% include /functions/resolve-names.html verantwortlich=verantwortlich %}
-            <p class="title"><span class="is-hidden-tablet">{{termin | date: '%d. %B %Y, %H:%M Uhr'}}: </span>
-              {% if typ-name != "none" %}{{typ-name}}{% endif %}{% if typ-name != "none" and veranstaltung.titel != "none" %}: {% endif %}{% if veranstaltung.titel != "none" %}{{veranstaltung.titel}}{% endif %}
-              </p>
-            
+          {% if termin-to-check == aktueller-tag %}
+          {% assign raumnummer = "" %}
 
-            {% if (default-raum | append: "") != "" %}
-            {% assign raumnummer = default-raum | append: "" %}
-            {% endif %}
+          <div class="column">
+            {% include /functions/resolve-types.html typ=veranstaltung.typ %}
 
-            {% if raum.size > 1 %}
-            {% assign raumnummer = raum | append: "" %}
-            {% endif %}
+            <a href="{{site.baseurl}}{{veranstaltung.url}}">
+              <div class="veranstaltung {{veranstaltung.typ}}" style="{{typ-farbe}} margin-top: {{termin-start-min}}px;  height: {{veranstaltung.dauer}}px">
+                {% assign verantwortlich = veranstaltung.verantwortlich %}
 
-            {% assign check = typ-max-teilnehmer | strip_newlines %}
-            {% if check != "" %}
-            <p class="subtitle">{{verantwortliche}} <!--// {{typ-max-teilnehmer}} Teilnehmer-->{% if termine.size > 1 %}
-              ({{termine.size}} Termine){% endif %}{% if raumnummer.size > 1 %} // Ort: {{raumnummer}}{% endif %}</p>
-            {% endif %}
+                {% if dozent != "" and dozent != nil %}
+                  {% assign verantwortlich = dozent %}
+                {% endif %}
+
+                {% include /functions/resolve-names.html verantwortlich=verantwortlich %}
+                <p class="title">
+                  <span class="is-hidden-tablet">{{termin | date: '%d. %B %Y, %H:%M Uhr'}}: </span>
+                  {% if typ-name != "none" %}{{typ-name}}{% endif %}{% if typ-name != "none" and veranstaltung.titel != "none" %}: {% endif %}{% if veranstaltung.titel != "none" %}{{veranstaltung.titel}}{% endif %}
+                </p>
+
+                {% if (default-raum | append: "") != "" %}
+                  {% assign raumnummer = default-raum | append: "" %}
+                {% endif %}
+
+                {% if raum.size > 1 %}
+                  {% assign raumnummer = raum | append: "" %}
+                {% endif %}
+
+                {% include functions/resolve-urls.html target=raumnummer %}
+								{% assign preset-raum = name %}
+
+								{% if preset-raum != nil %}
+								{% assign raumnummer = preset-raum %}
+								{% endif %}
+
+                {% assign check = typ-max-teilnehmer | strip_newlines %}
+                {% if check != "" %}
+                  <p class="subtitle">{{verantwortliche}} <!--// {{typ-max-teilnehmer}} Teilnehmer-->{% if termine.size > 1 %}
+                  ({{termine.size}} Termine){% endif %}{% if raumnummer.size > 1 %} // Ort: {{raumnummer}}{% endif %}</p>
+                {% endif %}
 
           </div>
         </a>

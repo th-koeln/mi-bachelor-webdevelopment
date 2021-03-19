@@ -8,7 +8,7 @@ termine: 2021-04-15 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 120
-raum: Online
+raum: zoom-tooling
 info: Eine Einführung in Git, die Verwendung eines Terminals und die Verwendung einer IDE
 ---
 

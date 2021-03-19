@@ -8,7 +8,7 @@ termine: 2021-07-23 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 90
-raum: https://th-koeln.zoom.us/j/94618201125 (Zugangscode webdev)
+raum: zoom-fd
 info: 
 ---
 

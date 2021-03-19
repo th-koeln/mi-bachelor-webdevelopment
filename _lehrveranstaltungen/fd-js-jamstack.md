@@ -8,7 +8,7 @@ termine: 2020-07-16 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 300
-raum: https://us02web.zoom.us/j/88508399908 (Zugangscode webdev)
+raum: zoom-fd
 info: 
 ---
 

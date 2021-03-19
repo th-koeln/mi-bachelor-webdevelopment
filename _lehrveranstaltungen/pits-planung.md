@@ -1,5 +1,5 @@
 ---
-title: Veranstaltung
+titel: Veranstaltung
 kuerzel: pits
 verantwortlich: sk
 typ: pits
@@ -14,6 +14,4 @@ raum: Online
 ## Infos für Studierende zum Vorgehen
 Bitte treten Sie dem u.g. Ilias-Kurs bei. Die Freischaltung Ihres Beitritts erfolgt durch den Kursadministrator. Der Kurs enthält die Vorlesungs- und Praktikumsunterlagen. Es finden Online-Beratungs- und Besprechungstermine statt. Weiteres zum Vorgehen (bspw. Gruppenarbeit und Projektorganisation) finden Sie im Kurs (Datei oder Ordner README).
 
-Ilias-Kurs mit aktuellen Informationen vorhanden:
-
-[Ilias-Kurs Praktische IT Sicherheit](https://ilias.th-koeln.de/goto.php?target=crs_772146&client_id=ILIAS_FH_Koeln)
+[Ilias-Kurs Praktische IT Sicherheit mit aktuellen Informationen.](https://ilias.th-koeln.de/goto.php?target=crs_772146&client_id=ILIAS_FH_Koeln)

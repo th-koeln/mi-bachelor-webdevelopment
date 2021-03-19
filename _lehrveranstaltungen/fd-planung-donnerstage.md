@@ -8,7 +8,7 @@ termine:
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
-raum: 
+raum: zoom-fd
 info: 
 ---
 

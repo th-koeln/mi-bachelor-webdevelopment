@@ -8,7 +8,7 @@ termine: 2021-06-11 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
-raum:  https://us02web.zoom.us/j/89911085038 (Zugangscode webdev)
+raum: zoom-fd
 info: Support für Interessierte + Übung
 ---
 

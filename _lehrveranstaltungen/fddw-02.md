@@ -1,14 +1,14 @@
 ---
 titel: Workshop 2
 kuerzel: fddw
-verantwortlich: kf
+verantwortlich: db
 typ: fddw
 pflicht: false
 termine: 2021-04-22 14:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 240
-raum: 
+raum: zoom-fddw
 info: Heute geht es um … 
 ---
 

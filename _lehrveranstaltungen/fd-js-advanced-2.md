@@ -8,7 +8,7 @@ termine: 2021-06-25 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 360
-raum: https://us02web.zoom.us/j/81409602834 (Zugangscode webdev)
+raum: zoom-fd
 info: Asynchroner Datenaustauch mit dem Server
 ---
 ## Worum geht es?

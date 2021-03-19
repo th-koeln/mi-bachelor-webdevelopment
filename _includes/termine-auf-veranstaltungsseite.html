@@ -1,8 +1,8 @@
 {% assign termine = include.termine | split: ","  %}
 
 {% assign default-data = include.default-raum | split: "|" %}
-{% assign default-raum = default-data[0] %}
-{% assign default-link = default-data[1] %}
+{% assign default-raum = default-data[0] | append: "" %}
+{% assign default-href = default-data[1] | append: "" %}
 
 
 <ul>
@@ -11,30 +11,43 @@
 
     {% assign entry-data = entry | split: "|" %}
     {% assign termin = entry-data[0] %}
-    {% assign termin-raum = entry-data[1] %}
-    {% assign termin-link = entry-data[2] %}
+    {% assign termin-raum = entry-data[1] | append: "" %}
+    {% assign termin-href = entry-data[2] | append: "" %}
 
     {% assign new_termin = termin | date: '%s' | minus: 3600 %}
     {% assign t = termin | date: '%d. %B %Y, %H:%M Uhr' | replace:"January","Januar" | replace:"February","Februar" | replace:"March","März" | replace:"May","Mai" | replace:"June","Juni" | replace:"July","Juli"  | replace:"October","Oktober" | replace:"December","Dezember"  %}
 
-    {% if termin-raum == "" or termin-raum == nil %}
+    {% if termin-raum == "" %}
     {% assign raum = default-raum %}
     {% else %}
     {% assign raum = termin-raum %}
     {% endif %}
 
-    {% if termin-link == "" or termin-link == nil %}
-    {% assign link = default-link %}
+    {% if termin-href == "" %}
+    {% assign href = default-href %}
     {% else %}
-    {% assign link = termin-link %}
+    {% assign href = termin-href %}
+    {% endif %}
+
+    {% include functions/resolve-urls.html target=raum %}
+    {% assign preset-raum = name | append: "" %}
+    {% assign preset-href = url | append: "" %}
+
+    {% if preset-raum != "" %}
+    {% assign resolved-raum = preset-raum %}
+    {% assign resolved-href = preset-href %}
+    {% else %}
+    {% assign resolved-raum = raum %}
+    {% assign resolved-href = href %}
     {% endif %}
 
     <li>
-        {{t}} &ndash; Raum
-        {% if link == "" or link == nil %}
-            {{raum}}
+        {{t}} {% if resolved-raum != "" %} &ndash; Raum
+        {% if resolved-href == "" %}
+            {{resolved-raum}}
         {% else %}
-        <a href="{{link}}" target="_blank" rel="noopener" title="Link zum Termin">{{raum}}</a>
+        <a href="{{resolved-href}}" target="_blank" rel="noopener" title="href zum Termin">{{resolved-raum}}</a>
+        {% endif %}
         {% endif %}
     </li>
 
