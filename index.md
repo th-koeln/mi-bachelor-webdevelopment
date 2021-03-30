@@ -13,7 +13,7 @@ Das Web hat in den letzten Jahrzehnten, wie kaum eine andere Technologie, zu dra
 
 ### Sommersemester 2021
 
-Auch das Sommersemester 2021 wird aufgrund des [Coronavirus (Covid-19)](https://www.th-koeln.de/hochschule/coronavirus_73114.php#sprungmarke_1_199) und den damit einhergehenden Einschränkungen wieder im Wesentlichen online stattfinden. :(
+Auch das Sommersemester 2021 wird aufgrund des [Coronavirus (Covid-19)](https://www.th-koeln.de/hochschule/coronavirus_73114.php#sprungmarke_1_199) und den damit einhergehenden Einschränkungen wieder im Wesentlichen online stattfinden.
 
 <!--iframe width="560" height="315" src="https://www.youtube.com/embed/fNIsupAZRl4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br-->

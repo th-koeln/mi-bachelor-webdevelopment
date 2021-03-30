@@ -3,7 +3,7 @@
 {% assign starttime = include.starttime %}
 {% assign time-correction = include.time-correction %}
 
-{% assign lehrveranstaltungen = (site.lehrveranstaltungen | sort: 'dauer,typ')) %}
+{% assign lehrveranstaltungen = (site.lehrveranstaltungen | where: "published", "true" |  sort: 'dauer,typ')) %}
 {% assign overlap-0 = 0 %}
 {% assign overlap-1 = 0 %}
 {% assign overlap-2 = 0 %}

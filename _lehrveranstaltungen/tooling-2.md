@@ -4,9 +4,9 @@ kuerzel: tooling
 verantwortlich: db
 typ: tooling
 pflicht: false
-termine: 2021-04-28 09:00
+termine: 12022-04-28 09:00
 empfohlene-voraussetzungen: 
-published: true
+published: false
 dauer: 300
 raum: zoom-tooling
 info: Heute geht es um …

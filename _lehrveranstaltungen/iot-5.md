@@ -6,7 +6,7 @@ typ: iot
 pflicht: false
 termine: 2021-07-01 09:00
 empfohlene-voraussetzungen: 
-published: true
+published: false
 dauer: 240
 raum: zoom-iot
 info: Heute geht es um …

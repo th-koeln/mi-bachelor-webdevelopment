@@ -7,12 +7,12 @@ ilias-pruefung:
   url: https://ilias.th-koeln.de/goto.php?target=crs_1161102&client_id=ILIAS_FH_Koeln
 
 zoom-webdev:
-  name: Zoom-Raum wird noch bekanntgegeben (Passwort im Ilias)
-  url: https://th-koeln.zoom.us/
+  name: Zoom-Raum, Kenncode 828044
+  url: https://th-koeln.zoom.us/j/83079515782
 
 zoom-fd:
-  name: Zoom-Raum wird noch bekanntgegeben (Passwort im Ilias)
-  url: https://th-koeln.zoom.us/
+  name: Zoom-Raum, Kenncode 828044
+  url: https://th-koeln.zoom.us/j/83079515782
 
 zoom-fddw:
   name: Zoom-Raum wird noch bekanntgegeben (Passwort im Ilias)

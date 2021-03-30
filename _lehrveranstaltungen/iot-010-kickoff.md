@@ -1,10 +1,10 @@
 ---
-titel: Input
+titel: Kick-off
 kuerzel: iot
 verantwortlich: mb
 typ: iot
 pflicht: false
-termine: 2021-06-02 10:00
+termine: 2021-04-19 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180

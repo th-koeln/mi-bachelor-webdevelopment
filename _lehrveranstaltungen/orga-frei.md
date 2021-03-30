@@ -4,7 +4,7 @@ kuerzel: o-ft
 verantwortlich: cn
 typ: other
 pflicht: false
-termine: 2021-05-14 09:00, 2021-06-04 09:00
+termine:  2021-06-04 09:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 540

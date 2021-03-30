@@ -4,7 +4,7 @@ kuerzel: fddw
 verantwortlich: db
 typ: fddw
 pflicht: false
-termine: 2021-04-29 09:00
+termine: 12021-04-29 09:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 480

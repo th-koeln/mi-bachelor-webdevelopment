@@ -64,7 +64,7 @@ plugins_dir:
   - "jekyll-feed" # Create an Atom feed using the official Jekyll feed gem
 
 # Exclude these files from your production _site
-exclude: ['Gemfile', 'Gemfile.lock', 'LICENSE', 'README.md', 'CNAME', '_tools/','_repos']
+exclude: ['Gemfile', 'Gemfile.lock', 'LICENSE', 'README.md', 'CNAME', '_tools/','_repos/', '_stuff/', 'material/', '.git/', '_archiv/']
 
   # Hier bitte Navigationsitems eintragen
 navigation:

@@ -4,10 +4,10 @@ kuerzel: o-ft
 verantwortlich: alle
 typ: overall
 pflicht: false
-termine: 2021-04-15 09:00
+termine: 2021-04-15 10:00
 empfohlene-voraussetzungen: 
 published: true
-dauer: 60
+dauer: 90
 raum: zoom-webdev
 info:
 ---
