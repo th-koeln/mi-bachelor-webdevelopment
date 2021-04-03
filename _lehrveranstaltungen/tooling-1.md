@@ -7,7 +7,7 @@ pflicht: false
 termine: 2021-04-15 12:00
 empfohlene-voraussetzungen: 
 published: true
-dauer: 120
+dauer: 90
 raum: zoom-webdev
 info: Eine Einführung in Git, die Verwendung eines Terminals und die Verwendung einer IDE
 ---

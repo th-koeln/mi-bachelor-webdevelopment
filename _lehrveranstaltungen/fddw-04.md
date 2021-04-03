@@ -4,10 +4,10 @@ kuerzel: fddw
 verantwortlich: db
 typ: fddw
 pflicht: false
-termine: 12021-05-06 14:00
+termine: 2021-06-24 09:00
 empfohlene-voraussetzungen: 
 published: true
-dauer: 240
+dauer: 480
 raum: zoom-fddw
 info: Heute geht es um …
 ---

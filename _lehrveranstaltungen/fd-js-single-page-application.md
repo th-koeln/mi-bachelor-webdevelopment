@@ -4,9 +4,9 @@ kuerzel: fd
 verantwortlich: jp
 typ: fd
 pflicht: false
-termine: 12021-07-16 10:00
+termine: 2021-07-16 09:00
 published: true
-dauer: 360
+dauer: 480
 raum: zoom-fd
 ---
 

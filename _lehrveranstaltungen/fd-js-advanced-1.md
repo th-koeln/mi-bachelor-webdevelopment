@@ -4,10 +4,10 @@ kuerzel: fd
 verantwortlich: vs
 typ: fd
 pflicht: false
-termine: 12021-06-18 10:00
+termine: 2021-07-15 09:00
 empfohlene-voraussetzungen: 
 published: true
-dauer: 360
+dauer: 480
 raum: zoom-fd
 info: Komplexeres Javascript und die Verwendung einer externen Library.
 ---
