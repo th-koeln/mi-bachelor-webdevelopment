@@ -6,7 +6,7 @@ typ: fd
 pflicht: false
 termine: 12021-06-11 10:00
 empfohlene-voraussetzungen: 
-published: true
+published: false
 dauer: 180
 raum: zoom-fd
 info: Support für Interessierte + Übung

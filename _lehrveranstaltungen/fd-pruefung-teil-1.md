@@ -6,7 +6,7 @@ typ: fd
 pflicht: false
 termine: 12021-07-23 10:00
 empfohlene-voraussetzungen: 
-published: true
+published: false
 dauer: 90
 raum: zoom-fd
 info: 
