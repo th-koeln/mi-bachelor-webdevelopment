@@ -16,7 +16,7 @@ info:
 In diesem Semester starten wir mit einem Online Kick-Off. Wir sind gespannt :)
 
 ## Slack Channel
-Hier der Einladungslink zum [WebDev Slack Kanal](https://ilias.th-koeln.de/goto.php?target=crs_1456940&client_id=ILIAS_FH_Koeln).
+Hier der Einladungslink zum [WebDev Slack Kanal](https://join.slack.com/t/medieninforma-kw06062/shared_invite/zt-p1hkmret-8cEkIreWF2zND3JLIky5Zg).
 
 ## Online Session
 Die heutige Veranstaltung wird nicht vor Ort in Gummersbach stattfinden, sondern als Online Veranstaltung.
