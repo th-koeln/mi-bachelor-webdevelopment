@@ -8,7 +8,7 @@ termine: 2021-04-15 14:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
-raum: zoom-fd
+raum: zoom-tooling
 info: Heute geht es um …
 ---
 
