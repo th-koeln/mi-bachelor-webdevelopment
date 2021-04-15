@@ -6,7 +6,7 @@ typ: fd
 pflicht: false
 termine: 12021-06-25 10:00
 empfohlene-voraussetzungen: 
-published: true
+published: false
 dauer: 360
 raum: zoom-fd
 info: Asynchroner Datenaustauch mit dem Server

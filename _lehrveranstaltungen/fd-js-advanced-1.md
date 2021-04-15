@@ -6,7 +6,7 @@ typ: fd
 pflicht: false
 termine: 2021-07-15 09:00
 empfohlene-voraussetzungen: 
-published: true
+published: false
 dauer: 480
 raum: zoom-fd
 info: Komplexeres Javascript und die Verwendung einer externen Library.

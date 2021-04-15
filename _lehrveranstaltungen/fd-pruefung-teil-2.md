@@ -6,7 +6,7 @@ typ: fd
 pflicht: false
 termine: 12020-09-11 10:00
 empfohlene-voraussetzungen: 
-published: true
+published: false
 dauer: 240
 raum: zoom-fd
 info: 

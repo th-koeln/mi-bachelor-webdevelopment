@@ -5,7 +5,7 @@ verantwortlich: cn
 typ: fd
 pflicht: false
 termine: 12021-07-02 10:00
-published: true
+published: false
 dauer: 360
 raum: zoom-fd
 ---

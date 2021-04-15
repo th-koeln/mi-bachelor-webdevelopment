@@ -5,7 +5,7 @@ verantwortlich: jp
 typ: fd
 pflicht: false
 termine: 2021-07-16 09:00
-published: true
+published: false
 dauer: 480
 raum: zoom-fd
 ---

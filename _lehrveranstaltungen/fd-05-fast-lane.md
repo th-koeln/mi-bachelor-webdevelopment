@@ -6,7 +6,7 @@ typ: fd
 pflicht: false
 termine: 12021-05-20 11:00
 empfohlene-voraussetzungen: 
-published: true
+published: false
 dauer: 180
 raum: zoom-fd
 info: Support für Interessierte
