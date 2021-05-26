@@ -15,12 +15,12 @@ zoom-fd:
   url: https://th-koeln.zoom.us/j/83079515782
 
 zoom-fddw:
-  name: Zoom-Raum wird noch bekanntgegeben (Passwort im Ilias)
-  url: https://th-koeln.zoom.us/
+  name: "Zoom (Meeting-ID: 3709124564, Kenncode im Ilias)"
+  url: https://th-koeln.zoom.us/j/3709124564?pwd=N0k3NC9YUDk1dyt0VDBLaGZ5OXZ1dz09
 
 zoom-iot:
-  name: Zoom-Raum wird noch bekanntgegeben (Passwort im Ilias)
-  url: https://th-koeln.zoom.us/
+  name: Zoom-Raum gibt es im Wiki
+  url: https://wiki.moxd.io/display/IOT2021/
 
 zoom-tooling:
   name: "Zoom (Meeting-ID: 83079515782, Kenncode im Ilias)"

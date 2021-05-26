@@ -9,7 +9,7 @@ empfohlene-voraussetzungen:
 published: true
 dauer: 480
 raum: zoom-iot
-info: Heute geht es um …
+info: Heute geht es um IoT :-)
 ---
 
-Infos gibt es auf der [Website zum Kurs](https://moxd.io/iot2020).
+Infos gibt es auf der [Website zum Kurs](https://moxd.io/iot2021). Alles Nötige ist dort verlinkt.
