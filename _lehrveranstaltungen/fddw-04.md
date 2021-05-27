@@ -20,11 +20,11 @@ Das Ziel des Tages ist es
 
 ## Ablauf
 
-14:00 - 16:00 Diskussion der Literaturaufgabe
+13:00 - 15:00 Diskussion der Literaturaufgabe
 
-16:30 - 17:45 Arbeit im Team, individuelle Abstimmung mit Mentoren
+15:00 - 15:45 Arbeit im Team, individuelle Abstimmung mit Mentoren
 
-17:45 - 18:00 Wrap-Up; 
+16:00 - 17:00 Wrap-Up; 
 
 ## Aufgabe für die kommende Veranstaltung
 
