@@ -76,8 +76,8 @@ Das GitHub Repository soll folgende Struktur aufweisen:
 
 ## Material
 - Das Recording zur Veranstaltung findet sich im ILIAS
-- [Sammlung der Erwartungen an die Veranstaltung](../material/frameworks-dienst-und-daten/FDDW_miro_Board_Erwartungen.png)
-- [Präsentation während der Veranstaltung](../material/frameworks-dienste-und-daten/FDDW_Slides_01.pdf)
+- [Sammlung der Erwartungen an die Veranstaltung](https://github.com/th-koeln/mi-bachelor-webdevelopment/raw/master/material/frameworks-dienste-und-daten/FDDW_miro_Board_Erwartungen.png)
+- [Präsentation während der Veranstaltung](https://github.com/th-koeln/mi-bachelor-webdevelopment/raw/master/material/frameworks-dienste-und-daten/FDDW_Slides_01.pdf)
 - [RabbitMQ](https://www.rabbitmq.com/) - Open Source Message Broker
 - [Clients und Developer Tools für RabbitMQ](https://www.rabbitmq.com/devtools.html)
 - [Apache ActiveMQ](https://github.com/apache/activemq) - Open Source Message Broker
