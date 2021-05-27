@@ -19,22 +19,19 @@ Das Ziel des Tages ist es
 - Arbeit und Ergebnis des Projektteils im Plenunm in 15 Minuten präsentiert haben
 
 ## Ablauf
-09:00 - 13:00 Fachgespräche mit dem Dozenten zum Grubdlagenteil (20 - 30 Minuten pro Team) 
-parallel Arbeit im Team, an der Fertigsellung des architekturellen PoC, individuelle Abstimmung mit Mentoren
 
-14:00 - 17:00 Vorstellung und Diskussion des Projekteils und des architekturellen PoC im Plenum
+13:00 - 17:00 Vorstellung und Diskussion des Projekteils und des architekturellen PoC im Plenum
 
-## Bewertungskriterien für die Projektarbeit und -präsentation
+<!-- ## Bewertungskriterien für die Projektarbeit und -präsentation
 Die Bewertung des Projektteils erfolgt auf Basis der Projektpräsentation und der im Repository hinterlegten Artefakte. Für die Präsentation sollte eine Folienpräsentation mit Notizen erstellt werden. Aus den Notizen sollen die Begründungen, Überlegungen und Alternativen für die Artefakte hervorgehen, die auch mündlich vorgetragen werden.
 
 Die Bewertungskriterien sind im Folgenden aufgeführt. Jeweils sind neben den Artefakten die Begründungen und die Betrachtung von Alternativen wichtig.
-1. Das System leistet etwas signifikantes für die Nutzer: eine aus dem Problermszenario abgeleitete signifikante Anwendungslogik wurde modelliert, umgesetzt und die Verteilungauf mehrere Softwarekomponenten realisiert.
+1. Das System leistet etwas signifikantes für die Nutzer: eine aus dem Problemszenario abgeleitete signifikante Anwendungslogik wurde modelliert, umgesetzt und die Verteilungauf mehrere Softwarekomponenten realisiert.
 2. Qualität der Modellierung der Kommunikation über Topics/Queues: insbesondere soll eime umfangreiche und dem Problemszenario angemessene Nutzung dieser Kommunikation erfolgt sein.
 3. Verteilung der Anwendungslogik auf mehrere Prozesse: die Anwendungslogik muss auf mehrere Prozesse verteilt sein und die location transparency so sollte so gegeben sein, dass eine Verteilung des Systems auf mehrere Rechner möglich ist.
 4. Prozess der Erarbeitung, Teamarbeit: ein iteratives Vorgehen findet sich im Repository, alle Teammitglieder liefern einen signifikanten Beitrag an der Erstellung des Systems 
 
-Jedes der Kriterien wird mit 25 Punkten bewertet auf der Basis des Standes bei der Präsentation. Bei den Kriterien 1 und 3 können bei Nacharbeit bis spätestens 10.5. jeweils 10 Punkte erworben werden, um Mängel auszugleichen. Die Nacharbeit ist dann im Wiki des github zu dokumentieren. 
-
+Jedes der Kriterien wird mit 25 Punkten bewertet auf der Basis des Standes bei der Präsentation. -->
 
 ## Material
 - [RabbitMQ](https://www.rabbitmq.com/) - Open Source Message Broker

@@ -21,18 +21,18 @@ Das Ziel des Tages ist es
 - einen im git dokumentierten Plan für die Aktivitäten bis zum Beginn des nächsten Termins vorstellen
 
 ## Ablauf
-14:00 - 15:00 Diskussion der Literaturaufgabe
+13:00 - 14:00 Diskussion der Literaturaufgabe
 
-15:00 - 15:30 Pause
+14:00 - 14:30 Pause
 
-15:30 - 17:00 Diskussion des Stands der individuellen Kompetenzziele, Arbeit am Projekt, individuelle Abstimmung mit Mentoren
+14:30 - 16:00 Diskussion des Stands der individuellen Kompetenzziele, Arbeit am Projekt, individuelle Abstimmung mit Mentoren
 
-17:00 - 18:00 Wrap-Up, Q&A
+16:00 - 17:00 Wrap-Up, Q&A
 
 ## Aufgabe für die kommende Veranstaltung
 - Erarbeiten Sie individuell aus den im Grundlagenteil vorgestellten Konzepten und aus den Kapiteln 4 (Message Passing), 5 (Location Transparency) und 6 (Dive and Conquer) der Monographie von Kuhn die wesentlichen Begriffe und Zusammenhänge! Nutzen Sie dazu die Leitfragen (Link kommt noch)!
 - Arbeiten Sie individuell an den den mit Ihren Mentoren identifizierten Kompetenzzielen und dokumentieren Sie Ihre Arbeit im Lernportfolio!
-- Erarbeiten Sie im Team den technischen PoC, sodass er spätestens während des nächsten PoC fertiggestellt werden kann!
+- Erarbeiten Sie im Team den technischen PoC, sodass er spätestens während des nächsten Termins fertiggestellt werden kann!
 
 ## Leitfragen für den Grundlagenteil
 Auf dieser Seite sind einige Fragen formuliert die zum Erarbeiten eines Verständnisses der Kapitel 4, 5 und 6 der Monographie von Kuhn genutzt werden können. Die Fragen können auch als Grundlage der Fachdiskussion in den Workshop Terminen genutzt werden.
