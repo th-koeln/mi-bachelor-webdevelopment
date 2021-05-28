@@ -1,5 +1,5 @@
 ---
-titel: Semantisches HTML 2 // Formulare, Typografie & Basislayout
+titel: Semantisches HTML 2 // Formulare & Text Styling
 tags:
  - Frontend-Development
  - HTML
@@ -9,13 +9,17 @@ Wir werden zur Bearbeitung der Aufgaben wieder GitHub Classroom nutzen. Die Aufg
 
 Erzeugen Sie nun einen neuen Branch mit dem Namen `session-2` und wechseln Sie bitte in diesen Branch. Sorgen sie wie in der ersten Aufgabe für eine saubere Git-Commit-History
 
-## HTML 2.1: Tabellen
+## HTML 2.1: CSS Styling
+
+Verändern Sie das Design der Elemente mithilfe von CSS. Binden Sie die CSS Anweisungen im *Head* der HTML Datei ein. Versuchen Sie möglichst nah an die Anmutung der PDF Vorlage zu kommen.
+
+## HTML 2.2: Tabellen
 
 Erweitern Sie ihr Basis Layout um eine Tabelle. Der Inhalt befindet sich dazu auch in der `_data/chapters/design-principles.md`.
 
-## HTML 2.2: Formulare
+## HTML 2.3: Formulare
 
-Nutzer:innen Ihrerer Webseite soll die Möglichkeit gegeben werden Kommentare zu einem Kapitel abzugeben. Fügen sie einen Abschnitt in der Seite hinzu, in der ein Formular mit folgenen Feldern zur Verfügung steht:
+Nutzer:innen Ihrer Webseite soll die Möglichkeit gegeben werden Kommentare zu einem Kapitel abzugeben. Fügen sie einen Abschnitt in der Seite hinzu, in der ein Formular mit folgenen Feldern zur Verfügung steht:
 
 - **Name** des Kommentarautors
 - **E-Mail** Adresse des Autors
