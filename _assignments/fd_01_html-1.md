@@ -1,5 +1,5 @@
 ---
-titel: Semantisches HTML // Cranach Tour
+titel: Semantisches HTML 1
 tags:
  - Frontend-Development
  - HTML
@@ -11,7 +11,7 @@ Klonen Sie bitte anschließend das Repository auf ihren Rechner und bearbeiten S
 
 ---
 
-## HTML 1: Inhalte auszeichnen
+## HTML 1.1: Inhalte auszeichnen
 
 Gestalterische Grundlage für diese Aufgabe ist eine Bachelorarbeit von Kephas Nguyen. Gegeben dazu ist der Inhalt als Markdown-Datei in der `_data/chapters/` und das Layout als PDF-Seiten in der `_data/mockups/`.
 
@@ -19,12 +19,12 @@ Erstellen Sie zuerst den Ordner `chapter` und darin eine Datei mit dem Namen `de
 
 Erzeugen Sie nun, auf Basis des Layouts und der Texte, semantisch sauberes Markup in der zuvor erstellten HTML-Datei. Lassen Sie dabei noch Strukturelemente wie `div`, `section` und `header` außen vor.
 
-## HTML 2: Strukturelemente nutzen
+## HTML 1.2: Strukturelemente nutzen
 
 Reichern Sie nun das Dokument mit semantischen Strukturelementen an. 
 
 
-## HTML 3: Bild hinzufügen
+## HTML 1.3: Bild hinzufügen
 
 Setzen sie nun den folgenden Text...
 
@@ -34,7 +34,7 @@ Setzen sie nun den folgenden Text...
 
 und fügen sie ein Bild-Element mit Bildunterschrift (siehe PDF) ein.
 
-## HTML 4: Übersichtsseite und Navigation erstellen
+## HTML 1.4: Übersichtsseite und Navigation erstellen
 
 Erzeugen Sie die Datei `index.html` im root Ordner. Fügen sie dort ein grobes Inhaltsverzeichnis mit dem Titel der Arbeit ein. 
 

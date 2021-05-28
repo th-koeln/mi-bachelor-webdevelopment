@@ -1,14 +1,33 @@
 ---
-titel: Semantisches HTML // Formulare, Typografie & Basislayout
-tags: HTML
+titel: Semantisches HTML 2 // Formulare, Typografie & Basislayout
+tags:
+ - Frontend-Development
+ - HTML
 ---
 
-Wir werden zur Bearbeitung der Aufgaben wieder GitHub Classroom nutzen.
+Wir werden zur Bearbeitung der Aufgaben wieder GitHub Classroom nutzen. Die Aufgaben bauen auf den Markup von den Übungen aus dem Workshop [HTML Basics](../fd_01_html-1/) auf. Verwenden Sie daher das Repository Assignment, aus dem Workshop [HTML Basics](../fd_01_html-1/). 
 
-Die Aufgaben bauen auf den Markup von den Übungen aus dem Workshop „HTML Basics”auf. Verwenden Sie daher das Repository/ Assignment, aus dem Workshop „HTML Basics”. 
+Erzeugen Sie nun einen neuen Branch mit dem Namen `session-2` und wechseln Sie bitte in diesen Branch. Sorgen sie wie in der ersten Aufgabe für eine saubere Git-Commit-History
 
-Erzeugen Sie nun einen neuen Branch mit dem Namen „session-2” und wechseln Sie bitte in diesen Branch.
+## HTML 2.1: Tabellen
 
+Erweitern Sie ihr Basis Layout um eine Tabelle. Der Inhalt befindet sich dazu auch in der `_data/chapters/design-principles.md`.
+
+## HTML 2.2: Formulare
+
+Nutzer:innen Ihrerer Webseite soll die Möglichkeit gegeben werden Kommentare zu einem Kapitel abzugeben. Fügen sie einen Abschnitt in der Seite hinzu, in der ein Formular mit folgenen Feldern zur Verfügung steht:
+
+- **Name** des Kommentarautors
+- **E-Mail** Adresse des Autors
+- **Upload**-Möglichkeit eines Profilfotos des Autors
+- **Texteingabe** Feld
+- **Auswahl**, ob der Autorenname in einer späteren Anzeige anonymisiert werden soll
+- **Bestätigung**, dass die Datenschutzerklärung gelesen wurde ;)
+- **Senden**
+- **Zurücksetzen**
+
+
+<!--
 ## Aufgabe 1 - HTML // Formulare und Tabellen
 Zur Verwaltung der Daten für den digitalen Museumsführer wird eine Pflegemaske benötigt. Über diese soll es möglich sein, sich alle gespeicherten Daten zu den Gemälden anzeigen zu lassen, neue Gemälde hinzuzufügen, zu löschen und zu bearbeiten.
 
@@ -17,6 +36,8 @@ Erstellen Sie in ihrem Repository einen Ordner `backend` und darin eine Datei `u
 Erzeugen Sie für folgendes [Wireframe](../../material/frontend-development-1/session-2/aufgabe-1/pflegemaske.png) möglichst semantisch reichhaltiges Markup.
 
 Die Daten für die Gemäldeübersicht finden Sie hier als [Markdown Datei](../../material/frontend-development-1/session-2/aufgabe-1/gemaeldedaten.md) oder als [PDF](../../material/frontend-development-1/session-2/aufgabe-1/gemaeldedaten.pdf)
+
+
 
 ## Aufgabe 2 - CSS // Typografie
 
@@ -42,3 +63,5 @@ Legen Sie in der `cda-base.css` die im Styleguide definierten Hintergrundfarben 
 Erzeugen Sie mit Hilfe von CSS-Grids das Grundlayout, bestehend aus Header und dem zwei spaltigen Contentbereich. Verwenden Sie dazu die Angaben unter „Grid” im Styleguide.
 
 Mergen Sie zum Schluss den Branch `session-2` in den `master`.
+
+-->
