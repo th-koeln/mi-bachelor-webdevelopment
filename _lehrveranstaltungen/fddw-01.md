@@ -17,7 +17,7 @@ Das Ziel des Tages ist es
 - einen Überblick über die Inhalte, Anforderungen und Erfolgskriterien des Kurses erlangt zu haben,
 - die Motivation und das Grundverständnis asynchroner Systemarchitekturen aus dem Modul "Grundlagen des Web" aufgefrischt zu haben,
 - Individuelle auf die Workshopaufgabe ausgerichtete Kompetenzziele identifiziert haben und einen Plan zur Erreichung mit den Mentoren abgestimmt haben und im Git dokumentiert haben.
-- Die Aufgabe der Erstellung eines technischen PoC verstanden haben und erste Schritte zur Realisierung unternommen haben.
+- Die Aufgabe der Erstellung eines Anwendungsbeispiels in Projektform verstanden und erste Schritte zur Realisierung unternommen haben.
 
 ## Ablauf
 13:00 - 14:15 Intro und Inputvorlesung /Grundlagen
@@ -28,8 +28,11 @@ Das Ziel des Tages ist es
 
 ## Aufgabe für die kommende Veranstaltung
 - Erarbeiten Sie die im Grundlagenteil vorgestellten Konzepten und und die Inhalte den Kapiteln 1 (Why reactive) und 2 (A walk-through of the Reactive Manifesto) der Monographie von Kuhn die wesentlichen Begriffe und Zusammenhänge! Nutzen Sie dazu die in der Folge angegebenen Leitfragen!
-- Arbeiten Sie individuell an den den mit Ihren Mentoren identifizierten Kompetenzzielen und dokumentieren Sie den Fortschritt im Wiki des Repositories.
-- Arbeiten Sie an des abgesprochenen Zielen des technischen PoC!
+- Das GitHub Repository für die Umsetzung und Dokumentation des Anwendungsbeispiels muss vorliegen.
+- Bereiten Sie eine kurze (5-10 Minuten) Vorstellung ihres Anwendungsbeispiels vor. Dabei sollen folgende Fragen beantwortet werden:
+  - Welches Ziel wird verfolgt?
+  - Welche Herausforderungen sind zu erwarten?
+  - Welche Lösungen werden vorgeschlagen?
 
 ## Leitfragen für den Grundlagenteil
 Auf dieser Seite sind einige Fragen formuliert die zum Erarbeiten eines Verständnisses der Kapitel 1 und 2 der Monographie von Kuhn genutzt werden können. Die Fragen können auch als Grundlage der Fachdiskussion in den Workshop Terminen genutzt werden.  
@@ -52,19 +55,35 @@ Erklären Sie das CAP Theorem!
 16. Aus welchem Grund verzichtet man bei reactive systems soweit möglich auf die Forderung der strong consistency?
 17. Erklären Sie die Probleme die aus network partitions entstehen anhand des hypothetischen Gmail Service!
 
-## Technisches Proof of Concept
-Im Rahmen des technischen PoC soll sowohl eine sinnvolle Nutzung von externe Datenquellen als auch eine nicht-triviale Kommunikation zwischen Anwendungskomponenten getestet werden. Dazu mag auch ein Szenario als Anregung dienen:
+## Anwendungsbeispiel als Projekt
 
-Es solle eine Anwendung entwickelt werden, die für einige mögliche Ausflugsziele eines Nutzers sowohl die Wetterbedingungungen als auch die Verkehrsverhältnisse für die Anreise überwacht und den Nutzer über signifikante Änderungen (Ereignisse) informiert. Für den Technischen PoC kommt es dabei nicht auf ausgefeilte Anwendungslogik an sondern im Wesentlichen auf den Informationsfluss zwischen den Softwarekomponenten. 
+Die Zielsetzung des Projekts lautet wie folgt:
 
-Ein mögliches Architekturdiagramm für das [technische PoC](https://th-koeln.sciebo.de/s/ZKm6kp2VY40nZ4c)
+* Anwendung die in Microservices / Komponenten aufgeteilt ist
+* Asynchrone Kommunikation zwischen Microservices (bspw. durch Events) Anbindung mindestens eines externen (offenen) Datendienstes
+* Es muss State geben! (Ohne State ist alles möglich)
+* Einfache! Web-UI zur Interaktion mit der Anwendung
+* Deployment der Anwendung
+* Betriebskonzept
+
+Abgabe in GitHub bis zum **19.09.2021, 23:59 Uhr**. Die Teamgröße sollte dabei 2-3 Personen betragen. In begründeten Ausnahmefällen sind auch Einzelarbeiten möglich.
+
+Das GitHub Repository soll folgende Struktur aufweisen:
+
+* Name: `FDDWSS21_Nachname1Nachname2Nachname3`
+* `README.md` mit Projektsynopsis und Team-Mitgliedern
+* Im besten Fall wird bei der Implementierung auf den in [Kollaboration über Versionskontrollsysteme](https://th-koeln.github.io/mi-bachelor-webdevelopment/lehrveranstaltungen/tooling-2/) vorgeschlagenen Workflow zur Organisation verwendet (Pull-Requests mit Zusammenfassung der Änderungen und Issues zur Planung).
 
 ## Material
-- [Präsentation während der Veranstaltung](https://th-koeln.sciebo.de/s/kB6hDZKngecitEE)
+- Das Recording zur Veranstaltung findet sich im ILIAS
+- [Sammlung der Erwartungen an die Veranstaltung](https://github.com/th-koeln/mi-bachelor-webdevelopment/raw/master/material/frameworks-dienste-und-daten/FDDW_miro_Board_Erwartungen.png)
+- [Präsentation während der Veranstaltung](https://github.com/th-koeln/mi-bachelor-webdevelopment/raw/master/material/frameworks-dienste-und-daten/FDDW_Slides_01.pdf)
 - [RabbitMQ](https://www.rabbitmq.com/) - Open Source Message Broker
 - [Clients und Developer Tools für RabbitMQ](https://www.rabbitmq.com/devtools.html)
 - [Apache ActiveMQ](https://github.com/apache/activemq) - Open Source Message Broker
 - [Apache Kafka](http://kafka.apache.org/) - A distributed streaming plattform
+- [Reactive Microsystems Talk](https://www.youtube.com/watch?v=3hMtjPcU248) 
+- [Microservice Patterns und Antipatterns Talk](https://www.youtube.com/watch?v=RsyOkifmamI)
 
 ## Literatur
 - Edward Steel et al.: Hootsuite: In Pursuit of Reactive Systems ([Link in die ACM DL](https://dlnext.acm.org/doi/abs/10.1145/3121437.3131240))
