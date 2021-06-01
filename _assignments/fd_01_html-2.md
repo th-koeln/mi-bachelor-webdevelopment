@@ -1,8 +1,10 @@
 ---
 titel: Semantisches HTML 2 // Formulare & Text Styling
+published: true
 tags:
  - Frontend-Development
  - HTML
+ - CSS
 ---
 
 Wir werden zur Bearbeitung der Aufgaben wieder GitHub Classroom nutzen. Die Aufgaben bauen auf den Markup von den Übungen aus dem Workshop [HTML Basics](../fd_01_html-1/) auf. Verwenden Sie daher das Repository Assignment, aus dem Workshop [HTML Basics](../fd_01_html-1/). 

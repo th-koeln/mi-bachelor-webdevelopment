@@ -1,6 +1,7 @@
 ---
 titel: CSS Layout via CSS Grid, Flexbox unter Zurhilfename von BEM und Custom Properties
 tags: CSS
+
 ---
 
 Basis für diese Aufgabe bilden:
