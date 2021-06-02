@@ -32,6 +32,9 @@ Nutzer:innen Ihrer Webseite soll die Möglichkeit gegeben werden Kommentare zu e
 - **Senden**
 - **Zurücksetzen**
 
+----
+
+Wenn Sie alle Codeänderungen vorgenommen haben, starten Sie einen Pull-Request (PR) und mergen Sie den `session-2`-Branch auf den `main`-Branch.
 
 <!--
 ## Aufgabe 1 - HTML // Formulare und Tabellen
