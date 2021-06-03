@@ -9,7 +9,9 @@ tags:
 
 Wir werden zur Bearbeitung der Aufgaben wieder GitHub Classroom nutzen. Die Aufgaben bauen auf den Markup von den Übungen aus dem Workshop [HTML Basics](../fd_01_html-1/) auf. Verwenden Sie daher das Repository Assignment, aus dem Workshop [HTML Basics](../fd_01_html-1/). 
 
-Erzeugen Sie nun einen neuen Branch mit dem Namen `session-2` und wechseln Sie bitte in diesen Branch. Sorgen sie wie in der ersten Aufgabe für eine saubere Git-Commit-History
+Erzeugen Sie nun einen neuen Branch mit dem Namen `session-2` und wechseln Sie bitte in diesen Branch. Sorgen sie wie in der ersten Aufgabe für eine saubere Git-Commit-History.
+
+---
 
 ## HTML 2.1: CSS Styling
 
