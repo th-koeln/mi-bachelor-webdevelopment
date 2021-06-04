@@ -3,14 +3,12 @@ layout: default
 ---
 
 {% assign assignments = site.assignments | where: "published", "true" | sort: 'title' %}
-{% assign tabtags = "HTML|CSS|Javascript|Tooling|SASS|Misc" | split: "|" %}
+{% assign tabtags = "Frontend-Development|Tooling|HTML|CSS|JavaScript|SASS|Misc" | split: "|" %}
 
 <section class="section">
   <div class="container">
-
     <h1 class="title is-1">Assignments</h1>
     <h2 class="subtitle">Hier die Übersicht über alle Aufgaben.</h2>
-
   </div>
 
 </section>
@@ -42,8 +40,12 @@ layout: default
           {% for assignment in assignments %}
           <div class="assignment-overview__item">
             <a href="{{assignment.url | relative_url}}">
-            <h2 class="title is-2" id="{{ assignment.id }}">{{ assignment.titel }}</h2>
-            <p class="tag is-rounded" style="color: #999999;">{{assignment.tags | join:' '}}</p>
+              <h2 class="title is-2" id="{{ assignment.id }}">{{ assignment.titel }}</h2>
+              <p>
+                {% for tag in assignment.tags %}
+                <span class="tag is-rounded" style="color: #999999;">{{ tag }}</span>
+                {% endfor %}
+              </p>
             </a>
           </div>
           {% endfor %}
@@ -56,11 +58,15 @@ layout: default
 
           {% for assignment in assignments %} {% if assignment.tags contains navEle %}
           <div class="assignment-overview__item">
-              <a href="{{assignment.url | relative_url}}">
+            <a href="{{assignment.url | relative_url}}">
               <h2 class="title is-2" id="{{ assignment.id }}">{{ assignment.titel }}</h2>
-              <p class="tag is-rounded" style="color: #999999;">{{assignment.tags | join:' '}}</p>
-              </a>
-            </div>
+              <p>
+                {% for tag in assignment.tags %}
+                <span class="tag is-rounded" style="color: #999999;">{{ tag }}</span>
+                {% endfor %}
+              </p>
+            </a>
+          </div>
           {% endif %} {% endfor %}
 
         </div>
