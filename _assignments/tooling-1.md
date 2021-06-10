@@ -1,9 +1,13 @@
 ---
 titel: Ugly Code Example
-tags: Tooling
+tags:
+ - Tooling
+published: true
 ---
 
 Mit diesen Aufgaben wollen wir Ihnen einen kleinen Einblick in die einige Features von VSC geben. Wir haben versucht die Aufgaben so aufzubauen, dass wenig bis kein Verständnis von HTML, CSS und JS notwendig ist um sie zu lösen. Bei Fragen: fragen.
+
+---
 
 ## Vorbereitung
 
@@ -22,6 +26,7 @@ code .
 ### Seite in Live Server anschauen
 Dazu mit der rechten Maustaste auf die *index.html* klicken und `Open with Live Server` klicken.
 
+---
 
 ## Aufgaben
 
@@ -37,6 +42,8 @@ Dazu mit der rechten Maustaste auf die *index.html* klicken und `Open with Live 
    - Finden Sie die section tags in der *index.html* bei denen dieser Fehler aufgetreten ist.
    - Korrigieren Sie die Fehler an allen 3  Positionen
 2. Die *viewmode-showcase.js* sollte es eigentlich Benutzern ermöglichen sich die Frameworks am unteren Ende der Webseite sowohl als Grid- als auch als Liste anzeigen zu lassen. Leider wurden alle " " Leerzeichen in der Datei durch das Wort "leerzeichen" ersetzt. Reparieren Sie dies.
+
+---
 
 ## Nachbereitung
 

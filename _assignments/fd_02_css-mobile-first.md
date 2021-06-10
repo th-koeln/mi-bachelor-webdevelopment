@@ -1,10 +1,14 @@
 ---
 titel: Mobile First
-tags: CSS
+tags:
+ - Frontend-Development
+ - CSS
 published: true
 ---
 
 Diese Aufgabe basiert auf den Aufgaben [Semantisches HTML 1](/mi-bachelor-webdevelopment/assignments/fd_01_html-1/) und [Semantisches HTML 2 // Formulare & Text Styling](/mi-bachelor-webdevelopment/assignments/fd_01_html-2/).
+
+---
 
 ## Aufgabe 1 // Projektstruktur
 Reorganisieren Sie Ihr Projekt entsprechend des Vorschlags von MDN zur [Nutzung von Dateien.](https://developer.mozilla.org/de/docs/Learn/Getting_started_with_the_web/Dealing_with_files).
