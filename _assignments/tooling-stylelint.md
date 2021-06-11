@@ -20,8 +20,9 @@ In dem Workspace muss sich eine `package.json` befinden. Alle benötigten NPM-Pa
 - [stylelint-config-standard](https://github.com/stylelint/stylelint-config-standard)
 - [stylelint-idiomatic-order](https://github.com/ream88/stylelint-config-idiomatic-order)
 
-In der `package.json` sollten die Dependencies drin stehen. Um StyleLint auszuführen nutzen wir den Befehl `stylelint`. Dazu fügen wir einen eigenen Script-Befehl in die `package.json` ein:
+In der `package.json` sollten die Dependencies drin stehen. Um StyleLint auszuführen nutzen wir den Befehl `stylelint`. Dazu fügen wir einen eigenen Script-Befehl ein:
 
+`package.json`
 ```json
 
 {
@@ -80,10 +81,11 @@ npm run lint:fix
 
 Es gibt ein nettes VSCode Plugin, welches automatisch Hinweise für Linting Fehler gibt:
 
-- https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint
+- [https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint)
 
-Wenn man möchte, dass VSCode beim Speichern automatisch der Linting-Fixer läuft braucht man diese Settings-Datei in `.vscode/settings.json`:
+Wenn man möchte, dass VSCode beim Speichern automatisch der Linting-Fixer läuft, braucht man eine Settings-Datei:
 
+`.vscode/settings.json`
 ```json
 {
     "editor.codeActionsOnSave": {
