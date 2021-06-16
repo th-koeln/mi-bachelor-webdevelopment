@@ -1,5 +1,5 @@
 ---
-titel: SASS, CSS Transitions & Responsive Design
+titel: CSS Transitions, CSS Methodologien, SASS, Templating 
 kuerzel: fd
 verantwortlich: cn
 typ: fd
@@ -13,26 +13,32 @@ info: Heute geht es um SASS, CSS Transitions & Responsive Design.
 ---
 
 ## Worum geht es?
-Heute befassen wir und mit SASS um unser CSS noch besser strukturieren zu können. In dem Zuge setzen wir uns auch mit Task Runnern, bzw. `npm scripts` auseinander. Wir werden erste Schritte in Richtung Responsive Design gehen, um unser Layout reaktionsfähig zu machen und setzen CSS Transistions für geschmeidige Übergänge und zur Unterstüzung von Interaktionen ein. Außerdem wird eine Ich-hab-HTML-und-CSS-im-Griff-Aufgabe für die Projektwoche vorgestellt.
+Heute gibt es ein kurzes Recap des Themas Responsive Design. Wir schließen den Überblick über CSS mit CSS Transistions ab, die wir für geschmeidige Übergänge und zur Unterstüzung von Interaktionen nutzen können. Wir befassen uns mit CSS Methodologien, um unser CSS noch besser strukturieren zu können. In diesem Zuge führen wir SASS ein, was uns auch zum Thema Build Chain und `npm script` bringt. Zum Abschluss, falls noch Zeit ist, schauen wir uns verschiedene Konzepte zu dynamisch generiertem HTML Content an. Dabei gehen wir auf folgende Fragestellungen und Probleme ein:
 
-## Material
-- [SASS](https://sass-lang.com/)
-- [SASS Playground](https://www.sassmeister.com/)
-- [BEM für Späteinsteiger](https://praegnanz.de/weblog/bem-fuer-spaeteinsteiger)
-- [ABEM. A more useful adaptation of BEM](https://css-tricks.com/abem-useful-adaptation-bem/)
-- [BEM and SASS: A Perfect Match](https://medium.com/@andrew_barnes/bem-and-sass-a-perfect-match-5e48d9bc3894)
-- [Using Sass to Control Scope With BEM Naming](https://css-tricks.com/using-sass-control-scope-bem-naming/)
-- [3 Säulen für Responsive Webdesign](https://www.konversionskraft.de/trends/die-3-saeulen-des-responsive-webdesign.html)
-- [Responsive Web Design](https://alistapart.com/article/responsive-web-design/)
-- [Responsive Web Design @Smashing](https://www.smashingmagazine.com/category/responsive-web-design/)
-- [Advanced CSS Layout - Folien](../../material/frontend-development-1/session-3/slides/Chapter07-AdvancedCSSLayout.pdf)
-- [Vertical Centering via Flexbox](https://philipwalton.github.io/solved-by-flexbox/demos/vertical-centering/)
-- [Easy SASS project and compile with npm](https://medium.com/@kanokpit.skuberg/easy-sass-project-and-compile-with-npm-5861457195b5)
+- [Was sind wesentliche Konzepte beim Responsive Web Development?](https://alistapart.com/article/responsive-web-design/)
+- [Was sind Container Queries?](https://www.miriamsuzanne.com/2021/05/02/container-queries/)
+- [Wie funktionieren CSS Transitions?](https://www.joshwcomeau.com/animation/css-transitions/)
+- [Wie kann ich mein CSS mit SASS kompakter, lesbarer und damit übersichtlicher gestalten?](https://sass-lang.com/)
+- [Wofür kann ich eine Toolchain einsetzen?](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Introducing_complete_toolchain)
+- [Was sind CSS Methodologien und wann und wie setze ich diese sinnvoll ein?](https://ageek.dev/css-methodologies)
+- [Was ist CUBE CSS und wie nutze ich es?](https://cube.fyi/)
+- [Wann und wie rendere ich mein HTML?](https://dev.to/fllstck/where-when-should-you-render-your-html-41b5)
+### Struktur & Organisation von CSS
+- [How to name css classes](http://bdavidxyz.com/blog/how-to-name-css-classes/)
+- [OOCSS - The Future of Writing CSS](https://www.keycdn.com/blog/oocss)
+- [SMACSS](http://smacss.com/)
+- [Functional CSS](https://critter.blog/2018/06/08/in-defense-of-functional-css/)
+- [Maintainable CSS](https://maintainablecss.com/)
+- [BEM](http://getbem.com/introduction/)
+- [CUBE CSS](https://piccalil.li/blog/cube-css)
+- [Learn by doing: CUBE CSS](https://css-tricks.com/video-screencasts/191-learn-by-doing-cube-css/)
+- [CUBE CSS with its creator Andy Bell](https://www.youtube.com/watch?v=Y3EKje3JIT4)
+## Build Tools
 - [How to Use npm as a Build Tool](https://www.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/)
 - [Using Npm Scripts as a Build Tool](https://deliciousbrains.com/npm-build-script/)
 - [4 Solutions To Run Multiple Node.js or NPM Commands Simultaneously](https://itnext.io/4-solutions-to-run-multiple-node-js-or-npm-commands-simultaneously-9edaa6215a93)
 - [Simple pure npm scripts build process](https://gist.github.com/adamreisnz/9edf1f48e19c104b81f8102a27de0940)
-- [Responsive Images](https://blog.kulturbanause.de/2014/09/responsive-images-srcset-sizes-adaptive/)
+
 
 
 
