@@ -41,6 +41,7 @@ Heute gibt es ein kurzes Recap des Themas Responsive Design. Wir schließen den 
 
 ## Aufgabe
 - [CSS Refactoring mit SASS, Integration von Stylelint](/mi-bachelor-webdevelopment/assignments/css-grid-sass-transitions/)
+- [Refactoring Website Online Sports](/mi-bachelor-webdevelopment/assignments/refactoring-cube-css/)
 
 
 
