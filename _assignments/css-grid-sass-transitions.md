@@ -9,6 +9,8 @@ Wir nutzen als Startercode wieder das Repo aus der [Aufgabe CSS Grid](/mi-bachel
 ## Aufgabe 1: Integration von Stylelint
 Integrieren Sie *Stylelint*, wie in der [Aufgabe StyleLint Setup](/mi-bachelor-webdevelopment/assignments/tooling-stylelint/) beschrieben.
 
+Fügen Sie hier noch ein Stylelint-Plugin für SCSS hinzu: [stylelint-scss](https://github.com/kristerkari/stylelint-scss)
+
 ## Aufgabe 2: Überführen in eine SASS Struktur
 Klonen Sie das Repo [SASS Startercode](https://github.com/cnoss/sass-startercode) und übertragen Sie die Struktur in Ihr CSS-Grid Repo:
 
