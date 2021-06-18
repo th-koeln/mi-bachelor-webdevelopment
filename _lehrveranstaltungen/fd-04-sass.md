@@ -39,7 +39,8 @@ Heute gibt es ein kurzes Recap des Themas Responsive Design. Wir schließen den 
 - [4 Solutions To Run Multiple Node.js or NPM Commands Simultaneously](https://itnext.io/4-solutions-to-run-multiple-node-js-or-npm-commands-simultaneously-9edaa6215a93)
 - [Simple pure npm scripts build process](https://gist.github.com/adamreisnz/9edf1f48e19c104b81f8102a27de0940)
 
-
+## Aufgabe
+- [CSS Refactoring mit SASS, Integration von Stylelint](/mi-bachelor-webdevelopment/assignments/css-grid-sass-transitions/)
 
 
 

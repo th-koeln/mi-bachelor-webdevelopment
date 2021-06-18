@@ -3,7 +3,7 @@ titel: SASS Basic Setup
 tags: CSS, SASS
 ---
 
-Bitte *forken* Sie folgenden [SASS Startercode](https://github.com/cnoss/sass-startercode) und klonen dann das Repo auf Ihren lokalen Rechner. 
+Bitte *klonen* Sie folgenden [SASS Startercode](https://github.com/cnoss/sass-startercode) auf Ihren lokalen Rechner. 
 
 ## Step 1: NPM initialisieren und Pakete installieren
 Initialisieren Sie npm via `npm init` und installieren Sie die folgenden Pakete jeweils mit der `--save-dev` Option:
