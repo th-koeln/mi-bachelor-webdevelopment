@@ -37,4 +37,3 @@ Basiskenntnisse zu JavaScript (Variablen, Datentypen, If Anweisungen, Schleifen,
 
 ## Übungen
 - [Page Navigation](/mi-bachelor-webdevelopment/assignments/js-page-navigation/)
-s
