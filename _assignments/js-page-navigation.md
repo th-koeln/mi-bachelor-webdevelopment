@@ -1,6 +1,6 @@
 ---
 titel: Javascript Page Navigation und ESLint
-tags: Javascript
+tags: JavaScript
 published: true
 ---
 
