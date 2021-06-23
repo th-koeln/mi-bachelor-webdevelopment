@@ -13,7 +13,7 @@ info: Heute gibt es eine Einführung in Clientseitiges JavaScript
 ---
 
 ## Worum geht es?
-Heute geht es um die Verwendung von JavaScript auf der Clientseite im Browser. Wir schauen uns das Document Object Model an, lernen  Methoden kennen, über die man das DOM manipulieren kann und wie man über Events auf Interaktionen reagieren kann. Zum Schluss werden wir uns noch die Intersection Oberser API näher anschauen.
+Heute geht es um die Verwendung von JavaScript auf der Clientseite im Browser. Wir schauen uns das Document Object Model an, lernen  Methoden kennen, über die man das DOM manipulieren kann und wie man über Events auf Interaktionen reagieren kann. Zum Schluss werden wir uns noch die Intersection Observer API näher anschauen.
 - [Wie ist JavaScript entstanden und wie sieht die Entwicklung von JS aus?](https://www.jetbrains.com/de-de/lp/javascript-25/)
 - [Was ist JavaScript und wie verwende ich es Clientseitig](https://developer.mozilla.org/de/docs/Learn/JavaScript/First_steps/What_is_JavaScript)?
 - [Was ist der Unterschied zwischen var, let und const?](https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/)
