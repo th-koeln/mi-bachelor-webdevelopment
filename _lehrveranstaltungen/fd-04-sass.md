@@ -23,6 +23,9 @@ Heute gibt es ein kurzes Recap des Themas Responsive Design. Wir schließen den 
 - [Was sind CSS Methodologien und wann und wie setze ich diese sinnvoll ein?](https://ageek.dev/css-methodologies)
 - [Was ist CUBE CSS und wie nutze ich es?](https://cube.fyi/)
 - [Wann und wie rendere ich mein HTML?](https://dev.to/fllstck/where-when-should-you-render-your-html-41b5)
+
+## Material
+
 ### Struktur & Organisation von CSS
 - [How to name css classes](http://bdavidxyz.com/blog/how-to-name-css-classes/)
 - [OOCSS - The Future of Writing CSS](https://www.keycdn.com/blog/oocss)
