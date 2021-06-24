@@ -12,7 +12,6 @@ Tauschen Sie die Links im Hauptmenü durch folgende Navigationspunkte aus
 * Design Priciples
 * Design Methods
 * Kommentare
-* 
 Verknüpfen Sie die einzelnen Navigationspunkte über IDs mit den gleichnamigen Sektionen.
 
 ## Step 2: JavaScript Datei erzeugen und einbinden
