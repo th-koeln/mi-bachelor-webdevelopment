@@ -4,7 +4,7 @@ tags: JavaScript
 published: true
 ---
 
-Ausgangspunkt zur Bearbeitung der Aufgaben ist wieder der Code aus der [CSS Grid Aufgabe](/mi-bachelor-webdevelopment/assignments/css-grid/). Legen Sie zunächst einen neuen Zweig mit der Bezeichnung `m-page-navigation` an.
+Ausgangspunkt zur Bearbeitung der Aufgaben der Code aus der Aufgabe [CSS Refactoring mit SASS, Integration von Stylelint](/mi-bachelor-webdevelopment/assignments/css-grid-sass-transitions/). Legen Sie zunächst einen neuen Zweig mit der Bezeichnung `m-page-navigation` an.
 
 
 ## Step 1: Hauptmenü überarbeiten
