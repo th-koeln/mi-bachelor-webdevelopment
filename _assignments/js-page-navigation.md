@@ -4,18 +4,16 @@ tags: JavaScript
 published: true
 ---
 
-Ausgangspunkt zur Bearbeitung der Aufgaben ist wieder der Code aus der [CSS Grid Aufgabe](/mi-bachelor-webdevelopment/assignments/css-grid/). Legen Sie zunächsten einen neuen Zweig mit der Bezeichnung `m-page-navigation` an.
+Ausgangspunkt zur Bearbeitung der Aufgaben ist wieder der Code aus der [CSS Grid Aufgabe](/mi-bachelor-webdevelopment/assignments/css-grid/). Legen Sie zunächst einen neuen Zweig mit der Bezeichnung `m-page-navigation` an.
 
 
 ## Step 1: Hauptmenü überarbeiten
 Tauschen Sie die Links im Hauptmenü durch folgende Navigationspunkte aus
-* User Experience Design
-* Community-Centered Design
-* Human-Centered Design
-* Four different phases in HCD
-* Design Thinking
-
-Verknüpfen Sie die einzelnen Navigationspunkte über IDs mit den gleichnamigen Headlines.
+* Design Priciples
+* Design Methods
+* Kommentare
+* 
+Verknüpfen Sie die einzelnen Navigationspunkte über IDs mit den gleichnamigen Sektionen.
 
 ## Step 2: JavaScript Datei erzeugen und einbinden
 Erzeugen Sie einen `scripts` Ordner in ihrem Projektordner und darin eine Datei `main.js`.
