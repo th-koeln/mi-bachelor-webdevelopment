@@ -11,6 +11,17 @@ Das ist ein Guide, um den Linter für CSS (hier [StyleLint](https://stylelint.io
 
 ---
 
+## Prenote: Gitignore
+
+Wir arbeiten ab jetzt mit Abhängigkeiten, die wir nicht alle in unserer Git-History haben wollen. Um dies zu verhinden sind `.gitignore` Dateien sehr wertvoll. Dort können Dateien und ganze Ordner ignoriert werden. ([Eine kleine Erklärung](https://www.freecodecamp.org/news/gitignore-what-is-it-and-how-to-add-to-repo/))
+
+Es empfiehlt sich vorgefertigte Templates zu verwenden. Die gibt es unteranderm hier: [gitingore.io](https://gitignore.io)
+
+Also:
+
+1. `.gitignore` anlegen
+2. Auf der [gitingore.io](https://gitignore.io) beispielweise folgende Templates wählen: macos, windows, visualstudiocode, node
+
 ## Abhängigkeiten klären
 
 In dem Workspace muss sich eine `package.json` befinden. Alle benötigten NPM-Packete weden als Dev-Depencies eingefügt (Befehl: `npm install -D <PACKETNAME>`):
