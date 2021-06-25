@@ -4,7 +4,7 @@ tags: JavaScript
 published: true
 ---
 
-Ausgangspunkt zur Bearbeitung der Aufgaben der Code aus der Aufgabe „[Refactoring CUBE CSS](/mi-bachelor-webdevelopment/assignments/refactoring-cube-css/)”. Legen Sie zunächst einen neuen Zweig mit der Bezeichnung `m-page-navigation` an.
+Ausgangspunkt zur Bearbeitung der Aufgaben ist das [Classroom Assignment](https://classroom.github.com/a/nGvbYElN).
 
 
 ## Step 1: Hauptmenü überarbeiten
