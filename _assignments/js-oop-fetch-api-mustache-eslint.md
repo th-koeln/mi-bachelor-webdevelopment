@@ -35,6 +35,6 @@ Das Markup für den Kommentarblock soll nun über die [Mustache Template Engine]
 Erstellen Sie dazu ein Mustache Template auf Basis des JSON Files für den Kommentarblock und erzeugen Sie JavaScript Code welches mit Hilfe des Templates und des nachgeladenen JSON Files das Markup für den Kommentarblock erzeugt.
 
 ## Step 7: ESLint und Airbnb einbinden und Code optimieren
-Binden Sie ESlint und die Konfiguration für den Airbnb Styleguide in ihr Projekt ein.
+[Binden Sie ESlint und die Konfiguration für den Airbnb Styleguide in ihr Projekt ein.](https://dev.to/bigyank/a-quick-guide-to-setup-eslint-with-airbnb-and-prettier-3di2)
 
 Optimieren Sie ihren Code dahingegend, dass der Linter keine Fehler mehr anzeigt.
