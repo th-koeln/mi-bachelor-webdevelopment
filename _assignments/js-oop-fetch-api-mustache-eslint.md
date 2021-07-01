@@ -12,9 +12,7 @@ Bitte comitten und pushen Sie ihren Code nach jedem Step.
 Optimieren Sie die Struktur des JavaScripts für die Page Navigation, in dem Sie den Code in einer Klasse kapseln.
 
 ## Step 3: JSON via fetch API laden
-Laden Sie das [Content Pack](https://github.com/th-koeln/mi-bachelor-webdevelopment/raw/master/material/frontend-development/content-pack.zip) herunter und kopieren Sie die Daten in ihr Projektverzeichnis.
-
-Laden Sie das JSON File asynchron via JavaScript über die fetchAPI nach.
+Laden Sie das Comment JSON File asynchron via JavaScript über die fetchAPI nach. Nutzen Sie hierfür entweder das online bereit gestellte [Comment JSON File](https://mi-classroom.github.io/fd-2021-content/js-session-2/comments.json) oder laden Sie das [Content Pack](https://github.com/th-koeln/mi-bachelor-webdevelopment/raw/master/material/frontend-development/content-pack.zip) herunter und kopieren Sie die Daten in ihr Projektverzeichnis.
 
 ## Step 4: Markup für Kommentare generieren
 Erzeugen Sie Javascript Code, welches auf Basis des zuvor geladenen JSON Files, Markup für die Kommentare unterhalb des Formulares erzeugt. 
@@ -22,7 +20,7 @@ Erzeugen Sie Javascript Code, welches auf Basis des zuvor geladenen JSON Files, 
 Dargestellt werden soll: 
 * der Vorname und Nachame
 * das Datum an dem der Kommentar verfasst wurde 
-* und ein Bild von dem Verfasser.
+* und ein Bild von dem Verfasser. Der Basispfad für die Bilder ist `https://mi-classroom.github.io/fd-2021-content/js-session-2/avatars/`.
 
 ## Step 5: Layout von Kommentarblock anpassen
 Passen Sie das Layout des Kommentarblocks so an, dass er stimmig zur restlichen Seite ist.
