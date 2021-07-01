@@ -12,7 +12,7 @@ Bitte comitten und pushen Sie ihren Code nach jedem Step.
 Optimieren Sie die Struktur des JavaScripts für die Page Navigation, in dem Sie den Code in einer Klasse kapseln.
 
 ## Step 3: JSON via fetch API laden
-Laden Sie das [Content Pack](../../material/frontend-development/content-pack.zip) herunter und kopieren Sie die Daten in ihr Projektverzeichnis.
+Laden Sie das [Content Pack]((https://github.com/th-koeln/mi-bachelor-webdevelopment/raw/master/material/frontend-development/content-pack.zip) herunter und kopieren Sie die Daten in ihr Projektverzeichnis.
 
 Laden Sie das JSON File asynchron via JavaScript über die fetchAPI nach.
 
