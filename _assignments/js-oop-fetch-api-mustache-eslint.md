@@ -28,9 +28,9 @@ Dargestellt werden soll:
 Passen Sie das Layout des Kommentarblocks so an, dass er stimmig zur restlichen Seite ist.
  
 ## Step 6: Markup via Mustache Templates
-Binden Sie die Mustache Template Engine via CDN ein.
+Binden Sie die [Mustache Template Engine via CDN](https://www.jsdelivr.com/package/npm/mustache) ein.
 
-Das Markup für den Kommentarblock soll nun über die Mustache Template Engine erzeugt werden.
+Das Markup für den Kommentarblock soll nun über die [Mustache Template Engine](https://github.com/janl/mustache.js) erzeugt werden.
 
 Erstellen Sie dazu ein Mustache Template auf Basis des JSON Files für den Kommentarblock und erzeugen Sie JavaScript Code welches mit Hilfe des Templates und des nachgeladenen JSON Files das Markup für den Kommentarblock erzeugt.
 
