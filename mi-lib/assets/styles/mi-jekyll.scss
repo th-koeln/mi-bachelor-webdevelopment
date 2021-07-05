@@ -222,12 +222,11 @@ $tt-grid-height: 60px;
 /**************/
 
 .is-tab-wrap {
-  display: flex;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: repeat( auto-fit, minmax(20rem, 1fr) );
+  gap: $bfs;
 
   .card {
-    display: flex;
-    flex-direction: column;
     box-shadow: none;
     border-top: solid 1px $mi-gruen;
 
@@ -778,7 +777,7 @@ $tt-grid-height: 60px;
 //@import "highlights";
 @import "svg-icons";
 
-.highlight {
+.content .highlight {
   border: none;
   box-shadow: none;
   overflow: auto;
@@ -789,9 +788,6 @@ $tt-grid-height: 60px;
   padding: 0;
   text-align: left;
 
-  pre{
-    padding: $bfs;
-  }
 
   code{
     color: #000;
@@ -806,6 +802,11 @@ $tt-grid-height: 60px;
     font-weight: bold;
   }
 }
+
+.highlighter-rouge{
+  margin-bottom: $bfs;
+}
+
 
 
 /* Für die fianle Version werden ein paar Angaben nicht gezeigt */

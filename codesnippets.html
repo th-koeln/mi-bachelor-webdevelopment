@@ -2,71 +2,29 @@
 layout: default
 ---
 
-{% assign codesnippets = site.codesnippets | sort: 'title' %}
-{% assign tabtags = "HTML|CSS|SASS|npm|misc" | split: "|" %}
+{% assign codesnippets = site.codesnippets | sort : 'title' %}
 
 <section class="section">
   <div class="container">
-
     <h1 class="title is-1">Codesnippets</h1>
     <h2 class="subtitle">Hier die Übersicht über alle Snippets.</h2>
-
   </div>
-
 </section>
+
 <section class="section">
   <div class="container">
-    <div class="columns">
-      <div class="column">
-        <nav class="panel">
-          <p class="panel-heading">
-            Kategorien
-          </p>
-          <a class="panel-block" data-tab="overview-item">
-            <span class="panel-icon">
-              <i class="fa fa-book"></i>
-            </span> Alle
-          </a>
-          {% for navEle in tabtags %}
-          <a class="panel-block" data-tab="{{navEle}}">
-            <span class="panel-icon">
-              <i class="fa fa-book"></i>
-            </span> {{navEle}}
-          </a>
-          {% endfor %}
-        </nav>
-      </div>
-
-      <div class="assignments is-tab-content column is-two-thirds is-overview-item">
-        <div class="content assignment-overview">
-          {% for codesnippet in codesnippets %}
-          <div class="assignment-overview__item">
-            <a href="{{codesnippet.url | relative_url}}">
-            <h2 class="title is-2" id="{{ codesnippet.id }}">{{ codesnippet.titel }}</h2>
-            <p class="tag is-rounded" style="color: #999999;">{{codesnippet.tags | join:' '}}</p>
-            </a>
-          </div>
-          {% endfor %}
-        </div>
-      </div>
-
-      {% for navEle in tabtags %}
-      <div class="assignments is-tab-content column is-two-thirds is-{{navEle}}">
-        <div class="content assignment-overview">
-
-          {% for assignment in assignments %} {% if assignment.tags contains navEle %}
-          <div class="assignment-overview__item">
-              <a href="{{codesnippet.url | relative_url}}">
-              <h2 class="title is-2" id="{{ codesnippet.id }}">{{ codesnippet.titel }}</h2>
-              <p class="tag is-rounded" style="color: #999999;">{{codesnippet.tags | join:' '}}</p>
-              </a>
+    <div class="content grid-overview is-tab-wrap">
+      {% for codesnippet in codesnippets %}
+        
+          <div class="card" data-href="{{codesnippet.url | relative_url}}">
+            <div class="card-header">
+              <h3 class="card-header-title" id="{{ codesnippet.id }}"><a href="{{codesnippet.url | relative_url}}">{{ codesnippet.titel }}</a></h3>
             </div>
-          {% endif %} {% endfor %}
-
-        </div>
-      </div>
+            <p>{{codesnippet.teasertext}}</p>
+            <span class="tag is-rounded" style="color: #999999;">{{codesnippet.tags | join:' '}}</span>
+          </div>
+        
       {% endfor %}
     </div>
-
   </div>
 </section>
