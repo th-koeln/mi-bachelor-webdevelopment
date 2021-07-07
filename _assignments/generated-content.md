@@ -1,5 +1,5 @@
 ---
-titel: Generated Code & Content
+titel: Generated Code & Content via 11ty
 tags: 
   - Generated Code
   - Frontend-Development
