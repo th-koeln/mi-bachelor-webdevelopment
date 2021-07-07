@@ -1,6 +1,8 @@
 ---
 titel: Javascript // Dropdown Menü und Slideshow
-tags: Javascript
+tags: 
+  - Javascript
+  - Frontend-Development
 ---
 
 Ausgangspunkt zur Bearbeitung der Aufgaben ist der Code aus der Musikfestivals Aufgabe. Dieser ist über folgenden [Einladungslink](https://classroom.github.com/a/6OEnL7PT) erreichbar.

@@ -1,6 +1,9 @@
 ---
 titel: CSS Refactoring mit SASS, Integration von Stylelint
-tags: CSS, SASS
+tags: 
+  - CSS
+  - SASS
+  - Frontend-Development
 published: true
 ---
 

@@ -1,6 +1,8 @@
 ---
 titel: CSS Layouts
-tags: CSS
+tags: 
+  - CSS
+  - Frontend-Development
 published: true
 ---
 
