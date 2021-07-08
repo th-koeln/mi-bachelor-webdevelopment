@@ -1,10 +1,12 @@
 ---
 titel: Javascript Page Navigation
-tags: JavaScript
+tags: 
+  - JavaScript
+  - Frontend-Development
 published: true
 ---
 
-Ausgangspunkt zur Bearbeitung der Aufgaben ist das [Classroom Assignment](https://classroom.github.com/a/nGvbYElN).
+Nutzen Sie als Codebasis Ausgangspunkt zur Bearbeitung der Aufgaben ist das [Classroom Assignment](https://classroom.github.com/a/nGvbYElN).
 
 
 ## Step 1: Hauptmenü überarbeiten
