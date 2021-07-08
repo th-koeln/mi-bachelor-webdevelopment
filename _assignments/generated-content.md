@@ -1,5 +1,5 @@
 ---
-titel: Generated Code & Content
+titel: Generated Code & Content via 11ty
 tags: 
   - Generated Code
   - Frontend-Development
@@ -23,4 +23,20 @@ Nutzen Sie die Konfigurationsdatei, die in den [Nunjucks Code Snippets](/mi-bach
 - nutzen Sie die Schleife, die in den [Nunjucks Code Snippets](/mi-bachelor-webdevelopment/codesnippets/nunjucks-commands/)
 - binden Sie die Navigation in Ihr Default Template ein
 
+## Aufgabe 3: Generierter Content aus JSON Daten
 
+Laden Sie die [`paintings.json`](https://mi-classroom.github.io/fd-2021-content/js-session-3/paintings.json) herunter und speichern Sie die Datein im `_data` Verzeichnis Ihres Projekts. 
+
+Legen Sie dann eine Datei `paintings.html` im `src` Folder an. Diese sollte folgenden *Font Matter* haben
+
+```
+---
+title: News
+layout: default.njk
+---
+
+```
+
+Via `paintings.items` können Sie nun auf die einzelnen Einträge zugreifen. Erzeugen Sie nun eine Übersicht der Bilder mit *title*, *subtitle* und *data*.
+
+Im Tutorial [Generate Page Content From a Global Data File Using Eleventy](https://tannerdolby.com/writing/generate-page-content-from-a-global-data-file-using-eleventy/) gibt es noch ein paar Hilfen und Hinweise.
