@@ -23,7 +23,7 @@ Nutzen Sie die Konfigurationsdatei, die in den [Nunjucks Code Snippets](/mi-bach
 - nutzen Sie die Schleife, die in den [Nunjucks Code Snippets](/mi-bachelor-webdevelopment/codesnippets/nunjucks-commands/)
 - binden Sie die Navigation in Ihr Default Template ein
 
-## Aufgabe 3: Generierte Content aus JSON Daten
+## Aufgabe 3: Generierter Content aus JSON Daten
 
 Laden Sie die [`paintings.json`](https://mi-classroom.github.io/fd-2021-content/js-session-3/paintings.json) herunter und speichern Sie die Datein im `_data` Verzeichnis Ihres Projekts. 
 
