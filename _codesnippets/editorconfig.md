@@ -15,7 +15,7 @@ Für die 4 Spaces Fraktion:
 
 `/.editorconfig`
 
-```editorconfig
+```
 # EditorConfig is awesome: https://EditorConfig.org
 
 # top-most EditorConfig file
@@ -37,7 +37,7 @@ Für die 2 Spaces Fraktion:
 
 `/.editorconfig`
 
-```editorconfig
+```
 # EditorConfig is awesome: https://EditorConfig.org
 
 # top-most EditorConfig file
