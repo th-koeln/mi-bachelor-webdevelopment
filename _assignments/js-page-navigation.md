@@ -2,7 +2,6 @@
 titel: Javascript Page Navigation
 tags: 
   - JavaScript
-  - Frontend-Development
 published: true
 ---
 

@@ -2,7 +2,6 @@
 titel: StyleLint Setup
 tags:
  - Tooling
- - Frontend-Development
  - CSS
 published: true
 ---

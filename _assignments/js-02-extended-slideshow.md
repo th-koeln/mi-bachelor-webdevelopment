@@ -1,8 +1,7 @@
 ---
-titel: Javascript // extended Slideshow
+titel: JavaScript // extended Slideshow
 tags:
-  - Javascript
-  - Frontend-Development
+  - JavaScript
 ---
 
 Die Aufgaben bauen auf die [vorangegangene JavaScript Übung](../js-01-dropdown-menu-slideshow/) auf.

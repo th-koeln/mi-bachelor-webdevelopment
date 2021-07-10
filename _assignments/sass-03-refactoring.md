@@ -1,6 +1,8 @@
 ---
 titel: SASS Refactoring
-tags: CSS, SASS
+tags:
+  - CSS
+  - SASS
 ---
 
 Diese Aufgabe baut auf [SASS Advanced Setup](../sass-02-advanced-setup/) auf.

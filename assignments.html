@@ -3,7 +3,9 @@ layout: default
 ---
 
 {% assign assignments = site.assignments | where: "published", "true" | sort: 'title' %}
-{% assign tabtags = "Frontend-Development|Tooling|HTML|CSS|JavaScript|SASS|Misc" | split: "|" %}
+{% include functions/assignment-tags.html list=assignments %}
+{% assign tabtags = list %}
+
 
 <section class="section">
   <div class="container">
@@ -26,7 +28,7 @@ layout: default
             </span> Alle
           </a>
           {% for navEle in tabtags %}
-          <a class="panel-block" data-tab="{{navEle}}">
+          <a class="panel-block" data-tab="{{ navEle | replace: ' ', '-' | replace: '#', '_' | replace: '.', '-'}}">
             <span class="panel-icon">
               <i class="fa fa-book"></i>
             </span> {{navEle}}
@@ -53,7 +55,7 @@ layout: default
       </div>
 
       {% for navEle in tabtags %}
-      <div class="assignments is-tab-content column is-two-thirds is-{{navEle}}">
+      <div class="assignments is-tab-content column is-two-thirds is-{{ navEle | replace: ' ', '-' | replace: '#', '_' | replace: '.', '-'}}">
         <div class="content assignment-overview">
 
           {% for assignment in assignments %} {% if assignment.tags contains navEle %}

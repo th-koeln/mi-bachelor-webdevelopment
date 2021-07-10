@@ -2,7 +2,6 @@
 titel: Styling Text via CSS
 tags: 
   - CSS
-  - Frontend-Development
 ---
 
 

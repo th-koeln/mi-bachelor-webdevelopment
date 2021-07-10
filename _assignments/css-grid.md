@@ -2,7 +2,6 @@
 titel: CSS Grid
 tags: 
   - CSS
-  - Frontend-Development
 published: true
 ---
 

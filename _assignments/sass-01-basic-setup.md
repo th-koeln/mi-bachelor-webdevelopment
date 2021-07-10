@@ -3,7 +3,6 @@ titel: SASS Basic Setup
 tags: 
   - CSS
   - SASS
-  - Frontend-Development
 ---
 
 Bitte *klonen* Sie folgenden [SASS Startercode](https://github.com/cnoss/sass-startercode) auf Ihren lokalen Rechner. 

@@ -2,7 +2,6 @@
 titel: Semantisches HTML 1
 published: true
 tags:
- - Frontend-Development
  - HTML
 ---
 

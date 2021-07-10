@@ -146,6 +146,8 @@ panelTabs.func = (function () {
     var target_id = ele.getAttribute('data-tab');
     var targets = document.querySelectorAll('.is-' + target_id);
 
+    console.log(target_id, targets);
+
     // Content ausblenden
     var items = document.querySelectorAll('.is-tab-content');
 

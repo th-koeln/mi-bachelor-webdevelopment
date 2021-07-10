@@ -1,6 +1,8 @@
 ---
 titel: SASS Advanced Setup
-tags: CSS, SASS
+tags:
+  - CSS
+  - SASS
 ---
 
 Diese Aufgabe baut auf [SASS Basic Setup](../sass-01-basic-setup/) auf.

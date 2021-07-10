@@ -1,0 +1,35 @@
+{% comment %}##################################################################
+-------------------------------------------------------------------------------
+
+function assignment tags
+
+input:
+include.list: Liste der anzuzeigenen Aufgaben (mit `tag`)
+
+output:
+Erzeugt eine Liste an verwendeten Tags alphabetisch geordnet
+
+Aufruf:
+{% include functions/assignment-tags.html list=assignments %}
+
+author:
+finnge
+
+-------------------------------------------------------------------------------
+###############################################################{% endcomment %}
+
+{% if include.list %}
+
+  {% assign list = "" | split: ',' %}
+
+  {% for item in include.list %}
+
+    {% for tag in item.tags %}
+    {% assign list = list | push: tag %}
+    {% endfor %}
+
+  {% endfor %}
+
+  {% assign list = list | sort | uniq %}
+
+{% endif %}

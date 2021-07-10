@@ -1,6 +1,7 @@
 ---
 titel: Javascript OOP, fetch API, Mustache Templates, ESLint
-tags: JavaScript
+tags:
+  - JavaScript
 published: true
 ---
 

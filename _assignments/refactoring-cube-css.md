@@ -1,6 +1,8 @@
 ---
 titel: Refactoring CUBE CSS
-tags: CSS, SASS
+tags:
+  - CSS
+  - SASS
 published: true
 ---
 

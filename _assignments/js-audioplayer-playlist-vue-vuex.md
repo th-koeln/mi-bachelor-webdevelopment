@@ -1,6 +1,7 @@
 ---
 titel: Javascript // Playlist und Audioplayer mit Vue.js und Vuex
-tags: Javascript
+tags:
+  - JavaScript
 ---
 
 

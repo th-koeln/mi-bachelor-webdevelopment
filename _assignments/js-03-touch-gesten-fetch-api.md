@@ -1,6 +1,7 @@
 ---
 titel: Javascript // Touch Gesten und Fetch API
-tags: Javascript
+tags:
+  - Javascript
 ---
 
 Die Aufgaben bauen auf der [vorangegangenen JavaScript Übung](../js-02-extended-slideshow/) auf.

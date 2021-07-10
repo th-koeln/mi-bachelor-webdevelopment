@@ -2,7 +2,6 @@
 titel: async / await und modules
 tags: 
   - JavaScript
-  - Frontend-Development
 published: true
 ---
 

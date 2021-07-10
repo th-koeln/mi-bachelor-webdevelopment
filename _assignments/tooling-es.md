@@ -2,8 +2,7 @@
 titel: ESLint Setup
 tags:
  - Tooling
- - Frontend-Development
- - Javascript
+ - JavaScript
 published: true
 ---
 

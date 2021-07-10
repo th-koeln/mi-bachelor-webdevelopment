@@ -2,8 +2,7 @@
 titel: Kommentarblock mit Vue.js 
 tags: 
   - JavaScript
-  - Frontend-Development
-  - Vue
+  - Vue.js
 published: true
 ---
 Nutzen Sie ihren aktuellen Code als Ausgangspunkt oder die [Version v5.1.0 von Christian Noss](https://github.com/cnoss/fd-2021/releases/tag/v5.1.0)

@@ -2,7 +2,6 @@
 titel: Semantisches HTML 2 // Formulare & Text Styling
 published: true
 tags:
- - Frontend-Development
  - HTML
  - CSS
 ---

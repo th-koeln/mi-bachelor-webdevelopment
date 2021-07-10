@@ -1,7 +1,6 @@
 ---
 titel: Mobile First
 tags:
- - Frontend-Development
  - CSS
 published: true
 ---
