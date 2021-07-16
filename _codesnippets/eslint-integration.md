@@ -1,12 +1,11 @@
 ---
-titel: ESLint Setup
-tags:
- - Tooling
- - JavaScript
-published: true
+titel:  ESLint Setup
+autor: vs
+tags: Tools
+teasertext: Einrichten von ES Lint
 ---
 
-Dies ist ein Guide, zur Einrichtung von ESLint mit dem Airbnb Style Guide.
+Dies ist ein Guide zur Einrichtung von ESLint mit dem Airbnb Style Guide.
 
 ---
 
@@ -14,12 +13,16 @@ Dies ist ein Guide, zur Einrichtung von ESLint mit dem Airbnb Style Guide.
 
 Im aktuellen Workspace muss sich eine `package.json` befinden. Das benötigte Paket wird als Dev-Depencies eingefügt.
 
-`npm install eslint --save-dev`
+```bash
+npm install eslint --save-dev
+```
 
 ## ESLint konfigurieren
 
 Zum Konfigurieren von ESLint wird der Konfigurationsassistent aufgerufen. In diesem Zuge wird eine Konfigurationsdatei `.eslintrc.js` erstellt, welche die Konfigurationsdatei des Airbnb Styleguides einbindet.
-`npx eslint --init`
+```bash
+npx eslint --init
+```
 
 Bitte die Fragen des Assistenten wie folgt beantworten:
 ```
@@ -60,7 +63,7 @@ Does your project use TypeScript? › [No] / Yes
   Inspect your JavaScript file(s)
 ```
 
-```tex
+```
 ? Which style guide do you want to follow? …
 ❯ Airbnb: https://github.com/airbnb/javascript
   Standard: https://github.com/standard/standard
@@ -78,19 +81,16 @@ Does your project use TypeScript? › [No] / Yes
 In der `package.json` sollten die Dependencies nun definiert sein. Um ESLint auszuführen wird der Befehl `eslint` benutzt. Dazu müssen die entsprechende Script-Befehle in der `package-json` eingefügt werden:
 
 ```json
-
 {
-    ...
-    "scripts": {
-        "js:lint": "eslint scripts/**/*.js",
-        "js:lint:fix": "eslint scripts/**/*.js --fix",
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    ...
+"scripts": {
+    "js:lint": "eslint scripts/**/*.js",
+    "js:lint:fix": "eslint scripts/**/*.js --fix",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
 }
 ```
 
-`js:lint` führt den Linter für alle Dateien mit der Endung `js` innerhalb des `scripts` Ordners und deren Unterordner aus.
+`js:lint` führt den Linter für alle Dateien mit der Endung `js` innerhalb des `scripts` Ordners und deren Unterordnern aus.
 
 `js:lint:fix` hat die gleiche Funktion, versucht aber zudem Probleme die der Linter findet zu beheben.
 
@@ -121,6 +121,7 @@ Um Linter Fehler automatisch beim Speichern der Datei, welche man gerade editier
     "source.fixAll.eslint": true
 }
 ```
+
 
 
 
