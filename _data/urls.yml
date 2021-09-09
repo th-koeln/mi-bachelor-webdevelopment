@@ -25,3 +25,11 @@ zoom-iot:
 zoom-tooling:
   name: "Zoom (Meeting-ID: 83079515782, Kenncode im Ilias)"
   url: https://th-koeln.zoom.us/j/83079515782
+
+zoom-support:
+  name: "Zoom (Meeting-ID: 84088847215, Kenncode: 586366)"
+  url: https://th-koeln.zoom.us/j/84088847215
+
+zoom-pruefung:
+  name: "Zoom (Meeting-ID: 6078076173, Kenncode: noss)"
+  url: https://th-koeln.zoom.us/j/6078076173

@@ -1,29 +1,49 @@
 ---
-titel: Coding Challenge // Prüfungsteil 2
+titel: Prüfung // Coding Challenge
 kuerzel: fd
 verantwortlich: cn
 typ: fd
 pflicht: false
-termine: 12020-09-11 10:00
+termine: 2021-09-16 10:00
 empfohlene-voraussetzungen: 
-published: false
+published: true
 dauer: 240
-raum: zoom-fd
+raum: zoom-pruefung
 info: 
 ---
 
-Basis für die heutige Aufgabe ist das Ergebnis Ihres Minipropjekts. Nutzen Sie Ihr bestehendes Repo zur Implementierung. 
-
-## Aufgabe 
-Es gilt die bestehende Anwendung um ein kleines Einstellungsmenü und einen «About us» Text (nur Desktop) zu erweitern. Darüber hinaus soll die Funktion «Größe der Vorschaugbilder» implementiert werden. Hier soll es mindestens zwei Größen geben: klein und groß. Die Layouts für das Miniprojekt zeigen die Größe «klein». In der großen Darstellungsvariante, die hier implementiert werden soll, sollten die Vorschaubilder etwa 1,5 mal so groß sein.
-
-Layouts für das Einstellungsmenü sind wieder im «Content Pack» hinterlegt. Auch der «About us» Text. Bitte erzeugen Sie nicht zu viele, dafür übersichtliche Commits für die Implementierung.
 
 ## Niveaustufen
-Es gelten die selben [Niveaustufen wie beim Miniprojekt](/mi-bachelor-webdevelopment/lehrveranstaltungen/fd-pruefung-teil-1/).
 
-## Material
-- [Content Pack](https://github.com/mi-classroom/content-pack-wd-miniprojekt-2020)
+### Beste Lösung
+- die **Must Features** sind vollständig umgesetzt und funktionieren
+- die Änderungen für die Features sind in der Commit Historie ersichtlich und verständlich erklärt
+- alle Features sind gepusht
+- ein Zusatz-Feature ist implementiert und funktioniert
+- der erzeugte Code zeigt, dass der Verfasser\*In ein sehr gutes Verständnis der zugrunde liegenden Technologien und Konzepte hat 
+- die Änderungen wurden im Sinne der Projektstruktur in den passenden Dateien gemacht
+- der erzeugte Code ist nachvollziehbar, selbsterklärend und effizient (semantisches HTML, Nutzung von SCSS & Custom Properties, robustes Javascript)
+
+### Gute Lösung
+- die **Must Features** sind vollständig umgesetzt und funktionieren
+- die Änderungen für die Features sind in der Commit Historie ersichtlich
+- alle Features sind gepusht
+- die Änderungen wurden im Sinne der Projektstruktur in den passenden Dateien gemacht
+- der erzeugte Code zeigt, dass der Verfasser\*In ein gutes Verständnis der zugrunde liegenden Technologien und Konzepte hat
+- der erzeugte Code ist nachvollziehbar, selbsterklärend und effizient (semantisches HTML, Nutzung von SCSS & Custom Properties, robustes Javascript)
+
+### Passable Lösung
+- die **Must Features** sind vollständig umgesetzt und funktionieren mir kleinen Ausnahmen
+- die Änderungen für die Features sind in der Commit Historie ersichtlich
+- alle Features sind gepusht
+- der erzeugte Code zeigt, dass der Verfasser\*In ein grundlegendes Verständnis der zugrunde liegenden Technologien und Konzepte hat
+
+### Akzeptable Lösung
+- die meisten **Must Features** sind vollständig umgesetzt und funktionieren überwiegend
+- die Änderungen für die Features sind in der Commit Historie ersichtlich
+- die Änderungen sind gepusht
+- der erzeugte Code zeigt, dass der Verfasser\*In die zugrunde liegenden Technologien und Konzepte in wesentlichen Teilen verstanden hat
+
 
 ## Fixes
 - none
