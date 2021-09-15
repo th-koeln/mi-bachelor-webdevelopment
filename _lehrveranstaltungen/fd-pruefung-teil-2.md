@@ -46,4 +46,18 @@ info:
 
 
 ## Fixes
-- none
+
+
+### Problem bei `npm run live`
+
+Beim Ausführen des `npm run live` kommt folgender Fehler:
+
+```
+sh: serve: command not found
+```
+
+Hier fehlt ein Paket, welches noch installiert werden muss:
+
+```
+npm install serve -D
+```
