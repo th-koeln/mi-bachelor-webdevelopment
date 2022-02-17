@@ -4,10 +4,10 @@ kuerzel: tooling
 verantwortlich: fg, cn
 typ: tooling
 pflicht: false
-termine: 2021-04-15 12:00
+termine: 2022-03-31 13:00
 empfohlene-voraussetzungen: 
 published: true
-dauer: 90
+dauer: 180
 raum: zoom-tooling
 info: Eine Einführung in Git, die Verwendung eines Terminals und die Verwendung einer IDE
 ---
@@ -15,7 +15,7 @@ info: Eine Einführung in Git, die Verwendung eines Terminals und die Verwendung
 
 ## Worum geht es?
 - Einführung in die Benutzungen eines Terminals 
-- Git Basics
+- Git
 - Verbindung aufbauen mit ADV Server über SSH/SFTP
 - “Hello World!” via VIM auf ADV Server
 - “Hello World!” via Git auf ADV Server deployen
@@ -72,15 +72,3 @@ Die Aufzeichnung der Tooling Session ist via [Ilias](https://ilias.th-koeln.de/g
 - [Regex 101](https://regex101.com/)
 - [Visual Studio Code MacOS Cheat Sheet](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
 - [Visual Studio Code Windows Cheat Sheet](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
-
-## Online Session
-Die heutige Veranstaltung wird nicht vor Ort in Gummersbach stattfinden, sondern als Online Veranstaltung.
-
-Wir treffen uns im oben angegebenen Raum. Wenn Sie den Raum betreten, geben Sie bitte Vor- und Nachnamen als Usernamen an, damit wir die Personen in dem Raum zuordnen können. Es werden voraussichtlich relativ viele Personen sein, die sich gleichzeitg in der Online Konferenz befinden. Das ist eine kleine Herausforderung. Um störende Nebengeräusche während der Veranstaltung zu vermeiden, gibt es folgende Dinge zu beachten:
-
-- benutzen Sie nach Möglichkeit ein Headset oder sorgen Sie dafür, dass Sie in einem ruhigen Raum sitzen
-- muten Sie bitte ihr Mikrofon, wenn Sie nicht sprechen
-- prüfen Sie bitte, am Besten vor der Veranstaltung, ob die korrekten Audio Ein- und Ausgabegeräte auf ihrem Computer eingestellt sind
-- bitte geben Sie beim Beitritt in die Session Ihren vollen Namen ein
-
-Prüfen Sie diese Seite bitte, falls Sie nicht in den Raum kommen, denn ggf. müssen wir den Raum kurzfristig wechseln.

@@ -1,15 +1,15 @@
 ---
-titel: Input
+titel: Kick-off
 kuerzel: iot
 verantwortlich: mb
 typ: iot
 pflicht: false
-termine: 2021-07-15 09:00
+termine: 2022-03-29 10:00
 empfohlene-voraussetzungen: 
-published: false
-dauer: 240
+published: true
+dauer: 180
 raum: zoom-iot
 info: Heute geht es um …
 ---
 
-Infos gibt es auf der [Website zum Kurs](https://moxd.io/iot2020).
+Infos gibt es auf der [Website zum Kurs](https://moxd.io/iot2022).

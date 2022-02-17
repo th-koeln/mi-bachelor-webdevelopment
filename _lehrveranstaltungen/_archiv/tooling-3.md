@@ -6,7 +6,7 @@ typ: tooling
 pflicht: false
 termine: 12022-05-06 09:00
 empfohlene-voraussetzungen: 
-published: true
+published: false
 dauer: 240
 raum: zoom-tooling
 info: Heute geht es um …
