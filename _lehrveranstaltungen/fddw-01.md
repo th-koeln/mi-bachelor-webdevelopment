@@ -1,10 +1,10 @@
 ---
 titel: Workshop 1
 kuerzel: fddw
-verantwortlich: db
+verantwortlich: db, mf
 typ: fddw
 pflicht: false
-termine: 2021-05-27 13:00
+termine: 2022-05-19 13:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 240

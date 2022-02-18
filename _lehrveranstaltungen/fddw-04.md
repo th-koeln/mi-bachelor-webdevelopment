@@ -1,10 +1,10 @@
 ---
 titel: Workshop 3
 kuerzel: fddw
-verantwortlich: db
+verantwortlich: db, mf
 typ: fddw
 pflicht: false
-termine: 2021-06-24 13:00
+termine: 2022-06-09 13:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 240

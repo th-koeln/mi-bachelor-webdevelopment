@@ -4,10 +4,10 @@ kuerzel: pits
 verantwortlich: sk
 typ: pits
 pflicht: false
-termine: 2022-04-05 09:00, 2022-04-12 09:00, 2022-04-19 09:00, 2022-04-26 09:00, 2022-05-03 09:00, 2022-05-10 09:00, 2022-05-17 09:00, 2022-05-24 09:00, 2022-05-31 09:00, 2022-06-07 09:00, 2022-06-14 09:00, 2022-06-21 09:00, 2022-06-28 09:00, 2022-07-05 09:00
+termine: 2022-03-29 13:00
 empfohlene-voraussetzungen: 
 published: true
-dauer: 480
+dauer: 240
 raum: KDTS Labor
 ---
 

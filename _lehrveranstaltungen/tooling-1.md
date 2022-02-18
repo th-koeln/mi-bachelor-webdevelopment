@@ -1,13 +1,13 @@
 ---
 titel: Lokale Entwicklungsumgebung und Basics
 kuerzel: tooling
-verantwortlich: fg, cn
+verantwortlich: mf, cn
 typ: tooling
 pflicht: false
-termine: 2022-03-31 13:00
+termine: 2022-03-31 12:00
 empfohlene-voraussetzungen: 
 published: true
-dauer: 180
+dauer: 120
 raum: zoom-tooling
 info: Eine Einführung in Git, die Verwendung eines Terminals und die Verwendung einer IDE
 ---

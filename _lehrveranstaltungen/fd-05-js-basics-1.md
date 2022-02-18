@@ -4,10 +4,10 @@ kuerzel: fd
 verantwortlich: vs
 typ: fd
 pflicht: false
-termine: 2021-06-25 09:00
+termine: 2022-06-24 10:00
 empfohlene-voraussetzungen: 
 published: true
-dauer: 480
+dauer: 420
 raum: zoom-fd
 info: Heute gibt es eine Einführung in Clientseitiges JavaScript
 ---

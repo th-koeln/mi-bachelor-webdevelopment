@@ -1,10 +1,10 @@
 ---
 titel: Meilenstein 2
 kuerzel: fddw
-verantwortlich: db
+verantwortlich: db, mf
 typ: fddw
 pflicht: false
-termine: 2021-07-01 13:00
+termine: 2022-06-17 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 240

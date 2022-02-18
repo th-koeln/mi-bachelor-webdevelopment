@@ -4,10 +4,10 @@ kuerzel: fd
 verantwortlich: cn
 typ: fd
 pflicht: false
-termine: 2021-09-15 16:00
+termine: 2022-09-14 13:00
 empfohlene-voraussetzungen: 
 published: true
-dauer: 60
+dauer: 90
 raum: zoom-support
 info: 
 ---

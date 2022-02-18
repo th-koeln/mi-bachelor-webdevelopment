@@ -4,7 +4,7 @@ kuerzel: o-ft
 verantwortlich: alle
 typ: overall
 pflicht: false
-termine: 2021-04-15 10:00
+termine: 2022-03-31 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 90
