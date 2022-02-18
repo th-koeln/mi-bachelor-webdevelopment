@@ -4,7 +4,7 @@ kuerzel: o-p2
 verantwortlich: lk,cn
 typ: other
 pflicht: false
-termine: 2021-05-17 09:00, 2021-05-18 09:00, 2021-05-19 09:00, 2021-05-20 09:00
+termine: 2022-05-09 09:00, 2022-05-10 09:00, 2022-05-11 09:00, 2022-05-12 09:00, 2022-05-13 09:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 540

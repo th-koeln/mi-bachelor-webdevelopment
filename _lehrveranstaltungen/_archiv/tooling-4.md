@@ -6,7 +6,7 @@ typ: tooling
 pflicht: false
 termine: 12022-06-10 14:00
 empfohlene-voraussetzungen: 
-published: true
+published: false
 dauer: 180
 raum: zoom-tooling
 info: Heute geht es um die Grundlagen von Docker

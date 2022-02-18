@@ -4,10 +4,10 @@ kuerzel: fd
 verantwortlich: cn
 typ: fd
 pflicht: false
-termine: 2021-06-18 09:00
+termine: 2022-06-10 10:00
 empfohlene-voraussetzungen: 
 published: true
-dauer: 480
+dauer: 420
 raum: zoom-fd
 info: Heute geht es um SASS, CSS Transitions & Responsive Design.
 ---

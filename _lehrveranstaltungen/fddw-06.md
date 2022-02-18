@@ -1,10 +1,10 @@
 ---
 titel: TBD
 kuerzel: fddw
-verantwortlich: db
+verantwortlich: db, mf
 typ: fddw
 pflicht: false
-termine: 2021-07-08 13:00
+termine: 2022-06-23 13:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 240
