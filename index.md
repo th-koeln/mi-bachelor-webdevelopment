@@ -11,9 +11,9 @@ titel: Über das Modul
 
 Das Web hat in den letzten Jahrzehnten, wie kaum eine andere Technologie, zu drastischen Veränderungen der Gesellschaft geführt und gilt auch heute noch als ein wesentlicher Innovationstreiber. Web-Technologien und Prinzipien des Webs finden in den verschiedensten Systemen, Geräten und Organisationen statt. Das Web ist ein absolut faszinierendes und lebendiges Forschungs- und Tätigkeitsfeld und seit jeher ein wesentlicher Bestandteil der Medieninformatik.
 
-### Sommersemester 2021
+### Sommersemester 2022
 
-Auch das Sommersemester 2021 wird aufgrund des [Coronavirus (Covid-19)](https://www.th-koeln.de/hochschule/coronavirus_73114.php#sprungmarke_1_199) und den damit einhergehenden Einschränkungen wieder im Wesentlichen online stattfinden.
+Auch das Sommersemester 2022 wird aufgrund des [Coronavirus (Covid-19)](https://www.th-koeln.de/hochschule/coronavirus_73114.php#sprungmarke_1_199) und den damit einhergehenden Einschränkungen wieder im Wesentlichen online stattfinden.
 
 <!--iframe width="560" height="315" src="https://www.youtube.com/embed/fNIsupAZRl4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br-->
