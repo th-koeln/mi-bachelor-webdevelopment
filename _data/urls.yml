@@ -7,12 +7,12 @@ ilias-pruefung:
   url: https://ilias.th-koeln.de/goto.php?target=crs_1161102&client_id=ILIAS_FH_Koeln
 
 zoom-webdev:
-  name: "Zoom (Meeting-ID: 83079515782, Kenncode im Ilias)"
-  url: https://th-koeln.zoom.us/j/83079515782
+  name: "Zoom (Meeting-ID: 81956272475, Kenncode im Ilias)"
+  url: https://th-koeln.zoom.us/j/81956272475
 
 zoom-fd:
-  name: "Zoom (Meeting-ID: 83079515782, Kenncode im Ilias)"
-  url: https://th-koeln.zoom.us/j/83079515782
+  name: "Zoom (Meeting-ID: 81956272475, Kenncode im Ilias)"
+  url: https://th-koeln.zoom.us/j/81956272475
 
 zoom-fddw:
   name: "Zoom (Meeting-ID: 3709124564, Kenncode im Ilias)"
@@ -23,13 +23,13 @@ zoom-iot:
   url: https://wiki.moxd.io/display/IOT2021/
 
 zoom-tooling:
-  name: "Zoom (Meeting-ID: 83079515782, Kenncode im Ilias)"
-  url: https://th-koeln.zoom.us/j/83079515782
+  name: "Zoom (Meeting-ID: 81956272475, Kenncode im Ilias)"
+  url: https://th-koeln.zoom.us/j/81956272475
 
 zoom-support:
-  name: "Zoom (Meeting-ID: 84088847215, Kenncode: 586366)"
-  url: https://th-koeln.zoom.us/j/84088847215
+  name: "Zoom (Meeting-ID: 81956272475, Kenncode im Ilias)"
+  url: https://th-koeln.zoom.us/j/81956272475
 
 zoom-pruefung:
-  name: "Zoom (Meeting-ID: 6078076173, Kenncode: noss)"
-  url: https://th-koeln.zoom.us/j/6078076173
+  name: "Zoom (Meeting-ID: 81956272475, Kenncode im Ilias)"
+  url: https://th-koeln.zoom.us/j/81956272475
