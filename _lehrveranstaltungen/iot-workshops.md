@@ -8,7 +8,7 @@ termine: 2022-04-06 10:00, 2022-04-08 10:00, 2022-04-13 10:00, 2022-04-14 10:00,
 empfohlene-voraussetzungen: 
 published: true
 dauer: 420
-raum: zoom-iot
+raum: siehe Wiki
 info: Heute geht es um IoT :-)
 ---
 
