@@ -65,7 +65,7 @@
 							<a href="{{site.baseurl}}{{veranstaltung.url}}">
 							<div class="veranstaltung {{veranstaltung.typ}}" style="margin-top: {{termin-start-min}}px;  height: {{veranstaltung.dauer}}px">
 								{% include /functions/resolve-names.html verantwortlich=veranstaltung.verantwortlich %}
-								<p class="title"><span class="is-hidden-tablet">{{termin | date: '%d. %B %Y, %H:%M Uhr'}}: </span>{{veranstaltung.titel}}</p>
+								<p class="title">asssss<span class="is-hidden-tablet">{{termin | date: '%d. %B %Y, %H:%M Uhr'}}: </span>{{veranstaltung.titel}}</p>
 
 								{% if (default-raum | append: "") != "" %}
 								{% assign raumnummer = default-raum | append: "" %}

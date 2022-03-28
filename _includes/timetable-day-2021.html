@@ -44,6 +44,7 @@
           {% assign default-data = veranstaltung.raum | split: "|" %}
           {% assign default-raum = default-data[0] %}
           
+          
           <div class="column">
             {% include /functions/resolve-types.html typ=veranstaltung.typ %}
 
@@ -57,7 +58,9 @@
 
                 {% include /functions/resolve-names.html verantwortlich=verantwortlich %}
                 <p class="title">
-                  <span class="is-hidden-tablet">{{termin | date: '%d. %B %Y, %H:%M Uhr'}}: </span>
+                  <span class="is-hidden-tablet">{{searchTermin | date: '%d. %B %Y, %H:%M Uhr'  | replace:"January","Januar" |
+  replace:"February","Februar" | replace:"March","März" | replace:"May","Mai" | replace:"June","Juni" |
+  replace:"July","Juli" | replace:"December","Dezember" | replace:"October","Oktober" %}}}: </span>
                   {% if typ-name != "none" %}{{typ-name}}{% endif %}{% if typ-name != "none" and veranstaltung.titel != "none" %}: {% endif %}{% if veranstaltung.titel != "none" %}{{veranstaltung.titel}}{% endif %}
                 </p>
 
