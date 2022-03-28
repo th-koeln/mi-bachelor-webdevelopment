@@ -7,8 +7,8 @@ pflicht: false
 termine: 2022-04-06 10:00
 empfohlene-voraussetzungen: 
 published: true
-dauer: 180
-raum: zoom-iot
+dauer: 420  
+raum: siehe Wiki
 info: Heute geht es um …
 ---
 
