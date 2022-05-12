@@ -1,5 +1,5 @@
 ---
-titel: CSS Transitions, CSS Methodologien, SASS, Templating 
+titel: CSS Transitions, CSS Methodologien, SASS 
 kuerzel: fd
 verantwortlich: cn
 typ: fd

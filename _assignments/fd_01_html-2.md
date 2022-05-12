@@ -14,7 +14,7 @@ Erzeugen Sie nun einen neuen Branch mit dem Namen `session-2` und wechseln Sie b
 
 ## HTML 2.1: CSS Styling
 
-Verändern Sie das Design der Elemente mithilfe von CSS. Binden Sie die CSS Anweisungen im *Head* der HTML Datei ein. Versuchen Sie möglichst nah an die Anmutung der PDF Vorlage zu kommen.
+Verändern Sie das Design der Elemente mithilfe von CSS. Binden Sie die CSS Anweisungen im *Head* der HTML Datei ein. Versuchen Sie sich der Anmutung der PDF Vorlage anzunähern.
 
 ## HTML 2.2: Tabellen
 
