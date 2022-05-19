@@ -9,33 +9,72 @@ empfohlene-voraussetzungen:
 published: true
 dauer: 240
 raum: zoom-fddw
-info: Heute geht es um …
+info: Heute geht es um Kick-Off der Veranstaltung
 ---
 
+## Vorraussetzungen
+
+* Die Inhalte von AP1, AP2 und GDW
+* Die Kompetenz zur Entwicklung von webbasierten Anwendungen in JavaScript
+* Die Bereitschaft und Fähigkeit zum selbstständigen Wissenserwerb
+
 ## Worum geht es?
+
 Das Ziel des Tages ist es
 - einen Überblick über die Inhalte, Anforderungen und Erfolgskriterien des Kurses erlangt zu haben,
 - die Motivation und das Grundverständnis asynchroner Systemarchitekturen aus dem Modul "Grundlagen des Web" aufgefrischt zu haben,
 - Individuelle auf die Workshopaufgabe ausgerichtete Kompetenzziele identifiziert haben und einen Plan zur Erreichung mit den Mentoren abgestimmt haben und im Git dokumentiert haben.
 - Die Aufgabe der Erstellung eines Anwendungsbeispiels in Projektform verstanden und erste Schritte zur Realisierung unternommen haben.
 
-## Ablauf
-13:00 - 14:15 Intro und Inputvorlesung /Grundlagen
+## Zielkompetenz nach Abschluss
 
-14:30 - 15:00 Vorstellung Workshopaufgabe und Organisation
-
-15:00 - 17:00 Arbeit am Projekt, individuelle Abstimmung mit Mentoren
+In der Lage sein fundierte Architekturentscheidung für ein webbasiertes Softwaresystem treffen zu können!
 
 ## Aufgabe für die kommende Veranstaltung
+
 - Erarbeiten Sie die im Grundlagenteil vorgestellten Konzepten und und die Inhalte den Kapiteln 1 (Why reactive) und 2 (A walk-through of the Reactive Manifesto) der Monographie von Kuhn die wesentlichen Begriffe und Zusammenhänge! Nutzen Sie dazu die in der Folge angegebenen Leitfragen!
-- Das GitHub Repository für die Umsetzung und Dokumentation des Anwendungsbeispiels muss vorliegen.
-- Bereiten Sie eine kurze (5-10 Minuten) Vorstellung ihres Anwendungsbeispiels vor. Dabei sollen folgende Fragen beantwortet werden:
-  - Welches Ziel wird verfolgt?
-  - Welche Herausforderungen sind zu erwarten?
-  - Welche Lösungen werden vorgeschlagen?
+- Gruppen müssen sich gebildet haben
+- Erste Idee für ein Projekt, um Fragen rechtzeitig zu klären. Die Wahl des richtigen Umfangs ist entscheidend und soll bereits vor Ausarbeitung eines Konzepts mit den Mentoren besprochen werden können.
+
+## Anwendungsbeispiel als Projekt
+
+Die Zielsetzung des Projekts lautet wie folgt:
+
+* Anwendung die in Microservices / Komponenten aufgeteilt ist
+* Asynchrone Kommunikation zwischen Microservices (bspw. durch Events)
+* Anbindung mindestens eines externen (offenen) Datendienstes
+* Es muss State geben! (Ohne State ist alles möglich)
+* Einfache! Web-UI zur Interaktion mit der Anwendung
+* Deployment der Anwendung
+* Betriebskonzept
+* Dokumentation und Nachvollziehbarkeit in GitHub
+
+## Wichtige Termine
+
+* Gruppen stehen fest (2-3 Studierende): **02.06.2022**
+  * Privates Repository für Projekt anlegen: `FDDWSS22_Nachname1Nachname2Nachname3`
+  * `README.md` mit Gruppenmitgliedern
+  * Dirk Breuer (`code-later`) und Mario Faske (`mariofaske`) zum Repository einladen
+* Vorstellung Projektkonzept: **09.06.2022**
+  * Konzept als Artefakt im Repository
+  * `README.md` mit Synopsis zum Projekt ergänzen
+* Abgabe Projekt zum **08.09.2022**
+  * Projekt vollständig in GitHub
+  * Hinreichende Dokumentation im Repository vorhanden
+  * Betriebskonzept im Repository vorhanden
+  * Anwendung ist deployed und zugänglich
+  * **Hinweis:** Um die Abnahme und Bewertung des Projekts zu erleichtern, wird die Nutzung des in [Kollaboration über Versionskontrollsysteme](https://th-koeln.github.io/mi-bachelor-webdevelopment/lehrveranstaltungen/tooling-2/) vorgeschlagenen Workflow zur Organisation vorgeschlagen (Pull-Requests mit Zusammenfassung der Änderungen und Issues zur Planung).
+* Präsentation der Projekte im Plenum: **15.09.2022**
+* Mündliche Prüfung: **23.09.2022**
+
+## Ermittlung der Note
+
+Insgesamt können 100 Punkte erreicht werden, davon 50 im Projektteil und 50 im Fachgespräch. Zum Bestehen des Moduls müssen **mindestens 48 Punkte** erzielt werden.
 
 ## Leitfragen für den Grundlagenteil
-Auf dieser Seite sind einige Fragen formuliert die zum Erarbeiten eines Verständnisses der Kapitel 1 und 2 der Monographie von Kuhn genutzt werden können. Die Fragen können auch als Grundlage der Fachdiskussion in den Workshop Terminen genutzt werden.  
+
+Auf dieser Seite sind einige Fragen formuliert die zum Erarbeiten eines Verständnisses der Kapitel 1 und 2 der Monographie von Kuhn genutzt werden können. Die Fragen können auch als Grundlage der Fachdiskussion in den Workshop Terminen genutzt werden.
+
 1. Beschreiben Sie den den Einsatz von sharding anhand des von Kuhn dargestellten fiktiven E-Mail Dienstes! 
 2. Aus welchen Gründen kann in einem verteilten System die Replikation von Daten sinnvoll sein?
 3. Beschreiben Sie die von Kuhn genannten Replikationsansätze Active-passive, Consensus-based multiple-master und Optimistic replication with conflict detection!
@@ -51,41 +90,20 @@ Auf dieser Seite sind einige Fragen formuliert die zum Erarbeiten eines Verstän
 13. Erklären Sie den Begriff resilience und grenzen Sie ihn zu den Begriffen reliability und fault tolerance ab!
 14. Zu welchem Zweck werden circuit-breaker eingesetzt und wie funktionieren sie?
 15. Was ist die Rolle eines Supervisors in einer verteilten Service Architektur?
-Erklären Sie das CAP Theorem!
-16. Aus welchem Grund verzichtet man bei reactive systems soweit möglich auf die Forderung der strong consistency?
-17. Erklären Sie die Probleme die aus network partitions entstehen anhand des hypothetischen Gmail Service!
-
-## Anwendungsbeispiel als Projekt
-
-Die Zielsetzung des Projekts lautet wie folgt:
-
-* Anwendung die in Microservices / Komponenten aufgeteilt ist
-* Asynchrone Kommunikation zwischen Microservices (bspw. durch Events) Anbindung mindestens eines externen (offenen) Datendienstes
-* Es muss State geben! (Ohne State ist alles möglich)
-* Einfache! Web-UI zur Interaktion mit der Anwendung
-* Deployment der Anwendung
-* Betriebskonzept
-
-Abgabe in GitHub bis zum **19.09.2021, 23:59 Uhr**. Die Teamgröße sollte dabei 2-3 Personen betragen. In begründeten Ausnahmefällen sind auch Einzelarbeiten möglich.
-
-Das GitHub Repository soll folgende Struktur aufweisen:
-
-* Name: `FDDWSS21_Nachname1Nachname2Nachname3`
-* `README.md` mit Projektsynopsis und Team-Mitgliedern
-* Im besten Fall wird bei der Implementierung auf den in [Kollaboration über Versionskontrollsysteme](https://th-koeln.github.io/mi-bachelor-webdevelopment/lehrveranstaltungen/tooling-2/) vorgeschlagenen Workflow zur Organisation verwendet (Pull-Requests mit Zusammenfassung der Änderungen und Issues zur Planung).
+15. Erklären Sie das CAP Theorem!
+17. Aus welchem Grund verzichtet man bei reactive systems soweit möglich auf die Forderung der strong consistency?
+18. Erklären Sie die Probleme die aus network partitions entstehen anhand des hypothetischen Gmail Service!
 
 ## Material
+
 - Das Recording zur Veranstaltung findet sich im ILIAS
-- [Sammlung der Erwartungen an die Veranstaltung](https://github.com/th-koeln/mi-bachelor-webdevelopment/raw/master/material/frameworks-dienste-und-daten/FDDW_miro_Board_Erwartungen.png)
+- [Miro Board mit Erwartungen, Wünschen, Fragen und Terminen](https://miro.com/welcomeonboard/aXI3Y3EzUHk3TVR3Z2pod3RGR0c2UEFZekJPSUF1UHk1R01RTERmZ3dLYm15RU5ScDluZ1ZjeHA1NThlTEVmOHwzMDc0NDU3MzU0MDM1Njk1MTE0?share_link_id=991062960050)
 - [Präsentation während der Veranstaltung](https://github.com/th-koeln/mi-bachelor-webdevelopment/raw/master/material/frameworks-dienste-und-daten/FDDW_Slides_01.pdf)
-- [RabbitMQ](https://www.rabbitmq.com/) - Open Source Message Broker
-- [Clients und Developer Tools für RabbitMQ](https://www.rabbitmq.com/devtools.html)
-- [Apache ActiveMQ](https://github.com/apache/activemq) - Open Source Message Broker
-- [Apache Kafka](http://kafka.apache.org/) - A distributed streaming plattform
 - [Reactive Microsystems Talk](https://www.youtube.com/watch?v=3hMtjPcU248) 
 - [Microservice Patterns und Antipatterns Talk](https://www.youtube.com/watch?v=RsyOkifmamI)
 
 ## Literatur
+
 - Edward Steel et al.: Hootsuite: In Pursuit of Reactive Systems ([Link in die ACM DL](https://dlnext.acm.org/doi/abs/10.1145/3121437.3131240))
 - J. Bonér et al.: Reactive Microsystems: The Evolution of Microservices at Scale, O'Reilly (siehe auch [Seite des Unternehmens Lightbend](https://www.lightbend.com/ebooks/reactive-microsystems-evolution-of-microservices-scalability-oreilly)), [Webinar](https://on.acm.org/c/acm-learning-webinars)
 - Roland Kuhn: Reactive Design Patterns, Manning 2017, Da die Bibliothek geschlossen, hier ein [Auszug für Ihren persönlichen Gebrauch](https://th-koeln.sciebo.de/s/lL0Qmu5Hq3OzNKB)
