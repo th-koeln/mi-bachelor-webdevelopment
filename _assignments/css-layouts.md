@@ -6,7 +6,7 @@ published: true
 ---
 
 
-Wir werden zur Bearbeitung der Aufgaben wieder GitHub Classroom nutzen. Das Assignment, welches für diese Session erstellt wurde, ist über diesen [Einladungslink](https://classroom.github.com/a/UnR-m8ET) erreichbar.
+Wir werden zur Bearbeitung der Aufgaben wieder GitHub Classroom nutzen. Das Assignment, welches für diese Session erstellt wurde, ist über diesen [Einladungslink](https://classroom.github.com/a/HhhEDPth) erreichbar.
 
 Wenn Sie auf den Link klicken, wird automatisch ein Repository, mit dem Startcode des Assignments, erstellt. Klonen Sie bitte anschließend das Repository auf ihren Rechner und bearbeiten Sie die Aufgaben darin.
 
