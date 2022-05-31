@@ -8,7 +8,7 @@ termine: 2022-06-10 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 420
-raum: zoom-fd
+raum: 0.505
 info: Heute geht es um SASS, CSS Transitions & Responsive Design.
 ---
 
