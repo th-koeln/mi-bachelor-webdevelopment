@@ -6,7 +6,7 @@ published: true
 ---
 
 
-Wir werden zur Bearbeitung der Aufgaben wieder GitHub Classroom nutzen. Das Assignment, welches für diese Session erstellt wurde, ist über diesen [Einladungslink](https://classroom.github.com/a/UnR-m8ET) erreichbar.
+Wir werden zur Bearbeitung der Aufgaben wieder GitHub Classroom nutzen. Das Assignment, welches für diese Session erstellt wurde, ist über diesen [Einladungslink](https://classroom.github.com/a/HhhEDPth) erreichbar.
 
 Wenn Sie auf den Link klicken, wird automatisch ein Repository, mit dem Startcode des Assignments, erstellt. Klonen Sie bitte anschließend das Repository auf ihren Rechner und bearbeiten Sie die Aufgaben darin.
 
@@ -20,4 +20,4 @@ Binden Sie die Größe der Cards und die Schriftgröße an die Größe der Darst
 Setzen Sie die Headline über das Bild, ohne die Markup Struktur zu verändern.
 
 ## Aufgabe 4 - Variables Layout
-Nutzen Sie für Landscape Viewports ein Card Layout, in dem die Text und Bild nebeneinander sitzen und das Bild im Hochformat verwendet wird. NutzenSie für Portrait Viewports das bestehende Card Layout mit dem Bild im Querformat.
+Nutzen Sie für Landscape Viewports ein Card Layout, in dem die Text und Bild nebeneinander sitzen und das Bild im Hochformat verwendet wird. Nutzen Sie für Portrait Viewports das bestehende Card Layout mit dem Bild im Querformat.
