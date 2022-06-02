@@ -64,7 +64,7 @@ Die Zielsetzung des Projekts lautet wie folgt:
   * Betriebskonzept im Repository vorhanden
   * Anwendung ist deployed und zugänglich
   * **Hinweis:** Um die Abnahme und Bewertung des Projekts zu erleichtern, wird die Nutzung des in [Kollaboration über Versionskontrollsysteme](https://th-koeln.github.io/mi-bachelor-webdevelopment/lehrveranstaltungen/tooling-2/) vorgeschlagenen Workflow zur Organisation vorgeschlagen (Pull-Requests mit Zusammenfassung der Änderungen und Issues zur Planung).
-* Präsentation der Projekte im Plenum: **15.09.2022**
+* Präsentation der Projekte im Plenum: **16.09.2022**
 * Mündliche Prüfung: **23.09.2022**
 
 ## Ermittlung der Note
@@ -97,7 +97,7 @@ Auf dieser Seite sind einige Fragen formuliert die zum Erarbeiten eines Verstän
 ## Material
 
 - Das Recording zur Veranstaltung findet sich im ILIAS
-- [Miro Board mit Erwartungen, Wünschen, Fragen und Terminen](https://miro.com/welcomeonboard/aXI3Y3EzUHk3TVR3Z2pod3RGR0c2UEFZekJPSUF1UHk1R01RTERmZ3dLYm15RU5ScDluZ1ZjeHA1NThlTEVmOHwzMDc0NDU3MzU0MDM1Njk1MTE0?share_link_id=991062960050)
+- [Miro Board mit Erwartungen, Wünschen, Fragen und Terminen](https://github.com/th-koeln/mi-bachelor-webdevelopment/raw/master/material/frameworks-dienste-und-daten/miro_board_screenshot.png)
 - [Präsentation während der Veranstaltung](https://github.com/th-koeln/mi-bachelor-webdevelopment/raw/master/material/frameworks-dienste-und-daten/FDDW_Slides_01.pdf)
 - [Reactive Microsystems Talk](https://www.youtube.com/watch?v=3hMtjPcU248) 
 - [Microservice Patterns und Antipatterns Talk](https://www.youtube.com/watch?v=RsyOkifmamI)
