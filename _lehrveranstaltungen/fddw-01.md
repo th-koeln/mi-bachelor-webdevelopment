@@ -1,5 +1,5 @@
 ---
-titel: Workshop 1
+titel: Kick-Off
 kuerzel: fddw
 verantwortlich: db, mf
 typ: fddw
@@ -20,11 +20,11 @@ info: Heute geht es um Kick-Off der Veranstaltung
 
 ## Worum geht es?
 
-Das Ziel des Tages ist es
-- einen Überblick über die Inhalte, Anforderungen und Erfolgskriterien des Kurses erlangt zu haben,
-- die Motivation und das Grundverständnis asynchroner Systemarchitekturen aus dem Modul "Grundlagen des Web" aufgefrischt zu haben,
-- Individuelle auf die Workshopaufgabe ausgerichtete Kompetenzziele identifiziert haben und einen Plan zur Erreichung mit den Mentoren abgestimmt haben und im Git dokumentiert haben.
-- Die Aufgabe der Erstellung eines Anwendungsbeispiels in Projektform verstanden und erste Schritte zur Realisierung unternommen haben.
+Das Ziel des Tages ist es:
+* einen Überblick über die Inhalte, Anforderungen und Erfolgskriterien des Kurses erlangt zu haben,
+* die Motivation und das Grundverständnis asynchroner Systemarchitekturen aus dem Modul "Grundlagen des Web" aufgefrischt zu haben,
+* Individuelle auf die Workshopaufgabe ausgerichtete Kompetenzziele identifiziert haben und einen Plan zur Erreichung mit den Mentoren abgestimmt haben und im Git dokumentiert haben.
+* Die Aufgabe der Erstellung eines Anwendungsbeispiels in Projektform verstanden und erste Schritte zur Realisierung unternommen haben.
 
 ## Zielkompetenz nach Abschluss
 

@@ -4,7 +4,7 @@ kuerzel: fddw
 verantwortlich: db, mf
 typ: fddw
 pflicht: false
-termine: 2022-06-09 13:00
+termine: 2022-06-17 13:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 240

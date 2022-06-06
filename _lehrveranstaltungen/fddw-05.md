@@ -1,10 +1,10 @@
 ---
-titel: Meilenstein 2
+titel: Workshop 4
 kuerzel: fddw
 verantwortlich: db, mf
 typ: fddw
 pflicht: false
-termine: 2022-06-17 10:00
+termine: 2022-06-23 13:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 240

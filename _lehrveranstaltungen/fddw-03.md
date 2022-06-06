@@ -1,19 +1,20 @@
 ---
-titel: Meilenstein 1
+titel: Workshop 2
 kuerzel: fddw
 verantwortlich: db, mf
 typ: fddw
 pflicht: false
-termine: 2022-06-02 13:00
+termine: 2022-06-09 10:00
 empfohlene-voraussetzungen: 
 published: true
-dauer: 240
+dauer: 480
 raum: zoom-fddw
-info: Heute geht es um …
+info: Heute geht es um die Vorstellung der Konzepte
 ---
 
 ## Worum geht es?
-Das Ziel des Tages ist es
+
+Das Ziel des Tages ist es:
 - Fragen und Erkenntnisse aus dem Studium der bisherigen Literaturaufgaben in der individuellen Diskussion mit dem Dozenten vertreten haben,
 - den Fortschritt bei der Erreichung der individuellen Kompetenzziele mit den Mentoren besprochen haben und die Kompetenzziele ggfs. verfeinert zu haben,
 - den technischen PoC im Plenum vorgestellt und im Fachdiskurs vertreten zu haben,
@@ -21,34 +22,18 @@ Das Ziel des Tages ist es
 - Ziele und Aufgabenaufteilung für die zweite Projektphase definiert und im git dokumentiert zu haben
 
 ## Ablauf
-13:00 - 15:00 Diskussion der Literatur des heutigen Termins
 
-15:00 - 17:00 Vorstellung und Diskussion der technischen PoC im Plenum
+10:00 - 12:00 Vorstellung der Konzepte und anschließende Diskussion
+
+12:00 - 13:00 Lokale Entwicklungsumgebung mit Docker einrichten
+
+13:00 - 14:00 Mittagspause
+
+14:00 - 17:00 Beispielanwendung im Live-Coding entwickeln
 
 ## Aufgabe für die kommende Veranstaltung
-- Erarbeiten Sie individuell aus den im Grundlagenteil vorgestellten Konzepten und aus dem unten angegebenen Artikel von Guha über Schema.org ein Verständnis von strukturierten, offenen Daten im Web. Recherchieren Sie zu dem Thema möglichst mindestens eine weitere Quelle in der Sie ebenfalls arbeiten! 
-- Arbeiten Sie individuell an den den mit Ihren Mentoren identifizierten Kompetenzzielen und dokumentieren Sie Ihre Arbeit im Lernportfolio!
-- Erarbeiten Sie im Team an dem architekturellen PoC!
 
-## Problenszenarien für den architekturellen PoC
-
-### Koordination von Reisegruppen
-Nina und Paul gehören einer weit verzweigten Familie an, die jedes Jahr über das Himmelfahrtswochenende einen gemeinsamen Kurzurlaub auf einer Berghütte in den Schweizer Alpen verbringen. Diue Koordination gestaltet sich äusserst schwierig und ist ineffektiv:
-
-- Teile der Familie leben in unterschiedlichen Städten in Deutschland, der Schweiz und Frankreich
-- Sie Reisen mit unterschiedlichen Verkehrsmitteln an: Fahrgemeinschaft, Zug, Flugzeug/Mietwagen
-- Sie nutzen unterschiedliche Kommunikationskanäle: manche sind in Messaging Gruppen in WhatsApp, Signal, Threema verbunden, andere nutzen nur E-Mail oder gar nur Telefon
-- Informationen über Wetter, Lawinenlage, Verkehrbehinderungen (Zug, Auto, Flug), Veranstaltungen im Talort werden von Einzelnen wahrgenommen aber nur sporadisch geteilt.
-
-Da Nina und Paul Medieninformatik an verschiedenen Hochschulen studieren, haben Sie sich vorgenommen in einem gemeinsamen Projekt einen "Kommunikationskanal zu konzipieren, der es allen Familienmitgliedern erlaubt über enen Kanal zu kommunizieren und aktuelle Informationen (zu Wetter, Verkehr, ..) zu erhalten, sofern Sie dies wünschen.
-Nina und Paul möchten dieses Projekt in einer ersten Version in Github entwickeln und dabei auch eine Cousine, die noch Schülerin ist beteiligen. Später möchten Sie es zu einem Open Source GitHub Projekt machen und versuchen eine Communityy zu etablieren, die ein System entwickelt, das einen über das spezielle Familienszenarion hinaus generell die Koordination von "inhomogenen" Gruppen (Vereine, Klassentreffen, ...) ermöglicht. Nina und Paul wollen neben dem Spaß an dieser Arbeit durch dieses Projekt auch ein "Vorzeigeprojekt" für spätere Bewerbungen erreichen.
-
-### Kolonisation des Mars
-
-In den letzten Jahren ist das Ziel einer Kolonialisierung des Mars deutlich konkreter und realistischer geworden. Weltraumorganisationen, wie NASA oder SpaceX, planen erste bemannte Missionen ab 2030.
-Für diese Kolonialisierung sind geeignete IT-Systeme notwendig. So müssen Astronauten über Änderungen bestimmter Messwerte informiert werden und zusätzliche Daten zu den eigenen Aufgaben erhalten. Außerdem müssen die Astronauten auch mit Informationen von zu Hause versorgt werden, um die eigene Moral hoch zu halten. Hinzu kommt, dass eine einfache Übertragung im Schnitt zwischen 13 und 24 Minuten dauert, was zusätzlich berücksichtigt werden muss. Darüber hinaus sollen die Astronauten auch erstmals Zugriff auf Daten aus dem Internet erhalten.
-Die NASA möchte daher eine geeignete Testimplementierung für webbasierte Systeme in einer Marsstation, welche die Kommunikation von der Erde zur Station, sowie innerhalb der Station erlaubt. Da die Station aus einzelnen Modulen besteht, die untereinander kommunizieren müssen, welche aber nicht zwangsweise über eine einheitliche Schnittstelle verfügen, soll eine übergeordnete und eventbasierte Architektur implementiert werden. Diese Architektur soll eine asynchrone Kommunikation zwischen den einzelnen Modulen erlauben, sodass Astronauten Informationen über Luftdruck, Temperaturen oder andere relevante Daten erhalten können.
-Hinzu kommt, dass derartige Systeme üblicherweise geschlossene Systeme sind - also ohne Verbindung zum Internet. Da auf Dauer auch ein interplanetares Internet geschaffen werden soll gilt es geeignete Services zu implementieren, welche Daten aus dem Web verwenden. Dabei verlangt die NASA die Verwendung von Open Data Portalen, um den Astronauten so viel Informationen wie möglich zukommen zu lassen.
+* tbd.
 
 ## Leitfragen für den Grundlagenteil
 
@@ -62,12 +47,12 @@ Hinzu kommt, dass derartige Systeme üblicherweise geschlossene Systeme sind - a
 8. Was versteht man unter exttensions in Schema.org und warum wurden sie eingeführt?
 
 ## Material
-- [RabbitMQ](https://www.rabbitmq.com/) - Open Source Message Broker
-- [Clients und Developer Tools für RabbitMQ](https://www.rabbitmq.com/devtools.html)
-- [Apache ActiveMQ](https://github.com/apache/activemq) - Open Source Message Broker
-- [Apache Kafka](http://kafka.apache.org/) - A distributed streaming plattform
+
+- [Aufzeichnung der Veranstaltung]()
+- [Folien zur Veranstaltung]()
 
 ## Literatur
+
 - Edward Steel et al.: Hootsuite: In Pursuit of Reactive Systems ([Link in die ACM DL](https://dlnext.acm.org/doi/abs/10.1145/3121437.3131240))
 - J. Bonér et al.: Reactive Microsystems: The Evolution of Microservices at Scale, O'Reilly (siehe auch [Seite des Unternehmens Lightbend](https://www.lightbend.com/ebooks/reactive-microsystems-evolution-of-microservices-scalability-oreilly)), [Webinar](https://on.acm.org/c/acm-learning-webinars)
 - Roland Kuhn: Reactive Design Patterns, Manning 2017
