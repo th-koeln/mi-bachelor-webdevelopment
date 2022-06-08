@@ -15,7 +15,7 @@ Wir arbeiten ab jetzt mit Abhängigkeiten, die wir nicht alle in unserer Git-His
 
 ## Abhängigkeiten klären
 
-In dem Workspace muss sich eine `package.json` befinden. Alle benötigten NPM-Packete weden als Dev-Depencies eingefügt (Befehl: `npm install -D <PACKETNAME>`):
+In dem Workspace muss sich eine `package.json` befinden. Alle benötigten NPM-Pakete weden als Dev-Depencies eingefügt (Befehl: `npm install -D <PACKETNAME>`):
 
 - [stylelint](https://stylelint.io/)
 - [stylelint-order](https://github.com/hudochenkov/stylelint-order)
@@ -29,7 +29,7 @@ In der `package.json` sollten die Dependencies drin stehen. Um StyleLint auszuf�
 ```json
 
 {
-    "name": "webdev-fd-2021",
+    "name": "webdev-fd",
     "version": "1.0.0",
     "description": "Eine schöne Beschreibung für das gesamte Projekt sollte sich hier befinden.",
     "main": "index.js",
@@ -39,10 +39,10 @@ In der `package.json` sollten die Dependencies drin stehen. Um StyleLint auszuf�
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "devDependencies": {
-        "stylelint": "^13.13.1",
+        "stylelint": "^14.8.5",
         "stylelint-config-idiomatic-order": "^8.1.0",
-        "stylelint-config-standard": "^22.0.0",
-        "stylelint-order": "^4.1.0"
+        "stylelint-config-standard": "^25.0.0",
+        "stylelint-order": "^5.0.0"
     }
 }
 ```

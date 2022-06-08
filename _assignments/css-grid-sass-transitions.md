@@ -9,21 +9,13 @@ published: true
 Wir nutzen als Startercode wieder das Repo aus der [Aufgabe CSS Grid](/mi-bachelor-webdevelopment/assignments/css-grid/). Sie werden Ihren bisherigen Stand weiter entwickeln. Legen Sie dafür einen neuen Zweig `m-sass-refactoring` an.
 
 ## Aufgabe 1: Integration von Stylelint
-Integrieren Sie *Stylelint*, wie in der [Aufgabe StyleLint Setup](/mi-bachelor-webdevelopment/assignments/tooling-stylelint/) beschrieben.
+Integrieren Sie *Stylelint*, wie in der [Codesnippet StyleLint Setup](/mi-bachelor-webdevelopment/codesnippets/stylelint-integration/) beschrieben.
 
-Fügen Sie hier noch ein Stylelint-Plugin für SCSS hinzu: [stylelint-scss](https://github.com/kristerkari/stylelint-scss)
-
-## Aufgabe 2: Überführen in eine SASS Struktur
-Klonen Sie das Repo [SASS Startercode](https://github.com/cnoss/sass-startercode) und übertragen Sie die Struktur in Ihr CSS-Grid Repo:
-
-- Alle Inhalte wandern in die `src`Folder
-- `package.json` wird überführt
-- die bestehenden CSS Dateien werden in SASS Dateien überführt
-- `main.css` ersetzt die bestehenden CSS Dateien in der `index.html`
-- lesen Sie die [Readme Datei des SASS Startercode Repos](https://github.com/cnoss/sass-startercode/blob/master/README.md) und prüfen Sie, ob alles erwartungskonform läuft
+## Aufgabe 2: Integration von SASS
+Integrieren Sie SASS in das Projekt. Nutzen Sie dazu die Anleitung [Integration von SASS](/mi-bachelor-webdevelopment/codesnippets/sass-integration/).
 
 ## Aufgabe 3: Refactoring
-Nehmen Sie sich *20 min* um den bestehenden Code Mithilfe von SASS zu überarbeiten, um ihn flexibler, kompakter und übersichtlicher zu machen.
+Nehmen Sie sich *60 min* um den bestehenden Code Mithilfe von SASS zu überarbeiten, um ihn flexibler, kompakter und übersichtlicher zu machen. Nutzen Sie dafür im Wesentlichen [Nesting](https://sass-lang.com/documentation/style-rules#nesting) und den [Parent Selector](https://sass-lang.com/documentation/style-rules/parent-selector).
 
 ## Aufgabe 4: Layout inkl. Transition umsetzen
 

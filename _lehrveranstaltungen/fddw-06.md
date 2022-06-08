@@ -4,9 +4,9 @@ kuerzel: fddw
 verantwortlich: db, mf
 typ: fddw
 pflicht: false
-termine: 2022-06-23 13:00
+termine: 2023-06-23 13:00
 empfohlene-voraussetzungen: 
-published: true
+published: false
 dauer: 240
 raum: zoom-fddw
 info: Heute geht es um …
