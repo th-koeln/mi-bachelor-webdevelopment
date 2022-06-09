@@ -9,7 +9,7 @@ Wir arbeiten ab jetzt mit Abhängigkeiten, die wir nicht alle in unserer Git-His
 
 ## Gitignore Template
 
-Es empfiehlt sich vorgefertigte Templates zu verwenden. Die gibt es unteranderm hier: [gitingore.io](https://gitignore.io)
+Es empfiehlt sich vorgefertigte Templates zu verwenden. Die gibt es unteranderm hier: [gitignore.io](https://gitignore.io)
 
 Es empfiehlt sich, Templates aus den folgenden Kategorien zu verwenden:
 
