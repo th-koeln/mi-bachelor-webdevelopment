@@ -23,7 +23,7 @@ Weitere Dateien, dich nicht in die Git-History eingepflegt werden sollen müssen
 Also:
 
 1. `.gitignore` im Root-Verzeichnis des Git-Projektes anlegen
-2. Auf der [gitingore.io](https://gitignore.io) Templates auswählen und in die `.gitignore` packen.
+2. Auf der [gitignore.io](https://gitignore.io) Templates auswählen und in die `.gitignore` packen.
 
 ## Beispiel
 
