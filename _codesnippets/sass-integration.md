@@ -16,7 +16,7 @@ Wir arbeiten hier mit Abhängigkeiten, die wir nicht alle in unserer Git-History
 In dem Workspace muss sich eine `package.json` befinden. Alle benötigten NPM-Pakete weden als Dev-Depencies eingefügt (Befehl: `npm install -D <PACKETNAME>`):
 
 - [npm-run-all](https://github.com/mysticatea/npm-run-all)
-- [SASS](https://www.npmjs.com/package/sass)
+- [sass](https://www.npmjs.com/package/sass)
 
 ### NPM Script konfigurieren
 
