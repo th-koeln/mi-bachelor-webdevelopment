@@ -8,7 +8,7 @@ termine: 2022-06-30 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 420
-raum: zoom-fd
+raum: 0.505
 info: Heute gibt es eine Einführung in Clientseitiges JavaScript
 ---
 
