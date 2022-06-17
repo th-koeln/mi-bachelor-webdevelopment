@@ -1,7 +1,7 @@
 ---
 titel: CSS Methodologien (und vielleicht Frameworks)
 kuerzel: fd
-verantwortlich: cn
+verantwortlich: vs
 typ: fd
 pflicht: false
 termine: 2022-06-24 10:00
