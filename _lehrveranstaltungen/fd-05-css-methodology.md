@@ -16,6 +16,8 @@ info: Heute geht es um den Einsatz von CSS Methodologien wie BEM und CUBE
 Wir befassen uns heute mit CSS Methodologien, um unser CSS noch besser strukturieren zu können. Außerdem schauen wir uns verschiedene Konzepte zu dynamisch generiertem HTML Content an. Dabei gehen wir auf folgende Fragestellungen und Probleme ein:
 
 - [Was sind CSS Methodologien und wann und wie setze ich diese sinnvoll ein?](https://ageek.dev/css-methodologies)
+- [Was ist BEM und wie nutze ich es?](http://getbem.com/introduction/)
+- [Wie kann man SASS und BEM kombinieren?](https://andrew-barnes.medium.com/bem-and-sass-a-perfect-match-5e48d9bc3894)
 - [Was ist CUBE CSS und wie nutze ich es?](https://cube.fyi/)
 - [Wann und wie rendere ich mein HTML?](https://dev.to/fllstck/where-when-should-you-render-your-html-41b5)
 
