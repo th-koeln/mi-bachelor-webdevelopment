@@ -20,7 +20,6 @@ Wir befassen uns heute mit CSS Methodologien, um unser CSS noch besser strukturi
 - [Wann und wie rendere ich mein HTML?](https://dev.to/fllstck/where-when-should-you-render-your-html-41b5)
 
 ## Material
-- [How to name css classes](http://bdavidxyz.com/blog/how-to-name-css-classes/)
 - [OOCSS - The Future of Writing CSS](https://www.keycdn.com/blog/oocss)
 - [SMACSS](http://smacss.com/)
 - [Functional CSS](https://critter.blog/2018/06/08/in-defense-of-functional-css/)
