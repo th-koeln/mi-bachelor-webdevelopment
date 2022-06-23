@@ -32,7 +32,8 @@ Wir befassen uns heute mit CSS Methodologien, um unser CSS noch besser strukturi
 - [CUBE CSS with its creator Andy Bell](https://www.youtube.com/watch?v=Y3EKje3JIT4)
 
 ## Aufgabe
-- [Refactoring Website Online Sports](/mi-bachelor-webdevelopment/assignments/refactoring-cube-css/)
+- [Refactoring mit CUBE CSS](/mi-bachelor-webdevelopment/assignments/refactoring-cube-css/)
+- [Structured CSS Implementierung](/mi-bachelor-webdevelopment/assignments/fd_02_structured-css/)
 
 
 
