@@ -7,6 +7,11 @@ published: true
 ---
 
 
-Nutzen Sie als Ausgangsbasis das Assignment welches über diesen [Einladungslink](https://classroom.github.com/a/H9yva15o) erreichbar ist. 
-
+Wir nutzen als Ausgangsbasis das Assignment welches über diesen [Einladungslink](https://classroom.github.com/a/H9yva15o) erreichbar ist. 
+## Aufgabe 1 - Refacotren mit CUBE CSS 
 Refactoren Sie den Code auf Basis der [CUBE CSS Methodologie](https://cube.fyi/). Hier wird kein vollständiges Ergebnis erwartet, aber ein Anfang und eine ernsthafte Auseinandersetzung mit der Methodologie.
+
+## Aufgabe 2 - Layout Switcher
+Erweitern Sie den Code dahingend, dass beim Betätigen der Schaltfläche rechts oberhalb der Projektübersicht, das Layout der Projektübersicht geändert wird. Das vorgebene Layout befindet sich in der Datei `/_stuff/layout-rows.png`
+
+Die JavaScript Logik für die Schaltfläche ist bereits implementiert. Nutzen Sie als Selektor für die CSS Regeln die CUBE Exception `[data-state="rows"]`
