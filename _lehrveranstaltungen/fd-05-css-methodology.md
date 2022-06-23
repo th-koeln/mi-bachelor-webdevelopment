@@ -1,5 +1,5 @@
 ---
-titel: CSS Methodologien (und vielleicht Frameworks)
+titel: CSS Methodologien (und vielleicht etwas JavaScript)
 kuerzel: fd
 verantwortlich: vs
 typ: fd
@@ -13,7 +13,7 @@ info: Heute geht es um den Einsatz von CSS Methodologien wie BEM und CUBE
 ---
 
 ## Worum geht es?
-Wir befassen uns heute mit CSS Methodologien, um unser CSS noch besser strukturieren zu können. Außerdem schauen wir uns verschiedene Konzepte zu dynamisch generiertem HTML Content an. Dabei gehen wir auf folgende Fragestellungen und Probleme ein:
+Wir befassen uns heute mit CSS Methodologien, um unser CSS noch besser strukturieren zu können.
 
 - [Was sind CSS Methodologien und wann und wie setze ich diese sinnvoll ein?](https://ageek.dev/css-methodologies)
 - [Was ist BEM und wie nutze ich es?](http://getbem.com/introduction/)
