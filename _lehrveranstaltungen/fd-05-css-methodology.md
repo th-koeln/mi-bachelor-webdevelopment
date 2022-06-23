@@ -19,7 +19,6 @@ Wir befassen uns heute mit CSS Methodologien, um unser CSS noch besser strukturi
 - [Was ist BEM und wie nutze ich es?](http://getbem.com/introduction/)
 - [Wie kann man SASS und BEM kombinieren?](https://andrew-barnes.medium.com/bem-and-sass-a-perfect-match-5e48d9bc3894)
 - [Was ist CUBE CSS und wie nutze ich es?](https://cube.fyi/)
-- [Wann und wie rendere ich mein HTML?](https://dev.to/fllstck/where-when-should-you-render-your-html-41b5)
 
 ## Material
 - [OOCSS - The Future of Writing CSS](https://www.keycdn.com/blog/oocss)
