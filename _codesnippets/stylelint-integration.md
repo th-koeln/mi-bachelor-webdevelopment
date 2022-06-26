@@ -21,7 +21,6 @@ In dem Workspace muss sich eine `package.json` befinden. Alle benötigten NPM-Pa
 - [stylelint-order](https://github.com/hudochenkov/stylelint-order)
 - [stylelint-config-standard](https://github.com/stylelint/stylelint-config-standard)
 - [stylelint-config-idiomatic-order](https://github.com/ream88/stylelint-config-idiomatic-order)
-- [stylelint-scss](https://github.com/kristerkari/stylelint-scss)
 
 In der `package.json` sollten die Dependencies drin stehen. Um StyleLint auszuführen nutzen wir den Befehl `stylelint`. Dazu fügen wir einen eigenen Script-Befehl ein:
 
