@@ -5,7 +5,7 @@ tags:
 published: true
 ---
 
-Nutzen Sie als Codebasis Ausgangspunkt zur Bearbeitung der Aufgaben ist das [Classroom Assignment](https://classroom.github.com/a/nGvbYElN).
+Nutzen Sie als Codebasis Ausgangspunkt zur Bearbeitung der Aufgaben das [Classroom Assignment](https://classroom.github.com/a/nGvbYElN).
 
 
 ## Step 1: Hauptmenü überarbeiten
