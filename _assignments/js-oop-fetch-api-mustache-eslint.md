@@ -5,7 +5,7 @@ tags:
 published: true
 ---
 
-Ausgangspunkt zur Bearbeitung der Aufgaben ist das [Classroom Assignment](https://classroom.github.com/a/nGvbYElN) aus dem Workshop [Javascript Basics](../fd-05-js-basics-1/)
+Ausgangspunkt zur Bearbeitung der Aufgaben ist das [Classroom Assignment](https://classroom.github.com/a/3-mJ5IOS) aus dem Workshop [Javascript Basics](../fd-05-js-basics-1/)
 
 Bitte comitten und pushen Sie ihren Code nach jedem Step.
 
