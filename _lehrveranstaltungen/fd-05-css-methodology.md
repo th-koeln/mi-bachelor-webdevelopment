@@ -32,6 +32,7 @@ Wir befassen uns heute mit CSS Methodologien, um unser CSS noch besser strukturi
 
 ## Aufgabe
 - [Refactoring mit CUBE CSS](/mi-bachelor-webdevelopment/assignments/refactoring-cube-css/)
+- [Screenmovie mit Lösungsvorschlag](https://www.youtube.com/watch?v=AzgpkNZQSAA)
 
 
 
