@@ -7,7 +7,7 @@ published: true
 
 ## Aufgabe 1: Integration von [11ty](https://www.11ty.dev/)
 
-Integrieren Sie den [Static Page Generator 11ty](https://www.11ty.dev/) in Ihre aktuelle Codebasis, entweder auf Basis des [Javascript Assignments](https://classroom.github.com/a/3-mJ5IOS) oder auf Basis der [JS Lösung von Christian Noss](https://github.com/mi-classroom/js-fd2022-cnoss).
+Integrieren Sie den [Static Page Generator 11ty](https://www.11ty.dev/) in das aktuelle Projekt, entweder auf Basis des [Javascript Assignments](https://classroom.github.com/a/3-mJ5IOS) oder auf Basis der [JS Lösung von Christian Noss](https://github.com/mi-classroom/js-fd2022-cnoss).
 
 Folgende Schritte sind erforderlich:
 
@@ -16,7 +16,7 @@ Folgende Schritte sind erforderlich:
 - Erzeugen Sie einen `assets` Folder und schieben Sie die Verzeichnisse `styles`, `scripts`, `templates` und `json` hier hinein. 
 - Benennen Sie das Verzeichnis `templates` in `mustache-templates`um.
 - Passen Sie Ihre Referenzen und ggf. die `package.json` an, damit das Projekt noch läuft.
-- Entfernen Sie das `_data` Verzeichnis
+- Entfernen Sie das `_data` Verzeichnis.
 
 ### Step 2: Sass Integration
 Integrieren Sie Sass und bauen Sie Ihr Projekt angelehnt an die Anleitung zur [Integration von SASS](/mi-bachelor-webdevelopment/codesnippets/sass-integration/) um.
@@ -54,7 +54,7 @@ Windows Nutzer müssen ggf. vor den *ELEVENTY_ENV* Zuweisungen noch *cross-env* 
 
 ```
 
-Lassen Sie die `main.css` ins `compiled-assets` Verzeichnis generieren. Passen Sie dazu die `dev:css` und `build:css` wie folgt an:
+Wir wollen später die `main.css` ins `compiled-assets` Verzeichnis generieren. Passen Sie dazu die `dev:css` und `build:css` wie folgt an:
 
 ```
 
@@ -62,8 +62,6 @@ Lassen Sie die `main.css` ins `compiled-assets` Verzeichnis generieren. Passen S
 "build:css": "sass src/assets/styles/scss/main.scss:src/compiled-assets/main.css"
 
 ```
-
-Testen Sie Ihre Installation mit dem Befehl `npm run dev` und 'npm run build`. Beide Befehle sollten fehlerfrei durchlaufen.
 
 ### Step 6: Reorganisation der Dateistruktur
 - erzeugen Sie im Wurzelverzeichnis eine *src*  Verzeichnis und verschieben Sie die Verzeichnisse *assets*, *chapters* und *images* ins *src* Verzeichnis.
@@ -82,11 +80,11 @@ http://localhost:8080/chapters/theory/index.html
 
 11ty liefert die Seite jetzt aus dem Verzeichnis `docs` aus. Daher müssen Sie die Referenzen auf das CSS und Javascript in Ihrem `src` Verzeichnis noch mal anpassen. Auch die Bildreferenzierungen müssen angepasst werden.
 
-**Nehmen Sie keine Änderungen im docs Verzeichnis vor, denn die Dateien imd `docs` Verzeichnis werden bei jeder Änderung im `src` Verzeichnis neu generiert.**
+**Nehmen Sie keine Änderungen im `docs` Verzeichnis vor, denn die Dateien imd `docs` Verzeichnis werden bei jeder Änderung im `src` Verzeichnis neu generiert.**
 
 
 ## Aufgabe 2: Erzeugung eines Standard Templates
-Erzeugen Sie einen Ordner `_templates_` und legen Sie hierin eine Datei `default.11ty.js` an. Lagern Sie nun alles außer den Kindelementen des *body* Elements der `theory.html` in diese Datei aus:
+Erzeugen Sie einen Ordner `_templates` und legen Sie hierin eine Datei `default.11ty.js` an. Lagern Sie nun alles außer den Kindelementen des *body* Elements der `theory.html` in diese Datei aus:
 
 ```
 
@@ -104,7 +102,6 @@ exports.render = function (pageData) {
   </html>
   `;
 }
-`;
 
 ```
 
@@ -119,7 +116,7 @@ layout: default.11ty.js
 
 ```
 
-Wenn Sie 11ty nun laufen lassen `npm run dev` sollte die `theory` Datei korrekt angezeigt werden. Jetzt wird sie jedoch aus dem *default*-Template und der *content* Datei zusammen gesetzt.
+Wenn Sie 11ty nun via `npm run dev` laufen lassen sollte die `theory` Datei korrekt angezeigt werden. Jetzt wird sie jedoch aus dem *default*-Template und der *content* Datei zusammen gesetzt.
 
 ## Aufgabe 3: Title injizieren
 
@@ -170,9 +167,11 @@ title: Introduction
 layout: default.11ty.js
 ---
 
-```
+Lorem ipsum, dolor sit amet consectetur adipisicing elit. 
+Consequatur laborum, voluptatibus ullam iusto veniam alias 
+ea quia illo fugiat dicta id vitae ut quam, repellendus 
+aspernatur a officia? Quo, modi.
 
-Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequatur laborum, voluptatibus ullam iusto veniam alias ea quia illo fugiat dicta id vitae ut quam, repellendus aspernatur a officia? Quo, modi.
 ```
 
 Legen Sie weitere Dateien nach ähnlichem Muster an.
@@ -181,8 +180,8 @@ Jetzt erweitern wir die `.eleventy.js` um eine *Collection*, die alle HTML-Datei
 
 ```
 
-eleventyConfig.addCollection("chapters", (collection) =>
-  collection.getFilteredByGlob("./src/chapters/*.html").sort((a, b) => {
+eleventyConfig.addCollection('chapters', (collection) =>
+  collection.getFilteredByGlob('./src/chapters/*.html').sort((a, b) => {
 
     if (a.fileSlug > b.fileSlug) return 1;
     else if (a.fileSlug < b.fileSlug) return -1;
