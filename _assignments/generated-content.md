@@ -24,7 +24,8 @@ Integrieren Sie Sass und bauen Sie Ihr Projekt angelehnt an die Anleitung zur [I
 ### Step 3: Stylelint Integration
 Integrieren Sie Stylelint. Nutzen Sie dafür ggf. die Anleitung zur [Stylelint Integration](/mi-bachelor-webdevelopment/codesnippets/stylelint-integration/). Passen Sie Stylelint für die Nutzung mit [SASS](/mi-bachelor-webdevelopment/codesnippets/sass-integration#stylelint-erweitern) an.
 
-### Step 3: 11ty installieren
+### Step 3: 11ty & RImraf installieren
+- installieren Sie [rimraf](https://www.npmjs.com/package/rimraf) mit dem npm Befehl `npm i -D rimraf`
 - installieren Sie [11ty](https://www.11ty.dev/docs/getting-started/) mit dem npm Befehl `npm i -D @11ty/eleventy`
 - Windows Nutzer sollten noch [cross-env](https://www.npmjs.com/package/cross-env) installieren: `npm i cross-env -D`
 
