@@ -65,10 +65,10 @@ Wir wollen später die `main.css` ins `compiled-assets` Verzeichnis generieren. 
 ```
 
 ### Step 6: Reorganisation der Dateistruktur
-- erzeugen Sie im Wurzelverzeichnis eine *src*  Verzeichnis und verschieben Sie die Verzeichnisse *assets*, *chapters* und *images* ins *src* Verzeichnis.
-- legen Sie ein Verzeichnis *compiled-assets* im *src* Verzeichnis an.
-- passen Sie die Pfade in den Script Aufrufen Ihrer *package.json* an
-- benennen Sie das Mustache Template mit der Endung *.tpl* statt *.html* und passen Sie den Aufruf in der *main.js* entsprechend an.
+- erzeugen Sie im Wurzelverzeichnis eine `src`  Verzeichnis und verschieben Sie die Verzeichnisse `assets`, `chapters` und `images` ins `src` Verzeichnis.
+- legen Sie ein Verzeichnis `compiled-assets` im `src` Verzeichnis an.
+- passen Sie die Pfade in den Script Aufrufen Ihrer `package.json` an
+- benennen Sie das Mustache Template mit der Endung `.tpl` statt `.html` und passen Sie den Aufruf in der `main.js` entsprechend an.
 
 ### Step 7: Prüfung des Stands und kleinere Anpassungen
 - wenn Sie jetzt den Devmode mit dem Befehl *npm run dev* starten sollten Sie die `theory` Datei unter folgender URL aufrufen können:
