@@ -7,7 +7,7 @@ published: true
 ---
 Nutzen Sie ihren aktuellen Code als Ausgangspunkt oder die [Version v5.1.0 von Christian Noss](https://github.com/cnoss/fd-2021/releases/tag/v5.1.0)
 
-Committen und pushen Sie ihre Änderungen in das Repo des [Javascript Assignments](https://classroom.github.com/classrooms/61686333-webdev-fd-sose-2021/assignments/startercode-javascript).
+Committen und pushen Sie ihre Änderungen in das Repo des [Javascript Assignments](https://classroom.github.com/a/3-mJ5IOS).
 
 ## Step 1
 Erzeugen Sie eine Vue Applikation welche das Comment JSON File über die Fetch API lädt und auf dieser Basis das Markup für die Kommentare über die Vue Template Engine generiert.
