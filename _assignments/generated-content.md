@@ -66,8 +66,8 @@ Wir wollen später die `main.css` ins `compiled-assets` Verzeichnis generieren. 
 
 ### Step 6: Reorganisation der Dateistruktur
 - erzeugen Sie im Wurzelverzeichnis eine `src`  Verzeichnis und verschieben Sie die Verzeichnisse `assets`, `chapters` und `images` ins `src` Verzeichnis.
-- legen Sie ein Verzeichnis `compiled-assets` im `src` Verzeichnis an.
 - passen Sie die Pfade in den Script Aufrufen Ihrer `package.json` an
+- legen Sie ein Verzeichnis `compiled-assets` im `src` Verzeichnis an.
 - benennen Sie das Mustache Template mit der Endung `.tpl` statt `.html` und passen Sie den Aufruf in der `main.js` entsprechend an.
 
 ### Step 7: Prüfung des Stands und kleinere Anpassungen
@@ -85,7 +85,7 @@ http://localhost:8080/chapters/theory/index.html
 
 
 ## Aufgabe 2: Erzeugung eines Standard Templates
-Erzeugen Sie einen Ordner `_templates` und legen Sie hierin eine Datei `default.11ty.js` an. Lagern Sie nun alles außer den Kindelementen des *body* Elements der `theory.html` in diese Datei aus:
+Erzeugen Sie im `src` Verzeichnis einen Unterverzeichnis `_templates` und legen Sie hierin ein Templates mit dem Dateinamen `default.11ty.js` an. Lagern Sie nun alles außer den Kindelementen des *body* Elements der `theory.html` in diese Datei aus. Die Anatomie des Templates sieht wie folgt aus:
 
 ```
 
@@ -143,7 +143,7 @@ exports.html = `
 
 ```
 
-Akquirieren Sie den Footer via:
+Akquirieren Sie den Footer im Default Template nun via:
 
 ```
 
@@ -151,7 +151,7 @@ const footer = require('./partials/footer.11ty');
 
 ```
 
-Binden Sie den Footer nun via Template String ein.
+Binden Sie den Footer dann via Template String vie Template String in der `default.11ty.js` ein.
 
 ## Aufgabe 6: Header auslagern
 
@@ -222,16 +222,16 @@ Zum Deployment muss oftmals ein *pathPrefix* gesetzt werden, so auch beim Deploy
 
 ````
 
-  return {
-    dir: {
-      …
-    },
-    pathPrefix: "js-fd2022-cnoss",
+return {
+  dir: {
     …
-    templateFormats: [
-      …
-    ],
-  };
+  },
+  pathPrefix: "js-fd2022-cnoss",
+  …
+  templateFormats: [
+    …
+  ],
+};
 
 ```
 

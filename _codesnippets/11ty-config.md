@@ -8,6 +8,13 @@ teasertext: 11ty Konfigurationsdatei für Generated Content Aufgaben.
 `.eleventy.js` Config Datei für unser Beispielprojekt.
 
 ```
+const clearRequireCache = () => { 
+  Object.keys(require.cache).forEach(function (key) {
+    if (require.cache[key].filename.match(/11ty\.js/)) {
+      delete require.cache[key];
+    }
+  });  
+}
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.setUseGitIgnore(false);
@@ -41,6 +48,13 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addFilter("maskEntities", (str) => {
     return str.replace(/"/g, '&#34;');
+  });
+
+  /* Maintenance
+  ########################################################################## */
+  
+  eleventyConfig.on('eleventy.beforeWatch', async (changedFiles) => {
+    clearRequireCache();
   });
 
   return {
