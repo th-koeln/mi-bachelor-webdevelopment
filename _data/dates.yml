@@ -391,6 +391,12 @@ week-15:
 week-16:
   day-1:
     datum: 2022-09-12
+    start: "11:00"
+    end: "13:00"
+    name: Donnerstag
+week-17:
+  day-1:
+    datum: 2022-09-01
     start: "09:00"
     end: "18:00"
     name: Montag
