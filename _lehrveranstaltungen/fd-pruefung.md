@@ -13,13 +13,15 @@ info:
 ---
 
 
-## Niveaustufen
+## Bewertung & Niveaustufen
+
+Die Bewertung erfolgt entlang der folgenden Niveaustufen:
 
 ### Beste Lösung
 - die **Must Features** sind vollständig umgesetzt und funktionieren
 - die Änderungen für die Features sind in der Commit Historie ersichtlich und verständlich erklärt
 - alle Features sind gepusht
-- ein Zusatz-Feature ist implementiert und funktioniert
+- ein Zusatz-Feature im Umfang von mindestens **3 Storypoints** ist implementiert und funktioniert
 - der erzeugte Code zeigt, dass der Verfasser\*In ein sehr gutes Verständnis der zugrunde liegenden Technologien und Konzepte hat 
 - die Änderungen wurden im Sinne der Projektstruktur in den passenden Dateien gemacht
 - der erzeugte Code ist nachvollziehbar, selbsterklärend und effizient (semantisches HTML, Nutzung von SCSS & Custom Properties, robustes Javascript)
@@ -44,20 +46,3 @@ info:
 - die Änderungen sind gepusht
 - der erzeugte Code zeigt, dass der Verfasser\*In die zugrunde liegenden Technologien und Konzepte in wesentlichen Teilen verstanden hat
 
-
-## Fixes
-
-
-### Problem bei `npm run live`
-
-Beim Ausführen des `npm run live` kommt folgender Fehler:
-
-```
-sh: serve: command not found
-```
-
-Hier fehlt ein Paket, welches noch installiert werden muss:
-
-```
-npm install serve -D
-```
