@@ -46,3 +46,8 @@ Die Bewertung erfolgt entlang der folgenden Niveaustufen:
 - die Änderungen sind gepusht
 - der erzeugte Code zeigt, dass der Verfasser\*In die zugrunde liegenden Technologien und Konzepte in wesentlichen Teilen verstanden hat
 
+
+## Fixes
+- bitte *docs/* in die *.gitignore* packen
+- bitte *compiled-assets/* in die *.gitignore* packen
+
