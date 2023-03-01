@@ -8,7 +8,7 @@ termine: 2021-07-15 09:00
 empfohlene-voraussetzungen: 
 published: false
 dauer: 480
-raum: zoom-fd
+raum: 0.505
 info: Komplexeres Javascript und die Verwendung einer externen Library.
 ---
 ## Worum geht es?

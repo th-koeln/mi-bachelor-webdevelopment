@@ -8,7 +8,7 @@ termine: 12021-06-25 10:00
 empfohlene-voraussetzungen: 
 published: false
 dauer: 360
-raum: zoom-fd
+raum: 0.505
 info: Asynchroner Datenaustauch mit dem Server
 ---
 ## Worum geht es?

@@ -1,14 +1,14 @@
 ---
 titel: Kick-Off
 kuerzel: fddw
-verantwortlich: db, mf
+verantwortlich: hvn, mf
 typ: fddw
 pflicht: false
-termine: 2022-05-19 13:00
+termine: 2023-03-31 10:00
 empfohlene-voraussetzungen: 
 published: true
-dauer: 240
-raum: zoom-fddw
+dauer: 420
+raum: 0.505
 info: Heute geht es um Kick-Off der Veranstaltung
 ---
 
