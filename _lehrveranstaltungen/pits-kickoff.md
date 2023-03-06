@@ -4,7 +4,7 @@ kuerzel: pits
 verantwortlich: sk
 typ: pits
 pflicht: false
-termine: 2022-03-29 13:00
+termine: 2023-03-28 13:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 240

@@ -1,14 +1,14 @@
 ---
 titel: Workshop 2
 kuerzel: fddw
-verantwortlich: db, mf
+verantwortlich: hvn, mf
 typ: fddw
 pflicht: false
-termine: 2022-06-09 10:00
+termine: 2023-04-13 10:00
 empfohlene-voraussetzungen: 
 published: true
-dauer: 480
-raum: zoom-fddw
+dauer: 420
+raum: 0.505
 info: Heute geht es um die Vorstellung der Konzepte
 ---
 

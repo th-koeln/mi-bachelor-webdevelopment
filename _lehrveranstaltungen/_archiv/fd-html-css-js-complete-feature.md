@@ -7,7 +7,7 @@ pflicht: false
 termine: 12021-07-02 10:00
 published: false
 dauer: 360
-raum: zoom-fd
+raum: 0.505
 ---
 
 ## Worum geht es?
