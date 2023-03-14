@@ -1,5 +1,5 @@
 ---
-titel: Lokale Entwicklungsumgebung und Basics
+titel: KickOff, lokale Entwicklungsumgebung und Basics
 kuerzel: tooling
 verantwortlich: mf, cn
 typ: tooling
