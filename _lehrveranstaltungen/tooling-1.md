@@ -8,7 +8,7 @@ termine: 2023-03-30 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 120
-raum: zoom-tooling
+raum: 0.505
 info: Eine Einführung in Git, die Verwendung eines Terminals und die Verwendung einer IDE
 ---
 

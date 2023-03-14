@@ -8,7 +8,7 @@ termine: 2023-03-30 13:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
-raum: zoom-tooling
+raum: 0.505
 info: Heute geht es um …
 ---
 
