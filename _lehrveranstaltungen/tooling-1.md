@@ -49,6 +49,9 @@ Für die erste Tooling Session brauchen alle einen (S)FTP Client. Auch hier gibt
 ### GM Account
 Alle sollten ihre GM-ID parat haben, denn diese brauchen wir, um uns in der Session auf der `advm1.gm.fh-koeln.de` anzumelden.
 
+### Node.js und Express.js
+Auf den Rechnern sollte die JavaScript-Laufzeitumgebung [Node.js](https://nodejs.org) installiert sein. Falls Probeleme bei der Installation auftreten, helfen wir Ihnen beim Kickoff bei der Einrichtung. Zudem sollten Sie mit den Web Framework [Express.js](https://expressjs.com/) vertraut sein.
+
 ## Videos
 <div class="columns">
 <div class="column">
