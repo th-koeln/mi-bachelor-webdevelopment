@@ -25,7 +25,6 @@ Installiere folgende Extensions in VS Code. Alternativ suche und installiere die
 ### 1. SSH Key Anlegen (30 min)
 
 1. Erstellen einen neuen SSH Key.
-
 ```bash
 ssh-keygen -t ed25519 -C "your_email@example.com" 
 ```
@@ -77,7 +76,6 @@ git push -u origin main
 2. Erstelle eine _index.html_ Datei und füge den Boilerplate Code mit dem Shortcut `!` hinzu.
 3. Wenn die Live Server Extension installiert und aktiviert ist, starte den Server unter _Go Live_.
 4. Editiere den Text innerhalb des `<Body>` Tags, um Änderungen im Browser sehen zu können. Die Html Datei könnte anschließend so aussehen:
-
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -100,7 +98,6 @@ git push -u origin main
   </body>
 </html>
 ```
-
 5. Pushe die Änderungen in das Remote Repository auf Github.
 
 ### 4. Deployment mit GitHub Pages (10 min)
