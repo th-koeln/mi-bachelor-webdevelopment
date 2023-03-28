@@ -13,7 +13,7 @@ Mit diesen Aufgaben wollen wir Ihnen einen kleinen Einblick in einige Features v
 
 ### Extensions in Visual Studio Code
 
-Installieren Sie folgende Extensions in VS Code. Alternativ suchen und installieren Sie die Extensions direkt in VS Code.
+Installiere folgende Extensions in VS Code. Alternativ suche und installiere die Extensions direkt in VS Code.
 
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
@@ -24,7 +24,7 @@ Installieren Sie folgende Extensions in VS Code. Alternativ suchen und installie
 
 ### 1. SSH Key Anlegen (30 min)
 
-1. Erstelle einen neuen SSH Key.
+1. Erstellen einen neuen SSH Key.
 
 ```bash
 ssh-keygen -t ed25519 -C "your_email@example.com" 
@@ -56,13 +56,27 @@ ssh-add ~/.ssh/id_ed25519
 cat ~/.ssh/id_ed25519.pub
 ```
 
+### 2. Repository in GitHub anlegen. (15 min) 
 
-### 2. Erste Website Erstellen (15 min)
+1. Erstelle ein neues Repository mit dem Namen `webdev-tooling` in GitHub. Andere Einstellungen wie das Hinzufügen einer _README_ oder  _.gitignore_ Datei können ignoriert werden.
+2. Öffne das Terminal in VS Code und führe folgende Befehle aus. Alternativ kann sich auch an der Anleitung in dem zuvor erstellen Github-Repo orientieren.
 
-1. Erstellen Sie einen Ordner `webdev-tooling` und öffnen Sie ihn in VS Code.
-2. Erstellen Sie eine _index.html_ Datei und fügen Sie den Boilerplate Code mit dem Shortcut `!` hinzu.
-3. Wenn Sie die Live Server Extension installiert und aktiviert haben, starten Sie den Server unter _Go Live_.
-4. Editieren Sie den text innerhalb des `<Body>` Tags, um Änderungen in Ihrem Browser sehen zu können. Ihre Html Datei könnte anschließend so aussehen:
+```bash
+echo "# webdev-tooling" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:"username"/webdev-tooling.git
+git push -u origin main
+```
+
+### 3. Erste Website Erstellen (15 min)
+
+1. Lade das zuvor erstellte Repository über SSH mit `git clone git@github.com:"username"/webdev-tooling.git` herunter.
+2. Erstelle eine _index.html_ Datei und füge den Boilerplate Code mit dem Shortcut `!` hinzu.
+3. Wenn die Live Server Extension installiert und aktiviert ist, starte den Server unter _Go Live_.
+4. Editiere den Text innerhalb des `<Body>` Tags, um Änderungen im Browser sehen zu können. Die Html Datei könnte anschließend so aussehen:
 
 ```html
 <!DOCTYPE html>
@@ -87,23 +101,7 @@ cat ~/.ssh/id_ed25519.pub
 </html>
 ```
 
-5. Öffnen Sie das Terminal in VS Code und fügen Sie den Node Package Manager mit `npm init` hinzu.
-6. Editieren Sie die
-
-
-### 3. Repository anlegen und verlinken. (15 min) 
-
-1. Erstellen Sie ein neues Repository mit dem Namen `webdev-tooling` in GitHub. Andere Einstellungen wie das Hinzufügen einer _README_ oder  _.gitirgnore_ Datei können ignoriert werden.
-2. Öffne das Terminal in VS Code und führe folgende Befehle aus. Alternativ könnt Ihr euch auch an der Anleitung in dem zuvor erstellen Github-Repo orientieren.
-
-```bash
-git init
-git add .
-git commit -m "first commit"
-git branch -M main
-git remote add origin git@github.com:"username"/webdev-tooling2.git
-git push -u origin main
-```
+5. Pushe die Änderungen in das Remote Repository auf Github.
 
 ### 4. Deployment mit GitHub Pages (10 min)
 
@@ -119,8 +117,8 @@ git push -u origin main
 Nachdem Sie die Prettier extension installiert und aktiviert haben, fügen Sie eine `.prettierrc` Ihrem Repository hinzu und ergänzen folgende Funktionalitäten:
 
 - Legen Sie die `tabWidth` auf _2_ fest.
-- Lösche jedes Semikolon automatisch am Ende jeder Zeile.
-- `singleQutes`sollen immer mit `doubleQuotes` ersetzt werden.
+- Setze am Ende jeder Zeile ein Semikolon.
+- Ersetze `singleQutes` mit `doubleQuotes`.
 - Setze die `printWidth` auf _120_.
 - **[BONUS]** Ergänze `.prettierrc` um ein weiteres Attribut und teste dessen Auswirkung auf den Code.
 

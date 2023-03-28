@@ -1,7 +1,7 @@
 ---
 titel: KickOff, lokale Entwicklungsumgebung und Basics
 kuerzel: tooling
-verantwortlich: Calvin Hinzer, cn
+verantwortlich: chh, cn
 typ: tooling
 pflicht: false
 termine: 2023-03-30 10:00
@@ -44,7 +44,6 @@ Alle brauchen auf ihrer Maschine eine Terminal Anwendung. Windows Nutzern würde
 - [Assignment Tooling 1](/mi-bachelor-webdevelopment/assignments/tooling-1/)
 
 ## Material
-
 
 - [Terminal Cheatsheet](https://github.com/th-koeln/mi-bachelor-webdevelopment/blob/master/material/tooling/TerminalCheatSheet.pdf)
 - [GitHub updates RSA SSH host key](https://github.blog/2023-03-23-we-updated-our-rsa-ssh-host-key/)
