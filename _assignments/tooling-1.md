@@ -1,51 +1,125 @@
 ---
 titel: Ugly Code Example
 tags:
- - Tooling
+  - Tooling
 published: true
 ---
 
-Mit diesen Aufgaben wollen wir Ihnen einen kleinen Einblick in die einige Features von VSC geben. Wir haben versucht die Aufgaben so aufzubauen, dass wenig bis kein Verständnis von HTML, CSS und JS notwendig ist um sie zu lösen. Bei Fragen: fragen.
+Mit diesen Aufgaben wollen wir Ihnen einen kleinen Einblick in einige Features von VSC geben. Wir haben versucht, die Aufgaben so aufzubauen, dass wenig bis kein Verständnis von HTML, CSS und JS notwendig ist, um sie zu lösen. Bei Fragen: fragen.
 
 ---
 
 ## Vorbereitung
 
-### Repo forken
-[Ugly Code Repo](https://github.com/mi-classroom/mi-webdev-tooling-ugly-code) auf GitHub im Browser öffnen und Fork erzeugen (rechts oben).
+### Extensions in Visual Studio Code
 
-### Repo klonen
-Zu dem eben erstellten Fork wechseln und den Fork via `git clone`auf die lokale Maschine klonen. 
+Installiere folgende Extensions in VS Code. Alternativ suche und installiere die Extensions direkt in VS Code.
 
-### Repo in VSC öffnen
-```bash
-cd mi-webdev-tooling-ugly-code
-code .
-```
-
-### Seite in Live Server anschauen
-Dazu mit der rechten Maustaste auf die *index.html* klicken und `Open with Live Server` klicken.
+- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
 ---
 
 ## Aufgaben
 
-### A) Formatierung
-1. Die Section "Worum geht es?" in der *index.html* ist leider sehr unleserlich. Formatieren Sie diesen Codeabschnitt bitte neu.
-2. Das gleiche gilt für die JavaScript Datei *eyecandy-showcase.js*. Formatieren Sie diese ebenfalls neu. (Dies erfordert eventuell das Installieren einer Extension)
+### 1. SSH Key Anlegen (30 min)
 
-### B) IDE Tools
-1. Die *020-base.css* enthält das Farbschema der Webseite. Bei dem Benennen der Variablen ist ein Rechtschreibfehler unterlaufen. Korrigieren Sie diesen bitte (Versuchen Sie die Aufgabe möglichst effizient und **ohne** find-and-replace zu lösen)
+1. Erstellen einen neuen SSH Key.
 
-### C) Find and Replace
-1. Die *accordion.js* soll eigentlich dafür sorgen, dass Teile der Webseite Ein- und ausklappbar sind. Um eine Section ausklappbar zu machen, muss man ihr die Klasse "js-accordion" zuweisen. Einige Rechtschreibfehler in der *index.html* verhindert allerdings eine Korrekte zuweisung.
-   - Finden Sie die section tags in der *index.html* bei denen dieser Fehler aufgetreten ist.
-   - Korrigieren Sie die Fehler an allen 3  Positionen
-2. Die *viewmode-showcase.js* sollte es eigentlich Benutzern ermöglichen sich die Frameworks am unteren Ende der Webseite sowohl als Grid- als auch als Liste anzeigen zu lassen. Leider wurden alle " " Leerzeichen in der Datei durch das Wort "leerzeichen" ersetzt. Reparieren Sie dies.
+```bash
+ssh-keygen -t ed25519 -C "your_email@example.com" 
+```
 
----
+2. Starte den SSH-Agenten im Hintergrund.
+```bash
+eval "$(ssh-agent -s)"
+```
 
-## Nachbereitung
+3. Überprüfe, ob eine `~/.ssh/config` Datei existiert. 
+```bash
+cat ~/.ssh/config
+```
+4. Falls die Datei nicht existiert, erstelle sie und ergänze folgende Zeilen.
+```bash
+Host *
+  AddKeysToAgent yes
+  IdentityFile ~/.ssh/id_ed25519
+```
 
-### Commit und Push
-Änderungen commiten und via `push origin master` auf dem Remote bereit stellen.
+5. Hinterlege die neue Identität.
+```bash
+ssh-add ~/.ssh/id_ed25519
+```
+
+6. Öffne [github.com/settings/keys](https://github.com/settings/keys) und hinterlege den zuvor erstellten Key deinem Account.
+```bash
+cat ~/.ssh/id_ed25519.pub
+```
+
+### 2. Repository in GitHub anlegen. (15 min) 
+
+1. Erstelle ein neues Repository mit dem Namen `webdev-tooling` in GitHub. Andere Einstellungen wie das Hinzufügen einer _README_ oder  _.gitignore_ Datei können ignoriert werden.
+2. Öffne das Terminal in VS Code und führe folgende Befehle aus. Alternativ kann sich auch an der Anleitung in dem zuvor erstellen Github-Repo orientieren.
+
+```bash
+echo "# webdev-tooling" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:"username"/webdev-tooling.git
+git push -u origin main
+```
+
+### 3. Erste Website Erstellen (15 min)
+
+1. Lade das zuvor erstellte Repository über SSH mit `git clone git@github.com:"username"/webdev-tooling.git` herunter.
+2. Erstelle eine _index.html_ Datei und füge den Boilerplate Code mit dem Shortcut `!` hinzu.
+3. Wenn die Live Server Extension installiert und aktiviert ist, starte den Server unter _Go Live_.
+4. Editiere den Text innerhalb des `<Body>` Tags, um Änderungen im Browser sehen zu können. Die Html Datei könnte anschließend so aussehen:
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <script>
+      console.log("hello");
+    </script>
+    <style>
+      h1 {
+        color: red;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Hallo, Web Dev!</h1>
+  </body>
+</html>
+```
+
+5. Pushe die Änderungen in das Remote Repository auf Github.
+
+### 4. Deployment mit GitHub Pages (10 min)
+
+1. Öffne die Einstellungen deines zuvor erstellten Repositories in Github und navigiere zu `github.com/{username}/webdev-tooling/settings/pages`.
+2. Unter _Build and deployment_ wähle den Main Branch und speichere, um den Deployment Prozess zu starten.
+3. Um den Status zu beobachten, navigiere zurück zur Startseite des Repositories. Ein Oranger Punkt neben der letzten Commit Message gibt Hinweis auf den Fortschritt.
+4. Unter `https://{username}.github.io/webdev-tooling/` sollte sich die Webseite nach dem Deployment aufrufen lassen.
+
+
+
+### 5. Prettier Rc erstellen (30 min) (Bonus)
+
+Nachdem Sie die Prettier extension installiert und aktiviert haben, fügen Sie eine `.prettierrc` Ihrem Repository hinzu und ergänzen folgende Funktionalitäten:
+
+- Legen Sie die `tabWidth` auf _2_ fest.
+- Setze am Ende jeder Zeile ein Semikolon.
+- Ersetze `singleQutes` mit `doubleQuotes`.
+- Setze die `printWidth` auf _120_.
+- **[BONUS]** Ergänze `.prettierrc` um ein weiteres Attribut und teste dessen Auswirkung auf den Code.
+
+
