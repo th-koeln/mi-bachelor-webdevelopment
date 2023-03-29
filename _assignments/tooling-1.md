@@ -75,7 +75,7 @@ git push -u origin main
 1. Lade das zuvor erstellte Repository über SSH mit `git clone git@github.com:"username"/webdev-tooling.git` herunter.
 2. Erstelle eine _index.html_ Datei und füge den Boilerplate Code mit dem Shortcut `!` hinzu.
 3. Wenn die Live Server Extension installiert und aktiviert ist, starte den Server unter _Go Live_.
-4. Editiere den Text innerhalb des `<Body>` Tags, um Änderungen im Browser sehen zu können.
+4. Editiere den Text innerhalb des `<body />` Tags, um Änderungen im Browser sehen zu können.
 5. Pushe die Änderungen in das Remote Repository auf Github.
 
 ```html
