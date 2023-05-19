@@ -1,5 +1,5 @@
 ---
-titel: HTML Advanced und CSS Basics (WIP)
+titel: CSS Basics (WIP)
 kuerzel: fd
 verantwortlich: cn
 typ: fd
@@ -54,7 +54,7 @@ Bitte die Aufgaben aus der letzten Session lösen und hochladen. Außerdem bitte
 </div>
 
 
-## Material
+## Weiteres Material
 - [CSS Zen Garden](http://www.csszengarden.com)
 - [CSS Naming Conventions](https://www.freecodecamp.org/news/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849/)
 - [Welche Browser sind derzeit im Markt?](https://gs.statcounter.com/)
@@ -64,16 +64,6 @@ Bitte die Aufgaben aus der letzten Session lösen und hochladen. Außerdem bitte
 - [https://cssreference.io](https://cssreference.io)
 - [https://css-tricks.com](https://css-tricks.com)
 
-## Online Session
-Die heutige Veranstaltung wird nicht vor Ort in Gummersbach stattfinden, sondern als Online Veranstaltung.
-
-Wir treffen uns im oben angegebenen Raum. Wenn Sie den Raum betreten, geben Sie bitte Vor- und Nachnamen als Usernamen an, damit wir die Personen in dem Raum zuordnen können. Es werden voraussichtlich relativ viele Personen sein, die sich gleichzeitg in der Online Konferenz befinden. Das ist eine kleine Herausforderung. Um störende Nebengeräusche während der Veranstaltung zu vermeiden, gibt es folgende Dinge zu beachten:
-
-- benutzen Sie nach Möglichkeit ein Headset oder sorgen Sie dafür, dass Sie in einem ruhigen Raum sitzen
-- muten Sie bitte ihr Mikrofon, wenn Sie nicht sprechen
-- prüfen Sie bitte, am Besten vor der Veranstaltung, ob die korrekten Audio Ein- und Ausgabegeräte auf ihrem Computer eingestellt sind
-
-Prüfen Sie diese Seite bitte, falls Sie nicht in den Raum kommen, denn ggf. müssen wir den Raum kurzfristig wechseln.
 
 ## Übungen
 - [Structured CSS Implementierung](/mi-bachelor-webdevelopment/assignments/fd_02_structured-css/)

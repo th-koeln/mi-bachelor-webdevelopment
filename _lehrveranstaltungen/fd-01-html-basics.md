@@ -32,7 +32,7 @@ Eigenen Computer mit Web-Editor (siehe [Tooling #1](../tooling-1/))
 - [Codepen](http://codepen.io)
 - [JSFiddle](http://jsfiddle.net)
 
-## Weiterführendes Material
+## Weiteres Material
 - [MDN HTML Element Referenz](https://developer.mozilla.org/de/docs/Web/HTML/Element)
 - [W3C](http://www.w3.org)
 - [W3C - HTML5 Spezifikation](https://html.spec.whatwg.org/)
