@@ -8,7 +8,7 @@ termine: 2023-09-21 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 240
-raum: zoom-pruefung
+raum: 3.216
 info: 
 ---
 
