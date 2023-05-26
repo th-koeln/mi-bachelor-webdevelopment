@@ -36,5 +36,5 @@ Basiskenntnisse zu JavaScript (Variablen, Datentypen, If Anweisungen, Schleifen,
 - [Element Web API](https://developer.mozilla.org/en-US/docs/Web/API/Element)
 
 ## Übungen
-- [Page Navigation](/mi-bachelor-webdevelopment/assignments/js-page-navigation/)
-- [Formularvalidierung](/mi-bachelor-webdevelopment/assignments/js-form-validation/)
+- [Formularvalidierung](/mi-bachelor-webdevelopment/assignments/fd_03-js-form-validation/)
+- [Page Navigation](/mi-bachelor-webdevelopment/assignments/fd_03-js-page-navigation/)

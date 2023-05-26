@@ -9,15 +9,15 @@ Diese Aufgabe basiert auf den Aufgaben [Semantisches HTML 1](/mi-bachelor-webdev
 
 ---
 
-## Aufgabe 1 // Projektstruktur
+##  3.1: Projektstruktur
 Reorganisieren Sie Ihr Projekt entsprechend des Vorschlags von MDN zur [Nutzung von Dateien.](https://developer.mozilla.org/de/docs/Learn/Getting_started_with_the_web/Dealing_with_files).
 
-## Aufgabe 2 // Kontrolle über die CSS Eigenschaften
+##  3.2: Kontrolle über die CSS Eigenschaften
 Nutzen Sie für die Kontrolle über das Layout das Konzept [A Modern CSS Reset](https://piccalil.li/blog/a-modern-css-reset). Arbeiten Sie den Artikel Schritt für Schritt durch, so dass Sie ihn beim nächsten mal erklären können.
 
-## Aufgabe 3 // Implementieren Sie einen Webfont
+##  3.3: Implementieren Sie einen Webfont
 Implementieren Sie die im PDF genutzten Schriftarten [IBM Plex Sans und IBM Plex Serif](https://www.fontsquirrel.com/fonts/ibm-plex?q%5Bterm%5D=IBM+Plex&q%5Bsearch_check%5D=Y) für Ihre Dokumente.
-## Aufgabe 4 // Aufteilung des CSS in verschiedene Dateien
+##  3.4: Aufteilung des CSS in verschiedene Dateien
 Splitten Sie Ihr CSS auf und gruppieren Sie die Regeln in sinnvolle Dateien. 
 
 ```
@@ -28,5 +28,5 @@ Splitten Sie Ihr CSS auf und gruppieren Sie die Regeln in sinnvolle Dateien.
 ./variables.css
 ```
 
-## Aufgabe 5 // Einsatz von CSS Properties
+## 4.4 // Einsatz von CSS Properties
 Nutzen Sie für Ihr CSS Custom Properties, so dass Sie konkrete Angaben und Werte nur in der `variables.css` verankert haben.
