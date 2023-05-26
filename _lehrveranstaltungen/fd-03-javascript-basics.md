@@ -1,5 +1,5 @@
 ---
-titel: JavaScript Basics (WIP)
+titel: Interaktive Elemente mit JavaScript implementieren
 kuerzel: fd
 verantwortlich: vs
 typ: fd

@@ -1,5 +1,5 @@
 ---
-titel: CSS Basics (WIP)
+titel: HTML Seiten mit CSS gestalten
 kuerzel: fd
 verantwortlich: cn
 typ: fd

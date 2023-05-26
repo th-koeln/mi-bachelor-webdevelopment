@@ -1,5 +1,5 @@
 ---
-titel: HTML Basics (WIP)
+titel: Einfache Inhalte mit sinnvollem Markup strukturieren
 kuerzel: fd
 verantwortlich: cn
 typ: fd
