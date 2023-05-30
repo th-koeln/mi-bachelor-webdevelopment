@@ -48,4 +48,4 @@ Erstellen Sie am Anfang der Rezeptseite eine One Page Navigation mit folgenden L
 Dabei sollen die Links mit den entsprechenden Überschriften verknüpft werden.
 
 ## Aufgabe 1.5: Verlinkung erstellen
-Verlinken Sie die Übersichtsseite an entsprechender Stelle mit der Rezeptseite über eine absolute Referenz.
+Verlinken Sie die Übersichtsseite an entsprechender Stelle mit der Rezeptseite über eine absolute Referenz und den Punkt „Menü” in der Hauptnavigation auf der Rezeptseite mit der Übersichtsseite.
