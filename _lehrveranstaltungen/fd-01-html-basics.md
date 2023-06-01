@@ -44,6 +44,5 @@ Eigenen Computer mit Web-Editor (siehe [Tooling #1](../tooling-1/))
 Für die heutige Session haben wir eine Aufgabe vorbereitet. Wir werden diese in den folgenden Wochen erweitern.
 
 - [Semantisches HTML](../../assignments/fd_01_html-1/)
-- [Semantisches HTML 2 & ein bisschen CSS](../../assignments/fd_01_html-2/)
 
 
