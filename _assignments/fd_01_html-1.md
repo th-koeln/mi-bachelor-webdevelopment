@@ -32,7 +32,7 @@ Erzeugen Sie zunächst das Verzeichnis `images` im root Ordner.
 
 Kopieren Sie anschließend alle Bilder aus dem Verzeichnis `_data/images/` in den Ordner `images`.
 
-Fügen Sie nun den Bild-Elementen Bildunterschriften hinzu  (siehe Mockups) ein.
+Fügen Sie nun den Bild-Elementen Bildunterschriften hinzu (siehe Mockups).
 
 ## 1.4.: One Page Navigation
 
