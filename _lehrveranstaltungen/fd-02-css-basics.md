@@ -66,4 +66,4 @@ Bitte die Aufgaben aus der letzten Session lösen und hochladen. Außerdem bitte
 
 
 ## Übungen
-- [Structured CSS Implementierung](/mi-bachelor-webdevelopment/assignments/fd_02_structured-css/)
+- [Semantisches HTML 2 & ein bisschen CSS](../../assignments/fd_01_html-2/)
