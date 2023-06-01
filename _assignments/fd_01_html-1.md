@@ -19,7 +19,7 @@ Der Inhalt befindet sich in Markdown-Dateien im Verzeichneis `_data/content/` un
 
 Erstellen Sie zuerst eine `index.html` Datei im root Ordner, unterhalb des root Ordners einen Ordner mit dem Namen `recipes` und darin eine Datei mit dem Namen `spaghetti-aglio-olio-e-peperoncino.html`
 
-Erzeugen Sie nun, auf Basis des Layouts und der Texte, semantisch sauberes Markup in den zuvor erstellten HTML-Dateien. Lassen Sie dabei noch Strukturelemente wie `div`, `section` und `header` und den Kommentarblock und das Formular außen vor.
+Erzeugen Sie nun, auf Basis des Layouts und der Texte, semantisch sauberes Markup in den zuvor erstellten HTML-Dateien. Lassen Sie dabei noch Strukturelemente wie `div`, `section` und `header` und das Formular außen vor.
 
 ## 1.2: Strukturelemente nutzen
 
