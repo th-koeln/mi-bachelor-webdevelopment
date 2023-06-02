@@ -13,7 +13,8 @@ Erzeugen Sie nun einen neuen Branch mit dem Namen `session-2` und wechseln Sie b
 ---
 ## 2.1: CSS Styling
 
-Verändern Sie das Design der Elemente mithilfe von CSS. Binden Sie die CSS Anweisungen im *Head* der HTML Datei ein. Versuchen Sie sich der Anmutung der Vorlage anzunähern.
+Verändern Sie das Design der Elemente mithilfe von CSS. Binden Sie die CSS Anweisungen im *Head* der HTML Datei ein. Versuchen Sie sich der Anmutung der 
+anzunähern. Einen kleinen Styleguide mit basalen Angaben finden Sie in folgendem [Figma File](https://www.figma.com/file/yQ5ymSWETZZgfXlSbnQVl9/Mockups?type=design&node-id=0-1&t=Ze81myjOVLU8Ym5N-0)
 
 ## 2.2: One Page Navigation
 
