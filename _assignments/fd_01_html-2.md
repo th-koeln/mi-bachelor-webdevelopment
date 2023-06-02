@@ -13,11 +13,11 @@ Erzeugen Sie nun einen neuen Branch mit dem Namen `session-2` und wechseln Sie b
 ---
 ## 2.1: CSS Styling
 
-Verändern Sie das Design der Elemente mithilfe von CSS. Binden Sie die CSS Anweisungen im *Head* der HTML Datei ein. Versuchen Sie sich der Anmutung der PDF Vorlage anzunähern.
+Verändern Sie das Design der Elemente mithilfe von CSS. Binden Sie die CSS Anweisungen im *Head* der HTML Datei ein. Versuchen Sie sich der Anmutung der Vorlage anzunähern.
 
 ## 2.2: One Page Navigation
 
-Passen Sie das Design der One Page Navigation so an, dass es wie in der PDF Vorlage vorgegeben aussieht. Wichtig ist, dass das Element immer sichtbar ist, wenn der Nutzer die Seite scrollt.
+Passen Sie das Design der One Page Navigation so an, dass es wie in der Vorlage vorgegeben aussieht. Wichtig ist, dass das Element immer sichtbar ist, wenn der Nutzer die Seite scrollt.
 
 ## 2.3: Formulare
 
