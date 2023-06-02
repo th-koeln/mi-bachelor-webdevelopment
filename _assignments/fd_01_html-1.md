@@ -5,37 +5,47 @@ tags:
  - HTML
 ---
 
-Wir werden zur Bearbeitung der Aufgaben GitHub Classroom nutzen. **Das Assignment, welches für diese Session erstellt wurde, ist über diesen [Einladungslink](https://classroom.github.com/a/RmdS1W08) erreichbar.** Wenn Sie auf den Link klicken, wird automatisch ein Repository, auf Basis des Assignments, erstellt.
+Wir werden zur Bearbeitung der Aufgaben GitHub Classroom nutzen. **Das Assignment, welches für diese Session erstellt wurde, ist über diesen [Einladungslink](https://classroom.github.com/a/1ocSJd2T) erreichbar.** Wenn Sie auf den Link klicken, wird automatisch ein Repository, auf Basis des Assignments, erstellt.
 
-Klonen Sie bitte anschließend das Repository auf ihren Rechner und bearbeiten Sie die Aufgaben darin. Comitten und pushen ihre Änderungen in kurzen Intervallen in das entferne Repository, so dass eine **aussagekräfige Commit History** entsteht.
+Klonen Sie bitte anschließend das Repository auf ihren Rechner und bearbeiten Sie die Aufgaben darin. Committen und pushen Sie ihre Änderungen in kurzen Intervallen in das entferne Repository, so dass eine **aussagekräfige Commit History** entsteht.
 
 ---
 
-## HTML 1.1: Inhalte auszeichnen
+## 1.1: Inhalte auszeichnen
 
-Gestalterische Grundlage für diese Aufgabe ist eine Bachelorarbeit von Kephas Nguyen. Gegeben dazu ist der Inhalt als Markdown-Datei in der `_data/chapters/` und das Layout als PDF-Seiten in der `_data/mockups/`.
+Als Grundlage für die folgenden  dienen Inhalte von der Webseite [Chefkoch](https://www.chefkoch.de). Es geht um die Strukturierung einer Übersichts- und Rezeptseite.
 
-Erstellen Sie zuerst den Ordner `chapter` und darin eine Datei mit dem Namen `design-principles.html`.
+Der Inhalt befindet sich in Markdown-Dateien im Verzeichneis `_data/content/` und das Layout als PDF-Seiten im Verzeichnis `_data/mockups/`.
 
-Erzeugen Sie nun, auf Basis des Layouts und der Texte, semantisch sauberes Markup in der zuvor erstellten HTML-Datei. Lassen Sie dabei noch Strukturelemente wie `div`, `section` und `header` außen vor.
+Erstellen Sie zuerst eine `index.html` Datei im root Ordner, unterhalb des root Ordners einen Ordner mit dem Namen `recipes` und darin eine Datei mit dem Namen `spaghetti-aglio-olio-e-peperoncino.html`
 
-## HTML 1.2: Strukturelemente nutzen
+Erzeugen Sie nun, auf Basis des Layouts und der Texte, semantisch sauberes Markup in den zuvor erstellten HTML-Dateien. Lassen Sie dabei noch Strukturelemente wie `div`, `section` und `header` und das Formular außen vor.
 
-Reichern Sie nun das Dokument mit semantischen Strukturelementen an. 
+## 1.2: Strukturelemente nutzen
+
+Reichern Sie nun die Dokumente mit semantischen Strukturelementen an. 
 
 
-## HTML 1.3: Bild hinzufügen
+## 1.3: Bilder hinzufügen
 
-Setzen sie nun den folgenden Text...
+Erzeugen Sie zunächst das Verzeichnis `images` im root Ordner.
 
-```md
-![User Experience](../images/user-experience.png)
-```
+Kopieren Sie anschließend alle Bilder aus dem Verzeichnis `_data/images/` in den Ordner `images`.
 
-und fügen sie ein Bild-Element mit Bildunterschrift (siehe PDF) ein.
+Fügen Sie nun den Bild-Elementen Bildunterschriften hinzu (siehe Mockups).
 
-## HTML 1.4: Übersichtsseite und Navigation erstellen
+## 1.4.: One Page Navigation
 
-Erzeugen Sie die Datei `index.html` im root Ordner. Fügen sie dort ein grobes Inhaltsverzeichnis mit dem Titel der Arbeit ein. 
+Erstellen Sie am Anfang der Rezeptseite eine One Page Navigation mit folgenden Links:
+* Inhaltsverzeichnis
+* Einleitung
+* Zutaten
+* Rezept
+* Nährwerte
+* Über den Autor
+* Kommentare
 
-Verlinken Sie die Kapitel-Seite `design-principles.html` den  Navigationspunkt `Design Principles` in der Datei `index.html` über eine absolute Referenz. Fügen Sie eine weitere absolute Referenz von der `design-principles.html` auf das Inhaltsverzeichnis ein.
+Dabei sollen die Links mit den entsprechenden Überschriften verknüpft werden.
+
+## Aufgabe 1.5: Verlinkung erstellen
+Verlinken Sie die Übersichtsseite an entsprechender Stelle mit der Rezeptseite über eine absolute Referenz und den Punkt „Menü” in der Hauptnavigation auf der Rezeptseite mit der Übersichtsseite.

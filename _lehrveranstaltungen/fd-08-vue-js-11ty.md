@@ -1,14 +1,14 @@
 ---
-titel: Generierter & dynamischer Content via Vue.js & 11ty
+titel: Generierter & dynamischer Content via Vue.js & 11ty (WIP)
 kuerzel: fd
 verantwortlich: cn
 typ: fd
 pflicht: false
-termine: 2022-07-07 10:00
+termine: 2023-06-29 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 420
-raum: zoom-fd
+raum: 0.505
 info: Heute geht es um …
 ---
 

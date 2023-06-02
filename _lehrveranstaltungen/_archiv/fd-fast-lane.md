@@ -8,7 +8,7 @@ termine: 12021-05-20 11:00
 empfohlene-voraussetzungen: 
 published: false
 dauer: 180
-raum: zoom-fd
+raum: 0.505
 info: Support für Interessierte
 ---
 

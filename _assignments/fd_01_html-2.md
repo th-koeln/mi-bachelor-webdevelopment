@@ -6,30 +6,29 @@ tags:
  - CSS
 ---
 
-Wir werden zur Bearbeitung der Aufgaben wieder GitHub Classroom nutzen. Die Aufgaben bauen auf den Markup von den Übungen aus dem Workshop [HTML Basics](../fd_01_html-1/) auf. Verwenden Sie daher das Repository Assignment, aus dem Workshop [HTML Basics](../fd_01_html-1/). 
+Wir werden zur Bearbeitung der Aufgaben wieder GitHub Classroom nutzen. Die Aufgaben bauen auf den Markup von den Übungen aus dem Workshop [Einfache Inhalte mit sinnvollem Markup strukturieren](../fd_01_html-1/) auf. Verwenden Sie daher das Repository Assignment [Semantisches HTML 1](../fd_01_html-1/). 
 
-Erzeugen Sie nun einen neuen Branch mit dem Namen `session-2` und wechseln Sie bitte in diesen Branch. Sorgen sie wie in der ersten Aufgabe für eine saubere Git-Commit-History.
+Erzeugen Sie nun einen neuen Branch mit dem Namen `session-2` und wechseln Sie bitte in diesen Branch. Sorgen Sie wie in der ersten Aufgabe für eine saubere Git-Commit-History.
 
 ---
-
-## HTML 2.1: CSS Styling
+## 2.1: CSS Styling
 
 Verändern Sie das Design der Elemente mithilfe von CSS. Binden Sie die CSS Anweisungen im *Head* der HTML Datei ein. Versuchen Sie sich der Anmutung der PDF Vorlage anzunähern.
 
-## HTML 2.2: Tabellen
+## 2.2: One Page Navigation
 
-Erweitern Sie ihr Basis Layout um eine Tabelle. Der Inhalt befindet sich dazu auch in der `_data/chapters/design-principles.md`.
+Passen Sie das Design der One Page Navigation so an, dass es wie in der PDF Vorlage vorgegeben aussieht. Wichtig ist, dass das Element immer sichtbar ist, wenn der Nutzer die Seite scrollt.
 
-## HTML 2.3: Formulare
+## 2.3: Formulare
 
-Nutzer:innen Ihrer Webseite soll die Möglichkeit gegeben werden Kommentare zu einem Kapitel abzugeben. Fügen sie einen Abschnitt in der Seite hinzu, in der ein Formular mit folgenen Feldern zur Verfügung steht:
+Nutzer Ihrer Webseite soll die Möglichkeit gegeben werden Kommentare zu einem Rezept abzugeben. Fügen sie einen Abschnitt in der Seite hinzu, in der ein Formular mit folgenen Feldern zur Verfügung steht:
 
 - **Name** des Kommentarautors
 - **E-Mail** Adresse des Autors
 - **Upload**-Möglichkeit eines Profilfotos des Autors
 - **Texteingabe** Feld
 - **Auswahl**, ob der Autorenname in einer späteren Anzeige anonymisiert werden soll
-- **Bestätigung**, dass die Datenschutzerklärung gelesen wurde ;)
+- **Bestätigung**, dass die Datenschutzerklärung gelesen wurde ;-)
 - **Senden**
 - **Zurücksetzen**
 

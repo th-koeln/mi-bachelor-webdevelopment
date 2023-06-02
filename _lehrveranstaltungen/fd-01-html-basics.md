@@ -1,14 +1,14 @@
 ---
-titel: HTML Basics
+titel: Einfache Inhalte mit sinnvollem Markup strukturieren
 kuerzel: fd
 verantwortlich: cn
 typ: fd
 pflicht: false
-termine: 2022-04-01 10:00
+termine: 2023-06-01 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 420
-raum: zoom-fd
+raum: 0.505
 info: Wir werden uns heute im Wesentlichen mit der Markupsprache HTML beschäftigen und wie man mit dieser einfache HTML Dokumente erstellt.
 ---
 
@@ -23,32 +23,26 @@ Falls wir noch Zeit haben werden wir uns mit weiteren Elementen, zur Erstellung 
 ## Was muss ich mitbringen?
 Eigenen Computer mit Web-Editor (siehe [Tooling #1](../tooling-1/))
 
-### Material
+## Material
 - [Web Developer Roadmap: Frontend](https://roadmap.sh/frontend)
 - [Einführung in HTML vom Mozilla Developer Network (MDN)](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
-- [Interneting is Hard](https://www.internetingishard.com)
 - Weiteres Material im Miro Board (Link im Ilias Kurs)
 
 ### Codeplaygrounds
 - [Codepen](http://codepen.io)
 - [JSFiddle](http://jsfiddle.net)
 
-## Weiterführendes Material
+## Weiteres Material
 - [MDN HTML Element Referenz](https://developer.mozilla.org/de/docs/Web/HTML/Element)
 - [W3C](http://www.w3.org)
 - [W3C - HTML5 Spezifikation](https://html.spec.whatwg.org/)
 - [Emmet Cheatsheet](https://docs.emmet.io/cheat-sheet/)
 - [HTMLHint Extension für VSCode](https://marketplace.visualstudio.com/items?itemName=mkaufman.HTMLHint)
 
-## Coding Support
-- [WebDev Slack Channel](https://join.slack.com/t/medieninforma-kw06062/shared_invite/zt-16nryl1vl-tOty1AqRhc~xUxVwVJ5Olw)
-- [Visual Studio Code Live Sharing Extension](https://scotch.io/tutorials/getting-started-with-live-coding-in-visual-studio-code-with-live-share)
-
 
 ## Übungen
 Für die heutige Session haben wir eine Aufgabe vorbereitet. Wir werden diese in den folgenden Wochen erweitern.
 
 - [Semantisches HTML](../../assignments/fd_01_html-1/)
-- [Semantisches HTML 2 & ein bisschen CSS](../../assignments/fd_01_html-2/)
 
 

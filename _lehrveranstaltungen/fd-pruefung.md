@@ -4,11 +4,11 @@ kuerzel: fd
 verantwortlich: cn
 typ: fd
 pflicht: false
-termine: 2022-09-15 10:00
+termine: 2023-09-21 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 240
-raum: zoom-pruefung
+raum: 3.216
 info: 
 ---
 
@@ -46,8 +46,4 @@ Die Bewertung erfolgt entlang der folgenden Niveaustufen:
 - die Änderungen sind gepusht
 - der erzeugte Code zeigt, dass der Verfasser\*In die zugrunde liegenden Technologien und Konzepte in wesentlichen Teilen verstanden hat
 
-
-## Fixes
-- bitte *docs/* in die *.gitignore* packen
-- bitte *compiled-assets/* in die *.gitignore* packen
 

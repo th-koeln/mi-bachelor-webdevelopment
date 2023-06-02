@@ -1,14 +1,14 @@
 ---
-titel: Hackathon // Prüfungstraining
+titel: Hackathon // Prüfungstraining (WIP)
 kuerzel: fd
 verantwortlich: cn
 typ: fd
 pflicht: false
-termine: 2022-07-08 10:00
+termine: 2023-07-06 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 420
-raum: zoom-fd
+raum: 0.505
 info: Heute geht es um …
 ---
 

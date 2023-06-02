@@ -1,0 +1,45 @@
+---
+titel: JavaScript Advanced 2 (WIP)
+kuerzel: fd
+verantwortlich: vs
+typ: fd
+pflicht: false
+termine: 2023-06-23 10:00
+empfohlene-voraussetzungen: 
+published: true
+dauer: 420
+raum: 0.505
+info: Heute geht es um objektorientiertes Javascript, die fetch API, die Template Engine „Mustache”, Event Delegation und ESLint
+
+---
+
+## Worum geht es?
+Heute schauen wir uns an, wie man mit objektorientiertem JavaScript den Code besser strukturieren und Funktionen kapseln kann. Darüber hinaus befassen wir uns damit, wie man über die fetch API asynchron Daten abrufen und auf Basis dieser Daten dynamisch HTML Markup erzeugen kann. In diesem Zuge führen wir die Template Engine „Mustache” ein.
+Dann schauen wir uns eine alternative Methode zum Behandeln von Events an und befassen uns mit dem Thema „Codequalität” in JavaScript.
+
+Dabei gehen wir auf folgende Fragestellungen und Probleme ein:
+
+- [Wie sind Objekte aufgebaut und wie kann man diese erzeugen?](https://developer.mozilla.org/de/docs/Learn/JavaScript/Objects/Basics)
+- [Wie erstellt man Konstruktoren und wie kann man darüber Objektinstanzen erstellen?](https://developer.mozilla.org/de/docs/Learn/JavaScript/Objects/Object-oriented_JS)
+- [Was sind Objektprotypen und wie lässt sich darüber Vererbung realisieren?](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_prototypes)
+- [Wie kann man mit Klassen die Lesbarkeit von Objektprototypen verbessern?](https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Classes)
+- [Was sind Promises und wie funktionieren diese?](https://developer.mozilla.org/de/docs/Web/JavaScript/Guide/Using_promises)
+- [Wie kann man über die fetchAPI Daten asynchron von einem Server laden?](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
+- [Wie kann man auf Basis von JSON Daten dynamisch Markup erzeugen?](https://developer.mozilla.org/de/docs/Learn/JavaScript/Objects/JSON)
+- [Wie kann man mit Hilfe der Template Engine „Mustache” dynamisch Markup erzeugen?](https://www.tsmean.com/articles/mustache/the-ultimate-mustache-tutorial/)
+- [Was ist Event Delegation und wie kann man darüber auf Events reagieren?](https://gomakethings.com/why-event-delegation-is-a-better-way-to-listen-for-events-in-vanilla-js/)
+- [Wie kann man ESLint und den Airbnb style guide in seinem Projekt einbinden?](https://dev.to/bigyank/a-quick-guide-to-setup-eslint-with-airbnb-and-prettier-3di2)
+- [Warum braucht JavaScript einen Style Guide?](https://airbnb.io/projects/javascript/)
+
+
+## Material
+- [How JavaScript Event Delegation Works?](https://davidwalsh.name/event-delegate)
+- [Mustache - Logic-less templates.](https://mustache.github.io)
+- [async function](https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Statements/async_function)
+- [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+- [ESLint - Pluggable JavaScript linter](https://eslint.org)
+- [Inheritance in JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Inheritance)
+
+
+## Übungen
+- [Javascript OOP, fetch API, Mustache Templates, ESLint](/mi-bachelor-webdevelopment/assignments/js-oop-fetch-api-mustache-eslint/)

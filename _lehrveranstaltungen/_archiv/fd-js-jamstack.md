@@ -8,7 +8,7 @@ termine: 12020-07-16 10:00
 empfohlene-voraussetzungen: 
 published: false
 dauer: 300
-raum: zoom-fd
+raum: 0.505
 info: 
 ---
 
