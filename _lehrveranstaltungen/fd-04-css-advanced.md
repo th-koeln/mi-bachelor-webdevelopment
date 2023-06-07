@@ -8,7 +8,7 @@ termine: 2023-06-09 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 420
-raum: 0.505
+raum: online, Raum ist im Ilias verlinkt
 info: Weiterführende Themen zu CSS
 ---
 
