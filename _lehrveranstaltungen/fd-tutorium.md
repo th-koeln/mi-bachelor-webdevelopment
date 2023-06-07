@@ -8,7 +8,7 @@ termine: 2023-06-07 15:00, 2023-06-14 15:00, 2023-06-21 15:00, 2023-06-28 15:00,
 empfohlene-voraussetzungen: 
 published: true
 dauer: 120
-raum: 3.217
+raum: 3.216
 info: 
 ---
 
