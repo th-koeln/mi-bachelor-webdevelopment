@@ -24,6 +24,7 @@ Heute beschäftigen wir uns noch mal intensiver mit dem Thema CSS. Konkret geht 
 - [Was sind Media Queries und wie nutze ich selbige?](https://developer.mozilla.org/de/docs/Web/CSS/Media_Queries/Using_media_queries)
 - [Wie kann ich Positionierung verstehen und sinnvoll nutzen?](https://css-tricks.com/almanac/properties/p/position/)
 - [Wie gehe ich mit Bildern bei verschiedenen Vierports um?](https://css-tricks.com/a-guide-to-the-responsive-images-syntax-in-html/)
+- [Was sind Custom Properties und wie verwende ich sie](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)? 
 
 ## Material
 - [Specificity Calculator](https://specificity.keegan.st/)
