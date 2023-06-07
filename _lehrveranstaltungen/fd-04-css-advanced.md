@@ -1,5 +1,5 @@
 ---
-titel: CSS Style & Layout, CSS Structure (WIP)
+titel: Komplexere Layouts mit CSS erstellen
 kuerzel: fd
 verantwortlich: cn
 typ: fd
