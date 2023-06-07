@@ -8,7 +8,7 @@ termine: 2023-06-16 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 420
-raum: 0.505
+raum: 3.209
 info: Heute geht es um SASS, CSS Transitions & Responsive Design.
 ---
 
