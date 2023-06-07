@@ -8,7 +8,7 @@ termine: 2023-06-15 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 420
-raum: Online, Zugangsdaten im Ilias
+raum: 3.217
 info: Heute gibt es eine Einführung in Clientseitiges JavaScript
 ---
 
