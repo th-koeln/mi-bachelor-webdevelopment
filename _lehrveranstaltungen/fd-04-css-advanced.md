@@ -50,7 +50,4 @@ Heute beschäftigen wir uns noch mal intensiver mit dem Thema CSS. Konkret geht 
 - [stylelint-order Plugin](https://github.com/hudochenkov/stylelint-order)
 - [stylelint-config-idiomatic-order Plugin](https://github.com/ream88/stylelint-config-idiomatic-order)
 
-## Übungen
-- [CSS Layouts](/mi-bachelor-webdevelopment/assignments/css-layouts/)
-- [CSS Grid](/mi-bachelor-webdevelopment/assignments/css-grid/)
 
