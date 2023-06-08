@@ -8,7 +8,7 @@ termine: 2023-06-09 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 420
-raum: online, Raum ist im Ilias verlinkt
+raum: online, ist im Ilias verlinkt
 info: Weiterführende Themen zu CSS
 ---
 
@@ -20,24 +20,15 @@ Heute beschäftigen wir uns noch mal intensiver mit dem Thema CSS. Konkret geht 
 - Wie gehe ich an das Thema «Responsive Design» aus Implementierungssicht ran?
 - [Was war noch mal das Box Model?](https://piccalil.li/tutorial/how-css-box-sizing-works)
 - [Welche Display Varianten gibt es?](https://css-tricks.com/almanac/properties/d/display/)
-- [Wie kann ich auf schnell und einfach die Viewportgröße reagieren?](https://blog.bitsrc.io/css-clamp-the-responsive-combination-weve-all-been-waiting-for-f1ce1981ea6e)
-- [Was sind Media Queries und wie nutze ich selbige?](https://developer.mozilla.org/de/docs/Web/CSS/Media_Queries/Using_media_queries)
 - [Wie kann ich Positionierung verstehen und sinnvoll nutzen?](https://css-tricks.com/almanac/properties/p/position/)
-- [Wie gehe ich mit Bildern bei verschiedenen Vierports um?](https://css-tricks.com/a-guide-to-the-responsive-images-syntax-in-html/)
 - [Was sind Custom Properties und wie verwende ich sie](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)? 
 
 ### Style & Layout
-- [Responsive Design mit CSS: Flexbox oder Grid?](https://www.drweb.de/responsive-design-css-flexbox-grid/)
-- [CSS Grid Layout bei MDN](https://developer.mozilla.org/de/docs/Web/CSS/CSS_Grid_Layout)
-- [Einführung in CSS Grids](https://blog.kulturbanause.de/2013/12/css-grid-layout-module/)
-- [Flexbox Playground](https://coding.imweb.io/demo/flex/index.html)
+- [Flexbox Playground](https://flexbox.tech/)
 - [Grid Playground](https://mozilladevelopers.github.io/playground/)
-- [CSS Grid Garden](https://cssgridgarden.com/#de)
 
 ### Struktur & Organisation von CSS
 - [High-level advice and guidelines for writing sane, manageable, scalable CSS](https://cssguidelin.es/)
-- [Poll Results: How do you order your CSS properties?](https://css-tricks.com/poll-results-how-do-you-order-your-css-properties/)
-- [HOW TO ORGANIZE CSS @ 9ELEMENTS](https://9elements.com/css-rule-order/)
 - [How to name css classes](http://bdavidxyz.com/blog/how-to-name-css-classes/)
 
 #### Stylelint

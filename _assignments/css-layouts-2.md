@@ -1,5 +1,5 @@
 ---
-titel: CSS Layouts
+titel: CSS Layouts 2
 tags: 
   - CSS
 published: true
