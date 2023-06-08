@@ -1,5 +1,5 @@
 ---
-titel: Komplexere Layouts mit CSS erstellen
+titel: Layouts mit CSS erstellen
 kuerzel: fd
 verantwortlich: cn
 typ: fd
@@ -25,12 +25,6 @@ Heute beschäftigen wir uns noch mal intensiver mit dem Thema CSS. Konkret geht 
 - [Wie kann ich Positionierung verstehen und sinnvoll nutzen?](https://css-tricks.com/almanac/properties/p/position/)
 - [Wie gehe ich mit Bildern bei verschiedenen Vierports um?](https://css-tricks.com/a-guide-to-the-responsive-images-syntax-in-html/)
 - [Was sind Custom Properties und wie verwende ich sie](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)? 
-
-## Material
-- [Specificity Calculator](https://specificity.keegan.st/)
-- [Specificity Quiz](https://mjswensen.github.io/css-power-ups/the-cascade-and-specificity/specificity-quiz/)
-- [Positionierung mit Hilfe der CSS-Eigenschaft `position`](https://blog.kulturbanause.de/2010/01/positionierung-mit-hilfe-der-css-eigenschaft-position/)
-- [Einführung in das Flexible Box Layout Module](https://blog.kulturbanause.de/2013/07/einfuhrung-in-das-flexbox-modell-von-css/)
 
 ### Style & Layout
 - [Responsive Design mit CSS: Flexbox oder Grid?](https://www.drweb.de/responsive-design-css-flexbox-grid/)
