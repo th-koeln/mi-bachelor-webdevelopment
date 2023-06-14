@@ -5,7 +5,9 @@ tags:
 published: true
 ---
 
-Diese Aufgabe baut auf auf dem Code aus den vorangegangenen Assignments auf.
+Wir werden zur Bearbeitung der Aufgaben wieder GitHub Classroom nutzen. Das Assignment, welches für diese Session erstellt wurde, ist über diesen [Einladungslink](https://classroom.github.com/a/wDjYZBDI) erreichbar.
+
+Wenn Sie auf den Link klicken, wird automatisch ein Repository, mit dem Startcode des Assignments, erstellt. Klonen Sie bitte anschließend das Repository auf ihren Rechner und bearbeiten Sie die Aufgaben darin.
 
 ## 6.1: JavaScript Datei erzeugen und einbinden
 Erzeugen Sie einen `scripts` Ordner in ihrem Projektordner und darin eine Datei `main.js`.
