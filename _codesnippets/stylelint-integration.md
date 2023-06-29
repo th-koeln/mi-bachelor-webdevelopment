@@ -38,10 +38,10 @@ In der `package.json` sollten die Dependencies drin stehen. Um StyleLint auszuf√
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "devDependencies": {
-        "stylelint": "^14.8.5",
-        "stylelint-config-idiomatic-order": "^8.1.0",
-        "stylelint-config-standard": "^25.0.0",
-        "stylelint-order": "^5.0.0"
+        "stylelint": "^15.9.0",
+        "stylelint-config-idiomatic-order": "^9.0.0",
+        "stylelint-config-standard": "^33.0.0",
+        "stylelint-order": "^6.0.3"
     }
 }
 ```
