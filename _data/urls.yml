@@ -27,9 +27,13 @@ zoom-tooling:
   url: https://th-koeln.zoom.us/j/81956272475
 
 zoom-support:
-  name: "Zoom (Meeting-ID: 81956272475, Kenncode im Ilias)"
-  url: https://th-koeln.zoom.us/j/81956272475
+  name: "Zoom (Meeting-ID: 6078076173, Kenncode im Ilias)"
+  url: https://th-koeln.zoom.us/j/6078076173
 
 zoom-pruefung:
-  name: "Zoom (Meeting-ID: 81956272475, Kenncode im Ilias)"
-  url: https://th-koeln.zoom.us/j/81956272475
+  name: "Zoom (Meeting-ID: 6078076173, Kenncode im Ilias)"
+  url: https://th-koeln.zoom.us/j/6078076173
+
+zoom-tutorium:
+  name: "Zoom (Meeting-ID: 8111664954, Kenncode im Ilias)"
+  url: https://th-koeln.zoom-x.de/j/8111664954
