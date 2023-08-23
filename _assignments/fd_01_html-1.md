@@ -1,5 +1,5 @@
 ---
-titel: Semantisches: HTML 1
+titel: Semantisches HTML 1
 published: true
 tags:
  - HTML
