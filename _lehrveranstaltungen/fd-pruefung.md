@@ -18,16 +18,15 @@ info:
 Die Bewertung erfolgt entlang der folgenden Niveaustufen:
 
 ### Beste Lösung
-- die **Must Features** sind vollständig umgesetzt und funktionieren
+- Features im Wert von 40 Storypoints sind vollständig umgesetzt und funktionieren
 - die Änderungen für die Features sind in der Commit Historie ersichtlich und verständlich erklärt
 - alle Features sind gepusht
-- ein Zusatz-Feature im Umfang von mindestens **3 Storypoints** ist implementiert und funktioniert
 - der erzeugte Code zeigt, dass der Verfasser\*In ein sehr gutes Verständnis der zugrunde liegenden Technologien und Konzepte hat 
 - die Änderungen wurden im Sinne der Projektstruktur in den passenden Dateien gemacht
 - der erzeugte Code ist nachvollziehbar, selbsterklärend und effizient (semantisches HTML, Nutzung von SCSS & Custom Properties, robustes Javascript)
 
 ### Gute Lösung
-- die **Must Features** sind vollständig umgesetzt und funktionieren
+- Features im Wert von 30 Storypoints sind vollständig umgesetzt und funktionieren
 - die Änderungen für die Features sind in der Commit Historie ersichtlich
 - alle Features sind gepusht
 - die Änderungen wurden im Sinne der Projektstruktur in den passenden Dateien gemacht
@@ -35,13 +34,13 @@ Die Bewertung erfolgt entlang der folgenden Niveaustufen:
 - der erzeugte Code ist nachvollziehbar, selbsterklärend und effizient (semantisches HTML, Nutzung von SCSS & Custom Properties, robustes Javascript)
 
 ### Passable Lösung
-- die **Must Features** sind vollständig umgesetzt und funktionieren mir kleinen Ausnahmen
+- Features im Wert von 25 Storypoints sind vollständig umgesetzt und funktionieren mir kleinen Ausnahmen
 - die Änderungen für die Features sind in der Commit Historie ersichtlich
 - alle Features sind gepusht
 - der erzeugte Code zeigt, dass der Verfasser\*In ein grundlegendes Verständnis der zugrunde liegenden Technologien und Konzepte hat
 
 ### Akzeptable Lösung
-- die meisten **Must Features** sind vollständig umgesetzt und funktionieren überwiegend
+- Features im Wert von 20 Storypoints sind vollständig umgesetzt und funktionieren überwiegend
 - die Änderungen für die Features sind in der Commit Historie ersichtlich
 - die Änderungen sind gepusht
 - der erzeugte Code zeigt, dass der Verfasser\*In die zugrunde liegenden Technologien und Konzepte in wesentlichen Teilen verstanden hat
