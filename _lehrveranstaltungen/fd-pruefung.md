@@ -281,3 +281,11 @@ Hier soll ein visueller Anker umgesetzt werden, der Nutzer:innen dabei unterstü
 - Storypoints: 5
 
 **HTML, CSS & Javascript**
+
+## Support
+
+### Server läuft, aber aktualisiert nicht?
+```
+jekyll serve -l --force_polling
+```
+
