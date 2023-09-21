@@ -103,9 +103,9 @@ Bei Fragen oder Unklarheiten stehen wir Ihnen gerne zur Verfügung.
 
 Die Informationen der [Keynote Speaker](127.0.0.1:4000/freiheit-und-gleichheit-in-der-bildungsgeschichte/keynote-speaker/) sollen um das jeweile Bild ergänzt werden. Auf das jeweilige Bild können Sie mit folgender Syntax zugreifen:
 
-```
-  <img src="{{speaker.image | relative_url }}" alt="{{speaker.name}}">
-```
+![Access Images](../../images/code-speaker-fd-2023.png)
+
+
 
 Das HTML ändern Sie bitte in der Datei `_includes/single-speaker.html`. Das CSS in der `speaker.css`.
 
