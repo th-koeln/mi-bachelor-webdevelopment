@@ -4,7 +4,7 @@ kuerzel: iot
 verantwortlich: mb
 typ: iot
 pflicht: false
-termine: 2022-05-06 10:00
+termine: 2024-06-07 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 420
