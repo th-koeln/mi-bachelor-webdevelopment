@@ -4,11 +4,11 @@ kuerzel: fddw
 verantwortlich: hvn, mf
 typ: fddw
 pflicht: false
-termine: 2023-03-31 10:00
+termine: 2024-06-13 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 420
-raum: 0.505
+raum: fddw-vor-ort
 info: Heute geht es um Kick-Off der Veranstaltung
 ---
 

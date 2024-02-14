@@ -14,7 +14,7 @@ zoom-webdev:
   name: "Zoom (Meeting-ID: 81956272475, Kenncode im Ilias)"
   url: https://th-koeln.zoom.us/j/81956272475
 
-0.505:
+3.218:
   name: "Zoom (Meeting-ID: 3709124564, Kenncode im Ilias)"
   url: https://th-koeln.zoom.us/j/3709124564?pwd=N0k3NC9YUDk1dyt0VDBLaGZ5OXZ1dz09
 
@@ -34,6 +34,16 @@ zoom-pruefung:
   name: "Zoom (Meeting-ID: 6078076173, Kenncode im Ilias)"
   url: https://th-koeln.zoom.us/j/6078076173
 
+zoom-fd:
+  name: "Zoom (Meeting-ID: 6078076173, Kenncode im Ilias)"
+  url: https://th-koeln.zoom.us/j/6078076173
+
 zoom-tutorium:
   name: "Zoom (Meeting-ID: 8111664954, Kenncode im Ilias)"
   url: https://th-koeln.zoom-x.de/j/8111664954
+
+fd-vor-ort:
+  name: 3.218
+
+fddw-vor-ort:
+  name: 0.505 
