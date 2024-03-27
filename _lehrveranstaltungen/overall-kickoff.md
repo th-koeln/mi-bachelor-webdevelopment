@@ -1,18 +1,19 @@
 ---
-titel: Kick-Off zum Vertiefungsmodul 
+titel: Kick-Off und Tooling Session
 kuerzel: o-ft
 verantwortlich: alle
 typ: overall
 pflicht: false
-termine: 2022-03-28 12:00
+termine: 2024-04-17 13:00
 empfohlene-voraussetzungen: 
 published: true
-dauer: 60
-raum: zoom-webdev
+dauer: 240
+raum: 3.216
 info:
 ---
 
-
-In diesem Semester starten wir mit einem Online Kick-Off. Wir sind gespannt :)
-
-Die Zugangsdaten finden Sie im zugehörigen [Ilias Kurs zum Vertiefungsmodul Web Development](https://ilias.th-koeln.de/goto.php?target=crs_1238198&client_id=ILIAS_FH_Koeln).
+Heute sagen wir «Hallo», berichten kurz was in diesem Semester im Vertiefungsmodul passiert und stürzen uns dann in eine Tooling Session. Hier werden wir:
+- die IDE mit entsprechenden Extensions einrichten
+- GIT Zugang konfigurieren und austesten
+- ein paar GIT Ernstfallübungen machen
+- Live Server austesten
