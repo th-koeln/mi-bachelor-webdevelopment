@@ -3,3 +3,10 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+
+_repos/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+.DS_Store
+code/
