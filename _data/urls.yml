@@ -2,6 +2,10 @@ ilias:
   name: Ilias
   url: https://ilias.th-koeln.de/goto.php?target=crs_1238198&client_id=ILIAS_FH_Koeln
 
+ilu:
+  name: Modul im Ilu
+  url: https://ilu.th-koeln.de/goto.php?target=crs_276977&client_id=thkilu
+
 ilias-pruefung:
   name: Ilias
   url: https://ilias.th-koeln.de/goto.php?target=crs_1161102&client_id=ILIAS_FH_Koeln
