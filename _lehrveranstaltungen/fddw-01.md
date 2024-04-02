@@ -1,5 +1,5 @@
 ---
-titel: Workshop 1: Kickoff und Einführung in Docker
+titel: Kickoff und Einführung in Docker
 kuerzel: fddw
 verantwortlich: hvn, mf
 typ: fddw
