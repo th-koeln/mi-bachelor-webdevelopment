@@ -1,9 +1,7 @@
-FROM ruby
+FROM jekyll/jekyll:latest
 
-ADD . /srv/jekyll
+COPY . .
 
-RUN gem install bundler jekyll
-
-RUN jekyll build
+CMD ["jekyll","build"]
 
 EXPOSE 4000
