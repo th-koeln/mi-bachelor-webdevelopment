@@ -17,3 +17,7 @@ Heute sagen wir «Hallo», berichten kurz was in diesem Semester im Vertiefungsm
 - GIT Zugang konfigurieren und austesten
 - ein paar GIT Ernstfallübungen machen
 - Live Server austesten
+
+## Gitlab Instanz
+Wir nutzen due hübsche neue Gitlab Instanz der RWTH Aachen:  
+[Frontend Development Repos](https://git.rwth-aachen.de/ss2024/frontenddevelopment)
