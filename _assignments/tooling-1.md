@@ -1,5 +1,5 @@
 ---
-titel: Ugly Code Example
+titel: Kickoff Tooling
 tags:
   - Tooling
 published: true
@@ -11,12 +11,24 @@ Mit diesen Aufgaben wollen wir Ihnen einen kleinen Einblick in einige Features v
 
 ## Vorbereitung
 
+### Gitlab Account freischalten
+
+Schalten Sie Ihren Gitlab Account unter [git.rwth-aachen.de](https://git.rwth-aachen.de/) frei. Nutzen Sie dazu ihre Campus-Id Anmelde Daten.
+
 ### Extensions in Visual Studio Code
 
-Installiere folgende Extensions in VS Code. Alternativ suche und installiere die Extensions direkt in VS Code.
+Installieren Sie folgende Extensions in VS Code. Alternativ suche und installiere die Extensions direkt in VS Code.
+
+- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+
+Optional
 
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+- [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
+- [Live Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server)
+- [Custom Properties](https://marketplace.visualstudio.com/items?itemName=Tock.vscode-css-custom-properties)
+- [PlatformIO IDE](https://marketplace.visualstudio.com/items?itemName=platformio.platformio-ide)
+- [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
 
 ---
 
@@ -24,21 +36,37 @@ Installiere folgende Extensions in VS Code. Alternativ suche und installiere die
 
 ### 1. SSH Key Anlegen (30 min)
 
-1. Erstellen einen neuen SSH Key.
+- [SSH Key Generieren](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent?platform=mac)
+
+Öffnen Sie das Terminal und führen Sie die folgenden Befehle aus. Unter Windows können Sie alternativ auch Git Bash verwenden. Eine Passphrase muss nicht gesetzt werden.
+
+1. Erstellen einen neuen SSH Key. Ko
+
 ```bash
-ssh-keygen -t ed25519 -C "your_email@example.com" 
+ssh-keygen -t ed25519 -C "<comment>"
 ```
 
 2. Starte den SSH-Agenten im Hintergrund.
+
 ```bash
+# macOS
 eval "$(ssh-agent -s)"
 ```
 
-3. Überprüfe, ob eine `~/.ssh/config` Datei existiert. 
-```bash
-cat ~/.ssh/config
+```powershell
+# windows
+Get-Service -Name ssh-agent | Set-Service -StartupType Manual
+Start-Service ssh-agent
 ```
+
+3. Überprüfe, ob eine `~/.ssh/config` Datei existiert.
+
+```bash
+vim ~/.ssh/config
+```
+
 4. Falls die Datei nicht existiert, erstelle sie und ergänze folgende Zeilen.
+
 ```bash
 Host *
   AddKeysToAgent yes
@@ -46,79 +74,66 @@ Host *
 ```
 
 5. Hinterlege die neue Identität.
+
 ```bash
 ssh-add ~/.ssh/id_ed25519
 ```
 
-6. Öffne [github.com/settings/keys](https://github.com/settings/keys) und hinterlege den zuvor erstellten Key deinem Account.
+6. Öffne [git.rwth-aachen.de/-/profile/keys](https://git.rwth-aachen.de/-/profile/keys) und hinterlege den zuvor erstellten Key deinem Account.
+
 ```bash
 cat ~/.ssh/id_ed25519.pub
 ```
 
-### 2. Repository in GitHub anlegen. (15 min) 
+### 2. Repository in Gitlab forken. (15 min)
 
-1. Erstelle ein neues Repository mit dem Namen `webdev-tooling` in GitHub. Andere Einstellungen wie das Hinzufügen einer _README_ oder  _.gitignore_ Datei können ignoriert werden.
-2. Öffne das Terminal in VS Code und führe folgende Befehle aus. Alternativ kann sich auch an der Anleitung in dem zuvor erstellen Github-Repo orientieren.
+1. Forken Sie folgendes Repository [https://git.rwth-aachen.de/ss2024/frontenddevelopment/kickoff](https://git.rwth-aachen.de/ss2024/frontenddevelopment/kickoff) und fügen Sie es ihrem Gitlab Namespace hinzu.
+   Alle anderen Einstellungen können Sie auf den Standardwerten belassen. Anschließend clonen Sie das Repository und öffnen Sie es in VS Code.
+
+2. Navigieren Sie in ein gewünschtes Verzeichnis und führen Sie folgenden Befehle aus, um das Repository zu clonen und anschließend in VS Code zu öffnen.
 
 ```bash
-echo "# webdev-tooling" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin git@github.com:"username"/webdev-tooling.git
-git push -u origin main
+# Beispiel
+cd Desktop # Navigiere in das Desktop Verzeichnis
+git clone git@git.rwth-aachen.de:{username}/kickoff.git
+cd kickoff
+code . # Shell Command um VS Code zu öffnen
 ```
 
-### 3. Erste Website Erstellen (15 min)
+3. Erstellen Sie einen neuen Branch, um spätere Änderungen zu speichern.
 
-1. Lade das zuvor erstellte Repository über SSH mit `git clone git@github.com:"username"/webdev-tooling.git` herunter.
-2. Erstelle eine _index.html_ Datei und füge den Boilerplate Code mit dem Shortcut `!` hinzu.
-3. Wenn die Live Server Extension installiert und aktiviert ist, starte den Server unter _Go Live_.
-4. Editiere den Text innerhalb des `<body />` Tags, um Änderungen im Browser sehen zu können.
-5. Pushe die Änderungen in das Remote Repository auf Github.
+```bash
+git checkout -b kickoff
+```
+
+### 3. Änderungen auf Gitlab pushen (15 min)
+
+1. Öffnen Sie die `index.html` und ergänzen Sie folgende Zeile dem Body Tag in Zeile 15, um die `main.js` Datei mit dem HTML Dokument zu verknüpfen.
 
 ```html
-// Beispiel HTML Code
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
-    <script>
-      console.log("hello");
-    </script>
-    <style>
-      h1 {
-        color: red;
-      }
-    </style>
-  </head>
-  <body>
-    <h1>Hallo, Web Dev!</h1>
-  </body>
-</html>
+<script type="text/javascript" src="main.js"></script>
 ```
 
-### 4. Deployment mit GitHub Pages (10 min)
+2. Ändern Sie den Wert der `myName` Variable in der `main.js` Datei in einen beliebigen neuen Wert.
 
-1. Öffne die Einstellungen deines zuvor erstellten Repositories in Github und navigiere zu `github.com/{username}/webdev-tooling/settings/pages`.
-2. Unter _Build and deployment_ wähle den Main Branch und speichere, um den Deployment Prozess zu starten.
-3. Um den Status zu beobachten, navigiere zurück zur Startseite des Repositories. Ein Oranger Punkt neben der letzten Commit Message gibt Hinweis auf den Fortschritt.
-4. Unter `https://{username}.github.io/webdev-tooling/` sollte sich die Webseite nach dem Deployment aufrufen lassen.
+```javascript
+// Beispiel
+const myName = "Hello, World!";
+```
 
+3. Bestätigen Sie Ihre Änderungen im Browser, indem Sie den Live Server starten. Sind Sie mit Ihren Änderungen zufrieden, überprüfen Sie den Status Ihres Repositories und pushen Sie anschließend Ihre Änderungen ins Remote Repository auf Gitlab
 
+```bash
+# Beispiel
+git status
+git add .
+git commit -m "[FEATURE] link main.js to index.html"
+git push origin kickoff
+```
 
-### 5. Prettier Rc erstellen (30 min) (Bonus)
+4. Der Branch `kickoff` sollte nun auf Gitlab sichtbar sein. Öffnen Sie das Repository auf Gitlab und erstellen Sie einen Merge Request. Der Branch `kickoff` kann anschließend lokal gelöscht werden.
 
-Nachdem Sie die Prettier extension installiert und aktiviert haben, fügen Sie eine `.prettierrc` Ihrem Repository hinzu und ergänzen folgende Funktionalitäten:
-
-- Legen Sie die `tabWidth` auf _2_ fest.
-- Setze am Ende jeder Zeile ein Semikolon.
-- Ersetze `singleQutes` mit `doubleQuotes`.
-- Setze die `printWidth` auf _120_.
-- **[BONUS]** Ergänze `.prettierrc` um ein weiteres Attribut und teste dessen Auswirkung auf den Code.
-
-
+```bash
+git checkout main
+git branch -D kickoff
+```
