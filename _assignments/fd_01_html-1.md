@@ -5,7 +5,7 @@ tags:
  - HTML
 ---
 
-Wir werden zur Bearbeitung der Aufgaben GitHub Classroom nutzen. **Das Assignment, welches für diese Session erstellt wurde, ist über diesen [Einladungslink](https://classroom.github.com/a/1ocSJd2T) erreichbar.** Wenn Sie auf den Link klicken, wird automatisch ein Repository, auf Basis des Assignments, erstellt.
+Wir werden zur Bearbeitung der Aufgaben GitHub Classroom nutzen. **Das Assignment, welches für diese Session erstellt wurde, ist über diesen [Einladungslink](https://classroom.github.com/a/vhzxm6lR) erreichbar.** Wenn Sie auf den Link klicken, wird automatisch ein Repository, auf Basis des Assignments, erstellt.
 
 Klonen Sie bitte anschließend das Repository auf ihren Rechner und bearbeiten Sie die Aufgaben darin. Committen und pushen Sie ihre Änderungen in kurzen Intervallen in das entferne Repository, so dass eine **aussagekräfige Commit History** entsteht.
 
@@ -13,7 +13,7 @@ Klonen Sie bitte anschließend das Repository auf ihren Rechner und bearbeiten S
 
 ## 1.1: Inhalte auszeichnen
 
-Als Grundlage für die folgenden  dienen Inhalte von der Webseite [Chefkoch](https://www.chefkoch.de). Es geht um die Strukturierung einer Übersichts- und Rezeptseite.
+Als Grundlage für diese und die folgenden Aufgaben dient ein Projektergebnis welches im Rahmen von Screendesign im letzten Semester entstanden ist. Es geht um die Strukturierung einer Übersichts- und Rezeptseite.
 
 Der Inhalt befindet sich in Markdown-Dateien im Verzeichneis `_data/content/` und das Layout als PDF-Seiten im Verzeichnis `_data/mockups/`.
 
