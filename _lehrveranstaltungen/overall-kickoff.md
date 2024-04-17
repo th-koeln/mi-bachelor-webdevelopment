@@ -19,7 +19,7 @@ Heute sagen wir «Hallo», berichten kurz was in diesem Semester im Vertiefungsm
 - Live Server austesten
 
 ## Gitlab Instanz
-Wir nutzen due hübsche neue Gitlab Instanz der RWTH Aachen:  
+Wir nutzen die hübsche neue Gitlab Instanz der RWTH Aachen:  
 [Frontend Development Repos](https://git-ce.rwth-aachen.de/micgn/webdev/frontend-development)
 
 ## Miro Board
