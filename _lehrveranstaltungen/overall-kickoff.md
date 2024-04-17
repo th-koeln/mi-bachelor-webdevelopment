@@ -23,6 +23,7 @@ Wir nutzen die hübsche neue Gitlab Instanz der RWTH Aachen:
 [Frontend Development Repos](https://git-ce.rwth-aachen.de/micgn/webdev/frontend-development)
 
 ## Miro Board
+AUf dem Miro Board finden sich noch weitere nützliche Informationen zu kommenden Veranstaltungen.
 [Miro Board](https://miro.com/app/board/o9J_lJoMH-4=/)
 
 ## Übungen
