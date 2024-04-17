@@ -20,7 +20,10 @@ Heute sagen wir «Hallo», berichten kurz was in diesem Semester im Vertiefungsm
 
 ## Gitlab Instanz
 Wir nutzen due hübsche neue Gitlab Instanz der RWTH Aachen:  
-[Frontend Development Repos](https://git.rwth-aachen.de/ss2024/frontenddevelopment)
+[Frontend Development Repos](https://git-ce.rwth-aachen.de/micgn/webdev/frontend-development)
+
+## Miro Board
+[Miro Board](https://miro.com/app/board/o9J_lJoMH-4=/)
 
 ## Übungen
 Für die heutige Session haben wir ein paar Aufgaben vorbereitet die wir zusammen erarbeiten.
