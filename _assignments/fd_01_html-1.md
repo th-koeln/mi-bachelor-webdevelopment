@@ -26,7 +26,7 @@ root/
 │
 ├── pages/
 │   ├── about/
-│   │   └── about-the-project.html
+│       └── about-the-project.html
 │
 └── images/
 ```
