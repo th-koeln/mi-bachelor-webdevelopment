@@ -95,7 +95,7 @@ cat ~/.ssh/id_ed25519.pub
 ```bash
 # Beispiel
 cd Desktop # Navigiere in das Desktop Verzeichnis
-git clone git@git.rwth-aachen.de:{username}/kickoff.git
+git clone git@git-ce.rwth-aachen.de:{username}/kickoff.git
 cd kickoff
 code . # Shell Command um VS Code zu öffnen
 ```
