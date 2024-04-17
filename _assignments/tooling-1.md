@@ -13,7 +13,7 @@ Mit diesen Aufgaben wollen wir Ihnen einen kleinen Einblick in einige Features v
 
 ### Gitlab Account freischalten
 
-Schalten Sie Ihren Gitlab Account unter [git.rwth-aachen.de](https://git.rwth-aachen.de/) frei. Nutzen Sie dazu ihre Campus-Id Anmelde Daten.
+Schalten Sie Ihren Gitlab Account unter [git-ce.rwth-aachen.de](https://git-ce.rwth-aachen.de/) frei. Nutzen Sie dazu ihre Campus-Id Anmelde Daten.
 
 ### Extensions in Visual Studio Code
 
@@ -79,7 +79,7 @@ Host *
 ssh-add ~/.ssh/id_ed25519
 ```
 
-6. Öffne [git.rwth-aachen.de/-/profile/keys](https://git.rwth-aachen.de/-/profile/keys) und hinterlege den zuvor erstellten Key deinem Account.
+6. Öffne [git-ce.rwth-aachen.de/-/profile/keys](https://git-ce.rwth-aachen.de/-/profile/keys) und hinterlege den zuvor erstellten Key deinem Account.
 
 ```bash
 cat ~/.ssh/id_ed25519.pub
@@ -87,7 +87,7 @@ cat ~/.ssh/id_ed25519.pub
 
 ### 2. Repository in Gitlab forken. (15 min)
 
-1. Forken Sie folgendes Repository [https://git.rwth-aachen.de/ss2024/frontenddevelopment/kickoff](https://git.rwth-aachen.de/ss2024/frontenddevelopment/kickoff) und fügen Sie es ihrem Gitlab Namespace hinzu.
+1. Forken Sie folgendes Repository [git-ce.rwth-aachen.de/micgn/webdev/frontend-development/kickofff](https://git-ce.rwth-aachen.de/micgn/webdev/frontend-development/kickoff) und fügen Sie es ihrem Gitlab Namespace hinzu.
    Alle anderen Einstellungen können Sie auf den Standardwerten belassen. Anschließend clonen Sie das Repository und öffnen Sie es in VS Code.
 
 2. Navigieren Sie in ein gewünschtes Verzeichnis und führen Sie folgenden Befehle aus, um das Repository zu clonen und anschließend in VS Code zu öffnen.
