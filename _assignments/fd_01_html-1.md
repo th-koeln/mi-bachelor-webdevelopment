@@ -43,5 +43,5 @@ Kopieren Sie alle Bilder aus dem Verzeichnis `_data/assets/images` in den Ordner
 ## 1.4.: One Page Navigation
 Erstellen Sie am Anfang der About-Seite eine Onepage Navigation. Dabei sollen die Links mit den entsprechenden Überschriften verknüpft werden.
 
-## Aufgabe 1.5: Verlinkung erstellen
+## 1.5: Verlinkung erstellen
 Erstellen sie im Footer der Übersichtseite einen Link mit der Beschriftung „Über das Projekt” und verlinken sie die entsprechende Seite über eine absolute Referenz.
