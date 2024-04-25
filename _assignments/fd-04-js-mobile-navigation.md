@@ -15,8 +15,9 @@ Falls noch nicht vorhanden, fügen Sie die Hauptnavigation und eine Schaltfläch
 
 ![Abbildung mobile Navigation](/mi-bachelor-webdevelopment/assignments/images/mobile-navigation.png)
 
-### HTML und CSS für mobile Hauptnavigation
+### Code Snippets mobile Hauptnavigation
 
+HTML
 ```html
 <ul class="main-menu">
   <li><a href="./news.html">News</a></li>
@@ -26,6 +27,7 @@ Falls noch nicht vorhanden, fügen Sie die Hauptnavigation und eine Schaltfläch
 </ul>
 ```
 
+CSS
 ```css
 .main-menu {
   display: flex;
