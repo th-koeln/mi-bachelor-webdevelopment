@@ -13,7 +13,7 @@ Falls noch nicht vorhanden, fügen Sie die Hauptnavigation und eine Schaltfläch
 
 ### Abbildung mobile Navigation
 
-![Abbildung mobile Navigation](./images/mobile-navigation.png)
+![Abbildung mobile Navigation](images/mobile-navigation.png)
 
 ### HTML und CSS für mobile Hauptnavigation
 
