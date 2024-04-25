@@ -15,7 +15,7 @@ Falls noch nicht vorhanden, fügen Sie die Hauptnavigation und eine Schaltfläch
 
 ![Abbildung mobile Navigation](/mi-bachelor-webdevelopment/assignments/images/mobile-navigation.png)
 
-### Code Snippets mobile Hauptnavigation
+### Code Snippets - mobile Ansicht Hauptnavigation
 
 HTML
 ```html
