@@ -57,10 +57,7 @@ Damit StyleLint weiß wonach er Linten soll benötigen wir eine Konfigurations-D
     "extends": [
         "stylelint-config-standard",
         "stylelint-config-idiomatic-order"
-    ],
-    "rules": {
-        "indentation": 4
-    }
+    ]
 }
 ```
 Ich (der Autor dieser Aufgabe) bevorzuge eine Einrückung von 4 (und nicht 2) Spaces. Über die rules kann ich dieses Verhalten dem CSS-Linter mitteilen.
