@@ -19,7 +19,7 @@ Kopieren Sie in den zweite Abschnitt den Inhalt der Seite `about-the-project.htm
 ## Step 3
 Stylen Sie die Abschnitte so, dass sie übereinander liegen und nur der erste Abschnitt sichtbar ist.
 
-Anordnung der Abschnitte können Sie als Hilfestellung folgendes CSS Snippet nutzen:
+Für die Anordnung der Abschnitte können Sie als Hilfestellung folgendes CSS Snippet nutzen:
 
 ```css
 .tab-grid {
