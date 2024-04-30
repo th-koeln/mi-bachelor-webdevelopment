@@ -12,4 +12,4 @@ raum: siehe Wiki
 info: Heute geht es um IoT :-)
 ---
 
-Infos gibt es auf der [Website zum Kurs](https://moxd.io/iot2023) bzw. direkt im [Wiki](https://wiki.moxd.io/display/IOT2023/). Alles Nötige ist dort verlinkt.
+Infos gibt es im [Wiki](https://wiki.moxd.io/display/IOT2024/). Alles Nötige wie bspw. die [Agenda](https://wiki.moxd.io/display/IOT2024/Agenda+und+Zeitplan) ist dort verlinkt.
