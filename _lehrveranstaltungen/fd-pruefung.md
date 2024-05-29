@@ -4,7 +4,7 @@ kuerzel: fd
 verantwortlich: cn
 typ: fd
 pflicht: false
-termine: 2023-09-21 10:00
+termine: 2024-09-26 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 240

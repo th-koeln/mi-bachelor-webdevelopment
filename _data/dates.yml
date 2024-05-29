@@ -456,3 +456,81 @@ week-17:
     start: "09:00"
     end: "18:00"
     name: "Freitag"
+week-18:
+  day-1:
+    datum: "2024-09-09"
+    start: "09:00"
+    end: "18:00"
+    name: "Montag"
+  day-2:
+    datum: "2024-09-10"
+    start: "09:00"
+    end: "18:00"
+    name: "Dienstag"
+  day-3:
+    datum: "2024-09-11"
+    start: "09:00"
+    end: "18:00"
+    name: "Mittwoch"
+  day-4:
+    datum: "2024-09-12"
+    start: "09:00"
+    end: "18:00"
+    name: "Donnerstag"
+  day-5:
+    datum: "2024-09-13"
+    start: "09:00"
+    end: "18:00"
+    name: "Freitag"        
+week-19:
+  day-1:
+    datum: "2024-09-16"
+    start: "09:00"
+    end: "18:00"
+    name: "Montag"
+  day-2:
+    datum: "2024-09-17"
+    start: "09:00"
+    end: "18:00"
+    name: "Dienstag"
+  day-3:
+    datum: "2024-09-18"
+    start: "09:00"
+    end: "18:00"
+    name: "Mittwoch"
+  day-4:
+    datum: "2024-09-19"
+    start: "09:00"
+    end: "18:00"
+    name: "Donnerstag"
+  day-5:
+    datum: "2024-09-20"
+    start: "09:00"
+    end: "18:00"
+    name: "Freitag"    
+week-20:
+  day-1:
+    datum: "2024-09-23"
+    start: "09:00"
+    end: "18:00"
+    name: "Montag"
+  day-2:
+    datum: "2024-09-24"
+    start: "09:00"
+    end: "18:00"
+    name: "Dienstag"
+  day-3:
+    datum: "2024-09-25"
+    start: "09:00"
+    end: "18:00"
+    name: "Mittwoch"
+  day-4:
+    datum: "2024-09-26"
+    start: "09:00"
+    end: "18:00"
+    name: "Donnerstag"
+  day-5:
+    datum: "2024-09-27"
+    start: "09:00"
+    end: "18:00"
+    name: "Freitag"

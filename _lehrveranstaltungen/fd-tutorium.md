@@ -4,10 +4,10 @@ kuerzel: fd
 verantwortlich: chh
 typ: fd
 pflicht: false
-termine: 2023-06-07 15:00, 2023-06-14 15:00, 2023-06-21 15:00, 2023-06-28 15:00, 2023-07-05 15:00, 2023-09-07 15:00
+termine: 2024-09-11 14:00, 2024-09-18 14:00,
 empfohlene-voraussetzungen: 
 published: true
-dauer: 120
+dauer: 180
 raum: zoom-tutorium
 info: 
 ---
