@@ -16,7 +16,7 @@ In dieser Veranstaltung haben Sie die Möglichlichkeit die Assignments noch mal 
 
 ## Miro Board
 
-Auf dem [Miro Board](https://miro.com/app/board/o9J_lJoMH-4=/?moveToWidget=3458764598623572188&cot=14) könnt ihr gerne Fragen und Probleme einreichen, die wir dann gemeinsam besprechen können:
+Auf dem [Miro Board](https://miro.com/app/board/o9J_lJoMH-4=/?moveToWidget=3458764598623572188&cot=14) könnt ihr gerne Fragen und Probleme einreichen, die wir dann gemeinsam besprechen können.
 
 ## Zoom
 
