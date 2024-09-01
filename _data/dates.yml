@@ -481,7 +481,7 @@ week-18:
     datum: "2024-09-13"
     start: "09:00"
     end: "18:00"
-    name: "Freitag"        
+    name: "Freitag"
 week-19:
   day-1:
     datum: "2024-09-16"
@@ -507,7 +507,7 @@ week-19:
     datum: "2024-09-20"
     start: "09:00"
     end: "18:00"
-    name: "Freitag"    
+    name: "Freitag"
 week-20:
   day-1:
     datum: "2024-09-23"
