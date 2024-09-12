@@ -8,7 +8,8 @@ termine: 2024-09-25 16:00
 empfohlene-voraussetzungen:
 published: true
 dauer: 90
-raum: zoom-support
+raum: https://th-koeln.zoom.us/j/6078076173 Kenncode ist noss
+
 info:
 ---
 
