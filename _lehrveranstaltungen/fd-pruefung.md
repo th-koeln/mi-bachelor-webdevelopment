@@ -78,6 +78,11 @@ Wir vertrauen darauf, dass Sie diese Regeln respektieren und die Prüfung in Üb
 
 Bei Fragen oder Unklarheiten stehen wir Ihnen gerne zur Verfügung.
 
+## Material
+
+- [Screenmovie Layouts large](https://youtu.be/31-8EFoqyMs)
+- [Screenmovie Layouts small](https://youtu.be/Z7ArdKxvn2o)
+- [Layouts als Bilder und Texte](https://th-koeln.sciebo.de/s/olezG7hycXgqlXh) pw: fd-2024
 
 ## Tasks
 
