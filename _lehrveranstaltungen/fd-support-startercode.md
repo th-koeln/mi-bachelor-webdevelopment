@@ -14,3 +14,4 @@ info:
 ---
 
 Heute stellen wir den Startercode für die Prüfung vor und gehen sicher, dass selbiger bei allen läuft.
+- [Startercode Prüfung](https://classroom.github.com/a/qoLHA1uU)
