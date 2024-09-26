@@ -83,7 +83,15 @@ Bei Fragen oder Unklarheiten stehen wir Ihnen gerne zur Verfügung.
 ### Windows Fix
 Hier bauen wir die Buildchain aus und verzichten auf *linghtningcss*. Damit ist das CSS nicht ganz so kompatibel mit einiges älteren Browsern. Aber das sollte und für die Prüfung nicht stören. Folgende Änderungen sind erforderlich.
 
-Anpassung der package.json:
+Anpassung der Pfade zum CSS in folgenden Pfad:
+
+```
+/assets/styles/_combined-styles.css
+```
+
+Und dann nutzen wir den Live Server von VSCode.
+
+Wer trotzdem den Dev Server aus dem Repo nutzen möchste, müsste die *package.json* ändern:
 
 ```
 {
@@ -114,10 +122,4 @@ Anpassung der package.json:
     "stylelint-order": "^6.0.4"
   }
 }
-```
-
-Anpassung der Pfade zum CSS in folgenden Pfad:
-
-```
-/assets/styles/_combined-styles.css
 ```
