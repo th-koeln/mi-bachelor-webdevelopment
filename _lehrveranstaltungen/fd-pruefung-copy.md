@@ -6,7 +6,7 @@ typ: fd
 pflicht: false
 termine: 2024-09-26 10:00
 empfohlene-voraussetzungen: 
-published: true
+published: false
 dauer: 240
 raum: 3.216
 info: 
@@ -79,7 +79,14 @@ Wir vertrauen darauf, dass Sie diese Regeln respektieren und die Prüfung in Üb
 Bei Fragen oder Unklarheiten stehen wir Ihnen gerne zur Verfügung.
 
 
+## Material
+
+- [Screenmovie Layouts large](https://youtu.be/31-8EFoqyMs)
+- [Screenmovie Layouts small](https://youtu.be/Z7ArdKxvn2o)
+- [Layouts als Bilder und Texte](https://th-koeln.sciebo.de/s/olezG7hycXgqlXh) pw: fd-2024
+
 ## Tasks
+
 
 ### F1: HTML auf Validität prüfen
 
@@ -99,7 +106,7 @@ Storypoints: 3
 
 **HTML, CSS**
 
-### F3: Kleine Anpassung des Farbschemas
+### F3: Kleine Anpssung des Farbschemas
 
 Das Farbschema soll ein wenig angepasst werden, damit die Seite lebendiger ist. Alle Farben sind bereits in der `variabels.css` vorhanden.
 
@@ -246,48 +253,3 @@ Storypoints: 4
 
 
 
-## Support und Fixes
-
-### Windows Fix
-Hier bauen wir die Buildchain aus und verzichten auf *linghtningcss*. Damit ist das CSS nicht ganz so kompatibel mit einiges älteren Browsern. Aber das sollte und für die Prüfung nicht stören. Folgende Änderungen sind erforderlich.
-
-Anpassung der Pfade zum CSS in folgenden Pfad:
-
-```
-/assets/styles/_combined-styles.css
-```
-
-Und dann nutzen wir den Live Server von VSCode.
-
-Wer trotzdem den Dev Server aus dem Repo nutzen möchste, müsste die *package.json* ändern:
-
-```
-{
-  "name": "fd-exam-2024",
-  "version": "1.0.0",
-  "description": "Startercode for Frontend Development exam",
-  "main": "index.js",
-  "scripts": {
-    "server": "npx light-server -s . -w \"./**/**\"",
-    "lint": "stylelint assets/styles/**/*.css",
-    "lint:fix": "stylelint assets/styles/**/*.css --fix",
-    "dev": "npm-run-all --parallel server lint"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/mi-classroom/fd-html-und-css-cnoss"
-  },
-  "author": "Christian Noss",
-  "license": "ISC",
-  "devDependencies": {
-    "light-server": "^2.9.1",
-    "npm-run-all": "^4.1.5",
-    "onchange": "^7.1.0",
-    "recursive-copy-cli": "^1.0.20",
-    "stylelint": "^16.4.0",
-    "stylelint-config-idiomatic-order": "^10.0.0",
-    "stylelint-config-standard": "^36.0.0",
-    "stylelint-order": "^6.0.4"
-  }
-}
-```
