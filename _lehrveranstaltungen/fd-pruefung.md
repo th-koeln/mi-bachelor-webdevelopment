@@ -78,6 +78,174 @@ Wir vertrauen darauf, dass Sie diese Regeln respektieren und die Prüfung in Üb
 
 Bei Fragen oder Unklarheiten stehen wir Ihnen gerne zur Verfügung.
 
+
+## Tasks
+
+### F1: HTML auf Validität prüfen
+
+Prüfen Sie mit dem [W3C Validator](https://validator.w3.org/nu/#textarea) ob die *index.html* valide ist. Falls nicht, passen Sie bitte die Datei entsprechend an. 
+
+Dauer: 5min
+Storypoints: 2
+
+**HTML**
+
+### F2: Ablauf einklappbar machen
+
+Der Ablauf bei der Themenfindung (Vor der Arbeit, Während der Arbeit, Abschluss der Arbeit) soll einklappbar sein, damit die Seite nicht zu lang wird. Kleiner Tipp: das Details Element bringt fast alles erforderliche dafür mit.
+
+Dauer: 10min
+Storypoints: 3
+
+**HTML, CSS**
+
+### F3: Kleine Anpssung des Farbschemas
+
+Das Farbschema soll ein wenig angepasst werden, damit die Seite lebendiger ist. Alle Farben sind bereits in der `variabels.css` vorhanden.
+
+Dauer: 10min
+Storypoints: 2
+
+Es ist problematisch zu erkennen, was genau alles geändert werden muss.
+
+**CSS**
+
+### F4: Sektion «Thema vorschlagen» erstellen
+
+Im unteren Bereich soll ein Formular zum Vorschlagen von Themen integriert werden. Nutzen Sie dabei auch folgenden Einleitungstext:
+
+>  Haben Sie einen Themenwunsch oder -vorschlag? Ich suche vor allem nach Themen, die Interfaces im industriellen und musealen Kontext behandeln. Keine reinen Tech-Themen – Interfaces im Fokus! 
+
+Dauer: 20min
+Storypoints: 4
+
+**HTML, CSS**
+
+### F5: Sektion «Abgeschlossene Arbeiten» erstellen 
+
+Über der Sektion «Thema vorschlagen» soll die Sektion «Abgeschlossene Arbeiten» erstellt werden. Hier gibt es zwei mögliche Varianten, eine mit Javascript und eine ohne. Entscheiden Sie sich für eine Variante.
+
+#### Variante F5A: statisch für die ersten fünf Arbeiten.
+Erzeugen Sie mit statischem HTML eine entsprechende Übersicht für die aktuellsten fünf Einträge. Die Inhalte finden Sie in der `works.json` Datei im Wurzelverzeichnis.
+
+Dauer: 40min
+Storypoints: 5
+
+**HTML, CSS**
+
+#### Variante F5B: Dynamisch via Javascript.
+Erzeugen Sie die Übersicht mit allen Einträgen via Javascript. Die Inhalte finden Sie in der JSON Datei unter Material. Die URL für das JSON ist wie folgt:
+
+```
+http://0.0.0.0:4000/works.json
+```
+
+Dauer: 40min
+Storypoints: 8
+
+**HTML, CSS, JS**
+
+### F6: Seite für eine abgeschlossene Arbeit erstellen (Basisversion)
+
+Erzeugen Sie eine Beispielseite für eine abgeschlossene Arbeit. Verlinken Sie diese aus der Übersicht. Nutzen Sie dabei die Arbeit "Can I CAI?" von Nils Polarek. Die Inhalte finden Sie unter Material. Die HTML Seite ist mit einem Grundgerüst bereits im Verzeichnis `works` angelegt. In dieser Basisversion sollen die Bildstrecke und das YouTube Video noch nicht enthalten sein.
+
+Dauer: 40min
+Storypoints: 6
+
+**HTML, CSS**
+
+### F7: Bildstrecke für eine abgeschlossene Arbeit erstellen 
+
+Erzeugen Sie dynamisch via Javascript die Bildstrecke für die abgeschlossene Arbeit. Die Bilder finden Sie in folgendem Verzeichnis:
+
+```
+/works/n-pola/04-results/images
+```
+
+Die zugehörige JSON Datei unter:
+
+```
+http://0.0.0.0:4000/works/n-pola/04-results/images/metadata.json
+```
+
+Dauer: 30min
+Storypoints: 5
+
+**HTML, CSS, JS**
+
+
+### F8: Icons zu den Hauptüberschriften hinzufügen
+
+Fügen Sie zu den Überschriften auf der `index.html` Icons hinzu. Genutzt wird hier das [Icofont Iconset](https://icofont.com) und davon folgende Icons:
+
+- rocket
+- direction-sign
+- chart-flow-2
+- code
+- dart
+- magic
+
+Dauer: 5min
+Storypoints: 1
+
+**HTML, CSS**
+
+### F9: Sektion «Abgeschlossene Arbeiten» ausklappbar machen
+
+Bei der Übersicht in der Sektion «Abgeschlossene Arbeiten» sollen nur die ersten fünf Arbeiten gezeigt werden. Die weiteren Arbeiten sollen erst nach einem Klick auf den Button «Weitere Arbeiten anzeigen» angezeigt werden. 
+
+Dauer: 20min
+Storypoints: 5
+
+**HTML, CSS, JS**
+
+### F10: Bilder aus dem Projekt groß anzeigen
+
+Auf der Seite für eine abgeschlossene Arbeit sind unten Bilder integriert. Diese sollen via Klick groß angezeigt werden.
+
+Dauer: 40min
+Storypoints: 7
+
+**HTML, CSS, JS**
+
+### F11: Bilder aus dem Projekt als Slideshow anzeigen
+
+Auf der Seite für eine abgeschlossene Arbeit sind unten Bilder integriert. Diese sollen in der großen Anzeige als Slideshow angezeigt werden, so dass Nutzer:innnen via Klick direkt zum nächsten Bild kommen können.
+
+Dauer: 40min
+Storypoints: 9
+
+**HTML, CSS, JS**
+
+### F12: YouTube Video responsive integrieren
+
+Auf der Seite für eine abgeschlossene Arbeit soll unten ein YouTube Video integriert werden. Die Integration muss responsiv sein. Hier finden Sie das Video `https://www.youtube.com/watch?v=QXwDuePHw5U`
+
+Dauer: 10min
+Storypoints: 2
+
+**HTML, CSS**
+
+### F13: Adaptives Layout für Stammdaten bei fertigen Projekten
+
+Die Stammdaten zu einem Projekt sollen bei kleinen und mittleren Viewports unter der Überschrift angezeigt werden. Bei sehr großen Viewports sollen diese nach rechts neben den Text verschoben werden.
+
+Dauer: 10min
+Storypoints: 3
+
+**CSS**
+
+### F14: Elegante Übergänge bei den Form Labels
+
+Beim Formular in der Sektion «Thema vorschlagen» sollen die Label beim Klick in ein Formularfeld elegant animiert werden.
+
+Dauer: 20min
+Storypoints: 4
+
+**CSS**
+
+
+
 ## Support und Fixes
 
 ### Windows Fix
