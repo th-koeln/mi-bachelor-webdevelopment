@@ -1,10 +1,10 @@
 ---
 titel: Kickoff und Einführung in Docker
 kuerzel: fddw
-verantwortlich: hvn, mf
+verantwortlich: hvn, yb
 typ: fddw
 pflicht: false
-termine: 2024-06-12 10:00
+termine: 2025-04-03 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 420

@@ -1,7 +1,7 @@
 ---
 titel: Workshop 4
 kuerzel: fddw
-verantwortlich: hvn, mf
+verantwortlich: hvn, yb
 typ: fddw
 pflicht: false
 termine: 2024-07-25 10:00

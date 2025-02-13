@@ -1,10 +1,10 @@
 ---
 titel: Workshop 1
 kuerzel: fddw
-verantwortlich: hvn, mf
+verantwortlich: hvn, yb
 typ: fddw
 pflicht: false
-termine: 2024-06-21 10:00
+termine: 2025-04-11 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 420
