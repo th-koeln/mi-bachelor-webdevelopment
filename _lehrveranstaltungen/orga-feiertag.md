@@ -4,10 +4,10 @@ kuerzel: o-ft
 verantwortlich: cn
 typ: other
 pflicht: false
-termine: 2024-05-01 09:00, 2024-05-09 09:00, 2024-05-20 09:00, 2025-05-30 09:00
+termine: 2025-04-18 10:00, 2025-04-21 10:00, 2025-05-01 10:00, 2025-05-29 10:00, 2025-06-09 10:00, 2026-06-19 10:00
 empfohlene-voraussetzungen: 
 published: true
-dauer: 540
+dauer: 420
 info:
 ---
 

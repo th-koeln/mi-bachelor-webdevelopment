@@ -1,10 +1,10 @@
 ---
 titel: Workshop 3
 kuerzel: fddw
-verantwortlich: hvn, mf
+verantwortlich: hvn, yb
 typ: fddw
 pflicht: false
-termine: 2024-06-28 10:00
+termine: 2025-04-17 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 420

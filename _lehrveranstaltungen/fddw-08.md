@@ -1,10 +1,10 @@
 ---
 titel: TBD
 kuerzel: fddw
-verantwortlich: hvn, mf
+verantwortlich: hvn, yb
 typ: fddw
 pflicht: false
-termine: 2024-07-05 10:00
+termine: 2025-04-25 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 420
