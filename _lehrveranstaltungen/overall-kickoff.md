@@ -4,11 +4,11 @@ kuerzel: o-ft
 verantwortlich: alle
 typ: overall
 pflicht: false
-termine: 2024-04-17 13:00
+termine: 2025-04-02 14:00
 empfohlene-voraussetzungen: 
 published: true
-dauer: 240
-raum: 3.216
+dauer: 180
+raum: 0.505
 info:
 ---
 
