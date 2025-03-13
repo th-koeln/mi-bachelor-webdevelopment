@@ -818,31 +818,19 @@ $tt-grid-height: 60px;
 }
 
 .js-video {
-  height: 0;
-  padding-top: 25px;
-  padding-bottom: 56.5%;
-  position: relative;
-  overflow: hidden;
+  aspect-ratio: 16/9;
 
 }
 
-.js-video.widescreen {
-  padding-bottom: 56.34%;
-}
 
-.js-video.vimeo {
-  padding-top: 0;
-}
 
 .js-video embed,
 .js-video iframe,
 .js-video object,
 .js-video video {
-  top: 0;
-  left: 0;
+  aspect-ratio: 16/9;
   width: 100%;
-  height: 100%;
-  position: absolute;
+  height: auto;
 }
 
 
