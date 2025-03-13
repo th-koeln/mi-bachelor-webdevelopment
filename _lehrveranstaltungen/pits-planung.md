@@ -8,7 +8,7 @@ termine: 2025-04-01 13:00, 2025-04-08 13:00, 2025-04-15 13:00, 2025-04-22 13:00,
 empfohlene-voraussetzungen: 
 published: true
 dauer: 240
-raum: KDTS Labor
+raum: 1400 & KDTS Labor
 ---
 
 ## Infos für Studierende zum Vorgehen
@@ -17,4 +17,3 @@ Die Veranstaltungen finden dienstags nachmittags in Präsenz statt. Beratungster
 
 Bitte treten Sie dem u.g. ILU-Kurs bei. Die Freischaltung Ihres Beitritts erfolgt durch den Kursadministrator. Der Kurs enthält die Vorlesungs- und Praktikumsunterlagen. Es finden Online-Beratungs- und Besprechungstermine statt. Weiteres zum Vorgehen (bspw. Gruppenarbeit und Projektorganisation) finden Sie im Kurs (Datei oder Ordner README).
 
-[Ilias-Kurs Praktische IT Sicherheit mit aktuellen Informationen](https://ilias.th-koeln.de/goto.php?target=crs_772146&client_id=ILIAS_FH_Koeln)
