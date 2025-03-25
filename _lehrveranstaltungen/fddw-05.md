@@ -1,10 +1,10 @@
 ---
-titel: Workshop 2
+titel: Workshop 5
 kuerzel: fddw
-verantwortlich: hvn, yb
+verantwortlich: hvn, tl
 typ: fddw
 pflicht: false
-termine: 2025-04-16 10:00
+termine: 2025-05-02 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 420
@@ -13,4 +13,4 @@ info: Heute geht es um die Vorstellung der Konzepte
 ---
 ## Worum geht es?
 
-Einführung in JavaScript
+Weitere Informationen erhalten Sie hier [https://dws.gm.th-koeln.de/courses/fddw-ss2025/](https://dws.gm.th-koeln.de/courses/fddw-ss2025/)

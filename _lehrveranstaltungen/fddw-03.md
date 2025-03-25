@@ -1,10 +1,10 @@
 ---
-titel: Workshop 1
+titel: Workshop 3
 kuerzel: fddw
-verantwortlich: hvn, yb
+verantwortlich: hvn, tl
 typ: fddw
 pflicht: false
-termine: 2025-04-10 10:00
+termine: 2025-04-17 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 420
@@ -13,4 +13,4 @@ info: Heute geht es um Fragen zur Konzepterstellung
 ---
 ## Worum geht es?
 
-HTML-Formulare
+Weitere Informationen erhalten Sie hier [https://dws.gm.th-koeln.de/courses/fddw-ss2025/](https://dws.gm.th-koeln.de/courses/fddw-ss2025/)
