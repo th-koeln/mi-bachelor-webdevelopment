@@ -7,7 +7,7 @@ pflicht: false
 termine: 2025-04-03 10:00
 empfohlene-voraussetzungen: 
 published: true
-dauer: 420
+dauer: 240
 raum: fddw-vor-ort
 info: Heute geht es um Kick-Off der Veranstaltung
 ---
