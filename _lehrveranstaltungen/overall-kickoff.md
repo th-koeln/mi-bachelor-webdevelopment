@@ -12,21 +12,19 @@ raum: 0.505
 info:
 ---
 
-Heute sagen wir «Hallo», berichten kurz was in diesem Semester im Vertiefungsmodul passiert und stürzen uns dann in eine Tooling Session. Hier werden wir:
-- die IDE mit entsprechenden Extensions einrichten
-- GIT Zugang konfigurieren und austesten
-- ein paar GIT Ernstfallübungen machen
-- Live Server austesten
+Heute sagen wir «Hallo», berichten kurz was in diesem Semester im Vertiefungsmodul passiert und stürzen uns dann in eine Tooling Session. 
 
-## Gitlab Instanz
-Wir nutzen die hübsche neue Gitlab Instanz der RWTH Aachen:  
-[Frontend Development Repos](https://git-ce.rwth-aachen.de/micgn/webdev/frontend-development)
+Hier werden wir:
+- die IDE mit entsprechenden Extensions einrichten
+- GIT Zugang konfigurieren und testen
+- den GitHub Classroom kennenlernen und austesten
+
 
 ## Miro Board
 Auf dem Miro Board finden sich noch weitere nützliche Informationen zu kommenden Veranstaltungen.
 [Miro Board](https://miro.com/app/board/o9J_lJoMH-4=/)
 
 ## Übungen
-Für die heutige Session haben wir ein paar Aufgaben vorbereitet die wir zusammen erarbeiten.
+Für die heutige Session haben wir folgende Übung vorbereitet
 
 - [Kickoff Tooling](../../assignments/tooling-1/)
