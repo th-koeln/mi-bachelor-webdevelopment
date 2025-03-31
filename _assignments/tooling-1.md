@@ -29,7 +29,7 @@ Hinterlegen Sie den Public Key auf ihrem GitHub Account.
 
 ### Assignment annehmen
 
-Nehmen Sie folgendes Assignment an
+Nehmen Sie folgendes Assignment an.
 
 [GitHub Assignment](https://classroom.github.com/assignment-invitations/fe19652c9f8c2f43324ee49bb31dfe37)
 
