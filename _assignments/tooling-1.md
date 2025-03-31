@@ -12,17 +12,13 @@ Mit dieser kleinen Übung möchten wir Sie für die kommenden Web Development Se
 
 ## Übungen
 
-### GitHub Account anlegen
+### GitHub Account anlegen und konfigurieren
 
 Legen Sie sich einen GitHub Account an.  
 [GitHub Account anlegen](https://github.com/signup)
 
-### SSH Key anlegen
-
 Erstellen Sie lokal auf ihrer Maschine einen SSH Key.  
 [SSH Key generieren](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
-
-### SSH Key hinterlegen
 
 Hinterlegen Sie den Public Key auf ihrem GitHub Account.  
 [SSH Key auf GitHub hinterlegen](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
@@ -48,10 +44,3 @@ Nehmen Sie folgendes Assignment an.
   `git remote add origin git@github.com:mi-classroom/tooling-session-testproject-vschaefer.git`
 * Übertragen Sie die lokalen Änderungen in das Remote-Repository  
   `git push -u origin main`
-
-```
-# WebDev Testprojekt
-Dies ist ein Testprojekt für das Modul „Web Development”
-```
-
-Committen und pushen Sie anschließend die Änderungen.	
