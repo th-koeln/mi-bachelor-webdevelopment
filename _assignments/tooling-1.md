@@ -25,22 +25,22 @@ Hinterlegen Sie den Public Key auf ihrem GitHub Account.
 
 ### Assignment annehmen
 
-Nehmen Sie folgendes Assignment an.
+Nehmen Sie folgendes GitHub Classroom Assignment an:
 
 [GitHub Assignment](https://classroom.github.com/assignment-invitations/fe19652c9f8c2f43324ee49bb31dfe37)
 
 ### Repository erstellen, ersten Commit erstellen und pushen
 
-* Erstellen Sie ein lokales Verzeichnis 
-* Initialisieren Sie in diesem Verzeichnis ein Repository  
+* Erstellen Sie ein lokales Verzeichnis.
+* Initialisieren Sie in diesem Verzeichnis ein Repository.  
   `git init`
 * Erzeugen Sie darin eine `README.md` und befüllen Sie diese mit Text.  
   `echo "# tooling-session-testproject-vschaefer" >> README.md` 
-* fügen Sie die Readme Datei der Staging Area hinzu
+* fügen Sie die Readme Datei der Staging Area hinzu.  
   `git add README.md`
-* Commiten Sie die Änderungen  
+* Committen Sie die Änderungen.  
   `git commit -m "first commit"`
-* Verknüpfen Sie das lokale Repotitory mit dem Remote-Repository auf GitHub  
+* Verknüpfen Sie das lokale Repository mit dem Remote-Repository auf GitHub.  
   `git remote add origin git@github.com:mi-classroom/tooling-session-testproject-vschaefer.git`
-* Übertragen Sie die lokalen Änderungen in das Remote-Repository  
+* Übertragen Sie die lokalen Änderungen in das Remote-Repository.  
   `git push -u origin main`
