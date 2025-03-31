@@ -23,24 +23,17 @@ Erstellen Sie lokal auf ihrer Maschine einen SSH Key.
 Hinterlegen Sie den Public Key auf ihrem GitHub Account.  
 [SSH Key auf GitHub hinterlegen](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
 
-### Assignment annehmen
+### Assignment annehmen und Repository klonen
 
-Nehmen Sie folgendes GitHub Classroom Assignment an:
+Nehmen Sie folgendes GitHub Classroom Assignment an und klonen Sie anschließend das Repository auf ihren Computer.
 
-[GitHub Assignment](https://classroom.github.com/assignment-invitations/fe19652c9f8c2f43324ee49bb31dfe37)
+[GitHub Assignment](https://classroom.github.com/a/c43U_3Jb)
 
-### Repository erstellen, ersten Commit erstellen und pushen
 
-* Erstellen Sie ein lokales Verzeichnis.
-* Initialisieren Sie in diesem Verzeichnis ein Repository.  
-  `git init`
-* Erzeugen Sie darin eine `README.md` und befüllen Sie diese mit Text.  
-  `echo "# tooling-session-testproject-vschaefer" >> README.md` 
-* fügen Sie die Readme Datei der Staging Area hinzu.  
-  `git add README.md`
-* Committen Sie die Änderungen.  
-  `git commit -m "first commit"`
-* Verknüpfen Sie das lokale Repository mit dem Remote-Repository auf GitHub.  
-  `git remote add origin git@github.com:mi-classroom/tooling-session-testproject-vschaefer.git`
-* Übertragen Sie die lokalen Änderungen in das Remote-Repository.  
-  `git push -u origin main`
+### Commit erstellen und pushen
+Befüllen Sie die `README.md` Datei mit folgendem Inhalt
+```
+# WebDev Testprojekt
+Dies ist ein Testprojekt für das Modul „Web Development”
+```
+Committen Sie die Änderungen und übertragen Sie diese in das Remote Repostory in den `main` Branch.  
