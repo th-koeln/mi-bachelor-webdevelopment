@@ -14,7 +14,7 @@ Mit dieser kleinen Übung möchten wir Sie für die kommenden Web Development Se
 
 ### GitHub Account anlegen
 
-Legen Sie sich einen GitHub Account an  
+Legen Sie sich einen GitHub Account an. 
 [GitHub Account anlegen](https://github.com/signup)
 
 ### SSH Key anlegen und hinterlegen
