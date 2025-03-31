@@ -36,4 +36,4 @@ Befüllen Sie die `README.md` Datei mit folgendem Inhalt
 # WebDev Testprojekt
 Dies ist ein Testprojekt für das Modul „Web Development”
 ```
-Committen Sie die Änderungen und übertragen Sie diese in das Remote Repostory in den `main` Branch.  
+Committen Sie die Änderungen und übertragen Sie diese in das Remote Repository in den `main` Branch.  
