@@ -17,12 +17,12 @@ Mit dieser kleinen Übung möchten wir Sie für die kommenden Web Development Se
 Legen Sie sich einen GitHub Account an.  
 [GitHub Account anlegen](https://github.com/signup)
 
-### SSH Key anlegen und hinterlegen
+### SSH Key anlegen
 
 Erstellen Sie lokal auf ihrer Maschine einen SSH Key.  
 [SSH Key generieren](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 
-### SSH Key bei GitHub hinterlegen
+### SSH Key hinterlegen
 
 Hinterlegen Sie den Public Key auf ihrem GitHub Account.  
 [SSH Key auf GitHub hinterlegen](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
