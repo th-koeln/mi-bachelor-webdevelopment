@@ -15,7 +15,7 @@ info:
 Heute sagen wir «Hallo», berichten kurz was in diesem Semester im Vertiefungsmodul passiert und stürzen uns dann in eine Tooling Session. 
 
 Hier werden wir:
-- die IDE mit entsprechenden Extensions einrichten
+- die IDE einrichten
 - GIT Zugang konfigurieren und testen
 - den GitHub Classroom kennenlernen und austesten
 
