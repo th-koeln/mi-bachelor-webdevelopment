@@ -12,4 +12,4 @@ raum: siehe Wiki
 info: Heute geht es um IoT :-)
 ---
 
-Infos gibt es im [Wiki](https://wiki.moxd.io/display/IOT2025/). Alles Nötige wie bspw. die [Agenda](https://wiki.moxd.io/display/IOT2025/Agenda+und+Zeitplan) ist dort verlinkt.
+Infos gibt es auf [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&ref_id=560289). Alles Nötige wie bspw. die Agenda und das Material werden dort verlinkt.
