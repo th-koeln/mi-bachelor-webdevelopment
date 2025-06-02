@@ -4,9 +4,9 @@ kuerzel: o-ft
 verantwortlich: cn
 typ: other
 pflicht: false
-termine:  22021-06-04 09:00
+termine:  2025-06-19 09:00
 empfohlene-voraussetzungen: 
-published: false
+published: true
 dauer: 540
 info:
 ---
