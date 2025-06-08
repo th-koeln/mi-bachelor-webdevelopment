@@ -5,19 +5,19 @@ tags:
  - HTML
 ---
 
-Wir werden zur Bearbeitung der Aufgaben GitHub Classroom nutzen. **Das Assignment, welches für diese Session erstellt wurde, ist über diesen [Einladungslink](https://classroom.github.com/a/vhzxm6lR) erreichbar.** Wenn Sie auf den Link klicken, wird automatisch ein Repository, auf Basis des Assignments, erstellt.
+Wir werden zur Bearbeitung der Aufgaben GitHub Classroom nutzen. **Das Assignment, welches für diese Session erstellt wurde, ist über diesen [Link folgt](#) erreichbar.** Wenn Sie auf den Link klicken, wird automatisch ein Repository, auf Basis des Assignments, erstellt.
 
 Klonen Sie bitte anschließend das Repository auf ihren Rechner und bearbeiten Sie die Aufgaben darin. Committen und pushen Sie ihre Änderungen in kurzen Intervallen in das entferne Repository, so dass eine **aussagekräfige Commit History** entsteht.
 
 ---
 
-## 1.1: Inhalte auszeichnen
+## 1.1: Basis aufbauen
 
-Als Grundlage für diese und die folgenden Aufgaben dient ein Projektergebnis, welches im Rahmen von Screendesign im letzten Semester entstanden ist. Es geht um die Strukturierung der Projektübersichtsseite und der About-Seite.
+Als Grundlage für diese und die folgenden Übungen dienen Projektergebnisse, welche im Rahmen von Screendesign im letzten Semester entstanden sind. 
 
-Als Ausgangspunkt für die Übersichtsseite soll das Layout in der Datei `_data/mockups/Desktop/El-Fraygui-Kellner-Desktop-02.png` dienen und für die About-Seite die die Textdatei `_data/content/abaout/about-the-project.md`.
+Als Ausgangspunkt soll das Layout in der Datei `_data/mockups/biography-desktop.png` dienen 
 
-Erstellen Sie zunächst folgende Verzechnisstruktur
+Erstellen Sie zunächst folgende Verzechnisstruktur:
 
 ```
 root/
@@ -25,23 +25,26 @@ root/
 ├── index.html
 │
 ├── pages/
-│   ├── about/
-│       └── about-the-project.html
+│   ├── persons/
+│       └── lucas-cranach.html
 │
 └── images/
 ```
 
+Zunächst geht es um die Strukturierung der Biografie Seite `lucas-cranach.html` von Lucas Cranach der Ältere, Hans Cranach und Lucas Cranach der Jüngere.  
+Der Startseite `index.html` werden wir uns zu einem späteren Zeitpunkt widmen. Fügen Sie deshalb in der `index.html` nur das HTML Grundgerüst ein.
 
-Erzeugen Sie nun, auf Basis des Layouts und der Texte, semantisch sauberes Markup in den zuvor erstellten HTML-Dateien. Lassen Sie dabei noch Strukturelemente wie `div`, `section` und `header` außen vor.
+## 1.2: Inhalte auszeichnen
+Erzeugen Sie nun, auf Basis des Layouts und der Texte, semantisch sauberes Markup in der`lucas-cranach.html`. Lassen Sie dabei noch Strukturelemente wie `div`, `section` und `header` außen vor.
 
-## 1.2: Strukturelemente nutzen
-Reichern Sie nun die Dokumente mit semantischen Strukturelementen an. 
+## 1.3: Strukturelemente nutzen
+Reichern Sie nun das Dokument mit semantischen Strukturelementen an. 
 
-## 1.3: Bilder hinzufügen
-Kopieren Sie alle Bilder aus dem Verzeichnis `_data/assets/images` in den Ordner `images`. Fügen Sie nun die Bild-Elementen in der Übersichtsseite hinzu.
+## 1.4: Bilder hinzufügen
+Kopieren Sie alle Bilder aus dem Verzeichnis `_data/assets/images` in den Ordner `images`. Fügen Sie nun die Bild-Elementen hinzu.
 
-## 1.4.: One Page Navigation
-Erstellen Sie am Anfang der About-Seite eine Onepage Navigation. Dabei sollen die Links mit den entsprechenden Überschriften verknüpft werden.
+## 1.5.: One Page Navigation
+Erstellen Sie am Anfang der Seite eine Onepage Navigation. Dabei sollen die Links mit den entsprechenden Überschriften verknüpft werden.
 
-## 1.5: Verlinkung erstellen
-Erstellen sie im Footer der Übersichtseite einen Link mit der Beschriftung „Über das Projekt” und verlinken sie die entsprechende Seite über eine absolute Referenz.
+## 1.6: Verlinkung erstellen
+Verlinken Sie das Logo im Header und Footer jeweils mit der `index.html` und den Punkt „Lucas Cranach” mit der Datei `lucas-cranach.html`.
