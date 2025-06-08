@@ -24,11 +24,11 @@ root/
 │
 ├── index.html
 │
-├── pages/
-│   ├── persons/
-│       └── lucas-cranach.html
+├── persons/
+│   └── lucas-cranach.html
 │
-└── images/
+└── assets/
+    └── images/
 ```
 
 Zunächst geht es um die Strukturierung der Biografie Seite `lucas-cranach.html` von Lucas Cranach der Ältere, Hans Cranach und Lucas Cranach der Jüngere.  
