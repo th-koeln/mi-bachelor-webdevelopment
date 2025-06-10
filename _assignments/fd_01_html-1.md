@@ -43,8 +43,8 @@ Reichern Sie nun das Dokument mit semantischen Strukturelementen an.
 ## 1.4: Bilder hinzufügen
 Kopieren Sie alle Bilder aus dem Verzeichnis `_data/assets/images` in den Ordner `images`. Fügen Sie nun die Bild-Elementen hinzu.
 
-## 1.5.: One Page Navigation
-Erstellen Sie am Anfang der Seite eine Onepage Navigation. Dabei sollen die Links mit den entsprechenden Überschriften verknüpft werden.
+## 1.5: Onpage Navigation
+Erstellen Sie am Anfang der Seite eine Onpage Navigation. Dabei sollen die Links mit den entsprechenden Überschriften verknüpft werden.
 
 ## 1.6: Verlinkung erstellen
 Verlinken Sie das Logo im Header und Footer jeweils mit der `index.html` und den Punkt „Lucas Cranach” mit der Datei `lucas-cranach.html`.
