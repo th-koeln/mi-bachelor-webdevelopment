@@ -15,9 +15,9 @@ Klonen Sie bitte anschließend das Repository auf ihren Rechner und bearbeiten S
 
 Als Grundlage für diese und die folgenden Übungen dienen Projektergebnisse, welche im Rahmen von Screendesign im letzten Semester entstanden sind. 
 
-Als Ausgangspunkt soll das Layout in der Datei `_data/mockups/biography-desktop.png` dienen 
+Als Ausgangspunkt soll das Layout aus dem [Figma File](https://www.figma.com/design/l6l8mAzypybBocowkfVwfH/FD----SoSe-2025?node-id=184-2855&m=dev) dienen.
 
-Erstellen Sie zunächst folgende Verzechnisstruktur:
+Erstellen Sie zuerst folgende Verzechnisstruktur:
 
 ```
 root/
