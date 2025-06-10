@@ -14,21 +14,26 @@ Wir nutzen als Basis unser Markup von gestern. Bitte vorab noch mal alle Seiten 
 Reorganisieren Sie Ihr Projekt wie folgt:
 
 ```
-index.html
-about/
-  about-the-projekt.html
-images/
-assets/
-  images/
-  styles/
-    reset.css
-    fonts.css
-    icons.css
-    variables.css
-    base.css
-    components.css
-  fonts/
 
+root/
+│
+├── index.html
+│
+├── persons/
+│   └── lucas-cranach.html
+│
+└── assets/
+│   └── images/
+│
+└── styles
+│   └── reset.css
+│   ├── fonts.css
+│   ├── icons.css
+│   ├── variables.css
+│   ├── base.css
+│   ├── components.css
+└── fonts
+    
 ```
 
 ## 2.2: Überführung der Design Tokens
