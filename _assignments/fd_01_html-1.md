@@ -45,6 +45,8 @@ Reichern Sie nun das Dokument mit semantischen Strukturelementen an.
 ## 1.4: Bilder hinzufügen
 Kopieren Sie alle Bilder aus dem Verzeichnis `_data/assets/images` in den Ordner `images`. Fügen Sie nun die Bild-Elemente hinzu.
 
+Das fehlende Bild im `images` Ordner mit dem Dateinamen `lucas-cranach-der-juengere.jpg` befindet sich hier: [Bild aufrufen](https://lucascranach.org/application/files/1215/2121/1514/LucasCranachdJ.jpg)
+
 ## 1.5: Onpage Navigation
 Erstellen Sie am Anfang der Seite eine Onpage Navigation. Dabei sollen die Links mit den entsprechenden Überschriften verknüpft werden.
 
