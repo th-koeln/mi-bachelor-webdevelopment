@@ -34,7 +34,7 @@ root/
 Zunächst geht es um die Strukturierung der Biografie Seite `lucas-cranach.html` von Lucas Cranach der Ältere, Hans Cranach und Lucas Cranach der Jüngere.  
 Der Startseite `index.html` werden wir uns zu einem späteren Zeitpunkt widmen. Fügen Sie deshalb in der `index.html` nur das HTML Grundgerüst ein.
 
-Bitte validieren Sie die HTML Datei mit dem [W3C Markup Validation Service](https://validator.w3.org)
+Bitte validieren Sie die HTML Datei mit dem [W3C Markup Validation Service](https://validator.w3.org).
 
 ## 1.2: Inhalte auszeichnen
 Erzeugen Sie nun, auf Basis des Layouts und der Texte, semantisch sauberes Markup in der`lucas-cranach.html`. Lassen Sie dabei noch Strukturelemente wie `div`, `section` und `header` außen vor.
