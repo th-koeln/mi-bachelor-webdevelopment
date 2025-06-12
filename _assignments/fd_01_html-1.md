@@ -41,7 +41,7 @@ Erzeugen Sie nun, auf Basis des Layouts und der Texte, semantisch sauberes Marku
 Reichern Sie nun das Dokument mit semantischen Strukturelementen an. 
 
 ## 1.4: Bilder hinzufügen
-Kopieren Sie alle Bilder aus dem Verzeichnis `_data/assets/images` in den Ordner `images`. Fügen Sie nun die Bild-Elementen hinzu.
+Kopieren Sie alle Bilder aus dem Verzeichnis `_data/assets/images` in den Ordner `images`. Fügen Sie nun die Bild-Elemente hinzu.
 
 ## 1.5: Onpage Navigation
 Erstellen Sie am Anfang der Seite eine Onpage Navigation. Dabei sollen die Links mit den entsprechenden Überschriften verknüpft werden.
