@@ -38,7 +38,7 @@ root/
 
 ## 2.2: Überführung der Design Tokens
 
-Legen Sie nun wesentliche Angaben aus dem Figma File als [Custom Properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties) in der `variabels.css` an: Farben, Größen, Schriften, Schriftschnitte, Zeilenabstände, etc.
+Legen Sie nun wesentliche Angaben aus dem [Figma File](https://www.figma.com/design/l6l8mAzypybBocowkfVwfH/FD----SoSe-2025?node-id=186-1382&m=dev&t=KsDdZQaVAYlqhZ98-1) als [Custom Properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties) in der `variabels.css` an: Farben, Größen, Schriften, Schriftschnitte, Zeilenabstände, etc..
 
 ## 3: Mobile First Layout
 
