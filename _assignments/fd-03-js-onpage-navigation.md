@@ -28,6 +28,6 @@ Jede Sektion muss dabei ein eindeutiges data-title-Attribut enthalten:
 Erstellen Sie die JS Logik zur Generierung der Onpage Navigation:
 
 * iterieren Sie mit JavaScript über alle Sektionen, die ein data-title-Attribut besitzen
-* weisen Sie jeder dieser Sektionen automatisch eine eindeutige id zu (z. B. lucas-cranach-der-ältere, hans-cranach, etc.).
-* erzeuge Sie für jede dieser Sektionen ein Navigationselement innerhalb der Navigation.
-*	die Navigationspunkte sollen den Wert des jeweiligen data-title-Attributs anzeigen und zur entsprechenden Sektion verlinken.
+* weisen Sie jeder dieser Sektionen automatisch eine eindeutige id zu (z. B. lucas-cranach-der-ältere, hans-cranach, etc.)
+* erzeuge Sie für jede dieser Sektionen ein Navigationselement innerhalb der Navigation
+*	die Navigationspunkte sollen den Wert des jeweiligen data-title-Attributs anzeigen und zur entsprechenden Sektion verlinken
