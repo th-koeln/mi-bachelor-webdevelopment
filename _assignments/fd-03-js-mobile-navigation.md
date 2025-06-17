@@ -22,9 +22,9 @@ Binden Sie anschließend die JavaScript Datei in ihre `index.html` ein.
 
 ## Step 3
 
-Erzeugen Sie nun JavaScript Code in der `main.js`, welcher bei einem Klick auf den Hamburger Button die Hauptnavigation einblendet und im gleichen Zug das Hamburger Icon durch ein X austauscht wird..
+Erzeugen Sie nun JavaScript Code in der `main.js`, welcher bei einem Klick auf den Hamburger Button die Hauptnavigation einblendet und im gleichen Zug das Hamburger Icon durch ein X austauscht.
 
-Bei einem weiteren Klick soll die Hauptnavigation wieder ausgeblendet das Burger Icon angezeigt werden.
+Bei einem weiteren Klick soll die Hauptnavigation wieder ausgeblendet und das Burger Icon angezeigt werden.
 
 
 
