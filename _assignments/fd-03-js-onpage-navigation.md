@@ -12,9 +12,9 @@ In dieser Übung geht es darum die Onpage Navigation dynamisch anhand der Sektio
 Entfernen Sie die Navigationspunkte aus der Onpage Navigation.
 
 ## Step 2
-Reichern Sie das Element in das die Menupunkte generiert werden sollen und die einzelnen Sektionen des Hauptinhaltes mit Data Attributen an.
+Reichern Sie das Element, in das die Menüpunkte generiert werden sollen, sowie die einzelnen Sektionen des Hauptinhalts mit Data-Attributen an.
 
-Jede Sektion muss mit einem eindeutigen data-title Attribut versehen sein
+Jede Sektion muss dabei ein eindeutiges data-title-Attribut enthalten:
 
 ```
 <section data-title="Lucas Cranach der Ältere"> ... </section>
