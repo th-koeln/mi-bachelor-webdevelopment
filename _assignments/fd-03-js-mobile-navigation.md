@@ -9,7 +9,9 @@ tags:
 Nutzen Sie als Basis das Markup und die Styles aus der letzten Übung.
 
 ## Step 1
-Gleichen Sie den Header entsprechend dem Design aus dem Figmafile an. Stylen Sie die Hauptnavigation so sie sich in das bestehende Design gut einfügt. Die Navigationspunkte sollen vertikal untereinander angeordnet sein.
+Gleichen Sie den Header entsprechend dem Design aus dem Figma File an. 
+
+Stylen Sie die Hauptnavigation so, dass sie sich in das bestehende Design gut einfügt. Die Navigationspunkte sollen dabei vertikal untereinander angeordnet sein.
 
 
 ## Step 2
