@@ -6,7 +6,7 @@ tags:
  - JS
 ---
 
-In dieser Übung geht es darum die Onpage Navigation dynamisch, auf Basis der Sektionen des Hauptinhalts zu generieren.
+In dieser Übung geht es darum die Onpage Navigation dynamisch anhand der Sektionen des Hauptinhalts zu generieren.
 
 ## Step 1
 Entfernen Sie die Navigationspunkte aus der Onpage Navigation.
