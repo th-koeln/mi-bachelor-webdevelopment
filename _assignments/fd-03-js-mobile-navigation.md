@@ -12,7 +12,7 @@ Kopieren Sie die CSS Dateien aus folgendem Gist in ihr Projekt und binden Sie di
 
 Ergänzen Sie außerdem die biography-lucas-cranach.html um den Inhalt der header.html aus dem Gist.
 
-[👉 Gist anzeigen](https://gist.github.com/vschaefer/53668053574d911fa32a931d52d5d4aa)
+👉 [Gist anzeigen](https://gist.github.com/vschaefer/53668053574d911fa32a931d52d5d4aa)
 
 ## Step 2
 
