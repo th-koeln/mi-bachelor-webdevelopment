@@ -1,5 +1,5 @@
 ---
-titel: JavaScript - Tab Navigation
+titel: JavaScript - Onpage Navigation
 published: true
 tags:
  - CSS
@@ -17,17 +17,19 @@ Reichern Sie das Element, in das die Menüpunkte generiert werden sollen, sowie 
 Jede Sektion muss dabei ein eindeutiges data-title-Attribut enthalten:
 
 ```
-<section data-title="Lucas Cranach der Ältere"> ... </section>
-<section data-title="Hans Cranach"> ... </section>
-<section data-title="Lucas Cranach der Jüngere"> ... </section>
+<ul data-js-page-navigation-menu=""> ... </ul>
 
+<section data-js-page-navigation-section=""> ... </section>
 ```
 
 
 ## Step 3
-Erstellen Sie die JS Logik zur Generierung der Onpage Navigation:
+Erstellen Sie die JavaScript-Logik zur automatischen Generierung einer Onpage-Navigation basierend auf den Sektionen der Seite:
 
-* iterieren Sie mit JavaScript über alle Sektionen, die ein data-title-Attribut besitzen
-* weisen Sie jeder dieser Sektionen automatisch eine eindeutige id zu (z. B. lucas-cranach-der-ältere, hans-cranach, etc.)
-* erzeuge Sie für jede dieser Sektionen ein Navigationselement innerhalb der Navigation
-*	die Navigationspunkte sollen den Wert des jeweiligen data-title-Attributs anzeigen und zur entsprechenden Sektion verlinken
+* Iterieren Sie über alle Elemente, die das Attribut data-js-page-navigation-section besitzen.
+* Selektieren Sie innerhalb jeder Sektion die erste Überschrift.
+* Weisen Sie jeder Sektion eine eindeutige ID zu (z. B. lucas-cranach-der-aeltere, hans-cranach, etc.).
+* Erzeugen Sie für jede dieser Sektionen ein entsprechendes Navigationselement innerhalb der vorgesehenen Navigationsstruktur.
+* Die Navigationspunkte sollen:
+  *	den Text der jeweiligen Überschrift anzeigen.
+	*	als Link zur zugehörigen Sektion funktionieren (mittels `href="#sektion-id"`).
