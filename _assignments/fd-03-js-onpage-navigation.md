@@ -31,5 +31,5 @@ Erstellen Sie die JavaScript-Logik zur automatischen Generierung einer Onpage-Na
 * Weisen Sie jeder Sektion eine eindeutige ID zu (z. B. lucas-cranach-der-aeltere, hans-cranach, etc.).
 * Erzeugen Sie für jede dieser Sektionen ein entsprechendes Navigationselement innerhalb der vorgesehenen Navigationsstruktur.
 * Die Navigationspunkte sollen:
-  *	den Text der jeweiligen Überschrift anzeigen.
-	*	als Link zur zugehörigen Sektion funktionieren (mittels `href="#sektion-id"`).
+  * den Text der jeweiligen Überschrift anzeigen.
+  * als Link zur zugehörigen Sektion funktionieren (mittels `href="#sektion-id"`).
