@@ -2,17 +2,17 @@
 titel: JavaScript - Mobile Navigation
 published: true
 tags:
- - CSS
  - JS
 ---
 
 Nutzen Sie als Basis das Markup und die Styles aus der letzten Übung.
 
 ## Step 1
-Gleichen Sie den Header entsprechend dem Design aus dem Figma File an. 
+Kopieren Sie die CSS Dateien aus folgendem Gist in ihr Projekt und binden Sie diese in der Datei`biography-lucas-cranach.html` ein.
 
-Stylen Sie die Hauptnavigation so, dass sie sich in das bestehende Design gut einfügt. Die Navigationspunkte sollen dabei vertikal untereinander angeordnet sein.
+Ergänzen Sie außerdem die biography-lucas-cranach.html um den Inhalt der header.html aus dem Gist.
 
+[👉 Gist anzeigen](https://gist.github.com/vschaefer/53668053574d911fa32a931d52d5d4aa)
 
 ## Step 2
 
@@ -21,12 +21,6 @@ Erzeugen Sie einen `scripts` Ordner in ihrem Projekt und darin eine Datei `main.
 Binden Sie anschließend die JavaScript Datei in ihre `index.html` ein.
 
 ## Step 3
-
-Erzeugen Sie nun JavaScript Code in der `main.js`, welcher bei einem Klick auf den Hamburger Button die Hauptnavigation einblendet und im gleichen Zug das Hamburger Icon durch ein X austauscht.
-
-Bei einem weiteren Klick soll die Hauptnavigation wieder ausgeblendet und das Burger Icon angezeigt werden.
-
-
-
-
-
+Erstellen Sie in der main.js JavaScript-Code, der folgende Funktionalität ermöglicht:
+* Bei Auswahl des Hamburger-Buttons soll das Overlay mit der Hauptnavigation eingeblendet werden.
+* Bei Auswahl des „X”-Buttons soll das Overlay wieder geschlossen werden.
