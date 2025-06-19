@@ -8,7 +8,7 @@ tags:
 Nutzen Sie als Basis das Markup und die Styles aus der letzten Übung.
 
 ## Step 1
-Kopieren Sie die CSS Dateien aus dem [Gist](https://gist.github.com/vschaefer/53668053574d911fa32a931d52d5d4aa). in ihr Projekt und binden Sie diese in der Datei`biography-lucas-cranach.html` ein.
+Kopieren Sie die CSS Dateien aus dem [Gist](https://gist.github.com/vschaefer/53668053574d911fa32a931d52d5d4aa). in ihr Projekt und binden Sie diese in der Datei `biography-lucas-cranach.html` ein.
 
 Ergänzen Sie außerdem die biography-lucas-cranach.html um den Inhalt der header.html aus dem Gist.
 
