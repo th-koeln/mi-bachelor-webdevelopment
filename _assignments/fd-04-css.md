@@ -34,15 +34,18 @@ Wenn wir uns das Layout genauer ansehen, erkennen wir Optimierungspotenzial: Bei
 
 Um dies umzusetzen, nutzen wir im Kern die CSS-Eigenschaft max-width.
 
-## Step 3: Darstellung Lebenslauf und zweispaltige Bilder implementieren
+## Step 3: Zweispaltiges Layout für Content und On-Page Navigation
+Nun erzeugen wir für große Viewports ein zweispaltiges Layout wie im Entwurf vorgesehen. Hierfür nutzen wir vorzugsweise CSS Grid. CSS Flex würde auch funktionieren. 
+
+## Step 4: Darstellung Lebenslauf und zweispaltige Bilder implementieren
 
 Im zweiten Schritt optimieren Sie die Darstellung des Lebenslaufs sowie der zweispaltigen Bild-Layouts. Dabei stellt sich die Frage, ob Flexbox oder CSS Grid das jeweils geeignetere Layoutkonzept ist.
 
 Genau diesen Vergleich werden wir gemeinsam anstellen: Sie setzen beide Ansätze um und analysieren deren Vor- und Nachteile anhand konkreter Anwendungsszenarien.
 
-## Step 4: Navigation
+## Step 5: Navigation
 
 Jetzt widmen wir uns der Navigation. Es gibt zwei Varianten: eine On-Page-Navigation und eine Hauptnavigation. Beide müssen bei zunehmender Anzeigefläche sinnvoll platziert und übersichtlich angeordnet werden.
 
-## Step 5: Footer
+## Step 6: Footer
 Last but not least kümmern wir uns um den Footer. Dieser sollte selbstverständlich ebenfalls sauber gestaltet und strukturiert sein – idealerweise so, dass er sich harmonisch in das Raster einfügt. Genau das setzen wir jetzt um.
