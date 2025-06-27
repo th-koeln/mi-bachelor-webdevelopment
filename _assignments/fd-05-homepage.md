@@ -14,3 +14,4 @@ Heute widmen wir uns einigen Features auf der Startseite. Zum einen geht es um d
 - [Entwurf in Figma](https://www.figma.com/design/l6l8mAzypybBocowkfVwfH/FD----SoSe-2025?node-id=186-1382&m=dev&t=KsDdZQaVAYlqhZ98-1)
 - [Github Classroom Assignment](https://classroom.github.com/a/YIqdi8LV)
 - [Assets für die Startseite](https://th-koeln.sciebo.de/s/uCC4ZX8czSU3Rzl)
+- [Code Snippet Web Component](http://127.0.0.1:4000/mi-bachelor-webdevelopment/codesnippets/web-component/)
