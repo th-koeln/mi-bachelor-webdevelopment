@@ -4,6 +4,7 @@ published: true
 tags:
  - HTML
  - JavaScript
+ - Vue.js
 ---
 
 ## Ausgangspunkt & Zielsetzung
