@@ -19,5 +19,5 @@ In der Datei ist auch das grundlegende Markup für die Slideshow vorgegeben. Die
 
 
 ## Material
-- [Github Classroom Assignment]([#)](https://classroom.github.com/a/nTjBrbOy)
+- [Github Classroom Assignment](https://classroom.github.com/a/nTjBrbOy)
 
