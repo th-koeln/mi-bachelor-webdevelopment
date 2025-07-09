@@ -19,6 +19,5 @@ In der Datei ist auch das grundlegende Markup für die Slideshow vorgegeben. Die
 
 
 ## Material
-- [Entwurf in Figma](https://www.figma.com/design/l6l8mAzypybBocowkfVwfH/FD----SoSe-2025?node-id=186-1382&m=dev&t=KsDdZQaVAYlqhZ98-1)
-- [Github Classroom Assignment - noch verlinken](#)
+- [Github Classroom Assignment]([#)](https://classroom.github.com/a/nTjBrbOy)
 
