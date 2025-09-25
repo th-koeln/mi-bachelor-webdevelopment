@@ -273,5 +273,6 @@ Techniken: HTML, CSS, JS
 
 ## Bugfixes
 ### F11 B
-In der Datei `/_data/json/news.json` fehlt im Attribut-Wertpaar `"image": "cranach-in-basel",` die Dateiendung `.jpg`.
+In der Datei `/_data/json/news.json` fehlt im Attribut-Wertpaar  
+`"image": "cranach-in-basel",` die Dateiendung `.jpg`.
 
