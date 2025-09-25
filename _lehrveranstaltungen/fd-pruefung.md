@@ -268,4 +268,10 @@ Tipp: Die Verwendung des Details-Elements kann hier hilfreich sein und bringt ei
 
 Dauer: 45 Minuten  
 Storypoints: 6  
-Techniken: HTML, CSS, JS  
+Techniken: HTML, CSS, JS
+
+
+## Bugfixes
+### F11 B
+In der Datei `/_data/json/news.json` fehlt im Attribut-Wertpaar `"image": "cranach-in-basel",` die Dateiendung `.jpg`.
+
