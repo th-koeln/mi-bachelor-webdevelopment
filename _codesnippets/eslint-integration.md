@@ -57,6 +57,14 @@ Does your project use TypeScript? › [No] / Yes
 ```
 
 ```
+ℹ The config that you've selected requires the following dependencies:
+
+eslint, @eslint/js, globals
+? Would you like to install them now? › No / [Yes]
+```
+
+
+```
 ? How would you like to define a style for your project? …
 ❯ Use a popular style guide
   Answer questions about your style
