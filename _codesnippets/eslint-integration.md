@@ -28,8 +28,7 @@ Bitte die Fragen des Assistenten wie folgt beantworten:
 ```
 ? How would you like to use ESLint? …
   To check syntax only
-  To check syntax and find problems
-❯ To check syntax, find problems, and enforce code style
+❯ To check syntax and find problems
 ```
 
 ```
@@ -65,18 +64,11 @@ eslint, @eslint/js, globals
 
 
 ```
-? How would you like to define a style for your project? …
-❯ Use a popular style guide
-  Answer questions about your style
-  Inspect your JavaScript file(s)
-```
-
-```
-? Which style guide do you want to follow? …
-❯ Airbnb: https://github.com/airbnb/javascript
-  Standard: https://github.com/standard/standard
-  Google: https://github.com/google/eslint-config-google
-  XO: https://github.com/xojs/eslint-config-xo
+? Which package manager do you want to use? … 
+❯ npm
+  yarn
+  pnpm
+  bun
 ```
 
 ```
